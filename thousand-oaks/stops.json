@@ -1,0 +1,918 @@
+{
+  "data": {
+    "oaksmall_d": {
+      "lon": "-118.8871786",
+      "title": "Oaks Mall - Departure",
+      "stopId": "60001",
+      "tag": "oaksmall_d",
+      "lat": "34.1827087"
+    },
+    "hillvent_o": {
+      "lon": "-118.9117118",
+      "title": "Hillcrest Dr. west of Ventu Park Rd.",
+      "shortTitle": "Hillcrest Dr. west of Ventu Park",
+      "stopId": "60021",
+      "tag": "hillvent_o",
+      "lat": "34.1883729"
+    },
+    "hillarng_o": {
+      "lon": "-118.9185028",
+      "title": "Hillcrest Dr. At Amgen Ct.",
+      "shortTitle": "Hillcrest Dr. @ Amgen Ct.",
+      "stopId": "60005",
+      "tag": "hillarng_o",
+      "lat": "34.188069"
+    },
+    "hillartis_o": {
+      "lon": "-118.9229979",
+      "title": "Hillcrest Dr. west of Artisan Rd.",
+      "shortTitle": "Hillcrest Dr. west of Artisan",
+      "stopId": "60006",
+      "tag": "hillartis_o",
+      "lat": "34.18712"
+    },
+    "borcmich_o": {
+      "lon": "-118.9288279",
+      "title": "Borchard Rd. At Carob Dr. (NP LIbrary)",
+      "shortTitle": "Borchard @ Carob Dr. (NP LIbrary)",
+      "stopId": "60007",
+      "tag": "borcmich_o",
+      "lat": "34.180882"
+    },
+    "borcther_o": {
+      "lon": "-118.9377408",
+      "title": "Borchard Rd. At Theresa Dr.",
+      "shortTitle": "Borchard @ Theresa Dr.",
+      "stopId": "60008",
+      "tag": "borcther_o",
+      "lat": "34.17871"
+    },
+    "borcwend_o": {
+      "lon": "-118.9444717",
+      "title": "Borchard Rd. At Wendy Dr.",
+      "shortTitle": "Borchard @ Wendy Dr.",
+      "stopId": "60420",
+      "tag": "borcwend_o",
+      "lat": "34.1795359"
+    },
+    "borcpark_o": {
+      "lon": "-118.9506406",
+      "title": "Borchard Community Park",
+      "stopId": "60421",
+      "tag": "borcpark_o",
+      "lat": "34.1791129"
+    },
+    "dosvient_o": {
+      "lon": "-118.98201",
+      "title": "Dos Vientos Community Center",
+      "stopId": "60422",
+      "tag": "dosvient_o",
+      "lat": "34.1753099"
+    },
+    "reinkimb_o": {
+      "lon": "-118.9559369",
+      "title": "Reino Rd. north of Maurice Dr.",
+      "shortTitle": "Reino north of Maurice Dr.",
+      "stopId": "60010",
+      "tag": "reinkimb_o",
+      "lat": "34.169125"
+    },
+    "wendcorn_o": {
+      "lon": "-118.94344",
+      "title": "Wendy Dr at Corning St",
+      "shortTitle": "Wendy Dr @ Corning",
+      "stopId": "60424",
+      "tag": "wendcorn_o",
+      "lat": "34.1636499"
+    },
+    "lynnknol_o": {
+      "lon": "-118.9553404",
+      "title": "Lynn Rd At Knollwood Dr.",
+      "shortTitle": "Lynn @ Knollwood Dr.",
+      "stopId": "60423",
+      "tag": "lynnknol_o",
+      "lat": "34.16145"
+    },
+    "wenddona_o": {
+      "lon": "-118.9445799",
+      "title": "Wendy Dr. At Donald Ave.",
+      "shortTitle": "Wendy Dr. @ Donald",
+      "stopId": "60425",
+      "tag": "wenddona_o",
+      "lat": "34.1747799"
+    },
+    "borcwend_o_2": {
+      "lon": "-118.9444715",
+      "title": "Borchard Rd. At Wendy Dr.",
+      "shortTitle": "Borchard @ Wendy Dr.",
+      "stopId": "60426",
+      "tag": "borcwend_o_2",
+      "lat": "34.1795357"
+    },
+    "reinborc_o": {
+      "lon": "-118.952434",
+      "title": "Reino Rd. At Borchard Rd.",
+      "shortTitle": "Reino @ Borchard",
+      "stopId": "60013",
+      "tag": "reinborc_o",
+      "lat": "34.179496"
+    },
+    "reinless_o": {
+      "lon": "-118.9540299",
+      "title": "Reino Rd. At Lesser Dr. (NPHS)",
+      "shortTitle": "Reino @ Lesser Dr. (NPHS)",
+      "stopId": "60014",
+      "tag": "reinless_o",
+      "lat": "34.1861309"
+    },
+    "conejenn_o": {
+      "lon": "-118.9503502",
+      "title": "Old Conejo Rd. At Jenny Dr.",
+      "shortTitle": "Old Conejo @ Jenny Dr.",
+      "stopId": "60427",
+      "tag": "conejenn_o",
+      "lat": "34.19166"
+    },
+    "conewend_o": {
+      "lon": "-118.941785",
+      "title": "Old Conejo Rd. west of Wendy Dr.",
+      "shortTitle": "Old Conejo west of Wendy Dr.",
+      "stopId": "60015",
+      "tag": "conewend_o",
+      "lat": "34.189809"
+    },
+    "targcent_i": {
+      "lon": "-118.937695",
+      "title": "Broadbeck Dr. At Wendy Dr. / Target Shopping Center",
+      "shortTitle": "Broadbeck Dr. @ Wendy Dr. / Target Shopping Center",
+      "stopId": "60016",
+      "tag": "targcent_i",
+      "lat": "34.192661"
+    },
+    "telllawr_i": {
+      "lon": "-118.930982",
+      "title": "Teller Rd. west of Lawrence Dr.",
+      "shortTitle": "Teller west of Lawrence Dr.",
+      "stopId": "60017",
+      "tag": "telllawr_i",
+      "lat": "34.18982"
+    },
+    "hillranc_i": {
+      "lon": "-118.926432",
+      "title": "Hillcrest Dr. west of Rancho Conejo Bl.",
+      "stopId": "60018",
+      "tag": "hillranc_i",
+      "lat": "34.1868899"
+    },
+    "newbvent_i": {
+      "lon": "-118.912089",
+      "title": "Newbury Rd. west of Ventu Park Rd.",
+      "shortTitle": "Newbury west of Ventu Park",
+      "stopId": "60022",
+      "tag": "newbvent_i",
+      "lat": "34.183054"
+    },
+    "newbkell_i": {
+      "lon": "-118.9195305",
+      "title": "Newbury Rd. east of Kelley Rd. (CVHS)",
+      "shortTitle": "Newbury east of Kelley (CVHS)",
+      "stopId": "60428",
+      "tag": "newbkell_i",
+      "lat": "34.1838599"
+    },
+    "newbmich_i": {
+      "lon": "-118.92482",
+      "title": "Newbury Rd. north of Michael Dr.",
+      "shortTitle": "Newbury north of Michael Dr.",
+      "stopId": "60023",
+      "tag": "newbmich_i",
+      "lat": "34.1830439"
+    },
+    "venthill_i": {
+      "lon": "-118.911",
+      "title": "Ventu Park Rd. at Hillcrest Dr.",
+      "shortTitle": "Ventu Park @ Hillcrest Dr.",
+      "stopId": "60021",
+      "tag": "venthill_i",
+      "lat": "34.1871595"
+    },
+    "hilllynn_i": {
+      "lon": "-118.892762",
+      "title": "Hillcrest Dr. south of Lynn Rd.",
+      "shortTitle": "Hillcrest Dr. south of Lynn",
+      "stopId": "60429",
+      "tag": "hilllynn_i",
+      "lat": "34.184954"
+    },
+    "trancent_d": {
+      "lon": "-118.8611609",
+      "title": "City Transportation Center",
+      "stopId": "60404",
+      "tag": "trancent_d",
+      "lat": "34.174885"
+    },
+    "oaks": {
+      "lon": "-118.887156",
+      "title": "The Oaks",
+      "tag": "oaks",
+      "lat": "34.182699"
+    },
+    "lynngain": {
+      "lon": "-118.893768",
+      "title": "Lynn Rd. at Gainsborough Rd.",
+      "shortTitle": "Lynn @ Gainsborough",
+      "stopId": "60400",
+      "tag": "lynngain",
+      "lat": "34.1933286"
+    },
+    "losrhosp": {
+      "lon": "-118.883762",
+      "title": "Los Robles Hospital",
+      "stopId": "60033",
+      "tag": "losrhosp",
+      "lat": "34.207929"
+    },
+    "lynnarbo": {
+      "lon": "-118.8882433",
+      "title": "Lynn Rd. & Ave de los Arboles",
+      "shortTitle": "Lynn & de los Arboles",
+      "stopId": "60034",
+      "tag": "lynnarbo",
+      "lat": "34.2170918"
+    },
+    "olsecamp": {
+      "lon": "-118.8815227",
+      "title": "Olsen Rd. & Campus Dr.",
+      "shortTitle": "Olsen & Campus Dr.",
+      "stopId": "60035",
+      "tag": "olsecamp",
+      "lat": "34.2248836"
+    },
+    "olsemoun": {
+      "lon": "-118.8760319",
+      "title": "Olsen Rd. at Mountclef Bl.",
+      "shortTitle": "Olsen @ Mountclef Bl.",
+      "stopId": "60036",
+      "tag": "olsemoun",
+      "lat": "34.225715"
+    },
+    "olsemoor": {
+      "lon": "-118.869491",
+      "title": "Olsen Rd. at Moorpark Rd.",
+      "shortTitle": "Olsen @ Moorpark",
+      "stopId": "60401",
+      "tag": "olsemoor",
+      "lat": "34.227734"
+    },
+    "pedecall": {
+      "lon": "-118.8546579",
+      "title": "Pederson Rd. at Calle Almendro",
+      "shortTitle": "Pederson @ Calle Almendro",
+      "stopId": "60037",
+      "tag": "pedecall",
+      "lat": "34.219488"
+    },
+    "erbes": {
+      "lon": "-118.84276",
+      "title": "Erbes Rd. at Pederson Rd.",
+      "shortTitle": "Erbes @ Pederson",
+      "stopId": "60402",
+      "tag": "erbes",
+      "lat": "34.2159199"
+    },
+    "arbooakb": {
+      "lon": "-118.844745",
+      "title": "Ave. de los Arboles at Oakbrook Dr.",
+      "shortTitle": "Ave. de los Arboles @ Oakbrook Dr.",
+      "stopId": "60038",
+      "tag": "arbooakb",
+      "lat": "34.21144"
+    },
+    "arbocall": {
+      "lon": "-118.8573356",
+      "title": "Ave. de los Arboles at Calle Olivo (west)",
+      "shortTitle": "Ave. de los Arboles @ Calle Olivo (west)",
+      "stopId": "60040",
+      "tag": "arbocall",
+      "lat": "34.2153019"
+    },
+    "moorarbo": {
+      "lon": "-118.8684599",
+      "title": "Moorpark Rd. at Ave. de los Arboles",
+      "shortTitle": "Moorpark @ de los Arboles",
+      "stopId": "60041",
+      "tag": "moorarbo",
+      "lat": "34.2173647"
+    },
+    "flormoor": {
+      "lon": "-118.867923",
+      "title": "Ave. de las Flores & Moorpark Rd.",
+      "shortTitle": "Ave. de las Flores & Moorpark",
+      "stopId": "60042",
+      "tag": "flormoor",
+      "lat": "34.20865"
+    },
+    "florwave": {
+      "lon": "-118.857382",
+      "title": "Ave. de las Flores at Waverly Park",
+      "shortTitle": "Ave. de las Flores @ Waverly Park",
+      "stopId": "60043",
+      "tag": "florwave",
+      "lat": "34.205623"
+    },
+    "florbamb": {
+      "lon": "-118.8459735",
+      "title": "Ave. de las Flores at Bamboo Ct.",
+      "shortTitle": "Ave. de las Flores @ Bamboo Ct.",
+      "stopId": "60044",
+      "tag": "florbamb",
+      "lat": "34.2073887"
+    },
+    "florcerr": {
+      "lon": "-118.840192",
+      "title": "Ave. de las Flores at Los Cerritos MS",
+      "shortTitle": "Ave. de las Flores @ Los Cerritos MS",
+      "stopId": "60045",
+      "tag": "florcerr",
+      "lat": "34.20783"
+    },
+    "janslagr": {
+      "lon": "-118.8451496",
+      "title": "Janss Rd. at La Granada Dr.",
+      "shortTitle": "Janss @ La Granada Dr.",
+      "stopId": "60403",
+      "tag": "janslagr",
+      "lat": "34.1947999"
+    },
+    "teenseni": {
+      "lon": "-118.8544536",
+      "title": "Teen & Senior Centers",
+      "stopId": "60046",
+      "tag": "teenseni",
+      "lat": "34.2000689"
+    },
+    "hillranc": {
+      "lon": "-118.858827",
+      "title": "Hillcrest Dr. at Rancho Road (Encino Vista)",
+      "shortTitle": "Hillcrest Dr. @ Rancho (Encino Vista)",
+      "stopId": "60102",
+      "tag": "hillranc",
+      "lat": "34.18098"
+    },
+    "oaks_d": {
+      "lon": "-118.887099",
+      "title": "The Oaks",
+      "stopId": "60001",
+      "tag": "oaks_d",
+      "lat": "34.182744"
+    },
+    "wilbhill_o": {
+      "lon": "-118.8813255",
+      "title": "Wilbur Rd. at Hillcrest Dr.",
+      "shortTitle": "Wilbur @ Hillcrest Dr.",
+      "stopId": "60028",
+      "tag": "wilbhill_o",
+      "lat": "34.1815154"
+    },
+    "jansmark_o": {
+      "lon": "-118.8774023",
+      "title": "Janss Marketplace",
+      "stopId": "60029",
+      "tag": "jansmark_o",
+      "lat": "34.1839687"
+    },
+    "moorbraz": {
+      "lon": "-118.87523",
+      "title": "Moorpark Rd. & Brazil St.",
+      "shortTitle": "Moorpark & Brazil",
+      "stopId": "60030",
+      "tag": "moorbraz",
+      "lat": "34.1844197"
+    },
+    "moorwilb": {
+      "lon": "-118.874559",
+      "title": "Moorpark Rd. & Wilbur Rd.",
+      "shortTitle": "Moorpark & Wilbur",
+      "stopId": "00016",
+      "tag": "moorwilb",
+      "lat": "34.1880725"
+    },
+    "moorcone": {
+      "lon": "-118.869239",
+      "title": "Moorpark Rd. & Conejo Valley Plaza",
+      "shortTitle": "Moorpark & Conejo Valley Plaza",
+      "stopId": "00050",
+      "tag": "moorcone",
+      "lat": "34.1984319"
+    },
+    "jansmont": {
+      "lon": "-118.8637961",
+      "title": "Janss Rd. & Montgomery Rd.",
+      "shortTitle": "Janss & Montgomery",
+      "stopId": "00113",
+      "tag": "jansmont",
+      "lat": "34.1993797"
+    },
+    "janscvhs": {
+      "lon": "-118.8543801",
+      "title": "Janss Rd. at Conejo Valley High School",
+      "shortTitle": "Janss @ Conejo Valley High School",
+      "stopId": "00114",
+      "tag": "janscvhs",
+      "lat": "34.199668"
+    },
+    "erbsjans": {
+      "lon": "-118.8425784",
+      "title": "Erbes Rd. & Janss Rd.",
+      "shortTitle": "Erbes & Janss",
+      "stopId": "00115",
+      "tag": "erbsjans",
+      "lat": "34.1949954"
+    },
+    "florerbs": {
+      "lon": "-118.8400697",
+      "title": "Ave. de las Flores & Erbes Rd. (Cerritos MS)",
+      "shortTitle": "Ave. de las Flores & Erbes (Cerritos MS)",
+      "stopId": "00116",
+      "tag": "florerbs",
+      "lat": "34.2079239"
+    },
+    "flormoss": {
+      "lon": "-118.8465367",
+      "title": "Ave. de las Flores & Moss Ct.",
+      "stopId": "00117",
+      "tag": "flormoss",
+      "lat": "34.2072693"
+    },
+    "moorentr": {
+      "lon": "-118.868184",
+      "title": "Moorpark Rd. and Calle Entrar",
+      "shortTitle": "Moorpark & Calle Entrar",
+      "stopId": "00119",
+      "tag": "moorentr",
+      "lat": "34.2165375"
+    },
+    "lynnwild": {
+      "lon": "-118.8892493",
+      "title": "Lynn Rd. & Wildwood Ave",
+      "shortTitle": "Lynn & Wildwood",
+      "stopId": "00120",
+      "tag": "lynnwild",
+      "lat": "34.2215115"
+    },
+    "lynnmanz": {
+      "lon": "-118.890291",
+      "title": "Lynn Rd. & Camino Manzanas",
+      "shortTitle": "Lynn & Camino Manzanas",
+      "stopId": "60436",
+      "tag": "lynnmanz",
+      "lat": "34.1989428"
+    },
+    "gaintuol": {
+      "lon": "-118.8891102",
+      "title": "Gainsborough Rd. at Tuolumne Rd.",
+      "shortTitle": "Gainsborough @ Tuolumne",
+      "stopId": "60407",
+      "tag": "gaintuol",
+      "lat": "34.1918998"
+    },
+    "moorgain": {
+      "lon": "-118.8725196",
+      "title": "Moorpark Rd. at Gainsborough Rd.",
+      "shortTitle": "Moorpark @ Gainsborough",
+      "stopId": "60408",
+      "tag": "moorgain",
+      "lat": "34.1946803"
+    },
+    "wilbwarw": {
+      "lon": "-118.8756495",
+      "title": "Wilbur Rd. at Warwick Ave.",
+      "shortTitle": "Wilbur @ Warwick",
+      "stopId": "60409",
+      "tag": "wilbwarw",
+      "lat": "34.1867"
+    },
+    "wilbmari": {
+      "lon": "-118.8796875",
+      "title": "Wilbur Rd. at Marin St.",
+      "shortTitle": "Wilbur @ Marin",
+      "stopId": "60048",
+      "tag": "wilbmari",
+      "lat": "34.1832343"
+    },
+    "wilbthou": {
+      "lon": "-118.8828196",
+      "title": "Wilbur Rd. at W. Thousand Oaks Bl.",
+      "shortTitle": "Wilbur @ W. Thousand Oaks Bl.",
+      "stopId": "60410",
+      "tag": "wilbthou",
+      "lat": "34.1801504"
+    },
+    "thouranc_o": {
+      "lon": "-118.8574467",
+      "title": "Thousand Oaks Bl. at Rancho Rd.",
+      "shortTitle": "Thousand Oaks Bl. @ Rancho",
+      "stopId": "60053",
+      "tag": "thouranc_o",
+      "lat": "34.1783391"
+    },
+    "thouzuni_o": {
+      "lon": "-118.850574",
+      "title": "Thousand Oaks Bl. at Zuniga Ridge Pl.",
+      "shortTitle": "Thousand Oaks Bl. @ Zuniga Ridge Pl.",
+      "stopId": "60054",
+      "tag": "thouzuni_o",
+      "lat": "34.177003"
+    },
+    "civiarts_o": {
+      "lon": "-118.848226",
+      "title": "Civic Arts Plaza",
+      "stopId": "60055",
+      "tag": "civiarts_o",
+      "lat": "34.175698"
+    },
+    "thouskyl_o": {
+      "lon": "-118.8379353",
+      "title": "Thousand Oaks Bl. at Skyline Dr.",
+      "shortTitle": "Thousand Oaks Bl. @ Skyline Dr.",
+      "stopId": "60056",
+      "tag": "thouskyl_o",
+      "lat": "34.1704242"
+    },
+    "thouauto_o": {
+      "lon": "-118.832884",
+      "title": "Thousand Oaks Bl. at Auto Mall Dr.",
+      "shortTitle": "Thousand Oaks Bl. @ Auto Mall Dr.",
+      "stopId": "60057",
+      "tag": "thouauto_o",
+      "lat": "34.1663939"
+    },
+    "thoucord_o": {
+      "lon": "-118.8276354",
+      "title": "Thousand Oaks Bl. at Cord Ave.",
+      "shortTitle": "Thousand Oaks Bl. @ Cord",
+      "stopId": "60058",
+      "tag": "thoucord_o",
+      "lat": "34.1633272"
+    },
+    "agouwest_o": {
+      "lon": "-118.828718",
+      "title": "Agoura Rd. at Westlake Bl.",
+      "shortTitle": "Agoura @ Westlake Bl.",
+      "stopId": "60059",
+      "tag": "agouwest_o",
+      "lat": "34.151859"
+    },
+    "westtown_o": {
+      "lon": "-118.82592",
+      "title": "Townsgate Rd. east of Westlake Bl.",
+      "shortTitle": "Townsgate east of Westlake Bl.",
+      "stopId": "60062",
+      "tag": "westtown_o",
+      "lat": "34.1541"
+    },
+    "westthou_o": {
+      "lon": "-118.822558",
+      "title": "Westlake Bl. at Thousand Oaks Blvd.",
+      "shortTitle": "Westlake Bl. @ Thousand Oaks",
+      "stopId": "60063",
+      "tag": "westthou_o",
+      "lat": "34.161216"
+    },
+    "hilldues_o": {
+      "lon": "-118.8318909",
+      "title": "Hillcrest Dr. at Duesenberg Dr.",
+      "shortTitle": "Hillcrest Dr. @ Duesenberg Dr.",
+      "stopId": "60064",
+      "tag": "hilldues_o",
+      "lat": "34.1717579"
+    },
+    "hillcone_o": {
+      "lon": "-118.84213",
+      "title": "Hillcrest Dr. at Conejo School Rd.",
+      "shortTitle": "Hillcrest Dr. @ Conejo School",
+      "stopId": "60065",
+      "tag": "hillcone_o",
+      "lat": "34.179813"
+    },
+    "hillerbe_o": {
+      "lon": "-118.8478585",
+      "title": "Hillcrest Dr. at Erbes Rd.",
+      "shortTitle": "Hillcrest Dr. @ Erbes",
+      "stopId": "60066",
+      "tag": "hillerbe_o",
+      "lat": "34.1824998"
+    },
+    "hillcoli_o": {
+      "lon": "-118.8519188",
+      "title": "Hillcrest Dr. across from Colina MS",
+      "stopId": "60067",
+      "tag": "hillcoli_o",
+      "lat": "34.1826999"
+    },
+    "hillhous_i": {
+      "lon": "-118.863865",
+      "title": "Hillcrest Dr. at Houston Dr.",
+      "shortTitle": "Hillcrest Dr. @ Houston Dr.",
+      "stopId": "60068",
+      "tag": "hillhous_i",
+      "lat": "34.18161"
+    },
+    "hillhode_i": {
+      "lon": "-118.8689458",
+      "title": "Hillcrest Dr. at Hodencamp Rd.",
+      "shortTitle": "Hillcrest Dr. @ Hodencamp",
+      "stopId": "60069",
+      "tag": "hillhode_i",
+      "lat": "34.18126"
+    },
+    "hillmoor_i": {
+      "lon": "-118.874457",
+      "title": "Hillcrest Dr. east of Moorpark Rd.",
+      "shortTitle": "Hillcrest Dr. east of Moorpark",
+      "stopId": "60070",
+      "tag": "hillmoor_i",
+      "lat": "34.18107"
+    },
+    "hillmari_i": {
+      "lon": "-118.8839396",
+      "title": "Hillcrest Dr. at Marin St.",
+      "shortTitle": "Hillcrest Dr. @ Marin",
+      "stopId": "60070",
+      "tag": "hillmari_i",
+      "lat": "34.1830597"
+    },
+    "hillmccl_i": {
+      "lon": "-118.887059",
+      "title": "Hillcrest Dr. at McCloud Av.",
+      "shortTitle": "Hillcrest Dr. @ McCloud",
+      "stopId": "60071",
+      "tag": "hillmccl_i",
+      "lat": "34.186969"
+    },
+    "hillshad_i": {
+      "lon": "-118.9183504",
+      "title": "Hillcrest Dr. at Shady Oaks Dr",
+      "shortTitle": "Hillcrest Dr. @ Shady Oaks Dr",
+      "stopId": "60005",
+      "tag": "hillshad_i",
+      "lat": "34.1878599"
+    },
+    "hillarti_i": {
+      "lon": "-118.921541",
+      "title": "Hillcrest Dr. At Artisan Rd.",
+      "shortTitle": "Hillcrest Dr. @ Artisan",
+      "stopId": "60006",
+      "tag": "hillarti_i",
+      "lat": "34.1871859"
+    },
+    "hillvent_i": {
+      "lon": "-118.91219",
+      "title": "Hillcrest Dr at Ventu Park Rd.",
+      "shortTitle": "Hillcrest Dr @ Ventu Park",
+      "stopId": "60077",
+      "tag": "hillvent_i",
+      "lat": "34.18821"
+    },
+    "thoubake_i": {
+      "lon": "-118.8739",
+      "title": "Thousand Oaks Bl. at Baker Ave.",
+      "shortTitle": "Thousand Oaks Bl. @ Baker",
+      "tag": "thoubake_i",
+      "lat": "34.17915"
+    },
+    "thouhode_i": {
+      "lon": "-118.8681592",
+      "title": "Thousand Oaks Bl. at Hodencamp Rd.",
+      "shortTitle": "Thousand Oaks Bl. @ Hodencamp",
+      "stopId": "60083",
+      "tag": "thouhode_i",
+      "lat": "34.17852"
+    },
+    "thoutayl_i": {
+      "lon": "-118.862009",
+      "title": "Thousand Oaks Bl. at Taylor Ct.",
+      "shortTitle": "Thousand Oaks Bl. @ Taylor Ct.",
+      "stopId": "60084",
+      "tag": "thoutayl_i",
+      "lat": "34.17944"
+    },
+    "thou23fwy_o": {
+      "lon": "-118.860576",
+      "title": "Thousand Oaks Bl. at 23 Fwy.",
+      "shortTitle": "Thousand Oaks Bl. @ 23 Fwy.",
+      "stopId": "60089",
+      "tag": "thou23fwy_o",
+      "lat": "34.1793488"
+    },
+    "thouhode_o": {
+      "lon": "-118.8690592",
+      "title": "Thousand Oaks Bl. at Hodencamp Rd.",
+      "shortTitle": "Thousand Oaks Bl. @ Hodencamp",
+      "stopId": "60090",
+      "tag": "thouhode_o",
+      "lat": "34.1786899"
+    },
+    "thoubake_o": {
+      "lon": "-118.8738878",
+      "title": "Thousand Oaks Bl. at Baker Ave.",
+      "shortTitle": "Thousand Oaks Bl. @ Baker",
+      "stopId": "60431",
+      "tag": "thoubake_o",
+      "lat": "34.1792545"
+    },
+    "125thou_o": {
+      "lon": "-118.8805579",
+      "title": "125 W. Thousand Oaks Bl.",
+      "stopId": "60091",
+      "tag": "125thou_o",
+      "lat": "34.1785792"
+    },
+    "80hill_o": {
+      "lon": "-118.874858",
+      "title": "80 E. Hillcrest Drive",
+      "stopId": "60098",
+      "tag": "80hill_o",
+      "lat": "34.1809711"
+    },
+    "hillboar_o": {
+      "lon": "-118.87206",
+      "title": "Hillcrest Dr. at Boardwalk Av.",
+      "shortTitle": "Hillcrest Dr. @ Boardwalk",
+      "stopId": "60099",
+      "tag": "hillboar_o",
+      "lat": "34.1811299"
+    },
+    "hillhode_o": {
+      "lon": "-118.8688606",
+      "title": "Hillcrest Dr. at Hodencamp Rd.",
+      "shortTitle": "Hillcrest Dr. @ Hodencamp",
+      "stopId": "60100",
+      "tag": "hillhode_o",
+      "lat": "34.1810699"
+    },
+    "hillhous_o": {
+      "lon": "-118.8639117",
+      "title": "Hillcrest Dr. at Houston Dr.",
+      "shortTitle": "Hillcrest Dr. @ Houston Dr.",
+      "stopId": "60101",
+      "tag": "hillhous_o",
+      "lat": "34.1814798"
+    },
+    "hillranc_o": {
+      "lon": "-118.85883",
+      "title": "Hillcrest Dr. at Rancho Road (Encino Vista)",
+      "shortTitle": "Hillcrest Dr. @ Rancho (Encino Vista)",
+      "stopId": "60102",
+      "tag": "hillranc_o",
+      "lat": "34.18098"
+    },
+    "hillcone_i": {
+      "lon": "-118.84063",
+      "title": "Hillcrest Dr. at Conejo School Dr.",
+      "shortTitle": "Hillcrest Dr. @ Conejo School Dr.",
+      "stopId": "60432",
+      "tag": "hillcone_i",
+      "lat": "34.17884"
+    },
+    "hillskyl_i": {
+      "lon": "-118.8373011",
+      "title": "Hillcrest Dr. west of Skyline Dr.",
+      "stopId": "60104",
+      "tag": "hillskyl_i",
+      "lat": "34.1748209"
+    },
+    "hilldues_i": {
+      "lon": "-118.8333",
+      "title": "Hillcrest Dr. at Duesenberg Dr.",
+      "shortTitle": "Hillcrest Dr. @ Duesenberg Dr.",
+      "stopId": "60105",
+      "tag": "hilldues_i",
+      "lat": "34.1721999"
+    },
+    "hillwest_i": {
+      "lon": "-118.8205516",
+      "title": "Hillcrest Dr. at Westlake Bl.",
+      "shortTitle": "Hillcrest Dr. @ Westlake Bl.",
+      "stopId": "60106",
+      "tag": "hillwest_i",
+      "lat": "34.17072"
+    },
+    "westmead_i": {
+      "lon": "-118.82276",
+      "title": "Westlake Bl. at north of Meadow Gate St.",
+      "shortTitle": "Westlake Bl. @ north of Meadow Gate",
+      "stopId": "60107",
+      "tag": "westmead_i",
+      "lat": "34.1629999"
+    },
+    "thoulake_i": {
+      "lon": "-118.8176379",
+      "title": "Thousand Oaks Bl. at Lakeview Cyn Rd.",
+      "shortTitle": "Thousand Oaks Bl. @ Lakeview Cyn",
+      "stopId": "60108",
+      "tag": "thoulake_i",
+      "lat": "34.1586022"
+    },
+    "merilake_i": {
+      "lon": "-118.8156699",
+      "title": "Via Merida east of Lakeview Cyn Rd.",
+      "shortTitle": "Via Merida east of Lakeview Cyn",
+      "stopId": "60109",
+      "tag": "merilake_i",
+      "lat": "34.15564"
+    },
+    "agouvill_i": {
+      "lon": "-118.8256338",
+      "title": "Agoura Rd. at Village Glen Av.",
+      "shortTitle": "Agoura @ Village Glen",
+      "stopId": "60110",
+      "tag": "agouvill_i",
+      "lat": "34.1507172"
+    },
+    "westtown_i": {
+      "lon": "-118.82766",
+      "title": "Westlake Bl. at Townsgate Rd.",
+      "shortTitle": "Westlake Bl. @ Townsgate",
+      "stopId": "60062",
+      "tag": "westtown_i",
+      "lat": "34.15385"
+    },
+    "agoulake_i": {
+      "lon": "-118.8197799",
+      "title": "Agoura Rd. at Lakeview Cyn Rd.",
+      "shortTitle": "Agoura @ Lakeview Cyn",
+      "stopId": "60110",
+      "tag": "agoulake_i",
+      "lat": "34.1483299"
+    },
+    "thoucord_i": {
+      "lon": "-118.8275292",
+      "title": "Thousand Oaks Bl. at Cord Av.",
+      "shortTitle": "Thousand Oaks Bl. @ Cord",
+      "stopId": "60112",
+      "tag": "thoucord_i",
+      "lat": "34.1635095"
+    },
+    "thoudues_i": {
+      "lon": "-118.8331199",
+      "title": "Thousand Oaks Bl. at Duesenberg Dr.",
+      "shortTitle": "Thousand Oaks Bl. @ Duesenberg Dr.",
+      "stopId": "60113",
+      "tag": "thoudues_i",
+      "lat": "34.1669799"
+    },
+    "thouskyl_i": {
+      "lon": "-118.83839",
+      "title": "Thousand Oaks Bl. at Skyline Dr.",
+      "shortTitle": "Thousand Oaks Bl. @ Skyline Dr.",
+      "stopId": "60114",
+      "tag": "thouskyl_i",
+      "lat": "34.17106"
+    },
+    "thougard_i": {
+      "lon": "-118.8483599",
+      "title": "Thousand Oaks Bl. at Gardens of the World",
+      "shortTitle": "Thousand Oaks Bl. @ Gardens of the World",
+      "stopId": "60115",
+      "tag": "thougard_i",
+      "lat": "34.1760099"
+    },
+    "thouerbe_i": {
+      "lon": "-118.8522194",
+      "title": "Thousand Oaks Bl. at west of Erbes Road",
+      "shortTitle": "Thousand Oaks Bl. @ west of Erbes",
+      "stopId": "60116",
+      "tag": "thouerbe_i",
+      "lat": "34.1782274"
+    },
+    "moormetro_a": {
+      "lon": "-118.878153",
+      "title": "Moorpark Metrolink Station North Gate - Arrival",
+      "tag": "moormetro_a",
+      "lat": "34.2853459"
+    },
+    "moormetro_d": {
+      "lon": "-118.877",
+      "title": "Moorpark Metrolink Station North Gate",
+      "tag": "moormetro_d",
+      "lat": "34.285345"
+    },
+    "olsemoun_2": {
+      "lon": "-118.87597",
+      "title": "Olsen Rd. at Mountclef Bl.",
+      "shortTitle": "Olsen @ Mountclef Bl.",
+      "stopId": "60406",
+      "tag": "olsemoun_2",
+      "lat": "34.22586"
+    },
+    "oaksmall2_d": {
+      "lon": "-118.8871786",
+      "title": "Oaks Mall - Departure",
+      "stopId": "60001",
+      "tag": "oaksmall2_d",
+      "lat": "34.1827091"
+    }
+  },
+  "copyright": "All data copyright Thousand Oaks Transit (TOT) 2018."
+}

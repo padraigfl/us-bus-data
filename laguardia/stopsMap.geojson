@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Term Parking 1",
+        "tag": "longpark",
+        "stopId": "0131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.883375,
+          40.776221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Term Parking 2",
+        "tag": "longpark2",
+        "stopId": "0132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.882594,
+          40.7777961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Term Parking 3",
+        "tag": "longpark3",
+        "stopId": "0133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8838933,
+          40.7789029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Term Parking 4",
+        "tag": "longpark4",
+        "stopId": "0134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.883714,
+          40.777566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal A",
+        "tag": "trma",
+        "stopId": "0110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8862536,
+          40.7732683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal D",
+        "tag": "termd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8617758,
+          40.768033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal C",
+        "tag": "termc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8643363,
+          40.7700142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal B Bus Stop",
+        "tag": "hang3bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.872797,
+          40.774011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fuel Farm",
+        "tag": "fuelfarm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8875639,
+          40.7723416
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright LaGuardia Airport Employee Shuttle 2018."
+}

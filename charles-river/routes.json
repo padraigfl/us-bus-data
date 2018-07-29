@@ -1,0 +1,134 @@
+{
+  "data": {
+    "evening": {
+      "title": "Evening",
+      "color": "9400d3",
+      "tag": "evening",
+      "oppositeColor": "ffffff",
+      "max": [
+        42.3711091,
+        -71.063993
+      ],
+      "min": [
+        42.3584777,
+        -71.1060261
+      ],
+      "stops": {
+        "Inbound-North_Station": [
+          "erie_d",
+          "cambbroo",
+          "paciland_ib",
+          "univland",
+          "massland",
+          "albaport",
+          "techmain",
+          "kendsq_ib_d",
+          "broagali_ib",
+          "6th_ib",
+          "3rd_ib",
+          "1st_ib",
+          "lech_ib",
+          "npoin_ib",
+          "muse_ib"
+        ],
+        "Outbound-Cambridgeport": [
+          "nstat_d",
+          "muse",
+          "npoin",
+          "lech",
+          "1st",
+          "2nd",
+          "6th",
+          "broagali_ob",
+          "kendsq_d",
+          "amhesloa",
+          "mass77",
+          "albaedge",
+          "pacialba",
+          "paciland"
+        ]
+      }
+    },
+    "midday": {
+      "title": "Midday",
+      "color": "ff6103",
+      "tag": "midday",
+      "oppositeColor": "000000",
+      "max": [
+        42.36241,
+        -71.0846523
+      ],
+      "min": [
+        42.3590294,
+        -71.1022647
+      ],
+      "stops": {
+        "Kendall_Square": [
+          "paciland_ib",
+          "pacialba",
+          "albaedge",
+          "vassmass",
+          "vassstat"
+        ],
+        "Pacific_& Landsdowne": [
+          "kendsq_d",
+          "amhesloa",
+          "mass77",
+          "massland"
+        ]
+      }
+    },
+    "morning": {
+      "title": "Morning",
+      "color": "4dbd33",
+      "tag": "morning",
+      "oppositeColor": "000000",
+      "max": [
+        42.3711091,
+        -71.063993
+      ],
+      "min": [
+        42.3584763,
+        -71.1060261
+      ],
+      "stops": {
+        "Inbound-North_Station": [
+          "erie_d",
+          "cambbroo",
+          "paciland_ib",
+          "pacialba",
+          "albaedge",
+          "vassmass",
+          "vassstat",
+          "kendsq_ib_d",
+          "amhesloa_ib",
+          "medilab_ib",
+          "broagali_ib",
+          "6th_ib",
+          "3rd_ib",
+          "1st_ib",
+          "lech_ib",
+          "npoin_ib",
+          "muse_ib"
+        ],
+        "Outbound-Cambridgeport": [
+          "nstat_d",
+          "muse",
+          "npoin",
+          "lech",
+          "1st",
+          "2nd",
+          "6th",
+          "broagali_ob",
+          "kendsq_d",
+          "techmain",
+          "albaport",
+          "massland",
+          "univland",
+          "paciland"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright EZRide - Charles River TMA 2018."
+}

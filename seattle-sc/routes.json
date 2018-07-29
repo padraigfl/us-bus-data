@@ -1,0 +1,79 @@
+{
+  "data": {
+    "FHS": {
+      "title": "Strc FHS",
+      "color": "992ac5",
+      "tag": "FHS",
+      "oppositeColor": "ffffff",
+      "max": [
+        47.6181599,
+        -122.31404
+      ],
+      "min": [
+        47.5991199,
+        -122.33328
+      ],
+      "stops": {
+        "PIONEER_SQUARE VIA S JACKSON ST": [
+          "11062",
+          "41980",
+          "41986",
+          "41988",
+          "27500",
+          "1681",
+          "1671",
+          "1661",
+          "1651",
+          "1551_ar"
+        ],
+        "CAPITOL_HILL VIA BROADWAY": [
+          "1552",
+          "1652",
+          "1662",
+          "1672",
+          "1682",
+          "27420",
+          "41904",
+          "41908",
+          "41970",
+          "11175_ar"
+        ]
+      }
+    },
+    "SLU": {
+      "title": "Stcr SLU",
+      "color": "992ac5",
+      "tag": "SLU",
+      "oppositeColor": "ffffff",
+      "max": [
+        47.6276699,
+        -122.33221
+      ],
+      "min": [
+        47.6132799,
+        -122.33857
+      ],
+      "stops": {
+        "DOWNTOWN_SEATTLE PACIFIC PLACE STATION": [
+          "26700",
+          "26702",
+          "26641",
+          "26645",
+          "26665",
+          "1619",
+          "1630_ar"
+        ],
+        "LAKE_UNION FRED HUTCHISON CANCER CENTER": [
+          "26680",
+          "26689",
+          "26690",
+          "26693",
+          "26698",
+          "26701",
+          "26705_ar"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Seattle Streetcar 2018."
+}

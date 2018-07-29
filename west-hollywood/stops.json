@@ -1,0 +1,943 @@
+{
+  "data": {
+    "SE5": {
+      "lon": "-118.38058",
+      "title": "Gracie Allen/Cedars Sinai",
+      "stopId": "313",
+      "tag": "SE5",
+      "lat": "34.0752299"
+    },
+    "SE6": {
+      "lon": "-118.37946",
+      "title": "San Vicente/Beverly",
+      "stopId": "101",
+      "tag": "SE6",
+      "lat": "34.07684"
+    },
+    "SE7": {
+      "lon": "-118.3832",
+      "title": "San Vicente/Melrose",
+      "stopId": "102",
+      "tag": "SE7",
+      "lat": "34.0815899"
+    },
+    "SE8": {
+      "lon": "-118.3845299",
+      "title": "820 San Vicente",
+      "stopId": "307",
+      "tag": "SE8",
+      "lat": "34.0855599"
+    },
+    "SE9": {
+      "lon": "-118.38543",
+      "title": "San Vicente/Cynthia",
+      "stopId": "308",
+      "tag": "SE9",
+      "lat": "34.08706"
+    },
+    "SE10": {
+      "lon": "-118.3855599",
+      "title": "San Vicente at Sunset",
+      "stopId": "309",
+      "tag": "SE10",
+      "lat": "34.09054"
+    },
+    "SE11": {
+      "lon": "-118.3830599",
+      "title": "Holloway/Palm",
+      "stopId": "310",
+      "tag": "SE11",
+      "lat": "34.0906199"
+    },
+    "SE12": {
+      "lon": "-118.3829",
+      "title": "959 Palm",
+      "stopId": "311",
+      "tag": "SE12",
+      "lat": "34.0891399"
+    },
+    "SE47": {
+      "lon": "-118.38427",
+      "title": "Santa Monica/San Vicente",
+      "stopId": "405",
+      "tag": "SE47",
+      "lat": "34.0848499"
+    },
+    "SE1": {
+      "lon": "-118.38641",
+      "title": "Pavillions",
+      "stopId": "312",
+      "tag": "SE1",
+      "lat": "34.0833699"
+    },
+    "SE14": {
+      "lon": "-118.38375",
+      "title": "Santa Monica/San Vicente",
+      "stopId": "110",
+      "tag": "SE14",
+      "lat": "34.0850299"
+    },
+    "SE15": {
+      "lon": "-118.37755",
+      "title": "838 N.W. Knoll",
+      "stopId": "305",
+      "tag": "SE15",
+      "lat": "34.0859999"
+    },
+    "SE16": {
+      "lon": "-118.3793199",
+      "title": "Rugby/Westbourne",
+      "stopId": "306",
+      "tag": "SE16",
+      "lat": "34.0868899"
+    },
+    "SE17": {
+      "lon": "-118.3795699",
+      "title": "Santa Monica/Westbourne",
+      "stopId": "113",
+      "tag": "SE17",
+      "lat": "34.08767"
+    },
+    "SE18": {
+      "lon": "-118.3758999",
+      "title": "Santa Monica/La Cienega",
+      "stopId": "114",
+      "tag": "SE18",
+      "lat": "34.08962"
+    },
+    "SE19": {
+      "lon": "-118.37451",
+      "title": "Santa Monica/Croft",
+      "stopId": "115",
+      "tag": "SE19",
+      "lat": "34.0903399"
+    },
+    "SE20": {
+      "lon": "-118.3720099",
+      "title": "Santa Monica/Kings Rd",
+      "stopId": "116",
+      "tag": "SE20",
+      "lat": "34.09068"
+    },
+    "SE21": {
+      "lon": "-118.3717799",
+      "title": "Kings/Romaine",
+      "stopId": "117",
+      "tag": "SE21",
+      "lat": "34.0891099"
+    },
+    "SE22": {
+      "lon": "-118.37176",
+      "title": "801 N. Kings Rd.",
+      "stopId": "118",
+      "tag": "SE22",
+      "lat": "34.0855699"
+    },
+    "SE48": {
+      "lon": "-118.3703299",
+      "title": "Sweetzer/Willoughby",
+      "stopId": "406",
+      "tag": "SE48",
+      "lat": "34.08742"
+    },
+    "SE24": {
+      "lon": "-118.37029",
+      "title": "Santa Monica/Sweetzer",
+      "stopId": "119",
+      "tag": "SE24",
+      "lat": "34.0906399"
+    },
+    "SE25": {
+      "lon": "-118.3678799",
+      "title": "Santa Monica/La Jolla",
+      "stopId": "120",
+      "tag": "SE25",
+      "lat": "34.09075"
+    },
+    "SE26": {
+      "lon": "-118.36592",
+      "title": "Crescent Heights/Norton",
+      "stopId": "121",
+      "tag": "SE26",
+      "lat": "34.09167"
+    },
+    "SE27": {
+      "lon": "-118.3659599",
+      "title": "Crescent Heights/Fountain",
+      "stopId": "122",
+      "tag": "SE27",
+      "lat": "34.0941299"
+    },
+    "SE28": {
+      "lon": "-118.3642299",
+      "title": "Fountain/Laurel",
+      "stopId": "123",
+      "tag": "SE28",
+      "lat": "34.09442"
+    },
+    "SE29": {
+      "lon": "-118.36154",
+      "title": "Fairfax/Fountain",
+      "stopId": "124",
+      "tag": "SE29",
+      "lat": "34.09434"
+    },
+    "SE30": {
+      "lon": "-118.36147",
+      "title": "Fairfax/Norton",
+      "stopId": "125",
+      "tag": "SE30",
+      "lat": "34.09188"
+    },
+    "SE31": {
+      "lon": "-118.36089",
+      "title": "Santa Monica/Fairfax",
+      "stopId": "126",
+      "tag": "SE31",
+      "lat": "34.0907499"
+    },
+    "SE32": {
+      "lon": "-118.35777",
+      "title": "Santa Monica/Spaulding",
+      "stopId": "127",
+      "tag": "SE32",
+      "lat": "34.0907899"
+    },
+    "SE33": {
+      "lon": "-118.35437",
+      "title": "Santa Monica/Sierra Bonita",
+      "stopId": "301",
+      "tag": "SE33",
+      "lat": "34.0907699"
+    },
+    "SE34": {
+      "lon": "-118.3536199",
+      "title": "Willoughby/Gardner",
+      "stopId": "302",
+      "tag": "SE34",
+      "lat": "34.08712"
+    },
+    "SE35": {
+      "lon": "-118.35534",
+      "title": "Curson/Romaine",
+      "stopId": "303",
+      "tag": "SE35",
+      "lat": "34.08901"
+    },
+    "SE36": {
+      "lon": "-118.35535",
+      "title": "Curson/Santa Monica",
+      "stopId": "304",
+      "tag": "SE36",
+      "lat": "34.09072"
+    },
+    "SE37": {
+      "lon": "-118.3550099",
+      "title": "Curson/Norton",
+      "stopId": "132",
+      "tag": "SE37",
+      "lat": "34.0916"
+    },
+    "SE38": {
+      "lon": "-118.3549784",
+      "title": "Curson/Lexington",
+      "stopId": "133",
+      "tag": "SE38",
+      "lat": "34.0924511"
+    },
+    "SE39": {
+      "lon": "-118.3528399",
+      "title": "Gardner/Fountain",
+      "stopId": "134",
+      "tag": "SE39",
+      "lat": "34.09434"
+    },
+    "SE40": {
+      "lon": "-118.35178",
+      "title": "Fountain/Vista",
+      "stopId": "135",
+      "tag": "SE40",
+      "lat": "34.09436"
+    },
+    "SE41": {
+      "lon": "-118.3501",
+      "title": "Plummer Park/Fuller",
+      "stopId": "136",
+      "tag": "SE41",
+      "lat": "34.0928299"
+    },
+    "SE42": {
+      "lon": "-118.3497399",
+      "title": "Santa Monica/Fuller",
+      "stopId": "137",
+      "tag": "SE42",
+      "lat": "34.0907399"
+    },
+    "SE43": {
+      "lon": "-118.34626",
+      "title": "Formosa/Santa Monica",
+      "stopId": "138",
+      "tag": "SE43",
+      "lat": "34.09107"
+    },
+    "SE44_ar": {
+      "lon": "-118.3441",
+      "title": "La Brea/Fountain",
+      "stopId": "300",
+      "tag": "SE44_ar",
+      "lat": "34.0941699"
+    },
+    "SE44": {
+      "lon": "-118.3441",
+      "title": "La Brea/Fountain",
+      "stopId": "300",
+      "tag": "SE44",
+      "lat": "34.0941699"
+    },
+    "SW2": {
+      "lon": "-118.3440999",
+      "title": "La Brea/Santa Monica",
+      "stopId": "200",
+      "tag": "SW2",
+      "lat": "34.09092"
+    },
+    "SW3": {
+      "lon": "-118.3465099",
+      "title": "Santa Monica/Formosa",
+      "stopId": "201",
+      "tag": "SW3",
+      "lat": "34.0907499"
+    },
+    "SW4": {
+      "lon": "-118.3504199",
+      "title": "Santa Monica/Fuller",
+      "stopId": "202",
+      "tag": "SW4",
+      "lat": "34.0907699"
+    },
+    "SW5": {
+      "lon": "-118.35183",
+      "title": "Vista/Lexington (Plummer Park)",
+      "stopId": "203",
+      "tag": "SW5",
+      "lat": "34.0925399"
+    },
+    "SW6": {
+      "lon": "-118.35283",
+      "title": "Gardner/Fountain",
+      "stopId": "204",
+      "tag": "SW6",
+      "lat": "34.09437"
+    },
+    "SW7": {
+      "lon": "-118.35282",
+      "title": "Gardner/Lexington",
+      "stopId": "205",
+      "tag": "SW7",
+      "lat": "34.09291"
+    },
+    "SW8": {
+      "lon": "-118.3546199",
+      "title": "Lexington/Curson",
+      "stopId": "206",
+      "tag": "SW8",
+      "lat": "34.09257"
+    },
+    "SW9": {
+      "lon": "-118.35497",
+      "title": "Curson/Norton",
+      "stopId": "207",
+      "tag": "SW9",
+      "lat": "34.0916299"
+    },
+    "SW14": {
+      "lon": "-118.3563499",
+      "title": "Santa Monica/Stanley",
+      "stopId": "208",
+      "tag": "SW14",
+      "lat": "34.09079"
+    },
+    "SW15": {
+      "lon": "-118.3579",
+      "title": "Santa Monica/Genessee",
+      "stopId": "209",
+      "tag": "SW15",
+      "lat": "34.09082"
+    },
+    "SW16": {
+      "lon": "-118.3590199",
+      "title": "Santa Monica/Ogden",
+      "stopId": "210",
+      "tag": "SW16",
+      "lat": "34.09082"
+    },
+    "SW17": {
+      "lon": "-118.36127",
+      "title": "Santa Monica/Fairfax",
+      "stopId": "211",
+      "tag": "SW17",
+      "lat": "34.0908699"
+    },
+    "SW18": {
+      "lon": "-118.3615599",
+      "title": "1222 N. Fairfax",
+      "stopId": "212",
+      "tag": "SW18",
+      "lat": "34.09222"
+    },
+    "SW19": {
+      "lon": "-118.3627499",
+      "title": "Fountain/Hayworth",
+      "stopId": "213",
+      "tag": "SW19",
+      "lat": "34.09445"
+    },
+    "SW20": {
+      "lon": "-118.36593",
+      "title": "Crescent Heights/Fountain",
+      "stopId": "214",
+      "tag": "SW20",
+      "lat": "34.0942199"
+    },
+    "SW21": {
+      "lon": "-118.36601",
+      "title": "Crescent Heights/Santa Monica",
+      "stopId": "215",
+      "tag": "SW21",
+      "lat": "34.0912599"
+    },
+    "SW47": {
+      "lon": "-118.36785",
+      "title": "Santa Monica/La Jolla",
+      "stopId": "400",
+      "tag": "SW47",
+      "lat": "34.0907399"
+    },
+    "SW48": {
+      "lon": "-118.3703099",
+      "title": "Sweetzer/Santa Monica",
+      "stopId": "401",
+      "tag": "SW48",
+      "lat": "34.0905199"
+    },
+    "SW24": {
+      "lon": "-118.37026",
+      "title": "Sweetzer/Willoughby",
+      "stopId": "216",
+      "tag": "SW24",
+      "lat": "34.08741"
+    },
+    "SW25": {
+      "lon": "-118.3717",
+      "title": "800 N.Kings Rd.",
+      "stopId": "217",
+      "tag": "SW25",
+      "lat": "34.0855099"
+    },
+    "SW26": {
+      "lon": "-118.37173",
+      "title": "Kings Rd./Romaine",
+      "stopId": "218",
+      "tag": "SW26",
+      "lat": "34.0891399"
+    },
+    "SW27": {
+      "lon": "-118.3717599",
+      "title": "Kings Rd./Santa Monica Blvd. (Gelson's)",
+      "stopId": "219",
+      "tag": "SW27",
+      "lat": "34.0906499"
+    },
+    "SW28": {
+      "lon": "-118.3729499",
+      "title": "Santa Monica/Kings Rd",
+      "stopId": "220",
+      "tag": "SW28",
+      "lat": "34.09067"
+    },
+    "SW29": {
+      "lon": "-118.3759399",
+      "title": "Santa Monica/La Cienega",
+      "stopId": "221",
+      "tag": "SW29",
+      "lat": "34.08976"
+    },
+    "SW30": {
+      "lon": "-118.37801",
+      "title": "Santa Monica/West Knoll",
+      "stopId": "222",
+      "tag": "SW30",
+      "lat": "34.0887899"
+    },
+    "SW33": {
+      "lon": "-118.38137",
+      "title": "Santa Monica/Hancock",
+      "stopId": "223",
+      "tag": "SW33",
+      "lat": "34.0867999"
+    },
+    "SW45": {
+      "lon": "-118.38438",
+      "title": "Santa Monica/San Vicente",
+      "stopId": "224",
+      "tag": "SW45",
+      "lat": "34.0847499"
+    },
+    "SE13": {
+      "lon": "-118.3855599",
+      "title": "San Vicente/Cynthia",
+      "stopId": "109",
+      "tag": "SE13",
+      "lat": "34.08709"
+    },
+    "SE2": {
+      "lon": "-118.38392",
+      "title": "San Vicente/Santa Monica Blvd. (West Hollywood Park)",
+      "stopId": "225",
+      "tag": "SE2",
+      "lat": "34.08445"
+    },
+    "SE3": {
+      "lon": "-118.38331",
+      "title": "Library",
+      "stopId": "226",
+      "tag": "SE3",
+      "lat": "34.0815399"
+    },
+    "SE4": {
+      "lon": "-118.3796499",
+      "title": "San Vicente/Beverly",
+      "stopId": "227",
+      "tag": "SE4",
+      "lat": "34.0769499"
+    },
+    "SE5_ar": {
+      "lon": "-118.38058",
+      "title": "Gracie Allen/Cedars Sinai",
+      "stopId": "313",
+      "tag": "SE5_ar",
+      "lat": "34.0752299"
+    },
+    "PU19": {
+      "lon": "-118.38359",
+      "title": "San Vicente (Eastbound)",
+      "stopId": "518",
+      "tag": "PU19",
+      "lat": "34.0850899"
+    },
+    "PU21": {
+      "lon": "-118.37947",
+      "title": "Westbourne (Eastbound)",
+      "stopId": "520",
+      "tag": "PU21",
+      "lat": "34.0877099"
+    },
+    "PU22": {
+      "lon": "-118.37627",
+      "title": "La Cienega (Eastbound)",
+      "stopId": "521",
+      "tag": "PU22",
+      "lat": "34.0893699"
+    },
+    "PU24": {
+      "lon": "-118.37041",
+      "title": "Sweetzer (Eastbound)",
+      "stopId": "523",
+      "tag": "PU24",
+      "lat": "34.0906699"
+    },
+    "PU26": {
+      "lon": "-118.36572",
+      "title": "Crescent Heights (Eastbound)",
+      "stopId": "525",
+      "tag": "PU26",
+      "lat": "34.0907399"
+    },
+    "PU27": {
+      "lon": "-118.36189",
+      "title": "Fairfax (Eastbound)",
+      "stopId": "526",
+      "tag": "PU27",
+      "lat": "34.0907699"
+    },
+    "PU29": {
+      "lon": "-118.35444",
+      "title": "Sierra Bonita (Eastbound)",
+      "stopId": "528",
+      "tag": "PU29",
+      "lat": "34.0907399"
+    },
+    "HH7": {
+      "lon": "-118.3444",
+      "title": "La Brea (Eastbound)",
+      "stopId": "602",
+      "tag": "HH7",
+      "lat": "34.0906299"
+    },
+    "HH4_ar": {
+      "lon": "-118.33875",
+      "title": "Highland/Hollywood",
+      "stopId": "603",
+      "tag": "HH4_ar",
+      "lat": "34.1013199"
+    },
+    "HH4": {
+      "lon": "-118.33875",
+      "title": "Highland/Hollywood",
+      "stopId": "603",
+      "tag": "HH4",
+      "lat": "34.1013199"
+    },
+    "PU1": {
+      "lon": "-118.34457",
+      "title": "La Brea (Westbound)",
+      "stopId": "500",
+      "tag": "PU1",
+      "lat": "34.0907899"
+    },
+    "PU4": {
+      "lon": "-118.35326",
+      "title": "Gardner (Westbound)",
+      "stopId": "503",
+      "tag": "PU4",
+      "lat": "34.0908499"
+    },
+    "PU8": {
+      "lon": "-118.36575",
+      "title": "Crescent Heights (Westbound)",
+      "stopId": "507",
+      "tag": "PU8",
+      "lat": "34.0908299"
+    },
+    "PU10": {
+      "lon": "-118.37051",
+      "title": "Sweetzer (Westbound)",
+      "stopId": "509",
+      "tag": "PU10",
+      "lat": "34.0907699"
+    },
+    "PU12": {
+      "lon": "-118.37601",
+      "title": "La Cienega (Westbound)",
+      "stopId": "511",
+      "tag": "PU12",
+      "lat": "34.0898099"
+    },
+    "PU14": {
+      "lon": "-118.37999",
+      "title": "Westbourne (Westbound)",
+      "stopId": "513",
+      "tag": "PU14",
+      "lat": "34.0876299"
+    },
+    "SE3_ar": {
+      "lon": "-118.38331",
+      "title": "Library",
+      "stopId": "226",
+      "tag": "SE3_ar",
+      "lat": "34.0815399"
+    },
+    "PU1_ar": {
+      "lon": "-118.34457",
+      "title": "La Brea (Westbound)",
+      "stopId": "500",
+      "tag": "PU1_ar",
+      "lat": "34.0907899"
+    },
+    "PU2": {
+      "lon": "-118.34645",
+      "title": "Formosa (Westbound)",
+      "stopId": "501",
+      "tag": "PU2",
+      "lat": "34.0908099"
+    },
+    "PU3": {
+      "lon": "-118.3493499",
+      "title": "Greenacre (Westbound)",
+      "stopId": "502",
+      "tag": "PU3",
+      "lat": "34.09078"
+    },
+    "PU5": {
+      "lon": "-118.35594",
+      "title": "Curson (Westbound)",
+      "stopId": "504",
+      "tag": "PU5",
+      "lat": "34.09085"
+    },
+    "PU6": {
+      "lon": "-118.35835",
+      "title": "Genesee (Westbound)",
+      "stopId": "505",
+      "tag": "PU6",
+      "lat": "34.0908699"
+    },
+    "PU7": {
+      "lon": "-118.3617999",
+      "title": "Fairfax (Westbound)",
+      "stopId": "506",
+      "tag": "PU7",
+      "lat": "34.0909299"
+    },
+    "PU9": {
+      "lon": "-118.3678799",
+      "title": "La Jolla (Westbound)",
+      "stopId": "508",
+      "tag": "PU9",
+      "lat": "34.0908199"
+    },
+    "PU11": {
+      "lon": "-118.3729399",
+      "title": "Kings (Westbound)",
+      "stopId": "510",
+      "tag": "PU11",
+      "lat": "34.09075"
+    },
+    "PU13": {
+      "lon": "-118.3779599",
+      "title": "Ramada (Westbound)",
+      "stopId": "512",
+      "tag": "PU13",
+      "lat": "34.08874"
+    },
+    "PU15": {
+      "lon": "-118.3813899",
+      "title": "Hancock (Westbound)",
+      "stopId": "514",
+      "tag": "PU15",
+      "lat": "34.08684"
+    },
+    "PU16": {
+      "lon": "-118.3844",
+      "title": "San Vicente (Westbound)",
+      "stopId": "515",
+      "tag": "PU16",
+      "lat": "34.0847999"
+    },
+    "PU17_ar": {
+      "lon": "-118.38662",
+      "title": "Ramage (Westbound)",
+      "stopId": "516",
+      "tag": "PU17_ar",
+      "lat": "34.0832799"
+    },
+    "PU18": {
+      "lon": "-118.38608",
+      "title": "Robertson/La Peer (Eastbound)",
+      "stopId": "517",
+      "tag": "PU18",
+      "lat": "34.0833899"
+    },
+    "PU20": {
+      "lon": "-118.3809299",
+      "title": "Hancock (Eastbound)",
+      "stopId": "519",
+      "tag": "PU20",
+      "lat": "34.0869"
+    },
+    "PU23": {
+      "lon": "-118.3732599",
+      "title": "Orlando (Eastbound)",
+      "stopId": "522",
+      "tag": "PU23",
+      "lat": "34.09059"
+    },
+    "PU25": {
+      "lon": "-118.3679299",
+      "title": "La Jolla (Eastbound)",
+      "stopId": "524",
+      "tag": "PU25",
+      "lat": "34.0907"
+    },
+    "PU28": {
+      "lon": "-118.3576599",
+      "title": "Spaulding (Eastbound)",
+      "stopId": "527",
+      "tag": "PU28",
+      "lat": "34.0907499"
+    },
+    "PU30": {
+      "lon": "-118.35245",
+      "title": "Vista (Eastbound)",
+      "stopId": "529",
+      "tag": "PU30",
+      "lat": "34.09073"
+    },
+    "PU31_ar": {
+      "lon": "-118.34636",
+      "title": "Formosa (Eastbound)",
+      "stopId": "530",
+      "tag": "PU31_ar",
+      "lat": "34.0906799"
+    },
+    "SUN14": {
+      "lon": "-118.38417",
+      "title": "San Vicente/Santa Monica Blvd.",
+      "stopId": "813",
+      "tag": "SUN14",
+      "lat": "34.0852699"
+    },
+    "SUN15": {
+      "lon": "-118.38532",
+      "title": "San Vicente/Cynthia",
+      "stopId": "814",
+      "tag": "SUN15",
+      "lat": "34.0870999"
+    },
+    "SUN16": {
+      "lon": "-118.38542",
+      "title": "San Vicente/Sunset",
+      "stopId": "815",
+      "tag": "SUN16",
+      "lat": "34.09045"
+    },
+    "SUN17": {
+      "lon": "-118.3829199",
+      "title": "Sunset/Horn",
+      "stopId": "816",
+      "tag": "SUN17",
+      "lat": "34.09082"
+    },
+    "SUN18": {
+      "lon": "-118.37965",
+      "title": "Sunset/Sunset Plaza",
+      "stopId": "817",
+      "tag": "SUN18",
+      "lat": "34.0921799"
+    },
+    "SUN19": {
+      "lon": "-118.3779599",
+      "title": "Sunset/Alta Loma",
+      "stopId": "818",
+      "tag": "SUN19",
+      "lat": "34.09318"
+    },
+    "SUN20": {
+      "lon": "-118.3764799",
+      "title": "Sunset/La Cienega",
+      "stopId": "819",
+      "tag": "SUN20",
+      "lat": "34.09415"
+    },
+    "SUN21": {
+      "lon": "-118.3727899",
+      "title": "Sunset/Kings Rd.",
+      "stopId": "820",
+      "tag": "SUN21",
+      "lat": "34.09509"
+    },
+    "SUN22": {
+      "lon": "-118.3704",
+      "title": "Sunset/Sweetzer",
+      "stopId": "821",
+      "tag": "SUN22",
+      "lat": "34.09637"
+    },
+    "SUN23": {
+      "lon": "-118.3660399",
+      "title": "Crescent Heights/Sunset",
+      "stopId": "822",
+      "tag": "SUN23",
+      "lat": "34.09704"
+    },
+    "SUN25_ar": {
+      "lon": "-118.36132",
+      "title": "Fairfax/Santa Monica Blvd.",
+      "stopId": "824",
+      "tag": "SUN25_ar",
+      "lat": "34.0911099"
+    },
+    "SUN1": {
+      "lon": "-118.36138",
+      "title": "Fairfax/Fountain",
+      "stopId": "800",
+      "tag": "SUN1",
+      "lat": "34.0947499"
+    },
+    "SUN2": {
+      "lon": "-118.3618699",
+      "title": "Sunset/Fairfax",
+      "stopId": "801",
+      "tag": "SUN2",
+      "lat": "34.0981799"
+    },
+    "SUN3": {
+      "lon": "-118.36548",
+      "title": "Sunset/Crescent Heights",
+      "stopId": "802",
+      "tag": "SUN3",
+      "lat": "34.0981399"
+    },
+    "SUN4": {
+      "lon": "-118.36897",
+      "title": "Sunset/Harper",
+      "stopId": "803",
+      "tag": "SUN4",
+      "lat": "34.0973599"
+    },
+    "SUN5": {
+      "lon": "-118.3708299",
+      "title": "Sunset/Sweetzer",
+      "stopId": "804",
+      "tag": "SUN5",
+      "lat": "34.09648"
+    },
+    "SUN6": {
+      "lon": "-118.3725899",
+      "title": "Sunset/Kings Rd.",
+      "stopId": "805",
+      "tag": "SUN6",
+      "lat": "34.0954199"
+    },
+    "SUN7": {
+      "lon": "-118.3768399",
+      "title": "Sunset/Miller",
+      "stopId": "806",
+      "tag": "SUN7",
+      "lat": "34.09424"
+    },
+    "SUN8": {
+      "lon": "-118.3795199",
+      "title": "Sunset/Sunset Plaza",
+      "stopId": "807",
+      "tag": "SUN8",
+      "lat": "34.09254"
+    },
+    "SUN9": {
+      "lon": "-118.3832199",
+      "title": "Sunset/Horn",
+      "stopId": "808",
+      "tag": "SUN9",
+      "lat": "34.09092"
+    },
+    "SUN10": {
+      "lon": "-118.3853699",
+      "title": "Sunset/Clark",
+      "stopId": "809",
+      "tag": "SUN10",
+      "lat": "34.0907699"
+    },
+    "SUN11": {
+      "lon": "-118.3874599",
+      "title": "Sunset/Hammond",
+      "stopId": "810",
+      "tag": "SUN11",
+      "lat": "34.09076"
+    },
+    "SUN12": {
+      "lon": "-118.3856099",
+      "title": "Melrose/Robertson",
+      "stopId": "811",
+      "tag": "SUN12",
+      "lat": "34.08077"
+    },
+    "SE7_ar": {
+      "lon": "-118.3832",
+      "title": "San Vicente/Melrose",
+      "stopId": "102",
+      "tag": "SE7_ar",
+      "lat": "34.0815899"
+    }
+  },
+  "copyright": "All data copyright City of West Hollywood 2018."
+}

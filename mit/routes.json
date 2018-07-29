@@ -1,0 +1,466 @@
+{
+  "data": {
+    "boston": {
+      "title": "Boston Daytime",
+      "color": "660000",
+      "tag": "boston",
+      "oppositeColor": "ffffff",
+      "max": [
+        42.3601699,
+        -71.0894076
+      ],
+      "min": [
+        42.3488099,
+        -71.1007408
+      ],
+      "stops": {
+        "To_84 Mass Ave": [
+          "commsher",
+          "comm478",
+          "beacmass",
+          "mass77",
+          "edge"
+        ],
+        "To_Boston": [
+          "mass84_d",
+          "massbeac",
+          "comm487"
+        ]
+      }
+    },
+    "kendchar": {
+      "title": "Kendall to Charles Park",
+      "color": "473c8b",
+      "tag": "kendchar",
+      "shortTitle": "Kendall-Charles",
+      "oppositeColor": "ffffff",
+      "max": [
+        42.3665997,
+        -71.07781
+      ],
+      "min": [
+        42.361272,
+        -71.08613
+      ],
+      "stops": {
+        "To_Kendall Square": [
+          "charprk"
+        ],
+        "To_Charles Park": [
+          "kendsq",
+          "wadse40"
+        ]
+      }
+    },
+    "northwest": {
+      "title": "Northwest Shuttle",
+      "color": "33cccc",
+      "tag": "northwest",
+      "oppositeColor": "000000",
+      "max": [
+        42.3623986,
+        -71.0843897
+      ],
+      "min": [
+        42.3590333,
+        -71.1023
+      ],
+      "stops": {
+        "To_Kendall Square": [
+          "paci70",
+          "whou",
+          "edge",
+          "vassmass",
+          "statct"
+        ],
+        "to_Northwest Campus": [
+          "kendsq_d",
+          "amhewads",
+          "mass77",
+          "mitmus"
+        ]
+      }
+    },
+    "tech": {
+      "title": "Tech Shuttle",
+      "color": "339933",
+      "tag": "tech",
+      "oppositeColor": "ffffff",
+      "max": [
+        42.362641,
+        -71.0846492
+      ],
+      "min": [
+        42.3543184,
+        -71.1066941
+      ],
+      "stops": {
+        "To_Kendall Square": [
+          "w92ames",
+          "w98vass",
+          "simmhl",
+          "vassmass",
+          "mainvass"
+        ],
+        "To_West Campus": [
+          "amesmain",
+          "kendsq",
+          "wadsamhe",
+          "medilab",
+          "amesamhe",
+          "kres",
+          "tangwest"
+        ]
+      }
+    },
+    "traderjwf": {
+      "title": "Trader Joe's - Whole Foods",
+      "color": "668b8b",
+      "tag": "traderjwf",
+      "shortTitle": "TJs-W Foods",
+      "oppositeColor": "000000",
+      "max": [
+        42.3644554,
+        -71.0843899
+      ],
+      "min": [
+        42.354791,
+        -71.114391
+      ],
+      "stops": {
+        "To_Trader Joe's": [
+          "paci70",
+          "whou",
+          "edge",
+          "kendsq",
+          "wadse40",
+          "medilab",
+          "mccrmk",
+          "kappasgm",
+          "macgreg",
+          "tangwest",
+          "simmhl",
+          "rivfrank",
+          "randhl"
+        ],
+        "To_Whole Foods": [
+          "tradjoe"
+        ],
+        "to_Campus": [
+          "wholfood"
+        ]
+      }
+    },
+    "saferidebostonall": {
+      "title": "Saferide Boston All",
+      "color": "66cc33",
+      "tag": "saferidebostonall",
+      "oppositeColor": "000000",
+      "max": [
+        42.3631649,
+        -71.084632
+      ],
+      "min": [
+        42.348309,
+        -71.1025997
+      ],
+      "stops": {
+        "To_Kendall Square": [
+          "simmhall",
+          "zcent",
+          "edge",
+          "albapaci",
+          "paci70",
+          "masssydn",
+          "mainwinds",
+          "mainkoch"
+        ],
+        "To_Boston": [
+          "mass84",
+          "massbeac",
+          "massnewb",
+          "comm487",
+          "silb"
+        ],
+        "To_84 Mass Ave": [
+          "kendsq",
+          "amhewads",
+          "medilab",
+          "mass77",
+          "comm478",
+          "beacmass"
+        ],
+        "To_West Campus": [
+          "mass84_d",
+          "amhekres",
+          "burthous",
+          "tangwest"
+        ]
+      }
+    },
+    "saferidebostone": {
+      "title": "Saferide Boston East",
+      "color": "ff6633",
+      "tag": "saferidebostone",
+      "oppositeColor": "000000",
+      "max": [
+        42.3596999,
+        -71.08834
+      ],
+      "min": [
+        42.34831,
+        -71.1007408
+      ],
+      "stops": {
+        "To_84 Mass Ave": [
+          "beacmass",
+          "mass77"
+        ],
+        "To_Boston": [
+          "mass84_d",
+          "massbeac",
+          "massnewb",
+          "comm487",
+          "silb",
+          "comm478"
+        ]
+      }
+    },
+    "saferidebostonw": {
+      "title": "Saferide Boston West",
+      "color": "5599cc",
+      "tag": "saferidebostonw",
+      "oppositeColor": "000000",
+      "max": [
+        42.3637448,
+        -71.09416
+      ],
+      "min": [
+        42.346556,
+        -71.1238864
+      ],
+      "stops": {
+        "To_84 Mass Ave": [
+          "manc58",
+          "stpaul259",
+          "broo350",
+          "brooputn",
+          "brootudo",
+          "broogree",
+          "mass84_a"
+        ],
+        "To_Brookline": [
+          "mitmus",
+          "adp",
+          "pearfrank",
+          "pearlawr",
+          "pearalls",
+          "granbroo",
+          "stpaul"
+        ]
+      }
+    },
+    "saferidecamball": {
+      "title": "Saferide Cambridge All",
+      "color": "cc6633",
+      "tag": "saferidecamball",
+      "oppositeColor": "000000",
+      "max": [
+        42.378954,
+        -71.077116
+      ],
+      "min": [
+        42.3465555,
+        -71.1238864
+      ],
+      "stops": {
+        "To_Brookline": [
+          "mass84",
+          "mitmus",
+          "adp",
+          "pearfrank",
+          "pearlawr",
+          "pearalls",
+          "granbroo"
+        ],
+        "To_Somerville": [
+          "mass84_d",
+          "browin",
+          "bronor",
+          "proscam",
+          "prossom"
+        ],
+        "To_84 Mass Ave": [
+          "someshop",
+          "lammed",
+          "cam6th",
+          "1stotis",
+          "1stchar",
+          "bin3rd",
+          "amesmain",
+          "mass77",
+          "broo350",
+          "brooputn",
+          "brootudo",
+          "broogree",
+          "stpaul259",
+          "stpaul",
+          "manc58",
+          "mass84_a"
+        ]
+      }
+    },
+    "saferidecambeast": {
+      "title": "Saferide Cambridge East",
+      "color": "66cc00",
+      "tag": "saferidecambeast",
+      "oppositeColor": "000000",
+      "max": [
+        42.3719808,
+        -71.0832
+      ],
+      "min": [
+        42.3591086,
+        -71.1022784
+      ],
+      "stops": {
+        "from_Campus": [
+          "mass84_d",
+          "nw10",
+          "nw30",
+          "nw86",
+          "nw61",
+          "mainwinds",
+          "porthamp",
+          "camb638",
+          "camb5th"
+        ],
+        "to_Campus": [
+          "6thcharl",
+          "elotmain",
+          "amesbld66",
+          "mitmed",
+          "kendsq",
+          "wadse40",
+          "mass77"
+        ]
+      }
+    },
+    "saferidecambwest": {
+      "title": "Saferide Cambridge West",
+      "color": "cc66ff",
+      "tag": "saferidecambwest",
+      "oppositeColor": "000000",
+      "max": [
+        42.364801,
+        -71.0843897
+      ],
+      "min": [
+        42.3547905,
+        -71.1124847
+      ],
+      "stops": {
+        "from_Campus": [
+          "mass84_d",
+          "mccrmk",
+          "burtho",
+          "newho",
+          "tangwest",
+          "simmhl",
+          "ww15",
+          "brookchest",
+          "putmag",
+          "rivfair",
+          "rivpleas"
+        ],
+        "to_Campus": [
+          "rivfrank",
+          "sydgreen",
+          "paci70",
+          "whou",
+          "edge",
+          "kendsq",
+          "wadse40",
+          "mass77"
+        ]
+      }
+    },
+    "saferidesomerville": {
+      "title": "Saferide Somerville",
+      "color": "faf602",
+      "tag": "saferidesomerville",
+      "shortTitle": "SR Somerville",
+      "oppositeColor": "000000",
+      "max": [
+        42.378954,
+        -71.077116
+      ],
+      "min": [
+        42.359272,
+        -71.098872
+      ],
+      "stops": {
+        "to_Campus": [
+          "prossom",
+          "someshop",
+          "lammed",
+          "cam6th",
+          "1stotis",
+          "1stchar",
+          "bin3rd",
+          "amesmain"
+        ],
+        "To_84 Mass Ave": [
+          "mass77"
+        ],
+        "from_Campus": [
+          "mass84_d",
+          "browin",
+          "bronor",
+          "proscam"
+        ]
+      }
+    },
+    "saferidecampshut": {
+      "title": "Saferide Campus Shuttle",
+      "color": "ffdab9",
+      "tag": "saferidecampshut",
+      "shortTitle": "SR Camp Shuttle",
+      "oppositeColor": "000000",
+      "max": [
+        42.3631649,
+        -71.0846492
+      ],
+      "min": [
+        42.3543184,
+        -71.1066941
+      ],
+      "stops": {
+        "To_Kendall Square": [
+          "w98vass",
+          "simmhall",
+          "zcent",
+          "edge",
+          "albapaci",
+          "paci70",
+          "masssydn",
+          "mainwinds",
+          "mainkoch"
+        ],
+        "To_84 Mass Ave": [
+          "kendsq",
+          "amhewads",
+          "medilab",
+          "mass77"
+        ],
+        "To_West Campus": [
+          "mass84_d",
+          "amhekres",
+          "burthous",
+          "tangwest"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Massachusetts Institute of Technology 2018."
+}

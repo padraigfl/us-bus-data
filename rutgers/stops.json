@@ -1,0 +1,616 @@
+{
+  "data": {
+    "boydhall": {
+      "lon": "-74.1742469",
+      "title": "Boyden Hall",
+      "tag": "boydhall",
+      "lat": "40.740978"
+    },
+    "njit": {
+      "lon": "-74.1788106",
+      "title": "NJIT",
+      "tag": "njit",
+      "lat": "40.7411918"
+    },
+    "harrpass": {
+      "lon": "-74.1639135",
+      "title": "Harrison Ave & Passaic Ave",
+      "shortTitle": "Harrison & Passaic",
+      "tag": "harrpass",
+      "lat": "40.745337"
+    },
+    "frodclev": {
+      "lon": "-74.1562525",
+      "title": "Frank E. Rodgers Blvd and Cleveland Ave",
+      "shortTitle": "Frank E. Rodgers & Cleveland",
+      "tag": "frodclev",
+      "lat": "40.7468895"
+    },
+    "kearduke": {
+      "lon": "-74.1554285",
+      "title": "Kearny Ave & Dukes St.",
+      "shortTitle": "Kearny & Dukes",
+      "tag": "kearduke",
+      "lat": "40.7554732"
+    },
+    "kearberg": {
+      "lon": "-74.1518061",
+      "title": "Kearny Ave and Bergen Ave",
+      "shortTitle": "Kearny & Bergen",
+      "tag": "kearberg",
+      "lat": "40.7592058"
+    },
+    "kearquin": {
+      "lon": "-74.147548",
+      "title": "Kearny Ave and Quincy St",
+      "shortTitle": "Kearny & Quincy",
+      "tag": "kearquin",
+      "lat": "40.7659535"
+    },
+    "kearmidl": {
+      "lon": "-74.145217",
+      "title": "Kearny Ave and Midland Ave",
+      "shortTitle": "Kearny & Midland",
+      "tag": "kearmidl",
+      "lat": "40.770516"
+    },
+    "kmart": {
+      "lon": "-74.1603555",
+      "title": "Kmart",
+      "tag": "kmart",
+      "lat": "40.7601649"
+    },
+    "shoplite": {
+      "lon": "-74.1619455",
+      "title": "ShopRite",
+      "tag": "shoplite",
+      "lat": "40.7566119"
+    },
+    "pennstat": {
+      "lon": "-74.1647207",
+      "title": "Penn Station",
+      "tag": "pennstat",
+      "lat": "40.7348193"
+    },
+    "pennstat_nt": {
+      "lon": "-74.1645258",
+      "title": "Penn Station Night",
+      "tag": "pennstat_nt",
+      "lat": "40.7338639"
+    },
+    "medischo": {
+      "lon": "-74.1895674",
+      "title": "Medical School",
+      "tag": "medischo",
+      "lat": "40.7397188"
+    },
+    "hosp": {
+      "lon": "-74.1915809",
+      "title": "Hospital",
+      "tag": "hosp",
+      "lat": "40.7418682"
+    },
+    "bergbldg": {
+      "lon": "-74.1929929",
+      "title": "Bergen Bldg (back)",
+      "tag": "bergbldg",
+      "lat": "40.7432589"
+    },
+    "dentschl": {
+      "lon": "-74.1902941",
+      "title": "Dental School",
+      "tag": "dentschl",
+      "lat": "40.7422847"
+    },
+    "mark180": {
+      "lon": "-74.1869549",
+      "title": "180 W Market St",
+      "shortTitle": "180 W Market",
+      "tag": "mark180",
+      "lat": "40.7412743"
+    },
+    "icph": {
+      "lon": "-74.183882",
+      "title": "ICPH",
+      "tag": "icph",
+      "lat": "40.742787"
+    },
+    "blumhall": {
+      "lon": "-74.175143",
+      "title": "Blumenthal Hall",
+      "tag": "blumhall",
+      "lat": "40.739281"
+    },
+    "boyd": {
+      "lon": "-74.1742699",
+      "title": "Boyden Hall",
+      "tag": "boyd",
+      "lat": "40.74094"
+    },
+    "pennback": {
+      "lon": "-74.1645206",
+      "title": "Penn Station Backside",
+      "tag": "pennback",
+      "lat": "40.733863"
+    },
+    "boydhall_c": {
+      "lon": "-74.1742469",
+      "title": "Boyden Hall",
+      "tag": "boydhall_c",
+      "lat": "40.740978"
+    },
+    "icph_e": {
+      "lon": "-74.1838609",
+      "title": "ICPH",
+      "tag": "icph_e",
+      "lat": "40.742869"
+    },
+    "bergbuil": {
+      "lon": "-74.191461",
+      "title": "Bergen Building",
+      "tag": "bergbuil",
+      "lat": "40.743386"
+    },
+    "medischo_a": {
+      "lon": "-74.189452",
+      "title": "Medical School (Arrival)",
+      "tag": "medischo_a",
+      "lat": "40.739686"
+    },
+    "ecc": {
+      "lon": "-74.178506",
+      "title": "ECC",
+      "tag": "ecc",
+      "lat": "40.7365969"
+    },
+    "clj": {
+      "lon": "-74.172592",
+      "title": "CLJ",
+      "tag": "clj",
+      "lat": "40.7404189"
+    },
+    "washpark": {
+      "lon": "-74.1705689",
+      "title": "Washington Park",
+      "tag": "washpark",
+      "lat": "40.7437892"
+    },
+    "broad": {
+      "lon": "-74.1711",
+      "title": "Broad St",
+      "shortTitle": "Broad",
+      "tag": "broad",
+      "lat": "40.746906"
+    },
+    "univnort": {
+      "lon": "-74.1717499",
+      "title": "University North",
+      "tag": "univnort",
+      "lat": "40.746147"
+    },
+    "physplan": {
+      "lon": "-74.172539",
+      "title": "Physical Plant",
+      "tag": "physplan",
+      "lat": "40.744492"
+    },
+    "scott": {
+      "lon": "-74.44824",
+      "title": "Scott Hall",
+      "stopId": "1055",
+      "tag": "scott",
+      "lat": "40.49957"
+    },
+    "stuactcntr": {
+      "lon": "-74.4490599",
+      "title": "Student Activities Center",
+      "stopId": "1001",
+      "tag": "stuactcntr",
+      "lat": "40.5040199"
+    },
+    "lot48a": {
+      "lon": "-74.4619198",
+      "title": "Visitor Center",
+      "stopId": "1071",
+      "tag": "lot48a",
+      "lat": "40.51514"
+    },
+    "stadium_a": {
+      "lon": "-74.46618",
+      "title": "Stadium",
+      "stopId": "1024",
+      "tag": "stadium_a",
+      "lat": "40.51442"
+    },
+    "werblinback": {
+      "lon": "-74.4614699",
+      "title": "Werblin Back Entrance",
+      "stopId": "1003",
+      "tag": "werblinback",
+      "lat": "40.5186799"
+    },
+    "hillw": {
+      "lon": "-74.4632599",
+      "title": "Hill Center",
+      "stopId": "1004",
+      "tag": "hillw",
+      "lat": "40.5219199"
+    },
+    "science": {
+      "lon": "-74.4642238",
+      "title": "Science Building",
+      "stopId": "1005",
+      "tag": "science",
+      "lat": "40.5239347"
+    },
+    "libofsciw": {
+      "lon": "-74.4658297",
+      "title": "Library of Science",
+      "stopId": "1006",
+      "tag": "libofsciw",
+      "lat": "40.5261998"
+    },
+    "buschse": {
+      "lon": "-74.45872",
+      "title": "Busch Suites",
+      "stopId": "1007",
+      "tag": "buschse",
+      "lat": "40.52583"
+    },
+    "busch_a": {
+      "lon": "-74.45806",
+      "title": "Busch Student Center",
+      "stopId": "1008",
+      "tag": "busch_a",
+      "lat": "40.5236"
+    },
+    "buells": {
+      "lon": "-74.4567399",
+      "title": "Buell Apartments",
+      "stopId": "1009",
+      "tag": "buells",
+      "lat": "40.52181"
+    },
+    "werblinm": {
+      "lon": "-74.4599799",
+      "title": "Werblin Main Entrance",
+      "stopId": "1022",
+      "tag": "werblinm",
+      "lat": "40.51871"
+    },
+    "rutgerss_a": {
+      "lon": "-74.4521521",
+      "title": "College Avenue Student Center",
+      "shortTitle": "College Student Center",
+      "stopId": "1062",
+      "tag": "rutgerss_a",
+      "lat": "40.5034221"
+    },
+    "quads": {
+      "lon": "-74.4335688",
+      "title": "Quads",
+      "stopId": "1030",
+      "tag": "quads",
+      "lat": "40.5198612"
+    },
+    "libofsci": {
+      "lon": "-74.4658297",
+      "title": "Library of Science",
+      "stopId": "1006",
+      "tag": "libofsci",
+      "lat": "40.5261998"
+    },
+    "beck": {
+      "lon": "-74.4385837",
+      "title": "Livingston Plaza",
+      "stopId": "1028",
+      "tag": "beck",
+      "lat": "40.5251062"
+    },
+    "livingston_a": {
+      "lon": "-74.4363968",
+      "title": "Livingston Student Center",
+      "stopId": "1029",
+      "tag": "livingston_a",
+      "lat": "40.5243131"
+    },
+    "allison": {
+      "lon": "-74.4651893",
+      "title": "Allison Road Classrooms",
+      "shortTitle": "Allison Classrooms",
+      "stopId": "1041",
+      "tag": "allison",
+      "lat": "40.5235605"
+    },
+    "hilln": {
+      "lon": "-74.4632745",
+      "title": "Hill Center",
+      "stopId": "1066",
+      "tag": "hilln",
+      "lat": "40.5219024"
+    },
+    "traine": {
+      "lon": "-74.445116",
+      "title": "Train Station",
+      "stopId": "1010",
+      "tag": "traine",
+      "lat": "40.4981979"
+    },
+    "patersons": {
+      "lon": "-74.443997",
+      "title": "Paterson Street",
+      "shortTitle": "Paterson",
+      "stopId": "1067",
+      "tag": "patersons",
+      "lat": "40.495062"
+    },
+    "rockoff": {
+      "lon": "-74.4430403",
+      "title": "Rockoff Hall",
+      "stopId": "1043",
+      "tag": "rockoff",
+      "lat": "40.4918304"
+    },
+    "pubsafs": {
+      "lon": "-74.4398701",
+      "title": "Public Safety Building South",
+      "stopId": "1044",
+      "tag": "pubsafs",
+      "lat": "40.4870501"
+    },
+    "redoak_a": {
+      "lon": "-74.437542",
+      "title": "Red Oak Lane",
+      "stopId": "1011",
+      "tag": "redoak_a",
+      "lat": "40.482988"
+    },
+    "lipman": {
+      "lon": "-74.43629",
+      "title": "Lipman Hall",
+      "stopId": "1047",
+      "tag": "lipman",
+      "lat": "40.48127"
+    },
+    "foodsci": {
+      "lon": "-74.43571",
+      "title": "Food Sciences Building",
+      "stopId": "1012",
+      "tag": "foodsci",
+      "lat": "40.47891"
+    },
+    "biel": {
+      "lon": "-74.4325226",
+      "title": "Biel Road",
+      "shortTitle": "Biel",
+      "stopId": "1048",
+      "tag": "biel",
+      "lat": "40.4799995"
+    },
+    "henders": {
+      "lon": "-74.4287199",
+      "title": "Henderson",
+      "stopId": "1050",
+      "tag": "henders",
+      "lat": "40.4809499"
+    },
+    "katzenbach": {
+      "lon": "-74.4315999",
+      "title": "Katzenbach",
+      "stopId": "1014",
+      "tag": "katzenbach",
+      "lat": "40.48304"
+    },
+    "gibbons": {
+      "lon": "-74.43194",
+      "title": "Gibbons",
+      "stopId": "1051",
+      "tag": "gibbons",
+      "lat": "40.48523"
+    },
+    "college_a": {
+      "lon": "-74.4371999",
+      "title": "College Hall",
+      "stopId": "1052",
+      "tag": "college_a",
+      "lat": "40.4855099"
+    },
+    "pubsafn": {
+      "lon": "-74.4402073",
+      "title": "Public Safety Building North",
+      "stopId": "1016",
+      "tag": "pubsafn",
+      "lat": "40.4876259"
+    },
+    "liberty": {
+      "lon": "-74.4433992",
+      "title": "Liberty Street",
+      "shortTitle": "Liberty",
+      "stopId": "1053",
+      "tag": "liberty",
+      "lat": "40.4932471"
+    },
+    "patersonn": {
+      "lon": "-74.443878",
+      "title": "Paterson Street",
+      "shortTitle": "Paterson",
+      "stopId": "1054",
+      "tag": "patersonn",
+      "lat": "40.495286"
+    },
+    "trainn_a": {
+      "lon": "-74.4444598",
+      "title": "Train Station",
+      "stopId": "1060",
+      "tag": "trainn_a",
+      "lat": "40.4974894"
+    },
+    "zimmerli": {
+      "lon": "-74.4450693",
+      "title": "Zimmerli Arts Museum",
+      "stopId": "1017",
+      "tag": "zimmerli",
+      "lat": "40.4997074"
+    },
+    "redoak": {
+      "lon": "-74.43746",
+      "title": "Red Oak Lane",
+      "stopId": "1046",
+      "tag": "redoak",
+      "lat": "40.48306"
+    },
+    "buel": {
+      "lon": "-74.4567012",
+      "title": "Buell Apartments",
+      "stopId": "1009",
+      "tag": "buel",
+      "lat": "40.5218065"
+    },
+    "davidson": {
+      "lon": "-74.4586278",
+      "title": "Davidson Hall",
+      "stopId": "1023",
+      "tag": "davidson",
+      "lat": "40.5258793"
+    },
+    "newstree": {
+      "lon": "-74.44264",
+      "title": "Bravo Supermarket",
+      "stopId": "1037",
+      "tag": "newstree",
+      "lat": "40.49138"
+    },
+    "allison_a": {
+      "lon": "-74.4651274",
+      "title": "Allison Road Classrooms",
+      "shortTitle": "Allison Classrooms",
+      "stopId": "1036",
+      "tag": "allison_a",
+      "lat": "40.5236115"
+    },
+    "rockhall": {
+      "lon": "-74.4430933",
+      "title": "Rockoff Hall",
+      "stopId": "1043",
+      "tag": "rockhall",
+      "lat": "40.491856"
+    },
+    "traine_a": {
+      "lon": "-74.44525",
+      "title": "Train Station",
+      "stopId": "1064",
+      "tag": "traine_a",
+      "lat": "40.49815"
+    },
+    "stuactcntrs": {
+      "lon": "-74.44885",
+      "title": "Student Activities Center",
+      "stopId": "1001",
+      "tag": "stuactcntrs",
+      "lat": "40.50383"
+    },
+    "zimmerli_2": {
+      "lon": "-74.4450499",
+      "title": "Zimmerli Arts Museum",
+      "stopId": "1017",
+      "tag": "zimmerli_2",
+      "lat": "40.4996299"
+    },
+    "stuactcntrn_2": {
+      "lon": "-74.44883",
+      "title": "Student Activities Center",
+      "stopId": "1061",
+      "tag": "stuactcntrn_2",
+      "lat": "40.5039"
+    },
+    "nursscho": {
+      "lon": "-74.449676",
+      "title": "Nursing School",
+      "stopId": "1070",
+      "tag": "nursscho",
+      "lat": "40.494289"
+    },
+    "colony": {
+      "lon": "-74.4622299",
+      "title": "Colony House",
+      "stopId": "1042",
+      "tag": "colony",
+      "lat": "40.50617"
+    },
+    "trainn": {
+      "lon": "-74.4445099",
+      "title": "Train Station",
+      "stopId": "1010",
+      "tag": "trainn",
+      "lat": "40.4976798"
+    },
+    "rutgerss": {
+      "lon": "-74.4519619",
+      "title": "College Avenue Student Center",
+      "shortTitle": "College Student Center",
+      "stopId": "1000",
+      "tag": "rutgerss",
+      "lat": "40.503222"
+    },
+    "busch": {
+      "lon": "-74.45796",
+      "title": "Busch Student Center",
+      "stopId": "1056",
+      "tag": "busch",
+      "lat": "40.5234"
+    },
+    "livingston": {
+      "lon": "-74.4366299",
+      "title": "Livingston Student Center",
+      "stopId": "1058",
+      "tag": "livingston",
+      "lat": "40.524"
+    },
+    "college": {
+      "lon": "-74.4379873",
+      "title": "College Hall",
+      "stopId": "1015",
+      "tag": "college",
+      "lat": "40.4858788"
+    },
+    "stuactcntrn": {
+      "lon": "-74.44883",
+      "title": "Student Activities Center",
+      "stopId": "1001",
+      "tag": "stuactcntrn",
+      "lat": "40.5039"
+    },
+    "pischoes": {
+      "lon": "-74.4700339",
+      "title": "RBHS Piscataway Hoes Lane",
+      "tag": "pischoes",
+      "lat": "40.5245699"
+    },
+    "clinacad": {
+      "lon": "-74.4501711",
+      "title": "Clinical Academic Building",
+      "tag": "clinacad",
+      "lat": "40.4941929"
+    },
+    "robecent": {
+      "lon": "-74.1753477",
+      "title": "Robeson Center on Bleeker St",
+      "shortTitle": "Robeson Center on Bleeker",
+      "tag": "robecent",
+      "lat": "40.7424809"
+    },
+    "shoprite": {
+      "lon": "-74.1605958",
+      "title": "ShopRite",
+      "tag": "shoprite",
+      "lat": "40.7571732"
+    },
+    "walmart": {
+      "lon": "-74.136768",
+      "title": "Walmart",
+      "tag": "walmart",
+      "lat": "40.7482552"
+    }
+  },
+  "copyright": "All data copyright Rutgers University 2018."
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "CLEB": {
+      "title": "Cityline Eastbound Orange Route",
+      "color": "ff8000",
+      "tag": "CLEB",
+      "oppositeColor": "000000",
+      "max": [
+        34.09442,
+        -118.3441
+      ],
+      "min": [
+        34.0752299,
+        -118.38641
+      ],
+      "stops": {
+        "La_Brea": [
+          "SE5",
+          "SE6",
+          "SE7",
+          "SE8",
+          "SE9",
+          "SE10",
+          "SE11",
+          "SE12",
+          "SE47",
+          "SE1",
+          "SE14",
+          "SE15",
+          "SE16",
+          "SE17",
+          "SE18",
+          "SE19",
+          "SE20",
+          "SE21",
+          "SE22",
+          "SE48",
+          "SE24",
+          "SE25",
+          "SE26",
+          "SE27",
+          "SE28",
+          "SE29",
+          "SE30",
+          "SE31",
+          "SE32",
+          "SE33",
+          "SE34",
+          "SE35",
+          "SE36",
+          "SE37",
+          "SE38",
+          "SE39",
+          "SE40",
+          "SE41",
+          "SE42",
+          "SE43",
+          "SE44_ar"
+        ]
+      }
+    },
+    "CLWB": {
+      "title": "Cityline Westbound Blue Route",
+      "color": "0000ff",
+      "tag": "CLWB",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.09445,
+        -118.3440999
+      ],
+      "min": [
+        34.0752299,
+        -118.38641
+      ],
+      "stops": {
+        "Cedars_Sinai": [
+          "SE44",
+          "SW2",
+          "SW3",
+          "SW4",
+          "SW5",
+          "SW6",
+          "SW7",
+          "SW8",
+          "SW9",
+          "SE33",
+          "SE34",
+          "SE35",
+          "SE36",
+          "SW14",
+          "SW15",
+          "SW16",
+          "SW17",
+          "SW18",
+          "SW19",
+          "SW20",
+          "SW21",
+          "SW47",
+          "SW48",
+          "SW24",
+          "SW25",
+          "SW26",
+          "SW27",
+          "SW28",
+          "SW29",
+          "SW30",
+          "SE15",
+          "SE16",
+          "SW33",
+          "SW45",
+          "SE1",
+          "SE8",
+          "SE9",
+          "SE10",
+          "SE11",
+          "SE12",
+          "SE13",
+          "SE2",
+          "SE3",
+          "SE4",
+          "SE5_ar"
+        ]
+      }
+    },
+    "HHL": {
+      "title": "Cityline X",
+      "color": "007700",
+      "tag": "HHL",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.1013199,
+        -118.33875
+      ],
+      "min": [
+        34.0815399,
+        -118.38392
+      ],
+      "stops": {
+        "West_Hollywood": [
+          "HH4",
+          "PU1",
+          "PU4",
+          "SW17",
+          "PU8",
+          "PU10",
+          "PU12",
+          "PU14",
+          "SE2",
+          "SE3_ar"
+        ],
+        "Hollywood/Highland": [
+          "SE3",
+          "PU19",
+          "PU21",
+          "PU22",
+          "PU24",
+          "PU26",
+          "PU27",
+          "PU29",
+          "HH7",
+          "HH4_ar"
+        ]
+      }
+    },
+    "PU": {
+      "title": "The Pickup",
+      "color": "ff0000",
+      "tag": "PU",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.0909299,
+        -118.34457
+      ],
+      "min": [
+        34.0832799,
+        -118.38662
+      ],
+      "stops": {
+        "To_La Brea": [
+          "PU18",
+          "PU19",
+          "PU20",
+          "PU21",
+          "PU22",
+          "PU23",
+          "PU24",
+          "PU25",
+          "PU26",
+          "PU27",
+          "PU28",
+          "PU29",
+          "PU30",
+          "PU31_ar"
+        ],
+        "To_Robertson": [
+          "PU1",
+          "PU2",
+          "PU3",
+          "PU4",
+          "PU5",
+          "PU6",
+          "PU7",
+          "PU8",
+          "PU9",
+          "PU10",
+          "PU11",
+          "PU12",
+          "PU13",
+          "PU14",
+          "PU15",
+          "PU16",
+          "PU17_ar"
+        ]
+      }
+    },
+    "SNST": {
+      "title": "Sunset Trip",
+      "color": "ff0000",
+      "tag": "SNST",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.0981799,
+        -118.36132
+      ],
+      "min": [
+        34.08077,
+        -118.3874599
+      ],
+      "stops": {
+        "Westbound": [
+          "SUN1",
+          "SUN2",
+          "SUN3",
+          "SUN4",
+          "SUN5",
+          "SUN6",
+          "SUN7",
+          "SUN8",
+          "SUN9",
+          "SUN10",
+          "SUN11",
+          "SUN12",
+          "SE7_ar"
+        ],
+        "Eastbound": [
+          "SUN14",
+          "SUN15",
+          "SUN16",
+          "SUN17",
+          "SUN18",
+          "SUN19",
+          "SUN20",
+          "SUN21",
+          "SUN22",
+          "SUN23",
+          "PU26",
+          "SUN25_ar"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright City of West Hollywood 2018."
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "shuttle": {
+      "title": "Red Bus",
+      "color": "cc0000",
+      "tag": "shuttle",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.76888,
+        -73.9431741
+      ],
+      "min": [
+        40.7534287,
+        -73.9584779
+      ],
+      "stops": {
+        "Northbound": [
+          "southpnt",
+          "goldhosp",
+          "tramwest_n",
+          "subway_n",
+          "504main",
+          "545main",
+          "550main",
+          "capfield",
+          "post",
+          "40river_n"
+        ],
+        "Southbound": [
+          "octagon",
+          "comfstat",
+          "40river_s",
+          "10river",
+          "570main",
+          "543main",
+          "riverwalk",
+          "trameast"
+        ]
+      }
+    },
+    "express": {
+      "title": "Red Bus Express",
+      "color": "0000cc",
+      "tag": "express",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.76888,
+        -73.9431741
+      ],
+      "min": [
+        40.7573391,
+        -73.9548922
+      ],
+      "stops": {
+        "Northbound": [
+          "tramwest_n",
+          "subway_n"
+        ],
+        "Southbound": [
+          "octagon",
+          "riverwalk",
+          "trameast"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Roosevelt Island 2018."
+}

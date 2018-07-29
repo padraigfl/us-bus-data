@@ -1,0 +1,193 @@
+{
+  "data": {
+    "orange": {
+      "title": "Orange",
+      "color": "ee8833",
+      "tag": "orange",
+      "oppositeColor": "000000",
+      "max": [
+        39.2896364,
+        -76.5967471
+      ],
+      "min": [
+        39.2842419,
+        -76.6347212
+      ],
+      "stops": {
+        "Hollins_Market": [
+          "lombpres_h",
+          "lombcomm_h",
+          "lombligh_h",
+          "lombhano_h",
+          "lombhowa_h",
+          "lombgree_h",
+          "lombpenn_h",
+          "lombmlk_h",
+          "baltfremave_h",
+          "poppfair_h",
+          "alic720b_h",
+          "centbank_h",
+          "lomblloy_h",
+          "lomb897_h"
+        ],
+        "Harbor_East": [
+          "arli24_e",
+          "pratschr_e",
+          "poppbalt_e",
+          "baltfremst_e",
+          "baltpine_e",
+          "baltgree_e",
+          "greelomb_e",
+          "prateuta_e",
+          "prathow",
+          "pratshar_e",
+          "prat_e",
+          "pratcalv_e",
+          "prat501_e",
+          "east717_e",
+          "littital_e"
+        ]
+      }
+    },
+    "green": {
+      "title": "Green",
+      "color": "66cd00",
+      "tag": "green",
+      "oppositeColor": "000000",
+      "max": [
+        39.30068,
+        -76.5896501
+      ],
+      "min": [
+        39.2798682,
+        -76.6111164
+      ],
+      "stops": {
+        "JH_Med Center": [
+          "lomb",
+          "littlital",
+          "harbeast_s",
+          "maripark_eb",
+          "caro_e",
+          "broaflee",
+          "goug_n",
+          "fair_n",
+          "jhop_n",
+          "madi"
+        ],
+        "Pres_at Lombard": [
+          "rutl",
+          "jhop",
+          "fair",
+          "goug",
+          "broamark",
+          "maripark_wb",
+          "cent",
+          "regimuse",
+          "markplac",
+          "gay",
+          "high",
+          "fall",
+          "lexi",
+          "gay_s",
+          "markplace_s"
+        ]
+      }
+    },
+    "purple": {
+      "title": "Purple",
+      "color": "4b0082",
+      "tag": "purple",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.3280646,
+        -76.6120724
+      ],
+      "min": [
+        39.2727104,
+        -76.6174467
+      ],
+      "stops": {
+        "Penn_Station": [
+          "baltvc_p",
+          "innrharb_p",
+          "ligh_p",
+          "faye_p",
+          "plea_p",
+          "hami_p",
+          "washmonu_p",
+          "eage_p",
+          "bidd_p"
+        ],
+        "Visitor_Center": [
+          "pennsta_f",
+          "charnort",
+          "char22nd",
+          "char25th",
+          "char27th",
+          "char31st",
+          "33rd",
+          "paul29th",
+          "paul25th",
+          "paul22nd",
+          "paulnort",
+          "pennsta311_f",
+          "pres_f",
+          "eage_f",
+          "madi_f",
+          "cent_f",
+          "sara_f",
+          "faye_f",
+          "prat_f",
+          "lee_f",
+          "mont_f",
+          "cros_f",
+          "oste",
+          "mars_p",
+          "west_p",
+          "henr_p",
+          "key_p"
+        ]
+      }
+    },
+    "banner": {
+      "title": "Banner",
+      "color": "00688b",
+      "tag": "banner",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.2864042,
+        -76.58384
+      ],
+      "min": [
+        39.2656899,
+        -76.6145991
+      ],
+      "stops": {
+        "Fort_McHenry": [
+          "lightlee",
+          "fedhill",
+          "avam",
+          "keyjack",
+          "keyboyl",
+          "soutfoun",
+          "mchnrow",
+          "fortdeca",
+          "fortandr"
+        ],
+        "Inner_Harbor": [
+          "fortmchn_d",
+          "forttows",
+          "fortwood",
+          "baltmuse",
+          "keyharb",
+          "keypier",
+          "rashfiel",
+          "charlcon",
+          "pratligh"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Charm City Circulator 2018."
+}

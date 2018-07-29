@@ -1,0 +1,711 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 00, Federal Circle &#8211; Cargo Service Road & Rental Car North",
+        "tag": "fedcirc",
+        "stopId": "000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.803333,
+          40.661111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 32 &#8211; 148th Street & South Cargo Road",
+        "tag": "stop32",
+        "stopId": "032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7915028,
+          40.6550849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 34 &#8211; 148th Street & Center Cargo Road",
+        "tag": "stop34",
+        "stopId": "034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7937231,
+          40.6580587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 34 &#8211; 148th Street & Center Cargo Road",
+        "tag": "stop34_ib",
+        "stopId": "034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.793723,
+          40.6580582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 37 &#8211; North Boundary Road & 150th Avenue",
+        "tag": "stop37",
+        "stopId": "037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7898359,
+          40.6616209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 38 &#8211; West Boundary Road & 150th Avenue",
+        "tag": "stop38",
+        "stopId": "038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7901131,
+          40.6616597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 39 &#8211; North Boundary Road & Federal Express",
+        "tag": "stop39",
+        "stopId": "039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7850049,
+          40.663009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 40 &#8211; North Boundary Road & Federal Express",
+        "tag": "stop40",
+        "stopId": "040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7832558,
+          40.6626489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 41 &#8211; North Boundary Road & North Hangar Road",
+        "tag": "stop41",
+        "stopId": "041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7788986,
+          40.6605322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 42 &#8211; North Boundary Road & North Hangar Road",
+        "tag": "stop42",
+        "stopId": "042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7785948,
+          40.6606168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 44 &#8211; North Boundary Road & Farmers Blvd",
+        "tag": "stop44",
+        "stopId": "044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.775291,
+          40.659435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 46 &#8211; North Boundary Road & Farmers Blvd",
+        "tag": "stop46",
+        "stopId": "046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7741039,
+          40.6585718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 47 &#8211; North Boundary Road & Old Rockaway Blvd",
+        "tag": "stop47",
+        "stopId": "047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7716018,
+          40.6572989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 48 &#8211; North Boundary Road & Old Rockaway Blvd",
+        "tag": "stop48",
+        "stopId": "048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7716081,
+          40.6570681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 49 &#8211; Eastern Road & Eastern Road (Building 250)",
+        "tag": "stop49",
+        "stopId": "049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7666713,
+          40.6533215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 53 &#8211; South Cargo Road & Cargo Plaza Road",
+        "tag": "stop53",
+        "stopId": "053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7950058,
+          40.6528051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 55 &#8211; Cargo Plaza Road & Building 84",
+        "tag": "stop55",
+        "stopId": "055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.795325,
+          40.6555622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 57 &#8211; Cargo Plaza Road & Center Cargo Road",
+        "tag": "stop57",
+        "stopId": "057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.795277,
+          40.658803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 59 &#8211; Cargo Plaza Road & 150th Avenue",
+        "tag": "stop59",
+        "stopId": "059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.795263,
+          40.6611142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 150 &#8211; 150th Avenue & 148th Street",
+        "tag": "150a148s",
+        "stopId": "150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7929416,
+          40.6610322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 150 &#8211; 150th Avenue & 148th Street",
+        "tag": "150a148s_ib",
+        "stopId": "150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7929417,
+          40.6610317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 903 &#8211; Eastern Road & Eastern Road (Building 77)",
+        "tag": "stop903",
+        "stopId": "903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.766452,
+          40.6512958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 11 - North Van Wyck Service Road & Building 23",
+        "tag": "stop11",
+        "stopId": "011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8039778,
+          40.6500437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 13 - North Van Wyck Service Road & Building 21",
+        "tag": "stop13",
+        "stopId": "013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8060468,
+          40.6530246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 14 - South Van Wyck Service Road & Building 14",
+        "tag": "stop14",
+        "stopId": "014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8068899,
+          40.6525229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 15 - North Van Wyck Service Road & Building 120",
+        "tag": "stop15",
+        "stopId": "015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.806719,
+          40.654779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 17 - North Van Wyck Service Road & American Freight",
+        "tag": "stop17",
+        "stopId": "017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8055148,
+          40.6574501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 18 - 130th Place & East Hangar Road",
+        "tag": "stop18",
+        "stopId": "018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8094038,
+          40.6550147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 19 - South Van Wyck Service Road & Building 23",
+        "tag": "nextstop1",
+        "stopId": "019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8046939,
+          40.6494679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 20a -130th Place & West Hangar Road",
+        "tag": "stop20a",
+        "stopId": "020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8104861,
+          40.6569003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 21 - South Van Wyck Service Road & Building 90",
+        "tag": "nextstop2",
+        "stopId": "021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7994045,
+          40.6448062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Stop 22 - 130th Place & Bergen Road",
+        "tag": "stop22",
+        "stopId": "022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8108479,
+          40.658895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Employee Lot 1",
+        "tag": "stop1",
+        "stopId": "801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.82144,
+          40.661896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Employee Lot 2",
+        "tag": "stop2",
+        "stopId": "802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.82005,
+          40.6623759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Employee Lot 3",
+        "tag": "stop3",
+        "stopId": "803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8202782,
+          40.663066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Employee Lot 4",
+        "tag": "stop4a",
+        "stopId": "804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8222246,
+          40.6632899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Employee Lot 5",
+        "tag": "stop5",
+        "stopId": "805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8231767,
+          40.6622196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Term 1",
+        "tag": "longterm_d",
+        "stopId": "901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8264271,
+          40.6586363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Term 2",
+        "tag": "stopa30",
+        "stopId": "902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8263099,
+          40.6593042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Term 3",
+        "tag": "stopa16",
+        "stopId": "903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.826061,
+          40.6605638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Term 4",
+        "tag": "stopa01",
+        "stopId": "904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.825896,
+          40.6613919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Term 5",
+        "tag": "stop4",
+        "stopId": "905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8258468,
+          40.6616784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Term 6",
+        "tag": "stopb06",
+        "stopId": "906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.827755,
+          40.662571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Term 7",
+        "tag": "stop901",
+        "stopId": "907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8286068,
+          40.6636359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Term 8",
+        "tag": "noname1",
+        "stopId": "908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8305931,
+          40.6634309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Term 9",
+        "tag": "noname2",
+        "stopId": "909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.830686,
+          40.6624571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Howard Beach AirTrain Station",
+        "tag": "howabeac",
+        "stopId": "910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8297409,
+          40.6611396
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright JFK International Airport 2018."
+}

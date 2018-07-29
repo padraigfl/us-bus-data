@@ -1,0 +1,62 @@
+{
+  "data": {
+    "dtconn": {
+      "title": "Downtown Connection",
+      "color": "33a2cc",
+      "tag": "dtconn",
+      "shortTitle": "Downtown Connect",
+      "oppositeColor": "000000",
+      "max": [
+        40.7171498,
+        -74.0014874
+      ],
+      "min": [
+        40.7023067,
+        -74.0180488
+      ],
+      "stops": {
+        "Westbound": [
+          "watful_d",
+          "watmaid",
+          "watwall_o",
+          "wathano",
+          "watcoen",
+          "watwhit",
+          "statbrid",
+          "battwash_o",
+          "battwest_o",
+          "batfirst_o",
+          "batthird_o",
+          "seavwtha_o",
+          "seavrec_o",
+          "seavalba",
+          "vesworld_o",
+          "neavmury_o",
+          "neavwar_d"
+        ],
+        "Eastbound": [
+          "chamwbro",
+          "murbrod",
+          "murgren",
+          "neavmury",
+          "vesworld",
+          "seavgate",
+          "seavrec",
+          "seavwtha",
+          "batthird",
+          "batfirst",
+          "battwest",
+          "battwash",
+          "battstate",
+          "watbroad",
+          "watolds",
+          "watwall",
+          "watflet",
+          "pearfult",
+          "soutpeck"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Downtown Connection 2018."
+}

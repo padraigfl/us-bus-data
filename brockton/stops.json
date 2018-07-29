@@ -1,0 +1,6610 @@
+{
+  "data": {
+    "batctr": {
+      "lon": "-71.0155155",
+      "title": "Bat Center",
+      "stopId": "001",
+      "tag": "batctr",
+      "lat": "42.0850102"
+    },
+    "commscho": {
+      "lon": "-71.0153692",
+      "title": "Commercial St and School St",
+      "shortTitle": "Commercial & School",
+      "stopId": "002",
+      "tag": "commscho",
+      "lat": "42.0817193"
+    },
+    "scholinc": {
+      "lon": "-71.0184096",
+      "title": "School St and Lincoln St",
+      "shortTitle": "School & Lincoln",
+      "stopId": "003",
+      "tag": "scholinc",
+      "lat": "42.0829268"
+    },
+    "maincent": {
+      "lon": "-71.019773",
+      "title": "Main St and Centre St",
+      "shortTitle": "Main & Centre",
+      "stopId": "004",
+      "tag": "maincent",
+      "lat": "42.0840196"
+    },
+    "mainpetr": {
+      "lon": "-71.0197882",
+      "title": "Main St and Petronelli Way",
+      "shortTitle": "Main & Petronelli Way",
+      "stopId": "005",
+      "tag": "mainpetr",
+      "lat": "42.0847049"
+    },
+    "maincour": {
+      "lon": "-71.0198083",
+      "title": "Main St and Court St",
+      "shortTitle": "Main & Court",
+      "stopId": "006",
+      "tag": "maincour",
+      "lat": "42.0855044"
+    },
+    "nmailind": {
+      "lon": "-71.0193349",
+      "title": "North Main St and Linden St",
+      "shortTitle": "North Main & Linden",
+      "stopId": "007",
+      "tag": "nmailind",
+      "lat": "42.0875791"
+    },
+    "nmaiross": {
+      "lon": "-71.0192358",
+      "title": "North Main St and Rosseter St",
+      "shortTitle": "North Main & Rosseter",
+      "stopId": "008",
+      "tag": "nmaiross",
+      "lat": "42.0897431"
+    },
+    "nmaielli": {
+      "lon": "-71.0192058",
+      "title": "North Main St and Elliot St",
+      "shortTitle": "North Main & Elliot",
+      "stopId": "009",
+      "tag": "nmaielli",
+      "lat": "42.0908081"
+    },
+    "nmaileba": {
+      "lon": "-71.0192071",
+      "title": "North Main St and Lebanon St",
+      "shortTitle": "North Main & Lebanon",
+      "stopId": "010",
+      "tag": "nmaileba",
+      "lat": "42.0923808"
+    },
+    "nmaieash": {
+      "lon": "-71.0192129",
+      "title": "North Main St and East Ashland St",
+      "shortTitle": "North Main & East Ashland",
+      "stopId": "011",
+      "tag": "nmaieash",
+      "lat": "42.0934867"
+    },
+    "nmaisnow": {
+      "lon": "-71.019223",
+      "title": "North Main St and Snow Ave",
+      "shortTitle": "North Main & Snow",
+      "stopId": "012",
+      "tag": "nmaisnow",
+      "lat": "42.095371"
+    },
+    "nmaibatt_o": {
+      "lon": "-71.0188573",
+      "title": "North Main St and Battles St",
+      "shortTitle": "North Main & Battles",
+      "stopId": "013",
+      "tag": "nmaibatt_o",
+      "lat": "42.0972358"
+    },
+    "nmaiemai": {
+      "lon": "-71.0196891",
+      "title": "North Main St and East Main St",
+      "shortTitle": "North Main & East Main",
+      "stopId": "014",
+      "tag": "nmaiemai",
+      "lat": "42.0986698"
+    },
+    "nmaivine_o": {
+      "lon": "-71.0209584",
+      "title": "North Main St and Vine St",
+      "shortTitle": "North Main & Vine",
+      "stopId": "015",
+      "tag": "nmaivine_o",
+      "lat": "42.100533"
+    },
+    "nmaiames": {
+      "lon": "-71.0212921",
+      "title": "North Main St and Ames St",
+      "shortTitle": "North Main & Ames",
+      "stopId": "016",
+      "tag": "nmaiames",
+      "lat": "42.1010267"
+    },
+    "nmaiemer": {
+      "lon": "-71.0232462",
+      "title": "North Main St and Emerson Ave",
+      "shortTitle": "North Main & Emerson",
+      "stopId": "017",
+      "tag": "nmaiemer",
+      "lat": "42.1033771"
+    },
+    "nmaifiel": {
+      "lon": "-71.0244369",
+      "title": "North Main St and Field St",
+      "shortTitle": "North Main & Field",
+      "stopId": "018",
+      "tag": "nmaifiel",
+      "lat": "42.1043482"
+    },
+    "nmaihowa": {
+      "lon": "-71.025601",
+      "title": "North Main St and Howard St",
+      "shortTitle": "North Main & Howard",
+      "stopId": "019",
+      "tag": "nmaihowa",
+      "lat": "42.1052281"
+    },
+    "nmaisnel": {
+      "lon": "-71.0271265",
+      "title": "North Main St and Snell St",
+      "shortTitle": "North Main & Snell",
+      "stopId": "020",
+      "tag": "nmaisnel",
+      "lat": "42.1063999"
+    },
+    "nmaialbo": {
+      "lon": "-71.0287049",
+      "title": "North Main St and Albion St",
+      "shortTitle": "North Main & Albion",
+      "stopId": "021",
+      "tag": "nmaialbo",
+      "lat": "42.1075861"
+    },
+    "nmaiwald": {
+      "lon": "-71.0319322",
+      "title": "North Main St and Waldo St",
+      "shortTitle": "North Main & Waldo",
+      "stopId": "022",
+      "tag": "nmaiwald",
+      "lat": "42.1103569"
+    },
+    "nmaifran": {
+      "lon": "-71.0323623",
+      "title": "North Main St and Frankton St",
+      "shortTitle": "North Main & Frankton",
+      "stopId": "023",
+      "tag": "nmaifran",
+      "lat": "42.1110468"
+    },
+    "nmaiaugu": {
+      "lon": "-71.0332823",
+      "title": "North Main St and Augustine St",
+      "shortTitle": "North Main & Augustine",
+      "stopId": "024",
+      "tag": "nmaiaugu",
+      "lat": "42.1126268"
+    },
+    "nmaiwild": {
+      "lon": "-71.0337423",
+      "title": "North Main St and Wilder St",
+      "shortTitle": "North Main & Wilder",
+      "stopId": "025",
+      "tag": "nmaiwild",
+      "lat": "42.1134268"
+    },
+    "emaiflet": {
+      "lon": "-71.0340679",
+      "title": "East Main St and Fletcher Rd",
+      "shortTitle": "East Main & Fletcher",
+      "stopId": "026",
+      "tag": "emaiflet",
+      "lat": "42.1152024"
+    },
+    "emaiconn": {
+      "lon": "-71.0336722",
+      "title": "East Main St and Connolly Rd",
+      "shortTitle": "East Main & Connolly",
+      "stopId": "027",
+      "tag": "emaiconn",
+      "lat": "42.1170333"
+    },
+    "emailamb": {
+      "lon": "-71.0333217",
+      "title": "East Main St and Lambert Dr",
+      "shortTitle": "East Main & Lambert Dr",
+      "stopId": "028",
+      "tag": "emailamb",
+      "lat": "42.1188733"
+    },
+    "emaimemo": {
+      "lon": "-71.0341961",
+      "title": "East Main St and Memorial Dr",
+      "shortTitle": "East Main & Memorial Dr",
+      "stopId": "029",
+      "tag": "emaimemo",
+      "lat": "42.1225519"
+    },
+    "walmart": {
+      "lon": "-71.0308189",
+      "title": "Walmart",
+      "stopId": "030",
+      "tag": "walmart",
+      "lat": "42.12128"
+    },
+    "wmaisout": {
+      "lon": "-71.0395873",
+      "title": "West Main St and South St",
+      "shortTitle": "West Main & South",
+      "stopId": "031",
+      "tag": "wmaisout",
+      "lat": "42.1197684"
+    },
+    "wmaiglen": {
+      "lon": "-71.0391342",
+      "title": "West Main St and Glendower St",
+      "shortTitle": "West Main & Glendower",
+      "stopId": "032",
+      "tag": "wmaiglen",
+      "lat": "42.1190324"
+    },
+    "manguire": {
+      "lon": "-71.0351674",
+      "title": "Maguire Road",
+      "shortTitle": "Maguire",
+      "stopId": "033",
+      "tag": "manguire",
+      "lat": "42.1148523"
+    },
+    "wmaiemai": {
+      "lon": "-71.0344803",
+      "title": "West Main St and East Main St",
+      "shortTitle": "West Main & East Main",
+      "stopId": "034",
+      "tag": "wmaiemai",
+      "lat": "42.1141413"
+    },
+    "nmaiburk": {
+      "lon": "-71.0340113",
+      "title": "North Main St and Burkeside Ave",
+      "shortTitle": "North Main & Burkeside",
+      "stopId": "035",
+      "tag": "nmaiburk",
+      "lat": "42.1135584"
+    },
+    "nmaihill": {
+      "lon": "-71.0335393",
+      "title": "North Main St and Hillcrest Ave",
+      "shortTitle": "North Main & Hillcrest",
+      "stopId": "036",
+      "tag": "nmaihill",
+      "lat": "42.1127965"
+    },
+    "nmaiwood": {
+      "lon": "-71.0327292",
+      "title": "North Main St and Woodland Ave",
+      "shortTitle": "North Main & Woodland",
+      "stopId": "037",
+      "tag": "nmaiwood",
+      "lat": "42.1113384"
+    },
+    "nmaimann": {
+      "lon": "-71.0318303",
+      "title": "North Main St and Manners Ave",
+      "shortTitle": "North Main & Manners",
+      "stopId": "038",
+      "tag": "nmaimann",
+      "lat": "42.1099894"
+    },
+    "nmaiwill": {
+      "lon": "-71.0306055",
+      "title": "North Main St and Willow St",
+      "shortTitle": "North Main & Willow",
+      "stopId": "039",
+      "tag": "nmaiwill",
+      "lat": "42.1088453"
+    },
+    "nmaimay": {
+      "lon": "-71.0290735",
+      "title": "North Main St and May Ave",
+      "shortTitle": "North Main & May",
+      "stopId": "040",
+      "tag": "nmaimay",
+      "lat": "42.1076773"
+    },
+    "nmaisear": {
+      "lon": "-71.0277535",
+      "title": "North Main St and Searles Ave",
+      "shortTitle": "North Main & Searles",
+      "stopId": "041",
+      "tag": "nmaisear",
+      "lat": "42.1066863"
+    },
+    "nmaimart": {
+      "lon": "-71.0268795",
+      "title": "North Main St and Martland Ave",
+      "shortTitle": "North Main & Martland",
+      "stopId": "042",
+      "tag": "nmaimart",
+      "lat": "42.1060413"
+    },
+    "nmaioak": {
+      "lon": "-71.0255514",
+      "title": "North Main St and Oak St",
+      "shortTitle": "North Main & Oak",
+      "stopId": "043",
+      "tag": "nmaioak",
+      "lat": "42.1050263"
+    },
+    "nmaiherr": {
+      "lon": "-71.0238164",
+      "title": "North Main St and Herrod Ave",
+      "shortTitle": "North Main & Herrod",
+      "stopId": "044",
+      "tag": "nmaiherr",
+      "lat": "42.1037363"
+    },
+    "nmairutl": {
+      "lon": "-71.0229313",
+      "title": "North Main St and Rutland St",
+      "shortTitle": "North Main & Rutland",
+      "stopId": "045",
+      "tag": "nmairutl",
+      "lat": "42.1027854"
+    },
+    "nmaivine": {
+      "lon": "-71.0211913",
+      "title": "North Main St and Vine St",
+      "shortTitle": "North Main & Vine",
+      "stopId": "046",
+      "tag": "nmaivine",
+      "lat": "42.1006234"
+    },
+    "nmaiupla": {
+      "lon": "-71.0206992",
+      "title": "North Main St and Upland Road",
+      "shortTitle": "North Main & Upland",
+      "stopId": "047",
+      "tag": "nmaiupla",
+      "lat": "42.0997605"
+    },
+    "nmailand": {
+      "lon": "-71.0202062",
+      "title": "North Main St and Landsdowne St",
+      "shortTitle": "North Main & Landsdowne",
+      "stopId": "048",
+      "tag": "nmailand",
+      "lat": "42.0989144"
+    },
+    "nmaibatt": {
+      "lon": "-71.0196519",
+      "title": "North Main St and Battles St",
+      "shortTitle": "North Main & Battles",
+      "stopId": "049",
+      "tag": "nmaibatt",
+      "lat": "42.0972511"
+    },
+    "nmaidivi": {
+      "lon": "-71.019492",
+      "title": "North Main St and Division St",
+      "shortTitle": "North Main & Division",
+      "stopId": "050",
+      "tag": "nmaidivi",
+      "lat": "42.0963495"
+    },
+    "nmaiford": {
+      "lon": "-71.0193879",
+      "title": "North Main St and Ford St",
+      "shortTitle": "North Main & Ford",
+      "stopId": "051",
+      "tag": "nmaiford",
+      "lat": "42.0945005"
+    },
+    "nmaiwash": {
+      "lon": "-71.0193899",
+      "title": "North Main St and West Ashland St",
+      "shortTitle": "North Main & West Ashland",
+      "stopId": "052",
+      "tag": "nmaiwash",
+      "lat": "42.0937305"
+    },
+    "nmaihunt": {
+      "lon": "-71.0193979",
+      "title": "North Main St and Huntington St",
+      "shortTitle": "North Main & Huntington",
+      "stopId": "053",
+      "tag": "nmaihunt",
+      "lat": "42.0929935"
+    },
+    "nmaifarr": {
+      "lon": "-71.019383",
+      "title": "North Main St and Farrington St",
+      "shortTitle": "North Main & Farrington",
+      "stopId": "054",
+      "tag": "nmaifarr",
+      "lat": "42.0924395"
+    },
+    "nmaipros": {
+      "lon": "-71.0193464",
+      "title": "North Main St and Prospect St",
+      "shortTitle": "North Main & Prospect",
+      "stopId": "055",
+      "tag": "nmaipros",
+      "lat": "42.0913823"
+    },
+    "nmaifalm": {
+      "lon": "-71.019345",
+      "title": "North Main St and Falmouth Ave",
+      "shortTitle": "North Main & Falmouth",
+      "stopId": "056",
+      "tag": "nmaifalm",
+      "lat": "42.0902435"
+    },
+    "nmaiwyma": {
+      "lon": "-71.019338",
+      "title": "North Main St and Wyman St",
+      "shortTitle": "North Main & Wyman",
+      "stopId": "057",
+      "tag": "nmaiwyma",
+      "lat": "42.0891505"
+    },
+    "nmaihave": {
+      "lon": "-71.0194042",
+      "title": "North Main St and Haverhill St",
+      "shortTitle": "North Main & Haverhill",
+      "stopId": "058",
+      "tag": "nmaihave",
+      "lat": "42.0878218"
+    },
+    "lindnmon": {
+      "lon": "-71.0174303",
+      "title": "Linden St and North Montello St",
+      "shortTitle": "Linden & North Montello",
+      "stopId": "059",
+      "tag": "lindnmon",
+      "lat": "42.0871754"
+    },
+    "nmoncour": {
+      "lon": "-71.0171191",
+      "title": "North Montello St and Court St",
+      "shortTitle": "North Montello & Court",
+      "stopId": "060",
+      "tag": "nmoncour",
+      "lat": "42.0856552"
+    },
+    "montscho": {
+      "lon": "-71.017279",
+      "title": "Montello St and School St",
+      "shortTitle": "Montello & School",
+      "stopId": "070",
+      "tag": "montscho",
+      "lat": "42.0824277"
+    },
+    "cresvfwp": {
+      "lon": "-71.0187212",
+      "title": "Crescent St and VFW Pkwy",
+      "shortTitle": "Crescent & VFW Pkwy",
+      "stopId": "071",
+      "tag": "cresvfwp",
+      "lat": "42.0813369"
+    },
+    "maplmain": {
+      "lon": "-71.0201684",
+      "title": "Maple Ave and Main St",
+      "shortTitle": "Maple & Main",
+      "stopId": "072",
+      "tag": "maplmain",
+      "lat": "42.0799587"
+    },
+    "mainbarl": {
+      "lon": "-71.0199581",
+      "title": "Main St and Barlett St",
+      "shortTitle": "Main & Barlett",
+      "stopId": "073",
+      "tag": "mainbarl",
+      "lat": "42.0787155"
+    },
+    "mainpark": {
+      "lon": "-71.0197558",
+      "title": "Main St and Park St",
+      "shortTitle": "Main & Park",
+      "stopId": "074",
+      "tag": "mainpark",
+      "lat": "42.0775613"
+    },
+    "maindove": {
+      "lon": "-71.019331",
+      "title": "Main St and Dover St",
+      "shortTitle": "Main & Dover",
+      "stopId": "075",
+      "tag": "maindove",
+      "lat": "42.075175"
+    },
+    "mainwill": {
+      "lon": "-71.0190865",
+      "title": "Main St and Williams Pl",
+      "shortTitle": "Main & Williams Pl",
+      "stopId": "076",
+      "tag": "mainwill",
+      "lat": "42.0740097"
+    },
+    "mainfore": {
+      "lon": "-71.0189191",
+      "title": "Main St and Forest Ave",
+      "shortTitle": "Main & Forest",
+      "stopId": "077",
+      "tag": "mainfore",
+      "lat": "42.0732605"
+    },
+    "maindavi": {
+      "lon": "-71.0182786",
+      "title": "Main St and David St",
+      "shortTitle": "Main & David",
+      "stopId": "078",
+      "tag": "maindavi",
+      "lat": "42.0710545"
+    },
+    "mainshep": {
+      "lon": "-71.0178596",
+      "title": "Main St and Sheppard St",
+      "shortTitle": "Main & Sheppard",
+      "stopId": "079",
+      "tag": "mainshep",
+      "lat": "42.0700511"
+    },
+    "maintrib": {
+      "lon": "-71.0176718",
+      "title": "Main St and Tribou St",
+      "shortTitle": "Main & Tribou",
+      "stopId": "080",
+      "tag": "maintrib",
+      "lat": "42.0695382"
+    },
+    "mainnils": {
+      "lon": "-71.0171063",
+      "title": "Main St and Nilsson St",
+      "shortTitle": "Main & Nilsson",
+      "stopId": "081",
+      "tag": "mainnils",
+      "lat": "42.0679839"
+    },
+    "maincalm": {
+      "lon": "-71.0165005",
+      "title": "Main St and Calmar St",
+      "shortTitle": "Main & Calmar",
+      "stopId": "082",
+      "tag": "maincalm",
+      "lat": "42.0663186"
+    },
+    "mainwche": {
+      "lon": "-71.0158007",
+      "title": "Main St and West Chestnut St",
+      "shortTitle": "Main & West Chestnut",
+      "stopId": "083",
+      "tag": "mainwche",
+      "lat": "42.0644183"
+    },
+    "mainsout": {
+      "lon": "-71.0154783",
+      "title": "Main St and South St",
+      "shortTitle": "Main & South",
+      "stopId": "084",
+      "tag": "mainsout",
+      "lat": "42.0635033"
+    },
+    "mainlyon": {
+      "lon": "-71.0147763",
+      "title": "Main St and Lyon St",
+      "shortTitle": "Main & Lyon",
+      "stopId": "085",
+      "tag": "mainlyon",
+      "lat": "42.0615999"
+    },
+    "mainclif": {
+      "lon": "-71.0143684",
+      "title": "Main St and Clifton Ave",
+      "shortTitle": "Main & Clifton",
+      "stopId": "086",
+      "tag": "mainclif",
+      "lat": "42.0603677"
+    },
+    "mainglen": {
+      "lon": "-71.0137841",
+      "title": "Main St and Glen Ave",
+      "shortTitle": "Main & Glen",
+      "stopId": "087",
+      "tag": "mainglen",
+      "lat": "42.0585906"
+    },
+    "compello": {
+      "lon": "-71.0135772",
+      "title": "Campello Hi Rise",
+      "stopId": "088",
+      "tag": "compello",
+      "lat": "42.0579291"
+    },
+    "mainbroo": {
+      "lon": "-71.013323",
+      "title": "Main St and Brookside Ave",
+      "shortTitle": "Main & Brookside",
+      "stopId": "089",
+      "tag": "mainbroo",
+      "lat": "42.057154"
+    },
+    "mainwats": {
+      "lon": "-71.0129369",
+      "title": "Main St and Watson St",
+      "shortTitle": "Main & Watson",
+      "stopId": "090",
+      "tag": "mainwats",
+      "lat": "42.0560147"
+    },
+    "mainholm": {
+      "lon": "-71.0126064",
+      "title": "Main St and Holmes St",
+      "shortTitle": "Main & Holmes",
+      "stopId": "091",
+      "tag": "mainholm",
+      "lat": "42.0552773"
+    },
+    "mainthay": {
+      "lon": "-71.0120529",
+      "title": "Main St and Thayer Ave",
+      "shortTitle": "Main & Thayer",
+      "stopId": "092",
+      "tag": "mainthay",
+      "lat": "42.0539487"
+    },
+    "mainsylv": {
+      "lon": "-71.0116589",
+      "title": "Main St and Sylvia Ave",
+      "shortTitle": "Main & Sylvia",
+      "stopId": "093",
+      "tag": "mainsylv",
+      "lat": "42.0529065"
+    },
+    "maincvs": {
+      "lon": "-71.0104758",
+      "title": "Main St at CVS",
+      "shortTitle": "Main @ CVS",
+      "stopId": "094",
+      "tag": "maincvs",
+      "lat": "42.0468788"
+    },
+    "kmart": {
+      "lon": "-71.011917",
+      "title": "Kmart Plaza",
+      "stopId": "095",
+      "tag": "kmart",
+      "lat": "42.045514"
+    },
+    "shawss": {
+      "lon": "-71.009317",
+      "title": "SHAWS SOUTH",
+      "stopId": "096",
+      "tag": "shawss",
+      "lat": "42.042968"
+    },
+    "mainauto": {
+      "lon": "-71.0097079",
+      "title": "Main St at Auto Dealers",
+      "shortTitle": "Main @ Auto Dealers",
+      "stopId": "097",
+      "tag": "mainauto",
+      "lat": "42.0443598"
+    },
+    "mainwend": {
+      "lon": "-71.0105739",
+      "title": "Main St at Wendys",
+      "shortTitle": "Main @ Wendys",
+      "stopId": "098",
+      "tag": "mainwend",
+      "lat": "42.0476108"
+    },
+    "maindang": {
+      "lon": "-71.0112469",
+      "title": "Main St at DAngelos",
+      "shortTitle": "Main @ DAngelos",
+      "stopId": "099",
+      "tag": "maindang",
+      "lat": "42.0507838"
+    },
+    "mainsarg": {
+      "lon": "-71.0116549",
+      "title": "Main St and Sargeants Way",
+      "shortTitle": "Main & Sargeants Way",
+      "stopId": "100",
+      "tag": "mainsarg",
+      "lat": "42.0532378"
+    },
+    "mainmead": {
+      "lon": "-71.0120599",
+      "title": "Main St and Meadow Ln",
+      "shortTitle": "Main & Meadow Ln",
+      "stopId": "101",
+      "tag": "mainmead",
+      "lat": "42.0541938"
+    },
+    "maingarf": {
+      "lon": "-71.0146799",
+      "title": "Main St and Garfield St",
+      "shortTitle": "Main & Garfield",
+      "stopId": "102",
+      "tag": "maingarf",
+      "lat": "42.0616178"
+    },
+    "mainperk": {
+      "lon": "-71.0153879",
+      "title": "Main St and Perkins Ave",
+      "shortTitle": "Main & Perkins",
+      "stopId": "103",
+      "tag": "mainperk",
+      "lat": "42.0635668"
+    },
+    "maineche": {
+      "lon": "-71.0156999",
+      "title": "Main St and East Chestnut St",
+      "shortTitle": "Main & East Chestnut",
+      "stopId": "104",
+      "tag": "maineche",
+      "lat": "42.0644228"
+    },
+    "mainpink": {
+      "lon": "-71.0161149",
+      "title": "Main St and Pinkham St",
+      "shortTitle": "Main & Pinkham",
+      "stopId": "105",
+      "tag": "mainpink",
+      "lat": "42.0655308"
+    },
+    "maingran": {
+      "lon": "-71.0173089",
+      "title": "Main St and Grand St",
+      "shortTitle": "Main & Grand",
+      "stopId": "106",
+      "tag": "maingran",
+      "lat": "42.0688918"
+    },
+    "maintemp": {
+      "lon": "-71.0176419",
+      "title": "Main St and Temple St",
+      "shortTitle": "Main & Temple",
+      "stopId": "107",
+      "tag": "maintemp",
+      "lat": "42.0697433"
+    },
+    "maingrov": {
+      "lon": "-71.0178861",
+      "title": "Main St and Grove St",
+      "shortTitle": "Main & Grove",
+      "stopId": "108",
+      "tag": "maingrov",
+      "lat": "42.0703952"
+    },
+    "mainhanc": {
+      "lon": "-71.0182659",
+      "title": "Main St and Hancock St",
+      "shortTitle": "Main & Hancock",
+      "stopId": "109",
+      "tag": "mainhanc",
+      "lat": "42.0712948"
+    },
+    "mainmain": {
+      "lon": "-71.0184873",
+      "title": "Main St and Main St Pl",
+      "shortTitle": "Main & Main Pl",
+      "stopId": "110",
+      "tag": "mainmain",
+      "lat": "42.071885"
+    },
+    "packard": {
+      "lon": "-71.0186879",
+      "title": "Packard St",
+      "shortTitle": "Packard",
+      "stopId": "111",
+      "tag": "packard",
+      "lat": "42.0727618"
+    },
+    "mainunio": {
+      "lon": "-71.0189339",
+      "title": "Main St and Union St",
+      "shortTitle": "Main & Union",
+      "stopId": "112",
+      "tag": "mainunio",
+      "lat": "42.0738508"
+    },
+    "mainexch": {
+      "lon": "-71.0193069",
+      "title": "Main St and Exchange St",
+      "shortTitle": "Main & Exchange",
+      "stopId": "113",
+      "tag": "mainexch",
+      "lat": "42.0755848"
+    },
+    "mainlawr": {
+      "lon": "-71.0195729",
+      "title": "Main St and Lawrence St",
+      "shortTitle": "Main & Lawrence",
+      "stopId": "114",
+      "tag": "mainlawr",
+      "lat": "42.0771018"
+    },
+    "mainalle": {
+      "lon": "-71.0197979",
+      "title": "Main St and Allen St",
+      "shortTitle": "Main & Allen",
+      "stopId": "115",
+      "tag": "mainalle",
+      "lat": "42.0784018"
+    },
+    "mainwhit": {
+      "lon": "-71.020016",
+      "title": "Main St and White Ave",
+      "shortTitle": "Main & White",
+      "stopId": "116",
+      "tag": "mainwhit",
+      "lat": "42.0796815"
+    },
+    "mainwest": {
+      "lon": "-71.019967",
+      "title": "Main St and West Elm St",
+      "shortTitle": "Main & West Elm",
+      "stopId": "117",
+      "tag": "mainwest",
+      "lat": "42.0823138"
+    },
+    "centmont": {
+      "lon": "-71.0174237",
+      "title": "Centre St and Montello St",
+      "shortTitle": "Centre & Montello",
+      "stopId": "118",
+      "tag": "centmont",
+      "lat": "42.084025"
+    },
+    "legimain": {
+      "lon": "-71.0200265",
+      "title": "Legion Parkway and Main St",
+      "shortTitle": "Legion Parkway & Main",
+      "stopId": "148",
+      "tag": "legimain",
+      "lat": "42.0841406"
+    },
+    "legiwarr": {
+      "lon": "-71.0228174",
+      "title": "Legion Parkway and Warren Ave",
+      "shortTitle": "Legion Parkway & Warren",
+      "stopId": "149",
+      "tag": "legiwarr",
+      "lat": "42.084006"
+    },
+    "warrwelm": {
+      "lon": "-71.023003",
+      "title": "Warren Ave and West Elm St",
+      "shortTitle": "Warren & West Elm",
+      "stopId": "150",
+      "tag": "warrwelm",
+      "lat": "42.0819946"
+    },
+    "warrarno": {
+      "lon": "-71.02292",
+      "title": "Warren Ave at Arnone School",
+      "shortTitle": "Warren @ Arnone School",
+      "stopId": "130",
+      "tag": "warrarno",
+      "lat": "42.0806286"
+    },
+    "belmnewb_o": {
+      "lon": "-71.0252932",
+      "title": "Belmont St and Newbury St",
+      "shortTitle": "Belmont & Newbury",
+      "stopId": "151",
+      "tag": "belmnewb_o",
+      "lat": "42.0794971"
+    },
+    "belmwall": {
+      "lon": "-71.0275462",
+      "title": "Belmont St and Wall St",
+      "shortTitle": "Belmont & Wall",
+      "stopId": "152",
+      "tag": "belmwall",
+      "lat": "42.0789202"
+    },
+    "belmmino_o": {
+      "lon": "-71.0294741",
+      "title": "Belmont St and Minot Ave",
+      "shortTitle": "Belmont & Minot",
+      "stopId": "153",
+      "tag": "belmmino_o",
+      "lat": "42.078578"
+    },
+    "belmelm": {
+      "lon": "-71.0307911",
+      "title": "Belmont St and Elm Ave",
+      "shortTitle": "Belmont & Elm",
+      "stopId": "131",
+      "tag": "belmelm",
+      "lat": "42.0783511"
+    },
+    "belmbelm": {
+      "lon": "-71.032173",
+      "title": "Belmont St and Belmont Ave",
+      "shortTitle": "Belmont & Belmont",
+      "stopId": "132",
+      "tag": "belmbelm",
+      "lat": "42.0781221"
+    },
+    "belmash_o": {
+      "lon": "-71.0343291",
+      "title": "Belmont St and Ash St",
+      "shortTitle": "Belmont & Ash",
+      "stopId": "133",
+      "tag": "belmash_o",
+      "lat": "42.0776762"
+    },
+    "belmmora": {
+      "lon": "-71.0361581",
+      "title": "Belmont St and Moraine St",
+      "shortTitle": "Belmont & Moraine",
+      "stopId": "134",
+      "tag": "belmmora",
+      "lat": "42.0769153"
+    },
+    "belmthur_o": {
+      "lon": "-71.0369181",
+      "title": "Belmont St and Thurber Ave",
+      "shortTitle": "Belmont & Thurber",
+      "stopId": "135",
+      "tag": "belmthur_o",
+      "lat": "42.0766333"
+    },
+    "belmkene": {
+      "lon": "-71.0376771",
+      "title": "Belmont St and Kenelworth Ave",
+      "shortTitle": "Belmont & Kenelworth",
+      "stopId": "136",
+      "tag": "belmkene",
+      "lat": "42.0763283"
+    },
+    "torrbelm": {
+      "lon": "-71.0391871",
+      "title": "Torrey St and Belmont Pl",
+      "shortTitle": "Torrey & Belmont Pl",
+      "stopId": "137",
+      "tag": "torrbelm",
+      "lat": "42.0757013"
+    },
+    "torrwest_o": {
+      "lon": "-71.0425478",
+      "title": "Torrey St and West St",
+      "shortTitle": "Torrey & West",
+      "stopId": "138",
+      "tag": "torrwest_o",
+      "lat": "42.0745321"
+    },
+    "westbelm": {
+      "lon": "-71.0427417",
+      "title": "West St and Belmont St",
+      "shortTitle": "West & Belmont",
+      "stopId": "139",
+      "tag": "westbelm",
+      "lat": "42.0735497"
+    },
+    "stapoff": {
+      "lon": "-71.0441515",
+      "title": "Staples Office",
+      "stopId": "140",
+      "tag": "stapoff",
+      "lat": "42.0731724"
+    },
+    "shawwpla": {
+      "lon": "-71.0453854",
+      "title": "Shaws West Plaza",
+      "stopId": "141",
+      "tag": "shawwpla",
+      "lat": "42.0720734"
+    },
+    "brockhs_o": {
+      "lon": "-71.0468241",
+      "title": "Brockton High School",
+      "stopId": "142",
+      "tag": "brockhs_o",
+      "lat": "42.0700452"
+    },
+    "stopshop": {
+      "lon": "-71.0469941",
+      "title": "Stop and Shop Plaza",
+      "shortTitle": "Stop & Shop Plaza",
+      "stopId": "143",
+      "tag": "stopshop",
+      "lat": "42.0697931"
+    },
+    "dangcvs": {
+      "lon": "-71.0482105",
+      "title": "DAngelos CVS",
+      "stopId": "154",
+      "tag": "dangcvs",
+      "lat": "42.0690732"
+    },
+    "belmtorr": {
+      "lon": "-71.0495615",
+      "title": "Belmont St and Torrey Ave",
+      "shortTitle": "Belmont & Torrey",
+      "stopId": "144",
+      "tag": "belmtorr",
+      "lat": "42.0682662"
+    },
+    "belmlorr_o": {
+      "lon": "-71.0507525",
+      "title": "Belmont St and Lorraine Ave",
+      "shortTitle": "Belmont & Lorraine",
+      "stopId": "145",
+      "tag": "belmlorr_o",
+      "lat": "42.0676532"
+    },
+    "belmedin_o": {
+      "lon": "-71.0539687",
+      "title": "Belmont St and Edinboro Ave",
+      "shortTitle": "Belmont & Edinboro",
+      "stopId": "146",
+      "tag": "belmedin_o",
+      "lat": "42.0656919"
+    },
+    "vethosp": {
+      "lon": "-71.0536701",
+      "title": "Veterans Hospital",
+      "stopId": "147",
+      "tag": "vethosp",
+      "lat": "42.0636298"
+    },
+    "belmvaen": {
+      "lon": "-71.0549129",
+      "title": "Belmont St at VA Entrance",
+      "shortTitle": "Belmont @ VA Entrance",
+      "stopId": "155",
+      "tag": "belmvaen",
+      "lat": "42.0649611"
+    },
+    "belmedin": {
+      "lon": "-71.0539179",
+      "title": "Belmont St and Edinboro Ave",
+      "shortTitle": "Belmont & Edinboro",
+      "stopId": "156",
+      "tag": "belmedin",
+      "lat": "42.065618"
+    },
+    "belmlorr": {
+      "lon": "-71.0508118",
+      "title": "Belmont St and Lorraine Ave",
+      "shortTitle": "Belmont & Lorraine",
+      "stopId": "157",
+      "tag": "belmlorr",
+      "lat": "42.067458"
+    },
+    "belmdunk": {
+      "lon": "-71.0495556",
+      "title": "Belmont St at Dunkin Donuts",
+      "shortTitle": "Belmont @ Dunkin Donuts",
+      "stopId": "158",
+      "tag": "belmdunk",
+      "lat": "42.0681332"
+    },
+    "dangcvsp": {
+      "lon": "-71.0485298",
+      "title": "DAngelos CVS Plaza",
+      "stopId": "159",
+      "tag": "dangcvsp",
+      "lat": "42.06872"
+    },
+    "brockhs": {
+      "lon": "-71.0461409",
+      "title": "Brockton High School",
+      "stopId": "160",
+      "tag": "brockhs",
+      "lat": "42.0701439"
+    },
+    "torrbat": {
+      "lon": "-71.0447354",
+      "title": "Torrey St at Bat Shelter",
+      "shortTitle": "Torrey @ Bat Shelter",
+      "stopId": "161",
+      "tag": "torrbat",
+      "lat": "42.0740419"
+    },
+    "torrwest": {
+      "lon": "-71.0429564",
+      "title": "Torrey St and West St",
+      "shortTitle": "Torrey & West",
+      "stopId": "162",
+      "tag": "torrwest",
+      "lat": "42.0743469"
+    },
+    "belmbats": {
+      "lon": "-71.0391976",
+      "title": "Belmont St at Bat Shelter",
+      "shortTitle": "Belmont @ Bat Shelter",
+      "stopId": "163",
+      "tag": "belmbats",
+      "lat": "42.0755862"
+    },
+    "belmfair": {
+      "lon": "-71.0371889",
+      "title": "Belmont St at Fairgrounds",
+      "shortTitle": "Belmont @ Fairgrounds",
+      "stopId": "164",
+      "tag": "belmfair",
+      "lat": "42.0764116"
+    },
+    "belmthur": {
+      "lon": "-71.0367006",
+      "title": "Belmont St and Thurber Ave",
+      "shortTitle": "Belmont & Thurber",
+      "stopId": "165",
+      "tag": "belmthur",
+      "lat": "42.0766147"
+    },
+    "belmash": {
+      "lon": "-71.0339507",
+      "title": "Belmont St and Ash St",
+      "shortTitle": "Belmont & Ash",
+      "stopId": "166",
+      "tag": "belmash",
+      "lat": "42.0776815"
+    },
+    "belmmano": {
+      "lon": "-71.0319399",
+      "title": "Belmont St and Manomet St",
+      "shortTitle": "Belmont & Manomet",
+      "stopId": "167",
+      "tag": "belmmano",
+      "lat": "42.0780802"
+    },
+    "belmgraf": {
+      "lon": "-71.0307384",
+      "title": "Belmont St and Grafton St",
+      "shortTitle": "Belmont & Grafton",
+      "stopId": "168",
+      "tag": "belmgraf",
+      "lat": "42.0782802"
+    },
+    "belmmino": {
+      "lon": "-71.0295028",
+      "title": "Belmont St and Minot Ave",
+      "shortTitle": "Belmont & Minot",
+      "stopId": "169",
+      "tag": "belmmino",
+      "lat": "42.0784967"
+    },
+    "belmnewb": {
+      "lon": "-71.025495",
+      "title": "Belmont St and Newbury St",
+      "shortTitle": "Belmont & Newbury",
+      "stopId": "170",
+      "tag": "belmnewb",
+      "lat": "42.0793471"
+    },
+    "belmcott": {
+      "lon": "-71.0220336",
+      "title": "Belmont St and Cottage St",
+      "shortTitle": "Belmont & Cottage",
+      "stopId": "172",
+      "tag": "belmcott",
+      "lat": "42.0801948"
+    },
+    "cresmapl": {
+      "lon": "-71.0185559",
+      "title": "Crescent St and Maple Ave",
+      "shortTitle": "Crescent & Maple",
+      "stopId": "173",
+      "tag": "cresmapl",
+      "lat": "42.081221"
+    },
+    "commcent": {
+      "lon": "-71.0154049",
+      "title": "Commercial St at Centre St",
+      "shortTitle": "Commercial @ Centre",
+      "stopId": "175",
+      "tag": "commcent",
+      "lat": "42.0838029"
+    },
+    "pleamain": {
+      "lon": "-71.0200937",
+      "title": "Pleasant St at Main St",
+      "shortTitle": "Pleasant @ Main",
+      "stopId": "190",
+      "tag": "pleamain",
+      "lat": "42.0855602"
+    },
+    "pleahere": {
+      "lon": "-71.0223944",
+      "title": "Pleasant St at Hereford St",
+      "shortTitle": "Pleasant @ Hereford",
+      "stopId": "191",
+      "tag": "pleahere",
+      "lat": "42.0856958"
+    },
+    "pleaspri": {
+      "lon": "-71.0243963",
+      "title": "Pleasant St and Spring St",
+      "shortTitle": "Pleasant & Spring",
+      "stopId": "192",
+      "tag": "pleaspri",
+      "lat": "42.08612"
+    },
+    "pleaoakl": {
+      "lon": "-71.0276624",
+      "title": "Pleasant St and Oakland Ave",
+      "shortTitle": "Pleasant & Oakland",
+      "stopId": "193",
+      "tag": "pleaoakl",
+      "lat": "42.0868205"
+    },
+    "pleacolo": {
+      "lon": "-71.0283917",
+      "title": "Pleasant St and Colonial St",
+      "shortTitle": "Pleasant & Colonial",
+      "stopId": "194",
+      "tag": "pleacolo",
+      "lat": "42.0869735"
+    },
+    "pleawesto": {
+      "lon": "-71.0304058",
+      "title": "Pleasant St and Weston St",
+      "shortTitle": "Pleasant & Weston",
+      "stopId": "195",
+      "tag": "pleawesto",
+      "lat": "42.0873992"
+    },
+    "pleaelli": {
+      "lon": "-71.0318869",
+      "title": "Pleasant St at Ellis St",
+      "shortTitle": "Pleasant @ Ellis",
+      "stopId": "196",
+      "tag": "pleaelli",
+      "lat": "42.0877179"
+    },
+    "pleaaugu": {
+      "lon": "-71.033368",
+      "title": "Pleasant St at Augusta Ave",
+      "shortTitle": "Pleasant @ Augusta",
+      "stopId": "197",
+      "tag": "pleaaugu",
+      "lat": "42.0880279"
+    },
+    "pleanash": {
+      "lon": "-71.0354031",
+      "title": "Pleasant St at North Ash St",
+      "shortTitle": "Pleasant @ North Ash",
+      "stopId": "198",
+      "tag": "pleanash",
+      "lat": "42.0884559"
+    },
+    "pleabela": {
+      "lon": "-71.0372262",
+      "title": "Pleasant St and Belair St",
+      "shortTitle": "Pleasant & Belair",
+      "stopId": "199",
+      "tag": "pleabela",
+      "lat": "42.0888512"
+    },
+    "pleafiel": {
+      "lon": "-71.0386647",
+      "title": "Plesant St and Fields Ave",
+      "shortTitle": "Plesant & Fields",
+      "stopId": "200",
+      "tag": "pleafiel",
+      "lat": "42.0891427"
+    },
+    "pleaelmw": {
+      "lon": "-71.0411355",
+      "title": "Pleasant St and Elmwood Ave",
+      "shortTitle": "Pleasant & Elmwood",
+      "stopId": "201",
+      "tag": "pleaelmw",
+      "lat": "42.0895485"
+    },
+    "pennsylv": {
+      "lon": "-71.0444096",
+      "title": "Pennsylvania Ave",
+      "shortTitle": "Pennsylvania",
+      "stopId": "202",
+      "tag": "pennsylv",
+      "lat": "42.0892933"
+    },
+    "pleawest_o": {
+      "lon": "-71.0467218",
+      "title": "Pleasant St and West St",
+      "shortTitle": "Pleasant & West",
+      "stopId": "203",
+      "tag": "pleawest_o",
+      "lat": "42.0888838"
+    },
+    "westlane": {
+      "lon": "-71.0485839",
+      "title": "Westgate Lanes",
+      "stopId": "204",
+      "tag": "westlane",
+      "lat": "42.0903732"
+    },
+    "mallentr": {
+      "lon": "-71.049599",
+      "title": "Mall Entrance",
+      "stopId": "205",
+      "tag": "mallentr",
+      "lat": "42.0915527"
+    },
+    "acmoore": {
+      "lon": "-71.0514665",
+      "title": "AC Moore",
+      "stopId": "206",
+      "tag": "acmoore",
+      "lat": "42.0921718"
+    },
+    "macys": {
+      "lon": "-71.0505306",
+      "title": "Macys",
+      "stopId": "207",
+      "tag": "macys",
+      "lat": "42.0961303"
+    },
+    "westmall": {
+      "lon": "-71.049742",
+      "title": "Westgate Mall",
+      "stopId": "208",
+      "tag": "westmall",
+      "lat": "42.0958769"
+    },
+    "campself": {
+      "lon": "-71.0523669",
+      "title": "Campanelli Dr At Self Storage",
+      "shortTitle": "Campanelli Dr @ Self Storage",
+      "stopId": "209",
+      "tag": "campself",
+      "lat": "42.0980193"
+    },
+    "camptoys": {
+      "lon": "-71.0525109",
+      "title": "Campanelli Dr at ToysRUs",
+      "shortTitle": "Campanelli Dr @ ToysRUs",
+      "stopId": "210",
+      "tag": "camptoys",
+      "lat": "42.0994861"
+    },
+    "oakchatw": {
+      "lon": "-71.0531244",
+      "title": "Oak St and Chatham West Dr",
+      "shortTitle": "Oak & Chatham West Dr",
+      "stopId": "211",
+      "tag": "oakchatw",
+      "lat": "42.1017051"
+    },
+    "oakpine": {
+      "lon": "-71.0586694",
+      "title": "Oak St at Pine Estates",
+      "shortTitle": "Oak @ Pine Estates",
+      "stopId": "213",
+      "tag": "oakpine",
+      "lat": "42.1010299"
+    },
+    "oakrese": {
+      "lon": "-71.0623301",
+      "title": "Oak St and Reservoir St",
+      "shortTitle": "Oak & Reservoir",
+      "stopId": "214",
+      "tag": "oakrese",
+      "lat": "42.1003689"
+    },
+    "goodsamh": {
+      "lon": "-71.062512",
+      "title": "Good Samaritan Hospital",
+      "stopId": "215",
+      "tag": "goodsamh",
+      "lat": "42.097933"
+    },
+    "oakxrese": {
+      "lon": "-71.0632301",
+      "title": "Oak St Ext and Reservoir St",
+      "shortTitle": "Oak Ext & Reservoir",
+      "stopId": "216",
+      "tag": "oakxrese",
+      "lat": "42.1002308"
+    },
+    "oakxpear": {
+      "lon": "-71.0654259",
+      "title": "Oak St Ext and Pearl St",
+      "shortTitle": "Oak Ext & Pearl",
+      "stopId": "217",
+      "tag": "oakxpear",
+      "lat": "42.0999279"
+    },
+    "npeareyn": {
+      "lon": "-71.0660308",
+      "title": "North Pearl St and Reynolds Hwy",
+      "shortTitle": "North Pearl & Reynolds Hwy",
+      "stopId": "218",
+      "tag": "npeareyn",
+      "lat": "42.0981429"
+    },
+    "fentpear": {
+      "lon": "-71.0651834",
+      "title": "First Entrance on Pearl St",
+      "shortTitle": "First Entrance on Pearl",
+      "stopId": "219",
+      "tag": "fentpear",
+      "lat": "42.0951099"
+    },
+    "entmelpe": {
+      "lon": "-71.0648139",
+      "title": "Entrance - Melrose on Pearl St",
+      "shortTitle": "Entrance - Melrose on Pearl",
+      "stopId": "220",
+      "tag": "entmelpe",
+      "lat": "42.0933508"
+    },
+    "lastentp": {
+      "lon": "-71.0645251",
+      "title": "Last Entrance on Pearl St",
+      "shortTitle": "Last Entrance on Pearl",
+      "stopId": "221",
+      "tag": "lastentp",
+      "lat": "42.0918172"
+    },
+    "pearbrae": {
+      "lon": "-71.0643751",
+      "title": "Pearl St at Braemoor Nursing Home",
+      "shortTitle": "Pearl @ Braemoor Nursing Home",
+      "stopId": "222",
+      "tag": "pearbrae",
+      "lat": "42.0900973"
+    },
+    "pearplea": {
+      "lon": "-71.0636948",
+      "title": "Pearl St and Pleasant St",
+      "shortTitle": "Pearl & Pleasant",
+      "stopId": "223",
+      "tag": "pearplea",
+      "lat": "42.0890615"
+    },
+    "pleahanc": {
+      "lon": "-71.0631165",
+      "title": "Pleasant St and Hancock Ave",
+      "shortTitle": "Pleasant & Hancock",
+      "stopId": "224",
+      "tag": "pleahanc",
+      "lat": "42.0889275"
+    },
+    "pleairvi": {
+      "lon": "-71.061998",
+      "title": "Pleasant St and Irving Ave",
+      "shortTitle": "Pleasant & Irving",
+      "stopId": "225",
+      "tag": "pleairvi",
+      "lat": "42.0886528"
+    },
+    "plearock": {
+      "lon": "-71.0599619",
+      "title": "Pleasant St and Rockland St",
+      "shortTitle": "Pleasant & Rockland",
+      "stopId": "226",
+      "tag": "plearock",
+      "lat": "42.0881182"
+    },
+    "810plegs": {
+      "lon": "-71.0556009",
+      "title": "810 Pleasant St and Gerrys Stand",
+      "shortTitle": "810 Pleasant & Gerrys Stand",
+      "stopId": "227",
+      "tag": "810plegs",
+      "lat": "42.0875027"
+    },
+    "pleawanh": {
+      "lon": "-71.0524899",
+      "title": "Pleasant St at West Acres Nursing Home",
+      "shortTitle": "Pleasant @ West Acres Nursing Home",
+      "stopId": "228",
+      "tag": "pleawanh",
+      "lat": "42.0878848"
+    },
+    "pleatroy": {
+      "lon": "-71.0498832",
+      "title": "Pleasant St and Troy St",
+      "shortTitle": "Pleasant & Troy",
+      "stopId": "229",
+      "tag": "pleatroy",
+      "lat": "42.0882055"
+    },
+    "pleafern": {
+      "lon": "-71.048127",
+      "title": "Pleasant St and Fern St",
+      "shortTitle": "Pleasant & Fern",
+      "stopId": "230",
+      "tag": "pleafern",
+      "lat": "42.0884229"
+    },
+    "pleawest": {
+      "lon": "-71.0456981",
+      "title": "Pleasant St at West St",
+      "shortTitle": "Pleasant @ West",
+      "stopId": "231",
+      "tag": "pleawest",
+      "lat": "42.0889461"
+    },
+    "plealenn": {
+      "lon": "-71.0430462",
+      "title": "Pleasant St at Lennox St",
+      "shortTitle": "Pleasant @ Lennox",
+      "stopId": "232",
+      "tag": "plealenn",
+      "lat": "42.0894651"
+    },
+    "pleawhee": {
+      "lon": "-71.0401549",
+      "title": "Pleasant St at Wheeler Ave",
+      "shortTitle": "Pleasant @ Wheeler",
+      "stopId": "233",
+      "tag": "pleawhee",
+      "lat": "42.0894152"
+    },
+    "pleamorr": {
+      "lon": "-71.0373283",
+      "title": "Pleasant St and Morraine St",
+      "shortTitle": "Pleasant & Morraine",
+      "stopId": "234",
+      "tag": "pleamorr",
+      "lat": "42.0888174"
+    },
+    "pleaash": {
+      "lon": "-71.0355001",
+      "title": "Pleasant St at Ash St",
+      "shortTitle": "Pleasant @ Ash",
+      "stopId": "235",
+      "tag": "pleaash",
+      "lat": "42.0884359"
+    },
+    "pleabelm": {
+      "lon": "-71.0330982",
+      "title": "Pleasant St and Belmont Ave",
+      "shortTitle": "Pleasant & Belmont",
+      "stopId": "236",
+      "tag": "pleabelm",
+      "lat": "42.087927"
+    },
+    "pleafeci": {
+      "lon": "-71.0312951",
+      "title": "Pleasant St and Fenway Cir",
+      "shortTitle": "Pleasant & Fenway Cir",
+      "stopId": "237",
+      "tag": "pleafeci",
+      "lat": "42.0875457"
+    },
+    "pleasimm": {
+      "lon": "-71.0304506",
+      "title": "Pleasant St and Simmons Ave",
+      "shortTitle": "Pleasant & Simmons",
+      "stopId": "238",
+      "tag": "pleasimm",
+      "lat": "42.0873651"
+    },
+    "pleanye": {
+      "lon": "-71.0288173",
+      "title": "Pleasant St and Nye Ave",
+      "shortTitle": "Pleasant & Nye",
+      "stopId": "239",
+      "tag": "pleanye",
+      "lat": "42.0870171"
+    },
+    "pleaglen": {
+      "lon": "-71.0263244",
+      "title": "Pleasant St at Glenwood St",
+      "shortTitle": "Pleasant @ Glenwood",
+      "stopId": "240",
+      "tag": "pleaglen",
+      "lat": "42.0864914"
+    },
+    "pleawarr": {
+      "lon": "-71.0233753",
+      "title": "Pleasant St and Warren Ave",
+      "shortTitle": "Pleasant & Warren",
+      "stopId": "241",
+      "tag": "pleawarr",
+      "lat": "42.0852967"
+    },
+    "warrhigh": {
+      "lon": "-71.0230986",
+      "title": "Warren Ave and Highland St",
+      "shortTitle": "Warren & Highland",
+      "stopId": "242",
+      "tag": "warrhigh",
+      "lat": "42.0841363"
+    },
+    "legipadd": {
+      "lon": "-71.0224717",
+      "title": "Legion Parkway and Paddy Ln",
+      "shortTitle": "Legion Parkway & Paddy Ln",
+      "stopId": "243",
+      "tag": "legipadd",
+      "lat": "42.0838135"
+    },
+    "nmaicour": {
+      "lon": "-71.0197783",
+      "title": "North Main St and Court St",
+      "shortTitle": "North Main & Court",
+      "stopId": "250",
+      "tag": "nmaicour",
+      "lat": "42.0857298"
+    },
+    "sprinmai": {
+      "lon": "-71.0199135",
+      "title": "Spring St and North Main St",
+      "shortTitle": "Spring & North Main",
+      "stopId": "251",
+      "tag": "sprinmai",
+      "lat": "42.0868974"
+    },
+    "spriwaln": {
+      "lon": "-71.0221984",
+      "title": "Spring St and Walnut St",
+      "shortTitle": "Spring & Walnut",
+      "stopId": "252",
+      "tag": "spriwaln",
+      "lat": "42.0866397"
+    },
+    "nwarspri": {
+      "lon": "-71.0236941",
+      "title": "North Warren Ave and Spring St",
+      "shortTitle": "North Warren & Spring",
+      "stopId": "253",
+      "tag": "nwarspri",
+      "lat": "42.0865608"
+    },
+    "nwarwyma": {
+      "lon": "-71.0246189",
+      "title": "North Warren Ave and Wyman St",
+      "shortTitle": "North Warren & Wyman",
+      "stopId": "254",
+      "tag": "nwarwyma",
+      "lat": "42.0890601"
+    },
+    "nwarwaln": {
+      "lon": "-71.0249492",
+      "title": "North Warren Ave and Walnut Ave",
+      "shortTitle": "North Warren & Walnut",
+      "stopId": "255",
+      "tag": "nwarwaln",
+      "lat": "42.0899464"
+    },
+    "nwarpros_o": {
+      "lon": "-71.0253696",
+      "title": "North Warren Ave and Prospect St",
+      "shortTitle": "North Warren & Prospect",
+      "stopId": "256",
+      "tag": "nwarpros_o",
+      "lat": "42.0910753"
+    },
+    "nwarhunn": {
+      "lon": "-71.0260081",
+      "title": "North Warren Ave and Hunnington St",
+      "shortTitle": "North Warren & Hunnington",
+      "stopId": "257",
+      "tag": "nwarhunn",
+      "lat": "42.0926768"
+    },
+    "nwarford_o": {
+      "lon": "-71.0265581",
+      "title": "North Warren Ave and Ford St",
+      "shortTitle": "North Warren & Ford",
+      "stopId": "258",
+      "tag": "nwarford_o",
+      "lat": "42.0940002"
+    },
+    "nwarrich_o": {
+      "lon": "-71.027366",
+      "title": "North Warren Ave and Richmond St",
+      "shortTitle": "North Warren & Richmond",
+      "stopId": "259",
+      "tag": "nwarrich_o",
+      "lat": "42.0959616"
+    },
+    "nwarbatt": {
+      "lon": "-71.0279635",
+      "title": "North Warren Ave and Battles St",
+      "shortTitle": "North Warren & Battles",
+      "stopId": "260",
+      "tag": "nwarbatt",
+      "lat": "42.0974063"
+    },
+    "battfarm": {
+      "lon": "-71.029339",
+      "title": "Battles Farm Drive",
+      "stopId": "261",
+      "tag": "battfarm",
+      "lat": "42.0982436"
+    },
+    "batttint": {
+      "lon": "-71.0287614",
+      "title": "Battles Farm Dr and T Intersection",
+      "shortTitle": "Battles Farm Dr & T Intersection",
+      "stopId": "262",
+      "tag": "batttint",
+      "lat": "42.099179"
+    },
+    "nwarxken_o": {
+      "lon": "-71.0294313",
+      "title": "North Warren Ave Ext at Kennedy Dr",
+      "shortTitle": "North Warren Ext @ Kennedy Dr",
+      "stopId": "263",
+      "tag": "nwarxken_o",
+      "lat": "42.1006979"
+    },
+    "nwarxoak_o": {
+      "lon": "-71.030103",
+      "title": "North Warren Ave Ext and Oak St",
+      "shortTitle": "North Warren Ext & Oak",
+      "stopId": "264",
+      "tag": "nwarxoak_o",
+      "lat": "42.1022116"
+    },
+    "fairooak": {
+      "lon": "-71.0334755",
+      "title": "Fairway Oaks and Oak St",
+      "shortTitle": "Fairway Oaks & Oak",
+      "stopId": "265",
+      "tag": "fairooak",
+      "lat": "42.1015358"
+    },
+    "oakcola": {
+      "lon": "-71.0367522",
+      "title": "Oak St and Colantha Ave",
+      "shortTitle": "Oak & Colantha",
+      "stopId": "266",
+      "tag": "oakcola",
+      "lat": "42.1009996"
+    },
+    "dwfgolf": {
+      "lon": "-71.0395695",
+      "title": "DW Field Golf Course",
+      "stopId": "267",
+      "tag": "dwfgolf",
+      "lat": "42.1012152"
+    },
+    "fullmuse": {
+      "lon": "-71.044984",
+      "title": "Fuller Art Museum",
+      "stopId": "268",
+      "tag": "fullmuse",
+      "lat": "42.1016521"
+    },
+    "greekoch": {
+      "lon": "-71.0482187",
+      "title": "Greek Orthodox Church",
+      "stopId": "269",
+      "tag": "greekoch",
+      "lat": "42.1017833"
+    },
+    "campoak": {
+      "lon": "-71.0528127",
+      "title": "Campanelli Dr and Oak St",
+      "shortTitle": "Campanelli Dr & Oak",
+      "stopId": "271",
+      "tag": "campoak",
+      "lat": "42.1015211"
+    },
+    "campauto": {
+      "lon": "-71.0524799",
+      "title": "Campanelli Dr at Auto Zone Warehouse",
+      "shortTitle": "Campanelli Dr @ Auto Zone Warehouse",
+      "stopId": "272",
+      "tag": "campauto",
+      "lat": "42.098395"
+    },
+    "westdent": {
+      "lon": "-71.0549987",
+      "title": "Westgate Dr at Dentist Building",
+      "shortTitle": "Westgate Dr @ Dentist Building",
+      "stopId": "273",
+      "tag": "westdent",
+      "lat": "42.0932555"
+    },
+    "searmacy": {
+      "lon": "-71.049742",
+      "title": "Sears and Macys",
+      "shortTitle": "Sears & Macys",
+      "stopId": "873",
+      "tag": "searmacy",
+      "lat": "42.0958769"
+    },
+    "oakoakri": {
+      "lon": "-71.037578",
+      "title": "Oak St and Oakridge Dr",
+      "shortTitle": "Oak & Oakridge Dr",
+      "stopId": "274",
+      "tag": "oakoakri",
+      "lat": "42.1010065"
+    },
+    "oakvilla": {
+      "lon": "-71.0328742",
+      "title": "Oak St across from Village Way",
+      "shortTitle": "Oak across from Village Way",
+      "stopId": "275",
+      "tag": "oakvilla",
+      "lat": "42.1017336"
+    },
+    "nwarxoak": {
+      "lon": "-71.0301933",
+      "title": "North Warren Ave Ext and Oak St",
+      "shortTitle": "North Warren Ext & Oak",
+      "stopId": "276",
+      "tag": "nwarxoak",
+      "lat": "42.1023186"
+    },
+    "nwarxken": {
+      "lon": "-71.0294647",
+      "title": "North Warren Ave Ext at Kennedy Dr",
+      "shortTitle": "North Warren Ext @ Kennedy Dr",
+      "stopId": "277",
+      "tag": "nwarxken",
+      "lat": "42.1006735"
+    },
+    "battrutl": {
+      "lon": "-71.0290167",
+      "title": "Battles Farm Dr at Rutland St",
+      "shortTitle": "Battles Farm Dr @ Rutland",
+      "stopId": "278",
+      "tag": "battrutl",
+      "lat": "42.1002853"
+    },
+    "battrent": {
+      "lon": "-71.0293765",
+      "title": "Battles Farm Dr at Rental Office",
+      "shortTitle": "Battles Farm Dr @ Rental Office",
+      "stopId": "279",
+      "tag": "battrent",
+      "lat": "42.0981795"
+    },
+    "nwarrich": {
+      "lon": "-71.0274586",
+      "title": "North Warren Ave at Richmond St",
+      "shortTitle": "North Warren @ Richmond",
+      "stopId": "280",
+      "tag": "nwarrich",
+      "lat": "42.0960547"
+    },
+    "nwarford": {
+      "lon": "-71.0266011",
+      "title": "North Warren Ave at Ford St",
+      "shortTitle": "North Warren @ Ford",
+      "stopId": "281",
+      "tag": "nwarford",
+      "lat": "42.0939856"
+    },
+    "nwarpros": {
+      "lon": "-71.0254298",
+      "title": "North Warren Ave at Prospect St",
+      "shortTitle": "North Warren @ Prospect",
+      "stopId": "282",
+      "tag": "nwarpros",
+      "lat": "42.0911014"
+    },
+    "nwarmilt": {
+      "lon": "-71.0249888",
+      "title": "North Warren Ave at Milton St",
+      "shortTitle": "North Warren @ Milton",
+      "stopId": "283",
+      "tag": "nwarmilt",
+      "lat": "42.0899288"
+    },
+    "warrwyma": {
+      "lon": "-71.024669",
+      "title": "North Warren Ave across from Wyman St",
+      "shortTitle": "North Warren across from Wyman",
+      "stopId": "284",
+      "tag": "warrwyma",
+      "lat": "42.089064"
+    },
+    "warrspri": {
+      "lon": "-71.0236755",
+      "title": "North Warren Ave at Spring St",
+      "shortTitle": "North Warren @ Spring",
+      "stopId": "285",
+      "tag": "warrspri",
+      "lat": "42.086363"
+    },
+    "cresotis": {
+      "lon": "-71.0140663",
+      "title": "Crescent St and Otis St",
+      "shortTitle": "Crescent & Otis",
+      "stopId": "061",
+      "tag": "cresotis",
+      "lat": "42.0805951"
+    },
+    "cressumm": {
+      "lon": "-71.0119539",
+      "title": "Crescent St and Summer St",
+      "shortTitle": "Crescent & Summer",
+      "stopId": "062",
+      "tag": "cressumm",
+      "lat": "42.0802098"
+    },
+    "lymaerie": {
+      "lon": "-71.0076813",
+      "title": "Lyman St and Erie Ave",
+      "shortTitle": "Lyman & Erie",
+      "stopId": "063",
+      "tag": "lymaerie",
+      "lat": "42.0807749"
+    },
+    "lymawend_o": {
+      "lon": "-71.0055535",
+      "title": "Lyman St and Wendell Ave",
+      "shortTitle": "Lyman & Wendell",
+      "stopId": "064",
+      "tag": "lymawend_o",
+      "lat": "42.0822206"
+    },
+    "lymacent_o": {
+      "lon": "-71.005015",
+      "title": "Lyman St and Centre St",
+      "shortTitle": "Lyman & Centre",
+      "stopId": "065",
+      "tag": "lymacent_o",
+      "lat": "42.083485"
+    },
+    "centking": {
+      "lon": "-71.0029262",
+      "title": "Centre St and Kingman St",
+      "shortTitle": "Centre & Kingman",
+      "stopId": "066",
+      "tag": "centking",
+      "lat": "42.0841035"
+    },
+    "centhill": {
+      "lon": "-70.9999013",
+      "title": "Centre St and Hill St",
+      "shortTitle": "Centre & Hill",
+      "stopId": "067",
+      "tag": "centhill",
+      "lat": "42.0846572"
+    },
+    "centglad": {
+      "lon": "-70.9971216",
+      "title": "Centre St and Gladstone St",
+      "shortTitle": "Centre & Gladstone",
+      "stopId": "068",
+      "tag": "centglad",
+      "lat": "42.0852282"
+    },
+    "centplaz": {
+      "lon": "-70.994815",
+      "title": "Centre St at Plaza",
+      "shortTitle": "Centre @ Plaza",
+      "stopId": "069",
+      "tag": "centplaz",
+      "lat": "42.0845624"
+    },
+    "centgale": {
+      "lon": "-70.9945048",
+      "title": "Centre St and Galen St",
+      "shortTitle": "Centre & Galen",
+      "stopId": "119",
+      "tag": "centgale",
+      "lat": "42.0856933"
+    },
+    "centbroc": {
+      "lon": "-70.9928855",
+      "title": "Centre St and Brockton Ave",
+      "shortTitle": "Centre & Brockton",
+      "stopId": "120",
+      "tag": "centbroc",
+      "lat": "42.0859299"
+    },
+    "brockhos": {
+      "lon": "-70.9918341",
+      "title": "Brockton Hospital",
+      "stopId": "121",
+      "tag": "brockhos",
+      "lat": "42.0875152"
+    },
+    "centster_o": {
+      "lon": "-70.9903238",
+      "title": "Centre St and Sterling Rd",
+      "shortTitle": "Centre & Sterling",
+      "stopId": "122",
+      "tag": "centster_o",
+      "lat": "42.0862619"
+    },
+    "libbcent": {
+      "lon": "-70.9896097",
+      "title": "Libby St and Centre St",
+      "shortTitle": "Libby & Centre",
+      "stopId": "123",
+      "tag": "libbcent",
+      "lat": "42.0867254"
+    },
+    "libbquin": {
+      "lon": "-70.9898829",
+      "title": "Libby St and Quincy Ave",
+      "shortTitle": "Libby & Quincy",
+      "stopId": "124",
+      "tag": "libbquin",
+      "lat": "42.0886514"
+    },
+    "quindocb": {
+      "lon": "-70.988035",
+      "title": "Quincy St at Doctors Building",
+      "shortTitle": "Quincy @ Doctors Building",
+      "stopId": "126",
+      "tag": "quindocb",
+      "lat": "42.0880975"
+    },
+    "centguil": {
+      "lon": "-70.9845067",
+      "title": "Centre St at Guild Rd",
+      "shortTitle": "Centre @ Guild",
+      "stopId": "127",
+      "tag": "centguil",
+      "lat": "42.0870379"
+    },
+    "centhasa": {
+      "lon": "-70.9827067",
+      "title": "Centre St at Harold St-Ames Rd",
+      "shortTitle": "Centre @ Harold St-Ames",
+      "stopId": "128",
+      "tag": "centhasa",
+      "lat": "42.0872729"
+    },
+    "centedwa": {
+      "lon": "-70.9803377",
+      "title": "Centre St and Edward St",
+      "shortTitle": "Centre & Edward",
+      "stopId": "129",
+      "tag": "centedwa",
+      "lat": "42.0876488"
+    },
+    "brocline": {
+      "lon": "-70.9761016",
+      "title": "Brockton Ave at Line",
+      "shortTitle": "Brockton @ Line",
+      "stopId": "177",
+      "tag": "brocline",
+      "lat": "42.0893968"
+    },
+    "centbate": {
+      "lon": "-70.9815238",
+      "title": "Centre St and Bates Rd",
+      "shortTitle": "Centre & Bates",
+      "stopId": "987",
+      "tag": "centbate",
+      "lat": "42.0875545"
+    },
+    "centquin": {
+      "lon": "-70.9864378",
+      "title": "Centre St and Quincy St",
+      "shortTitle": "Centre & Quincy",
+      "stopId": "988",
+      "tag": "centquin",
+      "lat": "42.0868695"
+    },
+    "centster": {
+      "lon": "-70.9906459",
+      "title": "Centre St and Sterling Rd",
+      "shortTitle": "Centre & Sterling",
+      "stopId": "989",
+      "tag": "centster",
+      "lat": "42.0863135"
+    },
+    "centadam": {
+      "lon": "-70.9928053",
+      "title": "Centre St and Adams St",
+      "shortTitle": "Centre & Adams",
+      "stopId": "990",
+      "tag": "centadam",
+      "lat": "42.0860491"
+    },
+    "centprin": {
+      "lon": "-70.9938724",
+      "title": "Centre St and Prince St",
+      "shortTitle": "Centre & Prince",
+      "stopId": "991",
+      "tag": "centprin",
+      "lat": "42.0858807"
+    },
+    "centhowl": {
+      "lon": "-70.9959114",
+      "title": "Centre St and Howland St",
+      "shortTitle": "Centre & Howland",
+      "stopId": "992",
+      "tag": "centhowl",
+      "lat": "42.0855637"
+    },
+    "centsher": {
+      "lon": "-70.9974395",
+      "title": "Centre St and Sheridan St",
+      "shortTitle": "Centre & Sheridan",
+      "stopId": "993",
+      "tag": "centsher",
+      "lat": "42.0852569"
+    },
+    "eastjhs": {
+      "lon": "-71.0002916",
+      "title": "East Junior High School",
+      "stopId": "994",
+      "tag": "eastjhs",
+      "lat": "42.0846442"
+    },
+    "lymacent": {
+      "lon": "-71.0046174",
+      "title": "Lyman St and Centre St",
+      "shortTitle": "Lyman & Centre",
+      "stopId": "996",
+      "tag": "lymacent",
+      "lat": "42.0839235"
+    },
+    "centcary": {
+      "lon": "-71.0050585",
+      "title": "Centre St and Cary St",
+      "shortTitle": "Centre & Cary",
+      "stopId": "995",
+      "tag": "centcary",
+      "lat": "42.0835205"
+    },
+    "lymawend": {
+      "lon": "-71.0052279",
+      "title": "Lyman St and Wendell Ave",
+      "shortTitle": "Lyman & Wendell",
+      "stopId": "997",
+      "tag": "lymawend",
+      "lat": "42.0825329"
+    },
+    "lymacres": {
+      "lon": "-71.0078034",
+      "title": "Lyman and Crescent Ave",
+      "shortTitle": "Lyman & Crescent",
+      "stopId": "998",
+      "tag": "lymacres",
+      "lat": "42.0806889"
+    },
+    "cresplym": {
+      "lon": "-71.0120423",
+      "title": "Crescent Ave and Plymouth St",
+      "shortTitle": "Crescent & Plymouth",
+      "stopId": "999",
+      "tag": "cresplym",
+      "lat": "42.0803563"
+    },
+    "perkcres_o": {
+      "lon": "-71.0155476",
+      "title": "Perkins St and Crescent St",
+      "shortTitle": "Perkins & Crescent",
+      "stopId": "350",
+      "tag": "perkcres_o",
+      "lat": "42.0810023"
+    },
+    "perklawr": {
+      "lon": "-71.0155525",
+      "title": "Perkins St and Lawrence St",
+      "shortTitle": "Perkins & Lawrence",
+      "stopId": "351",
+      "tag": "perklawr",
+      "lat": "42.0770066"
+    },
+    "lawrsski": {
+      "lon": "-71.0145988",
+      "title": "Lawrence St and South Skinner St",
+      "shortTitle": "Lawrence & South Skinner",
+      "stopId": "352",
+      "tag": "lawrsski",
+      "lat": "42.0769801"
+    },
+    "lawrshea": {
+      "lon": "-71.0130981",
+      "title": "Lawrence St and Shealey Ave",
+      "shortTitle": "Lawrence & Shealey",
+      "stopId": "353",
+      "tag": "lawrshea",
+      "lat": "42.0770197"
+    },
+    "lawrgrov": {
+      "lon": "-71.0116725",
+      "title": "Lawrence St and Grove St",
+      "shortTitle": "Lawrence & Grove",
+      "stopId": "354",
+      "tag": "lawrgrov",
+      "lat": "42.0770519"
+    },
+    "grovtrin": {
+      "lon": "-71.011264",
+      "title": "Grove St and Trinity Village",
+      "shortTitle": "Grove & Trinity Village",
+      "stopId": "355",
+      "tag": "grovtrin",
+      "lat": "42.0776265"
+    },
+    "cresspra": {
+      "lon": "-71.0071144",
+      "title": "Crescent St and Sprague Ave",
+      "shortTitle": "Crescent & Sprague",
+      "stopId": "356",
+      "tag": "cresspra",
+      "lat": "42.0800645"
+    },
+    "crescres": {
+      "lon": "-71.0055344",
+      "title": "Crescent St and Crescent Ave",
+      "shortTitle": "Crescent & Crescent",
+      "stopId": "357",
+      "tag": "crescres",
+      "lat": "42.0801173"
+    },
+    "crestayl": {
+      "lon": "-71.0022083",
+      "title": "Crescent St and Taylor Ave",
+      "shortTitle": "Crescent & Taylor",
+      "stopId": "358",
+      "tag": "crestayl",
+      "lat": "42.0801989"
+    },
+    "cresperr": {
+      "lon": "-71.0005563",
+      "title": "Crescent St and Perry Ave",
+      "shortTitle": "Crescent & Perry",
+      "stopId": "359",
+      "tag": "cresperr",
+      "lat": "42.0802328"
+    },
+    "cresjaco": {
+      "lon": "-70.9989011",
+      "title": "Crescent St and Jacob St",
+      "shortTitle": "Crescent & Jacob",
+      "stopId": "360",
+      "tag": "cresjaco",
+      "lat": "42.0802786"
+    },
+    "creswash": {
+      "lon": "-70.9968983",
+      "title": "Crescent St and Washington Ave",
+      "shortTitle": "Crescent & Washington",
+      "stopId": "361",
+      "tag": "creswash",
+      "lat": "42.0803597"
+    },
+    "creselec": {
+      "lon": "-70.9945638",
+      "title": "Crescent St and Electric Ave",
+      "shortTitle": "Crescent & Electric",
+      "stopId": "362",
+      "tag": "creselec",
+      "lat": "42.0805119"
+    },
+    "cresplaz": {
+      "lon": "-70.992248",
+      "title": "Crescent Plaza",
+      "stopId": "363",
+      "tag": "cresplaz",
+      "lat": "42.080923"
+    },
+    "cafftohr": {
+      "lon": "-70.9901361",
+      "title": "Caffrey Towers High Rise",
+      "stopId": "364",
+      "tag": "cafftohr",
+      "lat": "42.0812448"
+    },
+    "suprdonu": {
+      "lon": "-70.98887",
+      "title": "Supreme Donut",
+      "stopId": "365",
+      "tag": "suprdonu",
+      "lat": "42.0813699"
+    },
+    "massplaz": {
+      "lon": "-70.987639",
+      "title": "Massasoit Plaza",
+      "stopId": "366",
+      "tag": "massplaz",
+      "lat": "42.0815202"
+    },
+    "massthat": {
+      "lon": "-70.9911241",
+      "title": "Massasoit Road and Thatcher St",
+      "shortTitle": "Massasoit & Thatcher",
+      "stopId": "367",
+      "tag": "massthat",
+      "lat": "42.075747"
+    },
+    "masscsu": {
+      "lon": "-70.9903787",
+      "title": "Massasoit College Student Union",
+      "stopId": "368",
+      "tag": "masscsu",
+      "lat": "42.0749465"
+    },
+    "creschri": {
+      "lon": "-70.9868301",
+      "title": "Crescent St and Christos",
+      "shortTitle": "Crescent & Christos",
+      "stopId": "369",
+      "tag": "creschri",
+      "lat": "42.0817229"
+    },
+    "creseast": {
+      "lon": "-70.9895703",
+      "title": "Crescent St and Eastway Plaza",
+      "shortTitle": "Crescent & Eastway Plaza",
+      "stopId": "370",
+      "tag": "creseast",
+      "lat": "42.0813549"
+    },
+    "cresdunh": {
+      "lon": "-70.9942424",
+      "title": "Crescent St and Dunham St",
+      "shortTitle": "Crescent & Dunham",
+      "stopId": "371",
+      "tag": "cresdunh",
+      "lat": "42.0806679"
+    },
+    "cresglad": {
+      "lon": "-70.9961445",
+      "title": "Crescent St and Gladstone St",
+      "shortTitle": "Crescent & Gladstone",
+      "stopId": "372",
+      "tag": "cresglad",
+      "lat": "42.0804649"
+    },
+    "creshill": {
+      "lon": "-70.9985175",
+      "title": "Crescent St and Hill St",
+      "shortTitle": "Crescent & Hill",
+      "stopId": "373",
+      "tag": "creshill",
+      "lat": "42.0804009"
+    },
+    "cresdrap": {
+      "lon": "-71.0004575",
+      "title": "Crescent St and Draper St",
+      "shortTitle": "Crescent & Draper",
+      "stopId": "374",
+      "tag": "cresdrap",
+      "lat": "42.0803469"
+    },
+    "creshenr": {
+      "lon": "-71.0021895",
+      "title": "Crescent St and Henry St",
+      "shortTitle": "Crescent & Henry",
+      "stopId": "375",
+      "tag": "creshenr",
+      "lat": "42.0803059"
+    },
+    "creswend": {
+      "lon": "-71.0057195",
+      "title": "Crescent St and Wendell Ave",
+      "shortTitle": "Crescent & Wendell",
+      "stopId": "376",
+      "tag": "creswend",
+      "lat": "42.0801939"
+    },
+    "creslyma": {
+      "lon": "-71.0073615",
+      "title": "Crescent St and Lyman St",
+      "shortTitle": "Crescent & Lyman",
+      "stopId": "377",
+      "tag": "creslyma",
+      "lat": "42.0801559"
+    },
+    "grovsumm": {
+      "lon": "-71.0098044",
+      "title": "Grove St and Summer St",
+      "shortTitle": "Grove & Summer",
+      "stopId": "378",
+      "tag": "grovsumm",
+      "lat": "42.0790077"
+    },
+    "grovlawr": {
+      "lon": "-71.0113222",
+      "title": "Grove St and Lawrence St",
+      "shortTitle": "Grove & Lawrence",
+      "stopId": "379",
+      "tag": "grovlawr",
+      "lat": "42.0775775"
+    },
+    "lawrotis": {
+      "lon": "-71.0123845",
+      "title": "Lawrence St and Otis St",
+      "shortTitle": "Lawrence & Otis",
+      "stopId": "380",
+      "tag": "lawrotis",
+      "lat": "42.0770889"
+    },
+    "lawrperk": {
+      "lon": "-71.015533",
+      "title": "Lawrence St and Perkins St",
+      "shortTitle": "Lawrence & Perkins",
+      "stopId": "381",
+      "tag": "lawrperk",
+      "lat": "42.0771582"
+    },
+    "perkmidd": {
+      "lon": "-71.015576",
+      "title": "Perkins St and Middle St",
+      "shortTitle": "Perkins & Middle",
+      "stopId": "382",
+      "tag": "perkmidd",
+      "lat": "42.0786692"
+    },
+    "perkcres": {
+      "lon": "-71.0155389",
+      "title": "Perkins St and Crescent St",
+      "shortTitle": "Perkins & Crescent",
+      "stopId": "383",
+      "tag": "perkcres",
+      "lat": "42.0807282"
+    },
+    "warrbelm_o": {
+      "lon": "-71.0225752",
+      "title": "Warren Ave and Belmont St",
+      "shortTitle": "Warren & Belmont",
+      "stopId": "400",
+      "tag": "warrbelm_o",
+      "lat": "42.0795785"
+    },
+    "warrwpar": {
+      "lon": "-71.0220491",
+      "title": "Warren Ave and West Park St",
+      "shortTitle": "Warren & West Park",
+      "stopId": "401",
+      "tag": "warrwpar",
+      "lat": "42.0768636"
+    },
+    "warrharv": {
+      "lon": "-71.021896",
+      "title": "Warren Ave and Harvard St",
+      "shortTitle": "Warren & Harvard",
+      "stopId": "402",
+      "tag": "warrharv",
+      "lat": "42.0758896"
+    },
+    "warrdove": {
+      "lon": "-71.0217521",
+      "title": "Warren Ave and Dover St",
+      "shortTitle": "Warren & Dover",
+      "stopId": "403",
+      "tag": "warrdove",
+      "lat": "42.0751766"
+    },
+    "warrfost": {
+      "lon": "-71.021459",
+      "title": "Warren Ave and Foster St",
+      "shortTitle": "Warren & Foster",
+      "stopId": "404",
+      "tag": "warrfost",
+      "lat": "42.0733535"
+    },
+    "warrflor": {
+      "lon": "-71.021194",
+      "title": "Warren Ave and Florence St",
+      "shortTitle": "Warren & Florence",
+      "stopId": "405",
+      "tag": "warrflor",
+      "lat": "42.0718085"
+    },
+    "warrmyrt": {
+      "lon": "-71.021012",
+      "title": "Warren Ave and Myrtle St",
+      "shortTitle": "Warren & Myrtle",
+      "stopId": "406",
+      "tag": "warrmyrt",
+      "lat": "42.0706425"
+    },
+    "warrmenl": {
+      "lon": "-71.0207541",
+      "title": "Warren Ave and Menlo St",
+      "shortTitle": "Warren & Menlo",
+      "stopId": "407",
+      "tag": "warrmenl",
+      "lat": "42.0692155"
+    },
+    "warrtrib": {
+      "lon": "-71.0205261",
+      "title": "Warren Ave and Tribou St",
+      "shortTitle": "Warren & Tribou",
+      "stopId": "408",
+      "tag": "warrtrib",
+      "lat": "42.0681864"
+    },
+    "warrhill": {
+      "lon": "-71.0202231",
+      "title": "Warren Ave and Hillberg Ave",
+      "shortTitle": "Warren & Hillberg",
+      "stopId": "409",
+      "tag": "warrhill",
+      "lat": "42.0668985"
+    },
+    "warrcalm": {
+      "lon": "-71.0198741",
+      "title": "Warren Ave and Calmar St",
+      "shortTitle": "Warren & Calmar",
+      "stopId": "410",
+      "tag": "warrcalm",
+      "lat": "42.0654125"
+    },
+    "warrtrem": {
+      "lon": "-71.0196651",
+      "title": "Warren Ave and Tremont St",
+      "shortTitle": "Warren & Tremont",
+      "stopId": "411",
+      "tag": "warrtrem",
+      "lat": "42.0645105"
+    },
+    "warrwche": {
+      "lon": "-71.0194351",
+      "title": "Warren Ave and West Chestnut St",
+      "shortTitle": "Warren & West Chestnut",
+      "stopId": "412",
+      "tag": "warrwche",
+      "lat": "42.0636095"
+    },
+    "warrleac": {
+      "lon": "-71.0185223",
+      "title": "Warren Ave and Leach Ave",
+      "shortTitle": "Warren & Leach",
+      "stopId": "413",
+      "tag": "warrleac",
+      "lat": "42.0615135"
+    },
+    "warrclif": {
+      "lon": "-71.0175782",
+      "title": "Warren Ave and Clifton St",
+      "shortTitle": "Warren & Clifton",
+      "stopId": "414",
+      "tag": "warrclif",
+      "lat": "42.0598155"
+    },
+    "plaimonx": {
+      "lon": "-71.0131717",
+      "title": "Plain St and Montello St Ext",
+      "shortTitle": "Plain & Montello Ext",
+      "stopId": "415",
+      "tag": "plaimonx",
+      "lat": "42.0604004"
+    },
+    "plaicamp": {
+      "lon": "-71.0115997",
+      "title": "Plain St and Campello Hi Rise",
+      "shortTitle": "Plain & Campello Hi Rise",
+      "stopId": "416",
+      "tag": "plaicamp",
+      "lat": "42.0595634"
+    },
+    "ottosumm": {
+      "lon": "-71.006725",
+      "title": "Otto St and Summer St",
+      "shortTitle": "Otto & Summer",
+      "stopId": "417",
+      "tag": "ottosumm",
+      "lat": "42.058415"
+    },
+    "summsley_o": {
+      "lon": "-71.0064974",
+      "title": "Summer St and South Leyden St",
+      "shortTitle": "Summer & South Leyden",
+      "stopId": "418",
+      "tag": "summsley_o",
+      "lat": "42.0592042"
+    },
+    "summfact": {
+      "lon": "-71.0045103",
+      "title": "Summer St at Factory",
+      "shortTitle": "Summer @ Factory",
+      "stopId": "419",
+      "tag": "summfact",
+      "lat": "42.0613797"
+    },
+    "summperk": {
+      "lon": "-71.0037465",
+      "title": "Summer St and Perkins Ave",
+      "shortTitle": "Summer & Perkins",
+      "stopId": "420",
+      "tag": "summperk",
+      "lat": "42.0629562"
+    },
+    "summbake": {
+      "lon": "-71.0006",
+      "title": "Summer St and Baker St",
+      "shortTitle": "Summer & Baker",
+      "stopId": "421",
+      "tag": "summbake",
+      "lat": "42.0644755"
+    },
+    "summcarl": {
+      "lon": "-71.0000575",
+      "title": "Summer St and Carl Ave",
+      "shortTitle": "Summer & Carl",
+      "stopId": "422",
+      "tag": "summcarl",
+      "lat": "42.0645555"
+    },
+    "carlbris": {
+      "lon": "-70.9994653",
+      "title": "Carl Ave and Bristol Ave",
+      "shortTitle": "Carl & Bristol",
+      "stopId": "423",
+      "tag": "carlbris",
+      "lat": "42.0635886"
+    },
+    "carlitc": {
+      "lon": "-70.9990623",
+      "title": "Carl Ave and Litch Field",
+      "shortTitle": "Carl & Litch Field",
+      "stopId": "424",
+      "tag": "carlitc",
+      "lat": "42.0628996"
+    },
+    "carlathe": {
+      "lon": "-70.9985213",
+      "title": "Carl Ave and Atherton St",
+      "shortTitle": "Carl & Atherton",
+      "stopId": "425",
+      "tag": "carlathe",
+      "lat": "42.0618276"
+    },
+    "carlsout": {
+      "lon": "-70.9971853",
+      "title": "Carl Ave and Southfield Dr",
+      "shortTitle": "Carl & Southfield Dr",
+      "stopId": "426",
+      "tag": "carlsout",
+      "lat": "42.0591556"
+    },
+    "carldavi": {
+      "lon": "-70.9969908",
+      "title": "Carl Ave at Davis School",
+      "shortTitle": "Carl @ Davis School",
+      "stopId": "427",
+      "tag": "carldavi",
+      "lat": "42.0557326"
+    },
+    "carlplai": {
+      "lon": "-70.9974308",
+      "title": "Carl Ave and Plain St",
+      "shortTitle": "Carl & Plain",
+      "stopId": "428",
+      "tag": "carlplai",
+      "lat": "42.0534386"
+    },
+    "plaishul": {
+      "lon": "-70.9960752",
+      "title": "Plain St and Shultz Rd",
+      "shortTitle": "Plain & Shultz",
+      "stopId": "429",
+      "tag": "plaishul",
+      "lat": "42.0528877"
+    },
+    "plaicush": {
+      "lon": "-70.9937987",
+      "title": "Plain St and Cushing Rd",
+      "shortTitle": "Plain & Cushing",
+      "stopId": "430",
+      "tag": "plaicush",
+      "lat": "42.0520357"
+    },
+    "eastplai": {
+      "lon": "-70.9914023",
+      "title": "East St and Plain St",
+      "shortTitle": "East & Plain",
+      "stopId": "431",
+      "tag": "eastplai",
+      "lat": "42.0514493"
+    },
+    "eastdarb": {
+      "lon": "-70.9903322",
+      "title": "East St and Darby Rd",
+      "shortTitle": "East & Darby",
+      "stopId": "432",
+      "tag": "eastdarb",
+      "lat": "42.0534783"
+    },
+    "612east": {
+      "lon": "-70.9901392",
+      "title": "612 East St",
+      "shortTitle": "612 East",
+      "stopId": "433",
+      "tag": "612east",
+      "lat": "42.0563733"
+    },
+    "eastsout": {
+      "lon": "-70.9909539",
+      "title": "East St and Southfield Dr",
+      "shortTitle": "East & Southfield Dr",
+      "stopId": "434",
+      "tag": "eastsout",
+      "lat": "42.0602274"
+    },
+    "easthopk": {
+      "lon": "-70.9911149",
+      "title": "East St and Hopkins Rd",
+      "shortTitle": "East & Hopkins",
+      "stopId": "435",
+      "tag": "easthopk",
+      "lat": "42.0621154"
+    },
+    "eastbuck": {
+      "lon": "-70.991718",
+      "title": "East St and Buckland Dr",
+      "shortTitle": "East & Buckland Dr",
+      "stopId": "436",
+      "tag": "eastbuck",
+      "lat": "42.064008"
+    },
+    "edsoeast": {
+      "lon": "-70.9946308",
+      "title": "Edson St and East St",
+      "shortTitle": "Edson & East",
+      "stopId": "437",
+      "tag": "edsoeast",
+      "lat": "42.067052"
+    },
+    "edsowall": {
+      "lon": "-70.9986171",
+      "title": "Edson St and Wallace St",
+      "shortTitle": "Edson & Wallace",
+      "stopId": "438",
+      "tag": "edsowall",
+      "lat": "42.0653489"
+    },
+    "summsnel": {
+      "lon": "-71.0020149",
+      "title": "Summer St and Snell Dr",
+      "shortTitle": "Summer & Snell Dr",
+      "stopId": "439",
+      "tag": "summsnel",
+      "lat": "42.0639222"
+    },
+    "summcora": {
+      "lon": "-71.0045942",
+      "title": "Summer St and Coral St",
+      "shortTitle": "Summer & Coral",
+      "stopId": "440",
+      "tag": "summcora",
+      "lat": "42.061377"
+    },
+    "summsley": {
+      "lon": "-71.0066523",
+      "title": "Summer St and South Leyden St",
+      "shortTitle": "Summer & South Leyden",
+      "stopId": "441",
+      "tag": "summsley",
+      "lat": "42.0590572"
+    },
+    "ottoaubu": {
+      "lon": "-71.0072551",
+      "title": "Otto St and Auburn St",
+      "shortTitle": "Otto & Auburn",
+      "stopId": "442",
+      "tag": "ottoaubu",
+      "lat": "42.0581036"
+    },
+    "campmbta": {
+      "lon": "-71.0115046",
+      "title": "Campello MBTA Station",
+      "stopId": "443",
+      "tag": "campmbta",
+      "lat": "42.0596328"
+    },
+    "keitmain": {
+      "lon": "-71.0152147",
+      "title": "Keith Ave and Main St",
+      "shortTitle": "Keith & Main",
+      "stopId": "444",
+      "tag": "keitmain",
+      "lat": "42.060965"
+    },
+    "keitwarr": {
+      "lon": "-71.0178055",
+      "title": "Keith Ave and Warren Ave",
+      "shortTitle": "Keith & Warren",
+      "stopId": "445",
+      "tag": "keitwarr",
+      "lat": "42.0605189"
+    },
+    "warrrutl": {
+      "lon": "-71.0181588",
+      "title": "Warren Ave and Rutland Sq",
+      "shortTitle": "Warren & Rutland Sq",
+      "stopId": "446",
+      "tag": "warrrutl",
+      "lat": "42.0611026"
+    },
+    "warrwilk": {
+      "lon": "-71.0184274",
+      "title": "Warren St and Wilkins Pl",
+      "shortTitle": "Warren & Wilkins Pl",
+      "stopId": "447",
+      "tag": "warrwilk",
+      "lat": "42.0615867"
+    },
+    "warrnils": {
+      "lon": "-71.0202429",
+      "title": "Warren and Nilsson St",
+      "shortTitle": "Warren & Nilsson",
+      "stopId": "448",
+      "tag": "warrnils",
+      "lat": "42.0674578"
+    },
+    "warrshep": {
+      "lon": "-71.0206299",
+      "title": "Warren Ave and Sheppard St",
+      "shortTitle": "Warren & Sheppard",
+      "stopId": "449",
+      "tag": "warrshep",
+      "lat": "42.0692338"
+    },
+    "warrdavi": {
+      "lon": "-71.0208879",
+      "title": "Warren Ave and David St",
+      "shortTitle": "Warren & David",
+      "stopId": "450",
+      "tag": "warrdavi",
+      "lat": "42.0706608"
+    },
+    "warrcent": {
+      "lon": "-71.0213349",
+      "title": "Warren Ave and Central Sq",
+      "shortTitle": "Warren & Central Sq",
+      "stopId": "451",
+      "tag": "warrcent",
+      "lat": "42.0733718"
+    },
+    "warrwint": {
+      "lon": "-71.0218455",
+      "title": "Warren Ave and Winthrop St",
+      "shortTitle": "Warren & Winthrop",
+      "stopId": "452",
+      "tag": "warrwint",
+      "lat": "42.0763841"
+    },
+    "warrbelm": {
+      "lon": "-71.0225178",
+      "title": "Warren Ave and Belmont St",
+      "shortTitle": "Warren & Belmont",
+      "stopId": "453",
+      "tag": "warrbelm",
+      "lat": "42.0797736"
+    },
+    "mainvfwp": {
+      "lon": "-71.0201355",
+      "title": "Main St and VFW Pkwy",
+      "shortTitle": "Main & VFW Pkwy",
+      "stopId": "454",
+      "tag": "mainvfwp",
+      "lat": "42.0811691"
+    },
+    "welmgodd": {
+      "lon": "-71.024375",
+      "title": "West Elm St and Goddard Rd",
+      "shortTitle": "West Elm & Goddard",
+      "stopId": "460",
+      "tag": "welmgodd",
+      "lat": "42.0820289"
+    },
+    "welmnewb": {
+      "lon": "-71.026137",
+      "title": "West Elm St and Newbury St",
+      "shortTitle": "West Elm & Newbury",
+      "stopId": "461",
+      "tag": "welmnewb",
+      "lat": "42.0818729"
+    },
+    "welmnarl": {
+      "lon": "-71.0278874",
+      "title": "West Elm St and North Arlington St",
+      "shortTitle": "West Elm & North Arlington",
+      "stopId": "462",
+      "tag": "welmnarl",
+      "lat": "42.081695"
+    },
+    "welmcarl": {
+      "lon": "-71.0296803",
+      "title": "West Elm St and Carleton-Brett St",
+      "shortTitle": "West Elm & Carleton-Brett",
+      "stopId": "463",
+      "tag": "welmcarl",
+      "lat": "42.0815139"
+    },
+    "welmmelm": {
+      "lon": "-71.0332036",
+      "title": "West Elm St and Belmont Ave",
+      "shortTitle": "West Elm & Belmont",
+      "stopId": "465",
+      "tag": "welmmelm",
+      "lat": "42.081121"
+    },
+    "welmash": {
+      "lon": "-71.0344164",
+      "title": "West Elm St and Ash St",
+      "shortTitle": "West Elm & Ash",
+      "stopId": "466",
+      "tag": "welmash",
+      "lat": "42.0809429"
+    },
+    "welmauna": {
+      "lon": "-71.0390253",
+      "title": "West Elm St and Auna Dr",
+      "shortTitle": "West Elm & Auna Dr",
+      "stopId": "467",
+      "tag": "welmauna",
+      "lat": "42.0803699"
+    },
+    "welmwest": {
+      "lon": "-71.0435019",
+      "title": "West Elm St and West St",
+      "shortTitle": "West Elm & West",
+      "stopId": "468",
+      "tag": "welmwest",
+      "lat": "42.079764"
+    },
+    "westwjhs": {
+      "lon": "-71.0441339",
+      "title": "West St at West Jr High School",
+      "shortTitle": "West @ West Jr High School",
+      "stopId": "469",
+      "tag": "westwjhs",
+      "lat": "42.0789757"
+    },
+    "westplaz": {
+      "lon": "-71.0435409",
+      "title": "West St at Plaza",
+      "shortTitle": "West @ Plaza",
+      "stopId": "470",
+      "tag": "westplaz",
+      "lat": "42.0760979"
+    },
+    "torrplaz": {
+      "lon": "-71.0429038",
+      "title": "Torrey St at Plaza",
+      "shortTitle": "Torrey @ Plaza",
+      "stopId": "471",
+      "tag": "torrplaz",
+      "lat": "42.0747737"
+    },
+    "torrbeth": {
+      "lon": "-71.0469254",
+      "title": "Torrey St at Bethel Medical",
+      "shortTitle": "Torrey @ Bethel Medical",
+      "stopId": "472",
+      "tag": "torrbeth",
+      "lat": "42.0737459"
+    },
+    "torrbrew": {
+      "lon": "-71.0503225",
+      "title": "Torrey St and Brewster Rd",
+      "shortTitle": "Torrey & Brewster",
+      "stopId": "473",
+      "tag": "torrbrew",
+      "lat": "42.0731598"
+    },
+    "torrbrae": {
+      "lon": "-71.0536235",
+      "title": "Torrey St and Braemore Rd",
+      "shortTitle": "Torrey & Braemore",
+      "stopId": "474",
+      "tag": "torrbrae",
+      "lat": "42.0726109"
+    },
+    "torrpond": {
+      "lon": "-71.0558583",
+      "title": "Torrey St and Pondview Cir",
+      "shortTitle": "Torrey & Pondview Cir",
+      "stopId": "475",
+      "tag": "torrpond",
+      "lat": "42.0722049"
+    },
+    "torrockl": {
+      "lon": "-71.0602087",
+      "title": "Torrey St and Rockland St",
+      "shortTitle": "Torrey & Rockland",
+      "stopId": "476",
+      "tag": "torrockl",
+      "lat": "42.071457"
+    },
+    "torrpear_o": {
+      "lon": "-71.0641421",
+      "title": "Torrey St and Pearl St at Synagogue",
+      "shortTitle": "Torrey & Pearl @ Synagogue",
+      "stopId": "477",
+      "tag": "torrpear_o",
+      "lat": "42.0709172"
+    },
+    "pearwesf": {
+      "lon": "-71.065013",
+      "title": "Pearl St and Westfield Dr",
+      "shortTitle": "Pearl & Westfield Dr",
+      "stopId": "478",
+      "tag": "pearwesf",
+      "lat": "42.0682927"
+    },
+    "pearalmo": {
+      "lon": "-71.06516",
+      "title": "Pearl St and Almon Ave",
+      "shortTitle": "Pearl & Almon",
+      "stopId": "479",
+      "tag": "pearalmo",
+      "lat": "42.0672437"
+    },
+    "pearcona": {
+      "lon": "-71.065563",
+      "title": "Pearl St and Conant Dr",
+      "shortTitle": "Pearl & Conant Dr",
+      "stopId": "480",
+      "tag": "pearcona",
+      "lat": "42.0642947"
+    },
+    "peartiff": {
+      "lon": "-71.065769",
+      "title": "Pearl St and Tiffany Dr",
+      "shortTitle": "Pearl & Tiffany Dr",
+      "stopId": "481",
+      "tag": "peartiff",
+      "lat": "42.0628117"
+    },
+    "pearbelm_o": {
+      "lon": "-71.0664148",
+      "title": "Pearl St and Belmont St",
+      "shortTitle": "Pearl & Belmont",
+      "stopId": "482",
+      "tag": "pearbelm_o",
+      "lat": "42.059481"
+    },
+    "belmplaz": {
+      "lon": "-71.0680631",
+      "title": "Belmont St at Plaza",
+      "shortTitle": "Belmont @ Plaza",
+      "stopId": "483",
+      "tag": "belmplaz",
+      "lat": "42.0585381"
+    },
+    "belmeatl": {
+      "lon": "-71.0707072",
+      "title": "Belmont St at Easton Town Line",
+      "shortTitle": "Belmont @ Easton Town Line",
+      "stopId": "484",
+      "tag": "belmeatl",
+      "lat": "42.0568498"
+    },
+    "belmston": {
+      "lon": "-71.0736072",
+      "title": "Belmont St at Stonehill College",
+      "shortTitle": "Belmont @ Stonehill College",
+      "stopId": "485",
+      "tag": "belmston",
+      "lat": "42.0549407"
+    },
+    "brisbelm": {
+      "lon": "-71.0766429",
+      "title": "Bristol Dr and Belmont St",
+      "shortTitle": "Bristol Dr & Belmont",
+      "stopId": "486",
+      "tag": "brisbelm",
+      "lat": "42.0519719"
+    },
+    "brisnorf": {
+      "lon": "-71.0756209",
+      "title": "Bristol Dr and Norfolk Ave",
+      "shortTitle": "Bristol Dr & Norfolk",
+      "stopId": "487",
+      "tag": "brisnorf",
+      "lat": "42.0499029"
+    },
+    "norfbris": {
+      "lon": "-71.0752762",
+      "title": "Norfolk Ave and Bristol Dr",
+      "shortTitle": "Norfolk & Bristol Dr",
+      "stopId": "488",
+      "tag": "norfbris",
+      "lat": "42.0499009"
+    },
+    "belmstoc": {
+      "lon": "-71.0737522",
+      "title": "Belmont St and Stonehill College",
+      "shortTitle": "Belmont & Stonehill College",
+      "stopId": "490",
+      "tag": "belmstoc",
+      "lat": "42.0546947"
+    },
+    "belmwill": {
+      "lon": "-71.0697793",
+      "title": "Belmont St and Williamsburg Sq",
+      "shortTitle": "Belmont & Williamsburg Sq",
+      "stopId": "491",
+      "tag": "belmwill",
+      "lat": "42.0573327"
+    },
+    "wchepear": {
+      "lon": "-71.0662394",
+      "title": "West Chestnut St and Pearl St",
+      "shortTitle": "West Chestnut & Pearl",
+      "stopId": "492",
+      "tag": "wchepear",
+      "lat": "42.0532409"
+    },
+    "wchelibe": {
+      "lon": "-71.0614861",
+      "title": "West Chestnut St and Liberty St",
+      "shortTitle": "West Chestnut & Liberty",
+      "stopId": "494",
+      "tag": "wchelibe",
+      "lat": "42.0539059"
+    },
+    "110libers": {
+      "lon": "-71.063031",
+      "title": "110 Liberty Street Shelter",
+      "shortTitle": "110 Liberty Shelter",
+      "stopId": "495",
+      "tag": "110libers",
+      "lat": "42.0575819"
+    },
+    "pearbelm": {
+      "lon": "-71.0659619",
+      "title": "Pearl St and Belmont St",
+      "shortTitle": "Pearl & Belmont",
+      "stopId": "496",
+      "tag": "pearbelm",
+      "lat": "42.0605733"
+    },
+    "pearwest": {
+      "lon": "-71.0656509",
+      "title": "Pearl St and Westlea Ter",
+      "shortTitle": "Pearl & Westlea Ter",
+      "stopId": "497",
+      "tag": "pearwest",
+      "lat": "42.0631375"
+    },
+    "pearcoll": {
+      "lon": "-71.0655059",
+      "title": "Pearl St and College Dr",
+      "shortTitle": "Pearl & College Dr",
+      "stopId": "498",
+      "tag": "pearcoll",
+      "lat": "42.0641882"
+    },
+    "pearcalb": {
+      "lon": "-71.0653159",
+      "title": "Pearl St and Calbert Road",
+      "shortTitle": "Pearl & Calbert",
+      "stopId": "499",
+      "tag": "pearcalb",
+      "lat": "42.0655912"
+    },
+    "pearmayo": {
+      "lon": "-71.0649929",
+      "title": "Pearl St and Mayotte Circle",
+      "shortTitle": "Pearl & Mayotte Circle",
+      "stopId": "500",
+      "tag": "pearmayo",
+      "lat": "42.0678916"
+    },
+    "pearrich": {
+      "lon": "-71.064888",
+      "title": "Pearl St and Richard St",
+      "shortTitle": "Pearl & Richard",
+      "stopId": "501",
+      "tag": "pearrich",
+      "lat": "42.0694269"
+    },
+    "torrpear": {
+      "lon": "-71.0641309",
+      "title": "Torrey St and Pearl St at Synagogue",
+      "shortTitle": "Torrey & Pearl @ Synagogue",
+      "stopId": "477",
+      "tag": "torrpear",
+      "lat": "42.070864"
+    },
+    "torrgree": {
+      "lon": "-71.061309",
+      "title": "Torrey St and Greenbriar Rd",
+      "shortTitle": "Torrey & Greenbriar",
+      "stopId": "502",
+      "tag": "torrgree",
+      "lat": "42.0712339"
+    },
+    "torrcalv": {
+      "lon": "-71.057801",
+      "title": "Torrey St and Calvin Rd",
+      "shortTitle": "Torrey & Calvin",
+      "stopId": "503",
+      "tag": "torrcalv",
+      "lat": "42.0718039"
+    },
+    "torrockf": {
+      "lon": "-71.055829",
+      "title": "Torrey St and Rockford St",
+      "shortTitle": "Torrey & Rockford",
+      "stopId": "504",
+      "tag": "torrockf",
+      "lat": "42.0721379"
+    },
+    "torrbign": {
+      "lon": "-71.0532127",
+      "title": "Torrey St and Bigney St",
+      "shortTitle": "Torrey & Bigney",
+      "stopId": "505",
+      "tag": "torrbign",
+      "lat": "42.072589"
+    },
+    "torrharw": {
+      "lon": "-71.0470547",
+      "title": "Torrey St and Harwich Rd",
+      "shortTitle": "Torrey & Harwich",
+      "stopId": "506",
+      "tag": "torrharw",
+      "lat": "42.0736517"
+    },
+    "torrshaw": {
+      "lon": "-71.0448903",
+      "title": "Torrey St and Shaws Plaza",
+      "shortTitle": "Torrey & Shaws Plaza",
+      "stopId": "507",
+      "tag": "torrshaw",
+      "lat": "42.0740279"
+    },
+    "westneub": {
+      "lon": "-71.0435469",
+      "title": "West St and Neubert St",
+      "shortTitle": "West & Neubert",
+      "stopId": "508",
+      "tag": "westneub",
+      "lat": "42.0767277"
+    },
+    "welmmors": {
+      "lon": "-71.043418",
+      "title": "West Elm St and Morse Ave",
+      "shortTitle": "West Elm & Morse",
+      "stopId": "509",
+      "tag": "welmmors",
+      "lat": "42.0796909"
+    },
+    "welmdori": {
+      "lon": "-71.038864",
+      "title": "West Elm St and Doris Ave",
+      "shortTitle": "West Elm & Doris",
+      "stopId": "510",
+      "tag": "welmdori",
+      "lat": "42.0802899"
+    },
+    "welmbret": {
+      "lon": "-71.029471",
+      "title": "West Elm St and Brett St",
+      "shortTitle": "West Elm & Brett",
+      "stopId": "511",
+      "tag": "welmbret",
+      "lat": "42.0814729"
+    },
+    "welmarli": {
+      "lon": "-71.027255",
+      "title": "West Elm St and Arlington St",
+      "shortTitle": "West Elm & Arlington",
+      "stopId": "512",
+      "tag": "welmarli",
+      "lat": "42.0817099"
+    },
+    "welmwarr": {
+      "lon": "-71.0241474",
+      "title": "West Elm St and Warren Ave",
+      "shortTitle": "West Elm & Warren",
+      "stopId": "513",
+      "tag": "welmwarr",
+      "lat": "42.0819909"
+    },
+    "mainchur": {
+      "lon": "-71.019788",
+      "title": "Main St and Church St",
+      "shortTitle": "Main & Church",
+      "stopId": "514",
+      "tag": "mainchur",
+      "lat": "42.0836709"
+    },
+    "courhunt": {
+      "lon": "-71.0122513",
+      "title": "Court St and Hunt St",
+      "shortTitle": "Court & Hunt",
+      "stopId": "520",
+      "tag": "courhunt",
+      "lat": "42.0862909"
+    },
+    "courmanc": {
+      "lon": "-71.0105108",
+      "title": "Court St and Manchester St",
+      "shortTitle": "Court & Manchester",
+      "stopId": "521",
+      "tag": "courmanc",
+      "lat": "42.0865379"
+    },
+    "courtyle": {
+      "lon": "-71.0090733",
+      "title": "Court St and Tyler St",
+      "shortTitle": "Court & Tyler",
+      "stopId": "522",
+      "tag": "courtyle",
+      "lat": "42.0867409"
+    },
+    "couralbe": {
+      "lon": "-71.0075793",
+      "title": "Court St and Albert Ave",
+      "shortTitle": "Court & Albert",
+      "stopId": "523",
+      "tag": "couralbe",
+      "lat": "42.0869379"
+    },
+    "courrufu": {
+      "lon": "-71.0059123",
+      "title": "Court St and Rufus St",
+      "shortTitle": "Court & Rufus",
+      "stopId": "524",
+      "tag": "courrufu",
+      "lat": "42.087175"
+    },
+    "courcary": {
+      "lon": "-71.0044351",
+      "title": "Court St and Cary St",
+      "shortTitle": "Court & Cary",
+      "stopId": "525",
+      "tag": "courcary",
+      "lat": "42.0875748"
+    },
+    "courrain": {
+      "lon": "-71.0038911",
+      "title": "Court St and Rainville St",
+      "shortTitle": "Court & Rainville",
+      "stopId": "526",
+      "tag": "courrain",
+      "lat": "42.0880898"
+    },
+    "courida_o": {
+      "lon": "-71.0023541",
+      "title": "Court St and Ida Ave",
+      "shortTitle": "Court & Ida",
+      "stopId": "527",
+      "tag": "courida_o",
+      "lat": "42.0895708"
+    },
+    "courkath_o": {
+      "lon": "-71.0014458",
+      "title": "Court St and Kathleen Rd",
+      "shortTitle": "Court & Kathleen",
+      "stopId": "528",
+      "tag": "courkath_o",
+      "lat": "42.0903552"
+    },
+    "courpont": {
+      "lon": "-70.998117",
+      "title": "Court St and Pontiac Rd",
+      "shortTitle": "Court & Pontiac",
+      "stopId": "529",
+      "tag": "courpont",
+      "lat": "42.0918922"
+    },
+    "courmild_o": {
+      "lon": "-70.9965869",
+      "title": "Court St and Mildred Rd",
+      "shortTitle": "Court & Mildred",
+      "stopId": "530",
+      "tag": "courmild_o",
+      "lat": "42.0925667"
+    },
+    "courcard": {
+      "lon": "-70.9935764",
+      "title": "Court St at Cardinal Spellman",
+      "shortTitle": "Court @ Cardinal Spellman",
+      "stopId": "531",
+      "tag": "courcard",
+      "lat": "42.0938837"
+    },
+    "courdeed": {
+      "lon": "-70.9919493",
+      "title": "Court St and Deed Cir",
+      "shortTitle": "Court & Deed Cir",
+      "stopId": "532",
+      "tag": "courdeed",
+      "lat": "42.0945477"
+    },
+    "courquin": {
+      "lon": "-70.9898981",
+      "title": "Court St and Quincy St",
+      "shortTitle": "Court & Quincy",
+      "stopId": "533",
+      "tag": "courquin",
+      "lat": "42.0952819"
+    },
+    "nquileah": {
+      "lon": "-70.9900158",
+      "title": "North Quincy St and Leahy Rd",
+      "shortTitle": "North Quincy & Leahy",
+      "stopId": "534",
+      "tag": "nquileah",
+      "lat": "42.0969125"
+    },
+    "nquirege": {
+      "lon": "-70.9902767",
+      "title": "North Quincy St and Regent Rd",
+      "shortTitle": "North Quincy & Regent",
+      "stopId": "535",
+      "tag": "nquirege",
+      "lat": "42.0980408"
+    },
+    "nquieash_o": {
+      "lon": "-70.9905038",
+      "title": "North Quincy St and East Ashland St",
+      "shortTitle": "North Quincy & East Ashland",
+      "stopId": "536",
+      "tag": "nquieash_o",
+      "lat": "42.0988636"
+    },
+    "nquianne": {
+      "lon": "-70.9909838",
+      "title": "North Quincy St and Anne Marie Dr",
+      "shortTitle": "North Quincy & Anne Marie Dr",
+      "stopId": "537",
+      "tag": "nquianne",
+      "lat": "42.1002746"
+    },
+    "nquirose_o": {
+      "lon": "-70.9914128",
+      "title": "North Quincy St and Rosemary St",
+      "shortTitle": "North Quincy & Rosemary",
+      "stopId": "538",
+      "tag": "nquirose_o",
+      "lat": "42.1015026"
+    },
+    "nquivfw": {
+      "lon": "-70.9923355",
+      "title": "North Quincy St and VFW Rd",
+      "shortTitle": "North Quincy & VFW",
+      "stopId": "539",
+      "tag": "nquivfw",
+      "lat": "42.1049694"
+    },
+    "nquioldc": {
+      "lon": "-70.9945107",
+      "title": "North Quincy St and Old Coach Rd",
+      "shortTitle": "North Quincy & Old Coach",
+      "stopId": "540",
+      "tag": "nquioldc",
+      "lat": "42.1066907"
+    },
+    "nquimapl": {
+      "lon": "-70.9956557",
+      "title": "North Quincy St and Maplewood",
+      "shortTitle": "North Quincy & Maplewood",
+      "stopId": "541",
+      "tag": "nquimapl",
+      "lat": "42.1075007"
+    },
+    "nquiprat": {
+      "lon": "-70.9981669",
+      "title": "North Quincy St and Pratt St",
+      "shortTitle": "North Quincy & Pratt",
+      "stopId": "542",
+      "tag": "nquiprat",
+      "lat": "42.1099478"
+    },
+    "nquiarmi": {
+      "lon": "-70.9983956",
+      "title": "North Quincy St and Armiston St",
+      "shortTitle": "North Quincy & Armiston",
+      "stopId": "543",
+      "tag": "nquiarmi",
+      "lat": "42.1109648"
+    },
+    "nquihove_o": {
+      "lon": "-71.0000645",
+      "title": "North Quincy St and Hovendon Ave",
+      "shortTitle": "North Quincy & Hovendon",
+      "stopId": "544",
+      "tag": "nquihove_o",
+      "lat": "42.1165709"
+    },
+    "hovekevi": {
+      "lon": "-71.001049",
+      "title": "Hovendon Ave and Kevin Rd",
+      "shortTitle": "Hovendon & Kevin",
+      "stopId": "545",
+      "tag": "hovekevi",
+      "lat": "42.1164534"
+    },
+    "hoveelsi": {
+      "lon": "-71.0043538",
+      "title": "Hovendon Ave and Elsie Rd",
+      "shortTitle": "Hovendon & Elsie",
+      "stopId": "546",
+      "tag": "hoveelsi",
+      "lat": "42.1166945"
+    },
+    "hovelynn": {
+      "lon": "-71.0054886",
+      "title": "Hovendon Ave and Lynn Rd",
+      "shortTitle": "Hovendon & Lynn",
+      "stopId": "547",
+      "tag": "hovelynn",
+      "lat": "42.1164463"
+    },
+    "hovesull": {
+      "lon": "-71.0069801",
+      "title": "Hovendon Ave and Sully Rd",
+      "shortTitle": "Hovendon & Sully",
+      "stopId": "548",
+      "tag": "hovesull",
+      "lat": "42.11581"
+    },
+    "hovebelc": {
+      "lon": "-71.0099411",
+      "title": "Hovendon Ave and Belcher St",
+      "shortTitle": "Hovendon & Belcher",
+      "stopId": "549",
+      "tag": "hovebelc",
+      "lat": "42.1143116"
+    },
+    "hovehask": {
+      "lon": "-71.0126685",
+      "title": "Hovendon Ave and Haskell St",
+      "shortTitle": "Hovendon & Haskell",
+      "stopId": "550",
+      "tag": "hovehask",
+      "lat": "42.1130606"
+    },
+    "hovejord": {
+      "lon": "-71.014506",
+      "title": "Hovendon Ave and Jordan St",
+      "shortTitle": "Hovendon & Jordan",
+      "stopId": "551",
+      "tag": "hovejord",
+      "lat": "42.1122014"
+    },
+    "hovebonn": {
+      "lon": "-71.016448",
+      "title": "Hovendon Ave and Bonney St",
+      "shortTitle": "Hovendon & Bonney",
+      "stopId": "552",
+      "tag": "hovebonn",
+      "lat": "42.1112454"
+    },
+    "hovespra": {
+      "lon": "-71.017623",
+      "title": "Hovendon Ave and Sprague St",
+      "shortTitle": "Hovendon & Sprague",
+      "stopId": "553",
+      "tag": "hovespra",
+      "lat": "42.1106664"
+    },
+    "hoveange": {
+      "lon": "-71.0191441",
+      "title": "Hovendon Ave and Angerer Ave",
+      "shortTitle": "Hovendon & Angerer",
+      "stopId": "554",
+      "tag": "hoveange",
+      "lat": "42.1097295"
+    },
+    "fielspar": {
+      "lon": "-71.0200429",
+      "title": "Field St and Spark St",
+      "shortTitle": "Field & Spark",
+      "stopId": "555",
+      "tag": "fielspar",
+      "lat": "42.1063939"
+    },
+    "mbtamont": {
+      "lon": "-71.0206715",
+      "title": "MBTA Montello Station",
+      "stopId": "556",
+      "tag": "mbtamont",
+      "lat": "42.106594"
+    },
+    "sparsylv": {
+      "lon": "-71.0210289",
+      "title": "Spark St and Sylvan St",
+      "shortTitle": "Spark & Sylvan",
+      "stopId": "557",
+      "tag": "sparsylv",
+      "lat": "42.1071087"
+    },
+    "sparcamc": {
+      "lon": "-71.0217801",
+      "title": "Spark St and Cameron Cooper St",
+      "shortTitle": "Spark & Cameron Cooper",
+      "stopId": "558",
+      "tag": "sparcamc",
+      "lat": "42.1081629"
+    },
+    "howawint": {
+      "lon": "-71.0225995",
+      "title": "Howard St and Winter St",
+      "shortTitle": "Howard & Winter",
+      "stopId": "559",
+      "tag": "howawint",
+      "lat": "42.1096329"
+    },
+    "howacalr": {
+      "lon": "-71.0230017",
+      "title": "Howard St and Claremont Ct",
+      "shortTitle": "Howard & Claremont Ct",
+      "stopId": "560",
+      "tag": "howacalr",
+      "lat": "42.1112311"
+    },
+    "howachis": {
+      "lon": "-71.0232747",
+      "title": "Howard St and Chisholm Ave",
+      "shortTitle": "Howard & Chisholm",
+      "stopId": "561",
+      "tag": "howachis",
+      "lat": "42.1122751"
+    },
+    "449howa": {
+      "lon": "-71.0194058",
+      "title": "449 Howard Street",
+      "shortTitle": "449 Howard",
+      "stopId": "562",
+      "tag": "449howa",
+      "lat": "42.1170714"
+    },
+    "howaeise": {
+      "lon": "-71.0180186",
+      "title": "Howard St at Eisenhower Estates",
+      "shortTitle": "Howard @ Eisenhower Estates",
+      "stopId": "563",
+      "tag": "howaeise",
+      "lat": "42.1180006"
+    },
+    "lisaboyl": {
+      "lon": "-71.0109263",
+      "title": "Lisa Dr and Boyle Rd",
+      "shortTitle": "Lisa Dr & Boyle",
+      "stopId": "564",
+      "tag": "lisaboyl",
+      "lat": "42.119777"
+    },
+    "lisasull": {
+      "lon": "-71.0085365",
+      "title": "Lisa Dr and Sully Rd",
+      "shortTitle": "Lisa Dr & Sully",
+      "stopId": "565",
+      "tag": "lisasull",
+      "lat": "42.1198709"
+    },
+    "lisaboun": {
+      "lon": "-71.0020456",
+      "title": "Lisa Dr and Boundary Ave",
+      "shortTitle": "Lisa Dr & Boundary",
+      "stopId": "566",
+      "tag": "lisaboun",
+      "lat": "42.1203635"
+    },
+    "bounnqui": {
+      "lon": "-71.0010187",
+      "title": "Boundary Ave and North Quincy St",
+      "shortTitle": "Boundary & North Quincy",
+      "stopId": "567",
+      "tag": "bounnqui",
+      "lat": "42.1202014"
+    },
+    "nquijon": {
+      "lon": "-71.0004352",
+      "title": "North Quincy St and Jon Dr",
+      "shortTitle": "North Quincy & Jon Dr",
+      "stopId": "568",
+      "tag": "nquijon",
+      "lat": "42.1187396"
+    },
+    "nquibroo": {
+      "lon": "-71.0002431",
+      "title": "North Quincy St and Brookfield Dr",
+      "shortTitle": "North Quincy & Brookfield Dr",
+      "stopId": "569",
+      "tag": "nquibroo",
+      "lat": "42.1179035"
+    },
+    "nquihove": {
+      "lon": "-71.0000429",
+      "title": "North Quincy St and Hovendon Ave",
+      "shortTitle": "North Quincy & Hovendon",
+      "stopId": "570",
+      "tag": "nquihove",
+      "lat": "42.1171168"
+    },
+    "nquistnc": {
+      "lon": "-70.9993521",
+      "title": "North Quincy St at St Nick Church",
+      "shortTitle": "North Quincy @ Nick Church",
+      "stopId": "571",
+      "tag": "nquistnc",
+      "lat": "42.1143025"
+    },
+    "nquiglad": {
+      "lon": "-70.9990231",
+      "title": "North Quincy St and Gladys Rd",
+      "shortTitle": "North Quincy & Gladys",
+      "stopId": "572",
+      "tag": "nquiglad",
+      "lat": "42.1130845"
+    },
+    "nquichri": {
+      "lon": "-70.9985721",
+      "title": "North Quincy St and Christopher Rd",
+      "shortTitle": "North Quincy & Christopher",
+      "stopId": "573",
+      "tag": "nquichri",
+      "lat": "42.1112085"
+    },
+    "nquibedf": {
+      "lon": "-70.9984357",
+      "title": "North Quincy St and Bedford St",
+      "shortTitle": "North Quincy & Bedford",
+      "stopId": "574",
+      "tag": "nquibedf",
+      "lat": "42.1105919"
+    },
+    "nquinort": {
+      "lon": "-70.9982328",
+      "title": "North Quincy St and North Ave",
+      "shortTitle": "North Quincy & North",
+      "stopId": "575",
+      "tag": "nquinort",
+      "lat": "42.1096924"
+    },
+    "nquitoby": {
+      "lon": "-70.9955291",
+      "title": "North Quincy St and Toby Rd",
+      "shortTitle": "North Quincy & Toby",
+      "stopId": "576",
+      "tag": "nquitoby",
+      "lat": "42.1073062"
+    },
+    "228nqui": {
+      "lon": "-70.9920062",
+      "title": "228 North Quincy St",
+      "shortTitle": "228 North Quincy",
+      "stopId": "577",
+      "tag": "228nqui",
+      "lat": "42.1031269"
+    },
+    "nquirose": {
+      "lon": "-70.991491",
+      "title": "North Quincy St and Rosemary St",
+      "shortTitle": "North Quincy & Rosemary",
+      "stopId": "578",
+      "tag": "nquirose",
+      "lat": "42.1013654"
+    },
+    "nquinich": {
+      "lon": "-70.9912391",
+      "title": "North Quincy St and Nicholson Rd",
+      "shortTitle": "North Quincy & Nicholson",
+      "stopId": "579",
+      "tag": "nquinich",
+      "lat": "42.1006174"
+    },
+    "nquieash": {
+      "lon": "-70.9903979",
+      "title": "North Quincy St and East Ashland St",
+      "shortTitle": "North Quincy & East Ashland",
+      "stopId": "580",
+      "tag": "nquieash",
+      "lat": "42.0980389"
+    },
+    "nquilela": {
+      "lon": "-70.9901334",
+      "title": "North Quincy St and Leland St",
+      "shortTitle": "North Quincy & Leland",
+      "stopId": "581",
+      "tag": "nquilela",
+      "lat": "42.0968917"
+    },
+    "nquicour": {
+      "lon": "-70.9900295",
+      "title": "North Quincy St and Court St",
+      "shortTitle": "North Quincy & Court",
+      "stopId": "582",
+      "tag": "nquicour",
+      "lat": "42.0953091"
+    },
+    "courconn": {
+      "lon": "-70.9921011",
+      "title": "Court St and Connell Ave",
+      "shortTitle": "Court & Connell",
+      "stopId": "583",
+      "tag": "courconn",
+      "lat": "42.0945633"
+    },
+    "cardsphs": {
+      "lon": "-70.9931831",
+      "title": "Cardinal Spellman High School",
+      "stopId": "584",
+      "tag": "cardsphs",
+      "lat": "42.0941369"
+    },
+    "courmild": {
+      "lon": "-70.9938262",
+      "title": "Court St and Mildred Rd",
+      "shortTitle": "Court & Mildred",
+      "stopId": "585",
+      "tag": "courmild",
+      "lat": "42.0938483"
+    },
+    "courkath": {
+      "lon": "-71.0017122",
+      "title": "Court St and Kathleen Rd",
+      "shortTitle": "Court & Kathleen",
+      "stopId": "586",
+      "tag": "courkath",
+      "lat": "42.0902605"
+    },
+    "courida": {
+      "lon": "-71.0025573",
+      "title": "Court St and Ida Ave",
+      "shortTitle": "Court & Ida",
+      "stopId": "587",
+      "tag": "courida",
+      "lat": "42.0894996"
+    },
+    "courncar": {
+      "lon": "-71.0040433",
+      "title": "Court St and North Cary St",
+      "shortTitle": "Court & North Cary",
+      "stopId": "588",
+      "tag": "courncar",
+      "lat": "42.0880586"
+    },
+    "courgard": {
+      "lon": "-71.0073968",
+      "title": "Court St and Gardner Ave",
+      "shortTitle": "Court & Gardner",
+      "stopId": "589",
+      "tag": "courgard",
+      "lat": "42.087032"
+    },
+    "courpark": {
+      "lon": "-71.0080805",
+      "title": "Court St and Parker St",
+      "shortTitle": "Court & Parker",
+      "stopId": "590",
+      "tag": "courpark",
+      "lat": "42.0869444"
+    },
+    "courwill": {
+      "lon": "-71.009026",
+      "title": "Court St and Williams Ave",
+      "shortTitle": "Court & Williams",
+      "stopId": "591",
+      "tag": "courwill",
+      "lat": "42.0868141"
+    },
+    "courpeck": {
+      "lon": "-71.0127078",
+      "title": "Court St and Peckham Ave",
+      "shortTitle": "Court & Peckham",
+      "stopId": "592",
+      "tag": "courpeck",
+      "lat": "42.086286"
+    },
+    "courputn": {
+      "lon": "-71.0142232",
+      "title": "Court St and Putnam St",
+      "shortTitle": "Court & Putnam",
+      "stopId": "593",
+      "tag": "courputn",
+      "lat": "42.0860269"
+    },
+    "nmonlind": {
+      "lon": "-71.0173319",
+      "title": "North Montello St and Linden St",
+      "shortTitle": "North Montello & Linden",
+      "stopId": "600",
+      "tag": "nmonlind",
+      "lat": "42.0874839"
+    },
+    "nmonchar_o": {
+      "lon": "-71.017337",
+      "title": "North Montello St and Charles St",
+      "shortTitle": "North Montello & Charles",
+      "stopId": "601",
+      "tag": "nmonchar_o",
+      "lat": "42.0888699"
+    },
+    "nmonelli_o": {
+      "lon": "-71.0173639",
+      "title": "North Montello St and Elliott St",
+      "shortTitle": "North Montello & Elliott",
+      "stopId": "602",
+      "tag": "nmonelli_o",
+      "lat": "42.0902299"
+    },
+    "nmonleba_o": {
+      "lon": "-71.0174139",
+      "title": "North Montello St and Lebanon St",
+      "shortTitle": "North Montello & Lebanon",
+      "stopId": "603",
+      "tag": "nmonleba_o",
+      "lat": "42.0923119"
+    },
+    "nmoneash_o": {
+      "lon": "-71.0174409",
+      "title": "North Montello St and East Ashland St",
+      "shortTitle": "North Montello & East Ashland",
+      "stopId": "604",
+      "tag": "nmoneash_o",
+      "lat": "42.0934679"
+    },
+    "eashmulb_o": {
+      "lon": "-71.016272",
+      "title": "East Ashland St and Mulberry St",
+      "shortTitle": "East Ashland & Mulberry",
+      "stopId": "605",
+      "tag": "eashmulb_o",
+      "lat": "42.0939939"
+    },
+    "eashemme_o": {
+      "lon": "-71.0146042",
+      "title": "East Ashland St and Emmet St",
+      "shortTitle": "East Ashland & Emmet",
+      "stopId": "606",
+      "tag": "eashemme_o",
+      "lat": "42.0942919"
+    },
+    "eashrive_o": {
+      "lon": "-71.0124709",
+      "title": "East Ashland St and River St",
+      "shortTitle": "East Ashland & River",
+      "stopId": "607",
+      "tag": "eashrive_o",
+      "lat": "42.094814"
+    },
+    "caryhill": {
+      "lon": "-71.0110389",
+      "title": "Cary Hill Plaza",
+      "stopId": "608",
+      "tag": "caryhill",
+      "lat": "42.095341"
+    },
+    "ncarmill": {
+      "lon": "-71.0081742",
+      "title": "North Cary St and Miller Ave",
+      "shortTitle": "North Cary & Miller",
+      "stopId": "609",
+      "tag": "ncarmill",
+      "lat": "42.099653"
+    },
+    "amesridg": {
+      "lon": "-71.009418",
+      "title": "Ames St and Ridge St",
+      "shortTitle": "Ames & Ridge",
+      "stopId": "610",
+      "tag": "amesridg",
+      "lat": "42.1006268"
+    },
+    "amesedga": {
+      "lon": "-71.01052",
+      "title": "Ames St and Edgar St",
+      "shortTitle": "Ames & Edgar",
+      "stopId": "611",
+      "tag": "amesedga",
+      "lat": "42.1008478"
+    },
+    "sawtstca": {
+      "lon": "-71.0125869",
+      "title": "Sawtelle Ave and St Casimir Ave",
+      "shortTitle": "Sawtelle & Casimir",
+      "stopId": "612",
+      "tag": "sawtstca",
+      "lat": "42.1016432"
+    },
+    "sawtarth": {
+      "lon": "-71.0129139",
+      "title": "Sawtelle Ave and Arthur St",
+      "shortTitle": "Sawtelle & Arthur",
+      "stopId": "613",
+      "tag": "sawtarth",
+      "lat": "42.1030942"
+    },
+    "arthur": {
+      "lon": "-71.0149831",
+      "title": "Arthur St",
+      "shortTitle": "Arthur",
+      "stopId": "614",
+      "tag": "arthur",
+      "lat": "42.1029481"
+    },
+    "arthinte": {
+      "lon": "-71.016375",
+      "title": "Arthur St and Intervale St",
+      "shortTitle": "Arthur & Intervale",
+      "stopId": "615",
+      "tag": "arthinte",
+      "lat": "42.1027819"
+    },
+    "intebell": {
+      "lon": "-71.0170066",
+      "title": "Intervale St and Bellevue Ave",
+      "shortTitle": "Intervale & Bellevue",
+      "stopId": "616",
+      "tag": "intebell",
+      "lat": "42.1035973"
+    },
+    "intefaxo": {
+      "lon": "-71.0175665",
+      "title": "Intervale St and Faxon St",
+      "shortTitle": "Intervale & Faxon",
+      "stopId": "617",
+      "tag": "intefaxo",
+      "lat": "42.1043894"
+    },
+    "inteblen": {
+      "lon": "-71.0178385",
+      "title": "Intervale St and Blendall St",
+      "shortTitle": "Intervale & Blendall",
+      "stopId": "618",
+      "tag": "inteblen",
+      "lat": "42.1050912"
+    },
+    "crosgard": {
+      "lon": "-71.016207",
+      "title": "Crosby Gardens",
+      "stopId": "619",
+      "tag": "crosgard",
+      "lat": "42.1055541"
+    },
+    "nortsawt": {
+      "lon": "-71.0139379",
+      "title": "North Ave and Sawtelle Ave",
+      "shortTitle": "North & Sawtelle",
+      "stopId": "620",
+      "tag": "nortsawt",
+      "lat": "42.106476"
+    },
+    "sawtfiel": {
+      "lon": "-71.013823",
+      "title": "Sawtelle Ave and Field St",
+      "shortTitle": "Sawtelle & Field",
+      "stopId": "621",
+      "tag": "sawtfiel",
+      "lat": "42.1069552"
+    },
+    "fielmorg": {
+      "lon": "-71.0159077",
+      "title": "Field St and Morgan St",
+      "shortTitle": "Field & Morgan",
+      "stopId": "622",
+      "tag": "fielmorg",
+      "lat": "42.1071029"
+    },
+    "fieldyer": {
+      "lon": "-71.0192846",
+      "title": "Field St and Dyer St",
+      "shortTitle": "Field & Dyer",
+      "stopId": "623",
+      "tag": "fieldyer",
+      "lat": "42.1066567"
+    },
+    "wintmonu": {
+      "lon": "-71.0202672",
+      "title": "Winter St and Monument St",
+      "shortTitle": "Winter & Monument",
+      "stopId": "625",
+      "tag": "wintmonu",
+      "lat": "42.1094291"
+    },
+    "wintdyer": {
+      "lon": "-71.01895",
+      "title": "Winter St and Dyer St",
+      "shortTitle": "Winter & Dyer",
+      "stopId": "626",
+      "tag": "wintdyer",
+      "lat": "42.1095781"
+    },
+    "wintando": {
+      "lon": "-71.0170731",
+      "title": "Winter St and Andover St",
+      "shortTitle": "Winter & Andover",
+      "stopId": "627",
+      "tag": "wintando",
+      "lat": "42.109793"
+    },
+    "wintsawt": {
+      "lon": "-71.0142412",
+      "title": "Winter St and Sawtelle Ave",
+      "shortTitle": "Winter & Sawtelle",
+      "stopId": "628",
+      "tag": "wintsawt",
+      "lat": "42.109989"
+    },
+    "wintfiel": {
+      "lon": "-71.0087902",
+      "title": "Winter St and Field St",
+      "shortTitle": "Winter & Field",
+      "stopId": "629",
+      "tag": "wintfiel",
+      "lat": "42.1084218"
+    },
+    "wintnort": {
+      "lon": "-71.0074063",
+      "title": "Winter St and North Ave",
+      "shortTitle": "Winter & North",
+      "stopId": "630",
+      "tag": "wintnort",
+      "lat": "42.1080618"
+    },
+    "wintbalt": {
+      "lon": "-71.0058773",
+      "title": "Winter St and Baltic Ave",
+      "shortTitle": "Winter & Baltic",
+      "stopId": "631",
+      "tag": "wintbalt",
+      "lat": "42.1073266"
+    },
+    "wintncar": {
+      "lon": "-71.0048504",
+      "title": "Winter St and North Cary St",
+      "shortTitle": "Winter & North Cary",
+      "stopId": "632",
+      "tag": "wintncar",
+      "lat": "42.1066667"
+    },
+    "ncaramar": {
+      "lon": "-71.004097",
+      "title": "North Cary St on Amark Rd",
+      "shortTitle": "North Cary on Amark",
+      "stopId": "633",
+      "tag": "ncaramar",
+      "lat": "42.1044421"
+    },
+    "amarcynt": {
+      "lon": "-71.0044159",
+      "title": "Amark Rd and Cynthia Dr",
+      "shortTitle": "Amark & Cynthia Dr",
+      "stopId": "634",
+      "tag": "amarcynt",
+      "lat": "42.1031779"
+    },
+    "coeupto": {
+      "lon": "-71.0019949",
+      "title": "Coe Rd and Upton St",
+      "shortTitle": "Coe & Upton",
+      "stopId": "635",
+      "tag": "coeupto",
+      "lat": "42.102471"
+    },
+    "coenorw": {
+      "lon": "-70.9988077",
+      "title": "Coe Rd and Norwich Rd",
+      "shortTitle": "Coe & Norwich",
+      "stopId": "636",
+      "tag": "coenorw",
+      "lat": "42.102926"
+    },
+    "coealph": {
+      "lon": "-70.9980758",
+      "title": "Coe Rd and Alphonse Rd",
+      "shortTitle": "Coe & Alphonse",
+      "stopId": "637",
+      "tag": "coealph",
+      "lat": "42.103029"
+    },
+    "alphanne": {
+      "lon": "-70.997279",
+      "title": "Alphonse Rd and Annella Rd",
+      "shortTitle": "Alphonse & Annella",
+      "stopId": "638",
+      "tag": "alphanne",
+      "lat": "42.1018473"
+    },
+    "alphwale": {
+      "lon": "-70.9970541",
+      "title": "Alphonse Rd and Waleco Rd",
+      "shortTitle": "Alphonse & Waleco",
+      "stopId": "639",
+      "tag": "alphwale",
+      "lat": "42.1012383"
+    },
+    "colgnich": {
+      "lon": "-70.9978769",
+      "title": "Colgate Rd and Nicholson Dr",
+      "shortTitle": "Colgate & Nicholson Dr",
+      "stopId": "640",
+      "tag": "colgnich",
+      "lat": "42.0994758"
+    },
+    "colgeash": {
+      "lon": "-70.997762",
+      "title": "Colgate Rd and East Ashland St",
+      "shortTitle": "Colgate & East Ashland",
+      "stopId": "641",
+      "tag": "colgeash",
+      "lat": "42.0982678"
+    },
+    "eashbish": {
+      "lon": "-70.9995923",
+      "title": "East Ashland St and Bishop St",
+      "shortTitle": "East Ashland & Bishop",
+      "stopId": "642",
+      "tag": "eashbish",
+      "lat": "42.0980121"
+    },
+    "easheast": {
+      "lon": "-71.0019474",
+      "title": "East Ashland St and Eastfield Dr",
+      "shortTitle": "East Ashland & Eastfield Dr",
+      "stopId": "643",
+      "tag": "easheast",
+      "lat": "42.0975844"
+    },
+    "eashthay": {
+      "lon": "-71.0053754",
+      "title": "East Ashland St and Thayer St",
+      "shortTitle": "East Ashland & Thayer",
+      "stopId": "644",
+      "tag": "eashthay",
+      "lat": "42.0972042"
+    },
+    "eashncar": {
+      "lon": "-71.0080894",
+      "title": "East Ashland St and North Cary St",
+      "shortTitle": "East Ashland & North Cary",
+      "stopId": "645",
+      "tag": "eashncar",
+      "lat": "42.0965073"
+    },
+    "eashrive": {
+      "lon": "-71.0127705",
+      "title": "East Ashland St and River St",
+      "shortTitle": "East Ashland & River",
+      "stopId": "646",
+      "tag": "eashrive",
+      "lat": "42.0948383"
+    },
+    "eashemme": {
+      "lon": "-71.0147954",
+      "title": "East Ashland St and Emmet St",
+      "shortTitle": "East Ashland & Emmet",
+      "stopId": "647",
+      "tag": "eashemme",
+      "lat": "42.0943282"
+    },
+    "eashmulb": {
+      "lon": "-71.0159165",
+      "title": "East Ashland St and Mulberry St",
+      "shortTitle": "East Ashland & Mulberry",
+      "stopId": "648",
+      "tag": "eashmulb",
+      "lat": "42.0941472"
+    },
+    "nmoneash": {
+      "lon": "-71.0175239",
+      "title": "North Montello St and East Ashland St",
+      "shortTitle": "North Montello & East Ashland",
+      "stopId": "649",
+      "tag": "nmoneash",
+      "lat": "42.0936859"
+    },
+    "nmonleba": {
+      "lon": "-71.0175079",
+      "title": "North Montello St and Lebanon St",
+      "shortTitle": "North Montello & Lebanon",
+      "stopId": "650",
+      "tag": "nmonleba",
+      "lat": "42.0922729"
+    },
+    "nmonelli": {
+      "lon": "-71.0174789",
+      "title": "North Montello St and Elliot St",
+      "shortTitle": "North Montello & Elliot",
+      "stopId": "651",
+      "tag": "nmonelli",
+      "lat": "42.0903839"
+    },
+    "nmonchar": {
+      "lon": "-71.0174359",
+      "title": "North Montello St and Charles St",
+      "shortTitle": "North Montello & Charles",
+      "stopId": "652",
+      "tag": "nmonchar",
+      "lat": "42.0886739"
+    },
+    "wmaibows": {
+      "lon": "-71.0361559",
+      "title": "West Main St and Bows Ln",
+      "shortTitle": "West Main & Bows Ln",
+      "stopId": "660",
+      "tag": "wmaibows",
+      "lat": "42.1158339"
+    },
+    "wmaimapl": {
+      "lon": "-71.0368419",
+      "title": "West Main St and Maple Ave",
+      "shortTitle": "West Main & Maple",
+      "stopId": "661",
+      "tag": "wmaimapl",
+      "lat": "42.1163719"
+    },
+    "wmaioak": {
+      "lon": "-71.0383119",
+      "title": "West Main St and Oak St",
+      "shortTitle": "West Main & Oak",
+      "stopId": "662",
+      "tag": "wmaioak",
+      "lat": "42.1178399"
+    },
+    "wmaischo": {
+      "lon": "-71.0395989",
+      "title": "West Main St and School St",
+      "shortTitle": "West Main & School",
+      "stopId": "664",
+      "tag": "wmaischo",
+      "lat": "42.1199929"
+    },
+    "wmaidaws": {
+      "lon": "-71.0400819",
+      "title": "West Main St and Dawson St",
+      "shortTitle": "West Main & Dawson",
+      "stopId": "665",
+      "tag": "wmaidaws",
+      "lat": "42.1208439"
+    },
+    "wmaiever": {
+      "lon": "-71.0404419",
+      "title": "West Main St and Everett St",
+      "shortTitle": "West Main & Everett",
+      "stopId": "666",
+      "tag": "wmaiever",
+      "lat": "42.1214409"
+    },
+    "wmaiwest": {
+      "lon": "-71.0411819",
+      "title": "West Main St and West Spring St",
+      "shortTitle": "West Main & West Spring",
+      "stopId": "667",
+      "tag": "wmaiwest",
+      "lat": "42.1234658"
+    },
+    "wmaigill": {
+      "lon": "-71.0413909",
+      "title": "West Main St and Gill St",
+      "shortTitle": "West Main & Gill",
+      "stopId": "668",
+      "tag": "wmaigill",
+      "lat": "42.1245128"
+    },
+    "wmairock": {
+      "lon": "-71.0416219",
+      "title": "West Main St and Rock St",
+      "shortTitle": "West Main & Rock",
+      "stopId": "669",
+      "tag": "wmairock",
+      "lat": "42.1267718"
+    },
+    "wmaibart": {
+      "lon": "-71.041815",
+      "title": "West Main St and Bartlett St",
+      "shortTitle": "West Main & Bartlett",
+      "stopId": "670",
+      "tag": "wmaibart",
+      "lat": "42.1295059"
+    },
+    "avonsq_o": {
+      "lon": "-71.040097",
+      "title": "Avon Square",
+      "stopId": "671",
+      "tag": "avonsq_o",
+      "lat": "42.1319598"
+    },
+    "emaieahs": {
+      "lon": "-71.0397869",
+      "title": "East Main St and East High St",
+      "shortTitle": "East Main & East High",
+      "stopId": "672",
+      "tag": "emaieahs",
+      "lat": "42.1328012"
+    },
+    "smaiacor": {
+      "lon": "-71.0399551",
+      "title": "South Main St and Acorn Dr",
+      "shortTitle": "South Main & Acorn Dr",
+      "stopId": "673",
+      "tag": "smaiacor",
+      "lat": "42.1376992"
+    },
+    "smaikare": {
+      "lon": "-71.0404511",
+      "title": "South Main St and Karen Dr",
+      "shortTitle": "South Main & Karen Dr",
+      "stopId": "674",
+      "tag": "smaikare",
+      "lat": "42.1412932"
+    },
+    "smaifred": {
+      "lon": "-71.0406571",
+      "title": "South Main St and Frederickson Dr",
+      "shortTitle": "South Main & Frederickson Dr",
+      "stopId": "675",
+      "tag": "smaifred",
+      "lat": "42.1420173"
+    },
+    "smaiwoor": {
+      "lon": "-71.0411302",
+      "title": "South Main St and Woodlawn Rd",
+      "shortTitle": "South Main & Woodlawn",
+      "stopId": "676",
+      "tag": "smaiwoor",
+      "lat": "42.1436842"
+    },
+    "smaicent": {
+      "lon": "-71.0414051",
+      "title": "South Main St and Centre St",
+      "shortTitle": "South Main & Centre",
+      "stopId": "677",
+      "tag": "smaicent",
+      "lat": "42.1445053"
+    },
+    "smaiselw_o": {
+      "lon": "-71.0430302",
+      "title": "South Main St and Selwyn Rd",
+      "shortTitle": "South Main & Selwyn",
+      "stopId": "678",
+      "tag": "smaiselw_o",
+      "lat": "42.1480412"
+    },
+    "smaiwood": {
+      "lon": "-71.0439531",
+      "title": "South Main St and Woodland Pkwy",
+      "shortTitle": "South Main & Woodland Pkwy",
+      "stopId": "679",
+      "tag": "smaiwood",
+      "lat": "42.1502112"
+    },
+    "smairich": {
+      "lon": "-71.0443191",
+      "title": "South Main St and Richard Rd",
+      "shortTitle": "South Main & Richard",
+      "stopId": "680",
+      "tag": "smairich",
+      "lat": "42.1516842"
+    },
+    "smaiterr": {
+      "lon": "-71.0443688",
+      "title": "South Main St and Terry Dr",
+      "shortTitle": "South Main & Terry Dr",
+      "stopId": "681",
+      "tag": "smaiterr",
+      "lat": "42.1560763"
+    },
+    "smaidarr": {
+      "lon": "-71.0439909",
+      "title": "South Main St and Darrell Dr",
+      "shortTitle": "South Main & Darrell Dr",
+      "stopId": "682",
+      "tag": "smaidarr",
+      "lat": "42.1568372"
+    },
+    "smaimapl": {
+      "lon": "-71.0429229",
+      "title": "South Main St and Maple St",
+      "shortTitle": "South Main & Maple",
+      "stopId": "683",
+      "tag": "smaimapl",
+      "lat": "42.1594122"
+    },
+    "randosq_o": {
+      "lon": "-71.041522",
+      "title": "Randolph Square",
+      "stopId": "684",
+      "tag": "randosq_o",
+      "lat": "42.162032"
+    },
+    "smainort": {
+      "lon": "-71.041702",
+      "title": "South Main St and North St",
+      "shortTitle": "South Main & North",
+      "stopId": "685",
+      "tag": "smainort",
+      "lat": "42.163223"
+    },
+    "nmaischs": {
+      "lon": "-71.042897",
+      "title": "North Main St and School St",
+      "shortTitle": "North Main & School",
+      "stopId": "686",
+      "tag": "nmaischs",
+      "lat": "42.165169"
+    },
+    "nmaicott": {
+      "lon": "-71.043747",
+      "title": "North Main St and Cottage St",
+      "shortTitle": "North Main & Cottage",
+      "stopId": "687",
+      "tag": "nmaicott",
+      "lat": "42.166543"
+    },
+    "nmaiplea": {
+      "lon": "-71.044952",
+      "title": "North Main St and Pleasant St",
+      "shortTitle": "North Main & Pleasant",
+      "stopId": "688",
+      "tag": "nmaiplea",
+      "lat": "42.168495"
+    },
+    "nmaipark": {
+      "lon": "-71.045563",
+      "title": "North Main St and Park St",
+      "shortTitle": "North Main & Park",
+      "stopId": "689",
+      "tag": "nmaipark",
+      "lat": "42.169426"
+    },
+    "nmaialle": {
+      "lon": "-71.046532",
+      "title": "North Main St and Allen St",
+      "shortTitle": "North Main & Allen",
+      "stopId": "690",
+      "tag": "nmaialle",
+      "lat": "42.171026"
+    },
+    "nmaischl": {
+      "lon": "-71.0477679",
+      "title": "North Main St and School Ln",
+      "shortTitle": "North Main & School Ln",
+      "stopId": "691",
+      "tag": "nmaischl",
+      "lat": "42.1736529"
+    },
+    "nmailibe": {
+      "lon": "-71.0483249",
+      "title": "North Main St and Liberty St",
+      "shortTitle": "North Main & Liberty",
+      "stopId": "692",
+      "tag": "nmailibe",
+      "lat": "42.1747168"
+    },
+    "nmaijone": {
+      "lon": "-71.0492709",
+      "title": "North Main St and Jones St",
+      "shortTitle": "North Main & Jones",
+      "stopId": "693",
+      "tag": "nmaijone",
+      "lat": "42.1764448"
+    },
+    "nmaivese_o": {
+      "lon": "-71.0499469",
+      "title": "North Main St and Vesey Rd",
+      "shortTitle": "North Main & Vesey",
+      "stopId": "694",
+      "tag": "nmaivese_o",
+      "lat": "42.1775718"
+    },
+    "nmaipond": {
+      "lon": "-71.0591959",
+      "title": "North Main St and Pond St",
+      "shortTitle": "North Main & Pond",
+      "stopId": "696",
+      "tag": "nmaipond",
+      "lat": "42.1916348"
+    },
+    "nmaichar": {
+      "lon": "-71.0597079",
+      "title": "North Main St and Charles St",
+      "shortTitle": "North Main & Charles",
+      "stopId": "697",
+      "tag": "nmaichar",
+      "lat": "42.1927599"
+    },
+    "nmaibenn": {
+      "lon": "-71.0601119",
+      "title": "North Main St and Bennington St",
+      "shortTitle": "North Main & Bennington",
+      "stopId": "698",
+      "tag": "nmaibenn",
+      "lat": "42.1937599"
+    },
+    "nmaisara": {
+      "lon": "-71.0603259",
+      "title": "North Main St and Saratoga Ave",
+      "shortTitle": "North Main & Saratoga",
+      "stopId": "699",
+      "tag": "nmaisara",
+      "lat": "42.1941808"
+    },
+    "nmaiword": {
+      "lon": "-71.0605589",
+      "title": "North Main St and Wordsworth St",
+      "shortTitle": "North Main & Wordsworth",
+      "stopId": "700",
+      "tag": "nmaiword",
+      "lat": "42.1947968"
+    },
+    "nmaioliv": {
+      "lon": "-71.0609589",
+      "title": "North Main St and Oliver St",
+      "shortTitle": "North Main & Oliver",
+      "stopId": "701",
+      "tag": "nmaioliv",
+      "lat": "42.1970938"
+    },
+    "nmaithor": {
+      "lon": "-71.0611769",
+      "title": "North Main St and Thornton St",
+      "shortTitle": "North Main & Thornton",
+      "stopId": "702",
+      "tag": "nmaithor",
+      "lat": "42.1977418"
+    },
+    "nmaihild": {
+      "lon": "-71.0613579",
+      "title": "North Main St and Hildegarde St",
+      "shortTitle": "North Main & Hildegarde",
+      "stopId": "703",
+      "tag": "nmaihild",
+      "lat": "42.1982988"
+    },
+    "nmaiball": {
+      "lon": "-71.0614779",
+      "title": "North Main St and Ballard St",
+      "shortTitle": "North Main & Ballard",
+      "stopId": "704",
+      "tag": "nmaiball",
+      "lat": "42.1988718"
+    },
+    "nmaiboss": {
+      "lon": "-71.0617009",
+      "title": "North Main St and Bossi Ave",
+      "shortTitle": "North Main & Bossi",
+      "stopId": "705",
+      "tag": "nmaiboss",
+      "lat": "42.1994868"
+    },
+    "nmaicowa": {
+      "lon": "-71.0621509",
+      "title": "North Main St and Cowan Rd",
+      "shortTitle": "North Main & Cowan",
+      "stopId": "706",
+      "tag": "nmaicowa",
+      "lat": "42.2005039"
+    },
+    "nmairuss": {
+      "lon": "-71.0625309",
+      "title": "North Main St and Russ St",
+      "shortTitle": "North Main & Russ",
+      "stopId": "707",
+      "tag": "nmairuss",
+      "lat": "42.2011529"
+    },
+    "randeage": {
+      "lon": "-71.0708849",
+      "title": "Randolph Ave and Eager Rd",
+      "shortTitle": "Randolph & Eager",
+      "stopId": "708",
+      "tag": "randeage",
+      "lat": "42.2284049"
+    },
+    "randhilt": {
+      "lon": "-71.070717",
+      "title": "Randolph Ave and Hilltop St",
+      "shortTitle": "Randolph & Hilltop",
+      "stopId": "709",
+      "tag": "randhilt",
+      "lat": "42.2318229"
+    },
+    "randsass": {
+      "lon": "-71.070182",
+      "title": "Randolph Ave and Sassamon Ave",
+      "shortTitle": "Randolph & Sassamon",
+      "stopId": "710",
+      "tag": "randsass",
+      "lat": "42.2335068"
+    },
+    "randridg": {
+      "lon": "-71.06958",
+      "title": "Randolph Ave and Ridgewood Rd",
+      "shortTitle": "Randolph & Ridgewood",
+      "stopId": "711",
+      "tag": "randridg",
+      "lat": "42.2357138"
+    },
+    "randhall_o": {
+      "lon": "-71.069443",
+      "title": "Randolph Ave and Hallen St",
+      "shortTitle": "Randolph & Hallen",
+      "stopId": "712",
+      "tag": "randhall_o",
+      "lat": "42.2384638"
+    },
+    "randhigh_o": {
+      "lon": "-71.069359",
+      "title": "Randolph Ave and Highland St",
+      "shortTitle": "Randolph & Highland",
+      "stopId": "713",
+      "tag": "randhigh_o",
+      "lat": "42.2405848"
+    },
+    "randreed_o": {
+      "lon": "-71.069298",
+      "title": "Randolph Ave and Reed St",
+      "shortTitle": "Randolph & Reed",
+      "stopId": "714",
+      "tag": "randreed_o",
+      "lat": "42.2427248"
+    },
+    "randrdsd": {
+      "lon": "-71.069146",
+      "title": "Randolph Ave and Reedsdale Rd",
+      "shortTitle": "Randolph & Reedsdale",
+      "stopId": "715",
+      "tag": "randrdsd",
+      "lat": "42.2478338"
+    },
+    "reedartw": {
+      "lon": "-71.0718416",
+      "title": "Reedsdale Rd and Artwill St",
+      "shortTitle": "Reedsdale & Artwill",
+      "stopId": "716",
+      "tag": "reedartw",
+      "lat": "42.2493368"
+    },
+    "reedmere": {
+      "lon": "-71.0726037",
+      "title": "Reedsdale Rd and Meredith Cir",
+      "shortTitle": "Reedsdale & Meredith Cir",
+      "stopId": "717",
+      "tag": "reedmere",
+      "lat": "42.2500567"
+    },
+    "reedcool": {
+      "lon": "-71.0742017",
+      "title": "Reedsdale Rd and Coolidge Rd",
+      "shortTitle": "Reedsdale & Coolidge",
+      "stopId": "718",
+      "tag": "reedcool",
+      "lat": "42.2515107"
+    },
+    "milthos_o": {
+      "lon": "-71.0772888",
+      "title": "Milton Hospital",
+      "stopId": "719",
+      "tag": "milthos_o",
+      "lat": "42.2545027"
+    },
+    "reedthom": {
+      "lon": "-71.079245",
+      "title": "Reedsdale Rd and Thompson Ln",
+      "shortTitle": "Reedsdale & Thompson Ln",
+      "stopId": "720",
+      "tag": "reedthom",
+      "lat": "42.256383"
+    },
+    "reedbroo": {
+      "lon": "-71.080956",
+      "title": "Reedsdale Rd and Brook Rd",
+      "shortTitle": "Reedsdale & Brook",
+      "stopId": "721",
+      "tag": "reedbroo",
+      "lat": "42.258136"
+    },
+    "centruss_o": {
+      "lon": "-71.080795",
+      "title": "Central Ave and Russelwood Rd",
+      "shortTitle": "Central & Russelwood",
+      "stopId": "722",
+      "tag": "centruss_o",
+      "lat": "42.2595089"
+    },
+    "centhinc": {
+      "lon": "-71.079551",
+      "title": "Central Ave and Hinckley Rd",
+      "shortTitle": "Central & Hinckley",
+      "stopId": "723",
+      "tag": "centhinc",
+      "lat": "42.2622999"
+    },
+    "centcolu_o": {
+      "lon": "-71.078295",
+      "title": "Central Ave and Columbine Rd",
+      "shortTitle": "Central & Columbine",
+      "stopId": "724",
+      "tag": "centcolu_o",
+      "lat": "42.2643389"
+    },
+    "centvall_o": {
+      "lon": "-71.077169",
+      "title": "Central Ave and Valley Rd",
+      "shortTitle": "Central & Valley",
+      "stopId": "725",
+      "tag": "centvall_o",
+      "lat": "42.2657299"
+    },
+    "centcric": {
+      "lon": "-71.0759819",
+      "title": "Central Ave and Cricket Rd",
+      "shortTitle": "Central & Cricket",
+      "stopId": "726",
+      "tag": "centcric",
+      "lat": "42.267299"
+    },
+    "centscho": {
+      "lon": "-71.0744419",
+      "title": "Central Ave and School St",
+      "shortTitle": "Central & School",
+      "stopId": "727",
+      "tag": "centscho",
+      "lat": "42.268328"
+    },
+    "centelli": {
+      "lon": "-71.073113",
+      "title": "Central Ave and Elliot St",
+      "shortTitle": "Central & Elliot",
+      "stopId": "728",
+      "tag": "centelli",
+      "lat": "42.2694059"
+    },
+    "rivecent": {
+      "lon": "-71.0734659",
+      "title": "River St and Central Ave",
+      "shortTitle": "River & Central",
+      "stopId": "729",
+      "tag": "rivecent",
+      "lat": "42.2711939"
+    },
+    "rivetayl": {
+      "lon": "-71.072117",
+      "title": "River St and Taylor Ter",
+      "shortTitle": "River & Taylor Ter",
+      "stopId": "730",
+      "tag": "rivetayl",
+      "lat": "42.27177"
+    },
+    "rivewash": {
+      "lon": "-71.0694291",
+      "title": "River St and Washington St",
+      "shortTitle": "River & Washington",
+      "stopId": "731",
+      "tag": "rivewash",
+      "lat": "42.2724119"
+    },
+    "dorcrich_o": {
+      "lon": "-71.0675109",
+      "title": "Dorchester Ave and Richmond St",
+      "shortTitle": "Dorchester & Richmond",
+      "stopId": "732",
+      "tag": "dorcrich_o",
+      "lat": "42.274056"
+    },
+    "dorcstgr_o": {
+      "lon": "-71.0671169",
+      "title": "Dorchester Ave and St Gregory St",
+      "shortTitle": "Dorchester & Gregory",
+      "stopId": "733",
+      "tag": "dorcstgr_o",
+      "lat": "42.2754131"
+    },
+    "dorcvall_o": {
+      "lon": "-71.0664459",
+      "title": "Dorchester Ave and Valley Rd",
+      "shortTitle": "Dorchester & Valley",
+      "stopId": "734",
+      "tag": "dorcvall_o",
+      "lat": "42.2779021"
+    },
+    "dorcgali_o": {
+      "lon": "-71.0657529",
+      "title": "Dorchester Ave and Galivan Blvd",
+      "shortTitle": "Dorchester & Galivan",
+      "stopId": "735",
+      "tag": "dorcgali_o",
+      "lat": "42.2803061"
+    },
+    "dorcvanw": {
+      "lon": "-71.0652849",
+      "title": "Dorchester Ave and Van Winkle St",
+      "shortTitle": "Dorchester & Van Winkle",
+      "stopId": "736",
+      "tag": "dorcvanw",
+      "lat": "42.2819521"
+    },
+    "dorcbeal": {
+      "lon": "-71.0650719",
+      "title": "Dorchester Ave and Beale St",
+      "shortTitle": "Dorchester & Beale",
+      "stopId": "737",
+      "tag": "dorcbeal",
+      "lat": "42.2828761"
+    },
+    "ashmont": {
+      "lon": "-71.064517",
+      "title": "Ashmont Station",
+      "stopId": "738",
+      "tag": "ashmont",
+      "lat": "42.284684"
+    },
+    "dorcfull": {
+      "lon": "-71.0648359",
+      "title": "Dorchester Ave and Fuller St",
+      "shortTitle": "Dorchester & Fuller",
+      "stopId": "739",
+      "tag": "dorcfull",
+      "lat": "42.2840961"
+    },
+    "dorcmerc": {
+      "lon": "-71.0651639",
+      "title": "Dorchester Ave and Mercier St",
+      "shortTitle": "Dorchester & Mercier",
+      "stopId": "740",
+      "tag": "dorcmerc",
+      "lat": "42.2828831"
+    },
+    "dorchurl": {
+      "lon": "-71.0653839",
+      "title": "Dorchester Ave and Hurlcroft Ave",
+      "shortTitle": "Dorchester & Hurlcroft",
+      "stopId": "741",
+      "tag": "dorchurl",
+      "lat": "42.2820871"
+    },
+    "dorcgali": {
+      "lon": "-71.0659609",
+      "title": "Dorchester Ave and Galivan Blvd",
+      "shortTitle": "Dorchester & Galivan",
+      "stopId": "742",
+      "tag": "dorcgali",
+      "lat": "42.2800301"
+    },
+    "dorcvall": {
+      "lon": "-71.0665029",
+      "title": "Dorchester Ave and Valley Rd",
+      "shortTitle": "Dorchester & Valley",
+      "stopId": "743",
+      "tag": "dorcvall",
+      "lat": "42.2781001"
+    },
+    "dorcstgr": {
+      "lon": "-71.0672319",
+      "title": "Dorchester Ave and St Gregory St",
+      "shortTitle": "Dorchester & Gregory",
+      "stopId": "744",
+      "tag": "dorcstgr",
+      "lat": "42.2755991"
+    },
+    "dorcmoju": {
+      "lon": "-71.0675089",
+      "title": "Dorchester Ave and Mother Julia Rd",
+      "shortTitle": "Dorchester & Mother Julia",
+      "stopId": "745",
+      "tag": "dorcmoju",
+      "lat": "42.2746531"
+    },
+    "dorcrich": {
+      "lon": "-71.0676589",
+      "title": "Dorchester Ave and Richmond St",
+      "shortTitle": "Dorchester & Richmond",
+      "stopId": "746",
+      "tag": "dorcrich",
+      "lat": "42.2739891"
+    },
+    "dorcwash": {
+      "lon": "-71.0680829",
+      "title": "Dorchester Ave and Washington St",
+      "shortTitle": "Dorchester & Washington",
+      "stopId": "747",
+      "tag": "dorcwash",
+      "lat": "42.2723161"
+    },
+    "rivewich": {
+      "lon": "-71.0706409",
+      "title": "River St and Wichita Ter",
+      "shortTitle": "River & Wichita Ter",
+      "stopId": "748",
+      "tag": "rivewich",
+      "lat": "42.272074"
+    },
+    "rivetemp": {
+      "lon": "-71.0720028",
+      "title": "River St and Temple St",
+      "shortTitle": "River & Temple",
+      "stopId": "749",
+      "tag": "rivetemp",
+      "lat": "42.271907"
+    },
+    "centrive": {
+      "lon": "-71.073628",
+      "title": "Central Ave and River St",
+      "shortTitle": "Central & River",
+      "stopId": "750",
+      "tag": "centrive",
+      "lat": "42.2711581"
+    },
+    "centmapl": {
+      "lon": "-71.0737417",
+      "title": "Central Ave and Maple St",
+      "shortTitle": "Central & Maple",
+      "stopId": "751",
+      "tag": "centmapl",
+      "lat": "42.2689421"
+    },
+    "centgrig": {
+      "lon": "-71.0759347",
+      "title": "Central Ave and Griggs Ln",
+      "shortTitle": "Central & Griggs Ln",
+      "stopId": "752",
+      "tag": "centgrig",
+      "lat": "42.2675031"
+    },
+    "centvall": {
+      "lon": "-71.0771878",
+      "title": "Central Ave and Valley Rd",
+      "shortTitle": "Central & Valley",
+      "stopId": "753",
+      "tag": "centvall",
+      "lat": "42.2659712"
+    },
+    "centcolu": {
+      "lon": "-71.0782788",
+      "title": "Central Ave and Columbine Rd",
+      "shortTitle": "Central & Columbine",
+      "stopId": "754",
+      "tag": "centcolu",
+      "lat": "42.2645332"
+    },
+    "centalle": {
+      "lon": "-71.0807408",
+      "title": "Central Ave and Allerton Rd",
+      "shortTitle": "Central & Allerton",
+      "stopId": "755",
+      "tag": "centalle",
+      "lat": "42.2603552"
+    },
+    "centruss": {
+      "lon": "-71.0808969",
+      "title": "Central Ave and Russelwood Rd",
+      "shortTitle": "Central & Russelwood",
+      "stopId": "756",
+      "tag": "centruss",
+      "lat": "42.2597242"
+    },
+    "centbrok": {
+      "lon": "-71.0811759",
+      "title": "Central Ave and Brook Rd",
+      "shortTitle": "Central & Brook",
+      "stopId": "757",
+      "tag": "centbrok",
+      "lat": "42.2585392"
+    },
+    "reedcena": {
+      "lon": "-71.0809881",
+      "title": "Reedsdale Rd and Central Ave",
+      "shortTitle": "Reedsdale & Central",
+      "stopId": "758",
+      "tag": "reedcena",
+      "lat": "42.2578661"
+    },
+    "reedwaln": {
+      "lon": "-71.0789441",
+      "title": "Reedsdale Rd and Walnut St",
+      "shortTitle": "Reedsdale & Walnut",
+      "stopId": "759",
+      "tag": "reedwaln",
+      "lat": "42.2558231"
+    },
+    "milthos_i": {
+      "lon": "-71.0776841",
+      "title": "Milton Hospital",
+      "stopId": "760",
+      "tag": "milthos_i",
+      "lat": "42.2546061"
+    },
+    "reedspaf": {
+      "lon": "-71.0737839",
+      "title": "Reedsdale Rd and Spafford St",
+      "shortTitle": "Reedsdale & Spafford",
+      "stopId": "761",
+      "tag": "reedspaf",
+      "lat": "42.2509029"
+    },
+    "reedbuck": {
+      "lon": "-71.073183",
+      "title": "Reedsdale Rd and Buckingham Rd",
+      "shortTitle": "Reedsdale & Buckingham",
+      "stopId": "762",
+      "tag": "reedbuck",
+      "lat": "42.250347"
+    },
+    "reedmart": {
+      "lon": "-71.072081",
+      "title": "Reedsdale Rd and Martin Rd",
+      "shortTitle": "Reedsdale & Martin",
+      "stopId": "763",
+      "tag": "reedmart",
+      "lat": "42.2493271"
+    },
+    "reedrand": {
+      "lon": "-71.0693149",
+      "title": "Reedsdale Rd and Randolph Ave",
+      "shortTitle": "Reedsdale & Randolph",
+      "stopId": "764",
+      "tag": "reedrand",
+      "lat": "42.2484293"
+    },
+    "randplea": {
+      "lon": "-71.0694469",
+      "title": "Randolph Ave and Pleasant St",
+      "shortTitle": "Randolph & Pleasant",
+      "stopId": "765",
+      "tag": "randplea",
+      "lat": "42.2453223"
+    },
+    "randreed": {
+      "lon": "-71.0695269",
+      "title": "Randolph Ave and Reed St",
+      "shortTitle": "Randolph & Reed",
+      "stopId": "766",
+      "tag": "randreed",
+      "lat": "42.2429063"
+    },
+    "randhigh": {
+      "lon": "-71.0696049",
+      "title": "Randolph Ave and Highland St",
+      "shortTitle": "Randolph & Highland",
+      "stopId": "767",
+      "tag": "randhigh",
+      "lat": "42.2405513"
+    },
+    "randhall": {
+      "lon": "-71.0696689",
+      "title": "Randolph Ave and Hallen St",
+      "shortTitle": "Randolph & Hallen",
+      "stopId": "768",
+      "tag": "randhall",
+      "lat": "42.2386403"
+    },
+    "randhils": {
+      "lon": "-71.0711358",
+      "title": "Randolph Ave and Hillside St",
+      "shortTitle": "Randolph & Hillside",
+      "stopId": "769",
+      "tag": "randhils",
+      "lat": "42.2313203"
+    },
+    "randchic": {
+      "lon": "-71.070774",
+      "title": "Randolph Ave and Chickatawbut Rd",
+      "shortTitle": "Randolph & Chickatawbut",
+      "stopId": "770",
+      "tag": "randchic",
+      "lat": "42.2243093"
+    },
+    "nmaiscan": {
+      "lon": "-71.0628482",
+      "title": "North Main St and Scanlon Dr",
+      "shortTitle": "North Main & Scanlon Dr",
+      "stopId": "771",
+      "tag": "nmaiscan",
+      "lat": "42.2012474"
+    },
+    "nmaisore": {
+      "lon": "-71.061676",
+      "title": "North Main St and Soren St",
+      "shortTitle": "North Main & Soren",
+      "stopId": "772",
+      "tag": "nmaisore",
+      "lat": "42.1986984"
+    },
+    "nmaihils": {
+      "lon": "-71.061263",
+      "title": "North Main St and Hills St",
+      "shortTitle": "North Main & Hills",
+      "stopId": "773",
+      "tag": "nmaihils",
+      "lat": "42.1973844"
+    },
+    "nmairoya": {
+      "lon": "-71.0602251",
+      "title": "North Main St and Royal St",
+      "shortTitle": "North Main & Royal",
+      "stopId": "775",
+      "tag": "nmairoya",
+      "lat": "42.1934874"
+    },
+    "nmaireed": {
+      "lon": "-71.0595279",
+      "title": "North Main St and Reed St",
+      "shortTitle": "North Main & Reed",
+      "stopId": "776",
+      "tag": "nmaireed",
+      "lat": "42.1917275"
+    },
+    "nmaiinte": {
+      "lon": "-71.0581283",
+      "title": "North Main St and Intervale Rd",
+      "shortTitle": "North Main & Intervale",
+      "stopId": "777",
+      "tag": "nmaiinte",
+      "lat": "42.1896445"
+    },
+    "nmaigord": {
+      "lon": "-71.0572213",
+      "title": "North Main St and Gordon St",
+      "shortTitle": "North Main & Gordon",
+      "stopId": "778",
+      "tag": "nmaigord",
+      "lat": "42.1883185"
+    },
+    "nmaiches": {
+      "lon": "-71.0548373",
+      "title": "North Main St and Chestnut St",
+      "shortTitle": "North Main & Chestnut",
+      "stopId": "779",
+      "tag": "nmaiches",
+      "lat": "42.1848155"
+    },
+    "nmaivese": {
+      "lon": "-71.0503122",
+      "title": "North Main St and Vesey Rd",
+      "shortTitle": "North Main & Vesey",
+      "stopId": "780",
+      "tag": "nmaivese",
+      "lat": "42.1778095"
+    },
+    "nmaigrov": {
+      "lon": "-71.0484722",
+      "title": "North Main St and Grove St",
+      "shortTitle": "North Main & Grove",
+      "stopId": "781",
+      "tag": "nmaigrov",
+      "lat": "42.1745116"
+    },
+    "nmaijasp": {
+      "lon": "-71.0478582",
+      "title": "North Main St and Jasper Ln",
+      "shortTitle": "North Main & Jasper Ln",
+      "stopId": "782",
+      "tag": "nmaijasp",
+      "lat": "42.1733106"
+    },
+    "nmainels": {
+      "lon": "-71.0465702",
+      "title": "North Main St and Nelson Dr",
+      "shortTitle": "North Main & Nelson Dr",
+      "stopId": "783",
+      "tag": "nmainels",
+      "lat": "42.1707106"
+    },
+    "nmaiwest": {
+      "lon": "-71.0456133",
+      "title": "North Main St and West St",
+      "shortTitle": "North Main & West",
+      "stopId": "784",
+      "tag": "nmaiwest",
+      "lat": "42.1691615"
+    },
+    "nmaidepo": {
+      "lon": "-71.0442153",
+      "title": "North Main St and Depot St",
+      "shortTitle": "North Main & Depot",
+      "stopId": "785",
+      "tag": "nmaidepo",
+      "lat": "42.1669176"
+    },
+    "nmaiwarr": {
+      "lon": "-71.0436173",
+      "title": "North Main St and Warren St",
+      "shortTitle": "North Main & Warren",
+      "stopId": "786",
+      "tag": "nmaiwarr",
+      "lat": "42.1659176"
+    },
+    "nmaidiau": {
+      "lon": "-71.0428473",
+      "title": "North Main St and Diauto Dr",
+      "shortTitle": "North Main & Diauto Dr",
+      "stopId": "787",
+      "tag": "nmaidiau",
+      "lat": "42.1646775"
+    },
+    "nmaimemo": {
+      "lon": "-71.0421073",
+      "title": "North Main St and Memorial Pkwy",
+      "shortTitle": "North Main & Memorial Pkwy",
+      "stopId": "788",
+      "tag": "nmaimemo",
+      "lat": "42.1634905"
+    },
+    "nmaiturn": {
+      "lon": "-71.0417233",
+      "title": "North Main St and Turner Ln",
+      "shortTitle": "North Main & Turner Ln",
+      "stopId": "789",
+      "tag": "nmaiturn",
+      "lat": "42.1628695"
+    },
+    "randosq_i": {
+      "lon": "-71.0415967",
+      "title": "Randolph Square",
+      "stopId": "790",
+      "tag": "randosq_i",
+      "lat": "42.1622935"
+    },
+    "smaielgi": {
+      "lon": "-71.042968",
+      "title": "South Main St and Elgin Ct",
+      "shortTitle": "South Main & Elgin Ct",
+      "stopId": "791",
+      "tag": "smaielgi",
+      "lat": "42.1597579"
+    },
+    "smaiwoos": {
+      "lon": "-71.0434989",
+      "title": "South Main St and Woodlawn St",
+      "shortTitle": "South Main & Woodlawn",
+      "stopId": "792",
+      "tag": "smaiwoos",
+      "lat": "42.158604"
+    },
+    "smaifaiv": {
+      "lon": "-71.044124",
+      "title": "South Main St and Fairview Ave",
+      "shortTitle": "South Main & Fairview",
+      "stopId": "793",
+      "tag": "smaifaiv",
+      "lat": "42.1570379"
+    },
+    "smaifair": {
+      "lon": "-71.0445399",
+      "title": "South Main St and Fairmount St",
+      "shortTitle": "South Main & Fairmount",
+      "stopId": "794",
+      "tag": "smaifair",
+      "lat": "42.156101"
+    },
+    "smaifitc": {
+      "lon": "-71.0452019",
+      "title": "South Main St and Fitch Ter",
+      "shortTitle": "South Main & Fitch Ter",
+      "stopId": "795",
+      "tag": "smaifitc",
+      "lat": "42.1533749"
+    },
+    "smaistou": {
+      "lon": "-71.0442609",
+      "title": "South Main St and Stoughton St",
+      "shortTitle": "South Main & Stoughton",
+      "stopId": "796",
+      "tag": "smaistou",
+      "lat": "42.1504919"
+    },
+    "smaiselw": {
+      "lon": "-71.0433459",
+      "title": "South Main St and Selwyn Rd",
+      "shortTitle": "South Main & Selwyn",
+      "stopId": "797",
+      "tag": "smaiselw",
+      "lat": "42.1481229"
+    },
+    "smaisumm": {
+      "lon": "-71.0406669",
+      "title": "South Main St and Summit Rd",
+      "shortTitle": "South Main & Summit",
+      "stopId": "798",
+      "tag": "smaisumm",
+      "lat": "42.1412959"
+    },
+    "smailang": {
+      "lon": "-71.0401839",
+      "title": "South Main St and Langley Rd",
+      "shortTitle": "South Main & Langley",
+      "stopId": "799",
+      "tag": "smailang",
+      "lat": "42.1372428"
+    },
+    "avonsq_i": {
+      "lon": "-71.040063",
+      "title": "Avon Square",
+      "stopId": "800",
+      "tag": "avonsq_i",
+      "lat": "42.132739"
+    },
+    "wmaiprat": {
+      "lon": "-71.0409239",
+      "title": "West Main St and Pratt St",
+      "shortTitle": "West Main & Pratt",
+      "stopId": "801",
+      "tag": "wmaiprat",
+      "lat": "42.131532"
+    },
+    "wmaipond": {
+      "lon": "-71.0420239",
+      "title": "West Main St and Pond St",
+      "shortTitle": "West Main & Pond",
+      "stopId": "802",
+      "tag": "wmaipond",
+      "lat": "42.1288129"
+    },
+    "wmaifeel": {
+      "lon": "-71.0416319",
+      "title": "West Main St and Feely St",
+      "shortTitle": "West Main & Feely",
+      "stopId": "803",
+      "tag": "wmaifeel",
+      "lat": "42.1257509"
+    },
+    "wmailisa": {
+      "lon": "-71.0414659",
+      "title": "West Main St and Lisa Ln",
+      "shortTitle": "West Main & Lisa Ln",
+      "stopId": "804",
+      "tag": "wmailisa",
+      "lat": "42.1243769"
+    },
+    "wmaiavon": {
+      "lon": "-71.0411519",
+      "title": "West Main St and Avon Pl",
+      "shortTitle": "West Main & Avon Pl",
+      "stopId": "805",
+      "tag": "wmaiavon",
+      "lat": "42.1228469"
+    },
+    "wmaiklon": {
+      "lon": "-71.0404039",
+      "title": "West Main St and Klondike Rd",
+      "shortTitle": "West Main & Klondike",
+      "stopId": "806",
+      "tag": "wmaiklon",
+      "lat": "42.1211119"
+    },
+    "wmainich": {
+      "lon": "-71.0382869",
+      "title": "West Main St and Nichols Ave",
+      "shortTitle": "West Main & Nichols",
+      "stopId": "807",
+      "tag": "wmainich",
+      "lat": "42.1175709"
+    },
+    "westgate_d": {
+      "lon": "-71.049742",
+      "title": "Westgate Mall Main Entrance",
+      "stopId": "810",
+      "tag": "westgate_d",
+      "lat": "42.0958769"
+    },
+    "mriwest": {
+      "lon": "-71.0495897",
+      "title": "MRI at Westgate",
+      "shortTitle": "MRI @ Westgate",
+      "stopId": "811",
+      "tag": "mriwest",
+      "lat": "42.097238"
+    },
+    "oakchili": {
+      "lon": "-71.0515845",
+      "title": "Oak St at Chilis",
+      "shortTitle": "Oak @ Chilis",
+      "stopId": "813",
+      "tag": "oakchili",
+      "lat": "42.1017179"
+    },
+    "oakoak": {
+      "lon": "-71.0481391",
+      "title": "Oak St and Oak Lane",
+      "shortTitle": "Oak & Oak Lane",
+      "stopId": "815",
+      "tag": "oakoak",
+      "lat": "42.1017389"
+    },
+    "oakfulam": {
+      "lon": "-71.0451121",
+      "title": "Oak St at Fuller Art Museum",
+      "shortTitle": "Oak @ Fuller Art Museum",
+      "stopId": "816",
+      "tag": "oakfulam",
+      "lat": "42.101599"
+    },
+    "oakbela": {
+      "lon": "-71.039582",
+      "title": "Oak St and Belair St",
+      "shortTitle": "Oak & Belair",
+      "stopId": "817",
+      "tag": "oakbela",
+      "lat": "42.101163"
+    },
+    "belatuck": {
+      "lon": "-71.038867",
+      "title": "Belair St and Tucker Dr",
+      "shortTitle": "Belair & Tucker Dr",
+      "stopId": "818",
+      "tag": "belatuck",
+      "lat": "42.099284"
+    },
+    "belaanne": {
+      "lon": "-71.0386901",
+      "title": "Belair St and Anne Ave",
+      "shortTitle": "Belair & Anne",
+      "stopId": "819",
+      "tag": "belaanne",
+      "lat": "42.0980487"
+    },
+    "belahigh": {
+      "lon": "-71.0368039",
+      "title": "Belair High Rise",
+      "stopId": "821",
+      "tag": "belahigh",
+      "lat": "42.0919279"
+    },
+    "belaearl": {
+      "lon": "-71.0378759",
+      "title": "Belair St and Earle St",
+      "shortTitle": "Belair & Earle",
+      "stopId": "820",
+      "tag": "belaearl",
+      "lat": "42.0933849"
+    },
+    "colbaptc": {
+      "lon": "-71.039085",
+      "title": "Colonel Bell Dr Apt Complex",
+      "stopId": "823",
+      "tag": "colbaptc",
+      "lat": "42.095815"
+    },
+    "sulltowe": {
+      "lon": "-71.0397882",
+      "title": "Sullivan Towers",
+      "stopId": "822",
+      "tag": "sulltowe",
+      "lat": "42.094511"
+    },
+    "colbbela": {
+      "lon": "-71.037414",
+      "title": "Colonel Bell Dr and Belair St",
+      "shortTitle": "Colonel Bell Dr & Belair",
+      "stopId": "824",
+      "tag": "colbbela",
+      "lat": "42.090728"
+    },
+    "belapros": {
+      "lon": "-71.037346",
+      "title": "Belair St and Prospect St",
+      "shortTitle": "Belair & Prospect",
+      "stopId": "825",
+      "tag": "belapros",
+      "lat": "42.090241"
+    },
+    "prosfiel": {
+      "lon": "-71.038936",
+      "title": "Prospect St and Fields Ave",
+      "shortTitle": "Prospect & Fields",
+      "stopId": "826",
+      "tag": "prosfiel",
+      "lat": "42.090142"
+    },
+    "westplea": {
+      "lon": "-71.0461681",
+      "title": "West St and Pleasant St",
+      "shortTitle": "West & Pleasant",
+      "stopId": "833",
+      "tag": "westplea",
+      "lat": "42.0884782"
+    },
+    "westthol": {
+      "lon": "-71.045152",
+      "title": "West St at Thorny Lee Ter",
+      "shortTitle": "West @ Thorny Lee Ter",
+      "stopId": "834",
+      "tag": "westthol",
+      "lat": "42.083743"
+    },
+    "westtorr": {
+      "lon": "-71.043029",
+      "title": "West St and Torrey St",
+      "shortTitle": "West & Torrey",
+      "stopId": "835",
+      "tag": "westtorr",
+      "lat": "42.074952"
+    },
+    "shawplaz": {
+      "lon": "-71.0455897",
+      "title": "Shaws Plaza",
+      "stopId": "836",
+      "tag": "shawplaz",
+      "lat": "42.0718992"
+    },
+    "belmplae": {
+      "lon": "-71.0454591",
+      "title": "Belmont St and Plaza Entrance",
+      "shortTitle": "Belmont & Plaza Entrance",
+      "stopId": "838",
+      "tag": "belmplae",
+      "lat": "42.0706169"
+    },
+    "torrcirc": {
+      "lon": "-71.0521579",
+      "title": "Torrey St and Circle Dr",
+      "shortTitle": "Torrey & Circle Dr",
+      "stopId": "839",
+      "tag": "torrcirc",
+      "lat": "42.072836"
+    },
+    "torrfair": {
+      "lon": "-71.0545237",
+      "title": "Torrey St and Fairview Ave",
+      "shortTitle": "Torrey & Fairview",
+      "stopId": "840",
+      "tag": "torrfair",
+      "lat": "42.072421"
+    },
+    "torrpine": {
+      "lon": "-71.0570259",
+      "title": "Torrey St and Pineview Ter",
+      "shortTitle": "Torrey & Pineview Ter",
+      "stopId": "841",
+      "tag": "torrpine",
+      "lat": "42.071988"
+    },
+    "torrcama": {
+      "lon": "-71.0579999",
+      "title": "Torrey St and Camarra Ave",
+      "shortTitle": "Torrey & Camarra",
+      "stopId": "842",
+      "tag": "torrcama",
+      "lat": "42.071826"
+    },
+    "pearmela": {
+      "lon": "-71.064611",
+      "title": "Pearl St and Melanie Ln",
+      "shortTitle": "Pearl & Melanie Ln",
+      "stopId": "843",
+      "tag": "pearmela",
+      "lat": "42.0805228"
+    },
+    "pearcolb": {
+      "lon": "-71.064556",
+      "title": "Pearl St and Colby St",
+      "shortTitle": "Pearl & Colby",
+      "stopId": "844",
+      "tag": "pearcolb",
+      "lat": "42.0824477"
+    },
+    "peardart": {
+      "lon": "-71.064486",
+      "title": "Pearl St and Dartmouth St",
+      "shortTitle": "Pearl & Dartmouth",
+      "stopId": "845",
+      "tag": "peardart",
+      "lat": "42.0844689"
+    },
+    "npeaalan": {
+      "lon": "-71.064312",
+      "title": "North Pearl St and Alandale Ave",
+      "shortTitle": "North Pearl & Alandale",
+      "stopId": "859",
+      "tag": "npeaalan",
+      "lat": "42.090155"
+    },
+    "npeabowe": {
+      "lon": "-71.064358",
+      "title": "North Pearl St and Bower Ave",
+      "shortTitle": "North Pearl & Bower",
+      "stopId": "860",
+      "tag": "npeabowe",
+      "lat": "42.091141"
+    },
+    "npeacash": {
+      "lon": "-71.0644879",
+      "title": "North Pearl St and Cashman Dr",
+      "shortTitle": "North Pearl & Cashman Dr",
+      "stopId": "861",
+      "tag": "npeacash",
+      "lat": "42.0919576"
+    },
+    "npeanaze": {
+      "lon": "-71.064629",
+      "title": "North Pearl St and Nazerene Ave",
+      "shortTitle": "North Pearl & Nazerene",
+      "stopId": "862",
+      "tag": "npeanaze",
+      "lat": "42.092711"
+    },
+    "npeaheal": {
+      "lon": "-71.0650878",
+      "title": "North Pearl St and Healey Ter",
+      "shortTitle": "North Pearl & Healey Ter",
+      "stopId": "863",
+      "tag": "npeaheal",
+      "lat": "42.0949431"
+    },
+    "hossoak": {
+      "lon": "-71.062372",
+      "title": "Hospital Service Rd and Oak St",
+      "shortTitle": "Hospital Service & Oak",
+      "stopId": "864",
+      "tag": "hossoak",
+      "lat": "42.099745"
+    },
+    "oakchurc": {
+      "lon": "-71.058166",
+      "title": "Oak St at Church Entrance",
+      "shortTitle": "Oak @ Church Entrance",
+      "stopId": "865",
+      "tag": "oakchurc",
+      "lat": "42.1010749"
+    },
+    "oakwalms": {
+      "lon": "-71.0560253",
+      "title": "Oak St and Walmart Service Rd",
+      "shortTitle": "Oak & Walmart Service",
+      "stopId": "866",
+      "tag": "oakwalms",
+      "lat": "42.098481"
+    },
+    "campwest": {
+      "lon": "-71.0524469",
+      "title": "Campanelli Dr and Westgate Dr",
+      "shortTitle": "Campanelli Dr & Westgate Dr",
+      "stopId": "868",
+      "tag": "campwest",
+      "lat": "42.0977131"
+    },
+    "westsupe": {
+      "lon": "-71.0545508",
+      "title": "Westgate Dr and Super 8",
+      "shortTitle": "Westgate Dr & Super 8",
+      "stopId": "869",
+      "tag": "westsupe",
+      "lat": "42.0965002"
+    },
+    "westdick": {
+      "lon": "-71.054967",
+      "title": "Westgate Dr and Dicks Sporting Goods",
+      "shortTitle": "Westgate Dr & Dicks Sporting Goods",
+      "stopId": "870",
+      "tag": "westdick",
+      "lat": "42.094"
+    },
+    "westprob": {
+      "lon": "-71.0548711",
+      "title": "Westgate Dr and Pro-Bld",
+      "shortTitle": "Westgate Dr & Pro-Bld",
+      "stopId": "871",
+      "tag": "westprob",
+      "lat": "42.0929182"
+    },
+    "unos": {
+      "lon": "-71.0542161",
+      "title": "Unos",
+      "stopId": "872",
+      "tag": "unos",
+      "lat": "42.09234"
+    },
+    "batctr_d": {
+      "lon": "-71.0155155",
+      "title": "Bat Center (WGM)",
+      "stopId": "001",
+      "tag": "batctr_d",
+      "lat": "42.0850102"
+    },
+    "pleacter": {
+      "lon": "-71.0287545",
+      "title": "Pleasant St at Colonial Terr",
+      "shortTitle": "Pleasant @ Colonial Terr",
+      "stopId": "881",
+      "tag": "pleacter",
+      "lat": "42.0870495"
+    },
+    "plea555": {
+      "lon": "-71.0415341",
+      "title": "555 Pleasant St",
+      "shortTitle": "555 Pleasant",
+      "stopId": "883",
+      "tag": "plea555",
+      "lat": "42.0895129"
+    },
+    "pleawlen": {
+      "lon": "-71.0430051",
+      "title": "Pleasant St at West Lennox St",
+      "shortTitle": "Pleasant @ West Lennox",
+      "stopId": "884",
+      "tag": "pleawlen",
+      "lat": "42.0895168"
+    },
+    "davi99we": {
+      "lon": "-71.0493862",
+      "title": "99 Westgate Dr",
+      "stopId": "886",
+      "tag": "davi99we",
+      "lat": "42.0912722"
+    },
+    "camptoys_cobb": {
+      "lon": "-71.0525109",
+      "title": "Campanelli Dr at Toys R Us",
+      "shortTitle": "Campanelli Dr @ Toys R Us",
+      "stopId": "210",
+      "tag": "camptoys_cobb",
+      "lat": "42.0994861"
+    },
+    "oakxchri_o": {
+      "lon": "-71.0632547",
+      "title": "Oak St at Christy's Market",
+      "shortTitle": "Oak @ Christy's Market",
+      "stopId": "893",
+      "tag": "oakxchri_o",
+      "lat": "42.1002218"
+    },
+    "oakxkind_o": {
+      "lon": "-71.0654534",
+      "title": "Oak St at Kinder Care School",
+      "shortTitle": "Oak @ Kinder Care School",
+      "stopId": "894",
+      "tag": "oakxkind_o",
+      "lat": "42.0999194"
+    },
+    "npeacant": {
+      "lon": "-71.0668521",
+      "title": "North Pearl St at Canterbury Arms Apts",
+      "shortTitle": "North Pearl @ Canterbury Arms Apts",
+      "stopId": "895",
+      "tag": "npeacant",
+      "lat": "42.1006677"
+    },
+    "parkbrst": {
+      "lon": "-71.0673387",
+      "title": "Park St at Brockton-Stoughton Line",
+      "shortTitle": "Park @ Brockton-Stoughton Line",
+      "stopId": "896",
+      "tag": "parkbrst",
+      "lat": "42.1017686"
+    },
+    "parkolrc": {
+      "lon": "-71.0680228",
+      "title": "Park St at Our Lady of Rosary Church",
+      "shortTitle": "Park @ Our Lady of Rosary Church",
+      "stopId": "897",
+      "tag": "parkolrc",
+      "lat": "42.1032375"
+    },
+    "1256park": {
+      "lon": "-71.0683578",
+      "title": "1256 Park St",
+      "shortTitle": "1256 Park",
+      "stopId": "898",
+      "tag": "1256park",
+      "lat": "42.103961"
+    },
+    "parktrai": {
+      "lon": "-71.0689871",
+      "title": "Park St in front of Trailer Park",
+      "shortTitle": "Park in front of Trailer Park",
+      "stopId": "899",
+      "tag": "parktrai",
+      "lat": "42.1053026"
+    },
+    "parkbhnh": {
+      "lon": "-71.0709104",
+      "title": "Park St in front of Blue Hill Nursing Home",
+      "shortTitle": "Park in front of Blue Hill Nursing Home",
+      "stopId": "900",
+      "tag": "parkbhnh",
+      "lat": "42.1093789"
+    },
+    "parkmedb_o": {
+      "lon": "-71.0726465",
+      "title": "Park St - Medical Building",
+      "shortTitle": "Park - Medical Building",
+      "stopId": "901",
+      "tag": "parkmedb_o",
+      "lat": "42.1112442"
+    },
+    "parktent_o": {
+      "lon": "-71.0742939",
+      "title": "Park St at Tenth Ave",
+      "shortTitle": "Park @ Tenth",
+      "stopId": "902",
+      "tag": "parktent_o",
+      "lat": "42.1121374"
+    },
+    "parkash_o": {
+      "lon": "-71.0773704",
+      "title": "Park St across from Ash St",
+      "shortTitle": "Park across from Ash",
+      "stopId": "903",
+      "tag": "parkash_o",
+      "lat": "42.1135321"
+    },
+    "parkwill": {
+      "lon": "-71.0845923",
+      "title": "Park St at William Kelly Rd",
+      "shortTitle": "Park @ William Kelly",
+      "stopId": "905",
+      "tag": "parkwill",
+      "lat": "42.1183309"
+    },
+    "parkhayn": {
+      "lon": "-71.0859553",
+      "title": "Park St opposite Haynes Rd",
+      "shortTitle": "Park opposite Haynes",
+      "stopId": "906",
+      "tag": "parkhayn",
+      "lat": "42.11951"
+    },
+    "parkbobs_o": {
+      "lon": "-71.0904277",
+      "title": "Park St across from Bobs Plaza",
+      "shortTitle": "Park across from Bobs Plaza",
+      "stopId": "908",
+      "tag": "parkbobs_o",
+      "lat": "42.1201206"
+    },
+    "parkleac_o": {
+      "lon": "-71.0941563",
+      "title": "Park St and Leach St",
+      "shortTitle": "Park & Leach",
+      "stopId": "909",
+      "tag": "parkleac_o",
+      "lat": "42.121089"
+    },
+    "parksumn_o": {
+      "lon": "-71.0961923",
+      "title": "Park St and Sumner St at Park Ave",
+      "shortTitle": "Park & Sumner @ Park",
+      "stopId": "910",
+      "tag": "parksumn_o",
+      "lat": "42.121624"
+    },
+    "parkwaln_o": {
+      "lon": "-71.0992936",
+      "title": "Park St at Walnut (Library)",
+      "shortTitle": "Park @ Walnut (Library)",
+      "stopId": "911",
+      "tag": "parkwaln_o",
+      "lat": "42.1225998"
+    },
+    "stougctr_o": {
+      "lon": "-71.1021152",
+      "title": "Stoughton Center",
+      "stopId": "912",
+      "tag": "stougctr_o",
+      "lat": "42.1257462"
+    },
+    "washppsb_o": {
+      "lon": "-71.1019654",
+      "title": "Washington St at Peoples Savings Bank",
+      "shortTitle": "Washington @ Peoples Savings Bank",
+      "stopId": "913",
+      "tag": "washppsb_o",
+      "lat": "42.1272518"
+    },
+    "washlinc": {
+      "lon": "-71.101781",
+      "title": "Washington St at Lincoln St (Friendlys)",
+      "shortTitle": "Washington @ Lincoln (Friendlys)",
+      "stopId": "914",
+      "tag": "washlinc",
+      "lat": "42.1290948"
+    },
+    "washwarr": {
+      "lon": "-71.101659",
+      "title": "Washington St at Warren Ave",
+      "shortTitle": "Washington @ Warren",
+      "stopId": "915",
+      "tag": "washwarr",
+      "lat": "42.1321268"
+    },
+    "472wash": {
+      "lon": "-71.1016451",
+      "title": "Washington St at Car Wash",
+      "shortTitle": "Washington @ Car Wash",
+      "stopId": "916",
+      "tag": "472wash",
+      "lat": "42.1332738"
+    },
+    "washmcdo": {
+      "lon": "-71.1016322",
+      "title": "Washington St at McDonalds/Dunkin Donuts",
+      "shortTitle": "Washington @ McDonalds/Dunkin Donuts",
+      "stopId": "917",
+      "tag": "washmcdo",
+      "lat": "42.134291"
+    },
+    "cent1ceen": {
+      "lon": "-71.1039848",
+      "title": "Central St at 1st Cemetery Entrance",
+      "shortTitle": "Central @ 1st Cemetery Entrance",
+      "stopId": "918",
+      "tag": "cent1ceen",
+      "lat": "42.135122"
+    },
+    "centtatc": {
+      "lon": "-71.1079548",
+      "title": "Central St at Temple Ahavath Torah Congregation",
+      "shortTitle": "Central @ Temple Ahavath Torah Congregation",
+      "stopId": "919",
+      "tag": "centtatc",
+      "lat": "42.134347"
+    },
+    "centpear_o": {
+      "lon": "-71.1096961",
+      "title": "Central St at Pearl St",
+      "shortTitle": "Central @ Pearl",
+      "stopId": "920",
+      "tag": "centpear_o",
+      "lat": "42.1340173"
+    },
+    "centcomm": {
+      "lon": "-71.1123732",
+      "title": "Central St at Commercial St",
+      "shortTitle": "Central @ Commercial",
+      "stopId": "921",
+      "tag": "centcomm",
+      "lat": "42.133414"
+    },
+    "centsimp_o": {
+      "lon": "-71.1152908",
+      "title": "Central St at Simpson St",
+      "shortTitle": "Central @ Simpson",
+      "stopId": "922",
+      "tag": "centsimp_o",
+      "lat": "42.132602"
+    },
+    "centstat_o": {
+      "lon": "-71.1172918",
+      "title": "Central St at Station St",
+      "shortTitle": "Central @ Station",
+      "stopId": "923",
+      "tag": "centstat_o",
+      "lat": "42.132027"
+    },
+    "centrcob": {
+      "lon": "-71.1208888",
+      "title": "Central St at Brooks St",
+      "shortTitle": "Central @ Brooks",
+      "stopId": "924",
+      "tag": "centrcob",
+      "lat": "42.131331"
+    },
+    "centcush": {
+      "lon": "-71.1229808",
+      "title": "Central St at Cushing St",
+      "shortTitle": "Central @ Cushing",
+      "stopId": "925",
+      "tag": "centcush",
+      "lat": "42.131132"
+    },
+    "centforb": {
+      "lon": "-71.1252529",
+      "title": "Central St at Tosca Dr",
+      "shortTitle": "Central @ Tosca Dr",
+      "stopId": "926",
+      "tag": "centforb",
+      "lat": "42.13089"
+    },
+    "centwawo_o": {
+      "lon": "-71.1287086",
+      "title": "Central St at Water Works",
+      "shortTitle": "Central @ Water Works",
+      "stopId": "927",
+      "tag": "centwawo_o",
+      "lat": "42.13072"
+    },
+    "hehascho": {
+      "lon": "-71.1303056",
+      "title": "Central St at Helen Hansen School",
+      "shortTitle": "Central @ Helen Hansen School",
+      "stopId": "928",
+      "tag": "hehascho",
+      "lat": "42.1309218"
+    },
+    "centmill_o": {
+      "lon": "-71.1342425",
+      "title": "Central St at Mill St",
+      "shortTitle": "Central @ Mill",
+      "stopId": "929",
+      "tag": "centmill_o",
+      "lat": "42.1318779"
+    },
+    "stonends": {
+      "lon": "-71.1379657",
+      "title": "Central St at Wheeler Circle",
+      "shortTitle": "Central @ Wheeler Circle",
+      "stopId": "930",
+      "tag": "stonends",
+      "lat": "42.1336519"
+    },
+    "centapts": {
+      "lon": "-71.1391376",
+      "title": "Central St at Erin Rd",
+      "shortTitle": "Central @ Erin",
+      "stopId": "931",
+      "tag": "centapts",
+      "lat": "42.1338199"
+    },
+    "2137cent_o": {
+      "lon": "-71.1414877",
+      "title": "2139 Central St (D'Angelos)",
+      "shortTitle": "2139 Central (D'Angelos)",
+      "stopId": "932",
+      "tag": "2137cent_o",
+      "lat": "42.1340059"
+    },
+    "sharwsto": {
+      "lon": "-71.1449908",
+      "title": "Ethyl Way at West Stoughton Village",
+      "shortTitle": "Ethyl Way @ West Stoughton Village",
+      "stopId": "933",
+      "tag": "sharwsto",
+      "lat": "42.1354798"
+    },
+    "shar128": {
+      "lon": "-71.1476597",
+      "title": "128 Sharon St",
+      "shortTitle": "128 Sharon",
+      "stopId": "934",
+      "tag": "shar128",
+      "lat": "42.1376328"
+    },
+    "cobbcorn": {
+      "lon": "-71.1452378",
+      "title": "Shaws (Cobbs Corner)",
+      "stopId": "935",
+      "tag": "cobbcorn",
+      "lat": "42.1404975"
+    },
+    "cobbcorn_d": {
+      "lon": "-71.1452378",
+      "title": "Cobbs Corner (WGM)",
+      "stopId": "935",
+      "tag": "cobbcorn_d",
+      "lat": "42.1404975"
+    },
+    "washosco": {
+      "lon": "-71.148856",
+      "title": "Washington St at Osco Drug",
+      "shortTitle": "Washington @ Osco Drug",
+      "stopId": "936",
+      "tag": "washosco",
+      "lat": "42.1395159"
+    },
+    "sharfrie": {
+      "lon": "-71.1483795",
+      "title": "128 Sharon St (across from Friendlys)",
+      "shortTitle": "128 Sharon (across from Friendlys)",
+      "stopId": "937",
+      "tag": "sharfrie",
+      "lat": "42.1378105"
+    },
+    "centwesto": {
+      "lon": "-71.1449638",
+      "title": "Sharon St at West Stoughton Village",
+      "shortTitle": "Sharon @ West Stoughton Village",
+      "stopId": "938",
+      "tag": "centwesto",
+      "lat": "42.1352848"
+    },
+    "centchar": {
+      "lon": "-71.1429067",
+      "title": "Central St at Charles Circle",
+      "shortTitle": "Central @ Charles Circle",
+      "stopId": "939",
+      "tag": "centchar",
+      "lat": "42.1341219"
+    },
+    "2137cent": {
+      "lon": "-71.1416217",
+      "title": "2139 Central St (D'Angelos)",
+      "shortTitle": "2139 Central (D'Angelos)",
+      "stopId": "940",
+      "tag": "2137cent",
+      "lat": "42.1338989"
+    },
+    "centknol": {
+      "lon": "-71.1391757",
+      "title": "Central St at Knollsbrook",
+      "shortTitle": "Central @ Knollsbrook",
+      "stopId": "941",
+      "tag": "centknol",
+      "lat": "42.1337479"
+    },
+    "centlake": {
+      "lon": "-71.1356362",
+      "title": "Central St at Lakewood Rd",
+      "shortTitle": "Central @ Lakewood",
+      "stopId": "943",
+      "tag": "centlake",
+      "lat": "42.1321421"
+    },
+    "centmill": {
+      "lon": "-71.1340924",
+      "title": "Central St at Mill St",
+      "shortTitle": "Central @ Mill",
+      "stopId": "944",
+      "tag": "centmill",
+      "lat": "42.1317869"
+    },
+    "centhhsc": {
+      "lon": "-71.1306814",
+      "title": "Central St at Helen Hanson School",
+      "shortTitle": "Central @ Helen Hanson School",
+      "stopId": "945",
+      "tag": "centhhsc",
+      "lat": "42.1309606"
+    },
+    "centwawo": {
+      "lon": "-71.1288143",
+      "title": "Central St at Water Works",
+      "shortTitle": "Central @ Water Works",
+      "stopId": "946",
+      "tag": "centwawo",
+      "lat": "42.13062"
+    },
+    "centtosc": {
+      "lon": "-71.1262234",
+      "title": "Central St at Tosca Drive",
+      "shortTitle": "Central @ Tosca Drive",
+      "stopId": "947",
+      "tag": "centtosc",
+      "lat": "42.1308019"
+    },
+    "cent1595": {
+      "lon": "-71.1244955",
+      "title": "1595 Central St",
+      "shortTitle": "1595 Central",
+      "stopId": "948",
+      "tag": "cent1595",
+      "lat": "42.130872"
+    },
+    "centbroo": {
+      "lon": "-71.1207785",
+      "title": "Central St at Brook St",
+      "shortTitle": "Central @ Brook",
+      "stopId": "949",
+      "tag": "centbroo",
+      "lat": "42.131252"
+    },
+    "centevan": {
+      "lon": "-71.1190565",
+      "title": "Central St at Evans Dr",
+      "shortTitle": "Central @ Evans Dr",
+      "stopId": "950",
+      "tag": "centevan",
+      "lat": "42.131519"
+    },
+    "centstat": {
+      "lon": "-71.1171225",
+      "title": "Central St at Station St",
+      "shortTitle": "Central @ Station",
+      "stopId": "951",
+      "tag": "centstat",
+      "lat": "42.1319761"
+    },
+    "centsimp": {
+      "lon": "-71.1150447",
+      "title": "Central St at Simpson St",
+      "shortTitle": "Central @ Simpson",
+      "stopId": "952",
+      "tag": "centsimp",
+      "lat": "42.1325955"
+    },
+    "centpear": {
+      "lon": "-71.1100269",
+      "title": "Central St at Pearl St",
+      "shortTitle": "Central @ Pearl",
+      "stopId": "954",
+      "tag": "centpear",
+      "lat": "42.1338592"
+    },
+    "tempahtc": {
+      "lon": "-71.107713",
+      "title": "Temple Ahavath Torah Congregation",
+      "stopId": "955",
+      "tag": "tempahtc",
+      "lat": "42.1343029"
+    },
+    "mccoteco": {
+      "lon": "-71.1038375",
+      "title": "McCormick Terrace Condo",
+      "stopId": "956",
+      "tag": "mccoteco",
+      "lat": "42.135053"
+    },
+    "washwalg": {
+      "lon": "-71.1017647",
+      "title": "Washington St at Walgreens",
+      "shortTitle": "Washington @ Walgreens",
+      "stopId": "957",
+      "tag": "washwalg",
+      "lat": "42.1349257"
+    },
+    "washphil": {
+      "lon": "-71.101751",
+      "title": "Washington St at Phillips Screw",
+      "shortTitle": "Washington @ Phillips Screw",
+      "stopId": "958",
+      "tag": "washphil",
+      "lat": "42.1332754"
+    },
+    "washcumb": {
+      "lon": "-71.10177",
+      "title": "Washington St at Cumberland Farms",
+      "shortTitle": "Washington @ Cumberland Farms",
+      "stopId": "959",
+      "tag": "washcumb",
+      "lat": "42.1322974"
+    },
+    "washfrie": {
+      "lon": "-71.1018848",
+      "title": "Washington St at Lincoln St",
+      "shortTitle": "Washington @ Lincoln",
+      "stopId": "960",
+      "tag": "washfrie",
+      "lat": "42.1290903"
+    },
+    "stougctr": {
+      "lon": "-71.102186",
+      "title": "Stoughton Center",
+      "stopId": "962",
+      "tag": "stougctr",
+      "lat": "42.1257779"
+    },
+    "parkwaln": {
+      "lon": "-71.0994815",
+      "title": "Park St at Walnut St",
+      "shortTitle": "Park @ Walnut",
+      "stopId": "963",
+      "tag": "parkwaln",
+      "lat": "42.1225595"
+    },
+    "parksumn": {
+      "lon": "-71.0964183",
+      "title": "Park St at Sumner St",
+      "shortTitle": "Park @ Sumner",
+      "stopId": "964",
+      "tag": "parksumn",
+      "lat": "42.1215955"
+    },
+    "parkleac": {
+      "lon": "-71.0940523",
+      "title": "Park St at Leach St",
+      "shortTitle": "Park @ Leach",
+      "stopId": "965",
+      "tag": "parkleac",
+      "lat": "42.1209787"
+    },
+    "parkbobs": {
+      "lon": "-71.0919681",
+      "title": "Park St at Bobs Plaza",
+      "shortTitle": "Park @ Bobs Plaza",
+      "stopId": "966",
+      "tag": "parkbobs",
+      "lat": "42.1204308"
+    },
+    "parkbelm": {
+      "lon": "-71.0893509",
+      "title": "Park St at Belmont Ave",
+      "shortTitle": "Park @ Belmont",
+      "stopId": "967",
+      "tag": "parkbelm",
+      "lat": "42.1200087"
+    },
+    "parkwike": {
+      "lon": "-71.0846242",
+      "title": "Park St at William Kelley Rd",
+      "shortTitle": "Park @ William Kelley",
+      "stopId": "968",
+      "tag": "parkwike",
+      "lat": "42.1182175"
+    },
+    "parktwin": {
+      "lon": "-71.0798281",
+      "title": "Park St at Twinkies",
+      "shortTitle": "Park @ Twinkies",
+      "stopId": "970",
+      "tag": "parktwin",
+      "lat": "42.1145871"
+    },
+    "parkash": {
+      "lon": "-71.0772486",
+      "title": "Park St at Ash St",
+      "shortTitle": "Park @ Ash",
+      "stopId": "971",
+      "tag": "parkash",
+      "lat": "42.1133808"
+    },
+    "parktent": {
+      "lon": "-71.0743536",
+      "title": "Park St at Tenth St",
+      "shortTitle": "Park @ Tenth",
+      "stopId": "972",
+      "tag": "parktent",
+      "lat": "42.1120627"
+    },
+    "parkpmbg": {
+      "lon": "-71.072804",
+      "title": "Park St at Park Med Bldg",
+      "shortTitle": "Park @ Park Med Bldg",
+      "stopId": "973",
+      "tag": "parkpmbg",
+      "lat": "42.1112327"
+    },
+    "parknocr": {
+      "lon": "-71.0695972",
+      "title": "Park St at Noceras",
+      "shortTitle": "Park @ Noceras",
+      "stopId": "974",
+      "tag": "parknocr",
+      "lat": "42.1063481"
+    },
+    "parkpark": {
+      "lon": "-71.0685226",
+      "title": "Park St at Parkview Ave",
+      "shortTitle": "Park @ Parkview",
+      "stopId": "975",
+      "tag": "parkpark",
+      "lat": "42.1040642"
+    },
+    "parkpapl": {
+      "lon": "-71.0675853",
+      "title": "Park St at Park Plaza",
+      "shortTitle": "Park @ Park Plaza",
+      "stopId": "976",
+      "tag": "parkpapl",
+      "lat": "42.1020496"
+    },
+    "pleadoct": {
+      "lon": "-71.0640434",
+      "title": "Pleasant St at Doctors Office",
+      "shortTitle": "Pleasant @ Doctors Office",
+      "stopId": "981",
+      "tag": "pleadoct",
+      "lat": "42.0891424"
+    },
+    "pleawesa": {
+      "lon": "-71.0592789",
+      "title": "Pleasant St at Westland Apts",
+      "shortTitle": "Pleasant @ Westland Apts",
+      "stopId": "982",
+      "tag": "pleawesa",
+      "lat": "42.0879304"
+    },
+    "sear": {
+      "lon": "-71.049899",
+      "title": "Westgate Mall (Arrival)",
+      "stopId": "873",
+      "tag": "sear",
+      "lat": "42.095883"
+    },
+    "pleawestI_ib": {
+      "lon": "-71.0456277",
+      "title": "Pleasant St at West St",
+      "shortTitle": "Pleasant @ West",
+      "stopId": "231",
+      "tag": "pleawestI_ib",
+      "lat": "42.0889621"
+    },
+    "546pleas": {
+      "lon": "-71.0418088",
+      "title": "546 Pleasant Street",
+      "shortTitle": "546 Pleasant",
+      "stopId": "985",
+      "tag": "546pleas",
+      "lat": "42.0894603"
+    },
+    "pleawhee_ib": {
+      "lon": "-71.0400838",
+      "title": "Pleasant St at Wheeler Ave",
+      "shortTitle": "Pleasant @ Wheeler",
+      "stopId": "233",
+      "tag": "pleawhee_ib",
+      "lat": "42.089401"
+    },
+    "pleaglen_ib": {
+      "lon": "-71.0262537",
+      "title": "Pleasant St at Glenwood St",
+      "shortTitle": "Pleasant @ Glenwood",
+      "stopId": "240",
+      "tag": "pleaglen_ib",
+      "lat": "42.0864761"
+    },
+    "harrgrov": {
+      "lon": "-70.9747299",
+      "title": "HARRINGTON HALL",
+      "stopId": "300",
+      "tag": "harrgrov",
+      "lat": "41.98704"
+    },
+    "artbscho": {
+      "lon": "-70.9741408",
+      "title": "ART BUILDING",
+      "stopId": "301",
+      "tag": "artbscho",
+      "lat": "41.9881102"
+    },
+    "moakburr_o": {
+      "lon": "-70.9665205",
+      "title": "UNIVERSITY PARK",
+      "stopId": "302",
+      "tag": "moakburr_o",
+      "lat": "41.9885905"
+    },
+    "clocburr": {
+      "lon": "-70.9644107",
+      "title": "ECC / CLOCK TOWER",
+      "stopId": "303",
+      "tag": "clocburr",
+      "lat": "41.9874904"
+    },
+    "sheacirc": {
+      "lon": "-70.9623591",
+      "title": "SHEA DURGIN",
+      "stopId": "304",
+      "tag": "sheacirc",
+      "lat": "41.9863693"
+    },
+    "parkgrea": {
+      "lon": "-70.9637786",
+      "title": "WEYGAND HALL/PARKING GARAGE",
+      "stopId": "305",
+      "tag": "parkgrea",
+      "lat": "41.9845926"
+    },
+    "studburr": {
+      "lon": "-70.963131",
+      "title": "STUDENT APARTMENTS",
+      "stopId": "306",
+      "tag": "studburr",
+      "lat": "41.9873401"
+    },
+    "moakburr_i": {
+      "lon": "-70.9665209",
+      "title": "MOAKLEY CENTER",
+      "stopId": "307",
+      "tag": "moakburr_i",
+      "lat": "41.9887703"
+    },
+    "commhoop": {
+      "lon": "-70.9654548",
+      "title": "HOOPER STREET LOT",
+      "shortTitle": "HOOPER LOT",
+      "stopId": "308",
+      "tag": "commhoop",
+      "lat": "41.9912578"
+    },
+    "tinscent": {
+      "lon": "-70.962056",
+      "title": "TINSLEY CENTER",
+      "stopId": "309",
+      "tag": "tinscent",
+      "lat": "41.9890899"
+    },
+    "swenpark": {
+      "lon": "-70.96278",
+      "title": "SWENSON FIELD LOT",
+      "stopId": "310",
+      "tag": "swenpark",
+      "lat": "41.9909038"
+    },
+    "commwend": {
+      "lon": "-70.9715772",
+      "title": "SPRING STREET LOT",
+      "shortTitle": "SPRING LOT",
+      "stopId": "311",
+      "tag": "commwend",
+      "lat": "41.9916115"
+    },
+    "towlot": {
+      "lon": "-70.9583117",
+      "title": "TOWER LOT",
+      "stopId": "313",
+      "tag": "towlot",
+      "lat": "41.9851231"
+    },
+    "summst": {
+      "lon": "-70.9729338",
+      "title": "SUMMER STREET",
+      "shortTitle": "SUMMER",
+      "stopId": "314",
+      "tag": "summst",
+      "lat": "41.9876112"
+    }
+  },
+  "copyright": "All data copyright Brockton Area Transit Authority 2018."
+}

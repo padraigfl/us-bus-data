@@ -1,0 +1,26 @@
+{
+  "data": {
+    "es": {
+      "title": "Economy Shuttle",
+      "color": "ee0000",
+      "tag": "es",
+      "oppositeColor": "ffffff",
+      "max": [
+        47.6316458,
+        -117.5346994
+      ],
+      "min": [
+        47.6247977,
+        -117.5380774
+      ],
+      "stops": {
+        "Loop": [
+          "ccon_d",
+          "abcon",
+          "econpark"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Spokane International Airport 2018."
+}

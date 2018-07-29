@@ -1,0 +1,119 @@
+{
+  "data": {
+    "rhill": {
+      "title": "Rolling Hills Express",
+      "color": "800000",
+      "tag": "rhill",
+      "shortTitle": "Rolling Hills Ex",
+      "oppositeColor": "ffffff",
+      "max": [
+        26.081087,
+        -80.2393202
+      ],
+      "min": [
+        26.0770681,
+        -80.2575459
+      ],
+      "stops": {
+        "Loop": [
+          "rhills_n",
+          "rhills_s",
+          "hpdannex",
+          "terradmn",
+          "sherman_n",
+          "shepard_1",
+          "maltpsyc",
+          "horvitz",
+          "ucenter",
+          "upp"
+        ]
+      }
+    },
+    "rhill2": {
+      "title": "Rolling Hills Express 2",
+      "color": "ff4433",
+      "tag": "rhill2",
+      "shortTitle": "Rolling Hills Ex 2",
+      "oppositeColor": "000000",
+      "max": [
+        26.0810859,
+        -80.2393287
+      ],
+      "min": [
+        26.0770687,
+        -80.2575456
+      ],
+      "stops": {
+        "Loop": [
+          "rhills_n",
+          "rhills_s",
+          "hpdannex",
+          "ucenter",
+          "horvitz",
+          "maltpsyc",
+          "shepard_1",
+          "sherman_n",
+          "terry",
+          "upp"
+        ]
+      }
+    },
+    "trail": {
+      "title": "SFEC TMA Tri-Rail",
+      "color": "ee1289",
+      "tag": "trail",
+      "shortTitle": "SFEC Tri-Rail",
+      "oppositeColor": "ffffff",
+      "max": [
+        26.0852045,
+        -80.16597
+      ],
+      "min": [
+        26.06214,
+        -80.25006
+      ],
+      "stops": {
+        "Loop": [
+          "airp_d",
+          "bcsc",
+          "bcps",
+          "faulib",
+          "uof",
+          "sanford",
+          "thub",
+          "shepard_1",
+          "mcfat",
+          "airp_a"
+        ]
+      }
+    },
+    "dse": {
+      "title": "Downtown Shark Express",
+      "color": "000000",
+      "tag": "dse",
+      "oppositeColor": "ffffff",
+      "max": [
+        26.1376649,
+        -80.105925
+      ],
+      "min": [
+        26.07538,
+        -80.2575459
+      ],
+      "stops": {
+        "Rolling_Hills Residence Hall": [
+          "musescie"
+        ],
+        "Downtown_Ft Lauderdale": [
+          "rhills_n_m",
+          "rhills_s_m",
+          "goodwin_m",
+          "gallmall",
+          "bct",
+          "lasolas"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Nova Southeastern University 2018."
+}

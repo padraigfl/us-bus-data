@@ -1,0 +1,263 @@
+{
+  "data": {
+    "gold": {
+      "title": "Gold - Route 1",
+      "color": "ff7f00",
+      "tag": "gold",
+      "oppositeColor": "000000",
+      "max": [
+        34.192661,
+        -118.8869475
+      ],
+      "min": [
+        34.16145,
+        -118.98201
+      ],
+      "stops": {
+        "to_Target Shopping Center": [
+          "oaksmall_d",
+          "hillvent_o",
+          "hillarng_o",
+          "hillartis_o",
+          "borcmich_o",
+          "borcther_o",
+          "borcwend_o",
+          "borcpark_o",
+          "dosvient_o",
+          "reinkimb_o",
+          "wendcorn_o",
+          "lynnknol_o",
+          "wenddona_o",
+          "borcwend_o_2",
+          "reinborc_o",
+          "reinless_o",
+          "conejenn_o",
+          "conewend_o"
+        ],
+        "to_Oaks Mall": [
+          "targcent_i",
+          "telllawr_i",
+          "hillranc_i",
+          "newbvent_i",
+          "newbkell_i",
+          "newbmich_i",
+          "venthill_i",
+          "hilllynn_i"
+        ]
+      }
+    },
+    "green2A": {
+      "title": "Green - Route 2",
+      "color": "00cc66",
+      "tag": "green2A",
+      "oppositeColor": "000000",
+      "max": [
+        34.227734,
+        -118.840192
+      ],
+      "min": [
+        34.17488,
+        -118.893768
+      ],
+      "stops": {
+        "To_TOHS": [
+          "trancent_d",
+          "oaks",
+          "lynngain",
+          "losrhosp",
+          "lynnarbo",
+          "olsecamp",
+          "olsemoun",
+          "olsemoor",
+          "pedecall",
+          "erbes",
+          "arbooakb",
+          "arbocall",
+          "moorarbo"
+        ],
+        "to_Transportation Center": [
+          "flormoor",
+          "florwave",
+          "florbamb",
+          "florcerr",
+          "janslagr",
+          "teenseni",
+          "hillranc"
+        ]
+      }
+    },
+    "green2B": {
+      "title": "Purple - Route 2B",
+      "color": "912cee",
+      "tag": "green2B",
+      "shortTitle": "Purple 2B",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.22586,
+        -118.8400697
+      ],
+      "min": [
+        34.1801504,
+        -118.890291
+      ],
+      "stops": {
+        "to_Oaks Mall": [
+          "losrhosp",
+          "lynnmanz",
+          "gaintuol",
+          "moorgain",
+          "wilbwarw",
+          "wilbmari",
+          "wilbthou"
+        ],
+        "To_Los Robles Hospital": [
+          "oaks_d",
+          "wilbhill_o",
+          "jansmark_o",
+          "moorbraz",
+          "moorwilb",
+          "moorcone",
+          "jansmont",
+          "janscvhs",
+          "erbsjans",
+          "florerbs",
+          "flormoss",
+          "flormoor",
+          "moorentr",
+          "olsemoun",
+          "olsecamp",
+          "lynnwild",
+          "lynnarbo"
+        ]
+      }
+    },
+    "red": {
+      "title": "Red - Route 3",
+      "color": "ff0000",
+      "tag": "red",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.18821,
+        -118.822558
+      ],
+      "min": [
+        34.151859,
+        -118.92541
+      ],
+      "stops": {
+        "to_City Transportation Center": [
+          "hillhous_i",
+          "hillhode_i",
+          "hillmoor_i",
+          "hillmari_i",
+          "hillmccl_i",
+          "hillshad_i",
+          "venthill_i",
+          "hillarti_i",
+          "newbvent_i",
+          "newbmich_i",
+          "hillvent_i",
+          "hilllynn_i",
+          "oaksmall_d",
+          "thoubake_i",
+          "thouhode_i",
+          "thoutayl_i"
+        ],
+        "to_Colina Middle School": [
+          "trancent_d",
+          "thouranc_o",
+          "thouzuni_o",
+          "civiarts_o",
+          "thouskyl_o",
+          "thouauto_o",
+          "thoucord_o",
+          "agouwest_o",
+          "westtown_o",
+          "westthou_o",
+          "hilldues_o",
+          "hillcone_o",
+          "hillerbe_o",
+          "hillcoli_o"
+        ]
+      }
+    },
+    "blue": {
+      "title": "Blue - Route 4",
+      "color": "3399ff",
+      "tag": "blue",
+      "oppositeColor": "000000",
+      "max": [
+        34.1839687,
+        -118.8156699
+      ],
+      "min": [
+        34.1483299,
+        -118.8871787
+      ],
+      "stops": {
+        "to_Colina Middle School": [
+          "trancent_d",
+          "thou23fwy_o",
+          "thouhode_o",
+          "thoubake_o",
+          "125thou_o",
+          "oaksmall_d",
+          "wilbhill_o",
+          "jansmark_o",
+          "80hill_o",
+          "hillboar_o",
+          "hillhode_o",
+          "hillhous_o",
+          "hillranc_o",
+          "hillcoli_o"
+        ],
+        "to_City Transportation Center": [
+          "hillcone_i",
+          "hillskyl_i",
+          "hilldues_i",
+          "hillwest_i",
+          "westmead_i",
+          "thoulake_i",
+          "merilake_i",
+          "agouvill_i",
+          "westtown_i",
+          "agoulake_i",
+          "thoucord_i",
+          "thoudues_i",
+          "thouskyl_i",
+          "thougard_i",
+          "thouerbe_i"
+        ]
+      }
+    },
+    "metrolink_shuttle": {
+      "title": "Metrolink Shuttle",
+      "color": "008080",
+      "tag": "metrolink_shuttle",
+      "shortTitle": "Metrolink Shutt",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.2853459,
+        -118.860791
+      ],
+      "min": [
+        34.1748402,
+        -118.8871786
+      ],
+      "stops": {
+        "to_Moorpark Metrolink Station": [
+          "trancent_d",
+          "oaksmall_d",
+          "olsemoun"
+        ],
+        "to_Transportation Center": [
+          "moormetro_a",
+          "moormetro_d",
+          "olsemoun_2",
+          "oaksmall2_d"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Thousand Oaks Transit (TOT) 2018."
+}

@@ -1,0 +1,97 @@
+{
+  "data": {
+    "fullservice": {
+      "title": "Purple Line",
+      "color": "d324e5",
+      "tag": "fullservice",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.1652261,
+        -76.8896007
+      ],
+      "min": [
+        39.159424,
+        -76.899811
+      ],
+      "stops": {
+        "Loop": [
+          "lobby7",
+          "lobby1",
+          "mp3",
+          "mp5",
+          "mp2",
+          "mp4",
+          "mp6"
+        ]
+      }
+    },
+    "express": {
+      "title": "Green Line",
+      "color": "11a609",
+      "tag": "express",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.1640703,
+        -76.8888183
+      ],
+      "min": [
+        39.1593566,
+        -76.899811
+      ],
+      "stops": {
+        "Loop": [
+          "mp6",
+          "lobby7",
+          "lobby1",
+          "b200",
+          "mp1"
+        ]
+      }
+    },
+    "southcampus": {
+      "title": "Red Line",
+      "color": "e50003",
+      "tag": "southcampus",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.1700598,
+        -76.8987046
+      ],
+      "min": [
+        39.1593431,
+        -76.901921
+      ],
+      "stops": {
+        "Loop": [
+          "lobby1",
+          "b26",
+          "b23",
+          "b200"
+        ]
+      }
+    },
+    "internal": {
+      "title": "Blue Line",
+      "color": "0b35a6",
+      "tag": "internal",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.1707364,
+        -76.8926674
+      ],
+      "min": [
+        39.163673,
+        -76.898883
+      ],
+      "stops": {
+        "Loop": [
+          "southend",
+          "bldg29n",
+          "bldg48",
+          "bldg29s"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright APL 2018."
+}

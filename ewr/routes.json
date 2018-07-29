@@ -1,0 +1,39 @@
+{
+  "data": {
+    "p6": {
+      "title": "P6 Parking Lot",
+      "color": "1c86ee",
+      "tag": "p6",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.7080289,
+        -74.1551278
+      ],
+      "min": [
+        40.6877793,
+        -74.1825813
+      ],
+      "stops": {
+        "Loop": [
+          "termapic",
+          "termbpic",
+          "termcpic",
+          "stop1",
+          "stop2",
+          "stop3",
+          "stop4",
+          "stop5",
+          "stop6",
+          "stop7",
+          "stop8",
+          "stop9",
+          "stop10",
+          "termadro",
+          "termbdro",
+          "termcdro"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Newark Liberty International Airport 2018."
+}

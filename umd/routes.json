@@ -1,0 +1,841 @@
+{
+  "data": {
+    "104": {
+      "title": "104 College Park Metro",
+      "color": "cd0000",
+      "tag": "104",
+      "shortTitle": "104 CP Metro",
+      "oppositeColor": "ffffff",
+      "max": [
+        38.9879842,
+        -76.9266479
+      ],
+      "min": [
+        38.9781498,
+        -76.9465439
+      ],
+      "stops": {
+        "Stamp_Student Union": [
+          "cpmetro_d",
+          "pain50th",
+          "painrhod_in",
+          "campmcir"
+        ],
+        "College_Park Metro": [
+          "stamsu_d",
+          "dorchall",
+          "camplibr",
+          "campedwa",
+          "campmath",
+          "campdiam",
+          "painrhod"
+        ]
+      }
+    },
+    "105": {
+      "title": "105 Campus Connector",
+      "color": "da70d6",
+      "tag": "105",
+      "oppositeColor": "000000",
+      "max": [
+        39.0030719,
+        -76.9374813
+      ],
+      "min": [
+        38.9781829,
+        -76.9469495
+      ],
+      "stops": {
+        "Courtyards_500": [
+          "hartshop",
+          "sccomm5_6",
+          "lota",
+          "somehall",
+          "annearun",
+          "dorchall",
+          "camplibr",
+          "campedwa",
+          "regestad",
+          "regefarm_out",
+          "regecomc_out",
+          "regepain_out",
+          "shutbase_out",
+          "lot4_out",
+          "metzgree",
+          "gree_out"
+        ],
+        "Hartwick_Road at College Park Shopping Center": [
+          "regegara_d",
+          "stamsu_d",
+          "artsoci",
+          "wico",
+          "lotu4",
+          "guilrowa",
+          "cour500",
+          "greemead_in",
+          "greemetz",
+          "lot4_in",
+          "shutbase_in",
+          "regepain",
+          "regecomc_in",
+          "regefarm_in"
+        ]
+      }
+    },
+    "108": {
+      "title": "108 Adelphi",
+      "color": "8b668b",
+      "tag": "108",
+      "oppositeColor": "000000",
+      "max": [
+        39.01658,
+        -76.9373
+      ],
+      "min": [
+        38.9846897,
+        -76.9804472
+      ],
+      "stops": {
+        "Chateau_Apartments": [
+          "regegara_d",
+          "stamsu_d",
+          "artsoci",
+          "camplt1d",
+          "umuc",
+          "metzgree_out",
+          "metz36th",
+          "metzstan_out",
+          "metzsa",
+          "arch_ob",
+          "metzadel",
+          "coolspri_out",
+          "metzpres",
+          "metznham_out",
+          "nhamfox",
+          "nhamadel_out",
+          "nhamoak_out"
+        ],
+        "Regents_Drive Garage": [
+          "chateau_r",
+          "nhamadel_in",
+          "metznham_in",
+          "metz1811",
+          "coolspri_in",
+          "metz24th",
+          "metzarch",
+          "metzobse",
+          "metzstan_in",
+          "metz36th_in",
+          "metzgree_in",
+          "lot4_in",
+          "shutbase_in",
+          "painrege_bus",
+          "painstad"
+        ]
+      }
+    },
+    "109": {
+      "title": "109 River Road",
+      "color": "068481",
+      "tag": "109",
+      "oppositeColor": "ffffff",
+      "max": [
+        38.9781498,
+        -76.9229913
+      ],
+      "min": [
+        38.9682923,
+        -76.9301381
+      ],
+      "stops": {
+        "Loop": [
+          "cpmetro_d",
+          "acphys",
+          "acphys_elli",
+          "rayt",
+          "collpark",
+          "msqua",
+          "usda",
+          "rrmshel"
+        ]
+      }
+    },
+    "111": {
+      "title": "111 Silver Spring",
+      "color": "5d92b1",
+      "tag": "111",
+      "shortTitle": "111 Slver Spring",
+      "oppositeColor": "000000",
+      "max": [
+        39.001575,
+        -76.94075
+      ],
+      "min": [
+        38.9835797,
+        -77.029742
+      ],
+      "stops": {
+        "Silver_Spring Metro": [
+          "stamsuhh_d",
+          "artsoci",
+          "camplt1d",
+          "univtula",
+          "univshop_out",
+          "univguil_out",
+          "univrigg_out",
+          "univnham",
+          "univrite",
+          "merrilock",
+          "carrchest",
+          "carrglen",
+          "carrgarl",
+          "flowcarr",
+          "flowdivi",
+          "flowkenne",
+          "flowhuds",
+          "flowdome",
+          "flowplym",
+          "waynslig_out",
+          "wayndale_out",
+          "waynwhol",
+          "bonidix"
+        ],
+        "Stamp_Student Union": [
+          "ssmetro",
+          "waynfent",
+          "wayndale_in",
+          "waynslig_in",
+          "flowplym_in",
+          "flowdome_in",
+          "flowhuds_in",
+          "flowkenn_in",
+          "flowdivi_inn",
+          "flowcarr_in",
+          "carrgarl_in",
+          "carranne_in",
+          "carrwild_in",
+          "merriuniv",
+          "univhamp",
+          "univ14th",
+          "univhech",
+          "univcity",
+          "univ25th_in",
+          "univgrad",
+          "cspa_main",
+          "stadgara",
+          "stadvtho",
+          "regegara_d"
+        ]
+      }
+    },
+    "113": {
+      "title": "113 Hyattsville",
+      "color": "cd3278",
+      "tag": "113",
+      "oppositeColor": "ffffff",
+      "max": [
+        38.991756,
+        -76.9397604
+      ],
+      "min": [
+        38.95166,
+        -76.9555421
+      ],
+      "stops": {
+        "Regents_Drive Garage": [
+          "39thquee",
+          "42ndquee",
+          "42ndogle",
+          "42ndmadi",
+          "42ndjeff",
+          "42ndfarr",
+          "farrrhod",
+          "baltgall",
+          "balthami",
+          "baltlong",
+          "baltogle",
+          "44thquee",
+          "quee42nd",
+          "belcquch",
+          "pgmetro_in",
+          "pgcc",
+          "belctole",
+          "adeltole",
+          "adelvbur",
+          "adelwell_in",
+          "adeltula",
+          "cspa_main",
+          "stadgara",
+          "stadvtho"
+        ],
+        "42nd_Ave and Queensbury Road": [
+          "regegara_d",
+          "stamsu_d",
+          "artsoci",
+          "camplt1d",
+          "gradhill",
+          "adelwell_out",
+          "adel_nwhs",
+          "toleadel",
+          "tolebelc",
+          "targ",
+          "pgmetro_out"
+        ]
+      }
+    },
+    "117": {
+      "title": "117 Blue",
+      "color": "3299cc",
+      "tag": "117",
+      "oppositeColor": "000000",
+      "max": [
+        38.9923399,
+        -76.9298057
+      ],
+      "min": [
+        38.9824311,
+        -76.94539
+      ],
+      "stops": {
+        "Loop": [
+          "stamsuhh_d",
+          "hoff",
+          "uniofiel",
+          "biofield",
+          "mitc_out",
+          "memo_out",
+          "mont_out",
+          "baltritc",
+          "univclub",
+          "univview",
+          "varsity",
+          "mcirc"
+        ]
+      }
+    },
+    "122": {
+      "title": "122 Green",
+      "color": "00cd66",
+      "tag": "122",
+      "oppositeColor": "000000",
+      "max": [
+        38.99297,
+        -76.93131
+      ],
+      "min": [
+        38.9796165,
+        -76.9494
+      ],
+      "stops": {
+        "Loop": [
+          "stamsu_m",
+          "artsoci",
+          "wico",
+          "lotu4",
+          "collpksh",
+          "knoxyale",
+          "prinknox",
+          "hopkknox",
+          "knoxrhod",
+          "rhodcoll",
+          "rhodnorw_s",
+          "rossrhod",
+          "5frat",
+          "leoncomm_out",
+          "11frat",
+          "yalecoll",
+          "yaleknox_ib",
+          "collpksh_ib",
+          "scam34",
+          "sccomm5_6",
+          "lota",
+          "somehall",
+          "annearun",
+          "dorchall",
+          "lot1",
+          "cspac",
+          "elk",
+          "hage",
+          "laplat",
+          "camb",
+          "regegara_d"
+        ]
+      }
+    },
+    "126": {
+      "title": "126 New Carrolton",
+      "color": "0147fa",
+      "tag": "126",
+      "shortTitle": "126 N Carrollton",
+      "oppositeColor": "ffffff",
+      "max": [
+        38.98756,
+        -76.8682799
+      ],
+      "min": [
+        38.9488713,
+        -76.9469495
+      ],
+      "stops": {
+        "N_Carrolton Metro": [
+          "stamsuhh_d",
+          "artsoci",
+          "wico",
+          "lotu4",
+          "guilrowa",
+          "univpkth",
+          "baltrive_out",
+          "baltunde",
+          "ewhwbeal",
+          "ewhwtayl_out",
+          "rivstber_n",
+          "rivd61st",
+          "riveeast",
+          "rive67th",
+          "riveaubu",
+          "rivemart",
+          "rivefinn",
+          "rivelamo",
+          "founclap",
+          "rivemaho",
+          "herisqap",
+          "annarive",
+          "annafinn"
+        ],
+        "Stamp_Student Union": [
+          "ncarmetr",
+          "lenocrap",
+          "carrmnap",
+          "long85th",
+          "lega85th",
+          "westmadi",
+          "westogle",
+          "westpowh",
+          "westlamo",
+          "lamolarc",
+          "lamocarr",
+          "lamoquen",
+          "lamodono",
+          "lamoelem",
+          "gdlknash",
+          "gdlkian",
+          "aubuches",
+          "aubu3rd",
+          "aubu1st",
+          "auburive",
+          "wildshop",
+          "rive67ct",
+          "rive64th",
+          "rive62nd_in",
+          "rive58th",
+          "ewhwtayl_in",
+          "baltsher",
+          "ngarmo",
+          "baltrive_in",
+          "baltamhe",
+          "guilrowa_in",
+          "sccomm5_6",
+          "lota",
+          "somehall",
+          "annearun",
+          "dorchall",
+          "camplibr",
+          "campedwa"
+        ]
+      }
+    },
+    "134": {
+      "title": "134 Mazza GrandMarc and Seven Springs",
+      "color": "cd8500",
+      "tag": "134",
+      "shortTitle": "134 Mazza ",
+      "oppositeColor": "000000",
+      "max": [
+        39.0178782,
+        -76.9213738
+      ],
+      "min": [
+        38.9878607,
+        -76.94075
+      ],
+      "stops": {
+        "Regents_Drive Garage": [
+          "cher9348",
+          "ssvill",
+          "cher9308",
+          "cher47th",
+          "mazz",
+          "baltberw_in",
+          "baltqueb_in",
+          "varsfron",
+          "painglen"
+        ],
+        "Seven_Springs Village Apartments": [
+          "regegara_d",
+          "campmath_m",
+          "baltmacd",
+          "baltqueb_out",
+          "baltberw_out",
+          "rhoduni",
+          "rhodcher",
+          "rhodindi",
+          "rhodholl",
+          "hollshop",
+          "edgerhod",
+          "edge49th",
+          "cpmark"
+        ]
+      }
+    },
+    "141": {
+      "title": "141 Gaithersburg Park & Ride",
+      "color": "f54d70",
+      "tag": "141",
+      "shortTitle": "141 Gaithersburg",
+      "oppositeColor": "000000",
+      "max": [
+        39.1411079,
+        -76.9432066
+      ],
+      "min": [
+        38.98756,
+        -77.211631
+      ],
+      "stops": {
+        "Gaithersburg": [
+          "stamsu_d"
+        ],
+        "Stamp_Student Union": [
+          "wdiapknr_d"
+        ]
+      }
+    },
+    "142": {
+      "title": "142 Columbia Park & Ride",
+      "color": "ffe600",
+      "tag": "142",
+      "oppositeColor": "000000",
+      "max": [
+        39.174232,
+        -76.8494732
+      ],
+      "min": [
+        38.98952,
+        -76.94075
+      ],
+      "stops": {
+        "Regents_Drive Garage": [
+          "brokride"
+        ],
+        "Broken_Land Park & Ride East Lot": [
+          "regegara_d"
+        ]
+      }
+    },
+    "143": {
+      "title": "143 Greenbelt",
+      "color": "78ab46",
+      "tag": "143",
+      "oppositeColor": "000000",
+      "max": [
+        39.0113699,
+        -76.864278
+      ],
+      "min": [
+        38.9872099,
+        -76.9502191
+      ],
+      "stops": {
+        "Regents_Drive Garage": [
+          "greegreei_ib",
+          "lakegree_ib",
+          "lakelake_ib",
+          "lakewest_ib",
+          "westridg_ib",
+          "ridgsout_ib",
+          "ridggard_ib",
+          "ridgeast_ib",
+          "ridgplat_ib",
+          "ridgrese_ib",
+          "lastjuli_ib",
+          "lastivy_ib",
+          "ivyridg_ib",
+          "westpark_ib",
+          "pont63rd_ib",
+          "pontcunn_ib",
+          "ruat60th_ib",
+          "gree60th_ib",
+          "greerhod_ib",
+          "cspa_main",
+          "stadgara",
+          "stadvtho"
+        ],
+        "Greenbelt_Rd at Greenway Center": [
+          "regegara_d",
+          "stamsu_d",
+          "lot1",
+          "cspac",
+          "dent_e",
+          "greeseve_ob",
+          "gree60th_ob",
+          "60thgree_ob",
+          "60thruat_ob",
+          "cunnpont",
+          "pont63rd_ob",
+          "westpark_ob",
+          "ridgivy_ob",
+          "ivylast_ob",
+          "lastjuli_ob",
+          "ridgrese_ob",
+          "ridgplat_ob",
+          "ridgeast_ob",
+          "ridggard_ob",
+          "ridggrid",
+          "westridg_ob",
+          "lakewest_ob",
+          "lakegree_ob",
+          "greegree_ob",
+          "oraghano_ob",
+          "oraggree_ob",
+          "mandcann_ob",
+          "mandgoak_d",
+          "mandhano_ib",
+          "hanoelea_ib",
+          "hanogree_ib"
+        ]
+      }
+    },
+    "701": {
+      "title": "701 UMB BioPark",
+      "color": "80ff00",
+      "tag": "701",
+      "oppositeColor": "000000",
+      "max": [
+        39.2995236,
+        -76.620848
+      ],
+      "min": [
+        39.28301,
+        -76.6320545
+      ],
+      "stops": {
+        "UMMC:_Midtown Campus": [
+          "peargara_d",
+          "greefaye",
+          "greebalt",
+          "greelomb",
+          "greeprat",
+          "washemor",
+          "washmlk",
+          "washbarr",
+          "washscot",
+          "ramsapts",
+          "scotroun",
+          "scotlemm",
+          "lombpark",
+          "popplomb",
+          "poppboot",
+          "biopark",
+          "baltfrem",
+          "baltpine",
+          "umbtrans",
+          "pacafaye",
+          "pacasara",
+          "pennstmr"
+        ],
+        "Pearl_St Garage": [
+          "ummccamp",
+          "eutadrui",
+          "eutafran",
+          "eutamulb",
+          "eutasara",
+          "lexmmetr",
+          "fayepaca"
+        ]
+      }
+    },
+    "702": {
+      "title": "702 UMB Mt Vernon",
+      "color": "4fdbff",
+      "tag": "702",
+      "shortTitle": "702 UMB Mt Vern",
+      "oppositeColor": "000000",
+      "max": [
+        39.3075428,
+        -76.614017
+      ],
+      "min": [
+        39.28902,
+        -76.6265282
+      ],
+      "stops": {
+        "Charles_St & Penn Station": [
+          "peargara_d",
+          "baltpine",
+          "umbtrans",
+          "baltpaca",
+          "balteuta",
+          "balthopk",
+          "charcent",
+          "charsara",
+          "charhami",
+          "charvern",
+          "charread",
+          "chareage",
+          "charchas",
+          "charbidd",
+          "charpres"
+        ],
+        "Pearl_St Garage": [
+          "charpenn",
+          "paulpenn",
+          "paulpres",
+          "paulbidd",
+          "paulchas",
+          "paulread",
+          "paulmadi",
+          "paulcent",
+          "paulmulb",
+          "paulsara",
+          "paullexi",
+          "fayeplaz",
+          "fayehowa",
+          "fayepaca"
+        ]
+      }
+    },
+    "703": {
+      "title": "703 UMB Federal Hill",
+      "color": "0003ff",
+      "tag": "703",
+      "shortTitle": "703 UMB Fed Hill",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.2903,
+        -76.6119228
+      ],
+      "min": [
+        39.2727096,
+        -76.6281499
+      ],
+      "stops": {
+        "Pearl_St Garage": [
+          "charlcam",
+          "lombchar",
+          "lombhopk",
+          "lombhowa",
+          "lombeuta",
+          "lombgree",
+          "lombmlk",
+          "baltpine",
+          "utrans"
+        ],
+        "Charles_St & Pratt St": [
+          "peargara_d",
+          "mlkbalt",
+          "pratpenn",
+          "pratgree",
+          "prathowa",
+          "pratshar",
+          "pratligh",
+          "lightcon",
+          "lightlee",
+          "lightmon",
+          "lighthen",
+          "lightcro",
+          "lightwes",
+          "lightost",
+          "fortligh",
+          "fortchar",
+          "charoste",
+          "charwest",
+          "charcros",
+          "charhenr",
+          "charlee",
+          "charlcon"
+        ]
+      }
+    },
+    "704": {
+      "title": "704 UMB Canton/Fells Point",
+      "color": "b200a5",
+      "tag": "704",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.2909846,
+        -76.5711916
+      ],
+      "min": [
+        39.2775588,
+        -76.6265297
+      ],
+      "stops": {
+        "Eastern_Ave & Chester St": [
+          "peargara_d",
+          "baltpine",
+          "utrans",
+          "baltpaca",
+          "balteuta",
+          "balthopk",
+          "baltchar",
+          "baltsout",
+          "baltfred",
+          "baltpres",
+          "baltexet",
+          "baltlloy",
+          "broalomb",
+          "broagoug",
+          "eastwolf",
+          "eastwash",
+          "eastmilt",
+          "eastlake",
+          "eastellw",
+          "eastfait",
+          "eastodon",
+          "bostellw",
+          "bostkenw",
+          "bostcomp"
+        ],
+        "Pearl_St Garage": [
+          "eastches",
+          "eastwolf_ib",
+          "eastbroa",
+          "broagoug_ib",
+          "lombcent",
+          "lombalbe",
+          "lombmark",
+          "lombcomm",
+          "lombcalv",
+          "lombligh",
+          "lombchar",
+          "lombhopk",
+          "lombhowa",
+          "lombeuta"
+        ]
+      }
+    },
+    "bse": {
+      "title": "Bowie State - Enclave Express",
+      "color": "b200a5",
+      "tag": "bse",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.0176137,
+        -76.7613399
+      ],
+      "min": [
+        38.99782,
+        -76.93197
+      ],
+      "stops": {
+        "Bowie_State University": [
+          "enclave"
+        ],
+        "Enclave": [
+          "bowiuniv"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright University of Maryland 2018."
+}

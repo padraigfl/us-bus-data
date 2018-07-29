@@ -1,0 +1,544 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Water St & Fulton St",
+        "tag": "watful_d",
+        "stopId": "0018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0044635,
+          40.7073002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Water St & Maiden Ln",
+        "tag": "watmaid",
+        "stopId": "0020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0066917,
+          40.7057964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Water St & Wall St",
+        "tag": "watwall_o",
+        "stopId": "0021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.008147,
+          40.7047839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Water St & 7 Hanover Sq",
+        "tag": "wathano",
+        "stopId": "0022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0093801,
+          40.7038629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Water St & Coenties Slip",
+        "tag": "watcoen",
+        "stopId": "0023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0109259,
+          40.7031743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "State St & Whitehall St",
+        "tag": "watwhit",
+        "stopId": "0024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0135356,
+          40.7024211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "State St & Bridge St",
+        "tag": "statbrid",
+        "stopId": "0011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0142769,
+          40.7038615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Battery Pl & Washington St",
+        "tag": "battwash_o",
+        "stopId": "0044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0154919,
+          40.7049529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Battery Pl & West St",
+        "tag": "battwest_o",
+        "stopId": "0027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0177072,
+          40.7052212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Battery Pl & 1st Pl",
+        "tag": "batfirst_o",
+        "stopId": "0028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0178511,
+          40.7062816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Battery Pl & 3rd Pl",
+        "tag": "batthird_o",
+        "stopId": "0029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0168234,
+          40.7078382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "W Thames St & South End Ave",
+        "tag": "seavwtha_o",
+        "stopId": "0030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0172052,
+          40.7084528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South End Ave & Rector Pl",
+        "tag": "seavrec_o",
+        "stopId": "0031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0167628,
+          40.7092808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South End Ave & Albany St",
+        "tag": "seavalba",
+        "stopId": "0032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0160644,
+          40.7107593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vesey St & North End Ave",
+        "tag": "vesworld_o",
+        "stopId": "0033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0159036,
+          40.71469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North End Ave & Murray St",
+        "tag": "neavmury_o",
+        "stopId": "0034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0153586,
+          40.7157142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North End Ave & Warren St",
+        "tag": "neavwar_d",
+        "stopId": "0035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.014163,
+          40.7171498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chambers St & West Broadway",
+        "tag": "chamwbro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0089098,
+          40.7152996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Murray St & Broadway",
+        "tag": "murbrod",
+        "stopId": "0039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0074562,
+          40.7131778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Murray St & Greenwich St",
+        "tag": "murgren",
+        "stopId": "0040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0117681,
+          40.7150002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North End Ave & Murray St",
+        "tag": "neavmury",
+        "stopId": "0041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.015599,
+          40.7155734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vesey St & World Financial Center",
+        "tag": "vesworld",
+        "stopId": "0042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0154375,
+          40.7143571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South End Ave & Gateway Plaza",
+        "tag": "seavgate",
+        "stopId": "0005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0161641,
+          40.7107922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South End Ave & Rector Pl",
+        "tag": "seavrec",
+        "stopId": "0006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0171071,
+          40.7089337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "W Thames St & South End Ave",
+        "tag": "seavwtha",
+        "stopId": "0007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0169537,
+          40.7082169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Battery Pl & 3rd Pl",
+        "tag": "batthird",
+        "stopId": "0008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0173185,
+          40.7072872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Battery Pl & 1st Pl",
+        "tag": "batfirst",
+        "stopId": "0009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0180488,
+          40.7057746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Battery Pl & West St",
+        "tag": "battwest",
+        "stopId": "0010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0173967,
+          40.7048819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Battery Pl & Greenwich St",
+        "tag": "battwash",
+        "stopId": "0026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0153604,
+          40.7047349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "State St & Whitehall St",
+        "tag": "battstate",
+        "stopId": "0012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.013134,
+          40.7023067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Water St & Broad St",
+        "tag": "watbroad",
+        "stopId": "0013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0110256,
+          40.7030241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Water St & Old Slip",
+        "tag": "watolds",
+        "stopId": "0014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0085297,
+          40.7042887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Water St & Wall St",
+        "tag": "watwall",
+        "stopId": "0015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0070682,
+          40.7053075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Water St & Fletcher St",
+        "tag": "watflet",
+        "stopId": "0016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0056773,
+          40.7062735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pearl St & Fulton St",
+        "tag": "pearfult",
+        "stopId": "0017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003735,
+          40.707641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Street & Peck Slip",
+        "tag": "soutpeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0014874,
+          40.7072123
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright Downtown Connection 2018."
+}

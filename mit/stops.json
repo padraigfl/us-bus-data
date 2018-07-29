@@ -1,0 +1,638 @@
+{
+  "data": {
+    "mass84_d": {
+      "lon": "-71.09416",
+      "title": "84 Mass Ave",
+      "shortTitle": "84 Mass",
+      "stopId": "03",
+      "tag": "mass84_d",
+      "lat": "42.35952"
+    },
+    "massbeac": {
+      "lon": "-71.08963",
+      "title": "Mass Ave at Beacon Street",
+      "shortTitle": "Mass @ Beacon",
+      "stopId": "29",
+      "tag": "massbeac",
+      "lat": "42.35103"
+    },
+    "comm487": {
+      "lon": "-71.09463",
+      "title": "487 Commonwealth Ave",
+      "shortTitle": "487 Commonwealth",
+      "stopId": "22",
+      "tag": "comm487",
+      "lat": "42.34915"
+    },
+    "commsher": {
+      "lon": "-71.1007408",
+      "title": "Commonwealth @ Sherbron",
+      "stopId": "59",
+      "tag": "commsher",
+      "lat": "42.3493956"
+    },
+    "comm478": {
+      "lon": "-71.0940143",
+      "title": "478 Commonwealth Ave",
+      "shortTitle": "478 Commonwealth",
+      "stopId": "21",
+      "tag": "comm478",
+      "lat": "42.3488099"
+    },
+    "beacmass": {
+      "lon": "-71.0894076",
+      "title": "Beacon St at Mass Ave",
+      "shortTitle": "Beacon @ Mass",
+      "stopId": "13",
+      "tag": "beacmass",
+      "lat": "42.3509163"
+    },
+    "mass77": {
+      "lon": "-71.09368",
+      "title": "77 Mass Ave",
+      "shortTitle": "77 Mass",
+      "stopId": "02",
+      "tag": "mass77",
+      "lat": "42.35927"
+    },
+    "edge": {
+      "lon": "-71.0975189",
+      "title": "Edgerton",
+      "stopId": "23",
+      "tag": "edge",
+      "lat": "42.3601699"
+    },
+    "kendsq": {
+      "lon": "-71.08613",
+      "title": "Kendall Square T",
+      "stopId": "01",
+      "tag": "kendsq",
+      "lat": "42.36237"
+    },
+    "wadse40": {
+      "lon": "-71.08439",
+      "title": "Wadsworth@E40",
+      "stopId": "53",
+      "tag": "wadse40",
+      "lat": "42.361272"
+    },
+    "charprk": {
+      "lon": "-71.07781",
+      "title": "1 Charles Park",
+      "tag": "charprk",
+      "lat": "42.3665997"
+    },
+    "kendsq_d": {
+      "lon": "-71.08613",
+      "title": "Kendall Square",
+      "stopId": "01",
+      "tag": "kendsq_d",
+      "lat": "42.36237"
+    },
+    "amhewads": {
+      "lon": "-71.0843897",
+      "title": "Amherst at Wadsworth",
+      "shortTitle": "Amherst @ Wadsworth",
+      "stopId": "07",
+      "tag": "amhewads",
+      "lat": "42.3612723"
+    },
+    "mitmus": {
+      "lon": "-71.0964845",
+      "title": "MIT Museum",
+      "stopId": "34",
+      "tag": "mitmus",
+      "lat": "42.3611668"
+    },
+    "paci70": {
+      "lon": "-71.1023",
+      "title": "70 Pacific Street",
+      "shortTitle": "70 Pacific",
+      "stopId": "40",
+      "tag": "paci70",
+      "lat": "42.36023"
+    },
+    "whou": {
+      "lon": "-71.100295",
+      "title": "NW30/Warehouse",
+      "stopId": "54",
+      "tag": "whou",
+      "lat": "42.3590333"
+    },
+    "vassmass": {
+      "lon": "-71.0945226",
+      "title": "Vassar St at Mass Ave",
+      "shortTitle": "Vassar @ Mass",
+      "stopId": "52",
+      "tag": "vassmass",
+      "lat": "42.3602986"
+    },
+    "statct": {
+      "lon": "-71.0902529",
+      "title": "Stata Center",
+      "stopId": "48",
+      "tag": "statct",
+      "lat": "42.3623986"
+    },
+    "amesmain": {
+      "lon": "-71.088213",
+      "title": "Koch Main at Vassar",
+      "shortTitle": "Koch Main @ Vassar",
+      "tag": "amesmain",
+      "lat": "42.3624409"
+    },
+    "wadsamhe": {
+      "lon": "-71.0846492",
+      "title": "Wadsworth at Amherst",
+      "shortTitle": "Wadsworth @ Amherst",
+      "tag": "wadsamhe",
+      "lat": "42.3610402"
+    },
+    "medilab": {
+      "lon": "-71.08686",
+      "title": "Media Lab",
+      "tag": "medilab",
+      "lat": "42.36032"
+    },
+    "amesamhe": {
+      "lon": "-71.087648",
+      "title": "Media Lab at Ames",
+      "shortTitle": "Media Lab @ Ames",
+      "stopId": "07",
+      "tag": "amesamhe",
+      "lat": "42.359848"
+    },
+    "kres": {
+      "lon": "-71.0942099",
+      "title": "Amherst at Kresge",
+      "shortTitle": "Amherst @ Kresge",
+      "stopId": "61",
+      "tag": "kres",
+      "lat": "42.35797"
+    },
+    "tangwest": {
+      "lon": "-71.103992",
+      "title": "Tang/Westgate",
+      "stopId": "51",
+      "tag": "tangwest",
+      "lat": "42.354467"
+    },
+    "w92ames": {
+      "lon": "-71.1052009",
+      "title": "W92 at Amesbury St",
+      "shortTitle": "W92 @ Amesbury",
+      "stopId": "57",
+      "tag": "w92ames",
+      "lat": "42.354929"
+    },
+    "w98vass": {
+      "lon": "-71.1066941",
+      "title": "W98 at Vassar St",
+      "shortTitle": "W98 @ Vassar",
+      "stopId": "67",
+      "tag": "w98vass",
+      "lat": "42.3543184"
+    },
+    "simmhl": {
+      "lon": "-71.1021137",
+      "title": "Simmons Hall",
+      "stopId": "47",
+      "tag": "simmhl",
+      "lat": "42.3566937"
+    },
+    "mainvass": {
+      "lon": "-71.089623",
+      "title": "Main at Vassar",
+      "shortTitle": "Main @ Vassar",
+      "stopId": "01",
+      "tag": "mainvass",
+      "lat": "42.362641"
+    },
+    "mccrmk": {
+      "lon": "-71.094702",
+      "title": "McCormick Hall",
+      "stopId": "30",
+      "tag": "mccrmk",
+      "lat": "42.3576593"
+    },
+    "kappasgm": {
+      "lon": "-71.0969993",
+      "title": "Kappa Sigma",
+      "stopId": "62",
+      "tag": "kappasgm",
+      "lat": "42.3565832"
+    },
+    "macgreg": {
+      "lon": "-71.0991079",
+      "title": "MacGregor",
+      "stopId": "63",
+      "tag": "macgreg",
+      "lat": "42.3559476"
+    },
+    "tradjoe": {
+      "lon": "-71.114391",
+      "title": "Trader Joe's",
+      "stopId": "64",
+      "tag": "tradjoe",
+      "lat": "42.358038"
+    },
+    "wholfood": {
+      "lon": "-71.113422",
+      "title": "Whole Foods",
+      "stopId": "65",
+      "tag": "wholfood",
+      "lat": "42.361395"
+    },
+    "rivfrank": {
+      "lon": "-71.1069636",
+      "title": "River Street@Franklin Street",
+      "shortTitle": "River Street@Franklin",
+      "stopId": "45",
+      "tag": "rivfrank",
+      "lat": "42.3644554"
+    },
+    "randhl": {
+      "lon": "-71.0989574",
+      "title": "Random Hall",
+      "stopId": "56",
+      "tag": "randhl",
+      "lat": "42.3625794"
+    },
+    "amhekres": {
+      "lon": "-71.0941195",
+      "title": "Amherst at Kresge",
+      "shortTitle": "Amherst @ Kresge",
+      "tag": "amhekres",
+      "lat": "42.3578818"
+    },
+    "burthous": {
+      "lon": "-71.0987027",
+      "title": "Burton House",
+      "stopId": "16",
+      "tag": "burthous",
+      "lat": "42.3560824"
+    },
+    "simmhall": {
+      "lon": "-71.1020453",
+      "title": "Simmons Hall",
+      "stopId": "47",
+      "tag": "simmhall",
+      "lat": "42.3565968"
+    },
+    "zcent": {
+      "lon": "-71.0968304",
+      "title": "Z-Center",
+      "tag": "zcent",
+      "lat": "42.3591597"
+    },
+    "albapaci": {
+      "lon": "-71.1002972",
+      "title": "Albany at Pacific",
+      "shortTitle": "Albany @ Pacific",
+      "tag": "albapaci",
+      "lat": "42.3591086"
+    },
+    "masssydn": {
+      "lon": "-71.0994752",
+      "title": "Mass Ave at Sydney",
+      "shortTitle": "Mass @ Sydney",
+      "tag": "masssydn",
+      "lat": "42.362854"
+    },
+    "mainwinds": {
+      "lon": "-71.0964568",
+      "title": "Main St at Windsor",
+      "shortTitle": "Main @ Windsor",
+      "stopId": "27",
+      "tag": "mainwinds",
+      "lat": "42.3631649"
+    },
+    "mainkoch": {
+      "lon": "-71.0896227",
+      "title": "Main at Koch",
+      "shortTitle": "Main @ Koch",
+      "tag": "mainkoch",
+      "lat": "42.3626409"
+    },
+    "mass84": {
+      "lon": "-71.0941606",
+      "title": "84 Mass Ave",
+      "shortTitle": "84 Mass",
+      "stopId": "03",
+      "tag": "mass84",
+      "lat": "42.3595197"
+    },
+    "massnewb": {
+      "lon": "-71.08834",
+      "title": "MBTA Stop at Newbury",
+      "shortTitle": "MBTA Stop @ Newbury",
+      "stopId": "58",
+      "tag": "massnewb",
+      "lat": "42.348309"
+    },
+    "silb": {
+      "lon": "-71.0998196",
+      "title": "Silber Way",
+      "tag": "silb",
+      "lat": "42.3492899"
+    },
+    "adp": {
+      "lon": "-71.0994927",
+      "title": "ADP",
+      "tag": "adp",
+      "lat": "42.3629739"
+    },
+    "pearfrank": {
+      "lon": "-71.1036852",
+      "title": "Pearl at Franklin",
+      "shortTitle": "Pearl @ Franklin",
+      "tag": "pearfrank",
+      "lat": "42.3637448"
+    },
+    "pearlawr": {
+      "lon": "-71.1065182",
+      "title": "Pearl at  Lawrence",
+      "shortTitle": "Pearl @  Lawrence",
+      "tag": "pearlawr",
+      "lat": "42.3611728"
+    },
+    "pearalls": {
+      "lon": "-71.108803",
+      "title": "Pearl at Allston",
+      "shortTitle": "Pearl @ Allston",
+      "tag": "pearalls",
+      "lat": "42.359088"
+    },
+    "granbroo": {
+      "lon": "-71.110477",
+      "title": "Granite at Brookline",
+      "shortTitle": "Granite @ Brookline",
+      "tag": "granbroo",
+      "lat": "42.355084"
+    },
+    "stpaul": {
+      "lon": "-71.1159269",
+      "title": "Green Line/St Paul Station",
+      "tag": "stpaul",
+      "lat": "42.3512709"
+    },
+    "manc58": {
+      "lon": "-71.1238864",
+      "title": "58 Manchester St",
+      "shortTitle": "58 Manchester",
+      "stopId": "28",
+      "tag": "manc58",
+      "lat": "42.3488581"
+    },
+    "stpaul259": {
+      "lon": "-71.11655",
+      "title": "259 Saint Paul St",
+      "shortTitle": "259 Saint Paul",
+      "stopId": "49",
+      "tag": "stpaul259",
+      "lat": "42.346556"
+    },
+    "broo350": {
+      "lon": "-71.1100048",
+      "title": "350 Brookline Street",
+      "shortTitle": "350 Brookline",
+      "tag": "broo350",
+      "lat": "42.3553782"
+    },
+    "brooputn": {
+      "lon": "-71.1080379",
+      "title": "Brookline at Putnum",
+      "shortTitle": "Brookline @ Putnum",
+      "tag": "brooputn",
+      "lat": "42.35732"
+    },
+    "brootudo": {
+      "lon": "-71.1043609",
+      "title": "Brookline at Tudor",
+      "shortTitle": "Brookline @ Tudor",
+      "tag": "brootudo",
+      "lat": "42.360769"
+    },
+    "broogree": {
+      "lon": "-71.1019579",
+      "title": "Brookline at Green",
+      "shortTitle": "Brookline @ Green",
+      "tag": "broogree",
+      "lat": "42.363313"
+    },
+    "mass84_a": {
+      "lon": "-71.09439",
+      "title": "84 Mass Ave (Arrival)",
+      "shortTitle": "84 Mass (Arrival)",
+      "stopId": "03",
+      "tag": "mass84_a",
+      "lat": "42.35973"
+    },
+    "browin": {
+      "lon": "-71.0956616",
+      "title": "Broadway/Windsor",
+      "tag": "browin",
+      "lat": "42.3672708"
+    },
+    "bronor": {
+      "lon": "-71.098872",
+      "title": "Broadway/Norfolk",
+      "tag": "bronor",
+      "lat": "42.368517"
+    },
+    "proscam": {
+      "lon": "-71.098183",
+      "title": "Prospect/Cambridge",
+      "tag": "proscam",
+      "lat": "42.3732209"
+    },
+    "prossom": {
+      "lon": "-71.093803",
+      "title": "Prospect/Somerville",
+      "tag": "prossom",
+      "lat": "42.378954"
+    },
+    "someshop": {
+      "lon": "-71.090302",
+      "title": "Somerville/Shopping Plaza",
+      "tag": "someshop",
+      "lat": "42.377734"
+    },
+    "lammed": {
+      "lon": "-71.0866227",
+      "title": "Lambert/Medford",
+      "tag": "lammed",
+      "lat": "42.3728545"
+    },
+    "cam6th": {
+      "lon": "-71.084973",
+      "title": "Cambridge/6th",
+      "tag": "cam6th",
+      "lat": "42.371668"
+    },
+    "1stotis": {
+      "lon": "-71.077116",
+      "title": "First/Otis",
+      "tag": "1stotis",
+      "lat": "42.37008"
+    },
+    "1stchar": {
+      "lon": "-71.0777169",
+      "title": "First/Charles",
+      "tag": "1stchar",
+      "lat": "42.367479"
+    },
+    "bin3rd": {
+      "lon": "-71.0821217",
+      "title": "Binny/Third",
+      "tag": "bin3rd",
+      "lat": "42.3657359"
+    },
+    "nw10": {
+      "lon": "-71.0975257",
+      "title": "NW10 / Edgerton",
+      "stopId": "36",
+      "tag": "nw10",
+      "lat": "42.3602019"
+    },
+    "nw30": {
+      "lon": "-71.1002973",
+      "title": "NW30 / Warehouse",
+      "stopId": "37",
+      "tag": "nw30",
+      "lat": "42.3591086"
+    },
+    "nw86": {
+      "lon": "-71.1022784",
+      "title": "NW86 / 70 Pacific",
+      "stopId": "39",
+      "tag": "nw86",
+      "lat": "42.360289"
+    },
+    "nw61": {
+      "lon": "-71.0981",
+      "title": "NW61 / Random Hall",
+      "stopId": "38",
+      "tag": "nw61",
+      "lat": "42.36204"
+    },
+    "porthamp": {
+      "lon": "-71.0918302",
+      "title": "Portland St at Hampshire St",
+      "shortTitle": "Portland @ Hampshire",
+      "stopId": "41",
+      "tag": "porthamp",
+      "lat": "42.3661096"
+    },
+    "camb638": {
+      "lon": "-71.0874169",
+      "title": "638 Cambridge St",
+      "shortTitle": "638 Cambridge",
+      "stopId": "18",
+      "tag": "camb638",
+      "lat": "42.3719808"
+    },
+    "camb5th": {
+      "lon": "-71.0832",
+      "title": "Cambridge St at Fifth St",
+      "shortTitle": "Cambridge @ Fifth",
+      "stopId": "17",
+      "tag": "camb5th",
+      "lat": "42.37144"
+    },
+    "6thcharl": {
+      "lon": "-71.0855705",
+      "title": "Sixth St at Charles St",
+      "shortTitle": "Sixth @ Charles",
+      "stopId": "04",
+      "tag": "6thcharl",
+      "lat": "42.3681476"
+    },
+    "elotmain": {
+      "lon": "-71.08908",
+      "title": "East Lot on Main St",
+      "shortTitle": "East Lot on Main",
+      "stopId": "24",
+      "tag": "elotmain",
+      "lat": "42.36264"
+    },
+    "amesbld66": {
+      "lon": "-71.0883699",
+      "title": "Ames St at Bld 66",
+      "shortTitle": "Ames @ Bld 66",
+      "stopId": "05",
+      "tag": "amesbld66",
+      "lat": "42.36123"
+    },
+    "mitmed": {
+      "lon": "-71.0862815",
+      "title": "MIT Medical at 34 Carleton St",
+      "shortTitle": "MIT Medical @ 34 Carleton",
+      "stopId": "33",
+      "tag": "mitmed",
+      "lat": "42.3610382"
+    },
+    "burtho": {
+      "lon": "-71.098703",
+      "title": "Burton House",
+      "stopId": "16",
+      "tag": "burtho",
+      "lat": "42.3560823"
+    },
+    "newho": {
+      "lon": "-71.1002099",
+      "title": "New House",
+      "stopId": "35",
+      "tag": "newho",
+      "lat": "42.35559"
+    },
+    "ww15": {
+      "lon": "-71.1097712",
+      "title": "WW15",
+      "stopId": "55",
+      "tag": "ww15",
+      "lat": "42.3557087"
+    },
+    "brookchest": {
+      "lon": "-71.1089",
+      "title": "Brookline St at Chestnut St",
+      "shortTitle": "Brookline @ Chestnut",
+      "stopId": "14",
+      "tag": "brookchest",
+      "lat": "42.3565399"
+    },
+    "putmag": {
+      "lon": "-71.11096",
+      "title": "Putnum Ave at Magazine St",
+      "shortTitle": "Putnum @ Magazine",
+      "stopId": "43",
+      "tag": "putmag",
+      "lat": "42.35904"
+    },
+    "rivfair": {
+      "lon": "-71.1124847",
+      "title": "River St at Fairmont St",
+      "shortTitle": "River @ Fairmont",
+      "stopId": "44",
+      "tag": "rivfair",
+      "lat": "42.3626179"
+    },
+    "rivpleas": {
+      "lon": "-71.1086206",
+      "title": "River St at Pleasant St",
+      "shortTitle": "River @ Pleasant",
+      "stopId": "46",
+      "tag": "rivpleas",
+      "lat": "42.3639197"
+    },
+    "sydgreen": {
+      "lon": "-71.1001597",
+      "title": "Sydney St at Green St",
+      "shortTitle": "Sydney @ Green",
+      "stopId": "50",
+      "tag": "sydgreen",
+      "lat": "42.3624601"
+    }
+  },
+  "copyright": "All data copyright Massachusetts Institute of Technology 2018."
+}

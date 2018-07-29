@@ -1,0 +1,155 @@
+{
+  "data": {
+    "01": {
+      "title": "Route 1",
+      "color": "666600",
+      "tag": "01",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.30215,
+        -118.83635
+      ],
+      "min": [
+        34.2633199,
+        -118.9009699
+      ],
+      "stops": {
+        "To_Moorpark Civic Center": [
+          "moorcoll_d",
+          "collcamp_i",
+          "campmarq_i",
+          "camppenn_i",
+          "vpp_i",
+          "kavlcond_i",
+          "highspri_i",
+          "highmetr_i"
+        ],
+        "To_Moorpark College": [
+          "civicent_d",
+          "towncent",
+          "parkcres",
+          "bellplaz",
+          "goldman",
+          "tiercour_o",
+          "tierharv_o",
+          "tiercoun_o",
+          "tierwaln",
+          "tierphea_o",
+          "php_o",
+          "peacbell_o",
+          "peacroll_o",
+          "peacmill",
+          "millpark",
+          "patrdriv",
+          "spriwood_o",
+          "2ndmill",
+          "highmetr",
+          "prinspri_o",
+          "princond",
+          "varsplaz",
+          "camppenn",
+          "campmarq",
+          "collcamp_o"
+        ]
+      }
+    },
+    "02": {
+      "title": "Route 2",
+      "color": "ff6600",
+      "tag": "02",
+      "oppositeColor": "000000",
+      "max": [
+        34.3021518,
+        -118.83521
+      ],
+      "min": [
+        34.26355,
+        -118.90073
+      ],
+      "stops": {
+        "To_Moorpark College": [
+          "civicent_d",
+          "highmoor_o",
+          "highspri_o",
+          "virgpark_o",
+          "prinvars_o",
+          "camppenn_o",
+          "campmarq_o",
+          "villamobi",
+          "collpark_o"
+        ],
+        "To_Moorpark Civic Center": [
+          "moorcoll_d",
+          "collcany_i",
+          "campmarq",
+          "camppenn",
+          "vpp",
+          "highspri",
+          "highmetr",
+          "2ndbard",
+          "millpatr",
+          "millsout_i",
+          "millmill_i",
+          "peacmesa_i",
+          "peacmill",
+          "peacbell",
+          "peacchri",
+          "peactier_i",
+          "tierwaln",
+          "mounwaln_i",
+          "tierharv_i",
+          "tiercour_i",
+          "laavmaur_i",
+          "laavleta_i",
+          "laavpark_i",
+          "parkvint_i",
+          "parkcres_i"
+        ]
+      }
+    },
+    "saturday": {
+      "title": "Saturday",
+      "color": "7f0000",
+      "tag": "saturday",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.2959799,
+        -118.8352093
+      ],
+      "min": [
+        34.2773799,
+        -118.8892099
+      ],
+      "stops": {
+        "Inbound": [
+          "spriwood_i",
+          "spripoli_i",
+          "highmetr_i",
+          "moorpoin_i",
+          "moormark_i",
+          "partdriv_i",
+          "prinvars_o",
+          "camppenn_o",
+          "campmarq_o",
+          "villamobi_o"
+        ],
+        "Outbound": [
+          "moormark_o",
+          "patrdriv_o",
+          "spriwood_o",
+          "spripoli_o",
+          "highmetr_o",
+          "moorpoin_o",
+          "parklane",
+          "mbp_o",
+          "laavleta_i",
+          "laavpark_i",
+          "parkvint_o",
+          "parkcres_o",
+          "laavmoor_i"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Moorpark Transit 2018."
+}

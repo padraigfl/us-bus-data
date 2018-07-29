@@ -1,0 +1,261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Benning Rd Spur Eastbound",
+        "tag": "benspurw",
+        "stopId": "108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9667492,
+          38.897407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Benning Rd Spur Westbound",
+        "tag": "benspure",
+        "stopId": "109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.966747,
+          38.8974987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Benning Rd & Oklahoma Ave Westbound",
+        "tag": "benokwest",
+        "stopId": "110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9698314,
+          38.8977819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Benning Rd & 19th St Westbound",
+        "tag": "ben19west",
+        "stopId": "111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9760633,
+          38.898867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Benning Rd @ 15th St Westbound",
+        "tag": "ben15west",
+        "stopId": "112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9829967,
+          38.9000799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "H St & 13th St Westbound",
+        "tag": "h13west",
+        "stopId": "113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9881031,
+          38.900242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "H St & 8th St Westbound",
+        "tag": "h8west",
+        "stopId": "114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9946746,
+          38.900237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "H St & 5th St Westbound",
+        "tag": "h5west",
+        "stopId": "115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9992908,
+          38.9002489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "H St & 3rd St Westbound",
+        "tag": "h3west",
+        "stopId": "116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00178,
+          38.900248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "H St @ Union Station",
+        "tag": "hunion",
+        "stopId": "100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.004289,
+          38.900162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "H St & 3rd St Eastbound",
+        "tag": "h3east",
+        "stopId": "101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0014814,
+          38.900152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "H St & 5th Eastbound",
+        "tag": "h5east",
+        "stopId": "102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9997198,
+          38.9001659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "H St & 8th St Eastbound",
+        "tag": "h8east",
+        "stopId": "103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9951842,
+          38.900161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "H St & 13th St Eastbound",
+        "tag": "h13east",
+        "stopId": "104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9885137,
+          38.900143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Benning Rd @ 15th St Eastbound",
+        "tag": "ben15east",
+        "stopId": "105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983022,
+          38.900016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Benning Rd & 19th St Eastbound",
+        "tag": "ben19east",
+        "stopId": "106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9760908,
+          38.8987869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Benning Rd & Oklahoma Ave Eastbound",
+        "tag": "benokeast",
+        "stopId": "107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.969843,
+          38.897707
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright DC Streetcar 2018."
+}

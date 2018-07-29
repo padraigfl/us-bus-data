@@ -1,0 +1,671 @@
+{
+  "data": {
+    "kearney": {
+      "title": "Kearney/Harrison",
+      "color": "0000ee",
+      "tag": "kearney",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.770516,
+        -74.145217
+      ],
+      "min": [
+        40.740978,
+        -74.1788106
+      ],
+      "stops": {
+        "Loop": [
+          "boydhall",
+          "njit",
+          "harrpass",
+          "frodclev",
+          "kearduke",
+          "kearberg",
+          "kearquin",
+          "kearmidl",
+          "kmart",
+          "shoplite"
+        ]
+      }
+    },
+    "penn": {
+      "title": "Penn Station Local",
+      "color": "009900",
+      "tag": "penn",
+      "shortTitle": "Penn Sta Local",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.7432589,
+        -74.1645258
+      ],
+      "min": [
+        40.7338639,
+        -74.1929929
+      ],
+      "stops": {
+        "Loop": [
+          "pennstat",
+          "pennstat_nt",
+          "medischo",
+          "hosp",
+          "bergbldg",
+          "dentschl",
+          "mark180",
+          "icph",
+          "njit",
+          "blumhall"
+        ]
+      }
+    },
+    "pennexpr": {
+      "title": "Penn Station Express",
+      "color": "ff5333",
+      "tag": "pennexpr",
+      "shortTitle": "Penn Sta Express",
+      "oppositeColor": "000000",
+      "max": [
+        40.7418682,
+        -74.1647207
+      ],
+      "min": [
+        40.7348193,
+        -74.1915806
+      ],
+      "stops": {
+        "Loop": [
+          "pennstat",
+          "medischo",
+          "hosp"
+        ]
+      }
+    },
+    "mdntpenn": {
+      "title": "Midnight Express Penn Station",
+      "color": "993300",
+      "tag": "mdntpenn",
+      "shortTitle": "Midnight Express",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.74094,
+        -74.1645206
+      ],
+      "min": [
+        40.733863,
+        -74.1742699
+      ],
+      "stops": {
+        "Loop": [
+          "boyd",
+          "pennback"
+        ]
+      }
+    },
+    "connect": {
+      "title": "Campus Connect",
+      "color": "be2625",
+      "tag": "connect",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.746906,
+        -74.1705689
+      ],
+      "min": [
+        40.7365969,
+        -74.191461
+      ],
+      "stops": {
+        "Loop": [
+          "boydhall_c",
+          "njit",
+          "icph_e",
+          "bergbuil",
+          "medischo_a",
+          "medischo",
+          "ecc",
+          "clj",
+          "washpark",
+          "broad",
+          "univnort",
+          "physplan"
+        ]
+      }
+    },
+    "a": {
+      "title": "A",
+      "color": "ff00ff",
+      "tag": "a",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.5277301,
+        -74.44824
+      ],
+      "min": [
+        40.49957,
+        -74.46618
+      ],
+      "stops": {
+        "To_Busch Student Center": [
+          "scott",
+          "stuactcntr",
+          "lot48a",
+          "stadium_a",
+          "werblinback",
+          "hillw",
+          "science",
+          "libofsciw",
+          "buschse",
+          "busch_a"
+        ],
+        "To_College Avenue Student Center": [
+          "buells",
+          "werblinm",
+          "rutgerss_a"
+        ]
+      }
+    },
+    "b": {
+      "title": "B",
+      "color": "ffcc00",
+      "tag": "b",
+      "oppositeColor": "000000",
+      "max": [
+        40.5277304,
+        -74.4335688
+      ],
+      "min": [
+        40.518677,
+        -74.4658297
+      ],
+      "stops": {
+        "To_Busch Student Center": [
+          "quads",
+          "werblinback",
+          "hillw",
+          "science",
+          "libofsci",
+          "buschse",
+          "busch_a"
+        ],
+        "To_Livingston Student Center": [
+          "beck",
+          "livingston_a"
+        ]
+      }
+    },
+    "c": {
+      "title": "C",
+      "color": "00ffff",
+      "tag": "c",
+      "oppositeColor": "000000",
+      "max": [
+        40.5235605,
+        -74.46147
+      ],
+      "min": [
+        40.51442,
+        -74.46618
+      ],
+      "stops": {
+        "To_Stadium West Lot": [
+          "allison",
+          "hilln",
+          "stadium_a"
+        ],
+        "To_Allison Road Classrooms": [
+          "werblinback",
+          "hillw"
+        ]
+      }
+    },
+    "ee": {
+      "title": "EE",
+      "color": "ff6600",
+      "tag": "ee",
+      "oppositeColor": "000000",
+      "max": [
+        40.5040199,
+        -74.4287199
+      ],
+      "min": [
+        40.47891,
+        -74.45215
+      ],
+      "stops": {
+        "To_College Avenue Student Center": [
+          "henders",
+          "katzenbach",
+          "gibbons",
+          "college_a",
+          "pubsafn",
+          "liberty",
+          "patersonn",
+          "trainn_a",
+          "zimmerli",
+          "stuactcntr",
+          "rutgerss_a"
+        ],
+        "To_Henderson Apartments": [
+          "scott",
+          "traine",
+          "patersons",
+          "rockoff",
+          "pubsafs",
+          "redoak_a",
+          "lipman",
+          "foodsci",
+          "biel"
+        ]
+      }
+    },
+    "f": {
+      "title": "F",
+      "color": "ff0000",
+      "tag": "f",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.5040199,
+        -74.4287199
+      ],
+      "min": [
+        40.47891,
+        -74.45215
+      ],
+      "stops": {
+        "To_College Avenue Student Center": [
+          "henders",
+          "katzenbach",
+          "gibbons",
+          "college_a",
+          "stuactcntr",
+          "rutgerss_a"
+        ],
+        "To_Henderson Apartments": [
+          "scott",
+          "pubsafs",
+          "redoak",
+          "lipman",
+          "foodsci",
+          "biel"
+        ]
+      }
+    },
+    "h": {
+      "title": "H",
+      "color": "0000ff",
+      "tag": "h",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.5276294,
+        -74.44511
+      ],
+      "min": [
+        40.4981999,
+        -74.46629
+      ],
+      "stops": {
+        "To_Busch Student Center": [
+          "scott",
+          "traine",
+          "stuactcntr",
+          "werblinm",
+          "buel",
+          "busch_a"
+        ],
+        "To_College Avenue Student Center": [
+          "davidson",
+          "libofsci",
+          "allison",
+          "hilln",
+          "stadium_a",
+          "rutgerss_a"
+        ]
+      }
+    },
+    "lx": {
+      "title": "LX",
+      "color": "cc99ff",
+      "tag": "lx",
+      "oppositeColor": "000000",
+      "max": [
+        40.5251062,
+        -74.4335668
+      ],
+      "min": [
+        40.4981999,
+        -74.4521505
+      ],
+      "stops": {
+        "To_Livingston Student Center": [
+          "scott",
+          "traine",
+          "stuactcntr",
+          "beck",
+          "livingston_a"
+        ],
+        "To_College Avenue Student Center": [
+          "quads",
+          "rutgerss_a"
+        ]
+      }
+    },
+    "rexb": {
+      "title": "REX B",
+      "color": "800080",
+      "tag": "rexb",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.5236115,
+        -74.4362659
+      ],
+      "min": [
+        40.4812942,
+        -74.46519
+      ],
+      "stops": {
+        "To_College Hall": [
+          "hilln",
+          "pubsafs",
+          "rockhall",
+          "redoak_a"
+        ],
+        "To_Allison Road Classrooms": [
+          "lipman",
+          "college_a",
+          "newstree",
+          "hillw",
+          "allison_a"
+        ]
+      }
+    },
+    "rexl": {
+      "title": "REX L",
+      "color": "99ccff",
+      "tag": "rexl",
+      "oppositeColor": "000000",
+      "max": [
+        40.5251062,
+        -74.4362659
+      ],
+      "min": [
+        40.4812942,
+        -74.4430933
+      ],
+      "stops": {
+        "To_Livingston Student Center": [
+          "lipman",
+          "college_a",
+          "newstree",
+          "beck",
+          "livingston_a"
+        ],
+        "To_College Hall": [
+          "pubsafs",
+          "rockhall",
+          "redoak_a"
+        ]
+      }
+    },
+    "s": {
+      "title": "All Campuses",
+      "color": "000000",
+      "tag": "s",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.5262,
+        -74.4287199
+      ],
+      "min": [
+        40.47891,
+        -74.46583
+      ],
+      "stops": {
+        "To_College Avenue Student Center": [
+          "quads",
+          "stuactcntrs",
+          "pubsafs",
+          "redoak_a",
+          "lipman",
+          "foodsci",
+          "biel",
+          "henders",
+          "katzenbach",
+          "gibbons",
+          "college_a",
+          "pubsafn",
+          "liberty",
+          "patersonn",
+          "trainn_a",
+          "zimmerli_2",
+          "stuactcntrn_2",
+          "rutgerss_a"
+        ],
+        "To_Livingston Student Center": [
+          "scott",
+          "traine_a",
+          "stuactcntr",
+          "lot48a",
+          "werblinback",
+          "hillw",
+          "science",
+          "libofsciw",
+          "buschse",
+          "busch_a",
+          "beck",
+          "livingston_a"
+        ]
+      }
+    },
+    "w1": {
+      "title": "New Brunsquick 1 Shuttle",
+      "color": "993300",
+      "tag": "w1",
+      "shortTitle": "NB 1 Shuttle",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.50617,
+        -74.44512
+      ],
+      "min": [
+        40.494289,
+        -74.4622299
+      ],
+      "stops": {
+        "Loop": [
+          "nursscho",
+          "colony",
+          "rutgerss_a",
+          "scott",
+          "traine_a"
+        ]
+      }
+    },
+    "w2": {
+      "title": "New Brunsquick 2 Shuttle",
+      "color": "ff99cc",
+      "tag": "w2",
+      "shortTitle": "NB 2 Shuttle",
+      "oppositeColor": "000000",
+      "max": [
+        40.50617,
+        -74.4445099
+      ],
+      "min": [
+        40.494289,
+        -74.4622299
+      ],
+      "stops": {
+        "Loop": [
+          "nursscho",
+          "trainn",
+          "zimmerli",
+          "stuactcntr",
+          "rutgerss_a",
+          "colony",
+          "traine_a"
+        ]
+      }
+    },
+    "wknd1": {
+      "title": "Weekend 1",
+      "color": "008080",
+      "tag": "wknd1",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.5262,
+        -74.4287199
+      ],
+      "min": [
+        40.4789101,
+        -74.46583
+      ],
+      "stops": {
+        "To_College Avenue Student Center": [
+          "livingston",
+          "quads",
+          "stuactcntrs",
+          "pubsafs",
+          "redoak",
+          "lipman",
+          "foodsci",
+          "biel",
+          "henders",
+          "katzenbach",
+          "gibbons",
+          "college",
+          "pubsafn",
+          "liberty",
+          "patersonn",
+          "trainn",
+          "zimmerli_2",
+          "stuactcntrn_2"
+        ],
+        "To_Livingston Student Center": [
+          "rutgerss",
+          "scott",
+          "traine",
+          "stuactcntr",
+          "lot48a",
+          "werblinback",
+          "hillw",
+          "science",
+          "libofsciw",
+          "buschse",
+          "busch",
+          "beck"
+        ]
+      }
+    },
+    "wknd2": {
+      "title": "Weekend 2",
+      "color": "666699",
+      "tag": "wknd2",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.5263006,
+        -74.4287199
+      ],
+      "min": [
+        40.4789101,
+        -74.4661712
+      ],
+      "stops": {
+        "To_College Avenue Student Center": [
+          "livingston",
+          "quads",
+          "busch",
+          "davidson",
+          "libofsci",
+          "allison",
+          "hilln"
+        ],
+        "To_Livingston Student Center": [
+          "rutgerss",
+          "scott",
+          "traine",
+          "patersons",
+          "rockoff",
+          "pubsafs",
+          "redoak",
+          "lipman",
+          "foodsci",
+          "biel",
+          "henders",
+          "katzenbach",
+          "gibbons",
+          "college",
+          "stuactcntrn",
+          "beck"
+        ]
+      }
+    },
+    "rbhs": {
+      "title": "RBHS/Hospital",
+      "color": "93db70",
+      "tag": "rbhs",
+      "oppositeColor": "000000",
+      "max": [
+        40.5245699,
+        -74.4501711
+      ],
+      "min": [
+        40.4941929,
+        -74.4700339
+      ],
+      "stops": {
+        "To_RBHS": [
+          "clinacad"
+        ],
+        "To_Clinical Academic Building": [
+          "pischoes"
+        ]
+      }
+    },
+    "housing": {
+      "title": "Housing Shopping Shuttle",
+      "color": "692dac",
+      "tag": "housing",
+      "shortTitle": "Housing Shopping",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.761012,
+        -74.136768
+      ],
+      "min": [
+        40.7424809,
+        -74.1753477
+      ],
+      "stops": {
+        "Loop": [
+          "robecent",
+          "shoprite",
+          "kmart",
+          "walmart"
+        ]
+      }
+    },
+    "ccexp": {
+      "title": "Campus Connect Express",
+      "color": "7f00ff",
+      "tag": "ccexp",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.7437892,
+        -74.1705689
+      ],
+      "min": [
+        40.739686,
+        -74.1895675
+      ],
+      "stops": {
+        "Loop": [
+          "boydhall_c",
+          "medischo_a",
+          "medischo",
+          "clj",
+          "washpark"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Rutgers University 2018."
+}

@@ -1,0 +1,246 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Term A/Pickup",
+        "tag": "termapic",
+        "stopId": "100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1821163,
+          40.688186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Term B/Pickup",
+        "tag": "termbpic",
+        "stopId": "200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1783609,
+          40.690856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Term C/Pickup",
+        "tag": "termcpic",
+        "stopId": "300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1781811,
+          40.694773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P6 Bus Stop 1",
+        "tag": "stop1",
+        "stopId": "001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1592964,
+          40.7061473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P6 Bus Stop 2",
+        "tag": "stop2",
+        "stopId": "002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1606607,
+          40.7069919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P6 Bus Stop 3",
+        "tag": "stop3",
+        "stopId": "003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.162371,
+          40.7071598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P6 Bus Stop 4",
+        "tag": "stop4",
+        "stopId": "004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.162531,
+          40.7060947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P6 Bus Stop 5",
+        "tag": "stop5",
+        "stopId": "005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1616131,
+          40.705633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P6 Bus Stop 6",
+        "tag": "stop6",
+        "stopId": "006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1586684,
+          40.7050523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P6 Bus Stop 7",
+        "tag": "stop7",
+        "stopId": "007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1575729,
+          40.7051715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P6 Bus Stop 8",
+        "tag": "stop8",
+        "stopId": "008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1552945,
+          40.7044765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P6 Bus Stop 9",
+        "tag": "stop9",
+        "stopId": "009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1551278,
+          40.7051308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P6 Bus Stop 10",
+        "tag": "stop10",
+        "stopId": "010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1565623,
+          40.7056171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Term A/Dropoff",
+        "tag": "termadro",
+        "stopId": "101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1825813,
+          40.6877793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Term B/Dropoff",
+        "tag": "termbdro",
+        "stopId": "201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1776009,
+          40.6906629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Term C/Dropoff",
+        "tag": "termcdro",
+        "stopId": "301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1777234,
+          40.6953451
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright Newark Liberty International Airport 2018."
+}

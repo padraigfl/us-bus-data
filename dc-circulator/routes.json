@@ -1,0 +1,279 @@
+{
+  "data": {
+    "yellow": {
+      "title": "Georgetown - Union Station",
+      "color": "ff6600",
+      "tag": "yellow",
+      "shortTitle": "Gtown-Union Sta",
+      "oppositeColor": "000000",
+      "max": [
+        38.91768,
+        -77.00696
+      ],
+      "min": [
+        38.8969499,
+        -77.06939
+      ],
+      "stops": {
+        "Westbound": [
+          "union_d",
+          "masscap_w",
+          "massnew_w",
+          "mass5th_w",
+          "mass7th_w",
+          "new9th_w",
+          "k12th13th_w",
+          "k14th_w",
+          "k16th_w",
+          "k17th_w",
+          "k19th_w",
+          "21stk_w",
+          "penn22nd_w",
+          "k24th_w",
+          "k30th_w",
+          "kwis_w",
+          "mwisc_w",
+          "wiscdum_w",
+          "wiscp_w",
+          "wiscq_w",
+          "wiscr_w",
+          "wisc34th_w"
+        ],
+        "Eastbound": [
+          "35thwisc_d",
+          "wisc34th_e",
+          "wiscr_e",
+          "wiscq_e",
+          "wiscp_e",
+          "wisco_e",
+          "mwisc_e",
+          "mthom_e",
+          "m28th_e",
+          "penn26th_e",
+          "penn24th_e",
+          "penn22nd_e",
+          "penn21st_e",
+          "k19th_e",
+          "k17th_e",
+          "k16th_e",
+          "k14th_e",
+          "k12th13th_e",
+          "k11th10th_e",
+          "new9th_e",
+          "mass7th_e",
+          "mass5th_e",
+          "massnew_e",
+          "mass1st_e"
+        ]
+      }
+    },
+    "green": {
+      "title": "Woodley Park - Adams Morgan - McPherson Square Metro",
+      "color": "3d8b37",
+      "tag": "green",
+      "shortTitle": "Woodley-McPherson",
+      "oppositeColor": "ffffff",
+      "max": [
+        38.9287577,
+        -77.0296782
+      ],
+      "min": [
+        38.9013776,
+        -77.0525699
+      ],
+      "stops": {
+        "Northbound": [
+          "i14th_n",
+          "14thk_n",
+          "14thrhod_n",
+          "14thu_n",
+          "colu14th_n",
+          "colu16th_n",
+          "coluont_n",
+          "coluadam_n"
+        ],
+        "Southbound": [
+          "24thcal_s",
+          "callan_s",
+          "coluont_s",
+          "mtplsirv_s",
+          "irv14th_s",
+          "14thu_s",
+          "14thp_s",
+          "13thk_s"
+        ]
+      }
+    },
+    "blue": {
+      "title": "Eastern Market - L'Enfant Plaza",
+      "color": "000080",
+      "tag": "blue",
+      "shortTitle": "E Mkt-L'Enft Plz",
+      "oppositeColor": "ffffff",
+      "max": [
+        38.884802,
+        -76.9949199
+      ],
+      "min": [
+        38.8763802,
+        -77.0227008
+      ],
+      "stops": {
+        "Westbound": [
+          "penn8th_s",
+          "8thg_s",
+          "8thl_s",
+          "600m_s",
+          "m3rd_s",
+          "mstnewj_w",
+          "msthalf_w",
+          "mstdela_w",
+          "mst4th_w",
+          "7thist_w"
+        ],
+        "Eastbound": [
+          "dst7th_s",
+          "7thist_e",
+          "main7th_e",
+          "mst4th_e",
+          "mstdela_e",
+          "msthalf_e",
+          "mstnewj_n",
+          "m4th_n",
+          "600m_n",
+          "8thl_n",
+          "8thg_n",
+          "penn7th_n",
+          "penn8th_a"
+        ]
+      }
+    },
+    "rosslyn": {
+      "title": "Dupont-Rosslyn",
+      "color": "0276fd",
+      "tag": "rosslyn",
+      "oppositeColor": "ffffff",
+      "max": [
+        38.90772,
+        -77.04348
+      ],
+      "min": [
+        38.8971951,
+        -77.07153
+      ],
+      "stops": {
+        "Westbound": [
+          "n19th_d",
+          "mstnham",
+          "m24th",
+          "m28th",
+          "m30th",
+          "m31st",
+          "mwisc",
+          "m33rd"
+        ],
+        "Eastbound": [
+          "rossmetr_d",
+          "m34th",
+          "mpoto",
+          "mwisc_e",
+          "mjeff",
+          "mpenn",
+          "l24th",
+          "massnham"
+        ]
+      }
+    },
+    "potomac": {
+      "title": "Congress Heights - Union Station",
+      "color": "e3701a",
+      "tag": "potomac",
+      "shortTitle": "Cg Hts-Union Sta",
+      "oppositeColor": "000000",
+      "max": [
+        38.8959949,
+        -76.9803677
+      ],
+      "min": [
+        38.84588,
+        -77.0053599
+      ],
+      "stops": {
+        "Northbound": [
+          "congheig_d",
+          "stanalab_n",
+          "stanbruc_n",
+          "stanelva_n",
+          "stanpome_n",
+          "stanbrya_n",
+          "stanwash_n",
+          "sherbowe_n",
+          "anmetro_na",
+          "anmetro_n",
+          "mlkwst_e",
+          "mlkhope",
+          "11thost_n",
+          "8thl_w",
+          "8thg_w",
+          "8these_w",
+          "8thcapi_n"
+        ],
+        "Southbound": [
+          "colucirc_d",
+          "8thcapi_s",
+          "8thd_e",
+          "8thg_e",
+          "8thl_e",
+          "11thost_s",
+          "mlkust_s",
+          "mlkwst_w",
+          "anmetro_sa",
+          "anmetro_w",
+          "sherbowe_s",
+          "stanwash_s",
+          "standoug_s",
+          "stanpome_s",
+          "stanelva_s",
+          "stanbruc_s",
+          "stanalab_s"
+        ]
+      }
+    },
+    "mall": {
+      "title": "National Mall",
+      "color": "ee0000",
+      "tag": "mall",
+      "oppositeColor": "ffffff",
+      "max": [
+        38.896557,
+        -77.007816
+      ],
+      "min": [
+        38.879879,
+        -77.0506713
+      ],
+      "stops": {
+        "Westbound": [
+          "ecolucir",
+          "madi4th",
+          "madi7th",
+          "madi12th",
+          "15thjeff",
+          "15thbure",
+          "basithom",
+          "basimlkm"
+        ],
+        "Eastbound": [
+          "lincmemo",
+          "cons21st",
+          "cons18st",
+          "15thmadi",
+          "jeff12th",
+          "jeff7th",
+          "3rdjeff"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright DC Circulator 2018."
+}

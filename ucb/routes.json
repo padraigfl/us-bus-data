@@ -1,0 +1,234 @@
+{
+  "data": {
+    "peri": {
+      "title": "Perimeter",
+      "color": "0d4f8b",
+      "tag": "peri",
+      "oppositeColor": "ffffff",
+      "max": [
+        37.8753299,
+        -122.2520976
+      ],
+      "min": [
+        37.8667424,
+        -122.2677474
+      ],
+      "stops": {
+        "Loop": [
+          "berkbart_d",
+          "oxfouniv",
+          "tolmhall",
+          "nortgate",
+          "coryhall",
+          "evanhall",
+          "gaylstad",
+          "haasbusi",
+          "intehous",
+          "piedchan",
+          "collast",
+          "krobhall",
+          "hrstmemo",
+          "sprouhall",
+          "bancells",
+          "bancshat",
+          "shatkitt"
+        ]
+      }
+    },
+    "hill": {
+      "title": "Hill",
+      "color": "cd8500",
+      "tag": "hill",
+      "oppositeColor": "000000",
+      "max": [
+        37.880937,
+        -122.2386326
+      ],
+      "min": [
+        37.87104,
+        -122.26765
+      ],
+      "stops": {
+        "Downhill": [
+          "spacelab_d",
+          "lawrhall_ib",
+          "botagard_ib",
+          "strawcany_ib",
+          "evanhall_a"
+        ],
+        "Uphill": [
+          "berkbart_d",
+          "evanhall",
+          "strawcany",
+          "botagard",
+          "lawrhall",
+          "spacelab_a"
+        ]
+      }
+    },
+    "cent": {
+      "title": "Central Campus",
+      "color": "ffd700",
+      "tag": "cent",
+      "oppositeColor": "000000",
+      "max": [
+        37.8753301,
+        -122.257378
+      ],
+      "min": [
+        37.87104,
+        -122.26765
+      ],
+      "stops": {
+        "Loop": [
+          "berkbart_d",
+          "oxfouniv",
+          "tolmhall",
+          "nortgate",
+          "coryhall",
+          "evanhall",
+          "mofflibr",
+          "westcirc",
+          "likashin"
+        ]
+      }
+    },
+    "rfs": {
+      "title": "RFS",
+      "color": "1c86ee",
+      "tag": "rfs",
+      "oppositeColor": "ffffff",
+      "max": [
+        37.9169939,
+        -122.257378
+      ],
+      "min": [
+        37.8710398,
+        -122.338584
+      ],
+      "stops": {
+        "Loop": [
+          "ecerbart_d",
+          "richfsta",
+          "regafacl_d",
+          "buchjack",
+          "hopkmlk",
+          "berkbart_d",
+          "evanhall",
+          "oxfouniv",
+          "hopkmlk_ib",
+          "buchjack_ib",
+          "richfsta_ib",
+          "regafacl_a"
+        ]
+      }
+    },
+    "ntsafens": {
+      "title": "Night Safety North",
+      "color": "1b3f8b",
+      "tag": "ntsafens",
+      "shortTitle": "Night Safety N",
+      "oppositeColor": "ffffff",
+      "max": [
+        37.8766429,
+        -122.252376
+      ],
+      "min": [
+        37.8676841,
+        -122.2682087
+      ],
+      "stops": {
+        "Loop": [
+          "mofflibr_d",
+          "lifescie",
+          "likashin",
+          "berkbart_d",
+          "univshack",
+          "tolmhall",
+          "nortgate",
+          "coryhall",
+          "footstud",
+          "highridg",
+          "eastgate",
+          "bowlhall",
+          "haasbusi",
+          "intehous",
+          "krobhall",
+          "hrstmemo",
+          "sprouhall",
+          "bancells",
+          "bancshat",
+          "banckitt",
+          "berkbart_ib",
+          "lkshincr",
+          "lifescie_ib",
+          "evanhall"
+        ]
+      }
+    },
+    "ntsafess": {
+      "title": "Night Safety South",
+      "color": "cdad00",
+      "tag": "ntsafess",
+      "shortTitle": "Night Safety S",
+      "oppositeColor": "000000",
+      "max": [
+        37.8766429,
+        -122.2494337
+      ],
+      "min": [
+        37.8640961,
+        -122.268087
+      ],
+      "stops": {
+        "Loop": [
+          "mofflibr_d",
+          "lifescie",
+          "likashin",
+          "berkbart_d",
+          "shatalls",
+          "shatkitt",
+          "shatdura",
+          "dwigfult",
+          "ellsstru",
+          "chantele",
+          "chanbowd",
+          "chancoll",
+          "collhast",
+          "warrpied",
+          "clarkerr",
+          "warrchan",
+          "warrbanc",
+          "intehous",
+          "haasbusn",
+          "gaylstad",
+          "greethea",
+          "footstud",
+          "highridg",
+          "evanhall"
+        ]
+      }
+    },
+    "shrdserv": {
+      "title": "Shared Services",
+      "color": "cd69c9",
+      "tag": "shrdserv",
+      "oppositeColor": "000000",
+      "max": [
+        37.874063,
+        -122.283011
+      ],
+      "min": [
+        37.8734372,
+        -122.3017959
+      ],
+      "stops": {
+        "Loop": [
+          "nberbart_d",
+          "css_d"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright University of California Berkeley 2018."
+}

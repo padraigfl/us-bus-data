@@ -1,0 +1,42 @@
+{
+  "data": {
+    "cam1": {
+      "title": "Camarillo Route 1",
+      "color": "33cc99",
+      "tag": "cam1",
+      "shortTitle": "Route 1",
+      "oppositeColor": "000000",
+      "max": [
+        34.2427717,
+        -118.9876378
+      ],
+      "min": [
+        34.2205648,
+        -119.05074
+      ],
+      "stops": {
+        "To_Leisure Village Clubhouse": [
+          "lvclub",
+          "camcomcen",
+          "mvvillage",
+          "cplibrary",
+          "pvhospital",
+          "moplaza",
+          "srplaza"
+        ],
+        "To_Camarillo Community Center": [
+          "lvclub_o",
+          "srplaza_o",
+          "moplaza_o",
+          "pvhospital_o",
+          "vilsquare",
+          "cplaza",
+          "pplaza",
+          "cpostof",
+          "camcomcen_o"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Camarillo Area (CAT) 2018."
+}

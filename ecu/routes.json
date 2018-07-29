@@ -1,0 +1,288 @@
+{
+  "data": {
+    "301": {
+      "title": "301 Gold",
+      "color": "0ffde0",
+      "tag": "301",
+      "oppositeColor": "000000",
+      "max": [
+        35.6081862,
+        -77.3619099
+      ],
+      "min": [
+        35.5898861,
+        -77.37106
+      ],
+      "stops": {
+        "Curry_Court": [
+          "mendwend_d",
+          "chil0th",
+          "collhill_w",
+          "stratford"
+        ],
+        "Mendenhall": [
+          "currcour",
+          "charfick",
+          "fick",
+          "collhill_e",
+          "brew10th"
+        ]
+      }
+    },
+    "302": {
+      "title": "302 Health Sciences",
+      "color": "ba1e22",
+      "tag": "302",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6130095,
+        -77.3703942
+      ],
+      "min": [
+        35.6081849,
+        -77.4054889
+      ],
+      "stops": {
+        "Mendenhall": [
+          "healscib",
+          "medipavi",
+          "lwileast",
+          "zetahous_i"
+        ],
+        "Health_Sciences": [
+          "mendwend_d",
+          "zetahous_o",
+          "lwilwest",
+          "brod",
+          "healstud"
+        ]
+      }
+    },
+    "304": {
+      "title": "304 Campus Shuttle",
+      "color": "415a68",
+      "tag": "304",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.615928,
+        -77.3612924
+      ],
+      "min": [
+        35.6044281,
+        -77.3752614
+      ],
+      "stops": {
+        "First_St Place": [
+          "mendwend_d",
+          "cota10th",
+          "evan9th_ob",
+          "readchic",
+          "finhub",
+          "wash2nd"
+        ],
+        "Mendenhall": [
+          "firsplac",
+          "cota4th",
+          "univbook",
+          "summ5th",
+          "foun5th",
+          "spei",
+          "chrisgym"
+        ]
+      }
+    },
+    "610": {
+      "title": "610 Minges P & R",
+      "color": "f78f1e",
+      "tag": "610",
+      "oppositeColor": "000000",
+      "max": [
+        35.6044279,
+        -77.3616319
+      ],
+      "min": [
+        35.5984919,
+        -77.369553
+      ],
+      "stops": {
+        "Christenbury_Gym": [
+          "charfick",
+          "fick"
+        ],
+        "Minges_- Bottom Lot": [
+          "chrisgym_d"
+        ]
+      }
+    },
+    "801": {
+      "title": "801 Purple",
+      "color": "7d26cd",
+      "tag": "801",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6044283,
+        -77.3318989
+      ],
+      "min": [
+        35.5953406,
+        -77.3632586
+      ],
+      "stops": {
+        "Christenbury_Gym": [
+          "canncour",
+          "eastbkap",
+          "camppt",
+          "10thverd",
+          "vilg10th_ib",
+          "cyprgard"
+        ],
+        "Cannon_Court": [
+          "chrisgym",
+          "univpkap",
+          "collpkap",
+          "10thbrow",
+          "vilg10th_ob",
+          "10thceda",
+          "eastvill"
+        ]
+      }
+    },
+    "802": {
+      "title": "802 Brown/Sunchase",
+      "color": "000000",
+      "tag": "802",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6128092,
+        -77.3336979
+      ],
+      "min": [
+        35.6023799,
+        -77.3632567
+      ],
+      "stops": {
+        "Christenbury_Gym": [
+          "browwynd",
+          "wyndwill",
+          "ashwill",
+          "ash1st",
+          "oakwill",
+          "willelm"
+        ],
+        "Brownlea_Drive & Wyndham Circle": [
+          "chrisgym",
+          "sunfront",
+          "sunback",
+          "beachvil",
+          "rivrwalk",
+          "4thcedar",
+          "univterr",
+          "gablbrow"
+        ]
+      }
+    },
+    "803": {
+      "title": "803 Cop Beech/Univ Manor/33 East",
+      "color": "7f7159",
+      "tag": "803",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.604428,
+        -77.3191899
+      ],
+      "min": [
+        35.5937982,
+        -77.3632567
+      ],
+      "stops": {
+        "Christenbury_Gym": [
+          "univmanb",
+          "univmanf",
+          "pirtcove_offc",
+          "pirtcove_phs2"
+        ],
+        "The_Davis: Back": [
+          "chrisgym",
+          "10thceda",
+          "copbphs2",
+          "copbback",
+          "copbclub"
+        ]
+      }
+    },
+    "804": {
+      "title": "804 The Landing/The Bellamy",
+      "color": "542c7a",
+      "tag": "804",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.604428,
+        -77.3482369
+      ],
+      "min": [
+        35.5591852,
+        -77.3659523
+      ],
+      "stops": {
+        "Christenbury_Gym": [
+          "land",
+          "bell",
+          "signatur"
+        ],
+        "The_Landing": [
+          "chrisgym",
+          "charmush",
+          "greecent",
+          "hyde"
+        ]
+      }
+    },
+    "805": {
+      "title": "805 North Rec Complex/North Campus Crsng",
+      "color": "00aa4f",
+      "tag": "805",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6292954,
+        -77.3198642
+      ],
+      "min": [
+        35.6044279,
+        -77.3632568
+      ],
+      "stops": {
+        "N_Rec Complex": [
+          "chrisgym",
+          "nrecfield",
+          "nrecboat"
+        ],
+        "Christenbury_Gym": [
+          "ncamcros"
+        ]
+      }
+    },
+    "806": {
+      "title": "806 University Suites",
+      "color": "086038",
+      "tag": "806",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6044279,
+        -77.3632549
+      ],
+      "min": [
+        35.590877,
+        -77.3820659
+      ],
+      "stops": {
+        "Christenbury_Gym": [
+          "univsuit"
+        ],
+        "University_Suites": [
+          "chrisgym"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright East Carolina University 2018."
+}

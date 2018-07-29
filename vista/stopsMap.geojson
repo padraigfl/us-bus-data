@@ -1,0 +1,2878 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pacific View Mall - Ventura Transfer Center",
+        "tag": "pvmtc_sb",
+        "stopId": "50000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2496348,
+          34.272451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura College",
+        "tag": "vencol_sb",
+        "stopId": "50001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.23093,
+          34.2755699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura County Government Center",
+        "tag": "vengov_sb",
+        "stopId": "50002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2128005,
+          34.2660361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Esplanade Mall",
+        "tag": "espmal_sb",
+        "stopId": "50003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1762722,
+          34.2320527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Camarillo Outlets",
+        "tag": "camout_sb",
+        "stopId": "50004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0583955,
+          34.2178004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carmen Plaza",
+        "tag": "carpla_sb",
+        "stopId": "50005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0519209,
+          34.22096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Camarillo Metrolink Station",
+        "tag": "cammet_sb",
+        "stopId": "50006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0338138,
+          34.2163549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plaza at Mission Oaks",
+        "tag": "parpla_sb",
+        "stopId": "50007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.004753,
+          34.2158716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillcrest Dr at Rancho Conejo",
+        "tag": "hilranch_sb",
+        "stopId": "50009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.925791,
+          34.1870915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lawrence Dr - Conejo Industrial Park",
+        "tag": "ranlaw_sb",
+        "stopId": "50010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.92987,
+          34.1918753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corporate Center Dr at Blue Cross",
+        "tag": "corpcent_s",
+        "stopId": "50011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.92373,
+          34.1975399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oaks Mall",
+        "tag": "oakmal_sb",
+        "stopId": "50012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8870547,
+          34.1826635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thousand Oaks Transportation Center",
+        "tag": "totran",
+        "stopId": "50050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8611667,
+          34.1748122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oaks Mall",
+        "tag": "oakmal_nb",
+        "stopId": "50012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8870547,
+          34.1826635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillcrest Dr at Rancho Conejo",
+        "tag": "hilranch_nb",
+        "stopId": "50051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.925791,
+          34.1870915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lawrence Dr - Conejo Industrial Park",
+        "tag": "ranlaw_nb",
+        "stopId": "50010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.92987,
+          34.1918753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corporate Center Dr at Blue Cross",
+        "tag": "copcent_n",
+        "stopId": "50052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.92373,
+          34.1975399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plaza at Mission Oaks",
+        "tag": "parpla_nb",
+        "stopId": "50007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.004753,
+          34.2158716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Camarillo Metrolink Station",
+        "tag": "cammet_nb",
+        "stopId": "50006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0338138,
+          34.2163549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carmen Plaza",
+        "tag": "carpla_nb",
+        "stopId": "50005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0519209,
+          34.22096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Camarillo Outlets",
+        "tag": "camout_nb",
+        "stopId": "50004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0583955,
+          34.2178004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Esplanade Mall",
+        "tag": "espmal_nb",
+        "stopId": "50003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1761499,
+          34.2320499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura County Government Center",
+        "tag": "vengov_nb",
+        "stopId": "50002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2125199,
+          34.2661599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura College",
+        "tag": "vencol_nb",
+        "stopId": "50001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2309899,
+          34.27568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saint Bonaventure High School",
+        "tag": "bonsch",
+        "stopId": "50053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2542099,
+          34.27225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura Pier - Weekend Only",
+        "tag": "vpier",
+        "stopId": "50054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.29038,
+          34.27622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pacific View Mall - Ventura Transfer Center",
+        "tag": "pvmtc_nb",
+        "stopId": "50000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2499242,
+          34.2725719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxnard Transportation Center",
+        "tag": "oxntra_sb",
+        "stopId": "50250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.17636,
+          34.19985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pacific View Mall - Ventura Transfer Center",
+        "tag": "pvmtc",
+        "stopId": "50000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2496348,
+          34.272451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Collection at Riverpark",
+        "tag": "rivrpark_sb",
+        "stopId": "50264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.174626,
+          34.241155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wendy's Hillcrest",
+        "tag": "wenhil",
+        "stopId": "50251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.93503,
+          34.18872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fire Station/ Hillcrest Dr.",
+        "tag": "firehill",
+        "stopId": "50252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.92924,
+          34.18638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oaks Mall",
+        "tag": "oakmal",
+        "stopId": "50012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8870547,
+          34.1826635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thousand Oaks Transportation Center",
+        "tag": "totran_sb",
+        "stopId": "50050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8611667,
+          34.1748123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxnard at Topanga",
+        "tag": "oxntop_sb",
+        "stopId": "50253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6046205,
+          34.1791699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxnard at Owensmouth",
+        "tag": "oxnarowen_sb",
+        "stopId": "50254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6008703,
+          34.1791899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxnard at Canoga",
+        "tag": "oxncan_sb",
+        "stopId": "50255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5977303,
+          34.17917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burbank at Canoga",
+        "tag": "burcan_sb",
+        "stopId": "50256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.596911,
+          34.17323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burbank at Warner Center",
+        "tag": "burwar_sb",
+        "stopId": "50257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5911923,
+          34.1732598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burbank at Kaiser",
+        "tag": "desbur_sb",
+        "stopId": "50258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5882184,
+          34.1735612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canoga at Trillium",
+        "tag": "cantril_sb",
+        "stopId": "50259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.59739,
+          34.1851914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Victory at Canoga",
+        "tag": "viccan_sb",
+        "stopId": "50260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5978923,
+          34.1884396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Owensmouth at Victory",
+        "tag": "owenvic_sb",
+        "stopId": "50261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.60161,
+          34.1873669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Owensmouth at Erwin",
+        "tag": "erwowe_sb",
+        "stopId": "50262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.60156,
+          34.1830904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxnard at Owensmouth",
+        "tag": "oxnowe_sb",
+        "stopId": "50263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6021297,
+          34.1793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxnard at Topanga",
+        "tag": "oxntop_nb",
+        "stopId": "50253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6046205,
+          34.1791699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxnard at Owensmouth",
+        "tag": "oxnarowen_nb",
+        "stopId": "50254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6008703,
+          34.1791899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxnard at Canoga",
+        "tag": "oxncan_nb",
+        "stopId": "50255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5977303,
+          34.17917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burbank at Canoga",
+        "tag": "burcan_nb",
+        "stopId": "50256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.596911,
+          34.17323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burbank at Warner Center",
+        "tag": "burwar_nb",
+        "stopId": "50257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5911882,
+          34.1732598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burbank at Kaiser",
+        "tag": "desbur_nb",
+        "stopId": "50258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5882184,
+          34.1735612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canoga at Trillium",
+        "tag": "cantril_nb",
+        "stopId": "50259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.59739,
+          34.1851914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Victory at Canoga",
+        "tag": "viccan_nb",
+        "stopId": "50260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5978923,
+          34.1884396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Owensmouth at Victory",
+        "tag": "owenvic_nb",
+        "stopId": "50261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.60161,
+          34.1873669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Owensmouth at Erwin",
+        "tag": "erwowe_nb",
+        "stopId": "50262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.60156,
+          34.1830904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxnard at Owensmouth",
+        "tag": "oxnowe_nb",
+        "stopId": "50263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6021297,
+          34.1793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thousand Oaks Transportation Center",
+        "tag": "totran_nb",
+        "stopId": "50050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8611667,
+          34.1748122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Collection at Riverpark",
+        "tag": "rivrpark_nb",
+        "stopId": "50264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1746264,
+          34.2411552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Esplanade Mall",
+        "tag": "esplmall_nb",
+        "stopId": "50003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1760948,
+          34.2320807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura Cnty Gov Ctr",
+        "tag": "cgovcent_nb",
+        "stopId": "50300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.207,
+          34.26862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pacific View Mall - Ventura Transit Center)",
+        "tag": "pacvmall_nb",
+        "stopId": "50000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2496341,
+          34.2724511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura Downtown",
+        "tag": "vntdtown_nb",
+        "stopId": "50301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2943794,
+          34.2796029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "West Main at Peking",
+        "tag": "wmainpek_nb",
+        "stopId": "50302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.306317,
+          34.281781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carpinteria Tech Park",
+        "tag": "realmark_nb",
+        "stopId": "50303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.48667,
+          34.38526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Downtown Carpinteria",
+        "tag": "carpeuge_nb",
+        "stopId": "50304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5174447,
+          34.3982558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "East Beach",
+        "tag": "cabpvall_nb",
+        "stopId": "50305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.674649,
+          34.41632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gutierrez at Garden",
+        "tag": "gutigard_nb",
+        "stopId": "50306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6915549,
+          34.418395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Santa Barbara at De La Guerra",
+        "tag": "sbarguer_nb",
+        "stopId": "50307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6974699,
+          34.4220699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SB Courthouse",
+        "tag": "figusbar_nb",
+        "stopId": "50308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.701199,
+          34.4243219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MDT Transit Center (Northbound)",
+        "tag": "figuchap_nb",
+        "stopId": "50309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.704347,
+          34.421421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cottage Hospital (Pueblo at Bath)",
+        "tag": "puebbath_nb",
+        "stopId": "50310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7217591,
+          34.4303593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "De La Vina St / W Mission St",
+        "tag": "dlvnmiss_nb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.716519,
+          34.42838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Santa Barbara County Complex",
+        "tag": "sbarcomp_nb",
+        "stopId": "50311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7791794,
+          34.4439099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cottage Hospital (Goleta)",
+        "tag": "hollpatt_nb",
+        "stopId": "50400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8094095,
+          34.4350799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hollister at Kellogg",
+        "tag": "hollkell_nb",
+        "stopId": "50312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8211697,
+          34.435768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hollister at Nectarine",
+        "tag": "hollnect_nb",
+        "stopId": "50313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8269626,
+          34.4359409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hollister at Aero Camino",
+        "tag": "hollaero_nb",
+        "stopId": "50314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8479567,
+          34.431457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hollister at Cremona",
+        "tag": "hollcrem_nb",
+        "stopId": "50315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.857301,
+          34.4306998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cortona at Castillian",
+        "tag": "cortcast_nb",
+        "stopId": "50316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.865595,
+          34.432156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Castillian at Los Carneros",
+        "tag": "castcarn_nb",
+        "stopId": "50317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8612942,
+          34.4328718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Los Carneros at Karl Storz",
+        "tag": "carnkarl_a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.855493,
+          34.432999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "UCSB",
+        "tag": "ucsb_d",
+        "stopId": "50318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.848075,
+          34.4150571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Los Carneros at Karl Storz",
+        "tag": "carnkarl_d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.85555,
+          34.433216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hollister at Coromar",
+        "tag": "hollcoro_sb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.863415,
+          34.430358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cortona at Castillian",
+        "tag": "cortcast_sb",
+        "stopId": "50316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8655953,
+          34.4321559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Castillian at Los Carneros",
+        "tag": "castcarn_sb",
+        "stopId": "50317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8612942,
+          34.4328718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hollister at Los Carneros",
+        "tag": "hollcrem_sb",
+        "stopId": "50315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.857285,
+          34.430539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hollister at Aero Camino",
+        "tag": "hollaero_sb",
+        "stopId": "50314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.848005,
+          34.4312499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hollister at Pine",
+        "tag": "hollpine_sb",
+        "stopId": "50350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8262153,
+          34.43573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hollister at Kellogg",
+        "tag": "hollkell_sb",
+        "stopId": "50312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8211672,
+          34.4355819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cottage Hospital (Goleta)",
+        "tag": "hollpatt_d",
+        "stopId": "50450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.80943,
+          34.43491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Santa Barbara County Complex",
+        "tag": "sbarcomp_sb",
+        "stopId": "50311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.779179,
+          34.44391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cottage Hospital (Southbound)",
+        "tag": "cotthosp_sb",
+        "stopId": "50351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7222202,
+          34.4306301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "De La Vina St / W Mission St",
+        "tag": "dlvnmiss_sb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7165191,
+          34.4283796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MDT Transit Center (Southbound)",
+        "tag": "chapfigu_sb",
+        "stopId": "50352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.704387,
+          34.421451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SB Library",
+        "tag": "anacanap_sb",
+        "stopId": "50353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.702847,
+          34.424105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SB City Hall",
+        "tag": "anacguer_sb",
+        "stopId": "50354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.697921,
+          34.420448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Haley at Garden",
+        "tag": "halegard_sb",
+        "stopId": "50355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6924592,
+          34.4196317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "East Beach",
+        "tag": "cabpvall_sb",
+        "stopId": "50305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.67451,
+          34.41626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Downtown Carpinteria",
+        "tag": "carpmapl_sb",
+        "stopId": "50356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5175522,
+          34.398232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carpinteria City Hall",
+        "tag": "cityhall",
+        "stopId": "50602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.50696,
+          34.39081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carpinteria Tech Park",
+        "tag": "realmark_sb",
+        "stopId": "50303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4866693,
+          34.3852598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "West Main at Peking",
+        "tag": "wmainpek_sb",
+        "stopId": "50357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3061365,
+          34.281657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura Downtown",
+        "tag": "vntdtown_sb",
+        "stopId": "50301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.294415,
+          34.279465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pacific View Mall - Ventura Transit Center",
+        "tag": "pacvmall_sb",
+        "stopId": "50000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2496344,
+          34.272451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "County Government Center",
+        "tag": "cgovcent_sb",
+        "stopId": "50358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.207,
+          34.26862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Esplanade Mall",
+        "tag": "esplmall_sb",
+        "stopId": "50003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1763105,
+          34.2320197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pacific View Mall - Ventura Transfer Center",
+        "tag": "pvmtc_d",
+        "stopId": "50100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2496348,
+          34.272451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saint Bonaventure High School",
+        "tag": "bonsch_e",
+        "stopId": "50101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2542084,
+          34.2722404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura County Medical Center",
+        "tag": "venmed_e",
+        "stopId": "50102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.25125,
+          34.27624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura College",
+        "tag": "vencol_e",
+        "stopId": "50103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.23093,
+          34.27557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura County Government Center",
+        "tag": "vengov_e",
+        "stopId": "50104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.211219,
+          34.268007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wells Center",
+        "tag": "wcenter_e",
+        "stopId": "50105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1585418,
+          34.2921775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kmart Santa Paula",
+        "tag": "kspaula_e",
+        "stopId": "50106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.08504,
+          34.33669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Santa Paula City Hall",
+        "tag": "spchall_e",
+        "stopId": "50107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0601399,
+          34.35203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rancho Sespe",
+        "tag": "rancsesp_e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8220608,
+          34.4007195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Via Fustero & Center",
+        "tag": "fustcent_e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.792632,
+          34.415263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rancho Sespe (Westbound)",
+        "tag": "rancsesp_w"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8220608,
+          34.4007195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Via Fustero & Center (Westbound)",
+        "tag": "fustcent_w"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.792632,
+          34.415263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fillmore Senior Center",
+        "tag": "fscent_d",
+        "stopId": "50150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9149997,
+          34.39805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Santa Paula City Hall",
+        "tag": "spchall_w",
+        "stopId": "50151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.06014,
+          34.35203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kmart Santa Paula",
+        "tag": "kspaula_w",
+        "stopId": "50152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0850399,
+          34.33669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wells Center",
+        "tag": "wcenter_w",
+        "stopId": "50153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1585425,
+          34.2921802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura County Government Center",
+        "tag": "vengov_w",
+        "stopId": "50154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2112191,
+          34.2680093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura College",
+        "tag": "vencol_w",
+        "stopId": "50155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2309868,
+          34.2756804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saint Bonaventure High School",
+        "tag": "bonsch_w",
+        "stopId": "50156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2542095,
+          34.2722402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura County Medical Center",
+        "tag": "venmed_w",
+        "stopId": "50157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.25125,
+          34.27624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillcrest Dr at Rancho Conejo",
+        "tag": "hillranc_nb",
+        "stopId": "50009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.925793,
+          34.18709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lawrence Dr - Conejo Industrial Park",
+        "tag": "coneinpk_nb",
+        "stopId": "50010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.92987,
+          34.1918769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corporate Center Dr at Blue Cross",
+        "tag": "corpcent_nb",
+        "stopId": "50011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.923724,
+          34.197543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Amgen Ct at Hillcrest",
+        "tag": "amgnhill_nb",
+        "stopId": "50552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9184519,
+          34.1879427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oaks Mall",
+        "tag": "oaksmall_d",
+        "stopId": "50012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8870547,
+          34.1826635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thousand Oaks Transportation Center (Depart)",
+        "tag": "toaktran_nb",
+        "stopId": "50050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8611692,
+          34.1748105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Westlake Blvd at Townsgate",
+        "tag": "westtown_nb",
+        "stopId": "50500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.82769,
+          34.1538399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thousand Oaks Library - Senior/Teen Center",
+        "tag": "toaklibr_nb",
+        "stopId": "50501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8543941,
+          34.200058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "High St and Metrolink Station",
+        "tag": "highmets_nb",
+        "stopId": "50502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8772405,
+          34.2853899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Princeton Ave at Amherst",
+        "tag": "prinamhe_nb",
+        "stopId": "50503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8570309,
+          34.295267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moorpark College - Performing Arts Parking Lot",
+        "tag": "moorcoll_nb",
+        "stopId": "50504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8363405,
+          34.3021601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Farmers Insurance",
+        "tag": "farminsu_nb",
+        "stopId": "50505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7363099,
+          34.27906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Simi Town Center - Arrival",
+        "tag": "simitown_a",
+        "stopId": "50506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7697353,
+          34.2852499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Simi Town Center - Departure",
+        "tag": "simitown_d",
+        "stopId": "50550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.769254,
+          34.28525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Farmers Insurance",
+        "tag": "farminsu_sb",
+        "stopId": "50551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7363099,
+          34.27906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moorpark College - Performing Arts Parking Lot",
+        "tag": "moorcoll_sb",
+        "stopId": "50504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8363405,
+          34.3021601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Princeton Ave at Amherst",
+        "tag": "prinamhe_sb",
+        "stopId": "50503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8574213,
+          34.294803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "High St and Metrolink Station",
+        "tag": "highmets_sb",
+        "stopId": "50502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8772399,
+          34.2854699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thousand Oaks Library - Senior/Teen Center",
+        "tag": "toaklibr_sb",
+        "stopId": "50501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8543941,
+          34.200058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thousand Oaks Transportation Center (Depart)",
+        "tag": "toaktran_sb",
+        "stopId": "50050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8611667,
+          34.1748121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oaks Mall",
+        "tag": "oaksmall_sb",
+        "stopId": "50012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8870547,
+          34.1826635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Amgen Ct at Hillcrest",
+        "tag": "amgnhill_sb",
+        "stopId": "50552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9184969,
+          34.1880708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillcrest Dr at Rancho Conejo",
+        "tag": "hillranc_sb",
+        "stopId": "50009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9257932,
+          34.1870899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lawrence Dr - Conejo Industrial Park",
+        "tag": "coneinpk_sb",
+        "stopId": "50010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.92987,
+          34.1918771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corporate Center Dr at Blue Cross",
+        "tag": "corpcent_sb",
+        "stopId": "50011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9237235,
+          34.1975428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Camarillo Metrolink Station",
+        "tag": "cammet",
+        "stopId": "50006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0338139,
+          34.2163551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CSUCI Campus",
+        "tag": "csucic",
+        "stopId": "50200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.044087,
+          34.165448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Villa Calleguas",
+        "tag": "calleg",
+        "stopId": "50201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0380343,
+          34.1856166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "C St Terminal",
+        "tag": "cstterm",
+        "stopId": "50600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1811299,
+          34.1751798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxnard College",
+        "tag": "oxcoll",
+        "stopId": "50601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.15604,
+          34.16179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxnard College (Eastbound)",
+        "tag": "oxcoll_eb",
+        "stopId": "50601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1560319,
+          34.1618899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "C St Transfer Center",
+        "tag": "csttran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1810676,
+          34.1744626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "C St & Ninth St",
+        "tag": "cst9th"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1811409,
+          34.1923581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxnard Transit Center (OTC)",
+        "tag": "oxnatran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.176542,
+          34.1996768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Camarillo Outlets Promenade",
+        "tag": "camaprom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0669342,
+          34.2167258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Camarillo Outlets Main Court",
+        "tag": "camacour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0583703,
+          34.21781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carmen Plaza",
+        "tag": "carmplaz",
+        "stopId": "50005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0519212,
+          34.22096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Camarillo Metrolink Station (Arrival)",
+        "tag": "camametr_a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.03437,
+          34.21593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Camarillo Metrolink Station",
+        "tag": "camametr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.03381,
+          34.2163599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Camarillo Metrolink Station",
+        "tag": "camametr_ib",
+        "stopId": "50006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0338092,
+          34.2163606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carmen Plaza",
+        "tag": "carmplaz_ib",
+        "stopId": "50005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.051921,
+          34.22096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Camarillo Outlets Food Court",
+        "tag": "camafood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0618769,
+          34.215208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxnard Transit Center (OTC)",
+        "tag": "oxnatran_ib"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1764479,
+          34.1996675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "C St & Ninth St.",
+        "tag": "cst9th_ib"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.181213,
+          34.1921282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "C St Transfer Center (Arrival)",
+        "tag": "csttran_a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.181258,
+          34.17545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Simi Valley Metrolink",
+        "tag": "simimetr_d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6950168,
+          34.271581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Simi Valley Civic Center",
+        "tag": "simicivc_wb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7176343,
+          34.2838617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cochran & Galena",
+        "tag": "cochgale_wb",
+        "stopId": "50551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7363092,
+          34.2790599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Simi Town Center WB",
+        "tag": "simitown_wb",
+        "stopId": "50550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7693529,
+          34.2853499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moorpark College",
+        "tag": "moorcoll_wb",
+        "stopId": "50504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8363405,
+          34.3021601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moorpark Metrolink Station",
+        "tag": "moormetl_wb",
+        "stopId": "50502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.87724,
+          34.2854699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Camarillo Metrolink Station",
+        "tag": "cammetrl_wb",
+        "stopId": "50006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0338138,
+          34.2163549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Esplanade Mall",
+        "tag": "esplmall_wb",
+        "stopId": "50003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1761499,
+          34.2320499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura County Government Center",
+        "tag": "ventcgov_wb",
+        "stopId": "50002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2125199,
+          34.2661599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura College",
+        "tag": "ventcoll_wb",
+        "stopId": "50001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.23099,
+          34.27568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura Transit Center (arrival)",
+        "tag": "venttran_a",
+        "stopId": "50000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2499241,
+          34.2725719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura Transit Center",
+        "tag": "venttran_d",
+        "stopId": "50000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2496348,
+          34.272451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura College",
+        "tag": "ventcoll_eb",
+        "stopId": "50001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.23093,
+          34.27557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ventura County Government Center",
+        "tag": "ventcgov_eb",
+        "stopId": "50002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2128005,
+          34.266036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Esplanade Mall",
+        "tag": "esplmall_eb",
+        "stopId": "50003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1762722,
+          34.2320527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Camarillo Metrolink Station",
+        "tag": "cammetrl_eb",
+        "stopId": "50006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0338138,
+          34.2163549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moorpark Metrolink Station",
+        "tag": "moormetl_eb",
+        "stopId": "50502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.87724,
+          34.28539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moorpark College",
+        "tag": "moorcoll_eb",
+        "stopId": "50504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8363405,
+          34.3021601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Simi Town Center EB",
+        "tag": "simitown_eb",
+        "stopId": "50506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7697353,
+          34.2852499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cochran & Galena",
+        "tag": "cochgale_eb",
+        "stopId": "50505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.736311,
+          34.278967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Simi Valley Civic Center",
+        "tag": "simicivc_eb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.717838,
+          34.283901
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright Ventura Intercity (VCTC) 2018."
+}

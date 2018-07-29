@@ -1,0 +1,60 @@
+{
+  "data": {
+    "beachtrolley": {
+      "title": "Beach Trolley",
+      "color": "2e59a7",
+      "tag": "beachtrolley",
+      "oppositeColor": "ffffff",
+      "max": [
+        30.3434317,
+        -87.0787788
+      ],
+      "min": [
+        30.3260412,
+        -87.178505
+      ],
+      "stops": {
+        "Westbound": [
+          "port_w",
+          "seashore",
+          "bahp_w",
+          "entra1",
+          "comm_w",
+          "firestat",
+          "av14_w",
+          "ecua_w",
+          "soun_w",
+          "holi_w",
+          "sria_w",
+          "boar_w",
+          "mvin_w",
+          "holixp_w",
+          "srdune",
+          "emer_w",
+          "lfit",
+          "trisv_w"
+        ],
+        "Eastbound": [
+          "park_e",
+          "trist_e",
+          "seah_e",
+          "cros",
+          "holxp_e",
+          "mvis_e",
+          "boar_e",
+          "casi_e",
+          "side_e",
+          "holi_e",
+          "beac_e",
+          "spri_e",
+          "29av14_e",
+          "chur_e",
+          "aven21",
+          "regt_e",
+          "calleherm"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Pensacola Beach (SRIA) 2018."
+}

@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lobby 7",
+        "tag": "lobby7",
+        "stopId": "007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.896591,
+          39.1640697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lobby 1",
+        "tag": "lobby1",
+        "stopId": "001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8995059,
+          39.162819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MP3",
+        "tag": "mp3",
+        "stopId": "903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8902459,
+          39.1651929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MP5",
+        "tag": "mp5",
+        "stopId": "905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8909145,
+          39.1652261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MP2",
+        "tag": "mp2",
+        "stopId": "902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.889921,
+          39.1643758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MP4",
+        "tag": "mp4",
+        "stopId": "904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8919957,
+          39.1643484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MP6",
+        "tag": "mp6",
+        "stopId": "906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8914862,
+          39.1628168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "B200",
+        "tag": "b200",
+        "stopId": "200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8993608,
+          39.1593566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MP1",
+        "tag": "mp1",
+        "stopId": "901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8888183,
+          39.1640511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "B26",
+        "tag": "b26",
+        "stopId": "026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.900313,
+          39.1644807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "B23",
+        "tag": "b23",
+        "stopId": "023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8987046,
+          39.1682461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Building 1",
+        "tag": "southend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.898883,
+          39.163673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "B29 North",
+        "tag": "bldg29n",
+        "stopId": "129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8973003,
+          39.1698541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Building 48",
+        "tag": "bldg48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8926674,
+          39.1707364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "B29 South",
+        "tag": "bldg29s",
+        "stopId": "229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8973248,
+          39.1699266
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright APL 2018."
+}

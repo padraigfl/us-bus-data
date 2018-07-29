@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marshak North",
+        "tag": "marshak_d",
+        "stopId": "0627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9497415,
+          40.8197902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "145th Street",
+        "tag": "145th",
+        "stopId": "0145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94482,
+          40.82405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marshak South",
+        "tag": "marshak",
+        "stopId": "0627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.950055,
+          40.819476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "125th Street",
+        "tag": "125th",
+        "stopId": "0125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.952902,
+          40.810272
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright City College NYC 2018."
+}

@@ -1,0 +1,54 @@
+{
+  "data": {
+    "east": {
+      "title": "East Loop",
+      "color": "00bfff",
+      "tag": "east",
+      "oppositeColor": "000000",
+      "max": [
+        40.7789029,
+        -73.8617758
+      ],
+      "min": [
+        40.768033,
+        -73.8862536
+      ],
+      "stops": {
+        "Loop": [
+          "longpark",
+          "longpark2",
+          "longpark3",
+          "longpark4",
+          "trma",
+          "termd",
+          "termc"
+        ]
+      }
+    },
+    "short": {
+      "title": "Short Loop",
+      "color": "308014",
+      "tag": "short",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.7789029,
+        -73.872797
+      ],
+      "min": [
+        40.7723416,
+        -73.8875639
+      ],
+      "stops": {
+        "Loop": [
+          "longpark",
+          "longpark2",
+          "longpark3",
+          "longpark4",
+          "hang3bus",
+          "fuelfarm"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright LaGuardia Airport Employee Shuttle 2018."
+}

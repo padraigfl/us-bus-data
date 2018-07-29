@@ -1,0 +1,42 @@
+{
+  "data": {
+    "h_route": {
+      "title": "H/Benning Line",
+      "color": "ff0000",
+      "tag": "h_route",
+      "oppositeColor": "ffffff",
+      "max": [
+        38.9002709,
+        -76.966747
+      ],
+      "min": [
+        38.897407,
+        -77.004289
+      ],
+      "stops": {
+        "Westbound": [
+          "benspurw",
+          "benspure",
+          "benokwest",
+          "ben19west",
+          "ben15west",
+          "h13west",
+          "h8west",
+          "h5west",
+          "h3west"
+        ],
+        "Eastbound": [
+          "hunion",
+          "h3east",
+          "h5east",
+          "h8east",
+          "h13east",
+          "ben15east",
+          "ben19east",
+          "benokeast"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright DC Streetcar 2018."
+}

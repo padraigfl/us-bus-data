@@ -1,0 +1,31 @@
+{
+  "data": {
+    "campus": {
+      "title": "Campus Shuttle",
+      "color": "ff00ff",
+      "tag": "campus",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.9498946,
+        -76.728126
+      ],
+      "min": [
+        39.9430399,
+        -76.7397806
+      ],
+      "stops": {
+        "Loop": [
+          "wolf",
+          "creakx",
+          "nsidecom",
+          "wolf_2",
+          "spring",
+          "readco",
+          "railtrai",
+          "grummcka"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright York College 2018."
+}

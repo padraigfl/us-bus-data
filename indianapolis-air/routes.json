@@ -1,0 +1,95 @@
+{
+  "data": {
+    "4": {
+      "title": "Economy Lot",
+      "color": "f6a4d5",
+      "tag": "4",
+      "oppositeColor": "000000",
+      "max": [
+        39.714793,
+        -86.2978907
+      ],
+      "min": [
+        39.7046837,
+        -86.3103756
+      ],
+      "stops": {
+        "Loop": [
+          "econcurb",
+          "gtc_exit",
+          "busshelt_10",
+          "busshelt_11",
+          "busshelt_12",
+          "busshelt_13",
+          "busshelt_14",
+          "busshelt_15",
+          "busshelt_16",
+          "busshelt_17",
+          "busshelt_18",
+          "busshelt_19",
+          "busshelt_20",
+          "busshelt_21",
+          "busshelt_22",
+          "gtc_entr"
+        ]
+      }
+    },
+    "5": {
+      "title": "Economy Lot ME",
+      "color": "816687",
+      "tag": "5",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.714793,
+        -86.2978907
+      ],
+      "min": [
+        39.7046835,
+        -86.3103756
+      ],
+      "stops": {
+        "Loop": [
+          "econcurb",
+          "gtc_exit",
+          "busshelt_14",
+          "busshelt_15",
+          "busshelt_16",
+          "busshelt_17",
+          "busshelt_18",
+          "busshelt_19",
+          "busshelt_20",
+          "busshelt_21",
+          "busshelt_22",
+          "gtc_entr"
+        ]
+      }
+    },
+    "9": {
+      "title": "Employee Lot",
+      "color": "42647f",
+      "tag": "9",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.714793,
+        -86.2978906
+      ],
+      "min": [
+        39.709344,
+        -86.305267
+      ],
+      "stops": {
+        "Loop": [
+          "econcurb",
+          "gtc_exit",
+          "busshelt_01",
+          "busshelt_04",
+          "busshelt_03",
+          "busshelt_02",
+          "busshelt_09",
+          "gtc_entr"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Indianapolis International Airport 2018."
+}

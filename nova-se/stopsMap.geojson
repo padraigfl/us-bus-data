@@ -1,0 +1,407 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rolling Hills Residence Hall (North-A)",
+        "tag": "rhills_n",
+        "stopId": "09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25685,
+          26.07764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rolling Hills Residence Hall (South-C)",
+        "tag": "rhills_s",
+        "stopId": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2575459,
+          26.0770681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "HPD Annex",
+        "tag": "hpdannex",
+        "stopId": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.252003,
+          26.078913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terry Administration Building (Health Professions)",
+        "tag": "terradmn",
+        "stopId": "03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2498122,
+          26.081087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alvin Sherman Library, Research and Information Technology Center - North Circle",
+        "tag": "sherman_n",
+        "stopId": "04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2428173,
+          26.0801257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shepard Broad Law Center (Leo Goodwin Sr. Hall)",
+        "tag": "shepard_1",
+        "stopId": "05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.240723,
+          26.0806762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maltz/Psychology",
+        "tag": "maltpsyc",
+        "stopId": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2393202,
+          26.0798203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Horvitz Administration Building",
+        "tag": "horvitz",
+        "stopId": "06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.239759,
+          26.0788818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University Center/Rosenthal Student Center",
+        "tag": "ucenter",
+        "stopId": "07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2432127,
+          26.077733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "UPP North",
+        "tag": "upp",
+        "stopId": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2496605,
+          26.0791473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terry Administration Building (Health Professions)",
+        "tag": "terry",
+        "stopId": "03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2498054,
+          26.0810859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tri-Rail Ft Lauderdale Airport",
+        "tag": "airp_d",
+        "stopId": "34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1659976,
+          26.0621952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Broward College Student Center",
+        "tag": "bcsc",
+        "stopId": "35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2336094,
+          26.0789311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Broward College Public Safety",
+        "tag": "bcps",
+        "stopId": "36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23303,
+          26.0806799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Florida Atlantic University - Liberal Arts",
+        "tag": "faulib",
+        "stopId": "37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2355178,
+          26.0829294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University of Florida",
+        "tag": "uof",
+        "stopId": "38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2372088,
+          26.0833697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sanford L. Ziff Health Care Center (Health Professions)",
+        "tag": "sanford",
+        "stopId": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25006,
+          26.0826301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "NSU Transit Hub",
+        "tag": "thub",
+        "stopId": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2431008,
+          26.0816403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "McFatter Technical School",
+        "tag": "mcfat",
+        "stopId": "40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2293583,
+          26.0852045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tri-Rail Ft Lauderdale Airport - Arrival",
+        "tag": "airp_a",
+        "stopId": "41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16597,
+          26.06214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rolling Hills Residence Hall (North-A)",
+        "tag": "rhills_n_m",
+        "stopId": "09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25685,
+          26.07764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rolling Hills Residence Hall (South-C)",
+        "tag": "rhills_s_m",
+        "stopId": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2575459,
+          26.077068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Commons Residence Hall",
+        "tag": "goodwin_m",
+        "stopId": "08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24236,
+          26.07538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Galleria Mall",
+        "tag": "gallmall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1123411,
+          26.1376649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beach Place A1A",
+        "tag": "bct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.105925,
+          26.1203283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Las Olas",
+        "tag": "lasolas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1362704,
+          26.1184917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Museum Of Science and Discovery",
+        "tag": "musescie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1484679,
+          26.1211027
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright Nova Southeastern University 2018."
+}

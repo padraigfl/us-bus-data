@@ -1,0 +1,5622 @@
+{
+  "data": {
+    "airpbroo": {
+      "lon": "-79.0586898",
+      "title": "Martin Luther King Jr Blvd at Chapel View",
+      "shortTitle": "Martin Luther King Jr @ Chapel View",
+      "stopId": "3332",
+      "tag": "airpbroo",
+      "lat": "35.9485309"
+    },
+    "mlknort": {
+      "lon": "-79.0585194",
+      "title": "Martin Luther King Jr Blvd  at Northfield Dr",
+      "shortTitle": "Martin Luther King Jr  @ Northfield Dr",
+      "stopId": "3420",
+      "tag": "mlknort",
+      "lat": "35.9464516"
+    },
+    "airptimb_s": {
+      "lon": "-79.0573001",
+      "title": "Martin Luther King Jr Blvd  at Timber Hollow",
+      "shortTitle": "Martin Luther King Jr  @ Timber Hollow",
+      "stopId": "3330",
+      "tag": "airptimb_s",
+      "lat": "35.9402106"
+    },
+    "mlkbshad_s": {
+      "lon": "-79.0566401",
+      "title": "Martin Luther King Jr Blvd at Shadowood",
+      "shortTitle": "Martin Luther King Jr @ Shadowood",
+      "stopId": "3327",
+      "tag": "mlkbshad_s",
+      "lat": "35.9370708"
+    },
+    "mlkbymca_s": {
+      "lon": "-79.0559302",
+      "title": "Martin Luther King Jr Blvd at YMCA",
+      "shortTitle": "Martin Luther King Jr @ YMCA",
+      "stopId": "3445",
+      "tag": "mlkbymca_s",
+      "lat": "35.9335912"
+    },
+    "mlkbair": {
+      "lon": "-79.0557402",
+      "title": "Martin Luther King Jr Blvd at Airport Dr",
+      "shortTitle": "Martin Luther King Jr @ Airport Dr",
+      "stopId": "3444",
+      "tag": "mlkbair",
+      "lat": "35.9325416"
+    },
+    "mlkbbarc_s": {
+      "lon": "-79.0552206",
+      "title": "Martin Luther King Jr Blvd at Barclay",
+      "shortTitle": "Martin Luther King Jr @ Barclay",
+      "stopId": "3242",
+      "tag": "mlkbbarc_s",
+      "lat": "35.9307323"
+    },
+    "mlkbgard": {
+      "lon": "-79.0542795",
+      "title": "Martin Luther King Jr Blvd at Airport Gardens Apts",
+      "shortTitle": "Martin Luther King Jr @ Airport Gardens Apts",
+      "stopId": "3244",
+      "tag": "mlkbgard",
+      "lat": "35.9279287"
+    },
+    "hillmlkb_s": {
+      "lon": "-79.053264",
+      "title": "Hillsborough St at Martin Luther King Jr Blvd",
+      "shortTitle": "Hillsborough @ Martin Luther King Jr",
+      "stopId": "3247",
+      "tag": "hillmlkb_s",
+      "lat": "35.9248661"
+    },
+    "hillbroo": {
+      "lon": "-79.0518136",
+      "title": "Hillsborough St at Brookside Condos",
+      "shortTitle": "Hillsborough @ Brookside Condos",
+      "stopId": "3032",
+      "tag": "hillbroo",
+      "lat": "35.9234148"
+    },
+    "hilltown": {
+      "lon": "-79.051629",
+      "title": "Hillsborough St at Townhouse Apts",
+      "shortTitle": "Hillsborough @ Townhouse Apts",
+      "stopId": "3031",
+      "tag": "hilltown",
+      "lat": "35.9197373"
+    },
+    "hillnort": {
+      "lon": "-79.0505014",
+      "title": "Hillsborough St at North St",
+      "shortTitle": "Hillsborough @ North",
+      "stopId": "3107",
+      "tag": "hillnort",
+      "lat": "35.9177424"
+    },
+    "hillrose_s": {
+      "lon": "-79.0496505",
+      "title": "Hillsborough St at E Rosemary St",
+      "shortTitle": "Hillsborough @ E Rosemary",
+      "stopId": "3473",
+      "tag": "hillrose_s",
+      "lat": "35.9162209"
+    },
+    "ralespen": {
+      "lon": "-79.0487601",
+      "title": "Raleigh St at Spencer Hall",
+      "shortTitle": "Raleigh @ Spencer Hall",
+      "stopId": "3252",
+      "tag": "ralespen",
+      "lat": "35.9146902"
+    },
+    "ralemang": {
+      "lon": "-79.04745",
+      "title": "Raleigh St at Mangum Hall",
+      "shortTitle": "Raleigh @ Mangum Hall",
+      "stopId": "3029",
+      "tag": "ralemang",
+      "lat": "35.9123801"
+    },
+    "soutstud": {
+      "lon": "-79.0482772",
+      "title": "South Road at Student Stores",
+      "shortTitle": "South @ Student Stores",
+      "stopId": "3360",
+      "tag": "soutstud",
+      "lat": "35.909585"
+    },
+    "stadstad": {
+      "lon": "-79.0466337",
+      "title": "Stadium Dr at Stadium Gate #2",
+      "shortTitle": "Stadium Dr @ Stadium Gate #2",
+      "stopId": "3216",
+      "tag": "stadstad",
+      "lat": "35.9080514"
+    },
+    "stadridg": {
+      "lon": "-79.0447015",
+      "title": "Stadium Dr at Ridge Rd",
+      "shortTitle": "Stadium Dr @ Ridge",
+      "stopId": "3163",
+      "tag": "stadridg",
+      "lat": "35.906782"
+    },
+    "ridgrams": {
+      "lon": "-79.0454697",
+      "title": "Ridge Rd at Rams Head Center",
+      "shortTitle": "Ridge @ Rams Head Center",
+      "stopId": "3628",
+      "tag": "ridgrams",
+      "lat": "35.9053994"
+    },
+    "mannpubl": {
+      "lon": "-79.0468023",
+      "title": "Manning Dr at Public Safety",
+      "shortTitle": "Manning Dr @ Public Safety",
+      "stopId": "3234",
+      "tag": "mannpubl",
+      "lat": "35.9035892"
+    },
+    "mannhibb_w": {
+      "lon": "-79.0490024",
+      "title": "Manning Dr at Hibbard Dr",
+      "shortTitle": "Manning Dr @ Hibbard Dr",
+      "stopId": "3235",
+      "tag": "mannhibb_w",
+      "lat": "35.9030097"
+    },
+    "mannunch": {
+      "lon": "-79.0518599",
+      "title": "Manning Dr at UNC Hospitals",
+      "shortTitle": "Manning Dr @ UNC Hospitals",
+      "stopId": "3239",
+      "tag": "mannunch",
+      "lat": "35.9035599"
+    },
+    "coluheal": {
+      "lon": "-79.0534682",
+      "title": "S Columbia St at Health Sciences Library",
+      "shortTitle": "S Columbia @ Health Sciences Library",
+      "stopId": "3223",
+      "tag": "coluheal",
+      "lat": "35.9054121"
+    },
+    "colucarr": {
+      "lon": "-79.0527798",
+      "title": "S Columbia St at Carrington Hall",
+      "shortTitle": "S Columbia @ Carrington Hall",
+      "stopId": "3222",
+      "tag": "colucarr",
+      "lat": "35.9069413"
+    },
+    "scolsitt": {
+      "lon": "-79.0532555",
+      "title": "S Columbia St at ROTC",
+      "shortTitle": "S Columbia @ ROTC",
+      "stopId": "3437",
+      "tag": "scolsitt",
+      "lat": "35.9092785"
+    },
+    "scolaber": {
+      "lon": "-79.0546892",
+      "title": "S Columbia St at Abernethy Hall",
+      "shortTitle": "S Columbia @ Abernethy Hall",
+      "stopId": "3178",
+      "tag": "scolaber",
+      "lat": "35.911379"
+    },
+    "scolrose": {
+      "lon": "-79.0560395",
+      "title": "N Columbia St at Rosemary St",
+      "shortTitle": "N Columbia @ Rosemary",
+      "stopId": "3383",
+      "tag": "scolrose",
+      "lat": "35.9137492"
+    },
+    "roseprit": {
+      "lon": "-79.0578351",
+      "title": "W Rosemary St at Pritchard Ave",
+      "shortTitle": "W Rosemary @ Pritchard",
+      "stopId": "3560",
+      "tag": "roseprit",
+      "lat": "35.9135118"
+    },
+    "rosebrea": {
+      "lon": "-79.0604187",
+      "title": "W Rosemary St at Breadmans",
+      "shortTitle": "W Rosemary @ Breadmans",
+      "stopId": "3409",
+      "tag": "rosebrea",
+      "lat": "35.9125504"
+    },
+    "mitcrose": {
+      "lon": "-79.0623904",
+      "title": "Mitchell Ln at W Rosemary",
+      "shortTitle": "Mitchell Ln @ W Rosemary",
+      "stopId": "3410",
+      "tag": "mitcrose",
+      "lat": "35.9120265"
+    },
+    "mitclind": {
+      "lon": "-79.0626289",
+      "title": "Mitchell Ln at Lindsay St",
+      "shortTitle": "Mitchell Ln @ Lindsay",
+      "stopId": "3411",
+      "tag": "mitclind",
+      "lat": "35.9133164"
+    },
+    "mitcmcda": {
+      "lon": "-79.0631483",
+      "title": "Mitchell Ln at McDade St",
+      "shortTitle": "Mitchell Ln @ McDade",
+      "stopId": "3412",
+      "tag": "mitcmcda",
+      "lat": "35.9144967"
+    },
+    "mitccald": {
+      "lon": "-79.06405",
+      "title": "Mitchell Ln at Caldwell St",
+      "shortTitle": "Mitchell Ln @ Caldwell",
+      "stopId": "3413",
+      "tag": "mitccald",
+      "lat": "35.91585"
+    },
+    "caldhous": {
+      "lon": "-79.0629646",
+      "title": "Caldwell St at Housing Authority",
+      "shortTitle": "Caldwell @ Housing Authority",
+      "stopId": "3414",
+      "tag": "caldhous",
+      "lat": "35.916828"
+    },
+    "caldchur": {
+      "lon": "-79.0609696",
+      "title": "Caldwell St at Church St",
+      "shortTitle": "Caldwell @ Church",
+      "stopId": "3415",
+      "tag": "caldchur",
+      "lat": "35.9174301"
+    },
+    "caldcolu": {
+      "lon": "-79.0593525",
+      "title": "Caldwell St at N Columbia St",
+      "shortTitle": "Caldwell @ N Columbia",
+      "stopId": "3051",
+      "tag": "caldcolu",
+      "lat": "35.9180789"
+    },
+    "colyisle": {
+      "lon": "-79.0591664",
+      "title": "N Columbia St at Isley St",
+      "shortTitle": "N Columbia @ Isley",
+      "stopId": "3050",
+      "tag": "colyisle",
+      "lat": "35.9187145"
+    },
+    "colulong_n": {
+      "lon": "-79.0596587",
+      "title": "Columbia at Longview",
+      "shortTitle": "Columbia @ Longview",
+      "stopId": "4002",
+      "tag": "colulong_n",
+      "lat": "35.9196576"
+    },
+    "prittrin": {
+      "lon": "-79.0609308",
+      "title": "Pritchard Ave at Trinity Ct",
+      "shortTitle": "Pritchard @ Trinity Ct",
+      "stopId": "3033",
+      "tag": "prittrin",
+      "lat": "35.9198208"
+    },
+    "bradread_n": {
+      "lon": "-79.0576555",
+      "title": "Bradley Rd at Reade Rd",
+      "shortTitle": "Bradley @ Reade",
+      "stopId": "3608",
+      "tag": "bradread_n",
+      "lat": "35.9247863"
+    },
+    "bradwill_n": {
+      "lon": "-79.0579562",
+      "title": "Bradley Rd at Williams Circle",
+      "shortTitle": "Bradley @ Williams Circle",
+      "stopId": "3088",
+      "tag": "bradwill_n",
+      "lat": "35.9263579"
+    },
+    "barcwill": {
+      "lon": "-79.0583095",
+      "title": "Barclay Rd at Williams Circle",
+      "shortTitle": "Barclay @ Williams Circle",
+      "stopId": "3093",
+      "tag": "barcwill",
+      "lat": "35.92949"
+    },
+    "barcwyri": {
+      "lon": "-79.0600265",
+      "title": "Barclay Rd at Wyrick St",
+      "shortTitle": "Barclay @ Wyrick",
+      "stopId": "3328",
+      "tag": "barcwyri",
+      "lat": "35.9289276"
+    },
+    "barchart": {
+      "lon": "-79.0627267",
+      "title": "Barclay Rd at Hartig St",
+      "shortTitle": "Barclay @ Hartig",
+      "stopId": "3297",
+      "tag": "barchart",
+      "lat": "35.9280675"
+    },
+    "weinseve_d": {
+      "lon": "-79.06341",
+      "title": "Weiner St at Severin St",
+      "shortTitle": "Weiner @ Severin",
+      "stopId": "3096",
+      "tag": "weinseve_d",
+      "lat": "35.9267734"
+    },
+    "severi224": {
+      "lon": "-79.0612431",
+      "title": "Severin at #224",
+      "shortTitle": "Severin @ #224",
+      "stopId": "3455",
+      "tag": "severi224",
+      "lat": "35.927149"
+    },
+    "sevebard": {
+      "lon": "-79.0590983",
+      "title": "Severin St at Bradley Rd",
+      "shortTitle": "Severin @ Bradley",
+      "stopId": "3098",
+      "tag": "sevebard",
+      "lat": "35.9278623"
+    },
+    "bradwill_s": {
+      "lon": "-79.0580119",
+      "title": "Bradley Rd at Williams Circle",
+      "shortTitle": "Bradley @ Williams Circle",
+      "stopId": "3446",
+      "tag": "bradwill_s",
+      "lat": "35.9264429"
+    },
+    "bradread_s": {
+      "lon": "-79.0579142",
+      "title": "Bradley Rd at Reade Rd",
+      "shortTitle": "Bradley @ Reade",
+      "stopId": "3090",
+      "tag": "bradread_s",
+      "lat": "35.9249582"
+    },
+    "pritlong": {
+      "lon": "-79.0608544",
+      "title": "Pritchard Ave at Longview St",
+      "shortTitle": "Pritchard @ Longview",
+      "stopId": "3047",
+      "tag": "pritlong",
+      "lat": "35.9194816"
+    },
+    "colulong_s": {
+      "lon": "-79.0598449",
+      "title": "Columbia at Longview",
+      "shortTitle": "Columbia @ Longview",
+      "stopId": "4001",
+      "tag": "colulong_s",
+      "lat": "35.9195313"
+    },
+    "coluisle": {
+      "lon": "-79.0594119",
+      "title": "N Columbia St at Isley St",
+      "shortTitle": "N Columbia @ Isley",
+      "stopId": "3049",
+      "tag": "coluisle",
+      "lat": "35.9187933"
+    },
+    "colutown": {
+      "lon": "-79.0579528",
+      "title": "N Columbia St at Town Hall",
+      "shortTitle": "N Columbia @ Town Hall",
+      "stopId": "3052",
+      "tag": "colutown",
+      "lat": "35.9164645"
+    },
+    "colufank": {
+      "lon": "-79.0560417",
+      "title": "N Columbia St at W Franklin St",
+      "shortTitle": "N Columbia @ W Franklin",
+      "stopId": "3421",
+      "tag": "colufank",
+      "lat": "35.9134029"
+    },
+    "colufrat": {
+      "lon": "-79.0550299",
+      "title": "S Columbia St at Fraternity Court",
+      "shortTitle": "S Columbia @ Fraternity Court",
+      "stopId": "3179",
+      "tag": "colufrat",
+      "lat": "35.9117298"
+    },
+    "pittnewm": {
+      "lon": "-79.0548096",
+      "title": "Pittsboro St at Newman Ctr",
+      "shortTitle": "Pittsboro @ Newman Ctr",
+      "stopId": "3211",
+      "tag": "pittnewm",
+      "lat": "35.9089092"
+    },
+    "pittcred": {
+      "lon": "-79.0548701",
+      "title": "Pittsboro St at Credit Union",
+      "shortTitle": "Pittsboro @ Credit Union",
+      "stopId": "3226",
+      "tag": "pittcred",
+      "lat": "35.9068889"
+    },
+    "pittuniv": {
+      "lon": "-79.0551402",
+      "title": "Pittsboro St at University Dr",
+      "shortTitle": "Pittsboro @ University Dr",
+      "stopId": "3224",
+      "tag": "pittuniv",
+      "lat": "35.9052788"
+    },
+    "mannhosp": {
+      "lon": "-79.0512505",
+      "title": "Manning Dr at Hospital Parking Deck",
+      "shortTitle": "Manning Dr @ Hospital Parking Deck",
+      "stopId": "3238",
+      "tag": "mannhosp",
+      "lat": "35.9031601"
+    },
+    "mannhibb_e": {
+      "lon": "-79.049054",
+      "title": "Manning Dr at Hibbard Dr",
+      "shortTitle": "Manning Dr @ Hibbard Dr",
+      "stopId": "3236",
+      "tag": "mannhibb_e",
+      "lat": "35.9028397"
+    },
+    "manncrai": {
+      "lon": "-79.0464392",
+      "title": "Manning Dr at Craige Parking Deck",
+      "shortTitle": "Manning Dr @ Craige Parking Deck",
+      "stopId": "3233",
+      "tag": "manncrai",
+      "lat": "35.9035402"
+    },
+    "ridgehri": {
+      "lon": "-79.0442814",
+      "title": "Ridge Rd at Ehringhaus Hall - Departure",
+      "shortTitle": "Ridge @ Ehringhaus Hall - Departure",
+      "stopId": "3161",
+      "tag": "ridgehri",
+      "lat": "35.9038756"
+    },
+    "ridgstad": {
+      "lon": "-79.0448346",
+      "title": "Ridge Rd at Stadium",
+      "shortTitle": "Ridge @ Stadium",
+      "stopId": "3162",
+      "tag": "ridgstad",
+      "lat": "35.9061376"
+    },
+    "stadcarm": {
+      "lon": "-79.0464324",
+      "title": "Stadium Dr at Carmichael Hall",
+      "shortTitle": "Stadium Dr @ Carmichael Hall",
+      "stopId": "3217",
+      "tag": "stadcarm",
+      "lat": "35.9081172"
+    },
+    "soutfetz": {
+      "lon": "-79.0477237",
+      "title": "South Rd at Fetzer Gym",
+      "shortTitle": "South @ Fetzer Gym",
+      "stopId": "3359",
+      "tag": "soutfetz",
+      "lat": "35.9096484"
+    },
+    "raleconn": {
+      "lon": "-79.0466795",
+      "title": "Raleigh St at Connor Hall",
+      "shortTitle": "Raleigh @ Connor Hall",
+      "stopId": "3381",
+      "tag": "raleconn",
+      "lat": "35.9107449"
+    },
+    "raleilewi": {
+      "lon": "-79.0473874",
+      "title": "Raleigh St at Lewis Hall",
+      "shortTitle": "Raleigh @ Lewis Hall",
+      "stopId": "3028",
+      "tag": "raleilewi",
+      "lat": "35.9124853"
+    },
+    "raleialder": {
+      "lon": "-79.0483075",
+      "title": "Raleigh St at Alderman Hall",
+      "shortTitle": "Raleigh @ Alderman Hall",
+      "stopId": "3439",
+      "tag": "raleialder",
+      "lat": "35.9141755"
+    },
+    "hillrose_n": {
+      "lon": "-79.0498574",
+      "title": "Hillsborough St at E Rosemary St",
+      "shortTitle": "Hillsborough @ E Rosemary",
+      "stopId": "3108",
+      "tag": "hillrose_n",
+      "lat": "35.9169156"
+    },
+    "hilldelt": {
+      "lon": "-79.0514773",
+      "title": "Hillsborough St at Delta Zeta",
+      "shortTitle": "Hillsborough @ Delta Zeta",
+      "stopId": "3030",
+      "tag": "hilldelt",
+      "lat": "35.919794"
+    },
+    "hillboli": {
+      "lon": "-79.0516468",
+      "title": "Hillsborough St at Bolinwood Dr",
+      "shortTitle": "Hillsborough @ Bolinwood Dr",
+      "stopId": "3248",
+      "tag": "hillboli",
+      "lat": "35.9235849"
+    },
+    "hillmlkb_n": {
+      "lon": "-79.0536879",
+      "title": "Hillsborough St at Martin Luther King Jr Blvd",
+      "shortTitle": "Hillsborough @ Martin Luther King Jr",
+      "stopId": "3246",
+      "tag": "hillmlkb_n",
+      "lat": "35.9250697"
+    },
+    "mlkbboli": {
+      "lon": "-79.0540816",
+      "title": "Martin Luther King Jr Blvd at Bolinwood",
+      "shortTitle": "Martin Luther King Jr @ Bolinwood",
+      "stopId": "3245",
+      "tag": "mlkbboli",
+      "lat": "35.9280045"
+    },
+    "mlkbbarc_n": {
+      "lon": "-79.054891",
+      "title": "Martin Luther King Jr Blvd at Barclay",
+      "shortTitle": "Martin Luther King Jr @ Barclay",
+      "stopId": "3243",
+      "tag": "mlkbbarc_n",
+      "lat": "35.9302735"
+    },
+    "mlkbymca_n": {
+      "lon": "-79.0557204",
+      "title": "Martin Luther King Jr Blvd at YMCA",
+      "shortTitle": "Martin Luther King Jr @ YMCA",
+      "stopId": "3053",
+      "tag": "mlkbymca_n",
+      "lat": "35.933602"
+    },
+    "mlkbshad_n": {
+      "lon": "-79.0564207",
+      "title": "Martin Luther King Jr Blvd at Shadowood",
+      "shortTitle": "Martin Luther King Jr @ Shadowood",
+      "stopId": "3479",
+      "tag": "mlkbshad_n",
+      "lat": "35.937093"
+    },
+    "airptimb_n": {
+      "lon": "-79.0574307",
+      "title": "Martin Luther King Jr Blvd at Timber Hollow",
+      "shortTitle": "Martin Luther King Jr @ Timber Hollow",
+      "stopId": "3337",
+      "tag": "airptimb_n",
+      "lat": "35.941889"
+    },
+    "mlkbashl": {
+      "lon": "-79.0579306",
+      "title": "Martin Luther King Jr Blvd at Ashley Forest Dr",
+      "shortTitle": "Martin Luther King Jr @ Ashley Forest Dr",
+      "stopId": "3334",
+      "tag": "mlkbashl",
+      "lat": "35.944593"
+    },
+    "mlkbtayl_d": {
+      "lon": "-79.0581783",
+      "title": "Martin Luther King Jr Blvd at Taylor St (Citgo)",
+      "shortTitle": "Martin Luther King Jr @ Taylor (Citgo)",
+      "stopId": "3335",
+      "tag": "mlkbtayl_d",
+      "lat": "35.94595"
+    },
+    "homemlkb_n": {
+      "lon": "-79.0602446",
+      "title": "Homestead at Martin Luther King Jr Blvd",
+      "shortTitle": "Homestead @ Martin Luther King Jr",
+      "stopId": "3336",
+      "tag": "homemlkb_n",
+      "lat": "35.9503777"
+    },
+    "homeseym": {
+      "lon": "-79.0639921",
+      "title": "Homestead Rd. at Seymour Center",
+      "shortTitle": "Homestead @ Seymour Center",
+      "stopId": "3709",
+      "tag": "homeseym",
+      "lat": "35.9506545"
+    },
+    "oransoci": {
+      "lon": "-79.06492",
+      "title": "Orange County Social Services",
+      "stopId": "3329",
+      "tag": "oransoci",
+      "lat": "35.9488999"
+    },
+    "homesout": {
+      "lon": "-79.0641141",
+      "title": "Homestead Rd at Southern Human Services",
+      "shortTitle": "Homestead @ Southern Human Services",
+      "stopId": "3610",
+      "tag": "homesout",
+      "lat": "35.9513003"
+    },
+    "homemlkb_s": {
+      "lon": "-79.0590494",
+      "title": "Homestead at Martin Luther King Jr Blvd",
+      "shortTitle": "Homestead @ Martin Luther King Jr",
+      "stopId": "3336",
+      "tag": "homemlkb_s",
+      "lat": "35.9496198"
+    },
+    "masobait_d": {
+      "lon": "-79.0426299",
+      "title": "Mason Farm Rd at Baity Hill",
+      "shortTitle": "Mason Farm @ Baity Hill",
+      "stopId": "3713",
+      "tag": "masobait_d",
+      "lat": "35.897805"
+    },
+    "masootey": {
+      "lon": "-79.0459458",
+      "title": "Mason Farm Road at Oteys",
+      "shortTitle": "Mason Farm @ Oteys",
+      "stopId": "3720",
+      "tag": "masootey",
+      "lat": "35.8978639"
+    },
+    "eastjack": {
+      "lon": "-79.0507292",
+      "title": "East Dr at Jackson Circle",
+      "shortTitle": "East Dr @ Jackson Circle",
+      "stopId": "3237",
+      "tag": "eastjack",
+      "lat": "35.9018719"
+    },
+    "soutcoke": {
+      "lon": "-79.0514996",
+      "title": "South Rd at Coker Hall",
+      "shortTitle": "South @ Coker Hall",
+      "stopId": "3214",
+      "tag": "soutcoke",
+      "lat": "35.90861"
+    },
+    "soutwoll": {
+      "lon": "-79.045153",
+      "title": "South Rd at Woollen Gym",
+      "shortTitle": "South @ Woollen Gym",
+      "stopId": "3397",
+      "tag": "soutwoll",
+      "lat": "35.9101794"
+    },
+    "soutcoun_n": {
+      "lon": "-79.0425495",
+      "title": "South Rd at Country Club Rd",
+      "shortTitle": "South @ Country Club",
+      "stopId": "3430",
+      "tag": "soutcoun_n",
+      "lat": "35.9106501"
+    },
+    "chatpr": {
+      "lon": "-79.0846202",
+      "title": "Chatham County Park & Ride",
+      "stopId": "3629",
+      "tag": "chatpr",
+      "lat": "35.8538388"
+    },
+    "masoambu_n": {
+      "lon": "-79.0565699",
+      "title": "Mason Farm Rd at Ambulatory Care Center",
+      "shortTitle": "Mason Farm @ Ambulatory Care Center",
+      "stopId": "3221",
+      "tag": "masoambu_n",
+      "lat": "35.90243"
+    },
+    "scolheal": {
+      "lon": "-79.0534682",
+      "title": "S Columbia St at Health Sciences Library",
+      "shortTitle": "S Columbia @ Health Sciences Library",
+      "stopId": "3223",
+      "tag": "scolheal",
+      "lat": "35.9054121"
+    },
+    "scolcarr": {
+      "lon": "-79.0527798",
+      "title": "S Columbia St at Carrington Hall",
+      "shortTitle": "S Columbia @ Carrington Hall",
+      "stopId": "3222",
+      "tag": "scolcarr",
+      "lat": "35.9069413"
+    },
+    "soutcoun_e": {
+      "lon": "-79.0425533",
+      "title": "South Rd at Country Club Rd",
+      "shortTitle": "South @ Country Club",
+      "stopId": "3430",
+      "tag": "soutcoun_e",
+      "lat": "35.9106493"
+    },
+    "ridghall": {
+      "lon": "-79.0442802",
+      "title": "Ridge Rd at Ehringhaus Hall",
+      "shortTitle": "Ridge @ Ehringhaus Hall",
+      "stopId": "3161",
+      "tag": "ridghall",
+      "lat": "35.903879"
+    },
+    "soutcoun_w": {
+      "lon": "-79.0427959",
+      "title": "South Rd at Country Club Rd",
+      "shortTitle": "South @ Country Club",
+      "stopId": "3431",
+      "tag": "soutcoun_w",
+      "lat": "35.9108006"
+    },
+    "soutkena": {
+      "lon": "-79.0511184",
+      "title": "South Rd at Kenan Labs",
+      "shortTitle": "South @ Kenan Labs",
+      "stopId": "3215",
+      "tag": "soutkena",
+      "lat": "35.9087"
+    },
+    "scolwest": {
+      "lon": "-79.0575429",
+      "title": "S Columbia St at Westwood Dr",
+      "shortTitle": "S Columbia @ Westwood Dr",
+      "stopId": "3184",
+      "tag": "scolwest",
+      "lat": "35.9016206"
+    },
+    "mannunch_d": {
+      "lon": "-79.0518561",
+      "title": "Manning Dr at UNC Hospitals",
+      "shortTitle": "Manning Dr @ UNC Hospitals",
+      "stopId": "3239",
+      "tag": "mannunch_d",
+      "lat": "35.9035587"
+    },
+    "francoffe": {
+      "lon": "-79.05407",
+      "title": "E Franklin St at Coffee Shop",
+      "shortTitle": "E Franklin @ Coffee Shop",
+      "stopId": "3427",
+      "tag": "francoffe",
+      "lat": "35.9137"
+    },
+    "franplan_n": {
+      "lon": "-79.0509297",
+      "title": "E Franklin St at Planetarium",
+      "shortTitle": "E Franklin @ Planetarium",
+      "stopId": "3257",
+      "tag": "franplan_n",
+      "lat": "35.91493"
+    },
+    "franralei": {
+      "lon": "-79.0486095",
+      "title": "E Franklin St at Raleigh St",
+      "shortTitle": "E Franklin @ Raleigh",
+      "stopId": "3254",
+      "tag": "franralei",
+      "lat": "35.9158301"
+    },
+    "franboun_n": {
+      "lon": "-79.0461092",
+      "title": "E Franklin St at S Boundary St",
+      "shortTitle": "E Franklin @ S Boundary",
+      "stopId": "3255",
+      "tag": "franboun_n",
+      "lat": "35.9167702"
+    },
+    "franpark": {
+      "lon": "-79.0437467",
+      "title": "E Franklin St at Park Pl",
+      "shortTitle": "E Franklin @ Park Pl",
+      "stopId": "3250",
+      "tag": "franpark",
+      "lat": "35.9167999"
+    },
+    "franglen": {
+      "lon": "-79.0399968",
+      "title": "E Franklin St at Glendale Dr",
+      "shortTitle": "E Franklin @ Glendale Dr",
+      "stopId": "3269",
+      "tag": "franglen",
+      "lat": "35.9181015"
+    },
+    "franhowe_n": {
+      "lon": "-79.0386691",
+      "title": "E Franklin St at Howell Ln",
+      "shortTitle": "E Franklin @ Howell Ln",
+      "stopId": "3268",
+      "tag": "franhowe_n",
+      "lat": "35.9222868"
+    },
+    "franeliz_n": {
+      "lon": "-79.0382395",
+      "title": "E Franklin St at Elizabeth St",
+      "shortTitle": "E Franklin @ Elizabeth",
+      "stopId": "3266",
+      "tag": "franeliz_n",
+      "lat": "35.9240107"
+    },
+    "franplant": {
+      "lon": "-79.0357598",
+      "title": "E Franklin St at Plant Rd",
+      "shortTitle": "E Franklin @ Plant",
+      "stopId": "3264",
+      "tag": "franplant",
+      "lat": "35.9268101"
+    },
+    "franeste_n": {
+      "lon": "-79.03443",
+      "title": "E Franklin St at Estes Dr",
+      "shortTitle": "E Franklin @ Estes Dr",
+      "stopId": "3260",
+      "tag": "franeste_n",
+      "lat": "35.9288"
+    },
+    "fran1512": {
+      "lon": "-79.0330403",
+      "title": "E Franklin St at #1512",
+      "shortTitle": "E Franklin @ #1512",
+      "stopId": "3370",
+      "tag": "fran1512",
+      "lat": "35.9311696"
+    },
+    "fran1520": {
+      "lon": "-79.0318602",
+      "title": "E Franklin St at #1520",
+      "shortTitle": "E Franklin @ #1520",
+      "stopId": "3367",
+      "tag": "fran1520",
+      "lat": "35.9324097"
+    },
+    "franelli_n": {
+      "lon": "-79.02959",
+      "title": "E Franklin St at Elliott Rd",
+      "shortTitle": "E Franklin @ Elliott",
+      "stopId": "3365",
+      "tag": "franelli_n",
+      "lat": "35.9347299"
+    },
+    "franeast": {
+      "lon": "-79.0261665",
+      "title": "E Franklin St at Eastgate Shopping Center",
+      "shortTitle": "E Franklin @ Eastgate Shopping Center",
+      "stopId": "3453",
+      "tag": "franeast",
+      "lat": "35.9366922"
+    },
+    "eurduck": {
+      "lon": "-79.0179905",
+      "title": "Europa Dr at Duck Pond",
+      "shortTitle": "Europa Dr @ Duck Pond",
+      "stopId": "3127",
+      "tag": "eurduck",
+      "lat": "35.9401617"
+    },
+    "legibritt": {
+      "lon": "-79.0166985",
+      "title": "Legion Rd at Britthaven Shelter",
+      "shortTitle": "Legion @ Britthaven Shelter",
+      "stopId": "3101",
+      "tag": "legibritt",
+      "lat": "35.9396209"
+    },
+    "legi1718": {
+      "lon": "-79.0154185",
+      "title": "Legion Rd at #1718",
+      "shortTitle": "Legion @ #1718",
+      "stopId": "3593",
+      "tag": "legi1718",
+      "lat": "35.9404908"
+    },
+    "legifors": {
+      "lon": "-79.0135916",
+      "title": "Legion Rd at Forsyth Dr",
+      "shortTitle": "Legion @ Forsyth Dr",
+      "stopId": "3104",
+      "tag": "legifors",
+      "lat": "35.941529"
+    },
+    "stanstan_n": {
+      "lon": "-79.0098439",
+      "title": "Standish Dr at St Andrews Ln",
+      "shortTitle": "Standish Dr @ Andrews Ln",
+      "stopId": "3280",
+      "tag": "stanstan_n",
+      "lat": "35.9393904"
+    },
+    "standsirr": {
+      "lon": "-79.0074704",
+      "title": "Standish Dr at Sir Richards Ln",
+      "shortTitle": "Standish Dr @ Sir Richards Ln",
+      "stopId": "3124",
+      "tag": "standsirr",
+      "lat": "35.9418735"
+    },
+    "standurh_n": {
+      "lon": "-79.00744",
+      "title": "Standish Dr at Old Durham Rd",
+      "shortTitle": "Standish Dr @ Old Durham",
+      "stopId": "3278",
+      "tag": "standurh_n",
+      "lat": "35.94402"
+    },
+    "durhhard": {
+      "lon": "-79.011144",
+      "title": "Old Durham Rd at Hardees",
+      "shortTitle": "Old Durham @ Hardees",
+      "stopId": "3276",
+      "tag": "durhhard",
+      "lat": "35.9443"
+    },
+    "sagelowe_n": {
+      "lon": "-79.0135916",
+      "title": "Sage Rd at Lowes-Borders",
+      "shortTitle": "Sage @ Lowes-Borders",
+      "stopId": "3288",
+      "tag": "sagelowe_n",
+      "lat": "35.946582"
+    },
+    "colewald": {
+      "lon": "-79.01502",
+      "title": "Coleridge Rd at Walden at Greenfield",
+      "shortTitle": "Coleridge @ Walden @ Greenfield",
+      "stopId": "3286",
+      "tag": "colewald",
+      "lat": "35.94723"
+    },
+    "prescole": {
+      "lon": "-79.016391",
+      "title": "Coleridge Rd at Presque Isle",
+      "shortTitle": "Coleridge @ Presque Isle",
+      "stopId": "3282",
+      "tag": "prescole",
+      "lat": "35.9493839"
+    },
+    "sageerwi_s": {
+      "lon": "-79.01601",
+      "title": "Sage Rd at Erwin Rd",
+      "shortTitle": "Sage @ Erwin",
+      "stopId": "3284",
+      "tag": "sageerwi_s",
+      "lat": "35.95113"
+    },
+    "erwiweav_s": {
+      "lon": "-79.019799",
+      "title": "Erwin Rd at Weaver Dairy Rd",
+      "shortTitle": "Erwin @ Weaver Dairy",
+      "stopId": "3111",
+      "tag": "erwiweav_s",
+      "lat": "35.9488208"
+    },
+    "oxfokirk_s": {
+      "lon": "-79.0209916",
+      "title": "Old Oxford Rd at Kirkwood",
+      "shortTitle": "Old Oxford @ Kirkwood",
+      "stopId": "3468",
+      "tag": "oxfokirk_s",
+      "lat": "35.94666"
+    },
+    "oxfobook_s": {
+      "lon": "-79.0236691",
+      "title": "Old Oxford Rd at Booker Creek Rd",
+      "shortTitle": "Old Oxford @ Booker Creek",
+      "stopId": "3462",
+      "tag": "oxfobook_s",
+      "lat": "35.9457506"
+    },
+    "summgrist_s": {
+      "lon": "-79.0253342",
+      "title": "Summerfield Crossing at Grist Mill Ln",
+      "shortTitle": "Summerfield Crossing @ Grist Mill Ln",
+      "stopId": "3001",
+      "tag": "summgrist_s",
+      "lat": "35.9436485"
+    },
+    "summberry": {
+      "lon": "-79.0221522",
+      "title": "Summerfield Crossing at Berry Patch",
+      "shortTitle": "Summerfield Crossing @ Berry Patch",
+      "stopId": "3116",
+      "tag": "summberry",
+      "lat": "35.9436424"
+    },
+    "summbeav": {
+      "lon": "-79.0212626",
+      "title": "Summerfield Crossing at Beaver Dam C",
+      "shortTitle": "Summerfield Crossing @ Beaver Dam C",
+      "stopId": "3117",
+      "tag": "summbeav",
+      "lat": "35.9415315"
+    },
+    "dobbfoxc": {
+      "lon": "-79.02202",
+      "title": "Dobbins Dr at Foxcroft",
+      "shortTitle": "Dobbins Dr @ Foxcroft",
+      "stopId": "3120",
+      "tag": "dobbfoxc",
+      "lat": "35.94081"
+    },
+    "dobbfrank": {
+      "lon": "-79.0245604",
+      "title": "Dobbins Dr at Franklin Square",
+      "shortTitle": "Dobbins Dr @ Franklin Square",
+      "stopId": "3121",
+      "tag": "dobbfrank",
+      "lat": "35.9386793"
+    },
+    "dobbsumm": {
+      "lon": "-79.0208255",
+      "title": "Dobbins Dr at Summerfield Crossing",
+      "shortTitle": "Dobbins Dr @ Summerfield Crossing",
+      "stopId": "3118",
+      "tag": "dobbsumm",
+      "lat": "35.9415329"
+    },
+    "summmoss": {
+      "lon": "-79.0220838",
+      "title": "Summerfield Crossing at Mossbark Ln",
+      "shortTitle": "Summerfield Crossing @ Mossbark Ln",
+      "stopId": "3469",
+      "tag": "summmoss",
+      "lat": "35.9437836"
+    },
+    "summgrist_n": {
+      "lon": "-79.0254103",
+      "title": "Summerfield Crossing at Grist Mill Ln",
+      "shortTitle": "Summerfield Crossing @ Grist Mill Ln",
+      "stopId": "3115",
+      "tag": "summgrist_n",
+      "lat": "35.9437699"
+    },
+    "oxfobook_n": {
+      "lon": "-79.0235899",
+      "title": "Old Oxford Rd E at Booker Creek Rd",
+      "shortTitle": "Old Oxford E @ Booker Creek",
+      "stopId": "3463",
+      "tag": "oxfobook_n",
+      "lat": "35.94565"
+    },
+    "oxfokirk_n": {
+      "lon": "-79.0205984",
+      "title": "Old Oxford Rd E at Kirkwood",
+      "shortTitle": "Old Oxford E @ Kirkwood",
+      "stopId": "3112",
+      "tag": "oxfokirk_n",
+      "lat": "35.9465499"
+    },
+    "erwiweav_n": {
+      "lon": "-79.0195416",
+      "title": "Erwin Rd at Weaver Dairy Rd",
+      "shortTitle": "Erwin @ Weaver Dairy",
+      "stopId": "3282",
+      "tag": "erwiweav_n",
+      "lat": "35.9488586"
+    },
+    "sageerwi_n": {
+      "lon": "-79.0162489",
+      "title": "Sage Rd at Erwin Rd",
+      "shortTitle": "Sage @ Erwin",
+      "stopId": "3283",
+      "tag": "sageerwi_n",
+      "lat": "35.9511379"
+    },
+    "colepres": {
+      "lon": "-79.01644",
+      "title": "Coleridge Rd at Presque Isle",
+      "shortTitle": "Coleridge @ Presque Isle",
+      "stopId": "3285",
+      "tag": "colepres",
+      "lat": "35.94943"
+    },
+    "colewald_d": {
+      "lon": "-79.0150532",
+      "title": "Coleridge Rd at Walden at Greenfield",
+      "shortTitle": "Coleridge @ Walden @ Greenfield",
+      "stopId": "3286",
+      "tag": "colewald_d",
+      "lat": "35.94719"
+    },
+    "sagelowe_s": {
+      "lon": "-79.0132809",
+      "title": "Sage Rd at Dobbins Dr",
+      "shortTitle": "Sage @ Dobbins Dr",
+      "stopId": "3126",
+      "tag": "sagelowe_s",
+      "lat": "35.9457122"
+    },
+    "durhhear": {
+      "lon": "-79.011594",
+      "title": "Old Durham Rd at Heard Family Mkt",
+      "shortTitle": "Old Durham @ Heard Family Mkt",
+      "stopId": "3275",
+      "tag": "durhhear",
+      "lat": "35.94421"
+    },
+    "durhcoop": {
+      "lon": "-79.0084095",
+      "title": "Old Durham Rd at Cooper St",
+      "shortTitle": "Old Durham @ Cooper",
+      "stopId": "3555",
+      "tag": "durhcoop",
+      "lat": "35.9441599"
+    },
+    "standurh_s": {
+      "lon": "-79.0075899",
+      "title": "Standish Dr at Old Durham Rd",
+      "shortTitle": "Standish Dr @ Old Durham",
+      "stopId": "3277",
+      "tag": "standurh_s",
+      "lat": "35.9438706"
+    },
+    "stansirr": {
+      "lon": "-79.0076202",
+      "title": "Standish Dr at Sir Richard Ln",
+      "shortTitle": "Standish Dr @ Sir Richard Ln",
+      "stopId": "3279",
+      "tag": "stansirr",
+      "lat": "35.941812"
+    },
+    "stanstan_s": {
+      "lon": "-79.00991",
+      "title": "Standish Dr at St Andrews Ln",
+      "shortTitle": "Standish Dr @ Andrews Ln",
+      "stopId": "3281",
+      "tag": "stanstan_s",
+      "lat": "35.9394907"
+    },
+    "legiceme": {
+      "lon": "-79.0135211",
+      "title": "Legion Rd at Cemetery",
+      "shortTitle": "Legion @ Cemetery",
+      "stopId": "3125",
+      "tag": "legiceme",
+      "lat": "35.9416893"
+    },
+    "legiwood": {
+      "lon": "-79.0157221",
+      "title": "Legion Rd at Wooded Area (#1719)",
+      "shortTitle": "Legion @ Wooded Area (#1719)",
+      "stopId": "3103",
+      "tag": "legiwood",
+      "lat": "35.9403985"
+    },
+    "eurhote": {
+      "lon": "-79.0180398",
+      "title": "Europa Dr at Hotel",
+      "shortTitle": "Europa Dr @ Hotel",
+      "stopId": "3110",
+      "tag": "eurhote",
+      "lat": "35.9410077"
+    },
+    "franbook": {
+      "lon": "-79.0263499",
+      "title": "E Franklin St at Booker Ck Greenway",
+      "shortTitle": "E Franklin @ Booker Ck Greenway",
+      "stopId": "3273",
+      "tag": "franbook",
+      "lat": "35.93683"
+    },
+    "franelli_s": {
+      "lon": "-79.0298525",
+      "title": "E Franklin St at Elliott Rd",
+      "shortTitle": "E Franklin @ Elliott",
+      "stopId": "3366",
+      "tag": "franelli_s",
+      "lat": "35.9347473"
+    },
+    "franfran": {
+      "lon": "-79.0321902",
+      "title": "E Franklin St at Franklin Woods",
+      "shortTitle": "E Franklin @ Franklin Woods",
+      "stopId": "3368",
+      "tag": "franfran",
+      "lat": "35.9323497"
+    },
+    "franetna": {
+      "lon": "-79.0330402",
+      "title": "E Franklin St at Library Trail",
+      "shortTitle": "E Franklin @ Library Trail",
+      "stopId": "3369",
+      "tag": "franetna",
+      "lat": "35.9314596"
+    },
+    "franveth": {
+      "lon": "-79.0360097",
+      "title": "E Franklin St at Vet Hospital",
+      "shortTitle": "E Franklin @ Vet Hospital",
+      "stopId": "3263",
+      "tag": "franveth",
+      "lat": "35.9267802"
+    },
+    "franeste_s": {
+      "lon": "-79.03466",
+      "title": "E Franklin St at Estes Dr",
+      "shortTitle": "E Franklin @ Estes Dr",
+      "stopId": "3259",
+      "tag": "franeste_s",
+      "lat": "35.92871"
+    },
+    "franeliz_s": {
+      "lon": "-79.0383796",
+      "title": "E Franklin St at Elizabeth St",
+      "shortTitle": "E Franklin @ Elizabeth",
+      "stopId": "3265",
+      "tag": "franeliz_s",
+      "lat": "35.9242205"
+    },
+    "franhowe_s": {
+      "lon": "-79.03888",
+      "title": "E Franklin St at Howell Ln",
+      "shortTitle": "E Franklin @ Howell Ln",
+      "stopId": "3267",
+      "tag": "franhowe_s",
+      "lat": "35.9225264"
+    },
+    "francaro": {
+      "lon": "-79.0402195",
+      "title": "E Franklin St at Carolina Ave",
+      "shortTitle": "E Franklin @ Carolina",
+      "stopId": "3251",
+      "tag": "francaro",
+      "lat": "35.9182103"
+    },
+    "franboun_s": {
+      "lon": "-79.0467931",
+      "title": "E Franklin St at N Boundary St",
+      "shortTitle": "E Franklin @ N Boundary",
+      "stopId": "3256",
+      "tag": "franboun_s",
+      "lat": "35.9166887"
+    },
+    "franhill": {
+      "lon": "-79.0490394",
+      "title": "E Franklin St at Hillsborough St",
+      "shortTitle": "E Franklin @ Hillsborough",
+      "stopId": "3253",
+      "tag": "franhill",
+      "lat": "35.9158301"
+    },
+    "franplan_s": {
+      "lon": "-79.0508205",
+      "title": "E Franklin St at Planetarium",
+      "shortTitle": "E Franklin @ Planetarium",
+      "stopId": "3258",
+      "tag": "franplan_s",
+      "lat": "35.9151497"
+    },
+    "franhend": {
+      "lon": "-79.0527808",
+      "title": "E Franklin St at Henderson St",
+      "shortTitle": "E Franklin @ Henderson",
+      "stopId": "3447",
+      "tag": "franhend",
+      "lat": "35.9143996"
+    },
+    "franvars": {
+      "lon": "-79.054859",
+      "title": "E Franklin St at Varsity Theatre",
+      "shortTitle": "E Franklin @ Varsity Theatre",
+      "stopId": "3428",
+      "tag": "franvars",
+      "lat": "35.9135803"
+    },
+    "masoodum": {
+      "lon": "-79.0522805",
+      "title": "Mason Farm Rd at Odum Village",
+      "shortTitle": "Mason Farm @ Odum Village",
+      "stopId": "3436",
+      "tag": "masoodum",
+      "lat": "35.9015603"
+    },
+    "jonespr_d": {
+      "lon": "-79.0902926",
+      "title": "Jones Ferry Park and Ride",
+      "shortTitle": "Jones Ferry Park & Ride",
+      "stopId": "3138",
+      "tag": "jonespr_d",
+      "lat": "35.9014819"
+    },
+    "ofaypopl": {
+      "lon": "-79.0909295",
+      "title": "Old Fayetteville Rd at Poplar Place",
+      "shortTitle": "Old Fayetteville @ Poplar Place",
+      "stopId": "3139",
+      "tag": "ofaypopl",
+      "lat": "35.9031884"
+    },
+    "autoldf_n": {
+      "lon": "-79.0916497",
+      "title": "Old Fayetteville Rd at Autumn Woods",
+      "shortTitle": "Old Fayetteville @ Autumn Woods",
+      "stopId": "3404",
+      "tag": "autoldf_n",
+      "lat": "35.9055988"
+    },
+    "oldfaut_n": {
+      "lon": "-79.0921597",
+      "title": "Old Fayetteville Rd at Autumn Woods",
+      "shortTitle": "Old Fayetteville @ Autumn Woods",
+      "stopId": "3137",
+      "tag": "oldfaut_n",
+      "lat": "35.907289"
+    },
+    "oldframg_n": {
+      "lon": "-79.0933797",
+      "title": "Old Fayetteville Rd at Ramsgate Apt",
+      "shortTitle": "Old Fayetteville @ Ramsgate Apt",
+      "stopId": "3595",
+      "tag": "oldframg_n",
+      "lat": "35.9106593"
+    },
+    "popldomi_n": {
+      "lon": "-79.092881",
+      "title": "W Poplar Av at Dominon Ramsgate",
+      "shortTitle": "W Poplar @ Dominon Ramsgate",
+      "stopId": "3589",
+      "tag": "popldomi_n",
+      "lat": "35.9123499"
+    },
+    "nc54domi": {
+      "lon": "-79.09177",
+      "title": "NC 54 East at The Crest",
+      "shortTitle": "NC 54 East @ The Crest",
+      "stopId": "3488",
+      "tag": "nc54domi",
+      "lat": "35.91221"
+    },
+    "nc54harr": {
+      "lon": "-79.0902886",
+      "title": "NC 54 at Harris Inc (Fenway Park)",
+      "shortTitle": "NC 54 @ Harris Inc (Fenway Park)",
+      "stopId": "3592",
+      "tag": "nc54harr",
+      "lat": "35.9093485"
+    },
+    "nc54west": {
+      "lon": "-79.081252",
+      "title": "NC 54 East at Westbrook Dr",
+      "shortTitle": "NC 54 East @ Westbrook Dr",
+      "stopId": "3458",
+      "tag": "nc54west",
+      "lat": "35.9032093"
+    },
+    "nc54cante": {
+      "lon": "-79.0769153",
+      "title": "NC 54 East at Canterbury Apts",
+      "shortTitle": "NC 54 East @ Canterbury Apts",
+      "stopId": "3457",
+      "tag": "nc54cante",
+      "lat": "35.9023783"
+    },
+    "merrmanl_e": {
+      "lon": "-79.0680088",
+      "title": "Merritt Mill Rd at Manley Estates",
+      "shortTitle": "Merritt Mill @ Manley Estates",
+      "stopId": "3087",
+      "tag": "merrmanl_e",
+      "lat": "35.9019006"
+    },
+    "merrlinc_e": {
+      "lon": "-79.0668008",
+      "title": "Merritt Mill Rd at Lincoln Center",
+      "shortTitle": "Merritt Mill @ Lincoln Center",
+      "stopId": "3157",
+      "tag": "merrlinc_e",
+      "lat": "35.9028494"
+    },
+    "merrlocu_e": {
+      "lon": "-79.0640205",
+      "title": "Merritt Mill Rd at Locust Ct",
+      "shortTitle": "Merritt Mill @ Locust Ct",
+      "stopId": "3181",
+      "tag": "merrlocu_e",
+      "lat": "35.9054986"
+    },
+    "camerobe_e": {
+      "lon": "-79.0620209",
+      "title": "Cameron Av at S Roberson St",
+      "shortTitle": "Cameron @ S Roberson",
+      "stopId": "3203",
+      "tag": "camerobe_e",
+      "lat": "35.9077496"
+    },
+    "camecame": {
+      "lon": "-79.0603698",
+      "title": "Cameron Av at Cameron Glen",
+      "shortTitle": "Cameron @ Cameron Glen",
+      "stopId": "3206",
+      "tag": "camecame",
+      "lat": "35.90835"
+    },
+    "camewils": {
+      "lon": "-79.0570106",
+      "title": "Cameron Av at Wilson St",
+      "shortTitle": "Cameron @ Wilson",
+      "stopId": "3208",
+      "tag": "camewils",
+      "lat": "35.9096097"
+    },
+    "camepitt": {
+      "lon": "-79.0557095",
+      "title": "Cameron Av at Pittsboro St",
+      "shortTitle": "Cameron @ Pittsboro",
+      "stopId": "3210",
+      "tag": "camepitt",
+      "lat": "35.9101102"
+    },
+    "bowlcrai": {
+      "lon": "-79.0444003",
+      "title": "Bowles Dr at Craige Dorm",
+      "shortTitle": "Bowles Dr @ Craige Dorm",
+      "stopId": "3160",
+      "tag": "bowlcrai",
+      "lat": "35.9030116"
+    },
+    "bowlkena": {
+      "lon": "-79.0440902",
+      "title": "Bowles Dr at Kenan-Flagler Lot",
+      "shortTitle": "Bowles Dr @ Kenan-Flagler Lot",
+      "stopId": "3225",
+      "tag": "bowlkena",
+      "lat": "35.9016807"
+    },
+    "bowlsmit_e": {
+      "lon": "-79.0431685",
+      "title": "Bowles Dr at Smith Center",
+      "shortTitle": "Bowles Dr @ Smith Center",
+      "stopId": "3228",
+      "tag": "bowlsmit_e",
+      "lat": "35.9001814"
+    },
+    "fparfami_d": {
+      "lon": "-79.03824",
+      "title": "F Parking Lot at Family Practice Bld",
+      "shortTitle": "F Parking Lot @ Family Practice Bld",
+      "stopId": "3232",
+      "tag": "fparfami_d",
+      "lat": "35.8993699"
+    },
+    "fparmidd": {
+      "lon": "-79.039018",
+      "title": "F Parking Lot at Middle of Lot",
+      "shortTitle": "F Parking Lot @ Middle of Lot",
+      "stopId": "3231",
+      "tag": "fparmidd",
+      "lat": "35.9002385"
+    },
+    "bowlflotd_w": {
+      "lon": "-79.0408358",
+      "title": "Bowles Dr at F Lot Driveway",
+      "shortTitle": "Bowles Dr @ F Lot Driveway",
+      "stopId": "3230",
+      "tag": "bowlflotd_w",
+      "lat": "35.9004616"
+    },
+    "bowlsmit_w": {
+      "lon": "-79.0431212",
+      "title": "Bowles Dr at Smith Center",
+      "shortTitle": "Bowles Dr @ Smith Center",
+      "stopId": "3464",
+      "tag": "bowlsmit_w",
+      "lat": "35.9003601"
+    },
+    "bowlhint": {
+      "lon": "-79.04392",
+      "title": "Bowles Dr at Hinton James Tennis Courts",
+      "shortTitle": "Bowles Dr @ Hinton James Tennis Courts",
+      "stopId": "3227",
+      "tag": "bowlhint",
+      "lat": "35.9016878"
+    },
+    "camegran": {
+      "lon": "-79.0569016",
+      "title": "Cameron Av at Granville Towers",
+      "shortTitle": "Cameron @ Granville Towers",
+      "stopId": "3209",
+      "tag": "camegran",
+      "lat": "35.9098368"
+    },
+    "camekena": {
+      "lon": "-79.0598283",
+      "title": "Cameron Av at Kenan St",
+      "shortTitle": "Cameron @ Kenan",
+      "stopId": "3207",
+      "tag": "camekena",
+      "lat": "35.9087343"
+    },
+    "camerobe_w": {
+      "lon": "-79.0615513",
+      "title": "Cameron Av at S Roberson St",
+      "shortTitle": "Cameron @ S Roberson",
+      "stopId": "3205",
+      "tag": "camerobe_w",
+      "lat": "35.9081166"
+    },
+    "camerail": {
+      "lon": "-79.0633299",
+      "title": "Cameron Av at Railroad Tracks",
+      "shortTitle": "Cameron @ Railroad Tracks",
+      "stopId": "3204",
+      "tag": "camerail",
+      "lat": "35.90744"
+    },
+    "merrlocu_w": {
+      "lon": "-79.0644194",
+      "title": "Merritt Mill Rd at Locust Ct",
+      "shortTitle": "Merritt Mill @ Locust Ct",
+      "stopId": "3570",
+      "tag": "merrlocu_w",
+      "lat": "35.9050514"
+    },
+    "merrlinc_w": {
+      "lon": "-79.0668679",
+      "title": "Merritt Mill Rd at Lincoln Center",
+      "shortTitle": "Merritt Mill @ Lincoln Center",
+      "stopId": "3585",
+      "tag": "merrlinc_w",
+      "lat": "35.9030511"
+    },
+    "merrmanl_w": {
+      "lon": "-79.0682917",
+      "title": "Merritt Mill Rd at Manley Estates",
+      "shortTitle": "Merritt Mill @ Manley Estates",
+      "stopId": "3586",
+      "tag": "merrmanl_w",
+      "lat": "35.9019392"
+    },
+    "merrrobe": {
+      "lon": "-79.0723205",
+      "title": "Merritt Mill Rd at Roberts St",
+      "shortTitle": "Merritt Mill @ Roberts",
+      "stopId": "3146",
+      "tag": "merrrobe",
+      "lat": "35.9013601"
+    },
+    "nc54roya": {
+      "lon": "-79.0779678",
+      "title": "NC 54 West at Royal Park",
+      "shortTitle": "NC 54 West @ Royal Park",
+      "stopId": "3465",
+      "tag": "nc54roya",
+      "lat": "35.9029495"
+    },
+    "nc54caro": {
+      "lon": "-79.0821197",
+      "title": "NC 54 West at Carolina Apartments",
+      "shortTitle": "NC 54 West @ Carolina Apartments",
+      "stopId": "3143",
+      "tag": "nc54caro",
+      "lat": "35.9034799"
+    },
+    "jonewill_w": {
+      "lon": "-79.0890599",
+      "title": "Jones Ferry Rd at Willow Creek Professional Center",
+      "shortTitle": "Jones Ferry @ Willow Creek Professional Center",
+      "stopId": "3140",
+      "tag": "jonewill_w",
+      "lat": "35.90497"
+    },
+    "nc54jone": {
+      "lon": "-79.0863298",
+      "title": "NC 54 Ramp at Jones Ferry Rd",
+      "shortTitle": "NC 54 Ramp @ Jones Ferry",
+      "stopId": "3591",
+      "tag": "nc54jone",
+      "lat": "35.9065898"
+    },
+    "nc54olea": {
+      "lon": "-79.0903703",
+      "title": "NC 54 at Oleander Rd",
+      "shortTitle": "NC 54 @ Oleander",
+      "stopId": "3598",
+      "tag": "nc54olea",
+      "lat": "35.9100205"
+    },
+    "poplcaro": {
+      "lon": "-79.09293",
+      "title": "W Poplar Av at Carolina Springs",
+      "shortTitle": "W Poplar @ Carolina Springs",
+      "stopId": "3651",
+      "tag": "poplcaro",
+      "lat": "35.91246"
+    },
+    "ofaypopl_w": {
+      "lon": "-79.0910611",
+      "title": "Old Fayetteville Rd at Poplar Place",
+      "shortTitle": "Old Fayetteville @ Poplar Place",
+      "stopId": "3572",
+      "tag": "ofaypopl_w",
+      "lat": "35.9029839"
+    },
+    "carrpark_d": {
+      "lon": "-79.09684",
+      "title": "Carrboro Plaza Park Ride Lot",
+      "stopId": "3134",
+      "tag": "carrpark_d",
+      "lat": "35.91597"
+    },
+    "oldfnc54": {
+      "lon": "-79.09867",
+      "title": "Old Fayetteville Rd at NC 54 (SECU)",
+      "shortTitle": "Old Fayetteville @ NC 54 (SECU)",
+      "stopId": "3132",
+      "tag": "oldfnc54",
+      "lat": "35.9186201"
+    },
+    "nc54carr": {
+      "lon": "-79.0935998",
+      "title": "NC 54 East at Carrboro Plaza (ABC St)",
+      "shortTitle": "NC 54 East @ Carrboro Plaza (ABC St)",
+      "stopId": "3131",
+      "tag": "nc54carr",
+      "lat": "35.9165796"
+    },
+    "nc54berk": {
+      "lon": "-79.0929787",
+      "title": "NC 54 East at Berkshire Manor West",
+      "shortTitle": "NC 54 East @ Berkshire Manor West",
+      "stopId": "3130",
+      "tag": "nc54berk",
+      "lat": "35.914997"
+    },
+    "scolmaso": {
+      "lon": "-79.05656",
+      "title": "S Columbia St at Mason Farm Rd",
+      "shortTitle": "S Columbia @ Mason Farm",
+      "stopId": "3219",
+      "tag": "scolmaso",
+      "lat": "35.9024099"
+    },
+    "jonewilshp": {
+      "lon": "-79.0878049",
+      "title": "Jones Ferry Rd at Willow Creek Shopping Center",
+      "shortTitle": "Jones Ferry @ Willow Creek Shopping Center",
+      "stopId": "3141",
+      "tag": "jonewilshp",
+      "lat": "35.9054173"
+    },
+    "jonewill": {
+      "lon": "-79.0890593",
+      "title": "Jones Ferry Rd at Willow Creek Prof",
+      "shortTitle": "Jones Ferry @ Willow Creek Prof",
+      "stopId": "3140",
+      "tag": "jonewill",
+      "lat": "35.9049702"
+    },
+    "autoldf": {
+      "lon": "-79.09165",
+      "title": "Old Fayetteville Rd at Autumn Woods",
+      "shortTitle": "Old Fayetteville @ Autumn Woods",
+      "stopId": "3404",
+      "tag": "autoldf",
+      "lat": "35.9056"
+    },
+    "oldfaut": {
+      "lon": "-79.09216",
+      "title": "Old Fayetteville Rd at Autumn Woods",
+      "shortTitle": "Old Fayetteville @ Autumn Woods",
+      "stopId": "3137",
+      "tag": "oldfaut",
+      "lat": "35.9072901"
+    },
+    "oldframg": {
+      "lon": "-79.0933801",
+      "title": "Old Fayetteville Rd at  Ramsgate Apt",
+      "shortTitle": "Old Fayetteville @  Ramsgate Apt",
+      "stopId": "3595",
+      "tag": "oldframg",
+      "lat": "35.9106604"
+    },
+    "oldfwpop": {
+      "lon": "-79.0941403",
+      "title": "Old Fayetteville Rd at W Poplar Ave",
+      "shortTitle": "Old Fayetteville @ W Poplar",
+      "stopId": "3136",
+      "tag": "oldfwpop",
+      "lat": "35.9124004"
+    },
+    "oldfberk": {
+      "lon": "-79.0957805",
+      "title": "Old Fayetteville at Berkshire Manor W",
+      "shortTitle": "Old Fayetteville @ Berkshire Manor W",
+      "stopId": "3135",
+      "tag": "oldfberk",
+      "lat": "35.9144608"
+    },
+    "jonester": {
+      "lon": "-79.0875218",
+      "title": "Jones Ferry Rd at Sterling Brook Apt",
+      "shortTitle": "Jones Ferry @ Sterling Brook Apt",
+      "stopId": "3142",
+      "tag": "jonester",
+      "lat": "35.9053093"
+    },
+    "jonealab": {
+      "lon": "-79.0844244",
+      "title": "Jones Ferry Rd at Alabama Ave",
+      "shortTitle": "Jones Ferry @ Alabama",
+      "stopId": "3631",
+      "tag": "jonealab",
+      "lat": "35.906392"
+    },
+    "davijone_o": {
+      "lon": "-79.0834902",
+      "title": "Davie Rd at Jones Ferry Rd (BP Station)",
+      "shortTitle": "Davie @ Jones Ferry (BP Station)",
+      "stopId": "3490",
+      "tag": "davijone_o",
+      "lat": "35.9071111"
+    },
+    "davibert_o": {
+      "lon": "-79.08398",
+      "title": "Davie Rd at Bert St",
+      "shortTitle": "Davie @ Bert",
+      "stopId": "3494",
+      "tag": "davibert_o",
+      "lat": "35.90952"
+    },
+    "davifide_o": {
+      "lon": "-79.0843103",
+      "title": "Davie Rd at Fidelity Ct",
+      "shortTitle": "Davie @ Fidelity Ct",
+      "stopId": "3496",
+      "tag": "davifide_o",
+      "lat": "35.9112517"
+    },
+    "davipopl_e": {
+      "lon": "-79.0845693",
+      "title": "Davie Rd at W Poplar Av",
+      "shortTitle": "Davie @ W Poplar",
+      "stopId": "3500",
+      "tag": "davipopl_e",
+      "lat": "35.9126869"
+    },
+    "poplrave_o": {
+      "lon": "-79.0863473",
+      "title": "W Poplar Av at Raven Ln",
+      "shortTitle": "W Poplar @ Raven Ln",
+      "stopId": "3601",
+      "tag": "poplrave_o",
+      "lat": "35.91281"
+    },
+    "popllila_o": {
+      "lon": "-79.0887311",
+      "title": "W Poplar Av at Lilac Dr",
+      "shortTitle": "W Poplar @ Lilac Dr",
+      "stopId": "3511",
+      "tag": "popllila_o",
+      "lat": "35.9129801"
+    },
+    "poplnc54_o": {
+      "lon": "-79.0914482",
+      "title": "W Poplar Av at NC 54",
+      "shortTitle": "W Poplar @ NC 54",
+      "stopId": "3486",
+      "tag": "poplnc54_o",
+      "lat": "35.912899"
+    },
+    "nc54popl": {
+      "lon": "-79.0918485",
+      "title": "NC 54 West at W Poplar Av",
+      "shortTitle": "NC 54 West @ W Poplar",
+      "stopId": "3485",
+      "tag": "nc54popl",
+      "lat": "35.9131567"
+    },
+    "nc54berk_o": {
+      "lon": "-79.0928707",
+      "title": "NC 54 East at Berkshire Manor West",
+      "shortTitle": "NC 54 East @ Berkshire Manor West",
+      "stopId": "3129",
+      "tag": "nc54berk_o",
+      "lat": "35.9155616"
+    },
+    "mainjame": {
+      "lon": "-79.09324",
+      "title": "W Main St at James St",
+      "shortTitle": "W Main @ James",
+      "stopId": "3519",
+      "tag": "mainjame",
+      "lat": "35.91761"
+    },
+    "mainsimp_o": {
+      "lon": "-79.0915114",
+      "title": "W Main St at Simpson St",
+      "shortTitle": "W Main @ Simpson",
+      "stopId": "3604",
+      "tag": "mainsimp_o",
+      "lat": "35.9171204"
+    },
+    "mainwest_o": {
+      "lon": "-79.0889181",
+      "title": "W Main St at Westview Dr",
+      "shortTitle": "W Main @ Westview Dr",
+      "stopId": "3575",
+      "tag": "mainwest_o",
+      "lat": "35.9163794"
+    },
+    "highgold_o": {
+      "lon": "-79.0859706",
+      "title": "High St at Goldston Av",
+      "shortTitle": "High @ Goldston",
+      "stopId": "3576",
+      "tag": "highgold_o",
+      "lat": "35.9161695"
+    },
+    "hihillp": {
+      "lon": "-79.0837006",
+      "title": "High St at Hillsborough Rd",
+      "shortTitle": "High @ Hillsborough",
+      "stopId": "3577",
+      "tag": "hihillp",
+      "lat": "35.9175495"
+    },
+    "hillpine_o": {
+      "lon": "-79.0817095",
+      "title": "Hillsborough Rd at Pine St",
+      "shortTitle": "Hillsborough @ Pine",
+      "stopId": "3578",
+      "tag": "hillpine_o",
+      "lat": "35.9159795"
+    },
+    "hillmain_o": {
+      "lon": "-79.0798867",
+      "title": "Hillsborough Rd at W Main St",
+      "shortTitle": "Hillsborough @ W Main",
+      "stopId": "3579",
+      "tag": "hillmain_o",
+      "lat": "35.9139865"
+    },
+    "maincarr_o": {
+      "lon": "-79.0775806",
+      "title": "W Main St at Carrboro Town Hall",
+      "shortTitle": "W Main @ Carrboro Town Hall",
+      "stopId": "3580",
+      "tag": "maincarr_o",
+      "lat": "35.9120204"
+    },
+    "weavlind_o": {
+      "lon": "-79.0757952",
+      "title": "Weaver St at Lindsay St",
+      "shortTitle": "Weaver @ Lindsay",
+      "stopId": "3581",
+      "tag": "weavlind_o",
+      "lat": "35.9111099"
+    },
+    "weavcarr": {
+      "lon": "-79.07183",
+      "title": "Weaver St at Carrboro Century Center",
+      "shortTitle": "Weaver @ Carrboro Century Center",
+      "stopId": "3508",
+      "tag": "weavcarr",
+      "lat": "35.91085"
+    },
+    "maincent": {
+      "lon": "-79.068133",
+      "title": "E Main St at Arts Center Plaza",
+      "shortTitle": "E Main @ Arts Center Plaza",
+      "stopId": "3510",
+      "tag": "maincent",
+      "lat": "35.9107396"
+    },
+    "wfrachap": {
+      "lon": "-79.0638037",
+      "title": "W Franklin St at Chapel Hill News",
+      "shortTitle": "W Franklin @ Chapel Hill News",
+      "stopId": "3481",
+      "tag": "wfrachap",
+      "lat": "35.9100085"
+    },
+    "wframuni": {
+      "lon": "-79.0617527",
+      "title": "W Franklin St at Municipal Parking Lot",
+      "shortTitle": "W Franklin @ Municipal Parking Lot",
+      "stopId": "3482",
+      "tag": "wframuni",
+      "lat": "35.9107789"
+    },
+    "wfrakena": {
+      "lon": "-79.0601415",
+      "title": "W Franklin St at Kenan St",
+      "shortTitle": "W Franklin @ Kenan",
+      "stopId": "3471",
+      "tag": "wfrakena",
+      "lat": "35.9113794"
+    },
+    "wfrauniv_s": {
+      "lon": "-79.0585214",
+      "title": "W Franklin St at University Square",
+      "shortTitle": "W Franklin @ University Square",
+      "stopId": "3470",
+      "tag": "wfrauniv_s",
+      "lat": "35.9120294"
+    },
+    "wfraunib": {
+      "lon": "-79.056702",
+      "title": "W Franklin St at University Baptist",
+      "shortTitle": "W Franklin @ University Baptist",
+      "stopId": "3423",
+      "tag": "wfraunib",
+      "lat": "35.912689"
+    },
+    "pittcred_d": {
+      "lon": "-79.0548699",
+      "title": "Pittsboro St at Credit Union",
+      "shortTitle": "Pittsboro @ Credit Union",
+      "stopId": "3226",
+      "tag": "pittcred_d",
+      "lat": "35.90689"
+    },
+    "wfracarb": {
+      "lon": "-79.05646",
+      "title": "W Franklin St at Caribou Coffee",
+      "shortTitle": "W Franklin @ Caribou Coffee",
+      "stopId": "3422",
+      "tag": "wfracarb",
+      "lat": "35.91297"
+    },
+    "wfrachur": {
+      "lon": "-79.0584501",
+      "title": "W Franklin St at Church St",
+      "shortTitle": "W Franklin @ Church",
+      "stopId": "3424",
+      "tag": "wfrachur",
+      "lat": "35.9121999"
+    },
+    "wfrahams": {
+      "lon": "-79.0605903",
+      "title": "W Franklin St at Kenan St (Westbound)",
+      "shortTitle": "W Franklin @ Kenan (Westbound)",
+      "stopId": "3484",
+      "tag": "wfrahams",
+      "lat": "35.9113698"
+    },
+    "wfrauncb": {
+      "lon": "-79.062155",
+      "title": "W Franklin St at UNC Business Office",
+      "shortTitle": "W Franklin @ UNC Business Office",
+      "stopId": "3483",
+      "tag": "wfrauncb",
+      "lat": "35.9107818"
+    },
+    "wfrangra": {
+      "lon": "-79.0641786",
+      "title": "W Franklin St at N Graham St",
+      "shortTitle": "W Franklin @ N Graham",
+      "stopId": "3045",
+      "tag": "wfrangra",
+      "lat": "35.9100005"
+    },
+    "mainlloy": {
+      "lon": "-79.0694021",
+      "title": "E Main St at Lloyd St",
+      "shortTitle": "E Main @ Lloyd",
+      "stopId": "3509",
+      "tag": "mainlloy",
+      "lat": "35.9107198"
+    },
+    "weavweav": {
+      "lon": "-79.07164",
+      "title": "Weaver St at Weaver St Market",
+      "shortTitle": "Weaver @ Weaver Market",
+      "stopId": "3507",
+      "tag": "weavweav",
+      "lat": "35.91098"
+    },
+    "weavlind": {
+      "lon": "-79.0755319",
+      "title": "Weaver St at Lindsay St",
+      "shortTitle": "Weaver @ Lindsay",
+      "stopId": "3503",
+      "tag": "weavlind",
+      "lat": "35.91122"
+    },
+    "maincarr": {
+      "lon": "-79.0773696",
+      "title": "W Main St at Carrboro Town Hall",
+      "shortTitle": "W Main @ Carrboro Town Hall",
+      "stopId": "3502",
+      "tag": "maincarr",
+      "lat": "35.9120396"
+    },
+    "hillmain": {
+      "lon": "-79.0798508",
+      "title": "Hillsborough Rd at W Main St",
+      "shortTitle": "Hillsborough @ W Main",
+      "stopId": "3513",
+      "tag": "hillmain",
+      "lat": "35.9141908"
+    },
+    "hillpine": {
+      "lon": "-79.0816101",
+      "title": "Hillsborough Rd at Pine St",
+      "shortTitle": "Hillsborough @ Pine",
+      "stopId": "3514",
+      "tag": "hillpine",
+      "lat": "35.9161301"
+    },
+    "hihillj": {
+      "lon": "-79.0838182",
+      "title": "High St at Hillsborough Rd",
+      "shortTitle": "High @ Hillsborough",
+      "stopId": "3515",
+      "tag": "hihillj",
+      "lat": "35.9176209"
+    },
+    "highgold": {
+      "lon": "-79.0861307",
+      "title": "High St at Goldston Av",
+      "shortTitle": "High @ Goldston",
+      "stopId": "3516",
+      "tag": "highgold",
+      "lat": "35.9162294"
+    },
+    "mainwest": {
+      "lon": "-79.0888157",
+      "title": "W Main St at Westview Dr",
+      "shortTitle": "W Main @ Westview Dr",
+      "stopId": "3517",
+      "tag": "mainwest",
+      "lat": "35.9165287"
+    },
+    "mainsimp": {
+      "lon": "-79.0913532",
+      "title": "W Main St at Simpson St",
+      "shortTitle": "W Main @ Simpson",
+      "stopId": "3518",
+      "tag": "mainsimp",
+      "lat": "35.9172409"
+    },
+    "maincarr2": {
+      "lon": "-79.09338",
+      "title": "W Main St at Carrboro Post Office",
+      "shortTitle": "W Main @ Carrboro Post Office",
+      "stopId": "3520",
+      "tag": "maincarr2",
+      "lat": "35.9178"
+    },
+    "poplnc54": {
+      "lon": "-79.0912867",
+      "title": "W Poplar Av at NC 54",
+      "shortTitle": "W Poplar @ NC 54",
+      "stopId": "3487",
+      "tag": "poplnc54",
+      "lat": "35.9128011"
+    },
+    "popllila": {
+      "lon": "-79.0887575",
+      "title": "W Poplar Av at Lilac Dr",
+      "shortTitle": "W Poplar @ Lilac Dr",
+      "stopId": "3512",
+      "tag": "popllila",
+      "lat": "35.9128695"
+    },
+    "poplrave": {
+      "lon": "-79.0863162",
+      "title": "W Poplar Av at Raven Ln",
+      "shortTitle": "W Poplar @ Raven Ln",
+      "stopId": "3602",
+      "tag": "poplrave",
+      "lat": "35.91268"
+    },
+    "davipopl_w": {
+      "lon": "-79.0846908",
+      "title": "Davie Rd at W Poplar Av",
+      "shortTitle": "Davie @ W Poplar",
+      "stopId": "3501",
+      "tag": "davipopl_w",
+      "lat": "35.9126231"
+    },
+    "davifide": {
+      "lon": "-79.0844905",
+      "title": "Davie Rd at Fidelity Ct",
+      "shortTitle": "Davie @ Fidelity Ct",
+      "stopId": "3497",
+      "tag": "davifide",
+      "lat": "35.9114131"
+    },
+    "davibert": {
+      "lon": "-79.084129",
+      "title": "Davie Rd at Bert St",
+      "shortTitle": "Davie @ Bert",
+      "stopId": "3495",
+      "tag": "davibert",
+      "lat": "35.9095355"
+    },
+    "davijone": {
+      "lon": "-79.0836094",
+      "title": "Davie Rd at Jones Ferry Rd (BP Station)",
+      "shortTitle": "Davie @ Jones Ferry (BP Station)",
+      "stopId": "3491",
+      "tag": "davijone",
+      "lat": "35.907065"
+    },
+    "smitbpwc_d": {
+      "lon": "-79.0761172",
+      "title": "Smith Level Rd at BPW Club Rd",
+      "shortTitle": "Smith Level @ BPW Club",
+      "stopId": "3661",
+      "tag": "smitbpwc_d",
+      "lat": "35.8957668"
+    },
+    "smitwill": {
+      "lon": "-79.0751358",
+      "title": "Smith Level Rd at Willow Oak",
+      "shortTitle": "Smith Level @ Willow Oak",
+      "stopId": "3044",
+      "tag": "smitwill",
+      "lat": "35.8981863"
+    },
+    "smitfpgs": {
+      "lon": "-79.0736448",
+      "title": "Smith Level Rd at FPG School",
+      "shortTitle": "Smith Level @ FPG School",
+      "stopId": "3133",
+      "tag": "smitfpgs",
+      "lat": "35.9004171"
+    },
+    "nc54king": {
+      "lon": "-79.0673216",
+      "title": "NC 54 East at Kingswood",
+      "shortTitle": "NC 54 East @ Kingswood",
+      "stopId": "3191",
+      "tag": "nc54king",
+      "lat": "35.8989207"
+    },
+    "scolpure_n": {
+      "lon": "-79.0582973",
+      "title": "S Columbia St at Purefoy Rd",
+      "shortTitle": "S Columbia @ Purefoy",
+      "stopId": "3187",
+      "tag": "scolpure_n",
+      "lat": "35.8955454"
+    },
+    "scolcool": {
+      "lon": "-79.0576615",
+      "title": "S Columbia St at Coolidge St",
+      "shortTitle": "S Columbia @ Coolidge",
+      "stopId": "3183",
+      "tag": "scolcool",
+      "lat": "35.8975877"
+    },
+    "scolchas": {
+      "lon": "-79.0575999",
+      "title": "S Columbia St at Chase Ave",
+      "shortTitle": "S Columbia @ Chase",
+      "stopId": "3611",
+      "tag": "scolchas",
+      "lat": "35.8992376"
+    },
+    "efraelli": {
+      "lon": "-79.02959",
+      "title": "E Franklin St at Elliott Rd",
+      "shortTitle": "E Franklin @ Elliott",
+      "stopId": "3365",
+      "tag": "efraelli",
+      "lat": "35.9347299"
+    },
+    "ellifirs": {
+      "lon": "-79.0287896",
+      "title": "Elliott Rd at First Citizens Bank",
+      "shortTitle": "Elliott @ First Citizens Bank",
+      "stopId": "3272",
+      "tag": "ellifirs",
+      "lat": "35.9343296"
+    },
+    "elliplaz": {
+      "lon": "-79.0281597",
+      "title": "Elliott Rd at Plaza Theatres",
+      "shortTitle": "Elliott @ Plaza Theatres",
+      "stopId": "3271",
+      "tag": "elliplaz",
+      "lat": "35.9330887"
+    },
+    "elliburg": {
+      "lon": "-79.0254194",
+      "title": "Elliott Rd at Burger King",
+      "shortTitle": "Elliott @ Burger King",
+      "stopId": "3070",
+      "tag": "elliburg",
+      "lat": "35.9323704"
+    },
+    "us15rams": {
+      "lon": "-79.0227113",
+      "title": "US 15-501 Service Rd at Rams Plaza",
+      "shortTitle": "US 15-501 Service @ Rams Plaza",
+      "stopId": "3274",
+      "tag": "us15rams",
+      "lat": "35.9382158"
+    },
+    "us15hamp": {
+      "lon": "-79.02095",
+      "title": "US 15-501 Service Rd at Hampton Inn",
+      "shortTitle": "US 15-501 Service @ Hampton Inn",
+      "stopId": "3122",
+      "tag": "us15hamp",
+      "lat": "35.9397599"
+    },
+    "us15euro": {
+      "lon": "-79.0185771",
+      "title": "US 15-501 Service Rd at Europa Dr",
+      "shortTitle": "US 15-501 Service @ Europa Dr",
+      "stopId": "3109",
+      "tag": "us15euro",
+      "lat": "35.9412502"
+    },
+    "legiscar": {
+      "lon": "-79.0116726",
+      "title": "Legion Rd at Scarlet Dr",
+      "shortTitle": "Legion @ Scarlet Dr",
+      "stopId": "3123",
+      "tag": "legiscar",
+      "lat": "35.9426785"
+    },
+    "legicoop": {
+      "lon": "-79.0087152",
+      "title": "Legion Rd Ext at Cooper St",
+      "shortTitle": "Legion Ext @ Cooper",
+      "stopId": "3644",
+      "tag": "legicoop",
+      "lat": "35.94274"
+    },
+    "olddblue": {
+      "lon": "-79.0034438",
+      "title": "Old Durham Rd at Bluefield St",
+      "shortTitle": "Old Durham @ Bluefield",
+      "stopId": "3556",
+      "tag": "olddblue",
+      "lat": "35.9443511"
+    },
+    "elakoldd": {
+      "lon": "-79.0019519",
+      "title": "E Lakeview Dr at Old Durham Rd",
+      "shortTitle": "E Lakeview Dr @ Old Durham",
+      "stopId": "3557",
+      "tag": "elakoldd",
+      "lat": "35.9454306"
+    },
+    "elakwlak": {
+      "lon": "-79.0021228",
+      "title": "E Lakeview Dr at W Lakeview",
+      "shortTitle": "E Lakeview Dr @ W Lakeview",
+      "stopId": "3558",
+      "tag": "elakwlak",
+      "lat": "35.9484872"
+    },
+    "eastpine": {
+      "lon": "-79.0078707",
+      "title": "Eastowne Rd at Pinegate",
+      "shortTitle": "Eastowne @ Pinegate",
+      "stopId": "3296",
+      "tag": "eastpine",
+      "lat": "35.9485545"
+    },
+    "oldseast": {
+      "lon": "-79.0082199",
+      "title": "Old Sterling Rd at Eastowne Rd",
+      "shortTitle": "Old Sterling @ Eastowne",
+      "stopId": "3292",
+      "tag": "oldseast",
+      "lat": "35.9504399"
+    },
+    "oldsnott": {
+      "lon": "-79.0115261",
+      "title": "Old Sterling Rd at Notting Hill Apts",
+      "shortTitle": "Old Sterling @ Notting Hill Apts",
+      "stopId": "3287",
+      "tag": "oldsnott",
+      "lat": "35.9512581"
+    },
+    "oldsbibl": {
+      "lon": "-79.0146603",
+      "title": "Old Sterling Rd at Bible Church",
+      "shortTitle": "Old Sterling @ Bible Church",
+      "stopId": "3559",
+      "tag": "oldsbibl",
+      "lat": "35.950367"
+    },
+    "dobbdobb": {
+      "lon": "-79.0141093",
+      "title": "Dobbins Dr at Cosgrove Hills",
+      "shortTitle": "Dobbins Dr @ Cosgrove Hills",
+      "stopId": "3113",
+      "tag": "dobbdobb",
+      "lat": "35.9443143"
+    },
+    "masoambu_s": {
+      "lon": "-79.0560489",
+      "title": "Mason Farm Rd at Ambulatory Care Center",
+      "shortTitle": "Mason Farm @ Ambulatory Care Center",
+      "stopId": "3220",
+      "tag": "masoambu_s",
+      "lat": "35.9022004"
+    },
+    "scolpure_s": {
+      "lon": "-79.0585373",
+      "title": "S Columbia St at Purefoy Rd",
+      "shortTitle": "S Columbia @ Purefoy",
+      "stopId": "3188",
+      "tag": "scolpure_s",
+      "lat": "35.8953357"
+    },
+    "us15culb": {
+      "lon": "-79.059108",
+      "title": "US 15-501 South at Culbreth Rd",
+      "shortTitle": "US 15-501 South @ Culbreth",
+      "stopId": "3189",
+      "tag": "us15culb",
+      "lat": "35.892011"
+    },
+    "culbchan": {
+      "lon": "-79.0624531",
+      "title": "Culbreth Rd at Channing Ln",
+      "shortTitle": "Culbreth @ Channing Ln",
+      "stopId": "3192",
+      "tag": "culbchan",
+      "lat": "35.892499"
+    },
+    "culbculb": {
+      "lon": "-79.0643359",
+      "title": "Culbreth Rd at Culbreth Park Dr",
+      "shortTitle": "Culbreth @ Culbreth Park Dr",
+      "stopId": "3193",
+      "tag": "culbculb",
+      "lat": "35.8918488"
+    },
+    "culbsout": {
+      "lon": "-79.0659905",
+      "title": "Culbreth Rd at Southbridge Dr",
+      "shortTitle": "Culbreth @ Southbridge Dr",
+      "stopId": "3194",
+      "tag": "culbsout",
+      "lat": "35.89192"
+    },
+    "culbadam": {
+      "lon": "-79.0678483",
+      "title": "Culbreth Rd at Adams Way",
+      "shortTitle": "Culbreth @ Adams Way",
+      "stopId": "3195",
+      "tag": "culbadam",
+      "lat": "35.892238"
+    },
+    "culbweye": {
+      "lon": "-79.0705608",
+      "title": "Culbreth Rd at Weyer",
+      "shortTitle": "Culbreth @ Weyer",
+      "stopId": "3196",
+      "tag": "culbweye",
+      "lat": "35.8927001"
+    },
+    "culbcove": {
+      "lon": "-79.07562",
+      "title": "Culbreth Rd at Covenant Pl",
+      "shortTitle": "Culbreth @ Covenant Pl",
+      "stopId": "3197",
+      "tag": "culbcove",
+      "lat": "35.89374"
+    },
+    "smitbpwc_a": {
+      "lon": "-79.0762714",
+      "title": "Smith Level Rd at BPW Club Rd",
+      "shortTitle": "Smith Level @ BPW Club",
+      "stopId": "3661",
+      "tag": "smitbpwc_a",
+      "lat": "35.8953588"
+    },
+    "rosegren_d": {
+      "lon": "-79.0651",
+      "title": "Rosemary St at Greenbridge",
+      "shortTitle": "Rosemary @ Greenbridge",
+      "stopId": "3702",
+      "tag": "rosegren_d",
+      "lat": "35.91101"
+    },
+    "wfrauniv_b": {
+      "lon": "-79.0567159",
+      "title": "W Franklin St at University Baptist",
+      "shortTitle": "W Franklin @ University Baptist",
+      "stopId": "3423",
+      "tag": "wfrauniv_b",
+      "lat": "35.9126842"
+    },
+    "estecomm_n": {
+      "lon": "-79.032418",
+      "title": "Estes Dr at Community Center Dr",
+      "shortTitle": "Estes Dr @ Community Center Dr",
+      "stopId": "3372",
+      "tag": "estecomm_n",
+      "lat": "35.9278849"
+    },
+    "estecame_n": {
+      "lon": "-79.0297479",
+      "title": "Estes Dr at Camelot Apts",
+      "shortTitle": "Estes Dr @ Camelot Apts",
+      "stopId": "3375",
+      "tag": "estecame_n",
+      "lat": "35.9272937"
+    },
+    "univmall_n": {
+      "lon": "-79.0282632",
+      "title": "University Place",
+      "stopId": "3377",
+      "tag": "univmall_n",
+      "lat": "35.927776"
+    },
+    "willconn_w": {
+      "lon": "-79.0289044",
+      "title": "Willow Dr at Connor Dr",
+      "shortTitle": "Willow Dr @ Connor Dr",
+      "stopId": "3378",
+      "tag": "willconn_w",
+      "lat": "35.9292434"
+    },
+    "willwill_w": {
+      "lon": "-79.0260557",
+      "title": "Willow Dr at Willow Terrace Condos",
+      "shortTitle": "Willow Dr @ Willow Terrace Condos",
+      "stopId": "3380",
+      "tag": "willwill_w",
+      "lat": "35.9302202"
+    },
+    "oldsnott_d": {
+      "lon": "-79.01154",
+      "title": "Old Sterling Rd at Notting Hill Apts",
+      "shortTitle": "Old Sterling @ Notting Hill Apts",
+      "stopId": "3287",
+      "tag": "oldsnott_d",
+      "lat": "35.95126"
+    },
+    "dobberwn_s": {
+      "lon": "-79.0189645",
+      "title": "Dobbins Dr at Erwin",
+      "shortTitle": "Dobbins Dr @ Erwin",
+      "stopId": "3699",
+      "tag": "dobberwn_s",
+      "lat": "35.9423019"
+    },
+    "estecomm_s": {
+      "lon": "-79.0324122",
+      "title": "Estes Dr at Community Center Dr",
+      "shortTitle": "Estes Dr @ Community Center Dr",
+      "stopId": "3372",
+      "tag": "estecomm_s",
+      "lat": "35.9278813"
+    },
+    "estecame_s": {
+      "lon": "-79.0297415",
+      "title": "Estes Dr at Camelot Apts",
+      "shortTitle": "Estes Dr @ Camelot Apts",
+      "stopId": "3375",
+      "tag": "estecame_s",
+      "lat": "35.9272907"
+    },
+    "univmall_s": {
+      "lon": "-79.0282632",
+      "title": "University Place",
+      "stopId": "3377",
+      "tag": "univmall_s",
+      "lat": "35.927776"
+    },
+    "willeste_s": {
+      "lon": "-79.0303009",
+      "title": "Willow Dr at Estes Dr",
+      "shortTitle": "Willow Dr @ Estes Dr",
+      "stopId": "3597",
+      "tag": "willeste_s",
+      "lat": "35.9278589"
+    },
+    "estepost_s": {
+      "lon": "-79.032391",
+      "title": "Estes Dr at Post Office",
+      "shortTitle": "Estes Dr @ Post Office",
+      "stopId": "3371",
+      "tag": "estepost_s",
+      "lat": "35.9280807"
+    },
+    "wfracari": {
+      "lon": "-79.0564601",
+      "title": "W Franklin St at Caribou Coffee",
+      "shortTitle": "W Franklin @ Caribou Coffee",
+      "stopId": "3422",
+      "tag": "wfracari",
+      "lat": "35.9129699"
+    },
+    "coloover": {
+      "lon": "-79.0019302",
+      "title": "Colony Woods Dr at Overland Dr",
+      "shortTitle": "Colony Woods Dr @ Overland Dr",
+      "stopId": "3017",
+      "tag": "coloover",
+      "lat": "35.9340612"
+    },
+    "colofoun_d": {
+      "lon": "-79.00223",
+      "title": "Fountain Ridge Dr at Colony Woods Dr",
+      "shortTitle": "Fountain Ridge Dr @ Colony Woods Dr",
+      "stopId": "3015",
+      "tag": "colofoun_d",
+      "lat": "35.93645"
+    },
+    "founhigh": {
+      "lon": "-79.0040976",
+      "title": "Fountain Ridge Rd at Highview Dr",
+      "shortTitle": "Fountain Ridge @ Highview Dr",
+      "stopId": "3002",
+      "tag": "founhigh",
+      "lat": "35.9365298"
+    },
+    "founover": {
+      "lon": "-79.0082008",
+      "title": "Fountain Ridge Rd at Overland Dr",
+      "shortTitle": "Fountain Ridge @ Overland Dr",
+      "stopId": "3000",
+      "tag": "founover",
+      "lat": "35.93671"
+    },
+    "landfoun": {
+      "lon": "-79.00928",
+      "title": "Landerwood Ln at Fountain Ridge Rd",
+      "shortTitle": "Landerwood Ln @ Fountain Ridge",
+      "stopId": "3461",
+      "tag": "landfoun",
+      "lat": "35.9363799"
+    },
+    "landephe": {
+      "lon": "-79.008906",
+      "title": "Landerwood Ln at Ephesus Church Rd",
+      "shortTitle": "Landerwood Ln @ Ephesus Church",
+      "stopId": "3474",
+      "tag": "landephe",
+      "lat": "35.9331965"
+    },
+    "ephetink_s": {
+      "lon": "-79.0122764",
+      "title": "Ephesus Church Rd at Tinkerbell Rd",
+      "shortTitle": "Ephesus Church @ Tinkerbell",
+      "stopId": "3059",
+      "tag": "ephetink_s",
+      "lat": "35.9326201"
+    },
+    "epheephe": {
+      "lon": "-79.0162377",
+      "title": "Ephesus Church Rd at Ephesus School",
+      "shortTitle": "Ephesus Church @ Ephesus School",
+      "stopId": "3060",
+      "tag": "epheephe",
+      "lat": "35.9324899"
+    },
+    "epheking": {
+      "lon": "-79.0192905",
+      "title": "Ephesus Church Rd at Kings Arms Apts",
+      "shortTitle": "Ephesus Church @ Kings Arms Apts",
+      "stopId": "3063",
+      "tag": "epheking",
+      "lat": "35.9331358"
+    },
+    "ephehaml": {
+      "lon": "-79.0208054",
+      "title": "Ephesus Church Rd at Hamlin Park Con",
+      "shortTitle": "Ephesus Church @ Hamlin Park Con",
+      "stopId": "3064",
+      "tag": "ephehaml",
+      "lat": "35.9341361"
+    },
+    "ephelegi": {
+      "lon": "-79.021725",
+      "title": "Ephesus Church Rd at Legion Rd (Westbound)",
+      "shortTitle": "Ephesus Church @ Legion (Westbound)",
+      "stopId": "3067",
+      "tag": "ephelegi",
+      "lat": "35.9349854"
+    },
+    "elliburg_s": {
+      "lon": "-79.0255447",
+      "title": "Elliott Rd at Burger King",
+      "shortTitle": "Elliott @ Burger King",
+      "stopId": "3069",
+      "tag": "elliburg_s",
+      "lat": "35.9324645"
+    },
+    "elliwhol": {
+      "lon": "-79.0284305",
+      "title": "Elliott Rd at Whole Foods Market",
+      "shortTitle": "Elliott @ Whole Foods Market",
+      "stopId": "3454",
+      "tag": "elliwhol",
+      "lat": "35.9343404"
+    },
+    "ngreharr": {
+      "lon": "-79.07217",
+      "title": "N Greensboro St at Harris Teeter",
+      "shortTitle": "N Greensboro @ Harris Teeter",
+      "stopId": "3541",
+      "tag": "ngreharr",
+      "lat": "35.9121182"
+    },
+    "ngreceda": {
+      "lon": "-79.0721201",
+      "title": "N Greensboro St at Cedar Ct",
+      "shortTitle": "N Greensboro @ Cedar Ct",
+      "stopId": "3539",
+      "tag": "ngreceda",
+      "lat": "35.9148934"
+    },
+    "ngreoaka_s": {
+      "lon": "-79.073522",
+      "title": "N Greensboro St at Oak Av",
+      "shortTitle": "N Greensboro @ Oak",
+      "stopId": "3538",
+      "tag": "ngreoaka_s",
+      "lat": "35.9168758"
+    },
+    "ngrewill": {
+      "lon": "-79.0758582",
+      "title": "N Greensboro St at Williams St",
+      "shortTitle": "N Greensboro @ Williams",
+      "stopId": "3535",
+      "tag": "ngrewill",
+      "lat": "35.9180341"
+    },
+    "ngrepine": {
+      "lon": "-79.0772719",
+      "title": "N Greensboro St at Pine St",
+      "shortTitle": "N Greensboro @ Pine",
+      "stopId": "3533",
+      "tag": "ngrepine",
+      "lat": "35.9190924"
+    },
+    "ngreweat": {
+      "lon": "-79.0802968",
+      "title": "N Greensboro St at Weathervane Dr",
+      "shortTitle": "N Greensboro @ Weathervane Dr",
+      "stopId": "3531",
+      "tag": "ngreweat",
+      "lat": "35.92089"
+    },
+    "ngreboli": {
+      "lon": "-79.082306",
+      "title": "N Greensboro St at Bolin Forest",
+      "shortTitle": "N Greensboro @ Bolin Forest",
+      "stopId": "3529",
+      "tag": "ngreboli",
+      "lat": "35.9208999"
+    },
+    "ngremorn": {
+      "lon": "-79.0855799",
+      "title": "N Greensboro St at Morningside Dr",
+      "shortTitle": "N Greensboro @ Morningside Dr",
+      "stopId": "3527",
+      "tag": "ngremorn",
+      "lat": "35.9214099"
+    },
+    "hillblue": {
+      "lon": "-79.0874892",
+      "title": "Hillsborough Rd at Blueridge Rd",
+      "shortTitle": "Hillsborough @ Blueridge",
+      "stopId": "3525",
+      "tag": "hillblue",
+      "lat": "35.9222395"
+    },
+    "hill904_m": {
+      "lon": "-79.0895871",
+      "title": "Hillsborough Rd at #904",
+      "shortTitle": "Hillsborough @ #904",
+      "stopId": "3594",
+      "tag": "hill904_m",
+      "lat": "35.9235409"
+    },
+    "hillrbow_m": {
+      "lon": "-79.0903502",
+      "title": "Hillsborough Rd at Rainbow Dr",
+      "shortTitle": "Hillsborough @ Rainbow Dr",
+      "stopId": "3600",
+      "tag": "hillrbow_m",
+      "lat": "35.9241503"
+    },
+    "hilldove_m": {
+      "lon": "-79.091136",
+      "title": "Hillsborough Rd at Dove St",
+      "shortTitle": "Hillsborough @ Dove",
+      "stopId": "3596",
+      "tag": "hilldove_m",
+      "lat": "35.9250296"
+    },
+    "hillfair": {
+      "lon": "-79.0927384",
+      "title": "Hillsborough Rd at Fair Oaks",
+      "shortTitle": "Hillsborough @ Fair Oaks",
+      "stopId": "3551",
+      "tag": "hillfair",
+      "lat": "35.9269181"
+    },
+    "hill1218": {
+      "lon": "-79.0953186",
+      "title": "Hillsborough Rd at #1218",
+      "shortTitle": "Hillsborough @ #1218",
+      "stopId": "3550",
+      "tag": "hill1218",
+      "lat": "35.929029"
+    },
+    "hillbari": {
+      "lon": "-79.098021",
+      "title": "Hillsborough Rd at Barington Hills",
+      "shortTitle": "Hillsborough @ Barington Hills",
+      "stopId": "3549",
+      "tag": "hillbari",
+      "lat": "35.9311708"
+    },
+    "hilloldf": {
+      "lon": "-79.101531",
+      "title": "Hillsborough Rd at Old Fayetteville",
+      "shortTitle": "Hillsborough @ Old Fayetteville",
+      "stopId": "3548",
+      "tag": "hilloldf",
+      "lat": "35.9338708"
+    },
+    "mcdomidd_d": {
+      "lon": "-79.0984299",
+      "title": "McDougle Middle School Track",
+      "stopId": "3547",
+      "tag": "mcdomidd_d",
+      "lat": "35.9272"
+    },
+    "oldftrai": {
+      "lon": "-79.100255",
+      "title": "Old Fayetteville Rd at Trailer Park",
+      "shortTitle": "Old Fayetteville @ Trailer Park",
+      "stopId": "3545",
+      "tag": "oldftrai",
+      "lat": "35.9242763"
+    },
+    "carooldf": {
+      "lon": "-79.0997477",
+      "title": "Carol St at Old Fayetteville Rd",
+      "shortTitle": "Carol @ Old Fayetteville",
+      "stopId": "3544",
+      "tag": "carooldf",
+      "lat": "35.92224"
+    },
+    "carolisa": {
+      "lon": "-79.0971103",
+      "title": "Carol St at Lisa St",
+      "shortTitle": "Carol @ Lisa",
+      "stopId": "3543",
+      "tag": "carolisa",
+      "lat": "35.9223399"
+    },
+    "carojame": {
+      "lon": "-79.0940191",
+      "title": "Carol St at James St",
+      "shortTitle": "Carol @ James",
+      "stopId": "3522",
+      "tag": "carojame",
+      "lat": "35.9224099"
+    },
+    "caro111": {
+      "lon": "-79.0915512",
+      "title": "Carol St at #111",
+      "shortTitle": "Carol @ #111",
+      "stopId": "3523",
+      "tag": "caro111",
+      "lat": "35.92237"
+    },
+    "carolorr": {
+      "lon": "-79.0894765",
+      "title": "Carol St at Lorraine St",
+      "shortTitle": "Carol @ Lorraine",
+      "stopId": "3524",
+      "tag": "carolorr",
+      "lat": "35.9223702"
+    },
+    "hillsimp": {
+      "lon": "-79.0874675",
+      "title": "Hillsborough Rd at Simpson St",
+      "shortTitle": "Hillsborough @ Simpson",
+      "stopId": "3603",
+      "tag": "hillsimp",
+      "lat": "35.9220285"
+    },
+    "ngremom": {
+      "lon": "-79.08501",
+      "title": "N Greensboro St at Morningside Dr",
+      "shortTitle": "N Greensboro @ Morningside Dr",
+      "stopId": "3528",
+      "tag": "ngremom",
+      "lat": "35.92112"
+    },
+    "ngremilt": {
+      "lon": "-79.0818899",
+      "title": "N Greensboro St at Milton Dr",
+      "shortTitle": "N Greensboro @ Milton Dr",
+      "stopId": "3530",
+      "tag": "ngremilt",
+      "lat": "35.9207199"
+    },
+    "ngrechee": {
+      "lon": "-79.0802369",
+      "title": "N Greensboro St at Cheek Av",
+      "shortTitle": "N Greensboro @ Cheek",
+      "stopId": "3532",
+      "tag": "ngrechee",
+      "lat": "35.9206999"
+    },
+    "ngresuea": {
+      "lon": "-79.0772112",
+      "title": "N Greensboro St at Sue Ann Ct",
+      "shortTitle": "N Greensboro @ Sue Ann Ct",
+      "stopId": "3534",
+      "tag": "ngresuea",
+      "lat": "35.9188111"
+    },
+    "ngretodd": {
+      "lon": "-79.075441",
+      "title": "N Greensboro St at Todd St",
+      "shortTitle": "N Greensboro @ Todd",
+      "stopId": "3536",
+      "tag": "ngretodd",
+      "lat": "35.9175805"
+    },
+    "ngreoaka": {
+      "lon": "-79.0737089",
+      "title": "N Greensboro St at Oak Av",
+      "shortTitle": "N Greensboro @ Oak",
+      "stopId": "3537",
+      "tag": "ngreoaka",
+      "lat": "35.9167294"
+    },
+    "ngre503": {
+      "lon": "-79.0723198",
+      "title": "N Greensboro St at #503",
+      "shortTitle": "N Greensboro @ #503",
+      "stopId": "3540",
+      "tag": "ngre503",
+      "lat": "35.9143365"
+    },
+    "ngrefitc": {
+      "lon": "-79.0723299",
+      "title": "N Greensboro St at Fitch Lumber",
+      "shortTitle": "N Greensboro @ Fitch Lumber",
+      "stopId": "3542",
+      "tag": "ngrefitc",
+      "lat": "35.9120044"
+    },
+    "willeste_n": {
+      "lon": "-79.0303008",
+      "title": "Willow Dr at Estes Dr",
+      "shortTitle": "Willow Dr @ Estes Dr",
+      "stopId": "3597",
+      "tag": "willeste_n",
+      "lat": "35.927859"
+    },
+    "estepost_n": {
+      "lon": "-79.032391",
+      "title": "Estes Dr at Post Office",
+      "shortTitle": "Estes Dr @ Post Office",
+      "stopId": "3391",
+      "tag": "estepost_n",
+      "lat": "35.9280807"
+    },
+    "elliburg_n": {
+      "lon": "-79.0254737",
+      "title": "Elliott Rd at Burger King",
+      "shortTitle": "Elliott @ Burger King",
+      "stopId": "3070",
+      "tag": "elliburg_n",
+      "lat": "35.9323057"
+    },
+    "epheholi": {
+      "lon": "-79.022205",
+      "title": "Ephesus Church Rd at Holiday Inn",
+      "shortTitle": "Ephesus Church @ Holiday Inn",
+      "stopId": "3068",
+      "tag": "epheholi",
+      "lat": "35.9351357"
+    },
+    "ephecolo": {
+      "lon": "-79.0209647",
+      "title": "Ephesus Church Rd at Colony Apts 1",
+      "shortTitle": "Ephesus Church @ Colony Apts 1",
+      "stopId": "3066",
+      "tag": "ephecolo",
+      "lat": "35.9340553"
+    },
+    "ephefran": {
+      "lon": "-79.0183923",
+      "title": "Ephesus Church Rd at Frances St",
+      "shortTitle": "Ephesus Church @ Frances",
+      "stopId": "3062",
+      "tag": "ephefran",
+      "lat": "35.9325585"
+    },
+    "epheeden": {
+      "lon": "-79.0163809",
+      "title": "Ephesus Church Rd at Eden Ln",
+      "shortTitle": "Ephesus Church @ Eden Ln",
+      "stopId": "3061",
+      "tag": "epheeden",
+      "lat": "35.93234"
+    },
+    "ephetink": {
+      "lon": "-79.0119808",
+      "title": "Ephesus Church Rd at Tinkerbell Rd",
+      "shortTitle": "Ephesus Church @ Tinkerbell",
+      "stopId": "3475",
+      "tag": "ephetink",
+      "lat": "35.9324804"
+    },
+    "epheland": {
+      "lon": "-79.008122",
+      "title": "Ephesus Church Rd at Landerwood Ln",
+      "shortTitle": "Ephesus Church @ Landerwood Ln",
+      "stopId": "3460",
+      "tag": "epheland",
+      "lat": "35.9327098"
+    },
+    "epheshar": {
+      "lon": "-79.005297",
+      "title": "Ephesus Church Rd at Sharon Rd",
+      "shortTitle": "Ephesus Church @ Sharon",
+      "stopId": "3012",
+      "tag": "epheshar",
+      "lat": "35.9319483"
+    },
+    "colowhit": {
+      "lon": "-79.0020199",
+      "title": "Colony Woods Dr at White Plains Rd",
+      "shortTitle": "Colony Woods Dr @ White Plains",
+      "stopId": "3016",
+      "tag": "colowhit",
+      "lat": "35.9312529"
+    },
+    "fridpark_d": {
+      "lon": "-79.01227",
+      "title": "Friday Center Park & Ride (UNC)",
+      "stopId": "3588",
+      "tag": "fridpark_d",
+      "lat": "35.90142"
+    },
+    "fridpark": {
+      "lon": "-79.0115031",
+      "title": "Friday Center at Park-Ride Lot",
+      "shortTitle": "Friday Center @ Park-Ride Lot",
+      "stopId": "3358",
+      "tag": "fridpark",
+      "lat": "35.90058"
+    },
+    "fridnc54": {
+      "lon": "-79.0109413",
+      "title": "Friday Ctr Dr at NC 54",
+      "shortTitle": "Friday Ctr Dr @ NC 54",
+      "stopId": "3609",
+      "tag": "fridnc54",
+      "lat": "35.9021473"
+    },
+    "raleburn": {
+      "lon": "-79.019194",
+      "title": "Raleigh Rd at Burning Tree Dr",
+      "shortTitle": "Raleigh @ Burning Tree Dr",
+      "stopId": "3014",
+      "tag": "raleburn",
+      "lat": "35.9065873"
+    },
+    "raleoak": {
+      "lon": "-79.0223738",
+      "title": "Raleigh Rd at Oakwood Dr",
+      "shortTitle": "Raleigh @ Oakwood Dr",
+      "stopId": "3395",
+      "tag": "raleoak",
+      "lat": "35.907828"
+    },
+    "raleglen": {
+      "lon": "-79.0247268",
+      "title": "Raleigh Rd at Glen Lennox Shop Center",
+      "shortTitle": "Raleigh @ Glen Lennox Shop Center",
+      "stopId": "3387",
+      "tag": "raleglen",
+      "lat": "35.9083592"
+    },
+    "mannhibb": {
+      "lon": "-79.0490052",
+      "title": "Manning Dr at Hibbard Dr",
+      "shortTitle": "Manning Dr @ Hibbard Dr",
+      "stopId": "3235",
+      "tag": "mannhibb",
+      "lat": "35.9030095"
+    },
+    "manngrav_u": {
+      "lon": "-79.0502428",
+      "title": "Manning Dr at Gravely",
+      "shortTitle": "Manning Dr @ Gravely",
+      "stopId": "3703",
+      "tag": "manngrav_u",
+      "lat": "35.9030205"
+    },
+    "soutcoun": {
+      "lon": "-79.0425495",
+      "title": "South Rd at Country Club Rd",
+      "shortTitle": "South @ Country Club",
+      "stopId": "3430",
+      "tag": "soutcoun",
+      "lat": "35.9106501"
+    },
+    "ralestth": {
+      "lon": "-79.0387634",
+      "title": "Raleigh Rd at St Thomas More",
+      "shortTitle": "Raleigh @ Thomas More",
+      "stopId": "3384",
+      "tag": "ralestth",
+      "lat": "35.9110101"
+    },
+    "ralegree": {
+      "lon": "-79.0316455",
+      "title": "Raleigh Rd at Greenwood Rd",
+      "shortTitle": "Raleigh @ Greenwood",
+      "stopId": "3105",
+      "tag": "ralegree",
+      "lat": "35.909619"
+    },
+    "raleunca": {
+      "lon": "-79.0302383",
+      "title": "Raleigh Rd at UNC Administration",
+      "shortTitle": "Raleigh @ UNC Administration",
+      "stopId": "3386",
+      "tag": "raleunca",
+      "lat": "35.9093096"
+    },
+    "ralehami": {
+      "lon": "-79.0232968",
+      "title": "Raleigh Rd at Hamilton Rd",
+      "shortTitle": "Raleigh @ Hamilton",
+      "stopId": "3396",
+      "tag": "ralehami",
+      "lat": "35.9077592"
+    },
+    "ralebest": {
+      "lon": "-79.0200214",
+      "title": "Raleigh Rd at Finley Golf Course Rd",
+      "shortTitle": "Raleigh @ Finley Golf Course",
+      "stopId": "3013",
+      "tag": "ralebest",
+      "lat": "35.906582"
+    },
+    "firdnc54": {
+      "lon": "-79.01132",
+      "title": "Friday Ctr Drive at NC 54",
+      "shortTitle": "Friday Ctr Drive @ NC 54",
+      "stopId": "3587",
+      "tag": "firdnc54",
+      "lat": "35.9013391"
+    },
+    "franvars_d": {
+      "lon": "-79.0548595",
+      "title": "E Franklin St at Varsity Theatre",
+      "shortTitle": "E Franklin @ Varsity Theatre",
+      "stopId": "3428",
+      "tag": "franvars_d",
+      "lat": "35.9135801"
+    },
+    "ralegree_w": {
+      "lon": "-79.0316481",
+      "title": "Raleigh Rd at Greenwood Rd",
+      "shortTitle": "Raleigh @ Greenwood",
+      "stopId": "3105",
+      "tag": "ralegree_w",
+      "lat": "35.9096195"
+    },
+    "raleunca_w": {
+      "lon": "-79.0302409",
+      "title": "Raleigh Rd at UNC Administration",
+      "shortTitle": "Raleigh @ UNC Administration",
+      "stopId": "3386",
+      "tag": "raleunca_w",
+      "lat": "35.9093102"
+    },
+    "hamimaxw1_w": {
+      "lon": "-79.02361",
+      "title": "Hamilton Rd at Maxwell Rd 1",
+      "shortTitle": "Hamilton @ Maxwell 1",
+      "stopId": "3390",
+      "tag": "hamimaxw1_w",
+      "lat": "35.90935"
+    },
+    "hamiberk_w": {
+      "lon": "-79.0232601",
+      "title": "Hamilton Rd at Berkley Rd",
+      "shortTitle": "Hamilton @ Berkley",
+      "stopId": "3392",
+      "tag": "hamiberk_w",
+      "lat": "35.9109249"
+    },
+    "hamimaxw2_w": {
+      "lon": "-79.0234268",
+      "title": "Hamilton Rd at Maxwell Rd 2",
+      "shortTitle": "Hamilton @ Maxwell 2",
+      "stopId": "3393",
+      "tag": "hamimaxw2_w",
+      "lat": "35.9131127"
+    },
+    "branhami_w": {
+      "lon": "-79.023396",
+      "title": "Brandon Rd at Hamilton Rd",
+      "shortTitle": "Brandon @ Hamilton",
+      "stopId": "3362",
+      "tag": "branhami_w",
+      "lat": "35.91519"
+    },
+    "branhaye_w": {
+      "lon": "-79.025924",
+      "title": "Brandon Rd at Hayes Rd",
+      "shortTitle": "Brandon @ Hayes",
+      "stopId": "3364",
+      "tag": "branhaye_w",
+      "lat": "35.9152398"
+    },
+    "esteford": {
+      "lon": "-79.0255425",
+      "title": "Estes Dr at Fordham Blvd (Texaco)",
+      "shortTitle": "Estes Dr @ Fordham (Texaco)",
+      "stopId": "3374",
+      "tag": "esteford",
+      "lat": "35.9252769"
+    },
+    "ephetink_n": {
+      "lon": "-79.0119808",
+      "title": "Ephesus Church Rd at Tinkerbell Rd",
+      "shortTitle": "Ephesus Church @ Tinkerbell",
+      "stopId": "3475",
+      "tag": "ephetink_n",
+      "lat": "35.9324804"
+    },
+    "esteus15": {
+      "lon": "-79.0259328",
+      "title": "Estes Dr at US 15-501 Bypass",
+      "shortTitle": "Estes Dr @ US 15-501 Bypass",
+      "stopId": "3373",
+      "tag": "esteus15",
+      "lat": "35.9252314"
+    },
+    "branhaye_e": {
+      "lon": "-79.0258123",
+      "title": "Brandon Rd at Hayes Rd",
+      "shortTitle": "Brandon @ Hayes",
+      "stopId": "3363",
+      "tag": "branhaye_e",
+      "lat": "35.9151098"
+    },
+    "branhami_e": {
+      "lon": "-79.0234702",
+      "title": "Brandon Rd at Hamilton Rd",
+      "shortTitle": "Brandon @ Hamilton",
+      "stopId": "3361",
+      "tag": "branhami_e",
+      "lat": "35.91506"
+    },
+    "hamimaxw2_e": {
+      "lon": "-79.0236894",
+      "title": "Hamilton Rd at Maxwell Rd 2",
+      "shortTitle": "Hamilton @ Maxwell 2",
+      "stopId": "3394",
+      "tag": "hamimaxw2_e",
+      "lat": "35.9132585"
+    },
+    "hamiberk_e": {
+      "lon": "-79.0234498",
+      "title": "Hamilton Rd at Berkley Rd",
+      "shortTitle": "Hamilton @ Berkley",
+      "stopId": "3391",
+      "tag": "hamiberk_e",
+      "lat": "35.9109172"
+    },
+    "hamimaxw1_e": {
+      "lon": "-79.0238209",
+      "title": "Hamilton Rd at Maxwell Rd 1",
+      "shortTitle": "Hamilton @ Maxwell 1",
+      "stopId": "3389",
+      "tag": "hamimaxw1_e",
+      "lat": "35.9094358"
+    },
+    "hamirale": {
+      "lon": "-79.0239077",
+      "title": "Hamilton Rd at Raleigh Rd",
+      "shortTitle": "Hamilton @ Raleigh",
+      "stopId": "3388",
+      "tag": "hamirale",
+      "lat": "35.9083296"
+    },
+    "raleunca_e": {
+      "lon": "-79.029109",
+      "title": "Raleigh Rd at UNC Administration",
+      "shortTitle": "Raleigh @ UNC Administration",
+      "stopId": "3114",
+      "tag": "raleunca_e",
+      "lat": "35.9092897"
+    },
+    "ralegree_e": {
+      "lon": "-79.0324493",
+      "title": "Raleigh Rd at Greenwood Rd",
+      "shortTitle": "Raleigh @ Greenwood",
+      "stopId": "3106",
+      "tag": "ralegree_e",
+      "lat": "35.9099398"
+    },
+    "ralestto": {
+      "lon": "-79.0380416",
+      "title": "Raleigh Rd at St Thomas More",
+      "shortTitle": "Raleigh @ Thomas More",
+      "stopId": "3385",
+      "tag": "ralestto",
+      "lat": "35.91114"
+    },
+    "soutrale": {
+      "lon": "-79.0463296",
+      "title": "South Rd at Raleigh St",
+      "shortTitle": "South @ Raleigh",
+      "stopId": "3398",
+      "tag": "soutrale",
+      "lat": "35.91009"
+    },
+    "bookapar_d": {
+      "lon": "-79.02646",
+      "title": "Booker Creek Rd at Apartments",
+      "shortTitle": "Booker Creek @ Apartments",
+      "stopId": "3307",
+      "tag": "bookapar_d",
+      "lat": "35.94767"
+    },
+    "foxwhone": {
+      "lon": "-79.0234836",
+      "title": "Foxwood Dr at Honeysuckle Rd",
+      "shortTitle": "Foxwood Dr @ Honeysuckle",
+      "stopId": "3306",
+      "tag": "foxwhone",
+      "lat": "35.9496363"
+    },
+    "foxwsedg": {
+      "lon": "-79.0216199",
+      "title": "Foxwood Dr at Sedgefield Dr",
+      "shortTitle": "Foxwood Dr @ Sedgefield Dr",
+      "stopId": "3305",
+      "tag": "foxwsedg",
+      "lat": "35.952088"
+    },
+    "sedgmayb": {
+      "lon": "-79.0233624",
+      "title": "Sedgefield Dr at Mayberry Ct",
+      "shortTitle": "Sedgefield Dr @ Mayberry Ct",
+      "stopId": "3304",
+      "tag": "sedgmayb",
+      "lat": "35.9533544"
+    },
+    "sedgrose": {
+      "lon": "-79.0249513",
+      "title": "Sedgefield Dr at Rosewood Ct",
+      "shortTitle": "Sedgefield Dr @ Rosewood Ct",
+      "stopId": "3303",
+      "tag": "sedgrose",
+      "lat": "35.9536613"
+    },
+    "honesedg": {
+      "lon": "-79.026243",
+      "title": "Honeysuckle Rd at Sedgefield Dr",
+      "shortTitle": "Honeysuckle @ Sedgefield Dr",
+      "stopId": "3299",
+      "tag": "honesedg",
+      "lat": "35.9526587"
+    },
+    "honeredb_w": {
+      "lon": "-79.029098",
+      "title": "Honeysuckle Rd at Red Bud Ln",
+      "shortTitle": "Honeysuckle @ Red Bud Ln",
+      "stopId": "3326",
+      "tag": "honeredb_w",
+      "lat": "35.95266"
+    },
+    "honehone_w": {
+      "lon": "-79.0311036",
+      "title": "Honeysuckle Rd at Honeysuckle Ct",
+      "shortTitle": "Honeysuckle @ Honeysuckle Ct",
+      "stopId": "3302",
+      "tag": "honehone_w",
+      "lat": "35.9525804"
+    },
+    "honebroo": {
+      "lon": "-79.0336237",
+      "title": "Honeysuckle at Brookview Rd",
+      "shortTitle": "Honeysuckle @ Brookview",
+      "stopId": "3318",
+      "tag": "honebroo",
+      "lat": "35.951482"
+    },
+    "nlak2121": {
+      "lon": "-79.0346878",
+      "title": "N Lakeshore Dr at #2121",
+      "shortTitle": "N Lakeshore Dr @ #2121",
+      "stopId": "3316",
+      "tag": "nlak2121",
+      "lat": "35.9488318"
+    },
+    "nlakkenm_w": {
+      "lon": "-79.0358966",
+      "title": "N Lakeshore Dr at Kenmore Rd",
+      "shortTitle": "N Lakeshore Dr @ Kenmore",
+      "stopId": "3313",
+      "tag": "nlakkenm_w",
+      "lat": "35.9466726"
+    },
+    "nlakshad": {
+      "lon": "-79.0379247",
+      "title": "N Lakeshore Dr at Shady Lawn Rd",
+      "shortTitle": "N Lakeshore Dr @ Shady Lawn",
+      "stopId": "3311",
+      "tag": "nlakshad",
+      "lat": "35.9445633"
+    },
+    "nlak1821": {
+      "lon": "-79.0392057",
+      "title": "N Lakeshore Dr at #1821",
+      "shortTitle": "N Lakeshore Dr @ #1821",
+      "stopId": "3309",
+      "tag": "nlak1821",
+      "lat": "35.9427262"
+    },
+    "nlakrock_w": {
+      "lon": "-79.0400482",
+      "title": "N Lakeshore Dr at Rock Creek Rd",
+      "shortTitle": "N Lakeshore Dr @ Rock Creek",
+      "stopId": "3074",
+      "tag": "nlakrock_w",
+      "lat": "35.9411633"
+    },
+    "curtslak_w": {
+      "lon": "-79.0402295",
+      "title": "Curtis Rd at S Lakeshore Dr",
+      "shortTitle": "Curtis @ S Lakeshore Dr",
+      "stopId": "3077",
+      "tag": "curtslak_w",
+      "lat": "35.9396537"
+    },
+    "curtlyon_w": {
+      "lon": "-79.0413601",
+      "title": "Curtis Rd at Lyons Rd",
+      "shortTitle": "Curtis @ Lyons",
+      "stopId": "3078",
+      "tag": "curtlyon_w",
+      "lat": "35.9379794"
+    },
+    "curtclay_w": {
+      "lon": "-79.0420201",
+      "title": "Curtis Rd at Clayton Rd",
+      "shortTitle": "Curtis @ Clayton",
+      "stopId": "3321",
+      "tag": "curtclay_w",
+      "lat": "35.9356373"
+    },
+    "caswclay": {
+      "lon": "-79.0423929",
+      "title": "Caswell Rd at Clayton Rd",
+      "shortTitle": "Caswell @ Clayton",
+      "stopId": "3323",
+      "tag": "caswclay",
+      "lat": "35.9352796"
+    },
+    "casweste": {
+      "lon": "-79.0430382",
+      "title": "Caswell Rd at Estes Dr",
+      "shortTitle": "Caswell @ Estes Dr",
+      "stopId": "3324",
+      "tag": "casweste",
+      "lat": "35.9348321"
+    },
+    "estephil_w": {
+      "lon": "-79.0478323",
+      "title": "Estes Dr at Phillips MS & Park",
+      "shortTitle": "Estes Dr @ Phillips MS & Park",
+      "stopId": "3452",
+      "tag": "estephil_w",
+      "lat": "35.9352"
+    },
+    "estesome_w": {
+      "lon": "-79.0504851",
+      "title": "Estes Dr at Somerset Dr",
+      "shortTitle": "Estes Dr @ Somerset Dr",
+      "stopId": "3477",
+      "tag": "estesome_w",
+      "lat": "35.9352499"
+    },
+    "estemeth_w": {
+      "lon": "-79.0553054",
+      "title": "Estes Dr at Methodist Church",
+      "shortTitle": "Estes Dr @ Methodist Church",
+      "stopId": "3480",
+      "tag": "estemeth_w",
+      "lat": "35.9352899"
+    },
+    "mlkbymca_w": {
+      "lon": "-79.0559303",
+      "title": "Martin Luther King Jr Blvd  at YMCA",
+      "shortTitle": "Martin Luther King Jr  @ YMCA",
+      "stopId": "3445",
+      "tag": "mlkbymca_w",
+      "lat": "35.9335916"
+    },
+    "mlkbbarc_w": {
+      "lon": "-79.0552204",
+      "title": "Martin Luther King Jr Blvd  at Barclay",
+      "shortTitle": "Martin Luther King Jr  @ Barclay",
+      "stopId": "3242",
+      "tag": "mlkbbarc_w",
+      "lat": "35.9307314"
+    },
+    "airpr725": {
+      "lon": "-79.0548107",
+      "title": "Martin Luther King Jr Blvd at #725",
+      "shortTitle": "Martin Luther King Jr @ #725",
+      "stopId": "3448",
+      "tag": "airpr725",
+      "lat": "35.9237784"
+    },
+    "airplong": {
+      "lon": "-79.0558406",
+      "title": "Martin Luther King Jr Blvd at Longview St",
+      "shortTitle": "Martin Luther King Jr @ Longview",
+      "stopId": "3450",
+      "tag": "airplong",
+      "lat": "35.9215582"
+    },
+    "airpadel": {
+      "lon": "-79.0565503",
+      "title": "Martin Luther King Jr Blvd at Adelaide Walters Apts",
+      "shortTitle": "Martin Luther King Jr @ Adelaide Walters Apts",
+      "stopId": "3082",
+      "tag": "airpadel",
+      "lat": "35.9182478"
+    },
+    "airptown": {
+      "lon": "-79.0568203",
+      "title": "Martin Luther King Jr Blvd at Town Hall",
+      "shortTitle": "Martin Luther King Jr @ Town Hall",
+      "stopId": "3407",
+      "tag": "airptown",
+      "lat": "35.9167176"
+    },
+    "pittcred_w": {
+      "lon": "-79.0548699",
+      "title": "Pittsboro St at Credit Union",
+      "shortTitle": "Pittsboro @ Credit Union",
+      "stopId": "3226",
+      "tag": "pittcred_w",
+      "lat": "35.9068906"
+    },
+    "pittuniv_w": {
+      "lon": "-79.05514",
+      "title": "Pittsboro St at University Dr",
+      "shortTitle": "Pittsboro @ University Dr",
+      "stopId": "3224",
+      "tag": "pittuniv_w",
+      "lat": "35.9052798"
+    },
+    "masoambu_w": {
+      "lon": "-79.0559493",
+      "title": "Mason Farm Rd at Ambulatory Care Center",
+      "shortTitle": "Mason Farm @ Ambulatory Care Center",
+      "stopId": "3221",
+      "tag": "masoambu_w",
+      "lat": "35.90205"
+    },
+    "masoodum_w": {
+      "lon": "-79.0522772",
+      "title": "Mason Farm Rd at Odum Village",
+      "shortTitle": "Mason Farm @ Odum Village",
+      "stopId": "3436",
+      "tag": "masoodum_w",
+      "lat": "35.9015586"
+    },
+    "eastjack_w": {
+      "lon": "-79.050729",
+      "title": "East Dr at Jackson Circle",
+      "shortTitle": "East Dr @ Jackson Circle",
+      "stopId": "3237",
+      "tag": "eastjack_w",
+      "lat": "35.9018726"
+    },
+    "mannunch_w": {
+      "lon": "-79.0518561",
+      "title": "Manning Dr at UNC Hospitals",
+      "shortTitle": "Manning Dr @ UNC Hospitals",
+      "stopId": "3239",
+      "tag": "mannunch_w",
+      "lat": "35.9035587"
+    },
+    "coluheal_w": {
+      "lon": "-79.0534682",
+      "title": "S Columbia St at Health Sciences Library",
+      "shortTitle": "S Columbia @ Health Sciences Library",
+      "stopId": "3223",
+      "tag": "coluheal_w",
+      "lat": "35.9054121"
+    },
+    "colucarr_w": {
+      "lon": "-79.0527798",
+      "title": "S Columbia St at Carrington Hall",
+      "shortTitle": "S Columbia @ Carrington Hall",
+      "stopId": "3222",
+      "tag": "colucarr_w",
+      "lat": "35.9069413"
+    },
+    "soutfetz_w": {
+      "lon": "-79.0477219",
+      "title": "South Rd at Fetzer Gym",
+      "shortTitle": "South @ Fetzer Gym",
+      "stopId": "3359",
+      "tag": "soutfetz_w",
+      "lat": "35.9096491"
+    },
+    "univmall_a": {
+      "lon": "-79.0281399",
+      "title": "University Place (Arrival)",
+      "tag": "univmall_a",
+      "lat": "35.92771"
+    },
+    "univmall_w": {
+      "lon": "-79.0282666",
+      "title": "University Place",
+      "stopId": "3377",
+      "tag": "univmall_w",
+      "lat": "35.9277781"
+    },
+    "willeste_w": {
+      "lon": "-79.0303001",
+      "title": "Willow Dr at Estes Dr",
+      "shortTitle": "Willow Dr @ Estes Dr",
+      "stopId": "3597",
+      "tag": "willeste_w",
+      "lat": "35.9278591"
+    },
+    "estecame_w": {
+      "lon": "-79.0297414",
+      "title": "Estes Dr at Camelot Apts",
+      "shortTitle": "Estes Dr @ Camelot Apts",
+      "stopId": "3375",
+      "tag": "estecame_w",
+      "lat": "35.9272908"
+    },
+    "mccawhit": {
+      "lon": "-79.0536818",
+      "title": "McCauley at Whitehead Dorm",
+      "shortTitle": "McCauley @ Whitehead Dorm",
+      "stopId": "3212",
+      "tag": "mccawhit",
+      "lat": "35.9086595"
+    },
+    "pittcred_e": {
+      "lon": "-79.0548699",
+      "title": "Pittsboro St at Credit Union",
+      "shortTitle": "Pittsboro @ Credit Union",
+      "stopId": "3226",
+      "tag": "pittcred_e",
+      "lat": "35.9068906"
+    },
+    "masoambu_e": {
+      "lon": "-79.0559493",
+      "title": "Mason Farm Rd at Ambulatory Care Center",
+      "shortTitle": "Mason Farm @ Ambulatory Care Center",
+      "stopId": "3221",
+      "tag": "masoambu_e",
+      "lat": "35.90205"
+    },
+    "masoodum_e": {
+      "lon": "-79.0522772",
+      "title": "Mason Farm Rd at Odum Village",
+      "shortTitle": "Mason Farm @ Odum Village",
+      "stopId": "3436",
+      "tag": "masoodum_e",
+      "lat": "35.9015586"
+    },
+    "eastjack_e": {
+      "lon": "-79.050729",
+      "title": "East Dr at Jackson Cir",
+      "shortTitle": "East Dr @ Jackson Cir",
+      "stopId": "3237",
+      "tag": "eastjack_e",
+      "lat": "35.9018726"
+    },
+    "mannunch_e": {
+      "lon": "-79.0518561",
+      "title": "Manning Dr at UNC Hospitals",
+      "shortTitle": "Manning Dr @ UNC Hospitals",
+      "stopId": "3239",
+      "tag": "mannunch_e",
+      "lat": "35.9035587"
+    },
+    "airpnorst": {
+      "lon": "-79.0567396",
+      "title": "Martin Luther King Jr Blvd at North St",
+      "shortTitle": "Martin Luther King Jr @ North",
+      "stopId": "3408",
+      "tag": "airpnorst",
+      "lat": "35.9158327"
+    },
+    "airpnorpl": {
+      "lon": "-79.0562995",
+      "title": "Martin Luther King Jr Blvd North at Stephens St",
+      "shortTitle": "Martin Luther King Jr North @ Stephens",
+      "stopId": "3081",
+      "tag": "airpnorpl",
+      "lat": "35.9183924"
+    },
+    "airpmill": {
+      "lon": "-79.0556499",
+      "title": "Martin Luther King Jr Blvd at Millcreek",
+      "shortTitle": "Martin Luther King Jr @ Millcreek",
+      "stopId": "3451",
+      "tag": "airpmill",
+      "lat": "35.92139"
+    },
+    "airpfost": {
+      "lon": "-79.0542192",
+      "title": "Martin Luther King Jr Blvd at Hillsborough St",
+      "shortTitle": "Martin Luther King Jr @ Hillsborough",
+      "stopId": "3449",
+      "tag": "airpfost",
+      "lat": "35.9244814"
+    },
+    "mlkbbarc_e": {
+      "lon": "-79.05489",
+      "title": "Martin Luther King Jr Blvd  at Barclay",
+      "shortTitle": "Martin Luther King Jr  @ Barclay",
+      "stopId": "3243",
+      "tag": "mlkbbarc_e",
+      "lat": "35.93027"
+    },
+    "mlkbymca_e": {
+      "lon": "-79.0557197",
+      "title": "Martin Luther King Jr Blvd  at YMCA",
+      "shortTitle": "Martin Luther King Jr  @ YMCA",
+      "stopId": "3053",
+      "tag": "mlkbymca_e",
+      "lat": "35.9335984"
+    },
+    "estemeth_e": {
+      "lon": "-79.05524",
+      "title": "Estes Dr at Methodist Church",
+      "shortTitle": "Estes Dr @ Methodist Church",
+      "stopId": "3478",
+      "tag": "estemeth_e",
+      "lat": "35.93515"
+    },
+    "estesome_e": {
+      "lon": "-79.0507596",
+      "title": "Estes Dr at Somerset Dr",
+      "shortTitle": "Estes Dr @ Somerset Dr",
+      "stopId": "3479",
+      "tag": "estesome_e",
+      "lat": "35.9351199"
+    },
+    "estephil_e": {
+      "lon": "-79.0474519",
+      "title": "Estes Dr at Phillips MS & Park",
+      "shortTitle": "Estes Dr @ Phillips MS & Park",
+      "stopId": "3325",
+      "tag": "estephil_e",
+      "lat": "35.93502"
+    },
+    "curtclay_e": {
+      "lon": "-79.04166",
+      "title": "Curtis Rd at Clayton Rd",
+      "shortTitle": "Curtis @ Clayton",
+      "stopId": "3322",
+      "tag": "curtclay_e",
+      "lat": "35.9356075"
+    },
+    "curtlyon_e": {
+      "lon": "-79.0411911",
+      "title": "Curtis Rd at Lyons Rd",
+      "shortTitle": "Curtis @ Lyons",
+      "stopId": "3320",
+      "tag": "curtlyon_e",
+      "lat": "35.9377164"
+    },
+    "curtslak_e": {
+      "lon": "-79.0399599",
+      "title": "Curtis Rd at S Lakeshore Dr",
+      "shortTitle": "Curtis @ S Lakeshore Dr",
+      "stopId": "3076",
+      "tag": "curtslak_e",
+      "lat": "35.9399699"
+    },
+    "nlakrock_e": {
+      "lon": "-79.0398697",
+      "title": "N Lakeshore Dr at Rock Creek Rd",
+      "shortTitle": "N Lakeshore Dr @ Rock Creek",
+      "stopId": "3075",
+      "tag": "nlakrock_e",
+      "lat": "35.9408003"
+    },
+    "nlake1822": {
+      "lon": "-79.0388127",
+      "title": "N Lakeshore Dr at #1822",
+      "shortTitle": "N Lakeshore Dr @ #1822",
+      "stopId": "3310",
+      "tag": "nlake1822",
+      "lat": "35.9427157"
+    },
+    "nlakarli": {
+      "lon": "-79.0378305",
+      "title": "N Lakeshore Dr at Arlington",
+      "shortTitle": "N Lakeshore Dr @ Arlington",
+      "stopId": "3312",
+      "tag": "nlakarli",
+      "lat": "35.9441593"
+    },
+    "nlakkenm_e": {
+      "lon": "-79.0362787",
+      "title": "N Lakeshore Dr at Kenmore Rd",
+      "shortTitle": "N Lakeshore Dr @ Kenmore",
+      "stopId": "3314",
+      "tag": "nlakkenm_e",
+      "lat": "35.9459909"
+    },
+    "nlak2122": {
+      "lon": "-79.0344418",
+      "title": "N Lakeshore Dr at #2122",
+      "shortTitle": "N Lakeshore Dr @ #2122",
+      "stopId": "3315",
+      "tag": "nlak2122",
+      "lat": "35.9485981"
+    },
+    "nlakbroo": {
+      "lon": "-79.0332903",
+      "title": "N Lakeshore Dr at Brookview Rd",
+      "shortTitle": "N Lakeshore Dr @ Brookview",
+      "stopId": "3317",
+      "tag": "nlakbroo",
+      "lat": "35.9510757"
+    },
+    "honehone_e": {
+      "lon": "-79.0308802",
+      "title": "Honeysuckle Rd at Honeysuckle Ct",
+      "shortTitle": "Honeysuckle @ Honeysuckle Ct",
+      "stopId": "3319",
+      "tag": "honehone_e",
+      "lat": "35.9522795"
+    },
+    "honeredb_e": {
+      "lon": "-79.0290649",
+      "title": "Honeysuckle Rd at Red Bud Ln",
+      "shortTitle": "Honeysuckle @ Red Bud Ln",
+      "stopId": "3301",
+      "tag": "honeredb_e",
+      "lat": "35.95227"
+    },
+    "honebook": {
+      "lon": "-79.0271086",
+      "title": "Honeysuckle Rd at Booker Creek Rd",
+      "shortTitle": "Honeysuckle @ Booker Creek",
+      "stopId": "3298",
+      "tag": "honebook",
+      "lat": "35.9522998"
+    },
+    "booklake": {
+      "lon": "-79.0269301",
+      "title": "Booker Creek Rd at Lakeshore Ln",
+      "shortTitle": "Booker Creek @ Lakeshore Ln",
+      "stopId": "3308",
+      "tag": "booklake",
+      "lat": "35.949625"
+    },
+    "morrgrove_d": {
+      "lon": "-79.1009",
+      "title": "Morris Grove Elementary",
+      "stopId": "3698",
+      "tag": "morrgrove_d",
+      "lat": "35.96644"
+    },
+    "rogemead_s": {
+      "lon": "-79.0889811",
+      "title": "Rogers Rd. at Meadow Run",
+      "shortTitle": "Rogers @ Meadow Run",
+      "stopId": "3697",
+      "tag": "rogemead_s",
+      "lat": "35.9640668"
+    },
+    "rogepure_s": {
+      "lon": "-79.0843184",
+      "title": "Rogers Rd. at Purefoy",
+      "shortTitle": "Rogers @ Purefoy",
+      "stopId": "3695",
+      "tag": "rogepure_s",
+      "lat": "35.9591268"
+    },
+    "rogerusc_s": {
+      "lon": "-79.0824909",
+      "title": "Rogers Rd. at Rusch",
+      "shortTitle": "Rogers @ Rusch",
+      "stopId": "3693",
+      "tag": "rogerusc_s",
+      "lat": "35.9574409"
+    },
+    "rogetall_s": {
+      "lon": "-79.0816888",
+      "title": "Rogers Rd. at Tallyho",
+      "shortTitle": "Rogers @ Tallyho",
+      "stopId": "3691",
+      "tag": "rogetall_s",
+      "lat": "35.9555862"
+    },
+    "rogeclay_s": {
+      "lon": "-79.0808904",
+      "title": "Rogers Rd. at Claymore",
+      "shortTitle": "Rogers @ Claymore",
+      "stopId": "3688",
+      "tag": "rogeclay_s",
+      "lat": "35.9526918"
+    },
+    "homester_s": {
+      "lon": "-79.0814121",
+      "title": "Homestead at Sterling Bridge",
+      "shortTitle": "Homestead @ Sterling Bridge",
+      "stopId": "3687",
+      "tag": "homester_s",
+      "lat": "35.9501481"
+    },
+    "homecamd_s": {
+      "lon": "-79.0828593",
+      "title": "Homestead at Camden",
+      "shortTitle": "Homestead @ Camden",
+      "stopId": "3685",
+      "tag": "homecamd_s",
+      "lat": "35.9481318"
+    },
+    "chaphigh_d": {
+      "lon": "-79.0810221",
+      "title": "Chapel Hill High School",
+      "stopId": "3614",
+      "tag": "chaphigh_d",
+      "lat": "35.94721"
+    },
+    "sewesava": {
+      "lon": "-79.0754694",
+      "title": "Sewell School Rd at Savannah Ter",
+      "shortTitle": "Sewell School @ Savannah Ter",
+      "stopId": "3710",
+      "tag": "sewesava",
+      "lat": "35.9483727"
+    },
+    "sewekove": {
+      "lon": "-79.0754604",
+      "title": "Sewell School Rd at Kove Rd",
+      "shortTitle": "Sewell School @ Kove",
+      "stopId": "3709",
+      "tag": "sewekove",
+      "lat": "35.9505039"
+    },
+    "homeshum": {
+      "lon": "-79.064114",
+      "title": "Homestead Rd at Southern Human Services",
+      "shortTitle": "Homestead @ Southern Human Services",
+      "stopId": "3610",
+      "tag": "homeshum",
+      "lat": "35.9513"
+    },
+    "mlkchapv": {
+      "lon": "-79.05869",
+      "title": "Martin Luther King Jr Blvd at Chapel View",
+      "shortTitle": "Martin Luther King Jr @ Chapel View",
+      "stopId": "3332",
+      "tag": "mlkchapv",
+      "lat": "35.9485308"
+    },
+    "mlknortf": {
+      "lon": "-79.0585194",
+      "title": "Martin Luther King Jr Blvd  at Northfield Dr",
+      "shortTitle": "Martin Luther King Jr  @ Northfield Dr",
+      "stopId": "3420",
+      "tag": "mlknortf",
+      "lat": "35.9464517"
+    },
+    "mlktimh": {
+      "lon": "-79.0573001",
+      "title": "Martin Luther King Jr Blvd  at Timber Hollow",
+      "shortTitle": "Martin Luther King Jr  @ Timber Hollow",
+      "stopId": "3330",
+      "tag": "mlktimh",
+      "lat": "35.9402107"
+    },
+    "mlkshadw": {
+      "lon": "-79.0566399",
+      "title": "Martin Luther King Jr Blvd at Shadowood",
+      "shortTitle": "Martin Luther King Jr @ Shadowood",
+      "stopId": "3327",
+      "tag": "mlkshadw",
+      "lat": "35.9370698"
+    },
+    "seawwood": {
+      "lon": "-79.0694496",
+      "title": "Seawell School Rd at Woodleaf Dr",
+      "shortTitle": "Seawell School @ Woodleaf Dr",
+      "stopId": "3613",
+      "tag": "seawwood",
+      "lat": "35.9304299"
+    },
+    "smitscho_n": {
+      "lon": "-79.0764796",
+      "title": "Smith Middle School",
+      "stopId": "3681",
+      "tag": "smitscho_n",
+      "lat": "35.9406723"
+    },
+    "highcelt": {
+      "lon": "-79.0813099",
+      "title": "High School at Celtic",
+      "shortTitle": "High School @ Celtic",
+      "stopId": "3683",
+      "tag": "highcelt",
+      "lat": "35.9473399"
+    },
+    "homecamd_n": {
+      "lon": "-79.082768",
+      "title": "Homestead at Camden",
+      "shortTitle": "Homestead @ Camden",
+      "stopId": "3684",
+      "tag": "homecamd_n",
+      "lat": "35.9480152"
+    },
+    "homester_n": {
+      "lon": "-79.0812846",
+      "title": "Homestead at Sterling Bridge",
+      "shortTitle": "Homestead @ Sterling Bridge",
+      "stopId": "3686",
+      "tag": "homester_n",
+      "lat": "35.9500946"
+    },
+    "rogesylv": {
+      "lon": "-79.080772",
+      "title": "Rogers Rd. at Sylvan",
+      "shortTitle": "Rogers @ Sylvan",
+      "stopId": "3689",
+      "tag": "rogesylv",
+      "lat": "35.9527076"
+    },
+    "rogetall_n": {
+      "lon": "-79.0815412",
+      "title": "Rogers Rd. at Tallyho",
+      "shortTitle": "Rogers @ Tallyho",
+      "stopId": "3690",
+      "tag": "rogetall_n",
+      "lat": "35.9555045"
+    },
+    "rogerusc_n": {
+      "lon": "-79.0823106",
+      "title": "Rogers Rd. at Rusch",
+      "shortTitle": "Rogers @ Rusch",
+      "stopId": "3692",
+      "tag": "rogerusc_n",
+      "lat": "35.9574008"
+    },
+    "rogepure_n": {
+      "lon": "-79.0839607",
+      "title": "Rogers Rd. at Purefoy",
+      "shortTitle": "Rogers @ Purefoy",
+      "stopId": "3694",
+      "tag": "rogepure_n",
+      "lat": "35.9591005"
+    },
+    "rogemead_n": {
+      "lon": "-79.0886788",
+      "title": "Rogers Rd. at Meadow Run",
+      "shortTitle": "Rogers @ Meadow Run",
+      "stopId": "3696",
+      "tag": "rogemead_n",
+      "lat": "35.9639893"
+    },
+    "morrgrove_a": {
+      "lon": "-79.1013299",
+      "title": "Morris Grove Elementary",
+      "stopId": "3698",
+      "tag": "morrgrove_a",
+      "lat": "35.96644"
+    },
+    "fridhedr": {
+      "lon": "-79.0133399",
+      "title": "Friday Center Dr near Hedrick Bld",
+      "stopId": "3025",
+      "tag": "fridhedr",
+      "lat": "35.8951799"
+    },
+    "nc54park": {
+      "lon": "-79.01235",
+      "title": "NC 54 Park-Ride Lot",
+      "stopId": "3024",
+      "tag": "nc54park",
+      "lat": "35.8963899"
+    },
+    "fridfinl": {
+      "lon": "-79.0110301",
+      "title": "Friday Center Dr at Finley Forest Park",
+      "shortTitle": "Friday Center Dr @ Finley Forest Park",
+      "stopId": "3026",
+      "tag": "fridfinl",
+      "lat": "35.8992079"
+    },
+    "fingolf_u": {
+      "lon": "-79.0190201",
+      "title": "Finley Golf Course at NC 54",
+      "shortTitle": "Finley Golf Course @ NC 54",
+      "stopId": "3700",
+      "tag": "fingolf_u",
+      "lat": "35.9060074"
+    },
+    "ronhou_u": {
+      "lon": "-79.0306795",
+      "title": "Ronald McDonald House",
+      "stopId": "3659",
+      "tag": "ronhou_u",
+      "lat": "35.9009098"
+    },
+    "omfhigh_u": {
+      "lon": "-79.0317483",
+      "title": "Old Mason Farm at Highland Woods",
+      "shortTitle": "Old Mason Farm @ Highland Woods",
+      "stopId": "3704",
+      "tag": "omfhigh_u",
+      "lat": "35.9011795"
+    },
+    "masoambu": {
+      "lon": "-79.0559509",
+      "title": "Mason Farm Rd at Ambulatory Care Center",
+      "shortTitle": "Mason Farm @ Ambulatory Care Center",
+      "stopId": "3221",
+      "tag": "masoambu",
+      "lat": "35.9020499"
+    },
+    "eastjack_h": {
+      "lon": "-79.0507289",
+      "title": "East Dr at Jackson Circle",
+      "shortTitle": "East Dr @ Jackson Circle",
+      "stopId": "3237",
+      "tag": "eastjack_h",
+      "lat": "35.9018729"
+    },
+    "botgard_h": {
+      "lon": "-79.0322086",
+      "title": "Old Mason Farm at UNC Botanical Gardens",
+      "shortTitle": "Old Mason Farm @ UNC Botanical Gardens",
+      "stopId": "3705",
+      "tag": "botgard_h",
+      "lat": "35.9012396"
+    },
+    "ronhou": {
+      "lon": "-79.03069",
+      "title": "Ronald McDonald House",
+      "stopId": "3658",
+      "tag": "ronhou",
+      "lat": "35.90086"
+    },
+    "fingolf_h": {
+      "lon": "-79.0189482",
+      "title": "Finley Golf Course at NC 54",
+      "shortTitle": "Finley Golf Course @ NC 54",
+      "stopId": "3701",
+      "tag": "fingolf_h",
+      "lat": "35.9060723"
+    },
+    "fridfrid": {
+      "lon": "-79.01127",
+      "title": "Friday Center Dr at Friday Center",
+      "shortTitle": "Friday Center Dr @ Friday Center",
+      "stopId": "3027",
+      "tag": "fridfrid",
+      "lat": "35.89962"
+    },
+    "maxway_d": {
+      "lon": "-79.0998299",
+      "title": "Churton Street at North Hills Shopping Center",
+      "shortTitle": "Churton @ North Hills Shopping Center",
+      "stopId": "3500",
+      "tag": "maxway_d",
+      "lat": "36.0844899"
+    },
+    "hw70rain_c": {
+      "lon": "-79.1084007",
+      "title": "Hwy 70 at Rainey",
+      "shortTitle": "Hwy 70 @ Rainey",
+      "stopId": "3501",
+      "tag": "hw70rain_c",
+      "lat": "36.0872"
+    },
+    "churton_c": {
+      "lon": "-79.09953",
+      "title": "Churton St. at Police Station",
+      "shortTitle": "Churton @ Police Station",
+      "stopId": "3502",
+      "tag": "churton_c",
+      "lat": "36.07685"
+    },
+    "hmdept_c": {
+      "lon": "-79.0800735",
+      "title": "Home Depot",
+      "stopId": "3503",
+      "tag": "hmdept_c",
+      "lat": "36.055595"
+    },
+    "dtcc_c": {
+      "lon": "-79.0919672",
+      "title": "Durham Tech",
+      "stopId": "3504",
+      "tag": "dtcc_c",
+      "lat": "36.0406984"
+    },
+    "hw86stry_c": {
+      "lon": "-79.0800308",
+      "title": "NC 86 at Story",
+      "shortTitle": "NC 86 @ Story",
+      "stopId": "3505",
+      "tag": "hw86stry_c",
+      "lat": "36.027274"
+    },
+    "hw86mill_c": {
+      "lon": "-79.0716489",
+      "title": "NC 86 at Millhouse",
+      "shortTitle": "NC 86 @ Millhouse",
+      "stopId": "3506",
+      "tag": "hw86mill_c",
+      "lat": "35.9925273"
+    },
+    "colufrank": {
+      "lon": "-79.0560417",
+      "title": "N Columbia St at W Franklin St",
+      "shortTitle": "N Columbia @ W Franklin",
+      "stopId": "3507",
+      "tag": "colufrank",
+      "lat": "35.9134029"
+    },
+    "unch_d": {
+      "lon": "-79.0518599",
+      "title": "Manning Dr at UNC Hospitals",
+      "shortTitle": "Manning Dr @ UNC Hospitals",
+      "stopId": "3600",
+      "tag": "unch_d",
+      "lat": "35.9035599"
+    },
+    "hw86mill_h": {
+      "lon": "-79.0715629",
+      "title": "NC 86 at Millhouse",
+      "shortTitle": "NC 86 @ Millhouse",
+      "stopId": "3601",
+      "tag": "hw86mill_h",
+      "lat": "35.9925669"
+    },
+    "hw86stry_h": {
+      "lon": "-79.0799125",
+      "title": "NC 86 at Story",
+      "shortTitle": "NC 86 @ Story",
+      "stopId": "3602",
+      "tag": "hw86stry_h",
+      "lat": "36.027291"
+    },
+    "dtcc_h": {
+      "lon": "-79.0919699",
+      "title": "Durham Tech",
+      "stopId": "3603",
+      "tag": "dtcc_h",
+      "lat": "36.0406999"
+    },
+    "hmdept_h": {
+      "lon": "-79.0799507",
+      "title": "Home Depot",
+      "stopId": "3604",
+      "tag": "hmdept_h",
+      "lat": "36.0556365"
+    },
+    "churton_h": {
+      "lon": "-79.0993896",
+      "title": "Churton St At Courthouse",
+      "shortTitle": "Churton @ Courthouse",
+      "stopId": "3605",
+      "tag": "churton_h",
+      "lat": "36.0760599"
+    },
+    "maxway_a": {
+      "lon": "-79.0996793",
+      "title": "Churton Street at North Hills Shopping Center (Hidden Arrival)",
+      "shortTitle": "Churton @ North Hills Shopping Center (Hidden Arrival)",
+      "stopId": "3606",
+      "tag": "maxway_a",
+      "lat": "36.0842583"
+    },
+    "rockrock_d": {
+      "lon": "-79.0831599",
+      "title": "Rock Haven Rd at Rock Creek West",
+      "shortTitle": "Rock Haven @ Rock Creek West",
+      "stopId": "3172",
+      "tag": "rockrock_d",
+      "lat": "35.8919299"
+    },
+    "rockrock_od": {
+      "lon": "-79.0830143",
+      "title": "Rock Haven Rd opposite Rock Creek West",
+      "shortTitle": "Rock Haven opposite Rock Creek West",
+      "stopId": "3655",
+      "tag": "rockrock_od",
+      "lat": "35.89182"
+    },
+    "carrhs_n": {
+      "lon": "-79.0842387",
+      "title": "Carrboro High School",
+      "stopId": "3652",
+      "tag": "carrhs_n",
+      "lat": "35.8929273"
+    },
+    "highturn_n": {
+      "lon": "-79.0858105",
+      "title": "Highland Hills at Turnaround Circle",
+      "shortTitle": "Highland Hills @ Turnaround Circle",
+      "stopId": "3152",
+      "tag": "highturn_n",
+      "lat": "35.8936666"
+    },
+    "hightarh_n": {
+      "lon": "-79.0854899",
+      "title": "Tar Hill Dr at BPW Club Rd (Northbound)",
+      "shortTitle": "Tar Hill Dr @ BPW Club (Northbound)",
+      "stopId": "3171",
+      "tag": "hightarh_n",
+      "lat": "35.89488"
+    },
+    "tighwelc_n": {
+      "lon": "-79.0828733",
+      "title": "BPW Club Rd at Tennis Courts",
+      "shortTitle": "BPW Club @ Tennis Courts",
+      "stopId": "3158",
+      "tag": "tighwelc_n",
+      "lat": "35.8958086"
+    },
+    "bpwcthev_n": {
+      "lon": "-79.0795498",
+      "title": "BPW Club Rd at The Villages",
+      "shortTitle": "BPW Club @ The Villages",
+      "stopId": "3154",
+      "tag": "bpwcthev_n",
+      "lat": "35.8954599"
+    },
+    "bpwcsmit_n": {
+      "lon": "-79.0769918",
+      "title": "BPW Club Rd at Smith Level Rd",
+      "shortTitle": "BPW Club @ Smith Level",
+      "stopId": "3042",
+      "tag": "bpwcsmit_n",
+      "lat": "35.89542"
+    },
+    "smitbpwc": {
+      "lon": "-79.0761196",
+      "title": "Smith Level Rd at BPW Club Rd",
+      "shortTitle": "Smith Level @ BPW Club",
+      "stopId": "3147",
+      "tag": "smitbpwc",
+      "lat": "35.8957609"
+    },
+    "smitwill_n": {
+      "lon": "-79.0751396",
+      "title": "Smith Level Rd at Willow Oak",
+      "shortTitle": "Smith Level @ Willow Oak",
+      "stopId": "3044",
+      "tag": "smitwill_n",
+      "lat": "35.8981804"
+    },
+    "emaijade": {
+      "lon": "-79.0714994",
+      "title": "E. Main St at Jade Palace",
+      "shortTitle": "E. Main @ Jade Palace",
+      "stopId": "3504",
+      "tag": "emaijade",
+      "lat": "35.9104715"
+    },
+    "nc54royal": {
+      "lon": "-79.0779824",
+      "title": "NC 54 West at Royal Park",
+      "shortTitle": "NC 54 West @ Royal Park",
+      "stopId": "3465",
+      "tag": "nc54royal",
+      "lat": "35.9029505"
+    },
+    "joneabbe": {
+      "lon": "-79.0829507",
+      "title": "Jones Ferry at Davie Road",
+      "shortTitle": "Jones Ferry @ Davie",
+      "stopId": "3489",
+      "tag": "joneabbe",
+      "lat": "35.9067897"
+    },
+    "jonebarn": {
+      "lon": "-79.0796229",
+      "title": "Jones Ferry at Barnes St",
+      "shortTitle": "Jones Ferry @ Barnes",
+      "stopId": "3492",
+      "tag": "jonebarn",
+      "lat": "35.9081985"
+    },
+    "jonebims": {
+      "lon": "-79.0778127",
+      "title": "Jones Ferry at Bim St",
+      "shortTitle": "Jones Ferry @ Bim",
+      "stopId": "3493",
+      "tag": "jonebims",
+      "lat": "35.9090886"
+    },
+    "joneptat": {
+      "lon": "-79.0753076",
+      "title": "Jones Ferry at PTA Thrift Store",
+      "shortTitle": "Jones Ferry @ PTA Thrift Store",
+      "stopId": "3145",
+      "tag": "joneptat",
+      "lat": "35.909818"
+    },
+    "wmaiclub": {
+      "lon": "-79.0734837",
+      "title": "W Main St at Club Nova Thrift",
+      "shortTitle": "W Main @ Club Nova Thrift",
+      "stopId": "3456",
+      "tag": "wmaiclub",
+      "lat": "35.9100794"
+    },
+    "emaiweav": {
+      "lon": "-79.0707401",
+      "title": "E Main St at Weaver St Realty",
+      "shortTitle": "E Main @ Weaver Realty",
+      "stopId": "3505",
+      "tag": "emaiweav",
+      "lat": "35.9104499"
+    },
+    "nc54laur": {
+      "lon": "-79.0665982",
+      "title": "NC 54 West at Laurel Ridge",
+      "shortTitle": "NC 54 West @ Laurel Ridge",
+      "stopId": "3190",
+      "tag": "nc54laur",
+      "lat": "35.8987491"
+    },
+    "merrtobe": {
+      "lon": "-79.0723159",
+      "title": "Merritt Mill Rd at Roberts St",
+      "shortTitle": "Merritt Mill @ Roberts",
+      "stopId": "3146",
+      "tag": "merrtobe",
+      "lat": "35.9013591"
+    },
+    "smitpubl": {
+      "lon": "-79.0739571",
+      "title": "Smith Level Rd at Public Works Dept",
+      "shortTitle": "Smith Level @ Public Works Dept",
+      "stopId": "3043",
+      "tag": "smitpubl",
+      "lat": "35.900444"
+    },
+    "smitwill_s": {
+      "lon": "-79.075316",
+      "title": "Smith Level Rd at Willow Oak (Berryhill)",
+      "shortTitle": "Smith Level @ Willow Oak (Berryhill)",
+      "stopId": "3605",
+      "tag": "smitwill_s",
+      "lat": "35.8982164"
+    },
+    "bpwcorch_s": {
+      "lon": "-79.07755",
+      "title": "BPW Club Rd at Orchard Ln (Berryhill)",
+      "shortTitle": "BPW Club @ Orchard Ln (Berryhill)",
+      "stopId": "3151",
+      "tag": "bpwcorch_s",
+      "lat": "35.89556"
+    },
+    "pbwcster_s": {
+      "lon": "-79.0799891",
+      "title": "BPW Club Rd at Sterling Bluff",
+      "shortTitle": "BPW Club @ Sterling Bluff",
+      "stopId": "3155",
+      "tag": "pbwcster_s",
+      "lat": "35.8955799"
+    },
+    "highbpw": {
+      "lon": "-79.0822552",
+      "title": "BPW Club Blvd at Welcome Center",
+      "shortTitle": "BPW Club @ Welcome Center",
+      "stopId": "3169",
+      "tag": "highbpw",
+      "lat": "35.8960091"
+    },
+    "tarhbpwc_s": {
+      "lon": "-79.0856225",
+      "title": "Tar Hill Dr at BPW Club Rd (Southbound)",
+      "shortTitle": "Tar Hill Dr @ BPW Club (Southbound)",
+      "stopId": "3153",
+      "tag": "tarhbpwc_s",
+      "lat": "35.8949174"
+    },
+    "rocksmit": {
+      "lon": "-79.0800482",
+      "title": "Rock Haven Rd at Smith Level Rd",
+      "shortTitle": "Rock Haven @ Smith Level",
+      "stopId": "3173",
+      "tag": "rocksmit",
+      "lat": "35.8918899"
+    },
+    "jonewill_o": {
+      "lon": "-79.0889831",
+      "title": "Jones Ferry Rd at Willow Creek Prof",
+      "shortTitle": "Jones Ferry @ Willow Creek Prof",
+      "stopId": "3573",
+      "tag": "jonewill_o",
+      "lat": "35.9047786"
+    },
+    "joneashf": {
+      "lon": "-79.08752",
+      "title": "Jones Ferry Rd at Ashford Apts",
+      "shortTitle": "Jones Ferry @ Ashford Apts",
+      "stopId": "3142",
+      "tag": "joneashf",
+      "lat": "35.9053099"
+    },
+    "ofaypopl2": {
+      "lon": "-79.0909295",
+      "title": "Old Fayetteville Rd at Poplar Place",
+      "shortTitle": "Old Fayetteville @ Poplar Place",
+      "stopId": "3139",
+      "tag": "ofaypopl2",
+      "lat": "35.9031884"
+    },
+    "oldfcres": {
+      "lon": "-79.0933801",
+      "title": "Old Fayetteville Rd at The Crest",
+      "shortTitle": "Old Fayetteville @ The Crest",
+      "stopId": "3595",
+      "tag": "oldfcres",
+      "lat": "35.9106604"
+    },
+    "estepark_d": {
+      "lon": "-79.07017",
+      "title": "Estes Park Apts - Departure",
+      "stopId": "3270",
+      "tag": "estepark_d",
+      "lat": "35.92005"
+    },
+    "villeste_s": {
+      "lon": "-79.0711139",
+      "title": "Village Dr at Estes Dr",
+      "shortTitle": "Village Dr @ Estes Dr",
+      "stopId": "3405",
+      "tag": "villeste_s",
+      "lat": "35.9227937"
+    },
+    "villoakl_s": {
+      "lon": "-79.0696553",
+      "title": "Village Dr at Oakland Dr",
+      "shortTitle": "Village Dr @ Oakland Dr",
+      "stopId": "3084",
+      "tag": "villoakl_s",
+      "lat": "35.9213552"
+    },
+    "villfern_s": {
+      "lon": "-79.067316",
+      "title": "Village Dr at Fernwood Ln",
+      "shortTitle": "Village Dr @ Fernwood Ln",
+      "stopId": "3036",
+      "tag": "villfern_s",
+      "lat": "35.9206863"
+    },
+    "villwind_s": {
+      "lon": "-79.0658607",
+      "title": "Village Dr at Winding Creek",
+      "shortTitle": "Village Dr @ Winding Creek",
+      "stopId": "3037",
+      "tag": "villwind_s",
+      "lat": "35.9219269"
+    },
+    "umstboli_s": {
+      "lon": "-79.0650462",
+      "title": "Umstead Dr at Bolinwood Apts",
+      "shortTitle": "Umstead Dr @ Bolinwood Apts",
+      "stopId": "3039",
+      "tag": "umstboli_s",
+      "lat": "35.9226609"
+    },
+    "umstpark_s": {
+      "lon": "-79.0622315",
+      "title": "Umstead Dr at Umstead Park",
+      "shortTitle": "Umstead Dr @ Umstead Park",
+      "stopId": "3041",
+      "tag": "umstpark_s",
+      "lat": "35.9217298"
+    },
+    "umstprit_s": {
+      "lon": "-79.0606111",
+      "title": "Umstead Dr at Pritchard Ave Ext",
+      "shortTitle": "Umstead Dr @ Pritchard Ext",
+      "stopId": "3429",
+      "tag": "umstprit_s",
+      "lat": "35.9225197"
+    },
+    "caldhous_s": {
+      "lon": "-79.06257",
+      "title": "Caldwell St at Housing Authority",
+      "shortTitle": "Caldwell @ Housing Authority",
+      "stopId": "3619",
+      "tag": "caldhous_s",
+      "lat": "35.9170687"
+    },
+    "mitccald_s": {
+      "lon": "-79.0636725",
+      "title": "Mitchell Lane at Caldwell St",
+      "shortTitle": "Mitchell Lane @ Caldwell",
+      "stopId": "3564",
+      "tag": "mitccald_s",
+      "lat": "35.9150832"
+    },
+    "mitcrobe": {
+      "lon": "-79.062872",
+      "title": "Mitchell Lane at Robertson St",
+      "shortTitle": "Mitchell Lane @ Robertson",
+      "stopId": "3566",
+      "tag": "mitcrobe",
+      "lat": "35.9135545"
+    },
+    "mitch211": {
+      "lon": "-79.06253",
+      "title": "Mitchell Lane at #211",
+      "shortTitle": "Mitchell Lane @ #211",
+      "stopId": "3582",
+      "tag": "mitch211",
+      "lat": "35.9121097"
+    },
+    "rosemini": {
+      "lon": "-79.0606372",
+      "title": "W Rosemary St at Mini-Mart",
+      "shortTitle": "W Rosemary @ Mini-Mart",
+      "stopId": "3409",
+      "tag": "rosemini",
+      "lat": "35.9123672"
+    },
+    "roseprit_s": {
+      "lon": "-79.0580504",
+      "title": "W Rosemary St at Pritchard Ave",
+      "shortTitle": "W Rosemary @ Pritchard",
+      "stopId": "3568",
+      "tag": "roseprit_s",
+      "lat": "35.9133398"
+    },
+    "carrhs": {
+      "lon": "-79.0842387",
+      "title": "Carrboro High School",
+      "stopId": "3652",
+      "tag": "carrhs",
+      "lat": "35.8929273"
+    },
+    "merrgree": {
+      "lon": "-79.0725617",
+      "title": "Merritt Mill Rd at Greensboro St",
+      "shortTitle": "Merritt Mill @ Greensboro",
+      "stopId": "3708",
+      "tag": "merrgree",
+      "lat": "35.9005659"
+    },
+    "mitccald_n": {
+      "lon": "-79.06405",
+      "title": "Mitchell Ln at Caldwell St",
+      "shortTitle": "Mitchell Ln @ Caldwell",
+      "stopId": "3413",
+      "tag": "mitccald_n",
+      "lat": "35.91585"
+    },
+    "umstprit_n": {
+      "lon": "-79.0604188",
+      "title": "Umstead Dr at Pritchard Ave Ext",
+      "shortTitle": "Umstead Dr @ Pritchard Ext",
+      "stopId": "3089",
+      "tag": "umstprit_n",
+      "lat": "35.9226503"
+    },
+    "umstpark_n": {
+      "lon": "-79.0623501",
+      "title": "Umstead Dr at Umstead Park",
+      "shortTitle": "Umstead Dr @ Umstead Park",
+      "stopId": "3040",
+      "tag": "umstpark_n",
+      "lat": "35.92177"
+    },
+    "umstboli_n": {
+      "lon": "-79.0650391",
+      "title": "Umstead Dr at Bolinwood Apts",
+      "shortTitle": "Umstead Dr @ Bolinwood Apts",
+      "stopId": "3039",
+      "tag": "umstboli_n",
+      "lat": "35.9226627"
+    },
+    "villwind": {
+      "lon": "-79.0661164",
+      "title": "Village Dr at Winding Creek",
+      "shortTitle": "Village Dr @ Winding Creek",
+      "stopId": "3038",
+      "tag": "villwind",
+      "lat": "35.9217077"
+    },
+    "villfern": {
+      "lon": "-79.0673472",
+      "title": "Village Dr at Fernwood Ln",
+      "shortTitle": "Village Dr @ Fernwood Ln",
+      "stopId": "3406",
+      "tag": "villfern",
+      "lat": "35.9208957"
+    },
+    "villoakl": {
+      "lon": "-79.0693428",
+      "title": "Village Dr at Oakland Dr",
+      "shortTitle": "Village Dr @ Oakland Dr",
+      "stopId": "3085",
+      "tag": "villoakl",
+      "lat": "35.9212342"
+    },
+    "villeste": {
+      "lon": "-79.070825",
+      "title": "Village Dr at Estes Dr",
+      "shortTitle": "Village Dr @ Estes Dr",
+      "stopId": "3035",
+      "tag": "villeste",
+      "lat": "35.9226952"
+    },
+    "ncoltown": {
+      "lon": "-79.0577201",
+      "title": "N Columbia St at Town Hall",
+      "shortTitle": "N Columbia @ Town Hall",
+      "stopId": "3416",
+      "tag": "ncoltown",
+      "lat": "35.9164202"
+    },
+    "villwind_n": {
+      "lon": "-79.0661269",
+      "title": "Village Dr at Winding Creek",
+      "shortTitle": "Village Dr @ Winding Creek",
+      "stopId": "3038",
+      "tag": "villwind_n",
+      "lat": "35.921691"
+    },
+    "villfern_n": {
+      "lon": "-79.0673548",
+      "title": "Village Dr at Fernwood Ln",
+      "shortTitle": "Village Dr @ Fernwood Ln",
+      "stopId": "3406",
+      "tag": "villfern_n",
+      "lat": "35.9208863"
+    },
+    "villoakl_n": {
+      "lon": "-79.0693519",
+      "title": "Village Dr at Oakland Dr",
+      "shortTitle": "Village Dr @ Oakland Dr",
+      "stopId": "3085",
+      "tag": "villoakl_n",
+      "lat": "35.9212426"
+    },
+    "villeste_n": {
+      "lon": "-79.0708337",
+      "title": "Village Dr at Estes Dr",
+      "shortTitle": "Village Dr @ Estes Dr",
+      "stopId": "3035",
+      "tag": "villeste_n",
+      "lat": "35.9227038"
+    },
+    "estepark_a": {
+      "lon": "-79.0701699",
+      "title": "Estes Park Apts - Arrival",
+      "stopId": "3270",
+      "tag": "estepark_a",
+      "lat": "35.92005"
+    },
+    "estepark": {
+      "lon": "-79.07017",
+      "title": "Estes Park Apts - Departure",
+      "stopId": "3270",
+      "tag": "estepark",
+      "lat": "35.92005"
+    },
+    "eubapark_d": {
+      "lon": "-79.0712627",
+      "title": "Eubanks Rd Park-Ride Lot - Departure",
+      "shortTitle": "Eubanks Park-Ride Lot - Departure",
+      "stopId": "3149",
+      "tag": "eubapark_d",
+      "lat": "35.97005"
+    },
+    "eubanort_s": {
+      "lon": "-79.065988",
+      "title": "Eubanks Rd at Northwood Dr",
+      "shortTitle": "Eubanks @ Northwood Dr",
+      "stopId": "3401",
+      "tag": "eubanort_s",
+      "lat": "35.9693299"
+    },
+    "airpchap_s": {
+      "lon": "-79.0595806",
+      "title": "Martin Luther King Jr Blvd at Chapel Hill North",
+      "shortTitle": "Martin Luther King Jr @ Chapel Hill North",
+      "stopId": "3606",
+      "tag": "airpchap_s",
+      "lat": "35.9664716"
+    },
+    "airpnort_s": {
+      "lon": "-79.0583189",
+      "title": "Martin Luther King Jr Blvd at Northwood Dr",
+      "shortTitle": "Martin Luther King Jr @ Northwood Dr",
+      "stopId": "3086",
+      "tag": "airpnort_s",
+      "lat": "35.9633907"
+    },
+    "airpwest_s": {
+      "lon": "-79.0575402",
+      "title": "Martin Luther King Jr Blvd at Westminster Dr",
+      "shortTitle": "Martin Luther King Jr @ Westminster Dr",
+      "stopId": "3441",
+      "tag": "airpwest_s",
+      "lat": "35.9606515"
+    },
+    "airprigg_s": {
+      "lon": "-79.0575198",
+      "title": "Martin Luther King Jr Blvd at Riggsbee Trailer Court",
+      "shortTitle": "Martin Luther King Jr @ Riggsbee Trailer Court",
+      "stopId": "3119",
+      "tag": "airprigg_s",
+      "lat": "35.9587415"
+    },
+    "airpstat_s": {
+      "lon": "-79.0580898",
+      "title": "Martin Luther King Jr Blvd  at Stateside Dr",
+      "shortTitle": "Martin Luther King Jr  @ Stateside Dr",
+      "stopId": "3071",
+      "tag": "airpstat_s",
+      "lat": "35.9547414"
+    },
+    "bennus15": {
+      "lon": "-79.061348",
+      "title": "US 15-501 South at Bennett Rd",
+      "shortTitle": "US 15-501 South @ Bennett",
+      "stopId": "3645",
+      "tag": "bennus15",
+      "lat": "35.8850194"
+    },
+    "kildmark": {
+      "lon": "-79.0656514",
+      "title": "Kildaire Rd at Market St",
+      "shortTitle": "Kildaire @ Market",
+      "stopId": "3175",
+      "tag": "kildmark",
+      "lat": "35.8800993"
+    },
+    "soutpark": {
+      "lon": "-79.06621",
+      "title": "Southern Village Park-Ride Lot",
+      "stopId": "3174",
+      "tag": "soutpark",
+      "lat": "35.87881"
+    },
+    "us15benn": {
+      "lon": "-79.0614301",
+      "title": "US 15-501 North at Bennett Rd",
+      "shortTitle": "US 15-501 North @ Bennett",
+      "stopId": "3646",
+      "tag": "us15benn",
+      "lat": "35.8862508"
+    },
+    "mlkbhome": {
+      "lon": "-79.05813",
+      "title": "Martin Luther King Jr Blvd at Homestead Rd",
+      "shortTitle": "Martin Luther King Jr @ Homestead",
+      "stopId": "3336",
+      "tag": "mlkbhome",
+      "lat": "35.9500199"
+    },
+    "airpstat_n": {
+      "lon": "-79.0577578",
+      "title": "Martin Luther King Jr Blvd  at Stateside Dr",
+      "shortTitle": "Martin Luther King Jr  @ Stateside Dr",
+      "stopId": "3607",
+      "tag": "airpstat_n",
+      "lat": "35.9556002"
+    },
+    "aiprrigg_n": {
+      "lon": "-79.0571701",
+      "title": "Martin Luther King Jr Blvd  East of Riggsbee Trailer Court",
+      "shortTitle": "Martin Luther King Jr  East of Riggsbee Trailer Court",
+      "stopId": "3091",
+      "tag": "aiprrigg_n",
+      "lat": "35.9597161"
+    },
+    "airpnort_n": {
+      "lon": "-79.0586596",
+      "title": "Martin Luther King Jr Blvd  opposite Northwood Dr",
+      "shortTitle": "Martin Luther King Jr  opposite Northwood Dr",
+      "stopId": "3403",
+      "tag": "airpnort_n",
+      "lat": "35.9651789"
+    },
+    "airpchap_n": {
+      "lon": "-79.0591796",
+      "title": "Martin Luther King Jr Blvd at Chapel Hill North",
+      "shortTitle": "Martin Luther King Jr @ Chapel Hill North",
+      "stopId": "3402",
+      "tag": "airpchap_n",
+      "lat": "35.966449"
+    },
+    "eubanort_n": {
+      "lon": "-79.0662277",
+      "title": "Eubanks Rd at Northwood Dr",
+      "shortTitle": "Eubanks @ Northwood Dr",
+      "stopId": "3080",
+      "tag": "eubanort_n",
+      "lat": "35.9694599"
+    },
+    "railrlot_d": {
+      "lon": "-79.0648985",
+      "title": "RR Lot",
+      "stopId": "3058",
+      "tag": "railrlot_d",
+      "lat": "35.9305824"
+    },
+    "airpesext_w": {
+      "lon": "-79.0598229",
+      "title": "Airport Dr at Estes Dr Ext",
+      "shortTitle": "Airport Dr @ Estes Dr Ext",
+      "stopId": "3657",
+      "tag": "airpesext_w",
+      "lat": "35.9330975"
+    },
+    "airpairp_w": {
+      "lon": "-79.0560717",
+      "title": "Airport Dr at Martin Luther King Jr Blvd",
+      "shortTitle": "Airport Dr @ Martin Luther King Jr",
+      "stopId": "3241",
+      "tag": "airpairp_w",
+      "lat": "35.9321597"
+    },
+    "hillsmlk": {
+      "lon": "-79.0531073",
+      "title": "Hillsborough St at Martin Luther King Jr Blvd",
+      "shortTitle": "Hillsborough @ Martin Luther King Jr",
+      "stopId": "3247",
+      "tag": "hillsmlk",
+      "lat": "35.9249558"
+    },
+    "hillsbroo": {
+      "lon": "-79.0517924",
+      "title": "Hillsborough St at Brookside Condos",
+      "shortTitle": "Hillsborough @ Brookside Condos",
+      "stopId": "3032",
+      "tag": "hillsbroo",
+      "lat": "35.9234261"
+    },
+    "hillstown": {
+      "lon": "-79.0515642",
+      "title": "Hillsborough St at Townhouse Apts",
+      "shortTitle": "Hillsborough @ Townhouse Apts",
+      "stopId": "3031",
+      "tag": "hillstown",
+      "lat": "35.9197415"
+    },
+    "hillsnort": {
+      "lon": "-79.0504371",
+      "title": "Hillsborough St at North St",
+      "shortTitle": "Hillsborough @ North",
+      "stopId": "3107",
+      "tag": "hillsnort",
+      "lat": "35.9177607"
+    },
+    "hillsrose": {
+      "lon": "-79.0496107",
+      "title": "Hillsborough St at E Rosemary St",
+      "shortTitle": "Hillsborough @ E Rosemary",
+      "stopId": "3473",
+      "tag": "hillsrose",
+      "lat": "35.9162342"
+    },
+    "airpairp_e": {
+      "lon": "-79.0563076",
+      "title": "Airport Dr at Martin Luther King Jr Blvd",
+      "shortTitle": "Airport Dr @ Martin Luther King Jr",
+      "stopId": "3054",
+      "tag": "airpairp_e",
+      "lat": "35.9323201"
+    },
+    "airpesext": {
+      "lon": "-79.0598039",
+      "title": "Airport Dr at Estes Dr Ext",
+      "shortTitle": "Airport Dr @ Estes Dr Ext",
+      "stopId": "3656",
+      "tag": "airpesext",
+      "lat": "35.9334156"
+    },
+    "ridgglaws": {
+      "lon": "-79.0413905",
+      "title": "Ridge Rd at Law School",
+      "shortTitle": "Ridge @ Law School",
+      "stopId": "3399",
+      "tag": "ridgglaws",
+      "lat": "35.9092462"
+    },
+    "camenewe": {
+      "lon": "-79.0499065",
+      "title": "Cameron Av at New East Hall",
+      "shortTitle": "Cameron @ New East Hall",
+      "stopId": "3425",
+      "tag": "camenewe",
+      "lat": "35.9124612"
+    },
+    "cameswai": {
+      "lon": "-79.0535399",
+      "title": "Cameron Ave at Columbia St",
+      "shortTitle": "Cameron @ Columbia",
+      "stopId": "3426",
+      "tag": "cameswai",
+      "lat": "35.91108"
+    },
+    "nc54park_d": {
+      "lon": "-79.01235",
+      "title": "NC 54 Park-Ride Lot",
+      "stopId": "5600",
+      "tag": "nc54park_d",
+      "lat": "35.8963899"
+    },
+    "fordmasn_u": {
+      "lon": "-79.0330908",
+      "title": "Fordham at Old Mason Farm",
+      "shortTitle": "Fordham @ Old Mason Farm",
+      "stopId": "7148",
+      "tag": "fordmasn_u",
+      "lat": "35.9014384"
+    },
+    "mccaphar": {
+      "lon": "-79.0538526",
+      "title": "McCauley at Pharmacy Ln",
+      "shortTitle": "McCauley @ Pharmacy Ln",
+      "stopId": "3213",
+      "tag": "mccaphar",
+      "lat": "35.9083591"
+    },
+    "finlfore": {
+      "lon": "-79.00883",
+      "title": "Finley Forest Dr",
+      "stopId": "3622",
+      "tag": "finlfore",
+      "lat": "35.89832"
+    },
+    "brookber": {
+      "lon": "-79.0103696",
+      "title": "Brookberry Cr",
+      "stopId": "3623",
+      "tag": "brookber",
+      "lat": "35.899563"
+    },
+    "brookberr": {
+      "lon": "-79.0096781",
+      "title": "Brookberry Cr",
+      "stopId": "3624",
+      "tag": "brookberr",
+      "lat": "35.8991314"
+    },
+    "harrmead": {
+      "lon": "-79.0102099",
+      "title": "Harris Teeter at Meadowmont Vil Cir",
+      "shortTitle": "Harris Teeter @ Meadowmont Vil Cir",
+      "stopId": "3356",
+      "tag": "harrmead",
+      "lat": "35.9059999"
+    },
+    "wbarweav": {
+      "lon": "-79.0128902",
+      "title": "W Barbee Ch Rd at Weaver Mine Tr",
+      "shortTitle": "W Barbee Ch @ Weaver Mine Tr",
+      "stopId": "3357",
+      "tag": "wbarweav",
+      "lat": "35.90607"
+    },
+    "wbaroldb": {
+      "lon": "-79.0149484",
+      "title": "W Barbee Ch Rd at Old Barn Ln",
+      "shortTitle": "W Barbee Ch @ Old Barn Ln",
+      "stopId": "3354",
+      "tag": "wbaroldb",
+      "lat": "35.9070703"
+    },
+    "glenleno": {
+      "lon": "-79.02361",
+      "title": "Glen Lennox",
+      "stopId": "3390",
+      "tag": "glenleno",
+      "lat": "35.90935"
+    },
+    "ralesttm": {
+      "lon": "-79.0380466",
+      "title": "Raleigh Rd at St Thomas More",
+      "shortTitle": "Raleigh @ Thomas More",
+      "stopId": "3385",
+      "tag": "ralesttm",
+      "lat": "35.9111403"
+    },
+    "strdccrd": {
+      "lon": "-79.0427992",
+      "title": "South Rd at Country Club Rd",
+      "shortTitle": "South @ Country Club",
+      "stopId": "3431",
+      "tag": "strdccrd",
+      "lat": "35.9108001"
+    },
+    "strdrale": {
+      "lon": "-79.046333",
+      "title": "South Rd at Raleigh St",
+      "shortTitle": "South @ Raleigh",
+      "stopId": "3398",
+      "tag": "strdrale",
+      "lat": "35.9100895"
+    },
+    "ralelewi": {
+      "lon": "-79.0473913",
+      "title": "Raleigh St at Lewis Hall",
+      "shortTitle": "Raleigh @ Lewis Hall",
+      "stopId": "3028",
+      "tag": "ralelewi",
+      "lat": "35.9124924"
+    },
+    "ralealde": {
+      "lon": "-79.0483111",
+      "title": "Raleigh St at Alderman Hall",
+      "shortTitle": "Raleigh @ Alderman Hall",
+      "stopId": "3439",
+      "tag": "ralealde",
+      "lat": "35.9141826"
+    },
+    "franvars_a": {
+      "lon": "-79.05483",
+      "title": "E Franklin St at Varsity Theatre - Arrival",
+      "shortTitle": "E Franklin @ Varsity Theatre - Arrival",
+      "stopId": "3428",
+      "tag": "franvars_a",
+      "lat": "35.91359"
+    },
+    "mainloyd": {
+      "lon": "-79.0694044",
+      "title": "E Main at Lloyd St",
+      "shortTitle": "E Main @ Lloyd",
+      "stopId": "3509",
+      "tag": "mainloyd",
+      "lat": "35.9107194"
+    },
+    "mainjade": {
+      "lon": "-79.07151",
+      "title": "E Main St at Jade Palace",
+      "shortTitle": "E Main @ Jade Palace",
+      "stopId": "3504",
+      "tag": "mainjade",
+      "lat": "35.9104702"
+    },
+    "greemuni": {
+      "lon": "-79.07235",
+      "title": "S Greensboro St at Municipal Park",
+      "shortTitle": "S Greensboro @ Municipal Park",
+      "stopId": "3144",
+      "tag": "greemuni",
+      "lat": "35.9093886"
+    },
+    "greetrai": {
+      "lon": "-79.0726203",
+      "title": "S Greensboro St at Trailer Park",
+      "shortTitle": "S Greensboro @ Trailer Park",
+      "stopId": "3466",
+      "tag": "greetrai",
+      "lat": "35.9029782"
+    },
+    "highturn_s": {
+      "lon": "-79.0858105",
+      "title": "Tar Hill Dr at Turnaround Circle",
+      "shortTitle": "Tar Hill Dr @ Turnaround Circle",
+      "stopId": "3152",
+      "tag": "highturn_s",
+      "lat": "35.8936669"
+    },
+    "hightarh_s": {
+      "lon": "-79.0854117",
+      "title": "Tar Hill Dr at BPW Club Rd",
+      "shortTitle": "Tar Hill Dr @ BPW Club",
+      "stopId": "3171",
+      "tag": "hightarh_s",
+      "lat": "35.8949887"
+    },
+    "tighwelc_s": {
+      "lon": "-79.0828682",
+      "title": "BPW Club at Tennis Courts",
+      "shortTitle": "BPW Club @ Tennis Courts",
+      "stopId": "3169",
+      "tag": "tighwelc_s",
+      "lat": "35.8958106"
+    },
+    "bpwcthev_s": {
+      "lon": "-79.0795441",
+      "title": "BPW Club Rd at The Villages",
+      "shortTitle": "BPW Club @ The Villages",
+      "stopId": "3154",
+      "tag": "bpwcthev_s",
+      "lat": "35.8954599"
+    },
+    "bpwcsmit_s": {
+      "lon": "-79.0769898",
+      "title": "BPW Club Rd at Smith Level Rd",
+      "shortTitle": "BPW Club @ Smith Level",
+      "stopId": "3045",
+      "tag": "bpwcsmit_s",
+      "lat": "35.89542"
+    },
+    "rosegree": {
+      "lon": "-79.0652211",
+      "title": "Rosemary St at Greenbridge",
+      "shortTitle": "Rosemary @ Greenbridge",
+      "stopId": "3702",
+      "tag": "rosegree",
+      "lat": "35.9109999"
+    },
+    "rosegrah": {
+      "lon": "-79.0646466",
+      "title": "W Rosemary St at Graham St",
+      "shortTitle": "W Rosemary @ Graham",
+      "stopId": "3583",
+      "tag": "rosegrah",
+      "lat": "35.9110501"
+    },
+    "rosamama": {
+      "lon": "-79.0627161",
+      "title": "W Rosemary St at Mama Dips",
+      "shortTitle": "W Rosemary @ Mama Dips",
+      "stopId": "3571",
+      "tag": "rosamama",
+      "lat": "35.9115214"
+    },
+    "westairp_n": {
+      "lon": "-79.0565482",
+      "title": "Westminster Dr at MLK Jr Blvd",
+      "shortTitle": "Westminster Dr @ MLK Jr",
+      "stopId": "3249",
+      "tag": "westairp_n",
+      "lat": "35.9612404"
+    },
+    "bankfood": {
+      "lon": "-79.0548403",
+      "title": "Banks Dr at Food Lion",
+      "shortTitle": "Banks Dr @ Food Lion",
+      "stopId": "3102",
+      "tag": "bankfood",
+      "lat": "35.9615074"
+    },
+    "westtraf_n": {
+      "lon": "-79.0529698",
+      "title": "Westminster Dr at Traffic Circle",
+      "shortTitle": "Westminster Dr @ Traffic Circle",
+      "stopId": "3150",
+      "tag": "westtraf_n",
+      "lat": "35.9602696"
+    },
+    "eastchap_d": {
+      "lon": "-79.0307983",
+      "title": "East Chapel Hill HS - Departure",
+      "stopId": "6500",
+      "tag": "eastchap_d",
+      "lat": "35.9606581"
+    },
+    "weavsunr": {
+      "lon": "-79.0339646",
+      "title": "Weaver Dairy Rd at Sunrise Ln",
+      "shortTitle": "Weaver Dairy @ Sunrise Ln",
+      "stopId": "6501",
+      "tag": "weavsunr",
+      "lat": "35.9617108"
+    },
+    "carowoo_s": {
+      "lon": "-79.0402699",
+      "title": "Carol Woods",
+      "stopId": "6502",
+      "tag": "carowoo_s",
+      "lat": "35.9649599"
+    },
+    "weavesse_s": {
+      "lon": "-79.0440267",
+      "title": "Weaver Dairy Rd at Essex Dr",
+      "shortTitle": "Weaver Dairy @ Essex Dr",
+      "stopId": "6503",
+      "tag": "weavesse_s",
+      "lat": "35.9641797"
+    },
+    "weavkens": {
+      "lon": "-79.0478879",
+      "title": "Weaver Dairy Rd at Kensington Trace",
+      "shortTitle": "Weaver Dairy @ Kensington Trace",
+      "stopId": "6504",
+      "tag": "weavkens",
+      "lat": "35.9639697"
+    },
+    "weavvilc": {
+      "lon": "-79.0522601",
+      "title": "Weaver Dairy Rd at Vilcom Campus",
+      "shortTitle": "Weaver Dairy @ Vilcom Campus",
+      "stopId": "6505",
+      "tag": "weavvilc",
+      "lat": "35.96396"
+    },
+    "weavtimb_s": {
+      "lon": "-79.0541178",
+      "title": "Weaver Dairy Rd at Timberlyne Shop Center",
+      "shortTitle": "Weaver Dairy @ Timberlyne Shop Center",
+      "stopId": "6506",
+      "tag": "weavtimb_s",
+      "lat": "35.96399"
+    },
+    "westtraf_s": {
+      "lon": "-79.0529698",
+      "title": "Westminster Dr at Traffic Circle",
+      "shortTitle": "Westminster Dr @ Traffic Circle",
+      "stopId": "6508",
+      "tag": "westtraf_s",
+      "lat": "35.9602696"
+    },
+    "banktimb": {
+      "lon": "-79.0555438",
+      "title": "Westminister at Timberlyne Theater",
+      "shortTitle": "Westminister @ Timberlyne Theater",
+      "stopId": "6507",
+      "tag": "banktimb",
+      "lat": "35.961505"
+    },
+    "westairp_s": {
+      "lon": "-79.0567189",
+      "title": "Westminster Dr at MLK Jr. Blvd",
+      "shortTitle": "Westminster Dr @ MLK Jr.",
+      "stopId": "6509",
+      "tag": "westairp_s",
+      "lat": "35.9613303"
+    },
+    "bankwest": {
+      "lon": "-79.0548403",
+      "title": "Banks Dr at Westminister Dr",
+      "shortTitle": "Banks Dr @ Westminister Dr",
+      "stopId": "6401",
+      "tag": "bankwest",
+      "lat": "35.9615074"
+    },
+    "bankweav": {
+      "lon": "-79.0555599",
+      "title": "Banks Dr at Weaver Dairy Rd",
+      "shortTitle": "Banks Dr @ Weaver Dairy",
+      "stopId": "3440",
+      "tag": "bankweav",
+      "lat": "35.9635296"
+    },
+    "weavking": {
+      "lon": "-79.0538273",
+      "title": "Weaver Dairy Rd at Kingston",
+      "shortTitle": "Weaver Dairy @ Kingston",
+      "stopId": "6600",
+      "tag": "weavking",
+      "lat": "35.96387"
+    },
+    "weavtimb": {
+      "lon": "-79.04787",
+      "title": "Weaver Dairy Rd at Timberlyne Shop Center",
+      "shortTitle": "Weaver Dairy @ Timberlyne Shop Center",
+      "stopId": "6506",
+      "tag": "weavtimb",
+      "lat": "35.9638199"
+    },
+    "weavesse": {
+      "lon": "-79.0434249",
+      "title": "Weaver Dairy Rd at Essex Dr",
+      "shortTitle": "Weaver Dairy @ Essex Dr",
+      "stopId": "6503",
+      "tag": "weavesse",
+      "lat": "35.9639605"
+    },
+    "carowoo_n": {
+      "lon": "-79.0402699",
+      "title": "Carol Woods",
+      "stopId": "6601",
+      "tag": "carowoo_n",
+      "lat": "35.9649599"
+    },
+    "weavstee": {
+      "lon": "-79.0369816",
+      "title": "Weaver Dairy Rd at Steeplechase Rd",
+      "shortTitle": "Weaver Dairy @ Steeplechase",
+      "stopId": "6602",
+      "tag": "weavstee",
+      "lat": "35.9620186"
+    },
+    "eastchap_a": {
+      "lon": "-79.0307396",
+      "title": "East Chapel Hill HS - Arrival",
+      "stopId": "6603",
+      "tag": "eastchap_a",
+      "lat": "35.9605896"
+    },
+    "barcjust": {
+      "lon": "-79.0562382",
+      "title": "Barclay Rd at Justice St",
+      "shortTitle": "Barclay @ Justice",
+      "stopId": "3417",
+      "tag": "barcjust",
+      "lat": "35.930153"
+    },
+    "barcwill_s": {
+      "lon": "-79.0583209",
+      "title": "Barclay Rd at Williams Circle",
+      "shortTitle": "Barclay @ Williams Circle",
+      "stopId": "3093",
+      "tag": "barcwill_s",
+      "lat": "35.9294896"
+    },
+    "colufrat_s": {
+      "lon": "-79.0550287",
+      "title": "S Columbia St at Frat Ct",
+      "shortTitle": "S Columbia @ Frat Ct",
+      "stopId": "3179",
+      "tag": "colufrat_s",
+      "lat": "35.9117278"
+    },
+    "severin223": {
+      "lon": "-79.0601239",
+      "title": "Severin St at # 223",
+      "shortTitle": "Severin @ # 223",
+      "stopId": "3097",
+      "tag": "severin223",
+      "lat": "35.9276737"
+    },
+    "weinebarc": {
+      "lon": "-79.06311",
+      "title": "Weiner at Barclay",
+      "shortTitle": "Weiner @ Barclay",
+      "stopId": "3095",
+      "tag": "weinebarc",
+      "lat": "35.9272599"
+    },
+    "barcwill_n": {
+      "lon": "-79.0582722",
+      "title": "Barclay Rd at Williams Circle",
+      "shortTitle": "Barclay @ Williams Circle",
+      "stopId": "3094",
+      "tag": "barcwill_n",
+      "lat": "35.9293592"
+    },
+    "justbarc": {
+      "lon": "-79.0560337",
+      "title": "Barclay Rd at Justice St",
+      "shortTitle": "Barclay @ Justice",
+      "stopId": "3056",
+      "tag": "justbarc",
+      "lat": "35.9300588"
+    },
+    "weavtimb_n": {
+      "lon": "-79.0478696",
+      "title": "Weaver Dairy Rd at Timberlyne Rd",
+      "shortTitle": "Weaver Dairy @ Timberlyne",
+      "stopId": "3165",
+      "tag": "weavtimb_n",
+      "lat": "35.96382"
+    },
+    "weavesse_n": {
+      "lon": "-79.0434245",
+      "title": "Weaver Dairy Rd at Essex Dr",
+      "shortTitle": "Weaver Dairy @ Essex Dr",
+      "stopId": "3261",
+      "tag": "weavesse_n",
+      "lat": "35.9639605"
+    },
+    "mannhint": {
+      "lon": "-79.0429487",
+      "title": "Manning Dr at Hinton James",
+      "shortTitle": "Manning Dr @ Hinton James",
+      "stopId": "3590",
+      "tag": "mannhint",
+      "lat": "35.9029392"
+    },
+    "manngrav": {
+      "lon": "-79.050327",
+      "title": "Manning Dr at Gravely",
+      "shortTitle": "Manning Dr @ Gravely",
+      "stopId": "3703",
+      "tag": "manngrav",
+      "lat": "35.9030358"
+    },
+    "soutpark_d": {
+      "lon": "-79.06621",
+      "title": "Southern Village Park-Ride Lot - Departure",
+      "stopId": "3174",
+      "tag": "soutpark_d",
+      "lat": "35.87881"
+    },
+    "ralegree_n": {
+      "lon": "-79.0316455",
+      "title": "Raleigh Rd at Greenwood Rd",
+      "shortTitle": "Raleigh @ Greenwood",
+      "stopId": "3105",
+      "tag": "ralegree_n",
+      "lat": "35.909619"
+    },
+    "raleunca_n": {
+      "lon": "-79.03024",
+      "title": "Raleigh Rd at UNC Administration",
+      "shortTitle": "Raleigh @ UNC Administration",
+      "stopId": "3386",
+      "tag": "raleunca_n",
+      "lat": "35.90931"
+    },
+    "exchmead": {
+      "lon": "-79.0166214",
+      "title": "Exchange at Meadowmont",
+      "shortTitle": "Exchange @ Meadowmont",
+      "stopId": "3353",
+      "tag": "exchmead",
+      "lat": "35.9036106"
+    },
+    "franstree": {
+      "lon": "-79.0138318",
+      "title": "Franklin Street Trust Bldg",
+      "shortTitle": "Franklin Trust Bldg",
+      "stopId": "3352",
+      "tag": "franstree",
+      "lat": "35.9024208"
+    },
+    "meadvill": {
+      "lon": "-79.0091111",
+      "title": "Meadowmont Ln at Village Crossing Dr",
+      "shortTitle": "Meadowmont Ln @ Village Crossing Dr",
+      "stopId": "3609",
+      "tag": "meadvill",
+      "lat": "35.9049176"
+    },
+    "wbarmead": {
+      "lon": "-79.0103899",
+      "title": "W Barbee Ch Rd at Meadowmont Vil Cir",
+      "shortTitle": "W Barbee Ch @ Meadowmont Vil Cir",
+      "stopId": "3355",
+      "tag": "wbarmead",
+      "lat": "35.906"
+    },
+    "scolpure": {
+      "lon": "-79.0585449",
+      "title": "S Columbia St at Purefoy Rd",
+      "shortTitle": "S Columbia @ Purefoy",
+      "stopId": "3188",
+      "tag": "scolpure",
+      "lat": "35.8953496"
+    },
+    "markkild": {
+      "lon": "-79.0651111",
+      "title": "Market St at Kildaire Rd",
+      "shortTitle": "Market @ Kildaire",
+      "stopId": "3638",
+      "tag": "markkild",
+      "lat": "35.8801844"
+    },
+    "abercopp": {
+      "lon": "-79.0643007",
+      "title": "Aberdeen Dr at Copperline Dr",
+      "shortTitle": "Aberdeen Dr @ Copperline Dr",
+      "stopId": "3176",
+      "tag": "abercopp",
+      "lat": "35.8814515"
+    },
+    "greecopp": {
+      "lon": "-79.0657102",
+      "title": "Greenview Dr at Copperline Dr",
+      "shortTitle": "Greenview Dr @ Copperline Dr",
+      "stopId": "3630",
+      "tag": "greecopp",
+      "lat": "35.8829901"
+    },
+    "westpark": {
+      "lon": "-79.0661012",
+      "title": "Westgreen Dr at Parkside Cir",
+      "shortTitle": "Westgreen Dr @ Parkside Cir",
+      "stopId": "3199",
+      "tag": "westpark",
+      "lat": "35.8839402"
+    },
+    "parkedge": {
+      "lon": "-79.0677529",
+      "title": "Parkside Cir at Edgewater Cir",
+      "shortTitle": "Parkside Cir @ Edgewater Cir",
+      "stopId": "3167",
+      "tag": "parkedge",
+      "lat": "35.8846429"
+    },
+    "parkston": {
+      "lon": "-79.0676523",
+      "title": "Parkview Crescent at stone bridge",
+      "shortTitle": "Parkview Crescent @ stone bridge",
+      "stopId": "3166",
+      "tag": "parkston",
+      "lat": "35.8854213"
+    },
+    "highpark": {
+      "lon": "-79.0697442",
+      "title": "Highgrove Dr at Parkview Crescent",
+      "shortTitle": "Highgrove Dr @ Parkview Crescent",
+      "stopId": "3168",
+      "tag": "highpark",
+      "lat": "35.8859166"
+    },
+    "broosout": {
+      "lon": "-79.0706801",
+      "title": "Brookgreen Dr at Southern Village Cl",
+      "shortTitle": "Brookgreen Dr @ Southern Village Cl",
+      "stopId": "3186",
+      "tag": "broosout",
+      "lat": "35.8850604"
+    },
+    "brooedge": {
+      "lon": "-79.0695094",
+      "title": "Brookgreen Dr at Edgewater Cir",
+      "shortTitle": "Brookgreen Dr @ Edgewater Cir",
+      "stopId": "3185",
+      "tag": "brooedge",
+      "lat": "35.8835696"
+    },
+    "broocopp": {
+      "lon": "-79.0677653",
+      "title": "Brookgreen Dr at Copperline Dr",
+      "shortTitle": "Brookgreen Dr @ Copperline Dr",
+      "stopId": "3438",
+      "tag": "broocopp",
+      "lat": "35.8824973"
+    },
+    "broomark": {
+      "lon": "-79.0666709",
+      "title": "Brookgreen Dr at Market St",
+      "shortTitle": "Brookgreen Dr @ Market",
+      "stopId": "3159",
+      "tag": "broomark",
+      "lat": "35.8818805"
+    },
+    "ralcon": {
+      "lon": "-79.0466699",
+      "title": "Raleigh St at Connor Hall",
+      "shortTitle": "Raleigh @ Connor Hall",
+      "stopId": "3381",
+      "tag": "ralcon",
+      "lat": "35.9107587"
+    },
+    "rallew": {
+      "lon": "-79.0474395",
+      "title": "Raleigh St at Lewis Hall",
+      "shortTitle": "Raleigh @ Lewis Hall",
+      "stopId": "3028",
+      "tag": "rallew",
+      "lat": "35.9124993"
+    }
+  },
+  "copyright": "All data copyright Chapel Hill Transit 2018."
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "kearney": {
+      "title": "Kearney/Harrison",
+      "color": "0000ee",
+      "tag": "kearney",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.770516,
+        -74.145217
+      ],
+      "min": [
+        40.740978,
+        -74.1788106
+      ],
+      "stops": {
+        "Loop": [
+          "boydhall",
+          "njit",
+          "harrpass",
+          "frodclev",
+          "kearduke",
+          "kearberg",
+          "kearquin",
+          "kearmidl",
+          "kmart",
+          "shoplite"
+        ]
+      }
+    },
+    "penn": {
+      "title": "Penn Station Local",
+      "color": "009900",
+      "tag": "penn",
+      "shortTitle": "Penn Sta Local",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.7432589,
+        -74.1645258
+      ],
+      "min": [
+        40.7338639,
+        -74.1929929
+      ],
+      "stops": {
+        "Loop": [
+          "pennstat",
+          "pennstat_nt",
+          "medischo",
+          "hosp",
+          "bergbldg",
+          "dentschl",
+          "mark180",
+          "icph",
+          "njit",
+          "blumhall"
+        ]
+      }
+    },
+    "pennexpr": {
+      "title": "Penn Station Express",
+      "color": "ff5333",
+      "tag": "pennexpr",
+      "shortTitle": "Penn Sta Express",
+      "oppositeColor": "000000",
+      "max": [
+        40.7418682,
+        -74.1647207
+      ],
+      "min": [
+        40.7348193,
+        -74.1915806
+      ],
+      "stops": {
+        "Loop": [
+          "pennstat",
+          "medischo",
+          "hosp"
+        ]
+      }
+    },
+    "mdntpenn": {
+      "title": "Midnight Express Penn Station",
+      "color": "993300",
+      "tag": "mdntpenn",
+      "shortTitle": "Midnight Express",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.74094,
+        -74.1645207
+      ],
+      "min": [
+        40.733863,
+        -74.17427
+      ],
+      "stops": {
+        "Loop": [
+          "boyd",
+          "pennback"
+        ]
+      }
+    },
+    "connect": {
+      "title": "Campus Connect",
+      "color": "be2625",
+      "tag": "connect",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.746906,
+        -74.170569
+      ],
+      "min": [
+        40.7362338,
+        -74.191461
+      ],
+      "stops": {
+        "Loop": [
+          "boydhall_c",
+          "njit",
+          "icph_e",
+          "bergbuil",
+          "medischo",
+          "ecc",
+          "teacvilla",
+          "clj",
+          "washpark",
+          "broad",
+          "univnort",
+          "physplan"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Rutgers Univ. Newark College Town Shuttle 2018."
+}

@@ -1,0 +1,477 @@
+{
+  "data": {
+    "10": {
+      "title": "10 University Express",
+      "color": "cd2626",
+      "tag": "10",
+      "oppositeColor": "ffffff",
+      "max": [
+        37.1450199,
+        -80.5415427
+      ],
+      "min": [
+        37.1337043,
+        -80.5535143
+      ],
+      "stops": {
+        "Loop": [
+          "nriv_d",
+          "nrivclub",
+          "univarms_lota",
+          "lota",
+          "bonnie",
+          "walddavi",
+          "cobe",
+          "moff",
+          "walk",
+          "muse",
+          "hubdtown",
+          "mainlotc",
+          "univarms_nriv",
+          "ltccshel",
+          "ltccstad",
+          "univlotc",
+          "dedmcent",
+          "dedmrive",
+          "univpula",
+          "stoclotf_nriv",
+          "nriv_a"
+        ]
+      }
+    },
+    "15": {
+      "title": "15",
+      "color": "ffd700",
+      "tag": "15",
+      "oppositeColor": "000000",
+      "max": [
+        37.1450199,
+        -80.5403425
+      ],
+      "min": [
+        37.132397,
+        -80.553514
+      ],
+      "stops": {
+        "Loop": [
+          "hubdtown",
+          "mainlotc",
+          "lota",
+          "univarms_nriv",
+          "univlotc",
+          "dedmcent",
+          "dedmrive",
+          "univpula",
+          "stoclotf_nriv",
+          "nriv_a",
+          "nriv_d",
+          "nrivclub",
+          "univarms_lota",
+          "lota_d2",
+          "downmad",
+          "downburl",
+          "clemwhit",
+          "burl",
+          "burlclem",
+          "burlfair",
+          "fairwils",
+          "calhwils",
+          "calhmadi",
+          "fairfax",
+          "walddavi",
+          "cobe",
+          "moff",
+          "walk",
+          "muse"
+        ]
+      }
+    },
+    "20": {
+      "title": "20 New River Rapid",
+      "color": "ff7722",
+      "tag": "20",
+      "oppositeColor": "000000",
+      "max": [
+        37.1523743,
+        -80.537062
+      ],
+      "min": [
+        37.12354,
+        -80.5840179
+      ],
+      "stops": {
+        "Loop": [
+          "hubdtown",
+          "mainvirg_walm",
+          "maintaco_walm",
+          "maincvs",
+          "krogplaz_walm",
+          "walmgard",
+          "faulkdr",
+          "krogplaz_hub",
+          "mainplib",
+          "maintaco_hub",
+          "mainvirg_hub",
+          "mainlotc",
+          "lota",
+          "bonnie",
+          "walddavi",
+          "foodlion",
+          "aubucedr",
+          "ridgwood",
+          "aubutrlp",
+          "aubutyle",
+          "tylebwes",
+          "tyleaubu",
+          "tylemilt",
+          "moff",
+          "walk",
+          "muse"
+        ]
+      }
+    },
+    "30": {
+      "title": "30 Cross City",
+      "color": "00cd00",
+      "tag": "30",
+      "oppositeColor": "ffffff",
+      "max": [
+        37.1414948,
+        -80.5535117
+      ],
+      "min": [
+        37.10631,
+        -80.5904198
+      ],
+      "stops": {
+        "The_HUB": [
+          "jeff_d",
+          "mkifrben",
+          "high2nd",
+          "maincowa",
+          "foredeli",
+          "maincust",
+          "maindenb",
+          "maincart",
+          "mainpres",
+          "mainstap",
+          "mainrobe",
+          "mainkent",
+          "mainrand",
+          "mainplib",
+          "maintaco",
+          "pres4th",
+          "pres7th",
+          "preslyle",
+          "pres12th",
+          "stap12th",
+          "staptrav",
+          "staprock",
+          "wadsheat",
+          "allewill",
+          "allewads",
+          "wadsshep",
+          "wadsroos",
+          "wads8th",
+          "rand8th",
+          "rand7th",
+          "scot6th",
+          "parksund",
+          "georuphl",
+          "georrec",
+          "geordown",
+          "lawr2nd",
+          "fair3rd",
+          "down3rd",
+          "mainvirg"
+        ],
+        "Jeffries_Dr": [
+          "hub",
+          "mainvirg_n",
+          "maintaco_n",
+          "maincvs",
+          "mainrand_n",
+          "mainkent_n",
+          "mainrobe_n",
+          "mainwirt",
+          "down3rd_w",
+          "fair3rd_w",
+          "georrec_n",
+          "parksund_n",
+          "scot6th_n",
+          "rand8th_n",
+          "wads8th_w",
+          "wadsroos_w",
+          "wadsshep_w",
+          "allewill_n",
+          "allewads_n",
+          "wadsheat_w",
+          "staprock_e",
+          "staptrav_e",
+          "stap12th_e",
+          "pres12th_n",
+          "preslyle_n",
+          "pres7th_n",
+          "pres4th_n",
+          "presscsv",
+          "maincart_w",
+          "maindenb_w",
+          "maincust_w",
+          "foredeli_w",
+          "maincowa_w",
+          "jeffmhil"
+        ]
+      }
+    },
+    "40": {
+      "title": "40 NRV Connector",
+      "color": "800080",
+      "tag": "40",
+      "oppositeColor": "ffffff",
+      "max": [
+        37.229841,
+        -80.4121827
+      ],
+      "min": [
+        37.1352741,
+        -80.55353
+      ],
+      "stops": {
+        "Loop": [
+          "hubdtown",
+          "mainlotc",
+          "lota",
+          "mainmad",
+          "mainburl",
+          "miller_out",
+          "regacine",
+          "nrvmall",
+          "alumsqsc",
+          "mainmuni",
+          "nrvmall_2",
+          "miller_in",
+          "bonnie",
+          "walddavi",
+          "moff",
+          "walk",
+          "muse"
+        ]
+      }
+    },
+    "50": {
+      "title": "50 Highlander Circulator",
+      "color": "0276fd",
+      "tag": "50",
+      "oppositeColor": "ffffff",
+      "max": [
+        37.141487,
+        -80.5370584
+      ],
+      "min": [
+        37.1235311,
+        -80.5535143
+      ],
+      "stops": {
+        "Loop": [
+          "burl",
+          "burlclem",
+          "burlfair",
+          "fairwils",
+          "calhwils",
+          "calhmadi",
+          "fairfax",
+          "walddavi",
+          "cobe",
+          "foodlion",
+          "aubucedr",
+          "ridgwood",
+          "aubutrlp",
+          "aubutyle",
+          "tylebwes",
+          "tyleaubu",
+          "tylemilt",
+          "moff",
+          "walk",
+          "muse",
+          "hubdtown",
+          "mainlotc",
+          "lota",
+          "downmad",
+          "downburl",
+          "burlclem_in",
+          "clemwhit"
+        ]
+      }
+    },
+    "60": {
+      "title": "60 South Beech Express",
+      "color": "00d5ff",
+      "tag": "60",
+      "oppositeColor": "000000",
+      "max": [
+        37.1414868,
+        -80.5480405
+      ],
+      "min": [
+        37.129697,
+        -80.556536
+      ],
+      "stops": {
+        "Loop": [
+          "coppbeec",
+          "miller_o",
+          "2ndlawr",
+          "moff",
+          "walk",
+          "muse",
+          "hubdtown",
+          "mainlotc",
+          "lota",
+          "fairfax",
+          "walddavi",
+          "cobe",
+          "calhtyle",
+          "miller_i"
+        ]
+      }
+    },
+    "15R": {
+      "title": "15",
+      "color": "ffd700",
+      "tag": "15R",
+      "shortTitle": "15 ",
+      "oppositeColor": "000000",
+      "max": [
+        37.1450199,
+        -80.5403425
+      ],
+      "min": [
+        37.132397,
+        -80.553514
+      ],
+      "stops": {
+        "Loop": [
+          "hubdtown",
+          "mainlotc",
+          "lota",
+          "univarms_nriv",
+          "univlotc",
+          "dedmcent",
+          "dedmrive",
+          "univpula",
+          "stoclotf_nriv",
+          "nriv_a",
+          "nriv_d",
+          "nrivclub",
+          "univarms_lota",
+          "lota_d2",
+          "downmad",
+          "downburl",
+          "clemwhit",
+          "burl",
+          "burlclem",
+          "burlfair",
+          "fairwils",
+          "calhwils",
+          "calhmadi",
+          "fairfax",
+          "walddavi",
+          "cobe",
+          "moff",
+          "walk",
+          "muse"
+        ]
+      }
+    },
+    "20R": {
+      "title": "20 New River Rapid",
+      "color": "ff7722",
+      "tag": "20R",
+      "shortTitle": "20",
+      "oppositeColor": "000000",
+      "max": [
+        37.152282,
+        -80.537062
+      ],
+      "min": [
+        37.12354,
+        -80.5840379
+      ],
+      "stops": {
+        "Loop": [
+          "hubdtown",
+          "mainvirg_walm",
+          "maintaco_walm",
+          "maincvs",
+          "krogplaz_walm",
+          "walmgard",
+          "faulkdr",
+          "krogplaz_hub",
+          "mainplib",
+          "maintaco_hub",
+          "mainvirg_hub",
+          "mainlotc",
+          "lota",
+          "bonnie",
+          "walddavi",
+          "foodlion",
+          "aubucedr",
+          "ridgwood",
+          "aubutrlp",
+          "aubutyle",
+          "tylebwes",
+          "tyleaubu",
+          "tylemilt",
+          "moff",
+          "walk",
+          "muse"
+        ]
+      }
+    },
+    "50R": {
+      "title": "50 Highlander Circulator",
+      "color": "0276fd",
+      "tag": "50R",
+      "shortTitle": "50",
+      "oppositeColor": "ffffff",
+      "max": [
+        37.141487,
+        -80.5370584
+      ],
+      "min": [
+        37.1235311,
+        -80.5535143
+      ],
+      "stops": {
+        "Loop": [
+          "burl",
+          "burlclem",
+          "burlfair",
+          "fairwils",
+          "calhwils",
+          "calhmadi",
+          "walddavi",
+          "foodlion",
+          "aubucedr",
+          "ridgwood",
+          "aubutrlp",
+          "aubutyle",
+          "tylebwes",
+          "tyleaubu",
+          "tylemilt",
+          "moff",
+          "walk",
+          "muse",
+          "hubdtown",
+          "mainlotc",
+          "lota",
+          "downmad",
+          "downburl",
+          "burlclem_in",
+          "clemwhit"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Radford Transit 2018."
+}

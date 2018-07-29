@@ -1,0 +1,2235 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union Station Parking Garage Mezzanine Level",
+        "tag": "union_d",
+        "stopId": "0001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0070899,
+          38.89953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Massachusetts Ave NE And North Capitol Street NE",
+        "tag": "masscap_w",
+        "stopId": "0002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00915,
+          38.8978903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Massachusetts Ave NW And New Jersey Avenue NW",
+        "tag": "massnew_w",
+        "stopId": "0003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0131075,
+          38.8991926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Massachusetts Avenue NW And 5th Street NW",
+        "tag": "mass5th_w",
+        "stopId": "0004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0186161,
+          38.9011119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Massachusetts Avenue NW And 7th Street NW",
+        "tag": "mass7th_w",
+        "stopId": "0005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0216836,
+          38.9021109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "New York Avenue NW And 9th Street NW",
+        "tag": "new9th_w",
+        "stopId": "0006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0245921,
+          38.9020452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "K Street NW Between 12th And 13th Streets NW",
+        "tag": "k12th13th_w",
+        "stopId": "0007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0288147,
+          38.90258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "K Street NW And 14th Street NW",
+        "tag": "k14th_w",
+        "stopId": "0008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0325,
+          38.9025899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "K Street NW And 16th Street NW",
+        "tag": "k16th_w",
+        "stopId": "0009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0370353,
+          38.90259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "K Street NW And 17th Street NW",
+        "tag": "k17th_w",
+        "stopId": "0010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0387342,
+          38.9026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "K Street NW And 19th Street NW",
+        "tag": "k19th_w",
+        "stopId": "0012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0431203,
+          38.9026099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "21st Street NW And K Street NW",
+        "tag": "21stk_w",
+        "stopId": "0014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04669,
+          38.9021372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pennsylvania Avenue NW And 22nd Street NW",
+        "tag": "penn22nd_w",
+        "stopId": "0015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0484957,
+          38.9020318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "K Street NW And 24th Street NW",
+        "tag": "k24th_w",
+        "stopId": "0128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.051564,
+          38.9026395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "K Street NW And 30th Street NW",
+        "tag": "k30th_w",
+        "stopId": "0133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0590919,
+          38.9025899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "K Street NW And Wisconsin Ave NW",
+        "tag": "kwis_w",
+        "stopId": "0134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0625219,
+          38.9026107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street NW And Wisconsin Avenue NW",
+        "tag": "mwisc_w",
+        "stopId": "0132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06276,
+          38.905352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wisconsin Avenue NW And Dumbarton Street NW",
+        "tag": "wiscdum_w",
+        "stopId": "0022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0633016,
+          38.9074331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wisconsin Ave NW And P Street NW",
+        "tag": "wiscp_w"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0642627,
+          38.9092227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wisconsin Avenue NW And Q Street NW",
+        "tag": "wiscq_w",
+        "stopId": "0024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0649086,
+          38.9104874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wisconsin Avenue NW And R Street NW",
+        "tag": "wiscr_w",
+        "stopId": "0129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0667812,
+          38.9140033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wisconsin Avenue NW And 34th Street NW (Safeway)",
+        "tag": "wisc34th_w",
+        "stopId": "0025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0677907,
+          38.915811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "35th Street NW And Wisconsin Ave NW",
+        "tag": "35thwisc_d",
+        "stopId": "0135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06939,
+          38.91768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wisconsin Avenue NW And 34th Street NW",
+        "tag": "wisc34th_e",
+        "stopId": "0027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0678998,
+          38.9158297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wisconsin Avenue NW And R Street NW",
+        "tag": "wiscr_e",
+        "stopId": "0130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0668049,
+          38.9138618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wisconsin Avenue NW And Q Street NW",
+        "tag": "wiscq_e",
+        "stopId": "0028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0652019,
+          38.9108139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wisconsin Avenue, NW And P Street NW",
+        "tag": "wiscp_e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0641797,
+          38.9088994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wisconsin Avenue NW And O Street NW",
+        "tag": "wisco_e",
+        "stopId": "0030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0636821,
+          38.907954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wisconsin Ave and M St NW",
+        "tag": "mwisc_e",
+        "stopId": "0031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0623493,
+          38.9051199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street NW And Thomas Jefferson Street NW",
+        "tag": "mthom_e",
+        "stopId": "0032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0603861,
+          38.9051599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street NW And 28th Street NW",
+        "tag": "m28th_e",
+        "stopId": "0033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0572755,
+          38.9049516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pennsylvania Avenue NW And 26th Street NW",
+        "tag": "penn26th_e",
+        "stopId": "0034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.054948,
+          38.9041625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pennsylvania Avenue NW And 24th Street NW",
+        "tag": "penn24th_e",
+        "stopId": "0035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0516067,
+          38.9029525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pennsylvania Avenue NW And 22nd Street NW",
+        "tag": "penn22nd_e",
+        "stopId": "0036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.048954,
+          38.902032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pennsylvania Avenue NW And 21St Street NW",
+        "tag": "penn21st_e",
+        "stopId": "0037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0468684,
+          38.9013126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "K Street NW And 19th Street NW",
+        "tag": "k19th_e",
+        "stopId": "0038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0436958,
+          38.9024302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "K Street NW And 17th Street NW",
+        "tag": "k17th_e",
+        "stopId": "0039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0398183,
+          38.9025097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "K Street NW And 16th Street NW",
+        "tag": "k16th_e",
+        "stopId": "0040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369405,
+          38.90249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "K Street NW And 14th Street NW",
+        "tag": "k14th_e",
+        "stopId": "0041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03224,
+          38.90247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "K Street NW Between 12th And 13th Streets NW",
+        "tag": "k12th13th_e",
+        "stopId": "0042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02893,
+          38.90249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "K Street NW Between 11th And 10th Streets NW",
+        "tag": "k11th10th_e",
+        "stopId": "0043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.026575,
+          38.90246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "New York Avenue NW And 9th Street NW",
+        "tag": "new9th_e",
+        "stopId": "0044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0243485,
+          38.901937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Massachusetts Avenue NW And 7th Street NW",
+        "tag": "mass7th_e",
+        "stopId": "0045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0212101,
+          38.901843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Massachusetts Avenue NW And 5th Street NW",
+        "tag": "mass5th_e",
+        "stopId": "0046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0191266,
+          38.9011323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Massachusetts Ave NW And New Jersey Avenue NW",
+        "tag": "massnew_e",
+        "stopId": "0047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0127888,
+          38.8988634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Massachusetts Avenue NW And 1st Street NW",
+        "tag": "mass1st_e",
+        "stopId": "0048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00806,
+          38.8969499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "I Street NW And 14th Street NW",
+        "tag": "i14th_n",
+        "stopId": "0058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03161,
+          38.90138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "14th Street NW And K Street NW",
+        "tag": "14thk_n",
+        "stopId": "0059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03183,
+          38.9023151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "14th Street NW And Rhode Island Avenue NW",
+        "tag": "14thrhod_n",
+        "stopId": "0060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03188,
+          38.9094984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "14th Street NW And U Street NW",
+        "tag": "14thu_n",
+        "stopId": "0061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03187,
+          38.9174399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Columbia Road NW And 14th Street NW",
+        "tag": "colu14th_n",
+        "stopId": "0062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0329099,
+          38.92752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Columbia Road NW And 16th Street NW",
+        "tag": "colu16th_n",
+        "stopId": "0063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0360927,
+          38.9267783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Columbia Road NW and Ontario Road NW",
+        "tag": "coluont_n",
+        "stopId": "0064"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0400689,
+          38.9244706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Columbia Road NW And Adams Mill Road NW",
+        "tag": "coluadam_n",
+        "stopId": "0065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0428601,
+          38.92309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Connecticut Ave NW And 24th St.",
+        "tag": "24thcal_s",
+        "stopId": "0050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.052176,
+          38.924552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Calvert Street NW And Lanier Place NW",
+        "tag": "callan_s",
+        "stopId": "0051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0438228,
+          38.9231901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Columbia Road NW and Ontario Road NW",
+        "tag": "coluont_s",
+        "stopId": "0052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0404434,
+          38.9240911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mount Pleasant Street NW And Irving Street NW",
+        "tag": "mtplsirv_s",
+        "stopId": "0053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0372019,
+          38.928556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Irving Street NW And 14th Street NW",
+        "tag": "irv14th_s",
+        "stopId": "0054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0328972,
+          38.9287577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "14th Street NW And U Street NW",
+        "tag": "14thu_s",
+        "stopId": "0055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03201,
+          38.9172286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "14th Street NW And P Street NW",
+        "tag": "14thp_s",
+        "stopId": "0056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0320392,
+          38.9098983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "13th Street NW And K Street",
+        "tag": "13thk_s",
+        "stopId": "0132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0296782,
+          38.9028475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "D Street and 7th Street SW",
+        "tag": "dst7th_s",
+        "stopId": "1003665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0206644,
+          38.884801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "7th Street and I Street SW",
+        "tag": "7thist_e",
+        "stopId": "1000566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021978,
+          38.879957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maine Avenue and 7th Street SW",
+        "tag": "main7th_e",
+        "stopId": "1003908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0227008,
+          38.8785098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street and 4th Street SW",
+        "tag": "mst4th_e",
+        "stopId": "1000498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0171858,
+          38.876383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street and Delaware Ave SW",
+        "tag": "mstdela_e",
+        "stopId": "1000495"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.013361,
+          38.87639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street and Half Street SE",
+        "tag": "msthalf_e",
+        "stopId": "1003032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.007043,
+          38.8764129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street and New Jersey SE",
+        "tag": "mstnewj_n",
+        "stopId": "0173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0037926,
+          38.87642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street SE And 4th Street SE",
+        "tag": "m4th_n",
+        "stopId": "0120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0007427,
+          38.8763802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "600 M Street SE (Washington Navy Yard entrance)",
+        "tag": "600m_n",
+        "stopId": "0121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9973585,
+          38.8764062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th Street SE And L Street SE",
+        "tag": "8thl_n",
+        "stopId": "0122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9949199,
+          38.8778004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th Street SE And G Street SE",
+        "tag": "8thg_n",
+        "stopId": "0123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99494,
+          38.8810841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pennsylvania Avenue SE And 7th Street SE",
+        "tag": "penn7th_n",
+        "stopId": "0124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9959696,
+          38.8847557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pennsylvania Avenue SE And 8th St (Arrival)",
+        "tag": "penn8th_a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9950429,
+          38.884097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pennsylvania Avenue SE And 8th St",
+        "tag": "penn8th_s",
+        "stopId": "0113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99505,
+          38.88397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th Street SE And G Street SE",
+        "tag": "8thg_s",
+        "stopId": "0114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99503,
+          38.8813713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th Street SE And L Street SE",
+        "tag": "8thl_s",
+        "stopId": "0115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99505,
+          38.8772268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "600 M Street SE (Washington Navy Yard entrance)",
+        "tag": "600m_s",
+        "stopId": "0116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9976163,
+          38.8765271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street SE And 4th Street SE",
+        "tag": "m3rd_s",
+        "stopId": "0117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0003887,
+          38.87653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street and New Jersey Ave SE",
+        "tag": "mstnewj_w",
+        "stopId": "1003148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0048373,
+          38.8765372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street and Half Street SE",
+        "tag": "msthalf_w",
+        "stopId": "1003032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0084241,
+          38.87652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street and Delaware Ave SW",
+        "tag": "mstdela_w",
+        "stopId": "1000517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.013561,
+          38.876536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street and 4th Street SW",
+        "tag": "mst4th_w",
+        "stopId": "1003690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0180229,
+          38.8765519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "7th Street and I Street SW",
+        "tag": "7thist_w",
+        "stopId": "1003903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021787,
+          38.879685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rosslyn Metro Station",
+        "tag": "rossmetr_d",
+        "stopId": "0136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07153,
+          38.8971951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "34th St and M St NW",
+        "tag": "m34th",
+        "stopId": "0137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.067573,
+          38.9050201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Potomac St and M St NW",
+        "tag": "mpoto",
+        "stopId": "0138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0654409,
+          38.9050599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thomas Jefferson St and M St NW",
+        "tag": "mjeff",
+        "stopId": "0032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0603853,
+          38.9051599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Penn Ave and 28th St",
+        "tag": "mpenn",
+        "stopId": "0033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0572747,
+          38.9049514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th and L St",
+        "tag": "l24th",
+        "stopId": "0139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0515929,
+          38.90365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "New Hampshire and Mass Ave",
+        "tag": "massnham",
+        "stopId": "0140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0475276,
+          38.9051333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "19th St and N St (Dupont Metro)",
+        "tag": "n19th_d",
+        "stopId": "0141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04348,
+          38.907402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "New Hampshire and M St",
+        "tag": "mstnham",
+        "stopId": "0143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0474509,
+          38.9054288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th and M St NW",
+        "tag": "m24th",
+        "stopId": "0144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0511411,
+          38.9053014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "28th and M St NW",
+        "tag": "m28th",
+        "stopId": "0145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0568095,
+          38.905291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "30th St and M St NW",
+        "tag": "m30th",
+        "stopId": "0146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0594118,
+          38.9052698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "31st St and M St NW",
+        "tag": "m31st",
+        "stopId": "0147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0616653,
+          38.905253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wisconsin Ave and M St NW",
+        "tag": "mwisc",
+        "stopId": "0148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.063291,
+          38.905229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "33rd St and M St NW",
+        "tag": "m33rd",
+        "stopId": "0149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0659037,
+          38.9051633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mass Ave And Columbus Circle",
+        "tag": "colucirc_d",
+        "stopId": "0170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0053599,
+          38.8959949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th Street and E Capitol NE",
+        "tag": "8thcapi_s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.994997,
+          38.8899897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th St & D St SE",
+        "tag": "8thd_e",
+        "stopId": "0151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.995046,
+          38.8834585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th Street SE And G Street SE",
+        "tag": "8thg_e",
+        "stopId": "0114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99503,
+          38.8813693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th Street SE And L Street SE",
+        "tag": "8thl_e",
+        "stopId": "0115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99505,
+          38.8777593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "11th Street and O Street NE",
+        "tag": "11thost_s",
+        "stopId": "1003780"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9914507,
+          38.8734283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Martin Luther King Jr Ave and U Street SE",
+        "tag": "mlkust_s",
+        "stopId": "1000423"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9888831,
+          38.866989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MLK Jr Ave SE And W Street SE",
+        "tag": "mlkwst_w",
+        "stopId": "0163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9898077,
+          38.8650239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anacostia Station Bus Bay F (Arrival)",
+        "tag": "anmetro_sa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9949684,
+          38.8617709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anacostia Station Bus Bay F",
+        "tag": "anmetro_w",
+        "stopId": "0164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9950955,
+          38.8618278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sheridan Road and Bowen Road SE",
+        "tag": "sherbowe_s",
+        "stopId": "1000316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9934444,
+          38.8591441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stanton Road and Washington View Apts",
+        "tag": "stanwash_s",
+        "stopId": "1003361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9903988,
+          38.8584569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stanton Road and Douglass Road SE",
+        "tag": "standoug_s",
+        "stopId": "1000295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98731,
+          38.857434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stanton Road and Pomeroy Road SE",
+        "tag": "stanpome_s",
+        "stopId": "1003362"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9870746,
+          38.8563348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stanton Road and Elvans Road SE",
+        "tag": "stanelva_s",
+        "stopId": "1000252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9861554,
+          38.8546366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stanton Road and Bruce Place SE",
+        "tag": "stanbruc_s",
+        "stopId": "1000222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.981084,
+          38.8509163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stanton Road and Alabama Ave SE",
+        "tag": "stanalab_s",
+        "stopId": "1000197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9804652,
+          38.8472433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Congress Heights Bus Bay G",
+        "tag": "congheig_d",
+        "stopId": "1003316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.987635,
+          38.84588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stanton Road and Alabama Ave SE",
+        "tag": "stanalab_n",
+        "stopId": "1000194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9803677,
+          38.847254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stanton Road and Bruce Place SE",
+        "tag": "stanbruc_n",
+        "stopId": "1000216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9809589,
+          38.8506664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stanton Road and Elvans Road SE",
+        "tag": "stanelva_n",
+        "stopId": "1000251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9856102,
+          38.8543675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stanton Road and Pomeroy Road SE",
+        "tag": "stanpome_n",
+        "stopId": "1000265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.986932,
+          38.8560674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stanton Road and Bryan Place SE",
+        "tag": "stanbrya_n",
+        "stopId": "1003363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.988135,
+          38.858272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stanton Road and Washington View Apts",
+        "tag": "stanwash_n",
+        "stopId": "1000305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9901325,
+          38.858515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sheridan Road and Bowen Road SE",
+        "tag": "sherbowe_n",
+        "stopId": "1000311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.993315,
+          38.8588532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anacostia Station Bus Bay F (Arrival)",
+        "tag": "anmetro_na"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.994969,
+          38.861771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anacostia Station Bus Bay F",
+        "tag": "anmetro_n",
+        "stopId": "0152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9950955,
+          38.8618278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MLK Jr Ave SE And W Street SE",
+        "tag": "mlkwst_e",
+        "stopId": "0153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9900819,
+          38.8641977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Martin Luther King Jr Ave and Good Hope Road SE",
+        "tag": "mlkhope",
+        "stopId": "1003759"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9886669,
+          38.8672137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "11th Street and O Street NE",
+        "tag": "11thost_n",
+        "stopId": "1003781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9912794,
+          38.8735501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th Street SE And L Street SE",
+        "tag": "8thl_w",
+        "stopId": "0122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99491,
+          38.8773461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th Street SE And G Street SE",
+        "tag": "8thg_w",
+        "stopId": "0123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9949399,
+          38.881056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th St & E St SE",
+        "tag": "8these_w",
+        "stopId": "0165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99494,
+          38.8827199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th Street and E Capitol NE",
+        "tag": "8thcapi_n",
+        "stopId": "1000822"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.994895,
+          38.8901084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Street & Columbus Circle NE",
+        "tag": "ecolucir",
+        "stopId": "8001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.007816,
+          38.896557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Madison Drive & 4th Street NW",
+        "tag": "madi4th",
+        "stopId": "8002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0173901,
+          38.8906086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Madison Drive & 7th Street NW",
+        "tag": "madi7th",
+        "stopId": "8003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02241,
+          38.8905415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Madison Drive & 12th Street NW",
+        "tag": "madi12th",
+        "stopId": "8004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.028642,
+          38.890466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "15th Street & Jefferson Drive SW",
+        "tag": "15thjeff",
+        "stopId": "8005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0334353,
+          38.8883576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "301 15th Street SW (Bureau of Printing and Engraving)",
+        "tag": "15thbure",
+        "stopId": "8006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0337179,
+          38.8857252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "East Basin Drive SW (Thomas Jefferson Memorial)",
+        "tag": "basithom",
+        "stopId": "8007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.037482,
+          38.879879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "West Basin Drive SW (MLK Memorial)",
+        "tag": "basimlkm",
+        "stopId": "8008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0449897,
+          38.8853967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lincoln Memorial Circle SW",
+        "tag": "lincmemo",
+        "stopId": "8009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0506713,
+          38.8884608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Constitution Avenue & 21st Street NW",
+        "tag": "cons21st",
+        "stopId": "8010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0469043,
+          38.892063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Constitution Avenue & 18st Street NW",
+        "tag": "cons18st",
+        "stopId": "8011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.041407,
+          38.8920244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "15th Street & Madison Drive NW",
+        "tag": "15thmadi",
+        "stopId": "8012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0332373,
+          38.890412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jefferson Drive & 12th Street SW",
+        "tag": "jeff12th",
+        "stopId": "8013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0283291,
+          38.8886729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jefferson Drive & 7th Street SW",
+        "tag": "jeff7th",
+        "stopId": "8014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0227259,
+          38.888739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "3rd Street & Jefferson Drive NW",
+        "tag": "3rdjeff",
+        "stopId": "8015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0151413,
+          38.8899666
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright DC Circulator 2018."
+}

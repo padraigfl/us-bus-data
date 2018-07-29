@@ -1,0 +1,90 @@
+{
+  "data": {
+    "weyburn": {
+      "title": "U1 Weyburn",
+      "color": "0000cc",
+      "tag": "weyburn",
+      "shortTitle": "U1",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.0737522,
+        -118.438205
+      ],
+      "min": [
+        34.059471,
+        -118.44995
+      ],
+      "stops": {
+        "Loop": [
+          "weybterr_d",
+          "lot36_n",
+          "lindhamm",
+          "wytnsout",
+          "murhall_s",
+          "molsci_s",
+          "gonda_s",
+          "medplaz_s"
+        ]
+      }
+    },
+    "wilshire": {
+      "title": "U2 Wilshire",
+      "color": "cd8500",
+      "tag": "wilshire",
+      "shortTitle": "U2",
+      "oppositeColor": "000000",
+      "max": [
+        34.0737226,
+        -118.4380649
+      ],
+      "min": [
+        34.0574399,
+        -118.445217
+      ],
+      "stops": {
+        "Loop": [
+          "wilscent",
+          "steiplaz",
+          "botany",
+          "parkstru2",
+          "murhall_n",
+          "wytnnort",
+          "hilgwest",
+          "conttive",
+          "westlind"
+        ]
+      }
+    },
+    "ua": {
+      "title": "U4 Univ Apts",
+      "color": "009900",
+      "tag": "ua",
+      "shortTitle": "U4",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.0737226,
+        -118.40215
+      ],
+      "min": [
+        34.00795,
+        -118.44758
+      ],
+      "stops": {
+        "Campus": [
+          "clarington",
+          "keystn",
+          "venbarry"
+        ],
+        "Apartments": [
+          "lot36_n",
+          "npi_n",
+          "botany",
+          "structure2_n",
+          "murhall_n",
+          "wytnnort"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright UCLA 2018."
+}

@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wolf Hall to Creek",
+        "tag": "wolf",
+        "stopId": "100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.730363,
+          39.9455699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Creek Crossing",
+        "tag": "creakx",
+        "stopId": "105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.728126,
+          39.9476518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northside Commons",
+        "tag": "nsidecom",
+        "stopId": "106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7330902,
+          39.9498946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wolf Hall to West",
+        "tag": "wolf_2",
+        "stopId": "100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.73034,
+          39.9455299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spring Garden Apartments",
+        "tag": "spring",
+        "stopId": "101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7387667,
+          39.9430399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Readco Lot",
+        "tag": "readco",
+        "stopId": "102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7397806,
+          39.9446283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rail Trail Lot",
+        "tag": "railtrai",
+        "stopId": "103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7372253,
+          39.9474682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grumbacher/Diehl Lot",
+        "tag": "grummcka",
+        "stopId": "104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.735261,
+          39.945797
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright York College 2018."
+}

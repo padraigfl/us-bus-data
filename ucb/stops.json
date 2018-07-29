@@ -1,0 +1,495 @@
+{
+  "data": {
+    "berkbart_d": {
+      "lon": "-122.26765",
+      "title": "Downtown Berkeley: Shattuck at Addison",
+      "shortTitle": "Downtown Berkeley: Shattuck @ Addison",
+      "stopId": "01",
+      "tag": "berkbart_d",
+      "lat": "37.87104"
+    },
+    "oxfouniv": {
+      "lon": "-122.2659626",
+      "title": "Oxford at University",
+      "shortTitle": "Oxford @ University",
+      "stopId": "02",
+      "tag": "oxfouniv",
+      "lat": "37.8727184"
+    },
+    "tolmhall": {
+      "lon": "-122.2641524",
+      "title": "Tolman Hall: Hearst at Arch",
+      "shortTitle": "Tolman Hall: Hearst @ Arch",
+      "stopId": "03",
+      "tag": "tolmhall",
+      "lat": "37.8744291"
+    },
+    "nortgate": {
+      "lon": "-122.2605359",
+      "title": "North Gate: Hearst at Euclid",
+      "shortTitle": "North Gate: Hearst @ Euclid",
+      "stopId": "04",
+      "tag": "nortgate",
+      "lat": "37.8749713"
+    },
+    "coryhall": {
+      "lon": "-122.25798",
+      "title": "Cory Hall: Hearst at LeRoy",
+      "shortTitle": "Cory Hall: Hearst @ LeRoy",
+      "stopId": "05",
+      "tag": "coryhall",
+      "lat": "37.8753299"
+    },
+    "evanhall": {
+      "lon": "-122.257378",
+      "title": "Evans Hall: Hearst Mining Circle",
+      "stopId": "06",
+      "tag": "evanhall",
+      "lat": "37.873397"
+    },
+    "gaylstad": {
+      "lon": "-122.2539793",
+      "title": "Gayley at Stadium Rimway",
+      "shortTitle": "Gayley @ Stadium Rimway",
+      "stopId": "07",
+      "tag": "gaylstad",
+      "lat": "37.8726641"
+    },
+    "haasbusi": {
+      "lon": "-122.2528419",
+      "title": "Haas School of Business: Piedmont Avenue (south)",
+      "shortTitle": "Haas School of Business: Piedmont (south)",
+      "stopId": "08",
+      "tag": "haasbusi",
+      "lat": "37.8714393"
+    },
+    "intehous": {
+      "lon": "-122.2523754",
+      "title": "International House: Piedmont at Bancroft",
+      "shortTitle": "International House: Piedmont @ Bancroft",
+      "stopId": "09",
+      "tag": "intehous",
+      "lat": "37.8697323"
+    },
+    "piedchan": {
+      "lon": "-122.2520976",
+      "title": "Piedmont at Channing",
+      "shortTitle": "Piedmont @ Channing",
+      "stopId": "10",
+      "tag": "piedchan",
+      "lat": "37.8680371"
+    },
+    "collast": {
+      "lon": "-122.2540707",
+      "title": "College at Haste",
+      "shortTitle": "College @ Haste",
+      "stopId": "11",
+      "tag": "collast",
+      "lat": "37.8667424"
+    },
+    "krobhall": {
+      "lon": "-122.2551466",
+      "title": "Kroeber Hall: Bancroft at College",
+      "shortTitle": "Kroeber Hall: Bancroft @ College",
+      "stopId": "12",
+      "tag": "krobhall",
+      "lat": "37.869285"
+    },
+    "hrstmemo": {
+      "lon": "-122.2571773",
+      "title": "Hearst Memorial Gym: Bancroft at Bowditch",
+      "shortTitle": "Hearst Memorial Gym: Bancroft @ Bowditch",
+      "stopId": "13",
+      "tag": "hrstmemo",
+      "lat": "37.869015"
+    },
+    "sprouhall": {
+      "lon": "-122.2586383",
+      "title": "Sproul Hall: Bancroft at Telegraph",
+      "shortTitle": "Sproul Hall: Bancroft @ Telegraph",
+      "stopId": "14",
+      "tag": "sprouhall",
+      "lat": "37.8688438"
+    },
+    "bancells": {
+      "lon": "-122.2639993",
+      "title": "Recreational Sport Facility: Bancroft at Ellsworth",
+      "shortTitle": "Recreational Sport Facility: Bancroft @ Ellsworth",
+      "stopId": "15",
+      "tag": "bancells",
+      "lat": "37.8681548"
+    },
+    "bancshat": {
+      "lon": "-122.26749",
+      "title": "Banway Building: Bancroft at Shattuck",
+      "shortTitle": "Banway Building: Bancroft @ Shattuck",
+      "stopId": "16",
+      "tag": "bancshat",
+      "lat": "37.8676846"
+    },
+    "shatkitt": {
+      "lon": "-122.2677474",
+      "title": "Shattuck at Kittredge",
+      "shortTitle": "Shattuck @ Kittredge",
+      "stopId": "17",
+      "tag": "shatkitt",
+      "lat": "37.8683866"
+    },
+    "strawcany": {
+      "lon": "-122.246373",
+      "title": "Strawberry Canyon",
+      "stopId": "20",
+      "tag": "strawcany",
+      "lat": "37.8725667"
+    },
+    "botagard": {
+      "lon": "-122.2386326",
+      "title": "UC Botanical Garden",
+      "stopId": "22",
+      "tag": "botagard",
+      "lat": "37.8754"
+    },
+    "lawrhall": {
+      "lon": "-122.2460716",
+      "title": "Lawrence Hall of Science",
+      "stopId": "24",
+      "tag": "lawrhall",
+      "lat": "37.8799563"
+    },
+    "spacelab_a": {
+      "lon": "-122.244451",
+      "title": "Space Sciences Lab / MSRI (Arrival)",
+      "tag": "spacelab_a",
+      "lat": "37.880937"
+    },
+    "spacelab_d": {
+      "lon": "-122.244182",
+      "title": "Space Sciences Lab / MSRI",
+      "stopId": "26",
+      "tag": "spacelab_d",
+      "lat": "37.8806749"
+    },
+    "lawrhall_ib": {
+      "lon": "-122.2460961",
+      "title": "Lawrence Hall of Science",
+      "stopId": "25",
+      "tag": "lawrhall_ib",
+      "lat": "37.8798432"
+    },
+    "botagard_ib": {
+      "lon": "-122.2387108",
+      "title": "UC Botanical Garden",
+      "stopId": "23",
+      "tag": "botagard_ib",
+      "lat": "37.8754044"
+    },
+    "strawcany_ib": {
+      "lon": "-122.2464034",
+      "title": "Strawberry Canyon",
+      "stopId": "21",
+      "tag": "strawcany_ib",
+      "lat": "37.8726368"
+    },
+    "evanhall_a": {
+      "lon": "-122.257486",
+      "title": "Evans Hall: Hearst Mining Circle (Arrival)",
+      "tag": "evanhall_a",
+      "lat": "37.873708"
+    },
+    "mofflibr": {
+      "lon": "-122.2598455",
+      "title": "Moffitt Library: University Drive",
+      "stopId": "27",
+      "tag": "mofflibr",
+      "lat": "37.8733606"
+    },
+    "westcirc": {
+      "lon": "-122.263548",
+      "title": "West Circle: University Drive side",
+      "stopId": "28",
+      "tag": "westcirc",
+      "lat": "37.8723217"
+    },
+    "likashin": {
+      "lon": "-122.2651",
+      "title": "Li Ka Shing: West Crescent",
+      "stopId": "30",
+      "tag": "likashin",
+      "lat": "37.871626"
+    },
+    "ecerbart_d": {
+      "lon": "-122.2993849",
+      "title": "El Cerrito Plaza BART",
+      "stopId": "31",
+      "tag": "ecerbart_d",
+      "lat": "37.903079"
+    },
+    "richfsta": {
+      "lon": "-122.3299119",
+      "title": "Richmond Field Station",
+      "stopId": "32",
+      "tag": "richfsta",
+      "lat": "37.9169939"
+    },
+    "regafacl_d": {
+      "lon": "-122.338381",
+      "title": "Regatta Facility",
+      "stopId": "33",
+      "tag": "regafacl_d",
+      "lat": "37.916293"
+    },
+    "buchjack": {
+      "lon": "-122.3010351",
+      "title": "Buchanan at Jackson",
+      "shortTitle": "Buchanan @ Jackson",
+      "stopId": "39",
+      "tag": "buchjack",
+      "lat": "37.8875449"
+    },
+    "hopkmlk": {
+      "lon": "-122.2749674",
+      "title": "Hopkins at MLK Jr.",
+      "shortTitle": "Hopkins @ MLK Jr.",
+      "stopId": "35",
+      "tag": "hopkmlk",
+      "lat": "37.8853444"
+    },
+    "hopkmlk_ib": {
+      "lon": "-122.274836",
+      "title": "Hopkins at MLK Jr.",
+      "shortTitle": "Hopkins @ MLK Jr.",
+      "stopId": "34",
+      "tag": "hopkmlk_ib",
+      "lat": "37.88542"
+    },
+    "buchjack_ib": {
+      "lon": "-122.3010983",
+      "title": "Buchanan at Jackson",
+      "shortTitle": "Buchanan @ Jackson",
+      "stopId": "38",
+      "tag": "buchjack_ib",
+      "lat": "37.8877269"
+    },
+    "richfsta_ib": {
+      "lon": "-122.3299115",
+      "title": "Richmond Field Station",
+      "stopId": "32",
+      "tag": "richfsta_ib",
+      "lat": "37.9169937"
+    },
+    "regafacl_a": {
+      "lon": "-122.338584",
+      "title": "Regatta Facility (Arrival)",
+      "stopId": "33",
+      "tag": "regafacl_a",
+      "lat": "37.9163086"
+    },
+    "mofflibr_d": {
+      "lon": "-122.2598536",
+      "title": "Moffit Library: Memorial Glade",
+      "stopId": "27",
+      "tag": "mofflibr_d",
+      "lat": "37.8733556"
+    },
+    "lifescie": {
+      "lon": "-122.2634181",
+      "title": "Life Science Addition: West Circle",
+      "stopId": "29",
+      "tag": "lifescie",
+      "lat": "37.8723741"
+    },
+    "univshack": {
+      "lon": "-122.2682087",
+      "title": "University at Shattuck",
+      "shortTitle": "University @ Shattuck",
+      "stopId": "56",
+      "tag": "univshack",
+      "lat": "37.8722739"
+    },
+    "footstud": {
+      "lon": "-122.256164",
+      "title": "Foothill Student Housing: Hearst side",
+      "stopId": "55",
+      "tag": "footstud",
+      "lat": "37.875592"
+    },
+    "highridg": {
+      "lon": "-122.256083",
+      "title": "Highland Place at Ridge Road",
+      "shortTitle": "Highland Place @ Ridge",
+      "stopId": "58",
+      "tag": "highridg",
+      "lat": "37.8766429"
+    },
+    "eastgate": {
+      "lon": "-122.2556971",
+      "title": "East Gate: Gayley at University Drive",
+      "shortTitle": "East Gate: Gayley @ University Drive",
+      "stopId": "57",
+      "tag": "eastgate",
+      "lat": "37.874216"
+    },
+    "bowlhall": {
+      "lon": "-122.2537145",
+      "title": "Bowles Hall: Gayley",
+      "stopId": "07",
+      "tag": "bowlhall",
+      "lat": "37.8724872"
+    },
+    "banckitt": {
+      "lon": "-122.2677479",
+      "title": "Bancroft at Kittredge",
+      "shortTitle": "Bancroft @ Kittredge",
+      "stopId": "17",
+      "tag": "banckitt",
+      "lat": "37.8683927"
+    },
+    "berkbart_ib": {
+      "lon": "-122.26765",
+      "title": "Downtown Berkeley BART: Shattuck at Addison",
+      "shortTitle": "Downtown Berkeley BART: Shattuck @ Addison",
+      "stopId": "01",
+      "tag": "berkbart_ib",
+      "lat": "37.8710398"
+    },
+    "lkshincr": {
+      "lon": "-122.2649295",
+      "title": "Li Ka Shing: West Crescent side",
+      "stopId": "30",
+      "tag": "lkshincr",
+      "lat": "37.8716156"
+    },
+    "lifescie_ib": {
+      "lon": "-122.2634018",
+      "title": "Life Science Addition: West Circle",
+      "stopId": "28",
+      "tag": "lifescie_ib",
+      "lat": "37.8720893"
+    },
+    "shatalls": {
+      "lon": "-122.268087",
+      "title": "Shattuck at Allston",
+      "shortTitle": "Shattuck @ Allston",
+      "stopId": "40",
+      "tag": "shatalls",
+      "lat": "37.8695128"
+    },
+    "shatdura": {
+      "lon": "-122.2678079",
+      "title": "Shattuck at Durant",
+      "shortTitle": "Shattuck @ Durant",
+      "stopId": "59",
+      "tag": "shatdura",
+      "lat": "37.8664669"
+    },
+    "dwigfult": {
+      "lon": "-122.2650127",
+      "title": "Dwight at Fulton",
+      "shortTitle": "Dwight @ Fulton",
+      "stopId": "43",
+      "tag": "dwigfult",
+      "lat": "37.864257"
+    },
+    "ellsstru": {
+      "lon": "-122.2631961",
+      "title": "Ellsworth Structure: Channing side",
+      "stopId": "44",
+      "tag": "ellsstru",
+      "lat": "37.8663247"
+    },
+    "chantele": {
+      "lon": "-122.2593681",
+      "title": "Residence Hall Unit 3 Channing at Telegraph",
+      "shortTitle": "Residence Hall Unit 3 Channing @ Telegraph",
+      "stopId": "45",
+      "tag": "chantele",
+      "lat": "37.8668229"
+    },
+    "chanbowd": {
+      "lon": "-122.2568019",
+      "title": "Channing at Bowditch",
+      "shortTitle": "Channing @ Bowditch",
+      "stopId": "42",
+      "tag": "chanbowd",
+      "lat": "37.867139"
+    },
+    "chancoll": {
+      "lon": "-122.2544629",
+      "title": "Residence Hall Unit 1 Channing at College",
+      "shortTitle": "Residence Hall Unit 1 Channing @ College",
+      "stopId": "46",
+      "tag": "chancoll",
+      "lat": "37.8674359"
+    },
+    "collhast": {
+      "lon": "-122.2541418",
+      "title": "College at Haste",
+      "shortTitle": "College @ Haste",
+      "stopId": "11",
+      "tag": "collhast",
+      "lat": "37.8667183"
+    },
+    "warrpied": {
+      "lon": "-122.2517514",
+      "title": "Warring at Piedmont",
+      "shortTitle": "Warring @ Piedmont",
+      "stopId": "48",
+      "tag": "warrpied",
+      "lat": "37.865838"
+    },
+    "clarkerr": {
+      "lon": "-122.2494337",
+      "title": "Clark Kerr Campus: Warring at Horseshoe",
+      "shortTitle": "Clark Kerr Campus: Warring @ Horseshoe",
+      "stopId": "49",
+      "tag": "clarkerr",
+      "lat": "37.8640961"
+    },
+    "warrchan": {
+      "lon": "-122.2507528",
+      "title": "Warring at Channing",
+      "shortTitle": "Warring @ Channing",
+      "stopId": "50",
+      "tag": "warrchan",
+      "lat": "37.8679182"
+    },
+    "warrbanc": {
+      "lon": "-122.2508792",
+      "title": "Warring at Bancroft",
+      "shortTitle": "Warring @ Bancroft",
+      "stopId": "51",
+      "tag": "warrbanc",
+      "lat": "37.8693241"
+    },
+    "haasbusn": {
+      "lon": "-122.252695",
+      "title": "Haas School of Business: Piedmont side (north)",
+      "stopId": "53",
+      "tag": "haasbusn",
+      "lat": "37.87147"
+    },
+    "greethea": {
+      "lon": "-122.2556711",
+      "title": "Greek Theater: Gayley at University Drive",
+      "shortTitle": "Greek Theater: Gayley @ University Drive",
+      "stopId": "54",
+      "tag": "greethea",
+      "lat": "37.8742981"
+    },
+    "nberbart_d": {
+      "lon": "-122.283011",
+      "title": "North Berkeley BART",
+      "stopId": "19",
+      "tag": "nberbart_d",
+      "lat": "37.874063"
+    },
+    "css_d": {
+      "lon": "-122.3017959",
+      "title": "CSS",
+      "stopId": "18",
+      "tag": "css_d",
+      "lat": "37.8734372"
+    }
+  },
+  "copyright": "All data copyright University of California Berkeley 2018."
+}

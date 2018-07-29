@@ -1,0 +1,828 @@
+{
+  "data": {
+    "lombpres_h": {
+      "lon": "-76.6053846",
+      "title": "201 President St - Reginald F. Lewis Museum",
+      "shortTitle": "201 President - Reginald F. Lewis Museum",
+      "stopId": "0201",
+      "tag": "lombpres_h",
+      "lat": "39.2881314"
+    },
+    "lombcomm_h": {
+      "lon": "-76.6099414",
+      "title": "202 Commerce St",
+      "shortTitle": "202 Commerce",
+      "stopId": "0202",
+      "tag": "lombcomm_h",
+      "lat": "39.2878602"
+    },
+    "lombligh_h": {
+      "lon": "-76.6133862",
+      "title": "203 Light St",
+      "shortTitle": "203 Light",
+      "stopId": "0203",
+      "tag": "lombligh_h",
+      "lat": "39.2878"
+    },
+    "lombhano_h": {
+      "lon": "-76.6161995",
+      "title": "204 Hanover St",
+      "shortTitle": "204 Hanover",
+      "stopId": "0204",
+      "tag": "lombhano_h",
+      "lat": "39.28774"
+    },
+    "lombhowa_h": {
+      "lon": "-76.619133",
+      "title": "205 Howard St",
+      "shortTitle": "205 Howard",
+      "stopId": "0205",
+      "tag": "lombhowa_h",
+      "lat": "39.2876298"
+    },
+    "lombgree_h": {
+      "lon": "-76.6233733",
+      "title": "206 Museum of Dentistry",
+      "stopId": "0206",
+      "tag": "lombgree_h",
+      "lat": "39.2874498"
+    },
+    "lombpenn_h": {
+      "lon": "-76.6260488",
+      "title": "207 Penn St",
+      "shortTitle": "207 Penn",
+      "stopId": "0207",
+      "tag": "lombpenn_h",
+      "lat": "39.28735"
+    },
+    "lombmlk_h": {
+      "lon": "-76.6278039",
+      "title": "208 Martin Luther King Jr Blvd",
+      "shortTitle": "208 Martin Luther King Jr",
+      "stopId": "0208",
+      "tag": "lombmlk_h",
+      "lat": "39.28728"
+    },
+    "baltfremave_h": {
+      "lon": "-76.6287528",
+      "title": "209 Fremont Ave - Univ of MD BioPark",
+      "shortTitle": "209 Fremont - Univ of MD BioPark",
+      "stopId": "0209",
+      "tag": "baltfremave_h",
+      "lat": "39.2890198"
+    },
+    "poppfair_h": {
+      "lon": "-76.6319725",
+      "title": "210 Univ of MD BioPark Garage",
+      "stopId": "0210",
+      "tag": "poppfair_h",
+      "lat": "39.2888798"
+    },
+    "arli24_e": {
+      "lon": "-76.6347212",
+      "title": "211 Hollins Market",
+      "stopId": "0211",
+      "tag": "arli24_e",
+      "lat": "39.2887348"
+    },
+    "pratschr_e": {
+      "lon": "-76.6344369",
+      "title": "212 Mt Clare St",
+      "shortTitle": "212 Mt Clare",
+      "stopId": "0212",
+      "tag": "pratschr_e",
+      "lat": "39.2857007"
+    },
+    "poppbalt_e": {
+      "lon": "-76.6321101",
+      "title": "213 Baltimore St",
+      "shortTitle": "213 Baltimore",
+      "stopId": "0213",
+      "tag": "poppbalt_e",
+      "lat": "39.2885623"
+    },
+    "baltfremst_e": {
+      "lon": "-76.6289591",
+      "title": "214 Fremont Ave - Univ of MD BioPark",
+      "shortTitle": "214 Fremont - Univ of MD BioPark",
+      "stopId": "0214",
+      "tag": "baltfremst_e",
+      "lat": "39.28894"
+    },
+    "baltpine_e": {
+      "lon": "-76.6266602",
+      "title": "215 Pine St",
+      "shortTitle": "215 Pine",
+      "stopId": "0215",
+      "tag": "baltpine_e",
+      "lat": "39.2890599"
+    },
+    "baltgree_e": {
+      "lon": "-76.6238434",
+      "title": "216 Univ of MD Medical Center",
+      "stopId": "0216",
+      "tag": "baltgree_e",
+      "lat": "39.2892092"
+    },
+    "greelomb_e": {
+      "lon": "-76.6235699",
+      "title": "217 Univ of MD Medical Center",
+      "stopId": "0217",
+      "tag": "greelomb_e",
+      "lat": "39.2875586"
+    },
+    "prateuta_e": {
+      "lon": "-76.62083",
+      "title": "218 Eutaw St - Camden Yards",
+      "shortTitle": "218 Eutaw - Camden Yards",
+      "stopId": "0218",
+      "tag": "prateuta_e",
+      "lat": "39.2862599"
+    },
+    "prathow": {
+      "lon": "-76.6194092",
+      "title": "219 Howard St",
+      "shortTitle": "219 Howard",
+      "stopId": "0219",
+      "tag": "prathow",
+      "lat": "39.2863025"
+    },
+    "pratshar_e": {
+      "lon": "-76.61736",
+      "title": "220 Convention Center",
+      "stopId": "0220",
+      "tag": "pratshar_e",
+      "lat": "39.2863699"
+    },
+    "prat_e": {
+      "lon": "-76.6137011",
+      "title": "221 Pratt St",
+      "shortTitle": "221 Pratt",
+      "stopId": "0221",
+      "tag": "prat_e",
+      "lat": "39.2865254"
+    },
+    "pratcalv_e": {
+      "lon": "-76.6123531",
+      "title": "222 Inner Harbor",
+      "stopId": "0222",
+      "tag": "pratcalv_e",
+      "lat": "39.2865501"
+    },
+    "prat501_e": {
+      "lon": "-76.6086216",
+      "title": "223 National Aquarium",
+      "stopId": "0223",
+      "tag": "prat501_e",
+      "lat": "39.2866604"
+    },
+    "east717_e": {
+      "lon": "-76.6062504",
+      "title": "224 Market Place",
+      "stopId": "0224",
+      "tag": "east717_e",
+      "lat": "39.2867699"
+    },
+    "littital_e": {
+      "lon": "-76.6030508",
+      "title": "225 Little Italy",
+      "stopId": "0225",
+      "tag": "littital_e",
+      "lat": "39.2852312"
+    },
+    "alic720b_h": {
+      "lon": "-76.6002036",
+      "title": "226 Harbor East",
+      "stopId": "0226",
+      "tag": "alic720b_h",
+      "lat": "39.2842419"
+    },
+    "centbank_h": {
+      "lon": "-76.5967471",
+      "title": "227 Bank St",
+      "shortTitle": "227 Bank",
+      "stopId": "0227",
+      "tag": "centbank_h",
+      "lat": "39.2863459"
+    },
+    "lomblloy_h": {
+      "lon": "-76.6013048",
+      "title": "228 Jewish Museum Of Maryland",
+      "stopId": "0228",
+      "tag": "lomblloy_h",
+      "lat": "39.2896364"
+    },
+    "lomb897_h": {
+      "lon": "-76.6035343",
+      "title": "229 Albemarle Square",
+      "stopId": "0229",
+      "tag": "lomb897_h",
+      "lat": "39.2888036"
+    },
+    "rutl": {
+      "lon": "-76.591502",
+      "title": "101 Rutland Ave",
+      "shortTitle": "101 Rutland",
+      "stopId": "0101",
+      "tag": "rutl",
+      "lat": "39.300663"
+    },
+    "jhop": {
+      "lon": "-76.5943494",
+      "title": "102 John Hopkins",
+      "stopId": "0102",
+      "tag": "jhop",
+      "lat": "39.2971419"
+    },
+    "fair": {
+      "lon": "-76.594162",
+      "title": "103 Fayette St",
+      "shortTitle": "103 Fayette",
+      "stopId": "0103",
+      "tag": "fair",
+      "lat": "39.294138"
+    },
+    "goug": {
+      "lon": "-76.5937241",
+      "title": "104 Gough St",
+      "shortTitle": "104 Gough",
+      "stopId": "0104",
+      "tag": "goug",
+      "lat": "39.2877469"
+    },
+    "broamark": {
+      "lon": "-76.5936835",
+      "title": "105 Broadway Market",
+      "stopId": "0105",
+      "tag": "broamark",
+      "lat": "39.2845719"
+    },
+    "maripark_wb": {
+      "lon": "-76.5962047",
+      "title": "106 Maritime Park - Westbound",
+      "stopId": "0106",
+      "tag": "maripark_wb",
+      "lat": "39.2798682"
+    },
+    "cent": {
+      "lon": "-76.6004109",
+      "title": "107 Fleet St",
+      "shortTitle": "107 Fleet",
+      "stopId": "0107",
+      "tag": "cent",
+      "lat": "39.284285"
+    },
+    "regimuse": {
+      "lon": "-76.6043415",
+      "title": "108 Reginald F Lewis Museum",
+      "stopId": "0108",
+      "tag": "regimuse",
+      "lat": "39.2877265"
+    },
+    "markplac": {
+      "lon": "-76.6056996",
+      "title": "109 Market Place",
+      "stopId": "0109",
+      "tag": "markplac",
+      "lat": "39.2898594"
+    },
+    "gay": {
+      "lon": "-76.6080793",
+      "title": "110 Gay St",
+      "shortTitle": "110 Gay",
+      "stopId": "0110",
+      "tag": "gay",
+      "lat": "39.2925966"
+    },
+    "high": {
+      "lon": "-76.6091665",
+      "title": "111 High St",
+      "shortTitle": "111 High",
+      "stopId": "0111",
+      "tag": "high",
+      "lat": "39.2956753"
+    },
+    "fall": {
+      "lon": "-76.609714",
+      "title": "112 Fallsway",
+      "stopId": "0112",
+      "tag": "fall",
+      "lat": "39.294015"
+    },
+    "lexi": {
+      "lon": "-76.6111164",
+      "title": "113 Saratoga St",
+      "shortTitle": "113 Saratoga",
+      "stopId": "0113",
+      "tag": "lexi",
+      "lat": "39.2911279"
+    },
+    "gay_s": {
+      "lon": "-76.6087679",
+      "title": "114 Gay St",
+      "shortTitle": "114 Gay",
+      "stopId": "0114",
+      "tag": "gay_s",
+      "lat": "39.2897458"
+    },
+    "markplace_s": {
+      "lon": "-76.6060538",
+      "title": "115 Market Place",
+      "stopId": "0115",
+      "tag": "markplace_s",
+      "lat": "39.2898071"
+    },
+    "lomb": {
+      "lon": "-76.6048607",
+      "title": "116 Lombard St",
+      "shortTitle": "116 Lombard",
+      "stopId": "0116",
+      "tag": "lomb",
+      "lat": "39.2880311"
+    },
+    "littlital": {
+      "lon": "-76.6030507",
+      "title": "117 Little Italy",
+      "stopId": "0117",
+      "tag": "littlital",
+      "lat": "39.2852311"
+    },
+    "harbeast_s": {
+      "lon": "-76.6002036",
+      "title": "118 Harbor East",
+      "stopId": "0118",
+      "tag": "harbeast_s",
+      "lat": "39.2842419"
+    },
+    "maripark_eb": {
+      "lon": "-76.5960099",
+      "title": "119 Maritime Park - Eastbound",
+      "stopId": "0119",
+      "tag": "maripark_eb",
+      "lat": "39.2803899"
+    },
+    "caro_e": {
+      "lon": "-76.5966139",
+      "title": "120 Caroline St",
+      "shortTitle": "120 Caroline",
+      "stopId": "0120",
+      "tag": "caro_e",
+      "lat": "39.2843115"
+    },
+    "broaflee": {
+      "lon": "-76.5932778",
+      "title": "121 Broadway and Fleet St",
+      "shortTitle": "121 Broadway & Fleet",
+      "stopId": "0121",
+      "tag": "broaflee",
+      "lat": "39.2846656"
+    },
+    "goug_n": {
+      "lon": "-76.5936316",
+      "title": "122 Lombard St",
+      "shortTitle": "122 Lombard",
+      "stopId": "0122",
+      "tag": "goug_n",
+      "lat": "39.2904875"
+    },
+    "fair_n": {
+      "lon": "-76.5938795",
+      "title": "123 Fayette St",
+      "shortTitle": "123 Fayette",
+      "stopId": "0123",
+      "tag": "fair_n",
+      "lat": "39.2941635"
+    },
+    "jhop_n": {
+      "lon": "-76.5940501",
+      "title": "124 John Hopkins",
+      "stopId": "0124",
+      "tag": "jhop_n",
+      "lat": "39.2973725"
+    },
+    "madi": {
+      "lon": "-76.5896501",
+      "title": "125 Madison St",
+      "shortTitle": "125 Madison",
+      "stopId": "0125",
+      "tag": "madi",
+      "lat": "39.2995475"
+    },
+    "baltvc_p": {
+      "lon": "-76.6128397",
+      "title": "301 Baltimore Visitor Center",
+      "stopId": "0301",
+      "tag": "baltvc_p",
+      "lat": "39.2832352"
+    },
+    "innrharb_p": {
+      "lon": "-76.6120724",
+      "title": "302 Inner Harbor",
+      "stopId": "0302",
+      "tag": "innrharb_p",
+      "lat": "39.286921"
+    },
+    "ligh_p": {
+      "lon": "-76.6135647",
+      "title": "303 Light St",
+      "shortTitle": "303 Light",
+      "stopId": "0303",
+      "tag": "ligh_p",
+      "lat": "39.28884"
+    },
+    "faye_p": {
+      "lon": "-76.6151408",
+      "title": "304 Fayette St",
+      "shortTitle": "304 Fayette",
+      "stopId": "0304",
+      "tag": "faye_p",
+      "lat": "39.2902912"
+    },
+    "plea_p": {
+      "lon": "-76.6153515",
+      "title": "305 Pleasant St",
+      "shortTitle": "305 Pleasant",
+      "stopId": "0305",
+      "tag": "plea_p",
+      "lat": "39.2934449"
+    },
+    "hami_p": {
+      "lon": "-76.6154815",
+      "title": "306 Hamilton St",
+      "shortTitle": "306 Hamilton",
+      "stopId": "0306",
+      "tag": "hami_p",
+      "lat": "39.2956344"
+    },
+    "washmonu_p": {
+      "lon": "-76.6153105",
+      "title": "307 Washington Monument",
+      "stopId": "0307",
+      "tag": "washmonu_p",
+      "lat": "39.2975485"
+    },
+    "eage_p": {
+      "lon": "-76.6158412",
+      "title": "308 Eager St",
+      "shortTitle": "308 Eager",
+      "stopId": "0308",
+      "tag": "eage_p",
+      "lat": "39.3009491"
+    },
+    "bidd_p": {
+      "lon": "-76.6159925",
+      "title": "309 Biddle St",
+      "shortTitle": "309 Biddle",
+      "stopId": "0309",
+      "tag": "bidd_p",
+      "lat": "39.3033641"
+    },
+    "pennsta_f": {
+      "lon": "-76.6163097",
+      "title": "310 Penn Station - Northbound",
+      "stopId": "0310",
+      "tag": "pennsta_f",
+      "lat": "39.3080868"
+    },
+    "charnort": {
+      "lon": "-76.6165065",
+      "title": "311 Station North Arts District - Northbound",
+      "stopId": "0311",
+      "tag": "charnort",
+      "lat": "39.3109278"
+    },
+    "char22nd": {
+      "lon": "-76.6167204",
+      "title": "312 22nd St - Northbound",
+      "shortTitle": "312 22nd - Northbound",
+      "stopId": "0312",
+      "tag": "char22nd",
+      "lat": "39.3141947"
+    },
+    "char25th": {
+      "lon": "-76.6169262",
+      "title": "313 25th St - Northbound",
+      "shortTitle": "313 25th - Northbound",
+      "stopId": "0313",
+      "tag": "char25th",
+      "lat": "39.3177638"
+    },
+    "char27th": {
+      "lon": "-76.6170959",
+      "title": "314 27th St - Northbound",
+      "shortTitle": "314 27th - Northbound",
+      "stopId": "0314",
+      "tag": "char27th",
+      "lat": "39.3204711"
+    },
+    "char31st": {
+      "lon": "-76.6174467",
+      "title": "315 31st St - Baltimore Museum of Art",
+      "shortTitle": "315 31st - Baltimore Museum of Art",
+      "stopId": "0315",
+      "tag": "char31st",
+      "lat": "39.3256841"
+    },
+    "33rd": {
+      "lon": "-76.6162699",
+      "title": "316 33rd St - MedStar Union Memorial Hospital",
+      "shortTitle": "316 33rd - MedStar Union Memorial Hospital",
+      "stopId": "0316",
+      "tag": "33rd",
+      "lat": "39.3280646"
+    },
+    "paul29th": {
+      "lon": "-76.6158307",
+      "title": "317 29th St",
+      "shortTitle": "317 29th",
+      "stopId": "0317",
+      "tag": "paul29th",
+      "lat": "39.324412"
+    },
+    "paul25th": {
+      "lon": "-76.6154127",
+      "title": "318 25th St - Southbound",
+      "shortTitle": "318 25th - Southbound",
+      "stopId": "0318",
+      "tag": "paul25th",
+      "lat": "39.3179858"
+    },
+    "paul22nd": {
+      "lon": "-76.6151826",
+      "title": "319 22nd St - Southbound",
+      "shortTitle": "319 22nd - Southbound",
+      "stopId": "0319",
+      "tag": "paul22nd",
+      "lat": "39.3144165"
+    },
+    "paulnort": {
+      "lon": "-76.6149731",
+      "title": "320 Station North Arts District - Southbound",
+      "stopId": "0320",
+      "tag": "paulnort",
+      "lat": "39.3110207"
+    },
+    "pennsta311_f": {
+      "lon": "-76.614741",
+      "title": "321 Penn Station - Southbound",
+      "stopId": "0321",
+      "tag": "pennsta311_f",
+      "lat": "39.3069903"
+    },
+    "pres_f": {
+      "lon": "-76.6145522",
+      "title": "322 Preston St",
+      "shortTitle": "322 Preston",
+      "stopId": "0322",
+      "tag": "pres_f",
+      "lat": "39.3044275"
+    },
+    "eage_f": {
+      "lon": "-76.6143717",
+      "title": "323 Eager St",
+      "shortTitle": "323 Eager",
+      "stopId": "0323",
+      "tag": "eage_f",
+      "lat": "39.3016943"
+    },
+    "madi_f": {
+      "lon": "-76.6141912",
+      "title": "324 Madison St",
+      "shortTitle": "324 Madison",
+      "stopId": "0324",
+      "tag": "madi_f",
+      "lat": "39.2987245"
+    },
+    "cent_f": {
+      "lon": "-76.61402",
+      "title": "325 Centre St",
+      "shortTitle": "325 Centre",
+      "stopId": "0325",
+      "tag": "cent_f",
+      "lat": "39.2965103"
+    },
+    "sara_f": {
+      "lon": "-76.61355",
+      "title": "327 Saratoga St",
+      "shortTitle": "327 Saratoga",
+      "stopId": "0327",
+      "tag": "sara_f",
+      "lat": "39.2924502"
+    },
+    "faye_f": {
+      "lon": "-76.613992",
+      "title": "328 Fayette St",
+      "shortTitle": "328 Fayette",
+      "stopId": "0328",
+      "tag": "faye_f",
+      "lat": "39.2905222"
+    },
+    "prat_f": {
+      "lon": "-76.6136315",
+      "title": "329 Pratt St - Inner Harbor",
+      "shortTitle": "329 Pratt - Inner Harbor",
+      "stopId": "0329",
+      "tag": "prat_f",
+      "lat": "39.2866543"
+    },
+    "lee_f": {
+      "lon": "-76.6131618",
+      "title": "331 Lee St",
+      "shortTitle": "331 Lee",
+      "stopId": "0331",
+      "tag": "lee_f",
+      "lat": "39.2820921"
+    },
+    "mont_f": {
+      "lon": "-76.6127621",
+      "title": "332 Montgomery St",
+      "shortTitle": "332 Montgomery",
+      "stopId": "0332",
+      "tag": "mont_f",
+      "lat": "39.2800694"
+    },
+    "cros_f": {
+      "lon": "-76.6124",
+      "title": "333 Cross St Market",
+      "shortTitle": "333 Cross Market",
+      "stopId": "0333",
+      "tag": "cros_f",
+      "lat": "39.27712"
+    },
+    "oste": {
+      "lon": "-76.6121099",
+      "title": "334 Ostend St",
+      "shortTitle": "334 Ostend",
+      "stopId": "0334",
+      "tag": "oste",
+      "lat": "39.2749898"
+    },
+    "mars_p": {
+      "lon": "-76.6138337",
+      "title": "335 Fort Ave",
+      "shortTitle": "335 Fort",
+      "stopId": "0335",
+      "tag": "mars_p",
+      "lat": "39.2727104"
+    },
+    "west_p": {
+      "lon": "-76.6142392",
+      "title": "336 West St",
+      "shortTitle": "336 West",
+      "stopId": "0336",
+      "tag": "west_p",
+      "lat": "39.2756683"
+    },
+    "henr_p": {
+      "lon": "-76.6144387",
+      "title": "337 Henrietta St",
+      "shortTitle": "337 Henrietta",
+      "stopId": "0337",
+      "tag": "henr_p",
+      "lat": "39.2788671"
+    },
+    "key_p": {
+      "lon": "-76.612639",
+      "title": "338 Key Highway - Maryland Science Center",
+      "stopId": "0338",
+      "tag": "key_p",
+      "lat": "39.2804305"
+    },
+    "lightlee": {
+      "lon": "-76.6131622",
+      "title": "402 Lee St",
+      "shortTitle": "402 Lee",
+      "stopId": "0402",
+      "tag": "lightlee",
+      "lat": "39.2820975"
+    },
+    "fedhill": {
+      "lon": "-76.6112689",
+      "title": "403 Federal Hill Park",
+      "stopId": "0403",
+      "tag": "fedhill",
+      "lat": "39.2805887"
+    },
+    "avam": {
+      "lon": "-76.607239",
+      "title": "404 American Visionary Art Museum",
+      "stopId": "0404",
+      "tag": "avam",
+      "lat": "39.28073"
+    },
+    "keyjack": {
+      "lon": "-76.605467",
+      "title": "405 Jackson St",
+      "shortTitle": "405 Jackson",
+      "stopId": "0405",
+      "tag": "keyjack",
+      "lat": "39.2751639"
+    },
+    "keyboyl": {
+      "lon": "-76.6019024",
+      "title": "406 Boyle St",
+      "shortTitle": "406 Boyle",
+      "stopId": "0406",
+      "tag": "keyboyl",
+      "lat": "39.2733544"
+    },
+    "soutfoun": {
+      "lon": "-76.6011459",
+      "title": "407 Fort Ave",
+      "shortTitle": "407 Fort",
+      "stopId": "0407",
+      "tag": "soutfoun",
+      "lat": "39.2715127"
+    },
+    "mchnrow": {
+      "lon": "-76.5989881",
+      "title": "408 Whetstone Way",
+      "stopId": "0408",
+      "tag": "mchnrow",
+      "lat": "39.270763"
+    },
+    "fortdeca": {
+      "lon": "-76.5952174",
+      "title": "409 Decatur St",
+      "shortTitle": "409 Decatur",
+      "stopId": "0409",
+      "tag": "fortdeca",
+      "lat": "39.2694327"
+    },
+    "fortandr": {
+      "lon": "-76.5912555",
+      "title": "410 Andre St",
+      "shortTitle": "410 Andre",
+      "stopId": "0410",
+      "tag": "fortandr",
+      "lat": "39.268022"
+    },
+    "fortmchn_d": {
+      "lon": "-76.5842117",
+      "title": "411 Fort McHenry Bus Loop",
+      "stopId": "0411",
+      "tag": "fortmchn_d",
+      "lat": "39.2658527"
+    },
+    "forttows": {
+      "lon": "-76.5922653",
+      "title": "412 Towson St",
+      "shortTitle": "412 Towson",
+      "stopId": "0412",
+      "tag": "forttows",
+      "lat": "39.268512"
+    },
+    "fortwood": {
+      "lon": "-76.5986798",
+      "title": "413 Woodall St",
+      "shortTitle": "413 Woodall",
+      "stopId": "0413",
+      "tag": "fortwood",
+      "lat": "39.2707859"
+    },
+    "baltmuse": {
+      "lon": "-76.6018193",
+      "title": "415 Baltimore Museum of Industry",
+      "stopId": "0415",
+      "tag": "baltmuse",
+      "lat": "39.2735096"
+    },
+    "keyharb": {
+      "lon": "-76.6047314",
+      "title": "416 Harborview",
+      "stopId": "0416",
+      "tag": "keyharb",
+      "lat": "39.2750508"
+    },
+    "keypier": {
+      "lon": "-76.6062081",
+      "title": "417 Pier Side Dr",
+      "stopId": "0417",
+      "tag": "keypier",
+      "lat": "39.2774035"
+    },
+    "rashfiel": {
+      "lon": "-76.6096471",
+      "title": "418 Rash Field",
+      "stopId": "0418",
+      "tag": "rashfiel",
+      "lat": "39.2807697"
+    },
+    "charlcon": {
+      "lon": "-76.6145991",
+      "title": "419 Otterbein",
+      "stopId": "0419",
+      "tag": "charlcon",
+      "lat": "39.2839656"
+    },
+    "pratligh": {
+      "lon": "-76.6136959",
+      "title": "420 Pratt St & Light St",
+      "shortTitle": "420 Pratt & Light",
+      "stopId": "0420",
+      "tag": "pratligh",
+      "lat": "39.2864042"
+    }
+  },
+  "copyright": "All data copyright Charm City Circulator 2018."
+}

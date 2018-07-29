@@ -1,0 +1,1402 @@
+{
+  "data": {
+    "pvmtc_sb": {
+      "lon": "-119.2496348",
+      "title": "Pacific View Mall - Ventura Transfer Center",
+      "stopId": "50000",
+      "tag": "pvmtc_sb",
+      "lat": "34.272451"
+    },
+    "vencol_sb": {
+      "lon": "-119.23093",
+      "title": "Ventura College",
+      "stopId": "50001",
+      "tag": "vencol_sb",
+      "lat": "34.2755699"
+    },
+    "vengov_sb": {
+      "lon": "-119.2128005",
+      "title": "Ventura County Government Center",
+      "stopId": "50002",
+      "tag": "vengov_sb",
+      "lat": "34.2660361"
+    },
+    "espmal_sb": {
+      "lon": "-119.1762722",
+      "title": "Esplanade Mall",
+      "stopId": "50003",
+      "tag": "espmal_sb",
+      "lat": "34.2320527"
+    },
+    "camout_sb": {
+      "lon": "-119.0583955",
+      "title": "Camarillo Outlets",
+      "stopId": "50004",
+      "tag": "camout_sb",
+      "lat": "34.2178004"
+    },
+    "carpla_sb": {
+      "lon": "-119.0519209",
+      "title": "Carmen Plaza",
+      "stopId": "50005",
+      "tag": "carpla_sb",
+      "lat": "34.22096"
+    },
+    "cammet_sb": {
+      "lon": "-119.0338138",
+      "title": "Camarillo Metrolink Station",
+      "stopId": "50006",
+      "tag": "cammet_sb",
+      "lat": "34.2163549"
+    },
+    "parpla_sb": {
+      "lon": "-119.004753",
+      "title": "Plaza at Mission Oaks",
+      "shortTitle": "Plaza @ Mission Oaks",
+      "stopId": "50007",
+      "tag": "parpla_sb",
+      "lat": "34.2158716"
+    },
+    "hilranch_sb": {
+      "lon": "-118.925791",
+      "title": "Hillcrest Dr at Rancho Conejo",
+      "shortTitle": "Hillcrest Dr @ Rancho Conejo",
+      "stopId": "50009",
+      "tag": "hilranch_sb",
+      "lat": "34.1870915"
+    },
+    "ranlaw_sb": {
+      "lon": "-118.92987",
+      "title": "Lawrence Dr - Conejo Industrial Park",
+      "stopId": "50010",
+      "tag": "ranlaw_sb",
+      "lat": "34.1918753"
+    },
+    "corpcent_s": {
+      "lon": "-118.92373",
+      "title": "Corporate Center Dr at Blue Cross",
+      "shortTitle": "Corporate Center Dr @ Blue Cross",
+      "stopId": "50011",
+      "tag": "corpcent_s",
+      "lat": "34.1975399"
+    },
+    "oakmal_sb": {
+      "lon": "-118.8870547",
+      "title": "Oaks Mall",
+      "stopId": "50012",
+      "tag": "oakmal_sb",
+      "lat": "34.1826635"
+    },
+    "totran": {
+      "lon": "-118.8611667",
+      "title": "Thousand Oaks Transportation Center",
+      "stopId": "50050",
+      "tag": "totran",
+      "lat": "34.1748122"
+    },
+    "oakmal_nb": {
+      "lon": "-118.8870547",
+      "title": "Oaks Mall",
+      "stopId": "50012",
+      "tag": "oakmal_nb",
+      "lat": "34.1826635"
+    },
+    "hilranch_nb": {
+      "lon": "-118.925791",
+      "title": "Hillcrest Dr at Rancho Conejo",
+      "shortTitle": "Hillcrest Dr @ Rancho Conejo",
+      "stopId": "50051",
+      "tag": "hilranch_nb",
+      "lat": "34.1870915"
+    },
+    "ranlaw_nb": {
+      "lon": "-118.92987",
+      "title": "Lawrence Dr - Conejo Industrial Park",
+      "stopId": "50010",
+      "tag": "ranlaw_nb",
+      "lat": "34.1918753"
+    },
+    "copcent_n": {
+      "lon": "-118.92373",
+      "title": "Corporate Center Dr at Blue Cross",
+      "shortTitle": "Corporate Center Dr @ Blue Cross",
+      "stopId": "50052",
+      "tag": "copcent_n",
+      "lat": "34.1975399"
+    },
+    "parpla_nb": {
+      "lon": "-119.004753",
+      "title": "Plaza at Mission Oaks",
+      "shortTitle": "Plaza @ Mission Oaks",
+      "stopId": "50007",
+      "tag": "parpla_nb",
+      "lat": "34.2158716"
+    },
+    "cammet_nb": {
+      "lon": "-119.0338138",
+      "title": "Camarillo Metrolink Station",
+      "stopId": "50006",
+      "tag": "cammet_nb",
+      "lat": "34.2163549"
+    },
+    "carpla_nb": {
+      "lon": "-119.0519209",
+      "title": "Carmen Plaza",
+      "stopId": "50005",
+      "tag": "carpla_nb",
+      "lat": "34.22096"
+    },
+    "camout_nb": {
+      "lon": "-119.0583955",
+      "title": "Camarillo Outlets",
+      "stopId": "50004",
+      "tag": "camout_nb",
+      "lat": "34.2178004"
+    },
+    "espmal_nb": {
+      "lon": "-119.1761499",
+      "title": "Esplanade Mall",
+      "stopId": "50003",
+      "tag": "espmal_nb",
+      "lat": "34.2320499"
+    },
+    "vengov_nb": {
+      "lon": "-119.2125199",
+      "title": "Ventura County Government Center",
+      "stopId": "50002",
+      "tag": "vengov_nb",
+      "lat": "34.2661599"
+    },
+    "vencol_nb": {
+      "lon": "-119.2309899",
+      "title": "Ventura College",
+      "stopId": "50001",
+      "tag": "vencol_nb",
+      "lat": "34.27568"
+    },
+    "bonsch": {
+      "lon": "-119.2542099",
+      "title": "Saint Bonaventure High School",
+      "stopId": "50053",
+      "tag": "bonsch",
+      "lat": "34.27225"
+    },
+    "vpier": {
+      "lon": "-119.29038",
+      "title": "Ventura Pier - Weekend Only",
+      "stopId": "50054",
+      "tag": "vpier",
+      "lat": "34.27622"
+    },
+    "pvmtc_nb": {
+      "lon": "-119.2499242",
+      "title": "Pacific View Mall - Ventura Transfer Center",
+      "stopId": "50000",
+      "tag": "pvmtc_nb",
+      "lat": "34.2725719"
+    },
+    "oxntra_sb": {
+      "lon": "-119.17636",
+      "title": "Oxnard Transportation Center",
+      "stopId": "50250",
+      "tag": "oxntra_sb",
+      "lat": "34.19985"
+    },
+    "pvmtc": {
+      "lon": "-119.2496348",
+      "title": "Pacific View Mall - Ventura Transfer Center",
+      "stopId": "50000",
+      "tag": "pvmtc",
+      "lat": "34.272451"
+    },
+    "rivrpark_sb": {
+      "lon": "-119.174626",
+      "title": "The Collection at Riverpark",
+      "shortTitle": "The Collection @ Riverpark",
+      "stopId": "50264",
+      "tag": "rivrpark_sb",
+      "lat": "34.241155"
+    },
+    "wenhil": {
+      "lon": "-118.93503",
+      "title": "Wendy's Hillcrest",
+      "stopId": "50251",
+      "tag": "wenhil",
+      "lat": "34.18872"
+    },
+    "firehill": {
+      "lon": "-118.92924",
+      "title": "Fire Station/ Hillcrest Dr.",
+      "stopId": "50252",
+      "tag": "firehill",
+      "lat": "34.18638"
+    },
+    "oakmal": {
+      "lon": "-118.8870547",
+      "title": "Oaks Mall",
+      "stopId": "50012",
+      "tag": "oakmal",
+      "lat": "34.1826635"
+    },
+    "totran_sb": {
+      "lon": "-118.8611667",
+      "title": "Thousand Oaks Transportation Center",
+      "stopId": "50050",
+      "tag": "totran_sb",
+      "lat": "34.1748123"
+    },
+    "oxntop_sb": {
+      "lon": "-118.6046205",
+      "title": "Oxnard at Topanga",
+      "shortTitle": "Oxnard @ Topanga",
+      "stopId": "50253",
+      "tag": "oxntop_sb",
+      "lat": "34.1791699"
+    },
+    "oxnarowen_sb": {
+      "lon": "-118.6008703",
+      "title": "Oxnard at Owensmouth",
+      "shortTitle": "Oxnard @ Owensmouth",
+      "stopId": "50254",
+      "tag": "oxnarowen_sb",
+      "lat": "34.1791899"
+    },
+    "oxncan_sb": {
+      "lon": "-118.5977303",
+      "title": "Oxnard at Canoga",
+      "shortTitle": "Oxnard @ Canoga",
+      "stopId": "50255",
+      "tag": "oxncan_sb",
+      "lat": "34.17917"
+    },
+    "burcan_sb": {
+      "lon": "-118.596911",
+      "title": "Burbank at Canoga",
+      "shortTitle": "Burbank @ Canoga",
+      "stopId": "50256",
+      "tag": "burcan_sb",
+      "lat": "34.17323"
+    },
+    "burwar_sb": {
+      "lon": "-118.5911923",
+      "title": "Burbank at Warner Center",
+      "shortTitle": "Burbank @ Warner Center",
+      "stopId": "50257",
+      "tag": "burwar_sb",
+      "lat": "34.1732598"
+    },
+    "desbur_sb": {
+      "lon": "-118.5882184",
+      "title": "Burbank at Kaiser",
+      "shortTitle": "Burbank @ Kaiser",
+      "stopId": "50258",
+      "tag": "desbur_sb",
+      "lat": "34.1735612"
+    },
+    "cantril_sb": {
+      "lon": "-118.59739",
+      "title": "Canoga at Trillium",
+      "shortTitle": "Canoga @ Trillium",
+      "stopId": "50259",
+      "tag": "cantril_sb",
+      "lat": "34.1851914"
+    },
+    "viccan_sb": {
+      "lon": "-118.5978923",
+      "title": "Victory at Canoga",
+      "shortTitle": "Victory @ Canoga",
+      "stopId": "50260",
+      "tag": "viccan_sb",
+      "lat": "34.1884396"
+    },
+    "owenvic_sb": {
+      "lon": "-118.60161",
+      "title": "Owensmouth at Victory",
+      "shortTitle": "Owensmouth @ Victory",
+      "stopId": "50261",
+      "tag": "owenvic_sb",
+      "lat": "34.1873669"
+    },
+    "erwowe_sb": {
+      "lon": "-118.60156",
+      "title": "Owensmouth at Erwin",
+      "shortTitle": "Owensmouth @ Erwin",
+      "stopId": "50262",
+      "tag": "erwowe_sb",
+      "lat": "34.1830904"
+    },
+    "oxnowe_sb": {
+      "lon": "-118.6021297",
+      "title": "Oxnard at Owensmouth",
+      "shortTitle": "Oxnard @ Owensmouth",
+      "stopId": "50263",
+      "tag": "oxnowe_sb",
+      "lat": "34.1793"
+    },
+    "oxntop_nb": {
+      "lon": "-118.6046205",
+      "title": "Oxnard at Topanga",
+      "shortTitle": "Oxnard @ Topanga",
+      "stopId": "50253",
+      "tag": "oxntop_nb",
+      "lat": "34.1791699"
+    },
+    "oxnarowen_nb": {
+      "lon": "-118.6008703",
+      "title": "Oxnard at Owensmouth",
+      "shortTitle": "Oxnard @ Owensmouth",
+      "stopId": "50254",
+      "tag": "oxnarowen_nb",
+      "lat": "34.1791899"
+    },
+    "oxncan_nb": {
+      "lon": "-118.5977303",
+      "title": "Oxnard at Canoga",
+      "shortTitle": "Oxnard @ Canoga",
+      "stopId": "50255",
+      "tag": "oxncan_nb",
+      "lat": "34.17917"
+    },
+    "burcan_nb": {
+      "lon": "-118.596911",
+      "title": "Burbank at Canoga",
+      "shortTitle": "Burbank @ Canoga",
+      "stopId": "50256",
+      "tag": "burcan_nb",
+      "lat": "34.17323"
+    },
+    "burwar_nb": {
+      "lon": "-118.5911882",
+      "title": "Burbank at Warner Center",
+      "shortTitle": "Burbank @ Warner Center",
+      "stopId": "50257",
+      "tag": "burwar_nb",
+      "lat": "34.1732598"
+    },
+    "desbur_nb": {
+      "lon": "-118.5882184",
+      "title": "Burbank at Kaiser",
+      "shortTitle": "Burbank @ Kaiser",
+      "stopId": "50258",
+      "tag": "desbur_nb",
+      "lat": "34.1735612"
+    },
+    "cantril_nb": {
+      "lon": "-118.59739",
+      "title": "Canoga at Trillium",
+      "shortTitle": "Canoga @ Trillium",
+      "stopId": "50259",
+      "tag": "cantril_nb",
+      "lat": "34.1851914"
+    },
+    "viccan_nb": {
+      "lon": "-118.5978923",
+      "title": "Victory at Canoga",
+      "shortTitle": "Victory @ Canoga",
+      "stopId": "50260",
+      "tag": "viccan_nb",
+      "lat": "34.1884396"
+    },
+    "owenvic_nb": {
+      "lon": "-118.60161",
+      "title": "Owensmouth at Victory",
+      "shortTitle": "Owensmouth @ Victory",
+      "stopId": "50261",
+      "tag": "owenvic_nb",
+      "lat": "34.1873669"
+    },
+    "erwowe_nb": {
+      "lon": "-118.60156",
+      "title": "Owensmouth at Erwin",
+      "shortTitle": "Owensmouth @ Erwin",
+      "stopId": "50262",
+      "tag": "erwowe_nb",
+      "lat": "34.1830904"
+    },
+    "oxnowe_nb": {
+      "lon": "-118.6021297",
+      "title": "Oxnard at Owensmouth",
+      "shortTitle": "Oxnard @ Owensmouth",
+      "stopId": "50263",
+      "tag": "oxnowe_nb",
+      "lat": "34.1793"
+    },
+    "totran_nb": {
+      "lon": "-118.8611667",
+      "title": "Thousand Oaks Transportation Center",
+      "stopId": "50050",
+      "tag": "totran_nb",
+      "lat": "34.1748122"
+    },
+    "rivrpark_nb": {
+      "lon": "-119.1746264",
+      "title": "The Collection at Riverpark",
+      "shortTitle": "The Collection @ Riverpark",
+      "stopId": "50264",
+      "tag": "rivrpark_nb",
+      "lat": "34.2411552"
+    },
+    "esplmall_nb": {
+      "lon": "-119.1760948",
+      "title": "Esplanade Mall",
+      "stopId": "50003",
+      "tag": "esplmall_nb",
+      "lat": "34.2320807"
+    },
+    "cgovcent_nb": {
+      "lon": "-119.207",
+      "title": "Ventura Cnty Gov Ctr",
+      "stopId": "50300",
+      "tag": "cgovcent_nb",
+      "lat": "34.26862"
+    },
+    "pacvmall_nb": {
+      "lon": "-119.2496341",
+      "title": "Pacific View Mall - Ventura Transit Center)",
+      "stopId": "50000",
+      "tag": "pacvmall_nb",
+      "lat": "34.2724511"
+    },
+    "vntdtown_nb": {
+      "lon": "-119.2943794",
+      "title": "Ventura Downtown",
+      "stopId": "50301",
+      "tag": "vntdtown_nb",
+      "lat": "34.2796029"
+    },
+    "wmainpek_nb": {
+      "lon": "-119.306317",
+      "title": "West Main at Peking",
+      "shortTitle": "West Main @ Peking",
+      "stopId": "50302",
+      "tag": "wmainpek_nb",
+      "lat": "34.281781"
+    },
+    "realmark_nb": {
+      "lon": "-119.48667",
+      "title": "Carpinteria Tech Park",
+      "stopId": "50303",
+      "tag": "realmark_nb",
+      "lat": "34.38526"
+    },
+    "carpeuge_nb": {
+      "lon": "-119.5174447",
+      "title": "Downtown Carpinteria",
+      "stopId": "50304",
+      "tag": "carpeuge_nb",
+      "lat": "34.3982558"
+    },
+    "cabpvall_nb": {
+      "lon": "-119.674649",
+      "title": "East Beach",
+      "stopId": "50305",
+      "tag": "cabpvall_nb",
+      "lat": "34.41632"
+    },
+    "gutigard_nb": {
+      "lon": "-119.6915549",
+      "title": "Gutierrez at Garden",
+      "shortTitle": "Gutierrez @ Garden",
+      "stopId": "50306",
+      "tag": "gutigard_nb",
+      "lat": "34.418395"
+    },
+    "sbarguer_nb": {
+      "lon": "-119.6974699",
+      "title": "Santa Barbara at De La Guerra",
+      "shortTitle": "Santa Barbara @ De La Guerra",
+      "stopId": "50307",
+      "tag": "sbarguer_nb",
+      "lat": "34.4220699"
+    },
+    "figusbar_nb": {
+      "lon": "-119.701199",
+      "title": "SB Courthouse",
+      "stopId": "50308",
+      "tag": "figusbar_nb",
+      "lat": "34.4243219"
+    },
+    "figuchap_nb": {
+      "lon": "-119.704347",
+      "title": "MDT Transit Center (Northbound)",
+      "stopId": "50309",
+      "tag": "figuchap_nb",
+      "lat": "34.421421"
+    },
+    "puebbath_nb": {
+      "lon": "-119.7217591",
+      "title": "Cottage Hospital (Pueblo at Bath)",
+      "shortTitle": "Cottage Hospital (Pueblo @ Bath)",
+      "stopId": "50310",
+      "tag": "puebbath_nb",
+      "lat": "34.4303593"
+    },
+    "dlvnmiss_nb": {
+      "lon": "-119.716519",
+      "title": "De La Vina St / W Mission St",
+      "shortTitle": "De La Vina / W Mission",
+      "tag": "dlvnmiss_nb",
+      "lat": "34.42838"
+    },
+    "sbarcomp_nb": {
+      "lon": "-119.7791794",
+      "title": "Santa Barbara County Complex",
+      "stopId": "50311",
+      "tag": "sbarcomp_nb",
+      "lat": "34.4439099"
+    },
+    "hollpatt_nb": {
+      "lon": "-119.8094095",
+      "title": "Cottage Hospital (Goleta)",
+      "stopId": "50400",
+      "tag": "hollpatt_nb",
+      "lat": "34.4350799"
+    },
+    "hollkell_nb": {
+      "lon": "-119.8211697",
+      "title": "Hollister at Kellogg",
+      "shortTitle": "Hollister @ Kellogg",
+      "stopId": "50312",
+      "tag": "hollkell_nb",
+      "lat": "34.435768"
+    },
+    "hollnect_nb": {
+      "lon": "-119.8269626",
+      "title": "Hollister at Nectarine",
+      "shortTitle": "Hollister @ Nectarine",
+      "stopId": "50313",
+      "tag": "hollnect_nb",
+      "lat": "34.4359409"
+    },
+    "hollaero_nb": {
+      "lon": "-119.8479567",
+      "title": "Hollister at Aero Camino",
+      "shortTitle": "Hollister @ Aero Camino",
+      "stopId": "50314",
+      "tag": "hollaero_nb",
+      "lat": "34.431457"
+    },
+    "hollcrem_nb": {
+      "lon": "-119.857301",
+      "title": "Hollister at Cremona",
+      "shortTitle": "Hollister @ Cremona",
+      "stopId": "50315",
+      "tag": "hollcrem_nb",
+      "lat": "34.4306998"
+    },
+    "cortcast_nb": {
+      "lon": "-119.865595",
+      "title": "Cortona at Castillian",
+      "shortTitle": "Cortona @ Castillian",
+      "stopId": "50316",
+      "tag": "cortcast_nb",
+      "lat": "34.432156"
+    },
+    "castcarn_nb": {
+      "lon": "-119.8612942",
+      "title": "Castillian at Los Carneros",
+      "shortTitle": "Castillian @ Los Carneros",
+      "stopId": "50317",
+      "tag": "castcarn_nb",
+      "lat": "34.4328718"
+    },
+    "carnkarl_a": {
+      "lon": "-119.855493",
+      "title": "Los Carneros at Karl Storz",
+      "shortTitle": "Los Carneros @ Karl Storz",
+      "tag": "carnkarl_a",
+      "lat": "34.432999"
+    },
+    "ucsb_d": {
+      "lon": "-119.848075",
+      "title": "UCSB",
+      "stopId": "50318",
+      "tag": "ucsb_d",
+      "lat": "34.4150571"
+    },
+    "carnkarl_d": {
+      "lon": "-119.85555",
+      "title": "Los Carneros at Karl Storz",
+      "shortTitle": "Los Carneros @ Karl Storz",
+      "tag": "carnkarl_d",
+      "lat": "34.433216"
+    },
+    "hollcoro_sb": {
+      "lon": "-119.863415",
+      "title": "Hollister at Coromar",
+      "shortTitle": "Hollister @ Coromar",
+      "tag": "hollcoro_sb",
+      "lat": "34.430358"
+    },
+    "cortcast_sb": {
+      "lon": "-119.8655953",
+      "title": "Cortona at Castillian",
+      "shortTitle": "Cortona @ Castillian",
+      "stopId": "50316",
+      "tag": "cortcast_sb",
+      "lat": "34.4321559"
+    },
+    "castcarn_sb": {
+      "lon": "-119.8612942",
+      "title": "Castillian at Los Carneros",
+      "shortTitle": "Castillian @ Los Carneros",
+      "stopId": "50317",
+      "tag": "castcarn_sb",
+      "lat": "34.4328718"
+    },
+    "hollcrem_sb": {
+      "lon": "-119.857285",
+      "title": "Hollister at Los Carneros",
+      "shortTitle": "Hollister @ Los Carneros",
+      "stopId": "50315",
+      "tag": "hollcrem_sb",
+      "lat": "34.430539"
+    },
+    "hollaero_sb": {
+      "lon": "-119.848005",
+      "title": "Hollister at Aero Camino",
+      "shortTitle": "Hollister @ Aero Camino",
+      "stopId": "50314",
+      "tag": "hollaero_sb",
+      "lat": "34.4312499"
+    },
+    "hollpine_sb": {
+      "lon": "-119.8262153",
+      "title": "Hollister at Pine",
+      "shortTitle": "Hollister @ Pine",
+      "stopId": "50350",
+      "tag": "hollpine_sb",
+      "lat": "34.43573"
+    },
+    "hollkell_sb": {
+      "lon": "-119.8211672",
+      "title": "Hollister at Kellogg",
+      "shortTitle": "Hollister @ Kellogg",
+      "stopId": "50312",
+      "tag": "hollkell_sb",
+      "lat": "34.4355819"
+    },
+    "hollpatt_d": {
+      "lon": "-119.80943",
+      "title": "Cottage Hospital (Goleta)",
+      "stopId": "50450",
+      "tag": "hollpatt_d",
+      "lat": "34.43491"
+    },
+    "sbarcomp_sb": {
+      "lon": "-119.779179",
+      "title": "Santa Barbara County Complex",
+      "stopId": "50311",
+      "tag": "sbarcomp_sb",
+      "lat": "34.44391"
+    },
+    "cotthosp_sb": {
+      "lon": "-119.7222202",
+      "title": "Cottage Hospital (Southbound)",
+      "stopId": "50351",
+      "tag": "cotthosp_sb",
+      "lat": "34.4306301"
+    },
+    "dlvnmiss_sb": {
+      "lon": "-119.7165191",
+      "title": "De La Vina St / W Mission St",
+      "shortTitle": "De La Vina / W Mission",
+      "tag": "dlvnmiss_sb",
+      "lat": "34.4283796"
+    },
+    "chapfigu_sb": {
+      "lon": "-119.704387",
+      "title": "MDT Transit Center (Southbound)",
+      "stopId": "50352",
+      "tag": "chapfigu_sb",
+      "lat": "34.421451"
+    },
+    "anacanap_sb": {
+      "lon": "-119.702847",
+      "title": "SB Library",
+      "stopId": "50353",
+      "tag": "anacanap_sb",
+      "lat": "34.424105"
+    },
+    "anacguer_sb": {
+      "lon": "-119.697921",
+      "title": "SB City Hall",
+      "stopId": "50354",
+      "tag": "anacguer_sb",
+      "lat": "34.420448"
+    },
+    "halegard_sb": {
+      "lon": "-119.6924592",
+      "title": "Haley at Garden",
+      "shortTitle": "Haley @ Garden",
+      "stopId": "50355",
+      "tag": "halegard_sb",
+      "lat": "34.4196317"
+    },
+    "cabpvall_sb": {
+      "lon": "-119.67451",
+      "title": "East Beach",
+      "stopId": "50305",
+      "tag": "cabpvall_sb",
+      "lat": "34.41626"
+    },
+    "carpmapl_sb": {
+      "lon": "-119.5175522",
+      "title": "Downtown Carpinteria",
+      "stopId": "50356",
+      "tag": "carpmapl_sb",
+      "lat": "34.398232"
+    },
+    "cityhall": {
+      "lon": "-119.50696",
+      "title": "Carpinteria City Hall",
+      "stopId": "50602",
+      "tag": "cityhall",
+      "lat": "34.39081"
+    },
+    "realmark_sb": {
+      "lon": "-119.4866693",
+      "title": "Carpinteria Tech Park",
+      "stopId": "50303",
+      "tag": "realmark_sb",
+      "lat": "34.3852598"
+    },
+    "wmainpek_sb": {
+      "lon": "-119.3061365",
+      "title": "West Main at Peking",
+      "shortTitle": "West Main @ Peking",
+      "stopId": "50357",
+      "tag": "wmainpek_sb",
+      "lat": "34.281657"
+    },
+    "vntdtown_sb": {
+      "lon": "-119.294415",
+      "title": "Ventura Downtown",
+      "stopId": "50301",
+      "tag": "vntdtown_sb",
+      "lat": "34.279465"
+    },
+    "pacvmall_sb": {
+      "lon": "-119.2496344",
+      "title": "Pacific View Mall - Ventura Transit Center",
+      "stopId": "50000",
+      "tag": "pacvmall_sb",
+      "lat": "34.272451"
+    },
+    "cgovcent_sb": {
+      "lon": "-119.207",
+      "title": "County Government Center",
+      "stopId": "50358",
+      "tag": "cgovcent_sb",
+      "lat": "34.26862"
+    },
+    "esplmall_sb": {
+      "lon": "-119.1763105",
+      "title": "Esplanade Mall",
+      "stopId": "50003",
+      "tag": "esplmall_sb",
+      "lat": "34.2320197"
+    },
+    "pvmtc_d": {
+      "lon": "-119.2496348",
+      "title": "Pacific View Mall - Ventura Transfer Center",
+      "stopId": "50100",
+      "tag": "pvmtc_d",
+      "lat": "34.272451"
+    },
+    "bonsch_e": {
+      "lon": "-119.2542084",
+      "title": "Saint Bonaventure High School",
+      "stopId": "50101",
+      "tag": "bonsch_e",
+      "lat": "34.2722404"
+    },
+    "venmed_e": {
+      "lon": "-119.25125",
+      "title": "Ventura County Medical Center",
+      "stopId": "50102",
+      "tag": "venmed_e",
+      "lat": "34.27624"
+    },
+    "vencol_e": {
+      "lon": "-119.23093",
+      "title": "Ventura College",
+      "stopId": "50103",
+      "tag": "vencol_e",
+      "lat": "34.27557"
+    },
+    "vengov_e": {
+      "lon": "-119.211219",
+      "title": "Ventura County Government Center",
+      "stopId": "50104",
+      "tag": "vengov_e",
+      "lat": "34.268007"
+    },
+    "wcenter_e": {
+      "lon": "-119.1585418",
+      "title": "Wells Center",
+      "stopId": "50105",
+      "tag": "wcenter_e",
+      "lat": "34.2921775"
+    },
+    "kspaula_e": {
+      "lon": "-119.08504",
+      "title": "Kmart Santa Paula",
+      "stopId": "50106",
+      "tag": "kspaula_e",
+      "lat": "34.33669"
+    },
+    "spchall_e": {
+      "lon": "-119.0601399",
+      "title": "Santa Paula City Hall",
+      "stopId": "50107",
+      "tag": "spchall_e",
+      "lat": "34.35203"
+    },
+    "rancsesp_e": {
+      "lon": "-118.8220608",
+      "title": "Rancho Sespe",
+      "tag": "rancsesp_e",
+      "lat": "34.4007195"
+    },
+    "fustcent_e": {
+      "lon": "-118.792632",
+      "title": "Via Fustero & Center",
+      "tag": "fustcent_e",
+      "lat": "34.415263"
+    },
+    "rancsesp_w": {
+      "lon": "-118.8220608",
+      "title": "Rancho Sespe (Westbound)",
+      "tag": "rancsesp_w",
+      "lat": "34.4007195"
+    },
+    "fustcent_w": {
+      "lon": "-118.792632",
+      "title": "Via Fustero & Center (Westbound)",
+      "tag": "fustcent_w",
+      "lat": "34.415263"
+    },
+    "fscent_d": {
+      "lon": "-118.9149997",
+      "title": "Fillmore Senior Center",
+      "stopId": "50150",
+      "tag": "fscent_d",
+      "lat": "34.39805"
+    },
+    "spchall_w": {
+      "lon": "-119.06014",
+      "title": "Santa Paula City Hall",
+      "stopId": "50151",
+      "tag": "spchall_w",
+      "lat": "34.35203"
+    },
+    "kspaula_w": {
+      "lon": "-119.0850399",
+      "title": "Kmart Santa Paula",
+      "stopId": "50152",
+      "tag": "kspaula_w",
+      "lat": "34.33669"
+    },
+    "wcenter_w": {
+      "lon": "-119.1585425",
+      "title": "Wells Center",
+      "stopId": "50153",
+      "tag": "wcenter_w",
+      "lat": "34.2921802"
+    },
+    "vengov_w": {
+      "lon": "-119.2112191",
+      "title": "Ventura County Government Center",
+      "stopId": "50154",
+      "tag": "vengov_w",
+      "lat": "34.2680093"
+    },
+    "vencol_w": {
+      "lon": "-119.2309868",
+      "title": "Ventura College",
+      "stopId": "50155",
+      "tag": "vencol_w",
+      "lat": "34.2756804"
+    },
+    "bonsch_w": {
+      "lon": "-119.2542095",
+      "title": "Saint Bonaventure High School",
+      "stopId": "50156",
+      "tag": "bonsch_w",
+      "lat": "34.2722402"
+    },
+    "venmed_w": {
+      "lon": "-119.25125",
+      "title": "Ventura County Medical Center",
+      "stopId": "50157",
+      "tag": "venmed_w",
+      "lat": "34.27624"
+    },
+    "hillranc_nb": {
+      "lon": "-118.925793",
+      "title": "Hillcrest Dr at Rancho Conejo",
+      "shortTitle": "Hillcrest Dr @ Rancho Conejo",
+      "stopId": "50009",
+      "tag": "hillranc_nb",
+      "lat": "34.18709"
+    },
+    "coneinpk_nb": {
+      "lon": "-118.92987",
+      "title": "Lawrence Dr - Conejo Industrial Park",
+      "stopId": "50010",
+      "tag": "coneinpk_nb",
+      "lat": "34.1918769"
+    },
+    "corpcent_nb": {
+      "lon": "-118.923724",
+      "title": "Corporate Center Dr at Blue Cross",
+      "shortTitle": "Corporate Center Dr @ Blue Cross",
+      "stopId": "50011",
+      "tag": "corpcent_nb",
+      "lat": "34.197543"
+    },
+    "amgnhill_nb": {
+      "lon": "-118.9184519",
+      "title": "Amgen Ct at Hillcrest",
+      "shortTitle": "Amgen Ct @ Hillcrest",
+      "stopId": "50552",
+      "tag": "amgnhill_nb",
+      "lat": "34.1879427"
+    },
+    "oaksmall_d": {
+      "lon": "-118.8870547",
+      "title": "Oaks Mall",
+      "stopId": "50012",
+      "tag": "oaksmall_d",
+      "lat": "34.1826635"
+    },
+    "toaktran_nb": {
+      "lon": "-118.8611692",
+      "title": "Thousand Oaks Transportation Center (Depart)",
+      "stopId": "50050",
+      "tag": "toaktran_nb",
+      "lat": "34.1748105"
+    },
+    "westtown_nb": {
+      "lon": "-118.82769",
+      "title": "Westlake Blvd at Townsgate",
+      "shortTitle": "Westlake @ Townsgate",
+      "stopId": "50500",
+      "tag": "westtown_nb",
+      "lat": "34.1538399"
+    },
+    "toaklibr_nb": {
+      "lon": "-118.8543941",
+      "title": "Thousand Oaks Library - Senior/Teen Center",
+      "stopId": "50501",
+      "tag": "toaklibr_nb",
+      "lat": "34.200058"
+    },
+    "highmets_nb": {
+      "lon": "-118.8772405",
+      "title": "High St and Metrolink Station",
+      "shortTitle": "High & Metrolink Station",
+      "stopId": "50502",
+      "tag": "highmets_nb",
+      "lat": "34.2853899"
+    },
+    "prinamhe_nb": {
+      "lon": "-118.8570309",
+      "title": "Princeton Ave at Amherst",
+      "shortTitle": "Princeton @ Amherst",
+      "stopId": "50503",
+      "tag": "prinamhe_nb",
+      "lat": "34.295267"
+    },
+    "moorcoll_nb": {
+      "lon": "-118.8363405",
+      "title": "Moorpark College - Performing Arts Parking Lot",
+      "stopId": "50504",
+      "tag": "moorcoll_nb",
+      "lat": "34.3021601"
+    },
+    "farminsu_nb": {
+      "lon": "-118.7363099",
+      "title": "Farmers Insurance",
+      "stopId": "50505",
+      "tag": "farminsu_nb",
+      "lat": "34.27906"
+    },
+    "simitown_a": {
+      "lon": "-118.7697353",
+      "title": "Simi Town Center - Arrival",
+      "stopId": "50506",
+      "tag": "simitown_a",
+      "lat": "34.2852499"
+    },
+    "simitown_d": {
+      "lon": "-118.769254",
+      "title": "Simi Town Center - Departure",
+      "stopId": "50550",
+      "tag": "simitown_d",
+      "lat": "34.28525"
+    },
+    "farminsu_sb": {
+      "lon": "-118.7363099",
+      "title": "Farmers Insurance",
+      "stopId": "50551",
+      "tag": "farminsu_sb",
+      "lat": "34.27906"
+    },
+    "moorcoll_sb": {
+      "lon": "-118.8363405",
+      "title": "Moorpark College - Performing Arts Parking Lot",
+      "stopId": "50504",
+      "tag": "moorcoll_sb",
+      "lat": "34.3021601"
+    },
+    "prinamhe_sb": {
+      "lon": "-118.8574213",
+      "title": "Princeton Ave at Amherst",
+      "shortTitle": "Princeton @ Amherst",
+      "stopId": "50503",
+      "tag": "prinamhe_sb",
+      "lat": "34.294803"
+    },
+    "highmets_sb": {
+      "lon": "-118.8772399",
+      "title": "High St and Metrolink Station",
+      "shortTitle": "High & Metrolink Station",
+      "stopId": "50502",
+      "tag": "highmets_sb",
+      "lat": "34.2854699"
+    },
+    "toaklibr_sb": {
+      "lon": "-118.8543941",
+      "title": "Thousand Oaks Library - Senior/Teen Center",
+      "stopId": "50501",
+      "tag": "toaklibr_sb",
+      "lat": "34.200058"
+    },
+    "toaktran_sb": {
+      "lon": "-118.8611667",
+      "title": "Thousand Oaks Transportation Center (Depart)",
+      "stopId": "50050",
+      "tag": "toaktran_sb",
+      "lat": "34.1748121"
+    },
+    "oaksmall_sb": {
+      "lon": "-118.8870547",
+      "title": "Oaks Mall",
+      "stopId": "50012",
+      "tag": "oaksmall_sb",
+      "lat": "34.1826635"
+    },
+    "amgnhill_sb": {
+      "lon": "-118.9184969",
+      "title": "Amgen Ct at Hillcrest",
+      "shortTitle": "Amgen Ct @ Hillcrest",
+      "stopId": "50552",
+      "tag": "amgnhill_sb",
+      "lat": "34.1880708"
+    },
+    "hillranc_sb": {
+      "lon": "-118.9257932",
+      "title": "Hillcrest Dr at Rancho Conejo",
+      "shortTitle": "Hillcrest Dr @ Rancho Conejo",
+      "stopId": "50009",
+      "tag": "hillranc_sb",
+      "lat": "34.1870899"
+    },
+    "coneinpk_sb": {
+      "lon": "-118.92987",
+      "title": "Lawrence Dr - Conejo Industrial Park",
+      "stopId": "50010",
+      "tag": "coneinpk_sb",
+      "lat": "34.1918771"
+    },
+    "corpcent_sb": {
+      "lon": "-118.9237235",
+      "title": "Corporate Center Dr at Blue Cross",
+      "shortTitle": "Corporate Center Dr @ Blue Cross",
+      "stopId": "50011",
+      "tag": "corpcent_sb",
+      "lat": "34.1975428"
+    },
+    "cammet": {
+      "lon": "-119.0338139",
+      "title": "Camarillo Metrolink Station",
+      "stopId": "50006",
+      "tag": "cammet",
+      "lat": "34.2163551"
+    },
+    "csucic": {
+      "lon": "-119.044087",
+      "title": "CSUCI Campus",
+      "stopId": "50200",
+      "tag": "csucic",
+      "lat": "34.165448"
+    },
+    "calleg": {
+      "lon": "-119.0380343",
+      "title": "Villa Calleguas",
+      "stopId": "50201",
+      "tag": "calleg",
+      "lat": "34.1856166"
+    },
+    "cstterm": {
+      "lon": "-119.1811299",
+      "title": "C St Terminal",
+      "shortTitle": "C Terminal",
+      "stopId": "50600",
+      "tag": "cstterm",
+      "lat": "34.1751798"
+    },
+    "oxcoll": {
+      "lon": "-119.15604",
+      "title": "Oxnard College",
+      "stopId": "50601",
+      "tag": "oxcoll",
+      "lat": "34.16179"
+    },
+    "oxcoll_eb": {
+      "lon": "-119.1560319",
+      "title": "Oxnard College (Eastbound)",
+      "stopId": "50601",
+      "tag": "oxcoll_eb",
+      "lat": "34.1618899"
+    },
+    "csttran": {
+      "lon": "-119.1810676",
+      "title": "C St Transfer Center",
+      "shortTitle": "C Transfer Center",
+      "tag": "csttran",
+      "lat": "34.1744626"
+    },
+    "cst9th": {
+      "lon": "-119.1811409",
+      "title": "C St & Ninth St",
+      "shortTitle": "C & Ninth",
+      "tag": "cst9th",
+      "lat": "34.1923581"
+    },
+    "oxnatran": {
+      "lon": "-119.176542",
+      "title": "Oxnard Transit Center (OTC)",
+      "tag": "oxnatran",
+      "lat": "34.1996768"
+    },
+    "camaprom": {
+      "lon": "-119.0669342",
+      "title": "Camarillo Outlets Promenade",
+      "tag": "camaprom",
+      "lat": "34.2167258"
+    },
+    "camacour": {
+      "lon": "-119.0583703",
+      "title": "Camarillo Outlets Main Court",
+      "tag": "camacour",
+      "lat": "34.21781"
+    },
+    "carmplaz": {
+      "lon": "-119.0519212",
+      "title": "Carmen Plaza",
+      "stopId": "50005",
+      "tag": "carmplaz",
+      "lat": "34.22096"
+    },
+    "camametr_a": {
+      "lon": "-119.03437",
+      "title": "Camarillo Metrolink Station (Arrival)",
+      "tag": "camametr_a",
+      "lat": "34.21593"
+    },
+    "camametr": {
+      "lon": "-119.03381",
+      "title": "Camarillo Metrolink Station",
+      "tag": "camametr",
+      "lat": "34.2163599"
+    },
+    "camametr_ib": {
+      "lon": "-119.0338092",
+      "title": "Camarillo Metrolink Station",
+      "stopId": "50006",
+      "tag": "camametr_ib",
+      "lat": "34.2163606"
+    },
+    "carmplaz_ib": {
+      "lon": "-119.051921",
+      "title": "Carmen Plaza",
+      "stopId": "50005",
+      "tag": "carmplaz_ib",
+      "lat": "34.22096"
+    },
+    "camafood": {
+      "lon": "-119.0618769",
+      "title": "Camarillo Outlets Food Court",
+      "tag": "camafood",
+      "lat": "34.215208"
+    },
+    "oxnatran_ib": {
+      "lon": "-119.1764479",
+      "title": "Oxnard Transit Center (OTC)",
+      "tag": "oxnatran_ib",
+      "lat": "34.1996675"
+    },
+    "cst9th_ib": {
+      "lon": "-119.181213",
+      "title": "C St & Ninth St.",
+      "shortTitle": "C & Ninth",
+      "tag": "cst9th_ib",
+      "lat": "34.1921282"
+    },
+    "csttran_a": {
+      "lon": "-119.181258",
+      "title": "C St Transfer Center (Arrival)",
+      "shortTitle": "C Transfer Center (Arrival)",
+      "tag": "csttran_a",
+      "lat": "34.17545"
+    },
+    "simimetr_d": {
+      "lon": "-118.6950168",
+      "title": "Simi Valley Metrolink",
+      "tag": "simimetr_d",
+      "lat": "34.271581"
+    },
+    "simicivc_wb": {
+      "lon": "-118.7176343",
+      "title": "Simi Valley Civic Center",
+      "tag": "simicivc_wb",
+      "lat": "34.2838617"
+    },
+    "cochgale_wb": {
+      "lon": "-118.7363092",
+      "title": "Cochran & Galena",
+      "stopId": "50551",
+      "tag": "cochgale_wb",
+      "lat": "34.2790599"
+    },
+    "simitown_wb": {
+      "lon": "-118.7693529",
+      "title": "Simi Town Center WB",
+      "stopId": "50550",
+      "tag": "simitown_wb",
+      "lat": "34.2853499"
+    },
+    "moorcoll_wb": {
+      "lon": "-118.8363405",
+      "title": "Moorpark College",
+      "stopId": "50504",
+      "tag": "moorcoll_wb",
+      "lat": "34.3021601"
+    },
+    "moormetl_wb": {
+      "lon": "-118.87724",
+      "title": "Moorpark Metrolink Station",
+      "stopId": "50502",
+      "tag": "moormetl_wb",
+      "lat": "34.2854699"
+    },
+    "cammetrl_wb": {
+      "lon": "-119.0338138",
+      "title": "Camarillo Metrolink Station",
+      "stopId": "50006",
+      "tag": "cammetrl_wb",
+      "lat": "34.2163549"
+    },
+    "esplmall_wb": {
+      "lon": "-119.1761499",
+      "title": "Esplanade Mall",
+      "stopId": "50003",
+      "tag": "esplmall_wb",
+      "lat": "34.2320499"
+    },
+    "ventcgov_wb": {
+      "lon": "-119.2125199",
+      "title": "Ventura County Government Center",
+      "stopId": "50002",
+      "tag": "ventcgov_wb",
+      "lat": "34.2661599"
+    },
+    "ventcoll_wb": {
+      "lon": "-119.23099",
+      "title": "Ventura College",
+      "stopId": "50001",
+      "tag": "ventcoll_wb",
+      "lat": "34.27568"
+    },
+    "venttran_a": {
+      "lon": "-119.2499241",
+      "title": "Ventura Transit Center (arrival)",
+      "stopId": "50000",
+      "tag": "venttran_a",
+      "lat": "34.2725719"
+    },
+    "venttran_d": {
+      "lon": "-119.2496348",
+      "title": "Ventura Transit Center",
+      "stopId": "50000",
+      "tag": "venttran_d",
+      "lat": "34.272451"
+    },
+    "ventcoll_eb": {
+      "lon": "-119.23093",
+      "title": "Ventura College",
+      "stopId": "50001",
+      "tag": "ventcoll_eb",
+      "lat": "34.27557"
+    },
+    "ventcgov_eb": {
+      "lon": "-119.2128005",
+      "title": "Ventura County Government Center",
+      "stopId": "50002",
+      "tag": "ventcgov_eb",
+      "lat": "34.266036"
+    },
+    "esplmall_eb": {
+      "lon": "-119.1762722",
+      "title": "Esplanade Mall",
+      "stopId": "50003",
+      "tag": "esplmall_eb",
+      "lat": "34.2320527"
+    },
+    "cammetrl_eb": {
+      "lon": "-119.0338138",
+      "title": "Camarillo Metrolink Station",
+      "stopId": "50006",
+      "tag": "cammetrl_eb",
+      "lat": "34.2163549"
+    },
+    "moormetl_eb": {
+      "lon": "-118.87724",
+      "title": "Moorpark Metrolink Station",
+      "stopId": "50502",
+      "tag": "moormetl_eb",
+      "lat": "34.28539"
+    },
+    "moorcoll_eb": {
+      "lon": "-118.8363405",
+      "title": "Moorpark College",
+      "stopId": "50504",
+      "tag": "moorcoll_eb",
+      "lat": "34.3021601"
+    },
+    "simitown_eb": {
+      "lon": "-118.7697353",
+      "title": "Simi Town Center EB",
+      "stopId": "50506",
+      "tag": "simitown_eb",
+      "lat": "34.2852499"
+    },
+    "cochgale_eb": {
+      "lon": "-118.736311",
+      "title": "Cochran & Galena",
+      "stopId": "50505",
+      "tag": "cochgale_eb",
+      "lat": "34.278967"
+    },
+    "simicivc_eb": {
+      "lon": "-118.717838",
+      "title": "Simi Valley Civic Center",
+      "tag": "simicivc_eb",
+      "lat": "34.283901"
+    }
+  },
+  "copyright": "All data copyright Ventura Intercity (VCTC) 2018."
+}

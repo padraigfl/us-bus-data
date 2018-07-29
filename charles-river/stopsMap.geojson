@@ -1,0 +1,501 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Station",
+        "tag": "nstat_d",
+        "stopId": "01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0641749,
+          42.3665669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Museum Way",
+        "tag": "muse",
+        "stopId": "02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0710352,
+          42.3701444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Point",
+        "tag": "npoin",
+        "stopId": "03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0728855,
+          42.3711091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lechmere",
+        "tag": "lech",
+        "stopId": "04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0771129,
+          42.3700886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "First St",
+        "tag": "1st",
+        "stopId": "05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0778265,
+          42.3669455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Second St",
+        "tag": "2nd",
+        "stopId": "06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0801663,
+          42.3654341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sixth St",
+        "tag": "6th",
+        "stopId": "07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0862459,
+          42.3662123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Broadway/Galileo Way",
+        "tag": "broagali_ob",
+        "stopId": "08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0885179,
+          42.3643569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kendall Square",
+        "tag": "kendsq_d",
+        "stopId": "09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08581,
+          42.36234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Amherst St/Sloan",
+        "tag": "amhesloa",
+        "stopId": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0846523,
+          42.3610392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "77 Mass Ave - MIT",
+        "tag": "mass77",
+        "stopId": "35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.093666,
+          42.3592534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Albany St/Edgerton House",
+        "tag": "albaedge",
+        "stopId": "36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0980608,
+          42.359964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pacific St/Albany St",
+        "tag": "pacialba",
+        "stopId": "37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1003563,
+          42.359143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pacific St/Landsdowne",
+        "tag": "paciland",
+        "stopId": "17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.102022,
+          42.3601453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fort Washington/Erie St",
+        "tag": "erie_d",
+        "stopId": "18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1050348,
+          42.358497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cambridgeport/Brookline St",
+        "tag": "cambbroo",
+        "stopId": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1060261,
+          42.3592238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pacific St/Landsdowne (Inbound)",
+        "tag": "paciland_ib",
+        "stopId": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1018282,
+          42.3599646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Univ Park/Landsdowne",
+        "tag": "univland",
+        "stopId": "38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0998814,
+          42.3606865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mass Ave/Landsdowne",
+        "tag": "massland",
+        "stopId": "39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0979809,
+          42.3615066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Albany St/Portland St",
+        "tag": "albaport",
+        "stopId": "40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0943891,
+          42.3614978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tech Sq/Main St",
+        "tag": "techmain",
+        "stopId": "41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0913529,
+          42.3627139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kendall Square (Inbound)",
+        "tag": "kendsq_ib_d",
+        "stopId": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0855159,
+          42.3624169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Broadway/Galileo Way (Inbound)",
+        "tag": "broagali_ib",
+        "stopId": "28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.088742,
+          42.3645966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sixth St (Inbound)",
+        "tag": "6th_ib",
+        "stopId": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0855248,
+          42.3660046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Third St (Inbound)",
+        "tag": "3rd_ib",
+        "stopId": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0819241,
+          42.3655431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "First St (Inbound)",
+        "tag": "1st_ib",
+        "stopId": "31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0777522,
+          42.366711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lechmere (Inbound)",
+        "tag": "lech_ib",
+        "stopId": "32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0770219,
+          42.3698613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Point (Inbound)",
+        "tag": "npoin_ib",
+        "stopId": "33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0727597,
+          42.3709758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Museum Way (Inbound)",
+        "tag": "muse_ib",
+        "stopId": "34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0719625,
+          42.3693077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vassar St/Mass Ave",
+        "tag": "vassmass",
+        "stopId": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0943215,
+          42.3603974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vassar St/Stata Center",
+        "tag": "vassstat",
+        "stopId": "24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0903125,
+          42.3623713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Amherst St/Sloan (Inbound)",
+        "tag": "amhesloa_ib",
+        "stopId": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0846523,
+          42.3610392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ames St/Media Lab (Inbound)",
+        "tag": "medilab_ib",
+        "stopId": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0883046,
+          42.3612888
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright EZRide - Charles River TMA 2018."
+}

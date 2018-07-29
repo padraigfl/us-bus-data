@@ -1,0 +1,747 @@
+{
+  "data": {
+    "MashpeeCommons": {
+      "lon": "-70.48945",
+      "title": "Mashpee Commons (Stop & Shop)",
+      "stopId": "022",
+      "tag": "MashpeeCommons",
+      "lat": "41.6192399"
+    },
+    "MashpeeVillage": {
+      "lon": "-70.50419",
+      "title": "Mashpee Village",
+      "stopId": "168",
+      "tag": "MashpeeVillage",
+      "lat": "41.6215499"
+    },
+    "151AlgonquinAve": {
+      "lon": "-70.5146",
+      "title": "Algonquin Avenue @ Route 151, Mashpee",
+      "stopId": "120",
+      "tag": "151AlgonquinAve",
+      "lat": "41.6162599"
+    },
+    "151SandwichRd": {
+      "lon": "-70.54973",
+      "title": "Sandwich Road @ Route 151, East Falmouth",
+      "stopId": "119",
+      "tag": "151SandwichRd",
+      "lat": "41.6247699"
+    },
+    "151_28A": {
+      "lon": "-70.61264",
+      "title": "Route 151 & Route 28A, North Falmouth",
+      "stopId": "117",
+      "tag": "151_28A",
+      "lat": "41.6466999"
+    },
+    "CataumetMotel": {
+      "lon": "-70.60299",
+      "title": "Cataumet Motel/Stramship Authority Cataumet Parking Lot",
+      "stopId": "116",
+      "tag": "CataumetMotel",
+      "lat": "41.6667199"
+    },
+    "HarmonyHill": {
+      "lon": "-70.58508",
+      "title": "Harmony Hill Road, Bourne",
+      "stopId": "139",
+      "tag": "HarmonyHill",
+      "lat": "41.7135099"
+    },
+    "CountyBeach": {
+      "lon": "-70.60895",
+      "title": "County Road @ Beach Street, Monument Beach",
+      "stopId": "113",
+      "tag": "CountyBeach",
+      "lat": "41.7180499"
+    },
+    "CapeSideConvenience": {
+      "lon": "-70.58897",
+      "title": "Cape Side Convenience, Bourne",
+      "stopId": "112",
+      "tag": "CapeSideConvenience",
+      "lat": "41.7426399"
+    },
+    "Continential": {
+      "lon": "-70.59558",
+      "title": "Continental Housing Authority, Bourne",
+      "stopId": "146",
+      "tag": "Continential",
+      "lat": "41.7573999"
+    },
+    "BourneOaks": {
+      "lon": "-70.59854",
+      "title": "Bourne Oaks Housing Authority, Bourne",
+      "stopId": "147",
+      "tag": "BourneOaks",
+      "lat": "41.7530699"
+    },
+    "BourneCOA": {
+      "lon": "-70.60432",
+      "title": "Bourne COA",
+      "stopId": "149",
+      "tag": "BourneCOA",
+      "lat": "41.7494499"
+    },
+    "BuzzardsBayTrain": {
+      "lon": "-70.61522",
+      "title": "Buzzards Bay Train Station",
+      "stopId": "142",
+      "tag": "BuzzardsBayTrain",
+      "lat": "41.7448199"
+    },
+    "CranberryPlaza": {
+      "lon": "-70.66338",
+      "title": "Cranberry Plaza",
+      "stopId": "150",
+      "tag": "CranberryPlaza",
+      "lat": "41.7580699"
+    },
+    "StarMarketHarwich": {
+      "lon": "-70.09281",
+      "title": "Star Market, Harwich Port",
+      "stopId": "045",
+      "tag": "StarMarketHarwich",
+      "lat": "41.6729899"
+    },
+    "28Harwich": {
+      "lon": "-70.08008",
+      "title": "Route 28, Harwich Port",
+      "stopId": "046",
+      "tag": "28Harwich",
+      "lat": "41.66804"
+    },
+    "HarwichComm": {
+      "lon": "-70.0697999",
+      "title": "Harwich Community Center/High School",
+      "stopId": "056",
+      "tag": "HarwichComm",
+      "lat": "41.69213"
+    },
+    "S_SEHarwich": {
+      "lon": "-70.01894",
+      "title": "Stop & Shop, East Harwich",
+      "stopId": "057",
+      "tag": "S_SEHarwich",
+      "lat": "41.7064499"
+    },
+    "UnderpassBrewster": {
+      "lon": "-70.06631",
+      "title": "Underpass Road & Snow Road, Brewster",
+      "stopId": "059",
+      "tag": "UnderpassBrewster",
+      "lat": "41.7565899"
+    },
+    "BrewsterSenior": {
+      "lon": "-70.09014",
+      "title": "Brewster Senior Housing/COA",
+      "stopId": "060",
+      "tag": "BrewsterSenior",
+      "lat": "41.75682"
+    },
+    "SkaketCorners": {
+      "lon": "-70.00253",
+      "title": "Skaket Corners, Orleans",
+      "stopId": "053",
+      "tag": "SkaketCorners",
+      "lat": "41.7802299"
+    },
+    "MainOrleansLandHo": {
+      "lon": "-69.99142",
+      "title": "Main Street/Land Ho, Orleans",
+      "stopId": "051",
+      "tag": "MainOrleansLandHo",
+      "lat": "41.7882399"
+    },
+    "S_SOrleans": {
+      "lon": "-69.98566",
+      "title": "Stop & Shop, Orleans",
+      "stopId": "055",
+      "tag": "S_SOrleans",
+      "lat": "41.7961799"
+    },
+    "EasthamTownHallSuperette": {
+      "lon": "-69.97364",
+      "title": "Eastham Town Hall/Superette",
+      "stopId": "062",
+      "tag": "EasthamTownHallSuperette",
+      "lat": "41.8297599"
+    },
+    "SaltPond": {
+      "lon": "-69.97197",
+      "title": "Salt Pond Visitor Center, Eastham",
+      "stopId": "064",
+      "tag": "SaltPond",
+      "lat": "41.8380299"
+    },
+    "FourPoints": {
+      "lon": "-69.98557",
+      "title": "Four Points, Eastham",
+      "stopId": "065",
+      "tag": "FourPoints",
+      "lat": "41.8464999"
+    },
+    "BrackettRd": {
+      "lon": "-69.98694",
+      "title": "Brackett Road @ Route 6, Eastham",
+      "stopId": "143",
+      "tag": "BrackettRd",
+      "lat": "41.8565899"
+    },
+    "MauriceMkt": {
+      "lon": "-69.98761",
+      "title": "Maurices's Market",
+      "stopId": "162",
+      "tag": "MauriceMkt",
+      "lat": "41.8794299"
+    },
+    "MarconiBeach": {
+      "lon": "-69.98343",
+      "title": "Marconi Beach Road, Wellfleet",
+      "stopId": "077",
+      "tag": "MarconiBeach",
+      "lat": "41.90474"
+    },
+    "Blackfish": {
+      "lon": "-69.99457",
+      "title": "Blackfish Variety (Farrell's Market), Wellfleet",
+      "stopId": "068",
+      "tag": "Blackfish",
+      "lat": "41.9171999"
+    },
+    "WellfleetDunkinDonuts": {
+      "lon": "-70.0175199",
+      "title": "Wellfleet Dunkin Donuts",
+      "stopId": "154",
+      "tag": "WellfleetDunkinDonuts",
+      "lat": "41.92921"
+    },
+    "Wellfleet": {
+      "lon": "-70.03078",
+      "title": "Wellfleet Center (Bank Street)",
+      "stopId": "070",
+      "tag": "Wellfleet",
+      "lat": "41.9375299"
+    },
+    "CobbLibrary": {
+      "lon": "-70.0509599",
+      "title": "Old Cobb Library, Truro",
+      "stopId": "138",
+      "tag": "CobbLibrary",
+      "lat": "41.99479"
+    },
+    "WhitmanvilleTruro": {
+      "lon": "-70.07057",
+      "title": "Whitmanville Road @ Route 6, Truro",
+      "stopId": "072",
+      "tag": "WhitmanvilleTruro",
+      "lat": "42.0137199"
+    },
+    "HighlandNTruro": {
+      "lon": "-70.08223",
+      "title": "Highland Road & Route 6, North Truro",
+      "stopId": "074",
+      "tag": "HighlandNTruro",
+      "lat": "42.0353599"
+    },
+    "S_SPtown": {
+      "lon": "-70.19528",
+      "title": "Stop & Shop, Provincetown",
+      "stopId": "076",
+      "tag": "S_SPtown",
+      "lat": "42.0505299"
+    },
+    "MacMillanPier": {
+      "lon": "-70.18624",
+      "title": "MacMillan Pier, Provincetown",
+      "stopId": "075",
+      "tag": "MacMillanPier",
+      "lat": "42.0509599"
+    },
+    "TruroVillage": {
+      "lon": "-70.07086",
+      "title": "Truro Central Village Plaza @ Route 6",
+      "stopId": "073",
+      "tag": "TruroVillage",
+      "lat": "42.0139199"
+    },
+    "GillRd": {
+      "lon": "-69.98826",
+      "title": "Gill Road",
+      "stopId": "163",
+      "tag": "GillRd",
+      "lat": "41.8797099"
+    },
+    "SeamansBank": {
+      "lon": "-69.98772",
+      "title": "Seaman's Bank @ Route 6, Eastham",
+      "stopId": "066",
+      "tag": "SeamansBank",
+      "lat": "41.8546699"
+    },
+    "MainOrleansCVSMobil": {
+      "lon": "-69.99183",
+      "title": "Main Street/CVS/Mobil, Orleans",
+      "stopId": "052",
+      "tag": "MainOrleansCVSMobil",
+      "lat": "41.7878499"
+    },
+    "PatriotSq": {
+      "lon": "-70.15047",
+      "title": "Patriot Square, South Dennis",
+      "stopId": "043",
+      "tag": "PatriotSq",
+      "lat": "41.6950599"
+    },
+    "HTC": {
+      "lon": "-70.28018",
+      "title": "Hyannis Transportation Center (HTC)",
+      "stopId": "001",
+      "tag": "HTC",
+      "lat": "41.6565899"
+    },
+    "CCMall_FC": {
+      "lon": "-70.29903",
+      "title": "Cape Cod Mall (Food Court), Hyannis",
+      "stopId": "171",
+      "tag": "CCMall_FC",
+      "lat": "41.6678399"
+    },
+    "SouthwindPl": {
+      "lon": "-70.30184",
+      "title": "Southwind Plaza, Hyannis",
+      "stopId": "007",
+      "tag": "SouthwindPl",
+      "lat": "41.6750799"
+    },
+    "TrnityChristAcademy": {
+      "lon": "-70.2809",
+      "title": "Trinity Christian Academy",
+      "stopId": "157",
+      "tag": "TrnityChristAcademy",
+      "lat": "41.6840799"
+    },
+    "VillageGreenApts": {
+      "lon": "-70.28346",
+      "title": "Village Green Apartments",
+      "stopId": "158",
+      "tag": "VillageGreenApts",
+      "lat": "41.6829699"
+    },
+    "FestivalMall": {
+      "lon": "-70.304",
+      "title": "Festival Mall, Hyannis",
+      "stopId": "008",
+      "tag": "FestivalMall",
+      "lat": "41.6759799"
+    },
+    "SuperS_SHyannis": {
+      "lon": "-70.30747",
+      "title": "Super Stop & Shop (Liberty Square), Hyannis",
+      "stopId": "010",
+      "tag": "SuperS_SHyannis",
+      "lat": "41.6758999"
+    },
+    "CareerOppurtunities": {
+      "lon": "-70.2948",
+      "title": "Career Oppurtunities",
+      "stopId": "159",
+      "tag": "CareerOppurtunities",
+      "lat": "41.6494999"
+    },
+    "DTANorthSt": {
+      "lon": "-70.28924",
+      "title": "DTA @ North St",
+      "stopId": "161",
+      "tag": "DTANorthSt",
+      "lat": "41.6520699"
+    },
+    "SSAHyannis": {
+      "lon": "-70.29827",
+      "title": "US Social Security Administration",
+      "stopId": "169",
+      "tag": "SSAHyannis",
+      "lat": "41.6725199"
+    },
+    "CrowellWYarmouth": {
+      "lon": "-70.24209",
+      "title": "Higgins Crowell Road, West Yarmouth",
+      "stopId": "038",
+      "tag": "CrowellWYarmouth",
+      "lat": "41.6506299"
+    },
+    "ShawsSYarmouth": {
+      "lon": "-70.2022",
+      "title": "Shaw's, South Yarmouth",
+      "stopId": "041",
+      "tag": "ShawsSYarmouth",
+      "lat": "41.6621999"
+    },
+    "DennisMunicipal": {
+      "lon": "-70.12314",
+      "title": "Municipal Lot A, Dennis Port",
+      "stopId": "044",
+      "tag": "DennisMunicipal",
+      "lat": "41.6683399"
+    },
+    "CCHospitalBayviewSt": {
+      "lon": "-70.27212",
+      "title": "Cape Cod Hospital (Bayview Street), Hyannis",
+      "stopId": "037",
+      "tag": "CCHospitalBayviewSt",
+      "lat": "41.6528599"
+    },
+    "S_SSYarmouth": {
+      "lon": "-70.20719",
+      "title": "Stop & Shop, South Yarmouth",
+      "stopId": "040",
+      "tag": "S_SSYarmouth",
+      "lat": "41.6580899"
+    },
+    "TownHallLawtonBusShelter": {
+      "lon": "-70.19749",
+      "title": "Town Hall Lawton Bus Shelter",
+      "stopId": "153",
+      "tag": "TownHallLawtonBusShelter",
+      "lat": "41.6640399"
+    },
+    "MainSYarmouth": {
+      "lon": "-70.18569",
+      "title": "Main Street, South Yarmouth",
+      "stopId": "042",
+      "tag": "MainSYarmouth",
+      "lat": "41.6668599"
+    },
+    "DennisCommonsElderServices": {
+      "lon": "-70.14806",
+      "title": "Dennis Commons/Elder Services",
+      "stopId": "151",
+      "tag": "DennisCommonsElderServices",
+      "lat": "41.6698099"
+    },
+    "MortonSChatham": {
+      "lon": "-70.02665",
+      "title": "Morton Road, South Chatham",
+      "stopId": "047",
+      "tag": "MortonSChatham",
+      "lat": "41.6787599"
+    },
+    "AnchorageChatham": {
+      "lon": "-69.96589",
+      "title": "Anchorage/Crowell Road, Chatham",
+      "stopId": "048",
+      "tag": "AnchorageChatham",
+      "lat": "41.6914199"
+    },
+    "VeteransFieldRd": {
+      "lon": "-69.96195",
+      "title": "Veterans Field Rd",
+      "stopId": "049",
+      "tag": "VeteransFieldRd",
+      "lat": "41.6826599"
+    },
+    "BroadReachHC": {
+      "lon": "-69.96742",
+      "title": "Broad Reach Health Care",
+      "stopId": "167",
+      "tag": "BroadReachHC",
+      "lat": "41.7011799"
+    },
+    "39SOrleans": {
+      "lon": "-69.99094",
+      "title": "Route 39, South Orleans",
+      "stopId": "050",
+      "tag": "39SOrleans",
+      "lat": "41.7529099"
+    },
+    "OldColonyVillage": {
+      "lon": "-69.99735",
+      "title": "Old Colony Village, Orleans",
+      "stopId": "054",
+      "tag": "OldColonyVillage",
+      "lat": "41.7853899"
+    },
+    "SturgisSchoolEast": {
+      "lon": "-70.28539",
+      "title": "Sturgis Charter School -- Main Street, Hyannis",
+      "stopId": "033",
+      "tag": "SturgisSchoolEast",
+      "lat": "41.6521199"
+    },
+    "SturgisSchoolWest": {
+      "lon": "-70.30063",
+      "title": "Sturgis Charter School -- West Main Street, Hyannis",
+      "stopId": "035",
+      "tag": "SturgisSchoolWest",
+      "lat": "41.6477599"
+    },
+    "StarMktHyannis": {
+      "lon": "-70.31792",
+      "title": "West Main Street @ Star Market, Hyannis",
+      "stopId": "134",
+      "tag": "StarMktHyannis",
+      "lat": "41.6520699"
+    },
+    "WMain28Centerville": {
+      "lon": "-70.33249",
+      "title": "West Main Street & Route 28, Centerville",
+      "stopId": "018",
+      "tag": "WMain28Centerville",
+      "lat": "41.6577099"
+    },
+    "BellTowerMall": {
+      "lon": "-70.3454",
+      "title": "Bell Tower Mall, Centerville",
+      "stopId": "133",
+      "tag": "BellTowerMall",
+      "lat": "41.6571299"
+    },
+    "RaceOsterWBarnSandwich": {
+      "lon": "-70.38714",
+      "title": "Race Lane & Osterville-West Barnstable Road, Sandwich",
+      "stopId": "132",
+      "tag": "RaceOsterWBarnSandwich",
+      "lat": "41.6770799"
+    },
+    "RaceGrHillSandwich": {
+      "lon": "-70.44417",
+      "title": "Race Lane/Farmersville Road & Great Hill Road, Sandwich",
+      "stopId": "131",
+      "tag": "RaceGrHillSandwich",
+      "lat": "41.6903399"
+    },
+    "CotuitFarmersvilleSandwich": {
+      "lon": "-70.48166",
+      "title": "Cotuit Road & Farmersville Road, Sandwich",
+      "stopId": "128",
+      "tag": "CotuitFarmersvilleSandwich",
+      "lat": "41.6964599"
+    },
+    "S_SQuakerMHRdSandwich": {
+      "lon": "-70.48547",
+      "title": "Stop & Shop, Quaker Meeting House Road, Sandwich",
+      "stopId": "110",
+      "tag": "S_SQuakerMHRdSandwich",
+      "lat": "41.7013999"
+    },
+    "HeritagePark": {
+      "lon": "-70.4891",
+      "title": "Heritage Park, Sandwich",
+      "stopId": "107",
+      "tag": "HeritagePark",
+      "lat": "41.7107899"
+    },
+    "SandwichHousing": {
+      "lon": "-70.48984",
+      "title": "Sandwich Housing Authority, Tom's Way, Sandwich",
+      "stopId": "108",
+      "tag": "SandwichHousing",
+      "lat": "41.7083399"
+    },
+    "CanterburyPlaza": {
+      "lon": "-70.48846",
+      "title": "Canterbury Plaza, Sandwich",
+      "stopId": "109",
+      "tag": "CanterburyPlaza",
+      "lat": "41.7083299"
+    },
+    "SandwichCOA": {
+      "lon": "-70.46064",
+      "title": "Sandwich COA",
+      "stopId": "106",
+      "tag": "SandwichCOA",
+      "lat": "41.7213999"
+    },
+    "SpauldingRehab": {
+      "lon": "-70.46787",
+      "title": "Spaulding Rehabilitation, East Sandwich",
+      "stopId": "105",
+      "tag": "SpauldingRehab",
+      "lat": "41.7330499"
+    },
+    "SandwichTownHall": {
+      "lon": "-70.50053",
+      "title": "Sandwich Town Hall",
+      "stopId": "104",
+      "tag": "SandwichTownHall",
+      "lat": "41.7582499"
+    },
+    "S_S6ASandwich": {
+      "lon": "-70.50944",
+      "title": "Stop & Shop, Route 6A, Sandwich",
+      "stopId": "103",
+      "tag": "S_S6ASandwich",
+      "lat": "41.7663899"
+    },
+    "MktBasketSagamore": {
+      "lon": "-70.54595",
+      "title": "Market Basket, Sagamore",
+      "stopId": "123",
+      "tag": "MktBasketSagamore",
+      "lat": "41.7711599"
+    },
+    "CanalViewApts": {
+      "lon": "-70.53989",
+      "title": "Canal View Apartments, Sagamore",
+      "stopId": "101",
+      "tag": "CanalViewApts",
+      "lat": "41.7734299"
+    },
+    "SagamoreP_R": {
+      "lon": "-70.54244",
+      "title": "Sagamore Park & Ride",
+      "stopId": "100",
+      "tag": "SagamoreP_R",
+      "lat": "41.7809499"
+    },
+    "SturgisSchoolEastSouthSt": {
+      "lon": "-70.28435",
+      "title": "Sturgis Charter School @ South Street, Hyannis",
+      "stopId": "034",
+      "tag": "SturgisSchoolEastSouthSt",
+      "lat": "41.6506899"
+    },
+    "BarnstableAirport": {
+      "lon": "-70.27391",
+      "title": "Barnstable Municipal Airport",
+      "stopId": "170",
+      "tag": "BarnstableAirport",
+      "lat": "41.6609399"
+    },
+    "CCMall_RE": {
+      "lon": "-70.29499",
+      "title": "Cape Cod Mall Enterance/Route 28, Hyannis",
+      "stopId": "017",
+      "tag": "CCMall_RE",
+      "lat": "41.6648799"
+    },
+    "Centerville": {
+      "lon": "-70.34855",
+      "title": "Centerville (Old Stage Road & Main Street)",
+      "stopId": "019",
+      "tag": "Centerville",
+      "lat": "41.6497299"
+    },
+    "Osterville": {
+      "lon": "-70.3831",
+      "title": "Osterville (Tower Hill Road & Main Street)",
+      "stopId": "020",
+      "tag": "Osterville",
+      "lat": "41.6279699"
+    },
+    "MarstonsMills": {
+      "lon": "-70.42644",
+      "title": "Marstons Mills Marketplace",
+      "stopId": "021",
+      "tag": "MarstonsMills",
+      "lat": "41.6479599"
+    },
+    "SeacoastShores": {
+      "lon": "-70.53395",
+      "title": "Seacoast Shores Boulevard, East Falmouth",
+      "stopId": "140",
+      "tag": "SeacoastShores",
+      "lat": "41.5804399"
+    },
+    "EFalmouthDunkin": {
+      "lon": "-70.56074",
+      "title": "East Falmouth Dunkin Donuts",
+      "stopId": "025",
+      "tag": "EFalmouthDunkin",
+      "lat": "41.5786599"
+    },
+    "StMarksHousing": {
+      "lon": "-70.5866",
+      "title": "St Marks Housing",
+      "stopId": "155",
+      "tag": "StMarksHousing",
+      "lat": "41.5720099"
+    },
+    "28JonesFalmouth": {
+      "lon": "-70.59913",
+      "title": "Route 28 @ Jones Road, Falmouth",
+      "stopId": "028",
+      "tag": "28JonesFalmouth",
+      "lat": "41.5609999"
+    },
+    "FalmouthBusDepot": {
+      "lon": "-70.62324",
+      "title": "Falmouth Bus Depot",
+      "stopId": "030",
+      "tag": "FalmouthBusDepot",
+      "lat": "41.5568299"
+    },
+    "WoodsHoleDocks": {
+      "lon": "-70.6698",
+      "title": "Steamship Authority Ferry Docks, Woods Hole",
+      "stopId": "031",
+      "tag": "WoodsHoleDocks",
+      "lat": "41.5230299"
+    },
+    "SCapeVillage": {
+      "lon": "-70.48829",
+      "title": "South Cape Village (Marshalls), Mashpee",
+      "stopId": "023",
+      "tag": "SCapeVillage",
+      "lat": "41.6114899"
+    },
+    "CommHealth": {
+      "lon": "-70.48999",
+      "title": "Community Health Center of Cape Cod",
+      "stopId": "024",
+      "tag": "CommHealth",
+      "lat": "41.6075599"
+    },
+    "FalmouthMall": {
+      "lon": "-70.59419",
+      "title": "Falmouth Mall",
+      "stopId": "029",
+      "tag": "FalmouthMall",
+      "lat": "41.5613199"
+    },
+    "HyannisYouth": {
+      "lon": "-70.29278",
+      "title": "Hyannis Youth & Community Center",
+      "stopId": "004",
+      "tag": "HyannisYouth",
+      "lat": "41.6545599"
+    },
+    "CapetownPl": {
+      "lon": "-70.29521",
+      "title": "Capetown Plaza, Hyannis",
+      "stopId": "006",
+      "tag": "CapetownPl",
+      "lat": "41.6701899"
+    },
+    "HarborCommHealthCntr": {
+      "lon": "-70.2978",
+      "title": "Harbor Community Health Center",
+      "stopId": "156",
+      "tag": "HarborCommHealthCntr",
+      "lat": "41.6753999"
+    },
+    "CCCC": {
+      "lon": "-70.33753",
+      "title": "Cape Cod Community College, West Barnstable",
+      "stopId": "013",
+      "tag": "CCCC",
+      "lat": "41.6906199"
+    },
+    "BarnstableCourthouse": {
+      "lon": "-70.30304",
+      "title": "Courthouse Complex, Barnstable",
+      "stopId": "014",
+      "tag": "BarnstableCourthouse",
+      "lat": "41.7003199"
+    },
+    "CapeCodder": {
+      "lon": "-70.31074",
+      "title": "Cape Codder Resort, Hyannis",
+      "stopId": "012",
+      "tag": "CapeCodder",
+      "lat": "41.6753799"
+    }
+  },
+  "copyright": "All data copyright Cape Cod Regional Transit Authority 2018."
+}

@@ -1,0 +1,27 @@
+{
+  "data": {
+    "campus": {
+      "title": "The Campus Loop",
+      "color": "397d02",
+      "tag": "campus",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.82405,
+        -73.94482
+      ],
+      "min": [
+        40.810272,
+        -73.952902
+      ],
+      "stops": {
+        "Loop": [
+          "marshak_d",
+          "145th",
+          "marshak",
+          "125th"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright City College NYC 2018."
+}

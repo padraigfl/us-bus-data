@@ -1,0 +1,126 @@
+{
+  "data": {
+    "c": {
+      "title": "Cargo Route",
+      "color": "0276fd",
+      "tag": "c",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.663009,
+        -73.766452
+      ],
+      "min": [
+        40.6512958,
+        -73.803355
+      ],
+      "stops": {
+        "Loop": [
+          "fedcirc",
+          "stop32",
+          "stop34",
+          "stop34_ib",
+          "stop37",
+          "stop38",
+          "stop39",
+          "stop40",
+          "stop41",
+          "stop42",
+          "stop44",
+          "stop46",
+          "stop47",
+          "stop48",
+          "stop49",
+          "stop53",
+          "stop55",
+          "stop57",
+          "stop59",
+          "150a148s",
+          "150a148s_ib",
+          "stop903"
+        ]
+      }
+    },
+    "s": {
+      "title": "Service Road Route",
+      "color": "aa00ff",
+      "tag": "s",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.661111,
+        -73.7994045
+      ],
+      "min": [
+        40.6448062,
+        -73.8108479
+      ],
+      "stops": {
+        "Loop": [
+          "fedcirc",
+          "stop11",
+          "stop13",
+          "stop14",
+          "stop15",
+          "stop17",
+          "stop18",
+          "nextstop1",
+          "stop20a",
+          "nextstop2",
+          "stop22"
+        ]
+      }
+    },
+    "e": {
+      "title": "Employee Lot ",
+      "color": "ff6103",
+      "tag": "e",
+      "shortTitle": "Employee Lot",
+      "oppositeColor": "000000",
+      "max": [
+        40.6632899,
+        -73.82005
+      ],
+      "min": [
+        40.661896,
+        -73.8231767
+      ],
+      "stops": {
+        "Loop": [
+          "stop1",
+          "stop2",
+          "stop3",
+          "stop4a",
+          "stop5"
+        ]
+      }
+    },
+    "l": {
+      "title": "Long Term Parking Lot",
+      "color": "55ae3a",
+      "tag": "l",
+      "oppositeColor": "000000",
+      "max": [
+        40.6636359,
+        -73.8258468
+      ],
+      "min": [
+        40.6586363,
+        -73.830686
+      ],
+      "stops": {
+        "Loop": [
+          "longterm_d",
+          "stopa30",
+          "stopa16",
+          "stopa01",
+          "stop4",
+          "stopb06",
+          "stop901",
+          "noname1",
+          "noname2",
+          "howabeac"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright JFK International Airport 2018."
+}

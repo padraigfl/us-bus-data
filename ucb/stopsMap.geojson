@@ -1,0 +1,979 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Downtown Berkeley: Shattuck at Addison",
+        "tag": "berkbart_d",
+        "stopId": "01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26765,
+          37.87104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxford at University",
+        "tag": "oxfouniv",
+        "stopId": "02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2659626,
+          37.8727184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tolman Hall: Hearst at Arch",
+        "tag": "tolmhall",
+        "stopId": "03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2641524,
+          37.8744291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Gate: Hearst at Euclid",
+        "tag": "nortgate",
+        "stopId": "04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2605359,
+          37.8749713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cory Hall: Hearst at LeRoy",
+        "tag": "coryhall",
+        "stopId": "05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.25798,
+          37.8753299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Evans Hall: Hearst Mining Circle",
+        "tag": "evanhall",
+        "stopId": "06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.257378,
+          37.873397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gayley at Stadium Rimway",
+        "tag": "gaylstad",
+        "stopId": "07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2539793,
+          37.8726641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Haas School of Business: Piedmont Avenue (south)",
+        "tag": "haasbusi",
+        "stopId": "08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2528419,
+          37.8714393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "International House: Piedmont at Bancroft",
+        "tag": "intehous",
+        "stopId": "09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2523754,
+          37.8697323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Piedmont at Channing",
+        "tag": "piedchan",
+        "stopId": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2520976,
+          37.8680371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "College at Haste",
+        "tag": "collast",
+        "stopId": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2540707,
+          37.8667424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kroeber Hall: Bancroft at College",
+        "tag": "krobhall",
+        "stopId": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2551466,
+          37.869285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hearst Memorial Gym: Bancroft at Bowditch",
+        "tag": "hrstmemo",
+        "stopId": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2571773,
+          37.869015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sproul Hall: Bancroft at Telegraph",
+        "tag": "sprouhall",
+        "stopId": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2586383,
+          37.8688438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Recreational Sport Facility: Bancroft at Ellsworth",
+        "tag": "bancells",
+        "stopId": "15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2639993,
+          37.8681548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Banway Building: Bancroft at Shattuck",
+        "tag": "bancshat",
+        "stopId": "16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26749,
+          37.8676846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shattuck at Kittredge",
+        "tag": "shatkitt",
+        "stopId": "17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2677474,
+          37.8683866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Strawberry Canyon",
+        "tag": "strawcany",
+        "stopId": "20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.246373,
+          37.8725667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "UC Botanical Garden",
+        "tag": "botagard",
+        "stopId": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2386326,
+          37.8754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lawrence Hall of Science",
+        "tag": "lawrhall",
+        "stopId": "24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2460716,
+          37.8799563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Space Sciences Lab / MSRI (Arrival)",
+        "tag": "spacelab_a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.244451,
+          37.880937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Space Sciences Lab / MSRI",
+        "tag": "spacelab_d",
+        "stopId": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.244182,
+          37.8806749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lawrence Hall of Science",
+        "tag": "lawrhall_ib",
+        "stopId": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2460961,
+          37.8798432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "UC Botanical Garden",
+        "tag": "botagard_ib",
+        "stopId": "23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2387108,
+          37.8754044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Strawberry Canyon",
+        "tag": "strawcany_ib",
+        "stopId": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2464034,
+          37.8726368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Evans Hall: Hearst Mining Circle (Arrival)",
+        "tag": "evanhall_a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.257486,
+          37.873708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moffitt Library: University Drive",
+        "tag": "mofflibr",
+        "stopId": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2598455,
+          37.8733606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "West Circle: University Drive side",
+        "tag": "westcirc",
+        "stopId": "28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.263548,
+          37.8723217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Li Ka Shing: West Crescent",
+        "tag": "likashin",
+        "stopId": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2651,
+          37.871626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "El Cerrito Plaza BART",
+        "tag": "ecerbart_d",
+        "stopId": "31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2993849,
+          37.903079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Richmond Field Station",
+        "tag": "richfsta",
+        "stopId": "32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3299119,
+          37.9169939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Regatta Facility",
+        "tag": "regafacl_d",
+        "stopId": "33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338381,
+          37.916293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Buchanan at Jackson",
+        "tag": "buchjack",
+        "stopId": "39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3010351,
+          37.8875449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hopkins at MLK Jr.",
+        "tag": "hopkmlk",
+        "stopId": "35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2749674,
+          37.8853444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hopkins at MLK Jr.",
+        "tag": "hopkmlk_ib",
+        "stopId": "34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.274836,
+          37.88542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Buchanan at Jackson",
+        "tag": "buchjack_ib",
+        "stopId": "38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3010983,
+          37.8877269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Richmond Field Station",
+        "tag": "richfsta_ib",
+        "stopId": "32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3299115,
+          37.9169937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Regatta Facility (Arrival)",
+        "tag": "regafacl_a",
+        "stopId": "33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338584,
+          37.9163086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moffit Library: Memorial Glade",
+        "tag": "mofflibr_d",
+        "stopId": "27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2598536,
+          37.8733556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Life Science Addition: West Circle",
+        "tag": "lifescie",
+        "stopId": "29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2634181,
+          37.8723741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University at Shattuck",
+        "tag": "univshack",
+        "stopId": "56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2682087,
+          37.8722739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Foothill Student Housing: Hearst side",
+        "tag": "footstud",
+        "stopId": "55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.256164,
+          37.875592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Highland Place at Ridge Road",
+        "tag": "highridg",
+        "stopId": "58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.256083,
+          37.8766429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "East Gate: Gayley at University Drive",
+        "tag": "eastgate",
+        "stopId": "57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2556971,
+          37.874216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowles Hall: Gayley",
+        "tag": "bowlhall",
+        "stopId": "07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2537145,
+          37.8724872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bancroft at Kittredge",
+        "tag": "banckitt",
+        "stopId": "17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2677479,
+          37.8683927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Downtown Berkeley BART: Shattuck at Addison",
+        "tag": "berkbart_ib",
+        "stopId": "01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26765,
+          37.8710398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Li Ka Shing: West Crescent side",
+        "tag": "lkshincr",
+        "stopId": "30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2649295,
+          37.8716156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Life Science Addition: West Circle",
+        "tag": "lifescie_ib",
+        "stopId": "28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2634018,
+          37.8720893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shattuck at Allston",
+        "tag": "shatalls",
+        "stopId": "40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.268087,
+          37.8695128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shattuck at Durant",
+        "tag": "shatdura",
+        "stopId": "59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2678079,
+          37.8664669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dwight at Fulton",
+        "tag": "dwigfult",
+        "stopId": "43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2650127,
+          37.864257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ellsworth Structure: Channing side",
+        "tag": "ellsstru",
+        "stopId": "44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2631961,
+          37.8663247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Residence Hall Unit 3 Channing at Telegraph",
+        "tag": "chantele",
+        "stopId": "45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2593681,
+          37.8668229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Channing at Bowditch",
+        "tag": "chanbowd",
+        "stopId": "42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2568019,
+          37.867139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Residence Hall Unit 1 Channing at College",
+        "tag": "chancoll",
+        "stopId": "46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2544629,
+          37.8674359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "College at Haste",
+        "tag": "collhast",
+        "stopId": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2541418,
+          37.8667183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Warring at Piedmont",
+        "tag": "warrpied",
+        "stopId": "48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2517514,
+          37.865838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clark Kerr Campus: Warring at Horseshoe",
+        "tag": "clarkerr",
+        "stopId": "49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2494337,
+          37.8640961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Warring at Channing",
+        "tag": "warrchan",
+        "stopId": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2507528,
+          37.8679182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Warring at Bancroft",
+        "tag": "warrbanc",
+        "stopId": "51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2508792,
+          37.8693241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Haas School of Business: Piedmont side (north)",
+        "tag": "haasbusn",
+        "stopId": "53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.252695,
+          37.87147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Greek Theater: Gayley at University Drive",
+        "tag": "greethea",
+        "stopId": "54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2556711,
+          37.8742981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Berkeley BART",
+        "tag": "nberbart_d",
+        "stopId": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.283011,
+          37.874063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CSS",
+        "tag": "css_d",
+        "stopId": "18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3017959,
+          37.8734372
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright University of California Berkeley 2018."
+}

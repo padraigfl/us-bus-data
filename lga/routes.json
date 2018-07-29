@@ -1,0 +1,73 @@
+{
+  "data": {
+    "blue": {
+      "title": "Blue",
+      "color": "1c5fa9",
+      "tag": "blue",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.7740239,
+        -73.8710189
+      ],
+      "min": [
+        40.7698556,
+        -73.8868074
+      ],
+      "stops": {
+        "Loop": [
+          "trma",
+          "hng7",
+          "trmb",
+          "stop15"
+        ]
+      }
+    },
+    "purple": {
+      "title": "Purple",
+      "color": "792b79",
+      "tag": "purple",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.7743729,
+        -73.8623862
+      ],
+      "min": [
+        40.768464,
+        -73.876212
+      ],
+      "stops": {
+        "Loop": [
+          "trmb",
+          "trmd",
+          "trmc",
+          "102st",
+          "mangpark"
+        ]
+      }
+    },
+    "red": {
+      "title": "Red",
+      "color": "cf302c",
+      "tag": "red",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.773269,
+        -73.861463
+      ],
+      "min": [
+        40.7680038,
+        -73.8868074
+      ],
+      "stops": {
+        "Loop": [
+          "trma",
+          "hng7",
+          "trmd",
+          "trmc",
+          "stop15"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright LaGuardia Airport Shuttle 2018."
+}

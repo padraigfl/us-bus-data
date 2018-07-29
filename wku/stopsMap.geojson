@@ -1,0 +1,546 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CAMPBELL LANE PARK & RIDE",
+        "tag": "cambpknr_d",
+        "stopId": "0001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.469803,
+          36.964266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SOUTH CAMPUS",
+        "tag": "scam_ob",
+        "stopId": "0002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4674307,
+          36.9656703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CAMPUS EVOLUTION VILLAGE (CEV)",
+        "tag": "evolvill_ob",
+        "stopId": "0021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4658981,
+          36.9780951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "UNIVERSITY LOT",
+        "tag": "univlot",
+        "stopId": "0048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4591,
+          36.9786799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "RANSDELL HALL",
+        "tag": "ranshall",
+        "stopId": "0029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.45555,
+          36.98314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "HELM LIBRARY",
+        "tag": "helmlib",
+        "stopId": "0032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.452404,
+          36.985196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EST",
+        "tag": "est",
+        "stopId": "0018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.450313,
+          36.986248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "AUGENSTEIN ALUMNI CENTER",
+        "tag": "augualum",
+        "stopId": "0047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4508229,
+          36.989575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "THE VALLEY",
+        "tag": "vall",
+        "stopId": "0012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4547612,
+          36.987632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DSU",
+        "tag": "duc",
+        "stopId": "0013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4574387,
+          36.9851993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "KEEN HALL",
+        "tag": "keen",
+        "stopId": "0014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4603471,
+          36.9827889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CREASON PARK & RIDE",
+        "tag": "creapknr",
+        "stopId": "0031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4630288,
+          36.9805509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CAMPUS EVOLUTION VILLAGE (CEV)",
+        "tag": "evolvill",
+        "stopId": "0049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4666879,
+          36.977701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SOUTH CAMPUS",
+        "tag": "scam",
+        "stopId": "0008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4674099,
+          36.9657199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CAMPBELL LANE PARK & RIDE (GW MALL)",
+        "tag": "cambpknr",
+        "stopId": "0001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.469803,
+          36.9642659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "KROGER",
+        "tag": "krog_gm",
+        "stopId": "0023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4653807,
+          36.9599353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "WAL-MART",
+        "tag": "wmrt",
+        "stopId": "0024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4345589,
+          36.9490991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GREENWOOD MALL",
+        "tag": "greemall",
+        "stopId": "0025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4300255,
+          36.9491738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "BARNES & NOBLE",
+        "tag": "barnsnob",
+        "stopId": "0026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4352866,
+          36.9520072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "KROGER",
+        "tag": "krog_pknr",
+        "stopId": "0023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4654799,
+          36.9600903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CAMPBELL LANE PARK & RIDE (ARRIVAL)",
+        "tag": "cambpknr_a",
+        "stopId": "0001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4700046,
+          36.9640042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "RUSSELLVILLE ROAD PARK & RIDE",
+        "tag": "russpknr",
+        "stopId": "0009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.466864,
+          36.9807709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "JONES JAGGER",
+        "tag": "jagg",
+        "stopId": "0028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4608087,
+          36.9797951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "RANSDELL HALL",
+        "tag": "mimo",
+        "stopId": "0029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4555551,
+          36.983135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "STATE & 11TH AVE",
+        "tag": "stat11th",
+        "stopId": "0015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.44331,
+          36.9909799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8TH & CENTER ST",
+        "tag": "8thcent",
+        "stopId": "0017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4407694,
+          36.9953094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CENTER & 11TH",
+        "tag": "cent11th",
+        "stopId": "0019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4450303,
+          36.9933984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "COLUMNS APARTMENTS",
+        "tag": "coluapts",
+        "stopId": "0051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4469779,
+          36.992078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "COHH",
+        "tag": "cohh",
+        "stopId": "0005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4503196,
+          36.9863802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GRISE HALL",
+        "tag": "gris",
+        "stopId": "0034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4534672,
+          36.9850316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MMTH",
+        "tag": "mmth",
+        "stopId": "0006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.45634,
+          36.98252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "PFT",
+        "tag": "pft",
+        "stopId": "0007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.45837,
+          36.98028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SOUTH CAMPUS",
+        "tag": "scamp_c",
+        "stopId": "0002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4674299,
+          36.96567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CHERRY HALL",
+        "tag": "cherhall",
+        "stopId": "0030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4505676,
+          36.9877076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CAMPUS EVOLUTION VILLAGE (CEV)",
+        "tag": "evolvill_ib",
+        "stopId": "0049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4666879,
+          36.977701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SOUTH CAMPUS",
+        "tag": "scamp_pknr",
+        "stopId": "0008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4674099,
+          36.9657199
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright Western Kentucky University 2018."
+}

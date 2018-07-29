@@ -1,0 +1,59 @@
+{
+  "data": {
+    "Weekday": {
+      "title": "Weekday Shuttle",
+      "color": "cc66ff",
+      "tag": "Weekday",
+      "oppositeColor": "000000",
+      "max": [
+        43.7671699,
+        -71.68254
+      ],
+      "min": [
+        43.7576299,
+        -71.69064
+      ],
+      "stops": {
+        "PSU_Shuttle": [
+          "101",
+          "102",
+          "103",
+          "104",
+          "105",
+          "108",
+          "106",
+          "107"
+        ]
+      }
+    },
+    "Weekend": {
+      "title": "Weekend Shuttle",
+      "color": "0066ff",
+      "tag": "Weekend",
+      "oppositeColor": "ffffff",
+      "max": [
+        43.76896,
+        -71.68254
+      ],
+      "min": [
+        43.7576299,
+        -71.74149
+      ],
+      "stops": {
+        "PSU_Shuttle": [
+          "101",
+          "102",
+          "103",
+          "104",
+          "105",
+          "108",
+          "106",
+          "107",
+          "109",
+          "110"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Plymouth State University 2018."
+}

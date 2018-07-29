@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ice Arena",
+        "tag": "101",
+        "stopId": "0101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.68254,
+          43.7586299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ALLWell North",
+        "tag": "102",
+        "stopId": "0102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.68449,
+          43.7621999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Temporary Lot 705",
+        "tag": "103",
+        "stopId": "0103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6870799,
+          43.7671699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Langdon Woods",
+        "tag": "104",
+        "stopId": "0104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6886999,
+          43.76483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Merrill Place",
+        "tag": "105",
+        "stopId": "0105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.69064,
+          43.7621699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Town Hall",
+        "tag": "106",
+        "stopId": "0106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6879,
+          43.7581799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lamson Library",
+        "tag": "107",
+        "stopId": "0107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6898799,
+          43.7576299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Prospect Hall",
+        "tag": "108",
+        "stopId": "0108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.68968,
+          43.76042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wal-Mart",
+        "tag": "109",
+        "stopId": "0109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.74149,
+          43.76896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hannaford",
+        "tag": "110",
+        "stopId": "0110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7152699,
+          43.76875
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright Plymouth State University 2018."
+}

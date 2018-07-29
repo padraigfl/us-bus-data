@@ -1,0 +1,533 @@
+{
+  "data": {
+    "mendwend_d": {
+      "lon": "-77.3703939",
+      "title": "Mendenhall/ West End",
+      "stopId": "21010",
+      "tag": "mendwend_d",
+      "lat": "35.6081862"
+    },
+    "chil0th": {
+      "lon": "-77.3619099",
+      "title": "College Hill Dr & 10th St",
+      "shortTitle": "College Hill Dr & 10th",
+      "stopId": "23130",
+      "tag": "chil0th",
+      "lat": "35.60344"
+    },
+    "collhill_w": {
+      "lon": "-77.3634112",
+      "title": "College Hill West",
+      "stopId": "23020",
+      "tag": "collhill_w",
+      "lat": "35.6010847"
+    },
+    "stratford": {
+      "lon": "-77.3686042",
+      "title": "Charles Blvd & Stratford Arms",
+      "shortTitle": "Charles & Stratford Arms",
+      "stopId": "23125",
+      "tag": "stratford",
+      "lat": "35.5920972"
+    },
+    "currcour": {
+      "lon": "-77.3693792",
+      "title": "Curry Court",
+      "stopId": "23095",
+      "tag": "currcour",
+      "lat": "35.5898861"
+    },
+    "charfick": {
+      "lon": "-77.3695339",
+      "title": "Ficklen Drive",
+      "stopId": "26005",
+      "tag": "charfick",
+      "lat": "35.5986783"
+    },
+    "fick": {
+      "lon": "-77.3650151",
+      "title": "Gold Lot",
+      "stopId": "26010",
+      "tag": "fick",
+      "lat": "35.5984911"
+    },
+    "collhill_e": {
+      "lon": "-77.363215",
+      "title": "College Hill East",
+      "stopId": "23025",
+      "tag": "collhill_e",
+      "lat": "35.60119"
+    },
+    "brew10th": {
+      "lon": "-77.3631892",
+      "title": "10th Street & Brewster",
+      "shortTitle": "10th & Brewster",
+      "stopId": "23100",
+      "tag": "brew10th",
+      "lat": "35.6041998"
+    },
+    "zetahous_o": {
+      "lon": "-77.3794899",
+      "title": "Zeta House (Outbound)",
+      "stopId": "10050",
+      "tag": "zetahous_o",
+      "lat": "35.6123199"
+    },
+    "lwilwest": {
+      "lon": "-77.3861771",
+      "title": "Intergenerational Community Center (Outbound)",
+      "stopId": "10045",
+      "tag": "lwilwest",
+      "lat": "35.6130095"
+    },
+    "brod": {
+      "lon": "-77.4022449",
+      "title": "Brody School of Medicine",
+      "tag": "brod",
+      "lat": "35.6098288"
+    },
+    "healstud": {
+      "lon": "-77.4054889",
+      "title": "Health Sciences Student Center",
+      "stopId": "23145",
+      "tag": "healstud",
+      "lat": "35.61088"
+    },
+    "healscib": {
+      "lon": "-77.4054509",
+      "title": "Health Sciences Building",
+      "stopId": "23005",
+      "tag": "healscib",
+      "lat": "35.6128089"
+    },
+    "medipavi": {
+      "lon": "-77.3958765",
+      "title": "Medical Pavilion",
+      "stopId": "23015",
+      "tag": "medipavi",
+      "lat": "35.6129601"
+    },
+    "lwileast": {
+      "lon": "-77.3825213",
+      "title": "Intergenerational Community Center (Inbound)",
+      "stopId": "10015",
+      "tag": "lwileast",
+      "lat": "35.6123401"
+    },
+    "zetahous_i": {
+      "lon": "-77.3795267",
+      "title": "Zeta House (Inbound)",
+      "stopId": "10014",
+      "tag": "zetahous_i",
+      "lat": "35.612242"
+    },
+    "cota10th": {
+      "lon": "-77.3722329",
+      "title": "Cotanche St & 10 St",
+      "shortTitle": "Cotanche & 10",
+      "stopId": "23140",
+      "tag": "cota10th",
+      "lat": "35.6063051"
+    },
+    "evan9th_ob": {
+      "lon": "-77.374063",
+      "title": "Evans Street & 9th Street",
+      "shortTitle": "Evans & 9th",
+      "stopId": "23135",
+      "tag": "evan9th_ob",
+      "lat": "35.6069877"
+    },
+    "readchic": {
+      "lon": "-77.3714597",
+      "title": "Reade Street & Chicos Mexican Restaurant",
+      "shortTitle": "Reade & Chicos Mexican Restaurant",
+      "stopId": "23060",
+      "tag": "readchic",
+      "lat": "35.6097801"
+    },
+    "finhub": {
+      "lon": "-77.3700512",
+      "title": "Reade Street",
+      "shortTitle": "Reade",
+      "stopId": "10005",
+      "tag": "finhub",
+      "lat": "35.6137654"
+    },
+    "wash2nd": {
+      "lon": "-77.3731302",
+      "title": "2nd Street & Washington Street",
+      "shortTitle": "2nd & Washington",
+      "stopId": "23065",
+      "tag": "wash2nd",
+      "lat": "35.61446"
+    },
+    "firsplac": {
+      "lon": "-77.3752614",
+      "title": "First Street Place",
+      "shortTitle": "First Place",
+      "stopId": "23070",
+      "tag": "firsplac",
+      "lat": "35.615928"
+    },
+    "cota4th": {
+      "lon": "-77.3713647",
+      "title": "Cotanche & 3rd",
+      "stopId": "23075",
+      "tag": "cota4th",
+      "lat": "35.6133801"
+    },
+    "univbook": {
+      "lon": "-77.3721499",
+      "title": "University Book Exchange (UBE)",
+      "stopId": "23080",
+      "tag": "univbook",
+      "lat": "35.6105802"
+    },
+    "summ5th": {
+      "lon": "-77.3682907",
+      "title": "5th Street & Summit Street",
+      "shortTitle": "5th & Summit",
+      "stopId": "23085",
+      "tag": "summ5th",
+      "lat": "35.6098048"
+    },
+    "foun5th": {
+      "lon": "-77.3648083",
+      "title": "5th Street & Founders Drive",
+      "shortTitle": "5th & Founders Drive",
+      "stopId": "23090",
+      "tag": "foun5th",
+      "lat": "35.6083933"
+    },
+    "spei": {
+      "lon": "-77.3612924",
+      "title": "Speight",
+      "stopId": "21015",
+      "tag": "spei",
+      "lat": "35.6067167"
+    },
+    "chrisgym": {
+      "lon": "-77.3632576",
+      "title": "Christenbury Gym",
+      "stopId": "21005",
+      "tag": "chrisgym",
+      "lat": "35.6044281"
+    },
+    "chrisgym_d": {
+      "lon": "-77.3632563",
+      "title": "Christenbury Gym",
+      "stopId": "21005",
+      "tag": "chrisgym_d",
+      "lat": "35.6044279"
+    },
+    "univpkap": {
+      "lon": "-77.3567422",
+      "title": "University Park Apartments",
+      "stopId": "24005",
+      "tag": "univpkap",
+      "lat": "35.6030972"
+    },
+    "collpkap": {
+      "lon": "-77.3523581",
+      "title": "College Park Apartments",
+      "stopId": "24010",
+      "tag": "collpkap",
+      "lat": "35.6024626"
+    },
+    "10thbrow": {
+      "lon": "-77.3507805",
+      "title": "10th Street & Brownlea Drive (Outbound)",
+      "shortTitle": "10th & Brownlea Drive (Outbound)",
+      "stopId": "24015",
+      "tag": "10thbrow",
+      "lat": "35.6023795"
+    },
+    "vilg10th_ob": {
+      "lon": "-77.3454115",
+      "title": "Village Green/10th Street (Outbound)",
+      "shortTitle": "Village Green/10th (Outbound)",
+      "stopId": "24030",
+      "tag": "vilg10th_ob",
+      "lat": "35.6032013"
+    },
+    "10thceda": {
+      "lon": "-77.3376317",
+      "title": "10th Street & Cedar Lane",
+      "shortTitle": "10th & Cedar Lane",
+      "stopId": "24035",
+      "tag": "10thceda",
+      "lat": "35.6016458"
+    },
+    "eastvill": {
+      "lon": "-77.3318989",
+      "title": "Eastgate Village Apartments",
+      "stopId": "24040",
+      "tag": "eastvill",
+      "lat": "35.59738"
+    },
+    "canncour": {
+      "lon": "-77.3373934",
+      "title": "Cannon Court",
+      "stopId": "24045",
+      "tag": "canncour",
+      "lat": "35.5953406"
+    },
+    "eastbkap": {
+      "lon": "-77.336162",
+      "title": "Eastbrook Apartments",
+      "stopId": "24050",
+      "tag": "eastbkap",
+      "lat": "35.5963671"
+    },
+    "camppt": {
+      "lon": "-77.3332559",
+      "title": "Campus Pointe",
+      "stopId": "24055",
+      "tag": "camppt",
+      "lat": "35.602015"
+    },
+    "10thverd": {
+      "lon": "-77.3380019",
+      "title": "10th Street & Verdant Drive",
+      "shortTitle": "10th & Verdant Drive",
+      "stopId": "10025",
+      "tag": "10thverd",
+      "lat": "35.6019857"
+    },
+    "vilg10th_ib": {
+      "lon": "-77.3455269",
+      "title": "Village Green/10th Street (Inbound)",
+      "shortTitle": "Village Green/10th (Inbound)",
+      "stopId": "10030",
+      "tag": "vilg10th_ib",
+      "lat": "35.603322"
+    },
+    "cyprgard": {
+      "lon": "-77.3502543",
+      "title": "10th Street & Brownlea Drive (Inbound)",
+      "shortTitle": "10th & Brownlea Drive (Inbound)",
+      "stopId": "10035",
+      "tag": "cyprgard",
+      "lat": "35.6025607"
+    },
+    "sunfront": {
+      "lon": "-77.3338209",
+      "title": "Sunchase: Front",
+      "stopId": "25025",
+      "tag": "sunfront",
+      "lat": "35.6040419"
+    },
+    "sunback": {
+      "lon": "-77.3336979",
+      "title": "Sunchase: Back",
+      "stopId": "25030",
+      "tag": "sunback",
+      "lat": "35.6023799"
+    },
+    "beachvil": {
+      "lon": "-77.3419446",
+      "title": "Beech Street Villas",
+      "shortTitle": "Beech Villas",
+      "stopId": "24065",
+      "tag": "beachvil",
+      "lat": "35.608647"
+    },
+    "rivrwalk": {
+      "lon": "-77.343399",
+      "title": "Riverwalk",
+      "stopId": "24070",
+      "tag": "rivrwalk",
+      "lat": "35.60933"
+    },
+    "4thcedar": {
+      "lon": "-77.3441048",
+      "title": "4th & Cedar",
+      "stopId": "24071",
+      "tag": "4thcedar",
+      "lat": "35.6076171"
+    },
+    "univterr": {
+      "lon": "-77.35039",
+      "title": "University Terrace",
+      "stopId": "24075",
+      "tag": "univterr",
+      "lat": "35.60896"
+    },
+    "gablbrow": {
+      "lon": "-77.3521214",
+      "title": "The Gables at Wesley South",
+      "shortTitle": "The Gables @ Wesley South",
+      "stopId": "10040",
+      "tag": "gablbrow",
+      "lat": "35.6106476"
+    },
+    "browwynd": {
+      "lon": "-77.3536829",
+      "title": "Brownlea Drive & Wyndham Circle",
+      "stopId": "24085",
+      "tag": "browwynd",
+      "lat": "35.610683"
+    },
+    "wyndwill": {
+      "lon": "-77.353187",
+      "title": "Wyndham Circle & Willow Street",
+      "shortTitle": "Wyndham Circle & Willow",
+      "stopId": "24090",
+      "tag": "wyndwill",
+      "lat": "35.6125683"
+    },
+    "ashwill": {
+      "lon": "-77.3551815",
+      "title": "Ash Street & Willow Street",
+      "shortTitle": "Ash & Willow",
+      "stopId": "24095",
+      "tag": "ashwill",
+      "lat": "35.612744"
+    },
+    "ash1st": {
+      "lon": "-77.3558889",
+      "title": "Ash Street & 1st Street",
+      "shortTitle": "Ash & 1st",
+      "stopId": "24100",
+      "tag": "ash1st",
+      "lat": "35.6110001"
+    },
+    "oakwill": {
+      "lon": "-77.356257",
+      "title": "Oak Street & Willow Street",
+      "shortTitle": "Oak & Willow",
+      "stopId": "24105",
+      "tag": "oakwill",
+      "lat": "35.6124332"
+    },
+    "willelm": {
+      "lon": "-77.357386",
+      "title": "Willow Street & Elm Street",
+      "shortTitle": "Willow & Elm",
+      "stopId": "24110",
+      "tag": "willelm",
+      "lat": "35.6128092"
+    },
+    "copbphs2": {
+      "lon": "-77.3291577",
+      "title": "Copper Beech: Phase 2",
+      "stopId": "25070",
+      "tag": "copbphs2",
+      "lat": "35.596746"
+    },
+    "copbback": {
+      "lon": "-77.3286354",
+      "title": "Copper Beech: Back",
+      "stopId": "25075",
+      "tag": "copbback",
+      "lat": "35.5953005"
+    },
+    "copbclub": {
+      "lon": "-77.3272028",
+      "title": "Copper Beech: Clubhouse",
+      "stopId": "25080",
+      "tag": "copbclub",
+      "lat": "35.5961631"
+    },
+    "univmanb": {
+      "lon": "-77.3191899",
+      "title": "The Davis: Back",
+      "stopId": "25015",
+      "tag": "univmanb",
+      "lat": "35.5946359"
+    },
+    "univmanf": {
+      "lon": "-77.3204926",
+      "title": "The Davis: Front",
+      "stopId": "25020",
+      "tag": "univmanf",
+      "lat": "35.5937982"
+    },
+    "pirtcove_offc": {
+      "lon": "-77.3282019",
+      "title": "33 East: Main Office",
+      "stopId": "25005",
+      "tag": "pirtcove_offc",
+      "lat": "35.5987226"
+    },
+    "pirtcove_phs2": {
+      "lon": "-77.3277376",
+      "title": "33 East: Phase 2",
+      "stopId": "25010",
+      "tag": "pirtcove_phs2",
+      "lat": "35.6012111"
+    },
+    "charmush": {
+      "lon": "-77.3659523",
+      "title": "Charles and Mellow Mushroom",
+      "shortTitle": "Charles & Mellow Mushroom",
+      "stopId": "25031",
+      "tag": "charmush",
+      "lat": "35.5876474"
+    },
+    "greecent": {
+      "lon": "-77.3636992",
+      "title": "Greenville Center",
+      "stopId": "25035",
+      "tag": "greecent",
+      "lat": "35.5856543"
+    },
+    "hyde": {
+      "lon": "-77.3543079",
+      "title": "Hyde Drive",
+      "stopId": "25040",
+      "tag": "hyde",
+      "lat": "35.5746805"
+    },
+    "land": {
+      "lon": "-77.3554919",
+      "title": "The Landing",
+      "stopId": "25045",
+      "tag": "land",
+      "lat": "35.572974"
+    },
+    "bell": {
+      "lon": "-77.3495859",
+      "title": "The Bellamy",
+      "stopId": "25085",
+      "tag": "bell",
+      "lat": "35.5591889"
+    },
+    "signatur": {
+      "lon": "-77.3482369",
+      "title": "Signature Dr",
+      "stopId": "25090",
+      "tag": "signatur",
+      "lat": "35.5591852"
+    },
+    "nrecfield": {
+      "lon": "-77.3198642",
+      "title": "North Recreational Complex: Field House",
+      "stopId": "25055",
+      "tag": "nrecfield",
+      "lat": "35.6292954"
+    },
+    "nrecboat": {
+      "lon": "-77.3231056",
+      "title": "North Recreational Complex: Boat House",
+      "stopId": "25060",
+      "tag": "nrecboat",
+      "lat": "35.6287087"
+    },
+    "ncamcros": {
+      "lon": "-77.32647",
+      "title": "Paramount 3800",
+      "stopId": "25050",
+      "tag": "ncamcros",
+      "lat": "35.62895"
+    },
+    "univsuit": {
+      "lon": "-77.3820659",
+      "title": "University Suites",
+      "stopId": "25065",
+      "tag": "univsuit",
+      "lat": "35.590877"
+    }
+  },
+  "copyright": "All data copyright East Carolina University 2018."
+}

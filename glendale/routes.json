@@ -1,0 +1,813 @@
+{
+  "data": {
+    "11": {
+      "title": "11 - Glendale Transportation Center (GTC) to Downtown Glendale",
+      "color": "6666cc",
+      "tag": "11",
+      "shortTitle": "11 EX Dwntwn-GTC",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.15751,
+        -118.2471958
+      ],
+      "min": [
+        34.12459,
+        -118.2600614
+      ],
+      "stops": {
+        "Southbound_to Glendale Trans Center": [
+          "gtc_s",
+          "centbroa_s",
+          "montbran_s",
+          "dorabran_s",
+          "branlexi_s",
+          "wilsmary_s",
+          "wilsglen_s",
+          "colojack_s",
+          "colobran_s"
+        ],
+        "Northbound": [
+          "gtc_n",
+          "brancolo_n",
+          "branbroa_n",
+          "branlexi_n",
+          "branmilf_n",
+          "montbran_n",
+          "wilsglen_n",
+          "colojack_n",
+          "colobran_n"
+        ]
+      }
+    },
+    "12": {
+      "title": "12 - Glendale Transportation Center (GTC) to Burbank Transportation Center",
+      "color": "99cc66",
+      "tag": "12",
+      "shortTitle": "12 EX GTC-BRITC",
+      "oppositeColor": "000000",
+      "max": [
+        34.17797,
+        -118.25984
+      ],
+      "min": [
+        34.12459,
+        -118.3122299
+      ],
+      "stops": {
+        "Southbound_To GTC": [
+          "britc_d",
+          "verflo",
+          "alaflo",
+          "allflo",
+          "flowes",
+          "sonflo",
+          "davflo",
+          "circflo",
+          "flogra",
+          "airgra",
+          "sanflow_g",
+          "highsan",
+          "milfsan",
+          "calisan",
+          "brosan",
+          "colosan",
+          "pacsan",
+          "chevsan"
+        ],
+        "Northbound_To Burbank TC": [
+          "gtc_d",
+          "sanchev",
+          "sanpac",
+          "sanelk",
+          "sanbro",
+          "sanmilf",
+          "sanfair",
+          "sanhigh",
+          "sanpel_b",
+          "graair",
+          "graflo",
+          "flocirc",
+          "flodav",
+          "floson",
+          "flowes_n",
+          "floall",
+          "floala",
+          "flover"
+        ]
+      }
+    },
+    "31": {
+      "title": "31 - Downtown Glendale to Montrose",
+      "color": "b2dfee",
+      "tag": "31",
+      "shortTitle": "31 Dwntwn-Mtrs",
+      "oppositeColor": "000000",
+      "max": [
+        34.2210577,
+        -118.2254743
+      ],
+      "min": [
+        34.1444775,
+        -118.2549294
+      ],
+      "stops": {
+        "Southbound_to Glendale Galleria": [
+          "lacmont",
+          "lacpie",
+          "honlac",
+          "honros",
+          "honlas",
+          "honoce",
+          "verhon",
+          "versun",
+          "veroce",
+          "vergle",
+          "veroak",
+          "verglo",
+          "verfer",
+          "verope",
+          "vercre",
+          "verkir",
+          "gcc_s",
+          "vermou",
+          "glever",
+          "glegle",
+          "glemon",
+          "gledor",
+          "glelex",
+          "glecal",
+          "glewil",
+          "glebro",
+          "brojac"
+        ],
+        "Northbound": [
+          "harlou_d",
+          "BraBro_d",
+          "brobra",
+          "brolou",
+          "brojac_n",
+          "glebro_n",
+          "glewil_n",
+          "glecal_n",
+          "glelex_n",
+          "gledor_n",
+          "glemon_n",
+          "glegle_n",
+          "glever_n",
+          "vercal",
+          "gcc",
+          "verver",
+          "verkir_n",
+          "vercre_n",
+          "verbar",
+          "verfer_n",
+          "verglo_n",
+          "veralp",
+          "verbag",
+          "vergle_n",
+          "verelc",
+          "versun_n",
+          "honoview",
+          "honora",
+          "honros_n",
+          "honlac_n",
+          "montpenn_n",
+          "montram_n"
+        ]
+      }
+    },
+    "32": {
+      "title": "32 - Glendale Galleria to Glendale College Only",
+      "color": "ff00ff",
+      "tag": "32",
+      "shortTitle": "32 Downtown-College",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.1687806,
+        -118.2289646
+      ],
+      "min": [
+        34.1444775,
+        -118.2549294
+      ],
+      "stops": {
+        "Southbound_to Glendale Galleria": [
+          "gcc_d",
+          "gcc_s",
+          "vermou",
+          "glever",
+          "glegle",
+          "glemon",
+          "gledor",
+          "glelex",
+          "glecal",
+          "glewil",
+          "glebro",
+          "brojac"
+        ],
+        "Northbound_to Glendale College": [
+          "harlou_d",
+          "BraBro_d",
+          "brobra",
+          "brolou",
+          "brojac_n",
+          "glebro_n",
+          "glewil_n",
+          "glecal_n",
+          "glelex_n",
+          "gledor_n",
+          "glemon_n",
+          "glegle_n",
+          "glever_n",
+          "vercal",
+          "gcc"
+        ]
+      }
+    },
+    "33": {
+      "title": "33 - Montrose to JPL",
+      "color": "cd0000",
+      "tag": "33",
+      "shortTitle": "33 Montrose-JPL",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.2169996,
+        -118.175339
+      ],
+      "min": [
+        34.194325,
+        -118.2280601
+      ],
+      "stops": {
+        "Eastbound_to JPL": [
+          "montwalt_e",
+          "montocn_e",
+          "foooce",
+          "foocas_e",
+          "foopal_e",
+          "foohila_e",
+          "fooalt_e",
+          "foolas",
+          "foocor_e",
+          "fooche",
+          "foobeu",
+          "foocom_e",
+          "foooak_e",
+          "foogou_e",
+          "foocro_e",
+          "oakfoo_e"
+        ],
+        "Westbound_to Montrose": [
+          "jpl_d",
+          "oakfoo",
+          "foovin",
+          "foogou",
+          "foorin",
+          "foooak",
+          "foocom",
+          "fooang",
+          "foohil",
+          "foocor",
+          "foover",
+          "fooind",
+          "fooalt",
+          "foohila",
+          "foopal",
+          "foocas",
+          "ocanmont_w",
+          "ocnhono_w",
+          "verdhono_w"
+        ]
+      }
+    },
+    "34": {
+      "title": "34 - Montrose to La Canada High",
+      "color": "00cd00",
+      "tag": "34",
+      "shortTitle": "34 Montrose-LCHS",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.2169995,
+        -118.1782492
+      ],
+      "min": [
+        34.1932905,
+        -118.2280601
+      ],
+      "stops": {
+        "Eastbound_La Canada High": [
+          "montocn_e",
+          "foooce",
+          "foocas",
+          "foopal_e",
+          "foohila_e",
+          "fooalt_e",
+          "foolas",
+          "foocor_e",
+          "fooche",
+          "foobeu",
+          "foocom_e",
+          "foooak_e",
+          "foogou_e",
+          "foocro",
+          "montwalt_e"
+        ],
+        "Westbound_to Montrose": [
+          "lchs_w",
+          "foovin",
+          "foogou",
+          "foorin",
+          "foooak",
+          "foocom",
+          "fooang",
+          "foohil",
+          "foocor",
+          "foover",
+          "fooind",
+          "fooalt",
+          "foohila",
+          "foopal",
+          "foolcp",
+          "ocanmont_w",
+          "ocnhono_w",
+          "verdhono_w"
+        ]
+      }
+    },
+    "01": {
+      "title": "1 - Glendale Transportation Center (GTC) to Downtown Glendale (Central Av)",
+      "color": "ff9900",
+      "tag": "01",
+      "shortTitle": "1 Downtown-GTC",
+      "oppositeColor": "000000",
+      "max": [
+        34.16364,
+        -118.255
+      ],
+      "min": [
+        34.124434,
+        -118.26015
+      ],
+      "stops": {
+        "Southbound_to Glendale Trans Center": [
+          "StoBra",
+          "BraDry",
+          "BraGle",
+          "BraMon",
+          "BraDor",
+          "BraMil",
+          "BraLex",
+          "BraCal",
+          "BraWil",
+          "BraBro",
+          "BraCol",
+          "BraLom",
+          "BraMap",
+          "BraGarf",
+          "BraChe",
+          "BraMag",
+          "BraLos",
+          "CenLau"
+        ],
+        "Northbound_to Central/Stocker": [
+          "GTC_d",
+          "CenLau_n",
+          "CenLos",
+          "CenMag",
+          "CenChe",
+          "CenWin",
+          "CenLom",
+          "CenCol",
+          "CenHar",
+          "CenBro",
+          "CenCal",
+          "CenMil",
+          "CenDor",
+          "CenArd",
+          "CenGle",
+          "CenDry",
+          "CenSto"
+        ]
+      }
+    },
+    "02": {
+      "title": "2 - Glendale Transportation Center (GTC) to Downtown Glendale (Brand Bl)",
+      "color": "ff3333",
+      "tag": "02",
+      "shortTitle": "2 Downtown-GTC",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.16373,
+        -118.25481
+      ],
+      "min": [
+        34.124434,
+        -118.26015
+      ],
+      "stops": {
+        "Southbound_to Glendale Trans Center": [
+          "CenSto",
+          "CenDry",
+          "CenArd",
+          "CenDor",
+          "CenMil",
+          "CenLex",
+          "CenCal",
+          "CenBro",
+          "CenHar",
+          "CenCol",
+          "CenLom",
+          "CenWin",
+          "CenChe",
+          "CenMag",
+          "CenLos",
+          "CenLau"
+        ],
+        "Northbound_to Stocker/Brand": [
+          "GTC_d",
+          "CenLau_n",
+          "BraLos",
+          "BraMag",
+          "BraChe",
+          "BraGarf",
+          "BraMap",
+          "BraLom",
+          "BraHar",
+          "BraBro",
+          "BraWil",
+          "BraCal",
+          "BraLex",
+          "BraMil",
+          "BraMon",
+          "BraFai",
+          "StoBra",
+          "BraCol"
+        ]
+      }
+    },
+    "03": {
+      "title": "3 - Downtown Glendale to JPL",
+      "color": "091380",
+      "tag": "03",
+      "shortTitle": "3 Downtown-JPL",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.2238091,
+        -118.175339
+      ],
+      "min": [
+        34.1444775,
+        -118.2549294
+      ],
+      "stops": {
+        "Northbound_to JPL": [
+          "harlou_d",
+          "BraBro_d",
+          "brobra",
+          "brolou",
+          "brojac_n",
+          "glebro_n",
+          "glewil_n",
+          "glecal_n",
+          "glelex_n",
+          "gledor_n",
+          "glemon_n",
+          "glegle_n",
+          "glever_n",
+          "vercal",
+          "gcc",
+          "verver",
+          "verkir_n",
+          "vercre_n",
+          "verbar",
+          "verfer_n",
+          "verglo_n",
+          "veralp",
+          "verbag",
+          "vergle_n",
+          "verelc",
+          "versun_n",
+          "honoview",
+          "honora",
+          "honros_n",
+          "honlac_n",
+          "lacpie_n",
+          "lacmon_n",
+          "lacalt_n",
+          "lacpro_n",
+          "lacmar_n",
+          "fooray_n",
+          "fooros_n",
+          "foobri_n",
+          "foooce_n",
+          "foocas_n",
+          "foopal_n",
+          "foohila_n",
+          "fooalt_n",
+          "foolas",
+          "foocor_n",
+          "fooche_n",
+          "foobeu",
+          "foocom_n",
+          "foooak_n",
+          "foogou_n",
+          "foocro_n",
+          "oakfoo_n"
+        ],
+        "Southbound_to Glendale Galleria": [
+          "jpl_d",
+          "oakfoo",
+          "foocro",
+          "foovin",
+          "foogou",
+          "foorin",
+          "foooak",
+          "foocom",
+          "fooche",
+          "foohil",
+          "foocor",
+          "foolac",
+          "fooind",
+          "fooalt",
+          "foohila",
+          "foopal",
+          "foocas",
+          "foooce",
+          "foobri",
+          "fooros",
+          "fooray",
+          "lacmar",
+          "lacpro",
+          "lacalt",
+          "lacmon",
+          "lacpie",
+          "honlac",
+          "honros",
+          "honlas",
+          "honoce",
+          "verhon",
+          "versun",
+          "veroce",
+          "vergle",
+          "veroak",
+          "verglo",
+          "verfer",
+          "verope",
+          "vercre",
+          "verkir",
+          "gcc_s",
+          "vermou",
+          "glever",
+          "glegle",
+          "glemon",
+          "gledor",
+          "glelex",
+          "glecal",
+          "glewil",
+          "glebro",
+          "brojac",
+          "harlou_a"
+        ]
+      }
+    },
+    "04": {
+      "title": "4 - Southern Glendale to Downtown Glendale",
+      "color": "6600c0",
+      "tag": "04",
+      "shortTitle": "4 Dwntwn-ChChase",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.146481,
+        -118.23954
+      ],
+      "min": [
+        34.1323106,
+        -118.25797
+      ],
+      "stops": {
+        "Southbound_To Chevy Chase/Brand": [
+          "colcent_d",
+          "BraCol",
+          "louiharv",
+          "isabharv",
+          "broaglen",
+          "cedabroa",
+          "adambroa",
+          "broachev",
+          "colochev",
+          "maplchev",
+          "garfchev",
+          "adamchev",
+          "midbchev",
+          "boynchev",
+          "palmglen",
+          "branpalm"
+        ],
+        "Northbound_to Glendale Galleria": [
+          "chevbran_d",
+          "chevglen",
+          "chevboyn",
+          "chevmidb",
+          "chevadam",
+          "chevgarf",
+          "chevmapl",
+          "chevcolo",
+          "chevcarlt",
+          "broaadam",
+          "broaceda",
+          "glenbroa",
+          "harvisab",
+          "harvloui",
+          "branharv",
+          "branbroa",
+          "centbroa",
+          "centharv"
+        ]
+      }
+    },
+    "05": {
+      "title": "5 - Edison Pacific to Hoover High",
+      "color": "009933",
+      "tag": "05",
+      "shortTitle": "5 EdisonPac-HHS",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.1652387,
+        -118.2579398
+      ],
+      "min": [
+        34.13876,
+        -118.2697246
+      ],
+      "stops": {
+        "Southbound_to Riverdale/Pacific": [
+          "glecon_d",
+          "stopac",
+          "pacdry",
+          "pacard",
+          "pacdor",
+          "paclex",
+          "paccal",
+          "pacwil",
+          "pacivy",
+          "pacharv",
+          "colpac",
+          "colcol",
+          "CenCol",
+          "CenLom",
+          "rivcol"
+        ],
+        "Northbound_to Hoover High": [
+          "rivpac_d",
+          "pacvin",
+          "paccol",
+          "pacharv_n",
+          "pacwil_n",
+          "paccal_n",
+          "paclex_n",
+          "pacdor_n",
+          "pacard_n",
+          "pacpal"
+        ]
+      }
+    },
+    "06": {
+      "title": "6 - Edison Pacific to Glendale High",
+      "color": "cc9966",
+      "tag": "06",
+      "shortTitle": "6 EdisonPac-GHS",
+      "oppositeColor": "000000",
+      "max": [
+        34.14613,
+        -118.2291207
+      ],
+      "min": [
+        34.1388425,
+        -118.2689758
+      ],
+      "stops": {
+        "Eastbound_to Glendale High": [
+          "rivepaci_d",
+          "sanriv",
+          "sanelk",
+          "colpac",
+          "colcol_e",
+          "colcen",
+          "colbra_e",
+          "collou_e",
+          "colgle_e",
+          "coleve_e",
+          "colada_e",
+          "colche_e",
+          "colfis_e",
+          "vercol",
+          "verbro"
+        ],
+        "Westbound_to Riverdale/Pacific": [
+          "brosin_d",
+          "brocar",
+          "coleag",
+          "colcam",
+          "colver",
+          "colfis",
+          "colche",
+          "colada",
+          "coleve",
+          "colgle",
+          "collou",
+          "colbra",
+          "colcol",
+          "paccol"
+        ]
+      }
+    },
+    "07": {
+      "title": "7 - Western Glendale to Glendale Community College",
+      "color": "993366",
+      "tag": "07",
+      "shortTitle": "7 VicWestern-GCC",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.1764768,
+        -118.2289502
+      ],
+      "min": [
+        34.1563364,
+        -118.2999
+      ],
+      "stops": {
+        "Westbound_To Victory/Western": [
+          "verdtown",
+          "verdmoun",
+          "glenverd",
+          "glenglen",
+          "montglen",
+          "jackglen",
+          "branfair",
+          "branstoc",
+          "stoccent",
+          "stoccolu",
+          "pacistoc2",
+          "concglenw",
+          "pacistoc",
+          "pacidryd",
+          "glenpaci",
+          "glenkeni",
+          "glenconc",
+          "glenhigh",
+          "glengray_w",
+          "glengrad",
+          "glenrose",
+          "glensono",
+          "glenjust",
+          "glenowest",
+          "glenthom",
+          "alleglen",
+          "glenalam",
+          "alamsanf",
+          "allesanf",
+          "thomsanf",
+          "westsanf",
+          "flowsono",
+          "sonolake"
+        ],
+        "Eastbound_To GCC": [
+          "vicwes_d",
+          "westlake",
+          "sanfwest",
+          "sanfthom",
+          "sanfalle",
+          "sanfalam",
+          "alamglen",
+          "glenalle",
+          "glenthom_e",
+          "glenwest",
+          "justglen",
+          "sonoglen",
+          "glengran",
+          "glengray_e",
+          "glenohigh",
+          "glenoconc",
+          "keniglen",
+          "pacipalm",
+          "glenwconc",
+          "stocpaci",
+          "stocpaci2",
+          "stocolu",
+          "stoccent_e",
+          "stocbran",
+          "brandryd",
+          "glenobran",
+          "glenjack",
+          "glenmont",
+          "glenglen_e",
+          "verdglen",
+          "verdcall",
+          "verdgcc_d",
+          "canaverd_d"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Glendale Beeline 2018."
+}

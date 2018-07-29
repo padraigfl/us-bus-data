@@ -1,0 +1,124 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal A",
+        "tag": "trma",
+        "stopId": "110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8862539,
+          40.773269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hangar 7 South",
+        "tag": "hng7",
+        "stopId": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8854193,
+          40.7710663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal B",
+        "tag": "trmb",
+        "stopId": "200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8710189,
+          40.7740239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop 15",
+        "tag": "stop15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8868074,
+          40.7698556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal D",
+        "tag": "trmd",
+        "stopId": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8623862,
+          40.7686804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal C",
+        "tag": "trmc",
+        "stopId": "300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8645757,
+          40.7702218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "102nd Street",
+        "tag": "102st"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8688937,
+          40.7696819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Manager's Parking Lot",
+        "tag": "mangpark",
+        "stopId": "500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.876212,
+          40.768464
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright LaGuardia Airport Shuttle 2018."
+}

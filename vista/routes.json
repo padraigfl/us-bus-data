@@ -1,0 +1,396 @@
+{
+  "data": {
+    "101": {
+      "title": "Hwy 101",
+      "color": "cc0000",
+      "tag": "101",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.27622,
+        -118.8609976
+      ],
+      "min": [
+        34.1748122,
+        -119.29038
+      ],
+      "stops": {
+        "Northbound": [
+          "totran",
+          "oakmal_nb",
+          "hilranch_nb",
+          "ranlaw_nb",
+          "copcent_n",
+          "parpla_nb",
+          "cammet_nb",
+          "carpla_nb",
+          "camout_nb",
+          "espmal_nb",
+          "vengov_nb",
+          "vencol_nb",
+          "bonsch",
+          "vpier",
+          "pvmtc_nb"
+        ],
+        "Southbound": [
+          "pvmtc_sb",
+          "vencol_sb",
+          "vengov_sb",
+          "espmal_sb",
+          "camout_sb",
+          "carpla_sb",
+          "cammet_sb",
+          "parpla_sb",
+          "hilranch_sb",
+          "ranlaw_sb",
+          "corpcent_s",
+          "oakmal_sb"
+        ]
+      }
+    },
+    "126": {
+      "title": "Hwy 126",
+      "color": "ff9999",
+      "tag": "126",
+      "oppositeColor": "000000",
+      "max": [
+        34.415263,
+        -118.792632
+      ],
+      "min": [
+        34.268007,
+        -119.29038
+      ],
+      "stops": {
+        "Eastbound": [
+          "pvmtc_d",
+          "bonsch_e",
+          "venmed_e",
+          "vencol_e",
+          "vengov_e",
+          "wcenter_e",
+          "kspaula_e",
+          "spchall_e",
+          "rancsesp_e",
+          "fustcent_e"
+        ],
+        "Westbound": [
+          "rancsesp_w",
+          "fustcent_w",
+          "fscent_d",
+          "spchall_w",
+          "kspaula_w",
+          "wcenter_w",
+          "vengov_w",
+          "vencol_w",
+          "bonsch_w",
+          "venmed_w",
+          "vpier"
+        ]
+      }
+    },
+    "cc": {
+      "title": "101/Conejo Connection",
+      "color": "ff6600",
+      "tag": "cc",
+      "shortTitle": "101/Conejo",
+      "oppositeColor": "000000",
+      "max": [
+        34.272451,
+        -118.5882184
+      ],
+      "min": [
+        34.17323,
+        -119.2496348
+      ],
+      "stops": {
+        "Northbound": [
+          "oxntop_nb",
+          "oxnarowen_nb",
+          "oxncan_nb",
+          "burcan_nb",
+          "burwar_nb",
+          "desbur_nb",
+          "cantril_nb",
+          "viccan_nb",
+          "owenvic_nb",
+          "erwowe_nb",
+          "oxnowe_nb",
+          "totran_nb",
+          "parpla_nb",
+          "cammet_nb",
+          "carpla_nb",
+          "rivrpark_nb",
+          "espmal_nb"
+        ],
+        "Southbound": [
+          "oxntra_sb",
+          "pvmtc",
+          "espmal_sb",
+          "rivrpark_sb",
+          "carpla_sb",
+          "cammet_sb",
+          "parpla_sb",
+          "wenhil",
+          "firehill",
+          "oakmal",
+          "totran_sb",
+          "oxntop_sb",
+          "oxnarowen_sb",
+          "oxncan_sb",
+          "burcan_sb",
+          "burwar_sb",
+          "desbur_sb",
+          "cantril_sb",
+          "viccan_sb",
+          "owenvic_sb",
+          "erwowe_sb",
+          "oxnowe_sb"
+        ]
+      }
+    },
+    "coast": {
+      "title": "Coastal Express",
+      "color": "009900",
+      "tag": "coast",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.44391,
+        -119.174626
+      ],
+      "min": [
+        34.2320197,
+        -119.8655953
+      ],
+      "stops": {
+        "Northbound": [
+          "esplmall_nb",
+          "rivrpark_nb",
+          "cgovcent_nb",
+          "pacvmall_nb",
+          "vntdtown_nb",
+          "wmainpek_nb",
+          "realmark_nb",
+          "carpeuge_nb",
+          "cabpvall_nb",
+          "gutigard_nb",
+          "sbarguer_nb",
+          "figusbar_nb",
+          "figuchap_nb",
+          "puebbath_nb",
+          "dlvnmiss_nb",
+          "sbarcomp_nb",
+          "hollpatt_nb",
+          "hollkell_nb",
+          "hollnect_nb",
+          "hollaero_nb",
+          "hollcrem_nb",
+          "cortcast_nb",
+          "castcarn_nb",
+          "carnkarl_a"
+        ],
+        "Southbound": [
+          "ucsb_d",
+          "carnkarl_d",
+          "hollcoro_sb",
+          "cortcast_sb",
+          "castcarn_sb",
+          "hollcrem_sb",
+          "hollaero_sb",
+          "hollpine_sb",
+          "hollkell_sb",
+          "hollpatt_d",
+          "sbarcomp_sb",
+          "cotthosp_sb",
+          "dlvnmiss_sb",
+          "chapfigu_sb",
+          "anacanap_sb",
+          "anacguer_sb",
+          "halegard_sb",
+          "cabpvall_sb",
+          "carpmapl_sb",
+          "cityhall",
+          "realmark_sb",
+          "wmainpek_sb",
+          "vntdtown_sb",
+          "pacvmall_sb",
+          "cgovcent_sb",
+          "rivrpark_sb",
+          "esplmall_sb"
+        ]
+      }
+    },
+    "eastco": {
+      "title": "East County",
+      "color": "996699",
+      "tag": "eastco",
+      "shortTitle": "East Co",
+      "oppositeColor": "000000",
+      "max": [
+        34.3021601,
+        -118.7363099
+      ],
+      "min": [
+        34.1538399,
+        -118.92987
+      ],
+      "stops": {
+        "Northbound": [
+          "hillranc_nb",
+          "coneinpk_nb",
+          "corpcent_nb",
+          "amgnhill_nb",
+          "oaksmall_d",
+          "toaktran_nb",
+          "westtown_nb",
+          "toaklibr_nb",
+          "highmets_nb",
+          "prinamhe_nb",
+          "moorcoll_nb",
+          "farminsu_nb",
+          "simitown_a"
+        ],
+        "Southbound": [
+          "simitown_d",
+          "farminsu_sb",
+          "moorcoll_sb",
+          "prinamhe_sb",
+          "highmets_sb",
+          "toaklibr_sb",
+          "toaktran_sb",
+          "oaksmall_sb",
+          "amgnhill_sb",
+          "hillranc_sb",
+          "coneinpk_sb",
+          "corpcent_sb"
+        ]
+      }
+    },
+    "csucam": {
+      "title": "CSUCI Camarillo",
+      "color": "3399ff",
+      "tag": "csucam",
+      "oppositeColor": "000000",
+      "max": [
+        34.2163551,
+        -119.0338139
+      ],
+      "min": [
+        34.1652762,
+        -119.0447869
+      ],
+      "stops": {
+        "To_Camarillo Metrolink Station": [
+          "csucic",
+          "calleg"
+        ],
+        "To_CSUCI": [
+          "cammet"
+        ]
+      }
+    },
+    "csuox": {
+      "title": "CSUCI Oxnard",
+      "color": "990066",
+      "tag": "csuox",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.1751798,
+        -119.044087
+      ],
+      "min": [
+        34.16179,
+        -119.1811299
+      ],
+      "stops": {
+        "To_CSUCI": [
+          "cstterm",
+          "oxcoll"
+        ],
+        "To_C St Terminal": [
+          "csucic",
+          "oxcoll_eb"
+        ]
+      }
+    },
+    "csuoxcam": {
+      "title": "CSUCI Oxnard-Camarillo",
+      "color": "cd9b1d",
+      "tag": "csuoxcam",
+      "shortTitle": "CSUCI Ox-Cam",
+      "oppositeColor": "000000",
+      "max": [
+        34.22096,
+        -119.0338092
+      ],
+      "min": [
+        34.1652779,
+        -119.181258
+      ],
+      "stops": {
+        "To_Oxnard": [
+          "csucic",
+          "calleg",
+          "camametr_ib",
+          "carmplaz_ib",
+          "camafood",
+          "oxnatran_ib",
+          "cst9th_ib",
+          "csttran_a"
+        ],
+        "To_CSUCI": [
+          "csttran",
+          "cst9th",
+          "oxnatran",
+          "camaprom",
+          "camacour",
+          "carmplaz",
+          "camametr_a",
+          "camametr"
+        ]
+      }
+    },
+    "ewconn": {
+      "title": "East-West Connector",
+      "color": "000000",
+      "tag": "ewconn",
+      "shortTitle": "East-West Conn",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.3021601,
+        -118.6950168
+      ],
+      "min": [
+        34.215974,
+        -119.2499241
+      ],
+      "stops": {
+        "Westbound": [
+          "simimetr_d",
+          "simicivc_wb",
+          "cochgale_wb",
+          "simitown_wb",
+          "moorcoll_wb",
+          "moormetl_wb",
+          "cammetrl_wb",
+          "esplmall_wb",
+          "ventcgov_wb",
+          "ventcoll_wb",
+          "venttran_a"
+        ],
+        "Eastbound": [
+          "venttran_d",
+          "ventcoll_eb",
+          "ventcgov_eb",
+          "esplmall_eb",
+          "cammetrl_eb",
+          "moormetl_eb",
+          "moorcoll_eb",
+          "simitown_eb",
+          "cochgale_eb",
+          "simicivc_eb"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Ventura Intercity (VCTC) 2018."
+}

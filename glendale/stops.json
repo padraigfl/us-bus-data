@@ -1,0 +1,2920 @@
+{
+  "data": {
+    "GTC_d": {
+      "lon": "-118.2587789",
+      "title": "Glendale Transportation Center",
+      "stopId": "0133",
+      "tag": "GTC_d",
+      "lat": "34.124434"
+    },
+    "CenLau_n": {
+      "lon": "-118.25774",
+      "title": "Central At Laurel",
+      "shortTitle": "Central @ Laurel",
+      "stopId": "0131",
+      "tag": "CenLau_n",
+      "lat": "34.1278203"
+    },
+    "CenLos": {
+      "lon": "-118.25774",
+      "title": "Central At Los Feliz",
+      "shortTitle": "Central @ Los Feliz",
+      "stopId": "0121",
+      "tag": "CenLos",
+      "lat": "34.1289356"
+    },
+    "CenMag": {
+      "lon": "-118.25775",
+      "title": "Central At Magnolia",
+      "shortTitle": "Central @ Magnolia",
+      "stopId": "0122",
+      "tag": "CenMag",
+      "lat": "34.1315826"
+    },
+    "CenChe": {
+      "lon": "-118.25776",
+      "title": "Central At Chevy Chase",
+      "shortTitle": "Central @ Chevy Chase",
+      "stopId": "0116",
+      "tag": "CenChe",
+      "lat": "34.1336999"
+    },
+    "CenWin": {
+      "lon": "-118.2577871",
+      "title": "Central At Windsor",
+      "shortTitle": "Central @ Windsor",
+      "stopId": "0125",
+      "tag": "CenWin",
+      "lat": "34.1368943"
+    },
+    "CenLom": {
+      "lon": "-118.25781",
+      "title": "Central At Lomita",
+      "shortTitle": "Central @ Lomita",
+      "stopId": "0120",
+      "tag": "CenLom",
+      "lat": "34.1399242"
+    },
+    "CenCol": {
+      "lon": "-118.25782",
+      "title": "Central At Colorado",
+      "shortTitle": "Central @ Colorado",
+      "stopId": "0117",
+      "tag": "CenCol",
+      "lat": "34.1429293"
+    },
+    "CenHar": {
+      "lon": "-118.2578201",
+      "title": "Central At Americana",
+      "shortTitle": "Central @ Americana",
+      "stopId": "0113",
+      "tag": "CenHar",
+      "lat": "34.1446556"
+    },
+    "CenBro": {
+      "lon": "-118.25784",
+      "title": "Central At Broadway",
+      "shortTitle": "Central @ Broadway",
+      "stopId": "0130",
+      "tag": "CenBro",
+      "lat": "34.1466474"
+    },
+    "CenCal": {
+      "lon": "-118.2578603",
+      "title": "Central At California",
+      "shortTitle": "Central @ California",
+      "stopId": "0115",
+      "tag": "CenCal",
+      "lat": "34.1500909"
+    },
+    "CenMil": {
+      "lon": "-118.25788",
+      "title": "Central At Milford",
+      "shortTitle": "Central @ Milford",
+      "stopId": "0123",
+      "tag": "CenMil",
+      "lat": "34.1532083"
+    },
+    "CenDor": {
+      "lon": "-118.25789",
+      "title": "Central At Doran",
+      "shortTitle": "Central @ Doran",
+      "stopId": "0118",
+      "tag": "CenDor",
+      "lat": "34.15494"
+    },
+    "CenArd": {
+      "lon": "-118.25791",
+      "title": "Central At Arden",
+      "shortTitle": "Central @ Arden",
+      "stopId": "0114",
+      "tag": "CenArd",
+      "lat": "34.15826"
+    },
+    "CenGle": {
+      "lon": "-118.2574324",
+      "title": "Central At Glenoaks",
+      "shortTitle": "Central @ Glenoaks",
+      "stopId": "0126",
+      "tag": "CenGle",
+      "lat": "34.1596972"
+    },
+    "CenDry": {
+      "lon": "-118.2568508",
+      "title": "Central At Dryden",
+      "shortTitle": "Central @ Dryden",
+      "stopId": "0119",
+      "tag": "CenDry",
+      "lat": "34.1616423"
+    },
+    "CenSto": {
+      "lon": "-118.2568201",
+      "title": "Central At Stocker",
+      "shortTitle": "Central @ Stocker",
+      "stopId": "0124",
+      "tag": "CenSto",
+      "lat": "34.1635276"
+    },
+    "StoBra": {
+      "lon": "-118.2553908",
+      "title": "Stocker At Brand",
+      "shortTitle": "Stocker @ Brand",
+      "stopId": "0135",
+      "tag": "StoBra",
+      "lat": "34.16364"
+    },
+    "BraDry": {
+      "lon": "-118.2551896",
+      "title": "Brand At Dryden",
+      "shortTitle": "Brand @ Dryden",
+      "stopId": "0134",
+      "tag": "BraDry",
+      "lat": "34.1612788"
+    },
+    "BraGle": {
+      "lon": "-118.25516",
+      "title": "Brand At Glenoaks",
+      "shortTitle": "Brand @ Glenoaks",
+      "stopId": "0105",
+      "tag": "BraGle",
+      "lat": "34.1588342"
+    },
+    "BraMon": {
+      "lon": "-118.25518",
+      "title": "Brand At Monterey",
+      "shortTitle": "Brand @ Monterey",
+      "stopId": "0111",
+      "tag": "BraMon",
+      "lat": "34.1572525"
+    },
+    "BraDor": {
+      "lon": "-118.25515",
+      "title": "Brand At Doran",
+      "shortTitle": "Brand @ Doran",
+      "stopId": "0128",
+      "tag": "BraDor",
+      "lat": "34.1545565"
+    },
+    "BraMil": {
+      "lon": "-118.25512",
+      "title": "Brand At Milford",
+      "shortTitle": "Brand @ Milford",
+      "stopId": "0110",
+      "tag": "BraMil",
+      "lat": "34.1528308"
+    },
+    "BraLex": {
+      "lon": "-118.25512",
+      "title": "Brand At Lexington",
+      "shortTitle": "Brand @ Lexington",
+      "stopId": "0129",
+      "tag": "BraLex",
+      "lat": "34.1514272"
+    },
+    "BraCal": {
+      "lon": "-118.2550999",
+      "title": "Brand At California",
+      "shortTitle": "Brand @ California",
+      "stopId": "0102",
+      "tag": "BraCal",
+      "lat": "34.1497084"
+    },
+    "BraWil": {
+      "lon": "-118.25509",
+      "title": "Brand At Wilson",
+      "shortTitle": "Brand @ Wilson",
+      "stopId": "0112",
+      "tag": "BraWil",
+      "lat": "34.1477875"
+    },
+    "BraBro": {
+      "lon": "-118.25509",
+      "title": "Brand At Broadway",
+      "shortTitle": "Brand @ Broadway",
+      "stopId": "0101",
+      "tag": "BraBro",
+      "lat": "34.1460245"
+    },
+    "BraCol": {
+      "lon": "-118.2550714",
+      "title": "Brand At Colorado",
+      "shortTitle": "Brand @ Colorado",
+      "stopId": "0127",
+      "tag": "BraCol",
+      "lat": "34.1421754"
+    },
+    "BraLom": {
+      "lon": "-118.2550699",
+      "title": "Brand At Lomita",
+      "shortTitle": "Brand @ Lomita",
+      "stopId": "0106",
+      "tag": "BraLom",
+      "lat": "34.1403396"
+    },
+    "BraMap": {
+      "lon": "-118.25504",
+      "title": "Brand At Maple",
+      "shortTitle": "Brand @ Maple",
+      "stopId": "0109",
+      "tag": "BraMap",
+      "lat": "34.1385392"
+    },
+    "BraGarf": {
+      "lon": "-118.2550498",
+      "title": "Brand At Garfield",
+      "shortTitle": "Brand @ Garfield",
+      "stopId": "0104",
+      "tag": "BraGarf",
+      "lat": "34.1355541"
+    },
+    "BraChe": {
+      "lon": "-118.255",
+      "title": "Brand At Chevy Chase",
+      "shortTitle": "Brand @ Chevy Chase",
+      "stopId": "0103",
+      "tag": "BraChe",
+      "lat": "34.13324"
+    },
+    "BraMag": {
+      "lon": "-118.2550098",
+      "title": "Brand At Magnolia",
+      "shortTitle": "Brand @ Magnolia",
+      "stopId": "0108",
+      "tag": "BraMag",
+      "lat": "34.1311375"
+    },
+    "BraLos": {
+      "lon": "-118.2550193",
+      "title": "Brand At Los Feliz",
+      "shortTitle": "Brand @ Los Feliz",
+      "stopId": "0107",
+      "tag": "BraLos",
+      "lat": "34.128831"
+    },
+    "CenLau": {
+      "lon": "-118.25788",
+      "title": "Central At Laurel",
+      "shortTitle": "Central @ Laurel",
+      "stopId": "0132",
+      "tag": "CenLau",
+      "lat": "34.1276153"
+    },
+    "BraHar": {
+      "lon": "-118.2549299",
+      "title": "Brand At Harvard",
+      "shortTitle": "Brand @ Harvard",
+      "stopId": "0160",
+      "tag": "BraHar",
+      "lat": "34.1446784"
+    },
+    "BraFai": {
+      "lon": "-118.25497",
+      "title": "Brand At Fairview",
+      "shortTitle": "Brand @ Fairview",
+      "stopId": "0165",
+      "tag": "BraFai",
+      "lat": "34.1604155"
+    },
+    "CenLex": {
+      "lon": "-118.2579899",
+      "title": "Central At Lexington",
+      "shortTitle": "Central @ Lexington",
+      "stopId": "0150",
+      "tag": "CenLex",
+      "lat": "34.1515138"
+    },
+    "harlou_d": {
+      "lon": "-118.2534033",
+      "title": "Harvard at Louise",
+      "shortTitle": "Harvard @ Louise",
+      "stopId": "0266",
+      "tag": "harlou_d",
+      "lat": "34.1444775"
+    },
+    "BraBro_d": {
+      "lon": "-118.2549294",
+      "title": "Brand At Harvard",
+      "shortTitle": "Brand @ Harvard",
+      "stopId": "0160",
+      "tag": "BraBro_d",
+      "lat": "34.1446781"
+    },
+    "brobra": {
+      "lon": "-118.254405",
+      "title": "Broadway at Brand",
+      "shortTitle": "Broadway @ Brand",
+      "stopId": "0167",
+      "tag": "brobra",
+      "lat": "34.1462155"
+    },
+    "brolou": {
+      "lon": "-118.2524615",
+      "title": "Broadway at Louise",
+      "shortTitle": "Broadway @ Louise",
+      "stopId": "0170",
+      "tag": "brolou",
+      "lat": "34.1462503"
+    },
+    "brojac_n": {
+      "lon": "-118.2499219",
+      "title": "Broadway at Jackson",
+      "shortTitle": "Broadway @ Jackson",
+      "stopId": "0168",
+      "tag": "brojac_n",
+      "lat": "34.1462902"
+    },
+    "glebro_n": {
+      "lon": "-118.2469743",
+      "title": "Glendale at Broadway",
+      "shortTitle": "Glendale @ Broadway",
+      "stopId": "0205",
+      "tag": "glebro_n",
+      "lat": "34.146604"
+    },
+    "glewil_n": {
+      "lon": "-118.2462224",
+      "title": "Glendale at Wilson",
+      "shortTitle": "Glendale @ Wilson",
+      "stopId": "0213",
+      "tag": "glewil_n",
+      "lat": "34.1484804"
+    },
+    "glecal_n": {
+      "lon": "-118.2456916",
+      "title": "Glendale at California",
+      "shortTitle": "Glendale @ California",
+      "stopId": "0207",
+      "tag": "glecal_n",
+      "lat": "34.1498103"
+    },
+    "glelex_n": {
+      "lon": "-118.2445568",
+      "title": "Glendale at Lexington",
+      "shortTitle": "Glendale @ Lexington",
+      "stopId": "0210",
+      "tag": "glelex_n",
+      "lat": "34.1520297"
+    },
+    "gledor_n": {
+      "lon": "-118.2429628",
+      "title": "Glendale at Doran",
+      "shortTitle": "Glendale @ Doran",
+      "stopId": "0208",
+      "tag": "gledor_n",
+      "lat": "34.1544804"
+    },
+    "glemon_n": {
+      "lon": "-118.2416903",
+      "title": "Glendale at Monterey",
+      "shortTitle": "Glendale @ Monterey",
+      "stopId": "0269",
+      "tag": "glemon_n",
+      "lat": "34.1563395"
+    },
+    "glegle_n": {
+      "lon": "-118.2396511",
+      "title": "Glendale at Glenoaks",
+      "shortTitle": "Glendale @ Glenoaks",
+      "stopId": "0267",
+      "tag": "glegle_n",
+      "lat": "34.1589483"
+    },
+    "glever_n": {
+      "lon": "-118.236648",
+      "title": "Glendale at Verdugo",
+      "shortTitle": "Glendale @ Verdugo",
+      "stopId": "0270",
+      "tag": "glever_n",
+      "lat": "34.1610335"
+    },
+    "vercal": {
+      "lon": "-118.2331237",
+      "title": "Verdugo at Calle Vaquero",
+      "shortTitle": "Verdugo @ Calle Vaquero",
+      "stopId": "0273",
+      "tag": "vercal",
+      "lat": "34.1638058"
+    },
+    "gcc": {
+      "lon": "-118.2303234",
+      "title": "Verdugo at Civic Aud. / GCC",
+      "shortTitle": "Verdugo @ Civic Aud. / GCC",
+      "stopId": "0274",
+      "tag": "gcc",
+      "lat": "34.1668363"
+    },
+    "verver": {
+      "lon": "-118.2272779",
+      "title": "Verdugo at Verdugo Loma",
+      "shortTitle": "Verdugo @ Verdugo Loma",
+      "stopId": "0253",
+      "tag": "verver",
+      "lat": "34.1701148"
+    },
+    "verkir_n": {
+      "lon": "-118.2268703",
+      "title": "Verdugo at Kirkby",
+      "shortTitle": "Verdugo @ Kirkby",
+      "stopId": "0248",
+      "tag": "verkir_n",
+      "lat": "34.1714888"
+    },
+    "vercre_n": {
+      "lon": "-118.2261493",
+      "title": "Verdugo at Crestmont",
+      "shortTitle": "Verdugo @ Crestmont",
+      "stopId": "0238",
+      "tag": "vercre_n",
+      "lat": "34.1740624"
+    },
+    "verbar": {
+      "lon": "-118.2258106",
+      "title": "Verdugo at Bara",
+      "shortTitle": "Verdugo @ Bara",
+      "stopId": "0237",
+      "tag": "verbar",
+      "lat": "34.1799555"
+    },
+    "verfer_n": {
+      "lon": "-118.2257131",
+      "title": "Verdugo at Fern",
+      "shortTitle": "Verdugo @ Fern",
+      "stopId": "0241",
+      "tag": "verfer_n",
+      "lat": "34.1822546"
+    },
+    "verglo_n": {
+      "lon": "-118.2256838",
+      "title": "Verdugo at Glorietta",
+      "shortTitle": "Verdugo @ Glorietta",
+      "stopId": "0245",
+      "tag": "verglo_n",
+      "lat": "34.1873723"
+    },
+    "veralp": {
+      "lon": "-118.226413",
+      "title": "Verdugo at Alpha",
+      "shortTitle": "Verdugo @ Alpha",
+      "stopId": "0235",
+      "tag": "veralp",
+      "lat": "34.1889054"
+    },
+    "verbag": {
+      "lon": "-118.2281419",
+      "title": "Verdugo at Bagdad",
+      "shortTitle": "Verdugo @ Bagdad",
+      "stopId": "0236",
+      "tag": "verbag",
+      "lat": "34.1934337"
+    },
+    "vergle_n": {
+      "lon": "-118.2291492",
+      "title": "Verdugo at Glencoe",
+      "shortTitle": "Verdugo @ Glencoe",
+      "stopId": "0243",
+      "tag": "vergle_n",
+      "lat": "34.1982132"
+    },
+    "verelc": {
+      "lon": "-118.2277401",
+      "title": "Verdugo at El Cino",
+      "shortTitle": "Verdugo @ El Cino",
+      "stopId": "0240",
+      "tag": "verelc",
+      "lat": "34.2011198"
+    },
+    "versun_n": {
+      "lon": "-118.2268481",
+      "title": "Verdugo at Sunview",
+      "shortTitle": "Verdugo @ Sunview",
+      "stopId": "0251",
+      "tag": "versun_n",
+      "lat": "34.2024526"
+    },
+    "honoview": {
+      "lon": "-118.2264967",
+      "title": "Honolulu & opp. Market",
+      "stopId": "0218",
+      "tag": "honoview",
+      "lat": "34.2053093"
+    },
+    "honora": {
+      "lon": "-118.2320634",
+      "title": "Honolulu at Orangedale",
+      "shortTitle": "Honolulu @ Orangedale",
+      "stopId": "0220",
+      "tag": "honora",
+      "lat": "34.2070012"
+    },
+    "honros_n": {
+      "lon": "-118.2355683",
+      "title": "Honolulu at Rosemont",
+      "shortTitle": "Honolulu @ Rosemont",
+      "stopId": "0222",
+      "tag": "honros_n",
+      "lat": "34.2087806"
+    },
+    "honlac_n": {
+      "lon": "-118.2398002",
+      "title": "Honolulu at La Crescenta",
+      "shortTitle": "Honolulu @ La Crescenta",
+      "stopId": "0216",
+      "tag": "honlac_n",
+      "lat": "34.2114208"
+    },
+    "lacpie_n": {
+      "lon": "-118.2398899",
+      "title": "La Crescenta at Piedmont",
+      "shortTitle": "La Crescenta @ Piedmont",
+      "stopId": "0229",
+      "tag": "lacpie_n",
+      "lat": "34.2137044"
+    },
+    "lacmon_n": {
+      "lon": "-118.23987",
+      "title": "La Crescenta at Montrose",
+      "shortTitle": "La Crescenta @ Montrose",
+      "stopId": "0227",
+      "tag": "lacmon_n",
+      "lat": "34.215657"
+    },
+    "lacalt_n": {
+      "lon": "-118.2398782",
+      "title": "La Crescenta at Altura",
+      "shortTitle": "La Crescenta @ Altura",
+      "stopId": "0223",
+      "tag": "lacalt_n",
+      "lat": "34.2197747"
+    },
+    "lacpro_n": {
+      "lon": "-118.2398792",
+      "title": "La Crescenta at Prospect",
+      "shortTitle": "La Crescenta @ Prospect",
+      "stopId": "0231",
+      "tag": "lacpro_n",
+      "lat": "34.2210971"
+    },
+    "lacmar_n": {
+      "lon": "-118.2398804",
+      "title": "La Crescenta at Mary",
+      "shortTitle": "La Crescenta @ Mary",
+      "stopId": "0225",
+      "tag": "lacmar_n",
+      "lat": "34.2237268"
+    },
+    "fooray_n": {
+      "lon": "-118.2373882",
+      "title": "Foothill at Raymond",
+      "shortTitle": "Foothill @ Raymond",
+      "stopId": "0200",
+      "tag": "fooray_n",
+      "lat": "34.2224189"
+    },
+    "fooros_n": {
+      "lon": "-118.2349159",
+      "title": "Foothill at Rosemont",
+      "shortTitle": "Foothill @ Rosemont",
+      "stopId": "0202",
+      "tag": "fooros_n",
+      "lat": "34.2209375"
+    },
+    "foobri_n": {
+      "lon": "-118.2317191",
+      "title": "Foothill at Briggs",
+      "shortTitle": "Foothill @ Briggs",
+      "stopId": "0174",
+      "tag": "foobri_n",
+      "lat": "34.2190633"
+    },
+    "foooce_n": {
+      "lon": "-118.2273755",
+      "title": "Foothill at Ocean View",
+      "shortTitle": "Foothill @ Ocean View",
+      "stopId": "0196",
+      "tag": "foooce_n",
+      "lat": "34.2170044"
+    },
+    "foocas_n": {
+      "lon": "-118.2241111",
+      "title": "Foothill at Castle",
+      "shortTitle": "Foothill @ Castle",
+      "stopId": "0191",
+      "tag": "foocas_n",
+      "lat": "34.2155546"
+    },
+    "foopal_n": {
+      "lon": "-118.2177476",
+      "title": "Foothill at Palm",
+      "shortTitle": "Foothill @ Palm",
+      "stopId": "0198",
+      "tag": "foopal_n",
+      "lat": "34.2125687"
+    },
+    "foohila_n": {
+      "lon": "-118.2151748",
+      "title": "Foothill at Hillard",
+      "shortTitle": "Foothill @ Hillard",
+      "stopId": "0187",
+      "tag": "foohila_n",
+      "lat": "34.2112578"
+    },
+    "fooalt_n": {
+      "lon": "-118.2116821",
+      "title": "Foothill at Alta Canyada",
+      "shortTitle": "Foothill @ Alta Canyada",
+      "stopId": "0171",
+      "tag": "fooalt_n",
+      "lat": "34.209641"
+    },
+    "foolas": {
+      "lon": "-118.2069686",
+      "title": "Foothill at Lasheart",
+      "shortTitle": "Foothill @ Lasheart",
+      "stopId": "0193",
+      "tag": "foolas",
+      "lat": "34.2074694"
+    },
+    "foocor_n": {
+      "lon": "-118.20333",
+      "title": "Foothill at Cornishon",
+      "shortTitle": "Foothill @ Cornishon",
+      "stopId": "0180",
+      "tag": "foocor_n",
+      "lat": "34.20581"
+    },
+    "fooche_n": {
+      "lon": "-118.2011736",
+      "title": "Foothill at Chevy Chase",
+      "shortTitle": "Foothill @ Chevy Chase",
+      "stopId": "0176",
+      "tag": "fooche_n",
+      "lat": "34.2047969"
+    },
+    "foobeu": {
+      "lon": "-118.1983237",
+      "title": "Foothill at Beulah",
+      "shortTitle": "Foothill @ Beulah",
+      "stopId": "0173",
+      "tag": "foobeu",
+      "lat": "34.2034773"
+    },
+    "foocom_n": {
+      "lon": "-118.1954603",
+      "title": "Foothill at Commonwealth",
+      "shortTitle": "Foothill @ Commonwealth",
+      "stopId": "0178",
+      "tag": "foocom_n",
+      "lat": "34.2021851"
+    },
+    "foooak_n": {
+      "lon": "-118.1933121",
+      "title": "Foothill at Oakwood",
+      "shortTitle": "Foothill @ Oakwood",
+      "stopId": "0194",
+      "tag": "foooak_n",
+      "lat": "34.201191"
+    },
+    "foogou_n": {
+      "lon": "-118.1887235",
+      "title": "Foothill at Gould",
+      "shortTitle": "Foothill @ Gould",
+      "stopId": "0184",
+      "tag": "foogou_n",
+      "lat": "34.199117"
+    },
+    "foocro_n": {
+      "lon": "-118.1839329",
+      "title": "Foothill at Crown",
+      "shortTitle": "Foothill @ Crown",
+      "stopId": "0182",
+      "tag": "foocro_n",
+      "lat": "34.1969614"
+    },
+    "oakfoo_n": {
+      "lon": "-118.1776677",
+      "title": "Oak Grove at Foothill",
+      "shortTitle": "Oak Grove @ Foothill",
+      "stopId": "0262",
+      "tag": "oakfoo_n",
+      "lat": "34.194325"
+    },
+    "jpl_d": {
+      "lon": "-118.175339",
+      "title": "Jet Propulsion Laboratory",
+      "stopId": "0234",
+      "tag": "jpl_d",
+      "lat": "34.197821"
+    },
+    "oakfoo": {
+      "lon": "-118.1776766",
+      "title": "Oak Grove at Foothill",
+      "shortTitle": "Oak Grove @ Foothill",
+      "stopId": "0233",
+      "tag": "oakfoo",
+      "lat": "34.1946452"
+    },
+    "foocro": {
+      "lon": "-118.1841081",
+      "title": "Foothill at Crown",
+      "shortTitle": "Foothill @ Crown",
+      "stopId": "0183",
+      "tag": "foocro",
+      "lat": "34.1971692"
+    },
+    "foovin": {
+      "lon": "-118.187822",
+      "title": "Foothill at Vineta",
+      "shortTitle": "Foothill @ Vineta",
+      "stopId": "0204",
+      "tag": "foovin",
+      "lat": "34.1988861"
+    },
+    "foogou": {
+      "lon": "-118.1895992",
+      "title": "Foothill at Gould",
+      "shortTitle": "Foothill @ Gould",
+      "stopId": "0185",
+      "tag": "foogou",
+      "lat": "34.1997096"
+    },
+    "foorin": {
+      "lon": "-118.1918398",
+      "title": "Foothill at Rinetti",
+      "shortTitle": "Foothill @ Rinetti",
+      "stopId": "0259",
+      "tag": "foorin",
+      "lat": "34.2007279"
+    },
+    "foooak": {
+      "lon": "-118.1938406",
+      "title": "Foothill at Oakwood",
+      "shortTitle": "Foothill @ Oakwood",
+      "stopId": "0195",
+      "tag": "foooak",
+      "lat": "34.2016156"
+    },
+    "foocom": {
+      "lon": "-118.1960993",
+      "title": "Foothill at Commonwealth",
+      "shortTitle": "Foothill @ Commonwealth",
+      "stopId": "0179",
+      "tag": "foocom",
+      "lat": "34.2026351"
+    },
+    "fooche": {
+      "lon": "-118.1999403",
+      "title": "Foothill at Chevy Chase",
+      "shortTitle": "Foothill @ Chevy Chase",
+      "stopId": "0177",
+      "tag": "fooche",
+      "lat": "34.2044013"
+    },
+    "foohil": {
+      "lon": "-118.2022941",
+      "title": "Foothill at Hill",
+      "shortTitle": "Foothill @ Hill",
+      "stopId": "0186",
+      "tag": "foohil",
+      "lat": "34.2054924"
+    },
+    "foocor": {
+      "lon": "-118.2033969",
+      "title": "Foothill at Cornishon",
+      "shortTitle": "Foothill @ Cornishon",
+      "stopId": "0181",
+      "tag": "foocor",
+      "lat": "34.2060085"
+    },
+    "foolac": {
+      "lon": "-118.2049039",
+      "title": "Foothill at La Canada",
+      "shortTitle": "Foothill @ La Canada",
+      "stopId": "0190",
+      "tag": "foolac",
+      "lat": "34.206707"
+    },
+    "fooind": {
+      "lon": "-118.2100107",
+      "title": "Foothill at Indiana",
+      "shortTitle": "Foothill @ Indiana",
+      "stopId": "0189",
+      "tag": "fooind",
+      "lat": "34.2090251"
+    },
+    "fooalt": {
+      "lon": "-118.2109812",
+      "title": "Foothill at Alta Canyada",
+      "shortTitle": "Foothill @ Alta Canyada",
+      "stopId": "0172",
+      "tag": "fooalt",
+      "lat": "34.2094924"
+    },
+    "foohila": {
+      "lon": "-118.2151288",
+      "title": "Foothill at Hillard",
+      "shortTitle": "Foothill @ Hillard",
+      "stopId": "0188",
+      "tag": "foohila",
+      "lat": "34.2113902"
+    },
+    "foopal": {
+      "lon": "-118.2178681",
+      "title": "Foothill at Palm",
+      "shortTitle": "Foothill @ Palm",
+      "stopId": "0199",
+      "tag": "foopal",
+      "lat": "34.2128566"
+    },
+    "foocas": {
+      "lon": "-118.224228",
+      "title": "Foothill at Castle",
+      "shortTitle": "Foothill @ Castle",
+      "stopId": "0192",
+      "tag": "foocas",
+      "lat": "34.2157892"
+    },
+    "foooce": {
+      "lon": "-118.2280549",
+      "title": "Foothill at Ocean View",
+      "shortTitle": "Foothill @ Ocean View",
+      "stopId": "0197",
+      "tag": "foooce",
+      "lat": "34.2174923"
+    },
+    "foobri": {
+      "lon": "-118.2316629",
+      "title": "Foothill at Briggs",
+      "shortTitle": "Foothill @ Briggs",
+      "stopId": "0175",
+      "tag": "foobri",
+      "lat": "34.2192458"
+    },
+    "fooros": {
+      "lon": "-118.2356236",
+      "title": "Foothill at Rosemont",
+      "shortTitle": "Foothill @ Rosemont",
+      "stopId": "0203",
+      "tag": "fooros",
+      "lat": "34.2215761"
+    },
+    "fooray": {
+      "lon": "-118.2373805",
+      "title": "Foothill at Raymond",
+      "shortTitle": "Foothill @ Raymond",
+      "stopId": "0201",
+      "tag": "fooray",
+      "lat": "34.2226343"
+    },
+    "lacmar": {
+      "lon": "-118.2400115",
+      "title": "La Crescenta at Mary",
+      "shortTitle": "La Crescenta @ Mary",
+      "stopId": "0226",
+      "tag": "lacmar",
+      "lat": "34.2238091"
+    },
+    "lacpro": {
+      "lon": "-118.24",
+      "title": "La Crescenta at Prospect",
+      "shortTitle": "La Crescenta @ Prospect",
+      "stopId": "0232",
+      "tag": "lacpro",
+      "lat": "34.2216884"
+    },
+    "lacalt": {
+      "lon": "-118.24001",
+      "title": "La Crescenta at Altura",
+      "shortTitle": "La Crescenta @ Altura",
+      "stopId": "0224",
+      "tag": "lacalt",
+      "lat": "34.2195374"
+    },
+    "lacmon": {
+      "lon": "-118.24004",
+      "title": "La Crescenta at Montrose",
+      "shortTitle": "La Crescenta @ Montrose",
+      "stopId": "0228",
+      "tag": "lacmon",
+      "lat": "34.2162673"
+    },
+    "lacpie": {
+      "lon": "-118.24005",
+      "title": "La Crescenta at Piedmont",
+      "shortTitle": "La Crescenta @ Piedmont",
+      "stopId": "0230",
+      "tag": "lacpie",
+      "lat": "34.2140183"
+    },
+    "honlac": {
+      "lon": "-118.23968",
+      "title": "Honolulu at La Crescenta",
+      "shortTitle": "Honolulu @ La Crescenta",
+      "stopId": "0215",
+      "tag": "honlac",
+      "lat": "34.21118"
+    },
+    "honros": {
+      "lon": "-118.2349915",
+      "title": "Honolulu at Rosemont",
+      "shortTitle": "Honolulu @ Rosemont",
+      "stopId": "0221",
+      "tag": "honros",
+      "lat": "34.2082829"
+    },
+    "honlas": {
+      "lon": "-118.2321077",
+      "title": "Honolulu at Las Palmas",
+      "shortTitle": "Honolulu @ Las Palmas",
+      "stopId": "0217",
+      "tag": "honlas",
+      "lat": "34.2069291"
+    },
+    "honoce": {
+      "lon": "-118.2284818",
+      "title": "Honolulu at Ocean View",
+      "shortTitle": "Honolulu @ Ocean View",
+      "stopId": "0219",
+      "tag": "honoce",
+      "lat": "34.2056106"
+    },
+    "verhon": {
+      "lon": "-118.2254743",
+      "title": "Verdugo at Honolulu",
+      "shortTitle": "Verdugo @ Honolulu",
+      "stopId": "0247",
+      "tag": "verhon",
+      "lat": "34.2048323"
+    },
+    "versun": {
+      "lon": "-118.2268796",
+      "title": "Verdugo at Sunview",
+      "shortTitle": "Verdugo @ Sunview",
+      "stopId": "0252",
+      "tag": "versun",
+      "lat": "34.2027005"
+    },
+    "veroce": {
+      "lon": "-118.2279022",
+      "title": "Verdugo at Oceanview",
+      "shortTitle": "Verdugo @ Oceanview",
+      "stopId": "0250",
+      "tag": "veroce",
+      "lat": "34.2011867"
+    },
+    "vergle": {
+      "lon": "-118.2293419",
+      "title": "Verdugo at Glencoe",
+      "shortTitle": "Verdugo @ Glencoe",
+      "stopId": "0244",
+      "tag": "vergle",
+      "lat": "34.1984323"
+    },
+    "veroak": {
+      "lon": "-118.2266958",
+      "title": "Verdugo at Oakwood",
+      "shortTitle": "Verdugo @ Oakwood",
+      "stopId": "0256",
+      "tag": "veroak",
+      "lat": "34.1890758"
+    },
+    "verglo": {
+      "lon": "-118.22576",
+      "title": "Verdugo at Glorietta",
+      "shortTitle": "Verdugo @ Glorietta",
+      "stopId": "0246",
+      "tag": "verglo",
+      "lat": "34.1875799"
+    },
+    "verfer": {
+      "lon": "-118.2258858",
+      "title": "Verdugo at Fern",
+      "shortTitle": "Verdugo @ Fern",
+      "stopId": "0242",
+      "tag": "verfer",
+      "lat": "34.1825143"
+    },
+    "verope": {
+      "lon": "-118.2259692",
+      "title": "Verdugo at Opechee",
+      "shortTitle": "Verdugo @ Opechee",
+      "stopId": "0255",
+      "tag": "verope",
+      "lat": "34.1803385"
+    },
+    "vercre": {
+      "lon": "-118.2261592",
+      "title": "Verdugo at Crestmont",
+      "shortTitle": "Verdugo @ Crestmont",
+      "stopId": "0239",
+      "tag": "vercre",
+      "lat": "34.1744346"
+    },
+    "verkir": {
+      "lon": "-118.2268723",
+      "title": "Verdugo at Kirkby",
+      "shortTitle": "Verdugo @ Kirkby",
+      "stopId": "0249",
+      "tag": "verkir",
+      "lat": "34.1717017"
+    },
+    "gcc_s": {
+      "lon": "-118.2289659",
+      "title": "Verdugo at Towne (GCC)",
+      "shortTitle": "Verdugo @ Towne (GCC)",
+      "stopId": "0275",
+      "tag": "gcc_s",
+      "lat": "34.168364"
+    },
+    "vermou": {
+      "lon": "-118.2324659",
+      "title": "Verdugo at Mountain",
+      "shortTitle": "Verdugo @ Mountain",
+      "stopId": "0272",
+      "tag": "vermou",
+      "lat": "34.164804"
+    },
+    "glever": {
+      "lon": "-118.2366076",
+      "title": "Glendale at Verdugo",
+      "shortTitle": "Glendale @ Verdugo",
+      "stopId": "0271",
+      "tag": "glever",
+      "lat": "34.1612249"
+    },
+    "glegle": {
+      "lon": "-118.2398592",
+      "title": "Glendale at Glenoaks",
+      "shortTitle": "Glendale @ Glenoaks",
+      "stopId": "0268",
+      "tag": "glegle",
+      "lat": "34.1590307"
+    },
+    "glemon": {
+      "lon": "-118.2421791",
+      "title": "Glendale at Monterey",
+      "shortTitle": "Glendale @ Monterey",
+      "stopId": "0212",
+      "tag": "glemon",
+      "lat": "34.1559715"
+    },
+    "gledor": {
+      "lon": "-118.2439216",
+      "title": "Glendale at Doran",
+      "shortTitle": "Glendale @ Doran",
+      "stopId": "0209",
+      "tag": "gledor",
+      "lat": "34.1532853"
+    },
+    "glelex": {
+      "lon": "-118.2450453",
+      "title": "Glendale at Lexington",
+      "shortTitle": "Glendale @ Lexington",
+      "stopId": "0211",
+      "tag": "glelex",
+      "lat": "34.1515472"
+    },
+    "glecal": {
+      "lon": "-118.245747",
+      "title": "Glendale at California",
+      "shortTitle": "Glendale @ California",
+      "stopId": "0443",
+      "tag": "glecal",
+      "lat": "34.1500975"
+    },
+    "glewil": {
+      "lon": "-118.2464789",
+      "title": "Glendale at Wilson",
+      "shortTitle": "Glendale @ Wilson",
+      "stopId": "0214",
+      "tag": "glewil",
+      "lat": "34.1482975"
+    },
+    "glebro": {
+      "lon": "-118.2471888",
+      "title": "Glendale at Broadway",
+      "shortTitle": "Glendale @ Broadway",
+      "stopId": "0206",
+      "tag": "glebro",
+      "lat": "34.1465273"
+    },
+    "brojac": {
+      "lon": "-118.2505638",
+      "title": "Broadway at Jackson",
+      "shortTitle": "Broadway @ Jackson",
+      "stopId": "0169",
+      "tag": "brojac",
+      "lat": "34.14638"
+    },
+    "harlou_a": {
+      "lon": "-118.2529312",
+      "title": "Harvard at Louise (Hidden Arrival)",
+      "shortTitle": "Harvard @ Louise (Hidden Arrival)",
+      "tag": "harlou_a",
+      "lat": "34.14448"
+    },
+    "montpenn_n": {
+      "lon": "-118.2482964",
+      "title": "Montrose at Pennsylvania",
+      "shortTitle": "Montrose @ Pennsylvania",
+      "stopId": "0254",
+      "tag": "montpenn_n",
+      "lat": "34.2210577"
+    },
+    "montram_n": {
+      "lon": "-118.2445339",
+      "title": "Montrose at Ramsdall",
+      "shortTitle": "Montrose @ Ramsdall",
+      "stopId": "0257",
+      "tag": "montram_n",
+      "lat": "34.2187162"
+    },
+    "lacmont": {
+      "lon": "-118.24005",
+      "title": "La Crescenta at Montrose",
+      "shortTitle": "La Crescenta @ Montrose",
+      "stopId": "0444",
+      "tag": "lacmont",
+      "lat": "34.2156511"
+    },
+    "gcc_d": {
+      "lon": "-118.2291311",
+      "title": "Glendale College - Canada",
+      "stopId": "0265",
+      "tag": "gcc_d",
+      "lat": "34.1687806"
+    },
+    "montwalt_e": {
+      "lon": "-118.2246192",
+      "title": "Montrose at Waltonia",
+      "shortTitle": "Montrose @ Waltonia",
+      "stopId": "0260",
+      "tag": "montwalt_e",
+      "lat": "34.2069227"
+    },
+    "montocn_e": {
+      "lon": "-118.2277504",
+      "title": "Montrose at Oceanview",
+      "shortTitle": "Montrose @ Oceanview",
+      "stopId": "0261",
+      "tag": "montocn_e",
+      "lat": "34.2093502"
+    },
+    "foocas_e": {
+      "lon": "-118.2241111",
+      "title": "Foothill at Castle",
+      "shortTitle": "Foothill @ Castle",
+      "stopId": "0191",
+      "tag": "foocas_e",
+      "lat": "34.2155546"
+    },
+    "foopal_e": {
+      "lon": "-118.2177476",
+      "title": "Foothill at Palm",
+      "shortTitle": "Foothill @ Palm",
+      "stopId": "0198",
+      "tag": "foopal_e",
+      "lat": "34.2125687"
+    },
+    "foohila_e": {
+      "lon": "-118.2151748",
+      "title": "Foothill at Hillard",
+      "shortTitle": "Foothill @ Hillard",
+      "stopId": "0187",
+      "tag": "foohila_e",
+      "lat": "34.2112578"
+    },
+    "fooalt_e": {
+      "lon": "-118.2116821",
+      "title": "Foothill at Alta Canyada",
+      "shortTitle": "Foothill @ Alta Canyada",
+      "stopId": "0171",
+      "tag": "fooalt_e",
+      "lat": "34.209641"
+    },
+    "foocor_e": {
+      "lon": "-118.20333",
+      "title": "Foothill at Cornishon",
+      "shortTitle": "Foothill @ Cornishon",
+      "stopId": "0180",
+      "tag": "foocor_e",
+      "lat": "34.20581"
+    },
+    "foocom_e": {
+      "lon": "-118.1954603",
+      "title": "Foothill at Commonwealth",
+      "shortTitle": "Foothill @ Commonwealth",
+      "stopId": "0178",
+      "tag": "foocom_e",
+      "lat": "34.2021851"
+    },
+    "foooak_e": {
+      "lon": "-118.1933121",
+      "title": "Foothill at Oakwood",
+      "shortTitle": "Foothill @ Oakwood",
+      "stopId": "0194",
+      "tag": "foooak_e",
+      "lat": "34.201191"
+    },
+    "foogou_e": {
+      "lon": "-118.1887235",
+      "title": "Foothill at Gould",
+      "shortTitle": "Foothill @ Gould",
+      "stopId": "0184",
+      "tag": "foogou_e",
+      "lat": "34.199117"
+    },
+    "foocro_e": {
+      "lon": "-118.1839329",
+      "title": "Foothill at Crown",
+      "shortTitle": "Foothill @ Crown",
+      "stopId": "0182",
+      "tag": "foocro_e",
+      "lat": "34.1969614"
+    },
+    "oakfoo_e": {
+      "lon": "-118.1776677",
+      "title": "Oak Grove at Foothill",
+      "shortTitle": "Oak Grove @ Foothill",
+      "stopId": "0262",
+      "tag": "oakfoo_e",
+      "lat": "34.194325"
+    },
+    "fooang": {
+      "lon": "-118.1999403",
+      "title": "Foothill at Angleles Crest",
+      "shortTitle": "Foothill @ Angleles Crest",
+      "stopId": "0177",
+      "tag": "fooang",
+      "lat": "34.2044013"
+    },
+    "foover": {
+      "lon": "-118.2049039",
+      "title": "Foothill at Verdugo",
+      "shortTitle": "Foothill @ Verdugo",
+      "stopId": "0190",
+      "tag": "foover",
+      "lat": "34.206707"
+    },
+    "ocanmont_w": {
+      "lon": "-118.2280394",
+      "title": "Oceanview at Montrose",
+      "shortTitle": "Oceanview @ Montrose",
+      "tag": "ocanmont_w",
+      "lat": "34.2094094"
+    },
+    "ocnhono_w": {
+      "lon": "-118.2280601",
+      "title": "Oceanview at Honolulu",
+      "shortTitle": "Oceanview @ Honolulu",
+      "stopId": "0263",
+      "tag": "ocnhono_w",
+      "lat": "34.2058037"
+    },
+    "verdhono_w": {
+      "lon": "-118.2253",
+      "title": "Verdugo at Honolulu",
+      "shortTitle": "Verdugo @ Honolulu",
+      "stopId": "0264",
+      "tag": "verdhono_w",
+      "lat": "34.2048299"
+    },
+    "lchs_w": {
+      "lon": "-118.1782798",
+      "title": "La Canada High School",
+      "stopId": "0258",
+      "tag": "lchs_w",
+      "lat": "34.1932905"
+    },
+    "foolcp": {
+      "lon": "-118.224228",
+      "title": "Foothill at La Canada Plaza",
+      "shortTitle": "Foothill @ La Canada Plaza",
+      "stopId": "0192",
+      "tag": "foolcp",
+      "lat": "34.2157892"
+    },
+    "chevbran_d": {
+      "lon": "-118.2544",
+      "title": "Chevy Chase At Brand",
+      "shortTitle": "Chevy Chase @ Brand",
+      "stopId": "0285",
+      "tag": "chevbran_d",
+      "lat": "34.1334599"
+    },
+    "chevglen": {
+      "lon": "-118.2521849",
+      "title": "Chevy Chase At Glendale",
+      "shortTitle": "Chevy Chase @ Glendale",
+      "stopId": "0293",
+      "tag": "chevglen",
+      "lat": "34.1334898"
+    },
+    "chevboyn": {
+      "lon": "-118.2492512",
+      "title": "Chevy Chase At Boynton",
+      "shortTitle": "Chevy Chase @ Boynton",
+      "stopId": "0283",
+      "tag": "chevboyn",
+      "lat": "34.13364"
+    },
+    "chevmidb": {
+      "lon": "-118.2463052",
+      "title": "Chevy Chase Mid-block",
+      "stopId": "0287",
+      "tag": "chevmidb",
+      "lat": "34.1337699"
+    },
+    "chevadam": {
+      "lon": "-118.2421073",
+      "title": "Chevy Chase At Adams",
+      "shortTitle": "Chevy Chase @ Adams",
+      "stopId": "0281",
+      "tag": "chevadam",
+      "lat": "34.13377"
+    },
+    "chevgarf": {
+      "lon": "-118.23954",
+      "title": "Chevy Chase At Garfield",
+      "shortTitle": "Chevy Chase @ Garfield",
+      "stopId": "0291",
+      "tag": "chevgarf",
+      "lat": "34.13623"
+    },
+    "chevmapl": {
+      "lon": "-118.23955",
+      "title": "Chevy Chase At Maple",
+      "shortTitle": "Chevy Chase @ Maple",
+      "stopId": "0294",
+      "tag": "chevmapl",
+      "lat": "34.139172"
+    },
+    "chevcolo": {
+      "lon": "-118.23957",
+      "title": "Chevy Chase At Colorado",
+      "shortTitle": "Chevy Chase @ Colorado",
+      "stopId": "0290",
+      "tag": "chevcolo",
+      "lat": "34.1424584"
+    },
+    "chevcarlt": {
+      "lon": "-118.23955",
+      "title": "Chevy Chase At Carlton",
+      "shortTitle": "Chevy Chase @ Carlton",
+      "stopId": "0286",
+      "tag": "chevcarlt",
+      "lat": "34.1453048"
+    },
+    "broaadam": {
+      "lon": "-118.2422199",
+      "title": "Broadway At Adams",
+      "shortTitle": "Broadway @ Adams",
+      "stopId": "0277",
+      "tag": "broaadam",
+      "lat": "34.1462999"
+    },
+    "broaceda": {
+      "lon": "-118.2446836",
+      "title": "Broadway At Cedar",
+      "shortTitle": "Broadway @ Cedar",
+      "stopId": "0279",
+      "tag": "broaceda",
+      "lat": "34.1463296"
+    },
+    "glenbroa": {
+      "lon": "-118.2473572",
+      "title": "Glendale At Broadway",
+      "shortTitle": "Glendale @ Broadway",
+      "stopId": "0296",
+      "tag": "glenbroa",
+      "lat": "34.1460566"
+    },
+    "harvisab": {
+      "lon": "-118.2490438",
+      "title": "Harvard At Isabel",
+      "shortTitle": "Harvard @ Isabel",
+      "stopId": "0299",
+      "tag": "harvisab",
+      "lat": "34.14453"
+    },
+    "harvloui": {
+      "lon": "-118.2531028",
+      "title": "Harvard At Louise",
+      "shortTitle": "Harvard @ Louise",
+      "stopId": "0300",
+      "tag": "harvloui",
+      "lat": "34.14448"
+    },
+    "branharv": {
+      "lon": "-118.2549295",
+      "title": "Brand At Harvard",
+      "shortTitle": "Brand @ Harvard",
+      "stopId": "0160",
+      "tag": "branharv",
+      "lat": "34.1447457"
+    },
+    "branbroa": {
+      "lon": "-118.2554599",
+      "title": "Broadway At Brand",
+      "shortTitle": "Broadway @ Brand",
+      "stopId": "0301",
+      "tag": "branbroa",
+      "lat": "34.14634"
+    },
+    "centbroa": {
+      "lon": "-118.25797",
+      "title": "Central At Broadway",
+      "shortTitle": "Central @ Broadway",
+      "stopId": "0162",
+      "tag": "centbroa",
+      "lat": "34.146481"
+    },
+    "centharv": {
+      "lon": "-118.25794",
+      "title": "Central At Americana",
+      "shortTitle": "Central @ Americana",
+      "stopId": "0161",
+      "tag": "centharv",
+      "lat": "34.1439314"
+    },
+    "colcent_d": {
+      "lon": "-118.25732",
+      "title": "Colorado At Central",
+      "shortTitle": "Colorado @ Central",
+      "stopId": "0304",
+      "tag": "colcent_d",
+      "lat": "34.14248"
+    },
+    "louiharv": {
+      "lon": "-118.2528108",
+      "title": "Harvard At Louise",
+      "shortTitle": "Harvard @ Louise",
+      "stopId": "0266",
+      "tag": "louiharv",
+      "lat": "34.14443"
+    },
+    "isabharv": {
+      "lon": "-118.2490262",
+      "title": "Harvard At Isabel",
+      "shortTitle": "Harvard @ Isabel",
+      "stopId": "0298",
+      "tag": "isabharv",
+      "lat": "34.1444602"
+    },
+    "broaglen": {
+      "lon": "-118.2468457",
+      "title": "Broadway At Glendale",
+      "shortTitle": "Broadway @ Glendale",
+      "stopId": "0280",
+      "tag": "broaglen",
+      "lat": "34.14633"
+    },
+    "cedabroa": {
+      "lon": "-118.2440847",
+      "title": "Broadway At Cedar",
+      "shortTitle": "Broadway @ Cedar",
+      "stopId": "0278",
+      "tag": "cedabroa",
+      "lat": "34.14625"
+    },
+    "adambroa": {
+      "lon": "-118.2416326",
+      "title": "Broadway At Adams",
+      "shortTitle": "Broadway @ Adams",
+      "stopId": "0276",
+      "tag": "adambroa",
+      "lat": "34.1462"
+    },
+    "broachev": {
+      "lon": "-118.23968",
+      "title": "Chevy Chase At Broadway",
+      "shortTitle": "Chevy Chase @ Broadway",
+      "stopId": "0302",
+      "tag": "broachev",
+      "lat": "34.1455724"
+    },
+    "colochev": {
+      "lon": "-118.23969",
+      "title": "Chevy Chase At Colorado",
+      "shortTitle": "Chevy Chase @ Colorado",
+      "stopId": "0289",
+      "tag": "colochev",
+      "lat": "34.1421599"
+    },
+    "maplchev": {
+      "lon": "-118.23967",
+      "title": "Chevy Chase At Maple",
+      "shortTitle": "Chevy Chase @ Maple",
+      "stopId": "0295",
+      "tag": "maplchev",
+      "lat": "34.1388737"
+    },
+    "garfchev": {
+      "lon": "-118.23967",
+      "title": "Chevy Chase At Garfield",
+      "shortTitle": "Chevy Chase @ Garfield",
+      "stopId": "0292",
+      "tag": "garfchev",
+      "lat": "34.13649"
+    },
+    "adamchev": {
+      "lon": "-118.2422501",
+      "title": "Chevy Chase At Adams",
+      "shortTitle": "Chevy Chase @ Adams",
+      "stopId": "0282",
+      "tag": "adamchev",
+      "lat": "34.1338399"
+    },
+    "midbchev": {
+      "lon": "-118.2463899",
+      "title": "Chevy Chase Mid-block",
+      "stopId": "0288",
+      "tag": "midbchev",
+      "lat": "34.1338499"
+    },
+    "boynchev": {
+      "lon": "-118.2489254",
+      "title": "Chevy Chase At Boynton",
+      "shortTitle": "Chevy Chase @ Boynton",
+      "stopId": "0284",
+      "tag": "boynchev",
+      "lat": "34.1337297"
+    },
+    "palmglen": {
+      "lon": "-118.2522516",
+      "title": "Glendale At Palmer",
+      "shortTitle": "Glendale @ Palmer",
+      "stopId": "0297",
+      "tag": "palmglen",
+      "lat": "34.1323783"
+    },
+    "branpalm": {
+      "lon": "-118.2546932",
+      "title": "Palmer At Brand",
+      "shortTitle": "Palmer @ Brand",
+      "stopId": "0303",
+      "tag": "branpalm",
+      "lat": "34.1323106"
+    },
+    "rivpac_d": {
+      "lon": "-118.26425",
+      "title": "Riverdale at Pacific",
+      "shortTitle": "Riverdale @ Pacific",
+      "stopId": "0321",
+      "tag": "rivpac_d",
+      "lat": "34.13879"
+    },
+    "pacvin": {
+      "lon": "-118.2643701",
+      "title": "Pacific at Vine",
+      "shortTitle": "Pacific @ Vine",
+      "stopId": "0317",
+      "tag": "pacvin",
+      "lat": "34.1406848"
+    },
+    "paccol": {
+      "lon": "-118.2642885",
+      "title": "Pacific at Colorado",
+      "shortTitle": "Pacific @ Colorado",
+      "stopId": "0309",
+      "tag": "paccol",
+      "lat": "34.1427232"
+    },
+    "pacharv_n": {
+      "lon": "-118.2640399",
+      "title": "Pacific at Harvard",
+      "shortTitle": "Pacific @ Harvard",
+      "stopId": "0312",
+      "tag": "pacharv_n",
+      "lat": "34.1440365"
+    },
+    "pacwil_n": {
+      "lon": "-118.26447",
+      "title": "Pacific at Wilson",
+      "shortTitle": "Pacific @ Wilson",
+      "stopId": "0318",
+      "tag": "pacwil_n",
+      "lat": "34.1478347"
+    },
+    "paccal_n": {
+      "lon": "-118.26447",
+      "title": "Pacific at California",
+      "shortTitle": "Pacific @ California",
+      "stopId": "0307",
+      "tag": "paccal_n",
+      "lat": "34.1496877"
+    },
+    "paclex_n": {
+      "lon": "-118.2644899",
+      "title": "Pacific at Lexington",
+      "shortTitle": "Pacific @ Lexington",
+      "stopId": "0315",
+      "tag": "paclex_n",
+      "lat": "34.1515062"
+    },
+    "pacdor_n": {
+      "lon": "-118.2645393",
+      "title": "Pacific at Doran",
+      "shortTitle": "Pacific @ Doran",
+      "stopId": "0310",
+      "tag": "pacdor_n",
+      "lat": "34.1541981"
+    },
+    "pacard_n": {
+      "lon": "-118.2639996",
+      "title": "Pacific at Arden",
+      "shortTitle": "Pacific @ Arden",
+      "stopId": "0305",
+      "tag": "pacard_n",
+      "lat": "34.1587384"
+    },
+    "pacpal": {
+      "lon": "-118.2645298",
+      "title": "Pacific at Palm",
+      "shortTitle": "Pacific @ Palm",
+      "stopId": "0326",
+      "tag": "pacpal",
+      "lat": "34.1615592"
+    },
+    "glecon_d": {
+      "lon": "-118.2697246",
+      "title": "Glenwood at Concord (Hoover High)",
+      "shortTitle": "Glenwood @ Concord (Hoover High)",
+      "stopId": "0324",
+      "tag": "glecon_d",
+      "lat": "34.1652387"
+    },
+    "stopac": {
+      "lon": "-118.2651307",
+      "title": "Stocker at Pacific",
+      "shortTitle": "Stocker @ Pacific",
+      "stopId": "0327",
+      "tag": "stopac",
+      "lat": "34.1632001"
+    },
+    "pacdry": {
+      "lon": "-118.2644866",
+      "title": "Pacific at Dryden",
+      "shortTitle": "Pacific @ Dryden",
+      "stopId": "0325",
+      "tag": "pacdry",
+      "lat": "34.1608764"
+    },
+    "pacard": {
+      "lon": "-118.2641",
+      "title": "Pacific at Arden",
+      "shortTitle": "Pacific @ Arden",
+      "stopId": "0306",
+      "tag": "pacard",
+      "lat": "34.15801"
+    },
+    "pacdor": {
+      "lon": "-118.26464",
+      "title": "Pacific at Doran",
+      "shortTitle": "Pacific @ Doran",
+      "stopId": "0311",
+      "tag": "pacdor",
+      "lat": "34.15387"
+    },
+    "paclex": {
+      "lon": "-118.26461",
+      "title": "Pacific at Lexington",
+      "shortTitle": "Pacific @ Lexington",
+      "stopId": "0316",
+      "tag": "paclex",
+      "lat": "34.1517335"
+    },
+    "paccal": {
+      "lon": "-118.26458",
+      "title": "Pacific at California",
+      "shortTitle": "Pacific @ California",
+      "stopId": "0308",
+      "tag": "paccal",
+      "lat": "34.1499537"
+    },
+    "pacwil": {
+      "lon": "-118.26459",
+      "title": "Pacific at Wilson",
+      "shortTitle": "Pacific @ Wilson",
+      "stopId": "0319",
+      "tag": "pacwil",
+      "lat": "34.14812"
+    },
+    "pacivy": {
+      "lon": "-118.26416",
+      "title": "Pacific at Ivy",
+      "shortTitle": "Pacific @ Ivy",
+      "stopId": "0314",
+      "tag": "pacivy",
+      "lat": "34.1459865"
+    },
+    "pacharv": {
+      "lon": "-118.26415",
+      "title": "Pacific at Harvard",
+      "shortTitle": "Pacific @ Harvard",
+      "stopId": "0313",
+      "tag": "pacharv",
+      "lat": "34.1443241"
+    },
+    "colpac": {
+      "lon": "-118.2639364",
+      "title": "Colorado at Pacific",
+      "shortTitle": "Colorado @ Pacific",
+      "stopId": "0323",
+      "tag": "colpac",
+      "lat": "34.1424491"
+    },
+    "colcol": {
+      "lon": "-118.2610969",
+      "title": "Colorado at Columbus",
+      "shortTitle": "Colorado @ Columbus",
+      "stopId": "0322",
+      "tag": "colcol",
+      "lat": "34.1424701"
+    },
+    "rivcol": {
+      "lon": "-118.2606272",
+      "title": "Riverdale at Columbus",
+      "shortTitle": "Riverdale @ Columbus",
+      "stopId": "0320",
+      "tag": "rivcol",
+      "lat": "34.1387803"
+    },
+    "rivepaci_d": {
+      "lon": "-118.26447",
+      "title": "Pacific at Riverdale",
+      "shortTitle": "Pacific @ Riverdale",
+      "stopId": "0351",
+      "tag": "rivepaci_d",
+      "lat": "34.13903"
+    },
+    "sanriv": {
+      "lon": "-118.2676411",
+      "title": "San Fernando at Riverdale",
+      "shortTitle": "San Fernando @ Riverdale",
+      "stopId": "0348",
+      "tag": "sanriv",
+      "lat": "34.1388425"
+    },
+    "sanelk": {
+      "lon": "-118.2689758",
+      "title": "San Fernando at Elk",
+      "shortTitle": "San Fernando @ Elk",
+      "stopId": "0353",
+      "tag": "sanelk",
+      "lat": "34.1414624"
+    },
+    "colcol_e": {
+      "lon": "-118.2611089",
+      "title": "Colorado at Columbus",
+      "shortTitle": "Colorado @ Columbus",
+      "stopId": "0322",
+      "tag": "colcol_e",
+      "lat": "34.14247"
+    },
+    "colcen": {
+      "lon": "-118.2573378",
+      "title": "Colorado at Central",
+      "shortTitle": "Colorado @ Central",
+      "stopId": "0304",
+      "tag": "colcen",
+      "lat": "34.14251"
+    },
+    "colbra_e": {
+      "lon": "-118.2547447",
+      "title": "Colorado at Brand",
+      "shortTitle": "Colorado @ Brand",
+      "stopId": "0331",
+      "tag": "colbra_e",
+      "lat": "34.1425302"
+    },
+    "collou_e": {
+      "lon": "-118.2528018",
+      "title": "Colorado at Louise",
+      "shortTitle": "Colorado @ Louise",
+      "stopId": "0344",
+      "tag": "collou_e",
+      "lat": "34.14255"
+    },
+    "colgle_e": {
+      "lon": "-118.24967",
+      "title": "Colorado at Glendale",
+      "shortTitle": "Colorado @ Glendale",
+      "stopId": "0341",
+      "tag": "colgle_e",
+      "lat": "34.1425999"
+    },
+    "coleve_e": {
+      "lon": "-118.2457424",
+      "title": "Colorado at Everett",
+      "shortTitle": "Colorado @ Everett",
+      "stopId": "0337",
+      "tag": "coleve_e",
+      "lat": "34.14262"
+    },
+    "colada_e": {
+      "lon": "-118.2419921",
+      "title": "Colorado at Adams",
+      "shortTitle": "Colorado @ Adams",
+      "stopId": "0329",
+      "tag": "colada_e",
+      "lat": "34.14259"
+    },
+    "colche_e": {
+      "lon": "-118.2392369",
+      "title": "Colorado at Chevy Chase",
+      "shortTitle": "Colorado @ Chevy Chase",
+      "stopId": "0334",
+      "tag": "colche_e",
+      "lat": "34.1426092"
+    },
+    "colfis_e": {
+      "lon": "-118.2366213",
+      "title": "Colorado at Fischer",
+      "shortTitle": "Colorado @ Fischer",
+      "stopId": "0339",
+      "tag": "colfis_e",
+      "lat": "34.1426503"
+    },
+    "vercol": {
+      "lon": "-118.2341375",
+      "title": "Verdugo at Colorado",
+      "shortTitle": "Verdugo @ Colorado",
+      "stopId": "0350",
+      "tag": "vercol",
+      "lat": "34.1432377"
+    },
+    "verbro": {
+      "lon": "-118.234897",
+      "title": "Verdugo at Broadway",
+      "shortTitle": "Verdugo @ Broadway",
+      "stopId": "0349",
+      "tag": "verbro",
+      "lat": "34.1459781"
+    },
+    "brosin_d": {
+      "lon": "-118.2323505",
+      "title": "Broadway at Sinclair",
+      "shortTitle": "Broadway @ Sinclair",
+      "stopId": "0352",
+      "tag": "brosin_d",
+      "lat": "34.14613"
+    },
+    "brocar": {
+      "lon": "-118.2297415",
+      "title": "Broadway at Carr",
+      "shortTitle": "Broadway @ Carr",
+      "stopId": "0328",
+      "tag": "brocar",
+      "lat": "34.14612"
+    },
+    "coleag": {
+      "lon": "-118.2291207",
+      "title": "Colorado at Eagledale",
+      "shortTitle": "Colorado @ Eagledale",
+      "stopId": "0343",
+      "tag": "coleag",
+      "lat": "34.14281"
+    },
+    "colcam": {
+      "lon": "-118.2315945",
+      "title": "Colorado at Campus",
+      "shortTitle": "Colorado @ Campus",
+      "stopId": "0333",
+      "tag": "colcam",
+      "lat": "34.1428199"
+    },
+    "colver": {
+      "lon": "-118.2338026",
+      "title": "Colorado at Verdugo",
+      "shortTitle": "Colorado @ Verdugo",
+      "stopId": "0346",
+      "tag": "colver",
+      "lat": "34.1428298"
+    },
+    "colfis": {
+      "lon": "-118.2358933",
+      "title": "Colorado at Fischer",
+      "shortTitle": "Colorado @ Fischer",
+      "stopId": "0340",
+      "tag": "colfis",
+      "lat": "34.1427543"
+    },
+    "colche": {
+      "lon": "-118.2393062",
+      "title": "Colorado at Chevy Chase",
+      "shortTitle": "Colorado @ Chevy Chase",
+      "stopId": "0335",
+      "tag": "colche",
+      "lat": "34.1427"
+    },
+    "colada": {
+      "lon": "-118.2415884",
+      "title": "Colorado at Adams",
+      "shortTitle": "Colorado @ Adams",
+      "stopId": "0330",
+      "tag": "colada",
+      "lat": "34.1426804"
+    },
+    "coleve": {
+      "lon": "-118.2458464",
+      "title": "Colorado at Everett",
+      "shortTitle": "Colorado @ Everett",
+      "stopId": "0338",
+      "tag": "coleve",
+      "lat": "34.14271"
+    },
+    "colgle": {
+      "lon": "-118.2487427",
+      "title": "Colorado at Glendale",
+      "shortTitle": "Colorado @ Glendale",
+      "stopId": "0342",
+      "tag": "colgle",
+      "lat": "34.1427108"
+    },
+    "collou": {
+      "lon": "-118.2523889",
+      "title": "Colorado at Louise",
+      "shortTitle": "Colorado @ Louise",
+      "stopId": "0345",
+      "tag": "collou",
+      "lat": "34.142643"
+    },
+    "colbra": {
+      "lon": "-118.2546699",
+      "title": "Colorado at Brand",
+      "shortTitle": "Colorado @ Brand",
+      "stopId": "0332",
+      "tag": "colbra",
+      "lat": "34.14262"
+    },
+    "vicwes_d": {
+      "lon": "-118.2999",
+      "title": "Victory at Western",
+      "shortTitle": "Victory @ Western",
+      "stopId": "0397",
+      "tag": "vicwes_d",
+      "lat": "34.16104"
+    },
+    "westlake": {
+      "lon": "-118.2979133",
+      "title": "Western at Lake",
+      "shortTitle": "Western @ Lake",
+      "stopId": "0392",
+      "tag": "westlake",
+      "lat": "34.1632668"
+    },
+    "sanfwest": {
+      "lon": "-118.2923084",
+      "title": "San Fernando at Western",
+      "shortTitle": "San Fernando @ Western",
+      "stopId": "0384",
+      "tag": "sanfwest",
+      "lat": "34.1690084"
+    },
+    "sanfthom": {
+      "lon": "-118.2942535",
+      "title": "San Fernando at Thompson",
+      "shortTitle": "San Fernando @ Thompson",
+      "stopId": "0581",
+      "tag": "sanfthom",
+      "lat": "34.1703926"
+    },
+    "sanfalle": {
+      "lon": "-118.2958379",
+      "title": "San Fernando at Allen",
+      "shortTitle": "San Fernando @ Allen",
+      "stopId": "0381",
+      "tag": "sanfalle",
+      "lat": "34.1715684"
+    },
+    "sanfalam": {
+      "lon": "-118.2995075",
+      "title": "San Fernando at Alameda",
+      "shortTitle": "San Fernando @ Alameda",
+      "stopId": "0379",
+      "tag": "sanfalam",
+      "lat": "34.1742881"
+    },
+    "alamglen": {
+      "lon": "-118.2976999",
+      "title": "Alameda at Glenoaks",
+      "shortTitle": "Alameda @ Glenoaks",
+      "stopId": "0354",
+      "tag": "alamglen",
+      "lat": "34.1764"
+    },
+    "glenalle": {
+      "lon": "-118.293541",
+      "title": "Glenoaks at Allen",
+      "shortTitle": "Glenoaks @ Allen",
+      "stopId": "0356",
+      "tag": "glenalle",
+      "lat": "34.1737507"
+    },
+    "glenthom_e": {
+      "lon": "-118.2918966",
+      "title": "Glenoaks at Thompson",
+      "shortTitle": "Glenoaks @ Thompson",
+      "stopId": "0375",
+      "tag": "glenthom_e",
+      "lat": "34.1725476"
+    },
+    "glenwest": {
+      "lon": "-118.28956",
+      "title": "Glenoaks at Western",
+      "shortTitle": "Glenoaks @ Western",
+      "stopId": "0377",
+      "tag": "glenwest",
+      "lat": "34.17085"
+    },
+    "justglen": {
+      "lon": "-118.2876881",
+      "title": "Glenoaks at Justin",
+      "shortTitle": "Glenoaks @ Justin",
+      "stopId": "0367",
+      "tag": "justglen",
+      "lat": "34.1694786"
+    },
+    "sonoglen": {
+      "lon": "-118.285651",
+      "title": "Glenoaks at Sonora",
+      "shortTitle": "Glenoaks @ Sonora",
+      "stopId": "0373",
+      "tag": "sonoglen",
+      "lat": "34.1679908"
+    },
+    "glengran": {
+      "lon": "-118.2815798",
+      "title": "Glenoaks at Grandview",
+      "shortTitle": "Glenoaks @ Grandview",
+      "stopId": "0360",
+      "tag": "glengran",
+      "lat": "34.1650599"
+    },
+    "glengray_e": {
+      "lon": "-118.2781765",
+      "title": "Glenoaks at Graynold",
+      "shortTitle": "Glenoaks @ Graynold",
+      "stopId": "0362",
+      "tag": "glengray_e",
+      "lat": "34.1626075"
+    },
+    "glenohigh": {
+      "lon": "-118.2746306",
+      "title": "Glenoaks at Highland",
+      "shortTitle": "Glenoaks @ Highland",
+      "stopId": "0363",
+      "tag": "glenohigh",
+      "lat": "34.1606471"
+    },
+    "glenoconc": {
+      "lon": "-118.2705358",
+      "title": "Glenoaks at Concord",
+      "shortTitle": "Glenoaks @ Concord",
+      "stopId": "0358",
+      "tag": "glenoconc",
+      "lat": "34.1597997"
+    },
+    "keniglen": {
+      "lon": "-118.2671125",
+      "title": "Glenoaks at Kenilworth",
+      "shortTitle": "Glenoaks @ Kenilworth",
+      "stopId": "0369",
+      "tag": "keniglen",
+      "lat": "34.1595797"
+    },
+    "pacipalm": {
+      "lon": "-118.2645301",
+      "title": "Pacific at Palm",
+      "shortTitle": "Pacific @ Palm",
+      "stopId": "0326",
+      "tag": "pacipalm",
+      "lat": "34.1615608"
+    },
+    "glenwconc": {
+      "lon": "-118.2697235",
+      "title": "Glenwood at Concord (Hoover High)",
+      "shortTitle": "Glenwood @ Concord (Hoover High)",
+      "stopId": "0324",
+      "tag": "glenwconc",
+      "lat": "34.1652385"
+    },
+    "stocpaci": {
+      "lon": "-118.2651294",
+      "title": "Stocker at Pacific",
+      "shortTitle": "Stocker @ Pacific",
+      "stopId": "0327",
+      "tag": "stocpaci",
+      "lat": "34.1631998"
+    },
+    "stocpaci2": {
+      "lon": "-118.2642492",
+      "title": "Stocker at Pacific",
+      "shortTitle": "Stocker @ Pacific",
+      "stopId": "0394",
+      "tag": "stocpaci2",
+      "lat": "34.1631774"
+    },
+    "stocolu": {
+      "lon": "-118.2617823",
+      "title": "Stocker at Columbus",
+      "shortTitle": "Stocker @ Columbus",
+      "stopId": "0389",
+      "tag": "stocolu",
+      "lat": "34.1635813"
+    },
+    "stoccent_e": {
+      "lon": "-118.2570536",
+      "title": "Stocker at Central",
+      "shortTitle": "Stocker @ Central",
+      "stopId": "0387",
+      "tag": "stoccent_e",
+      "lat": "34.16364"
+    },
+    "stocbran": {
+      "lon": "-118.2553854",
+      "title": "Stocker At Brand",
+      "shortTitle": "Stocker @ Brand",
+      "stopId": "0135",
+      "tag": "stocbran",
+      "lat": "34.1636395"
+    },
+    "brandryd": {
+      "lon": "-118.2551899",
+      "title": "Brand At Dryden",
+      "shortTitle": "Brand @ Dryden",
+      "stopId": "0134",
+      "tag": "brandryd",
+      "lat": "34.1612394"
+    },
+    "glenobran": {
+      "lon": "-118.2540429",
+      "title": "Glenoaks at Brand",
+      "shortTitle": "Glenoaks @ Brand",
+      "stopId": "0395",
+      "tag": "glenobran",
+      "lat": "34.1588009"
+    },
+    "glenjack": {
+      "lon": "-118.2499247",
+      "title": "Glenoaks at Jackson",
+      "shortTitle": "Glenoaks @ Jackson",
+      "stopId": "0365",
+      "tag": "glenjack",
+      "lat": "34.1582499"
+    },
+    "glenmont": {
+      "lon": "-118.2416928",
+      "title": "Glendale at Monterey",
+      "shortTitle": "Glendale @ Monterey",
+      "stopId": "0269",
+      "tag": "glenmont",
+      "lat": "34.1563364"
+    },
+    "glenglen_e": {
+      "lon": "-118.2396465",
+      "title": "Glendale at Glenoaks",
+      "shortTitle": "Glendale @ Glenoaks",
+      "stopId": "0267",
+      "tag": "glenglen_e",
+      "lat": "34.1589467"
+    },
+    "verdglen": {
+      "lon": "-118.2366461",
+      "title": "Glendale at Verdugo",
+      "shortTitle": "Glendale @ Verdugo",
+      "stopId": "0270",
+      "tag": "verdglen",
+      "lat": "34.1610325"
+    },
+    "verdcall": {
+      "lon": "-118.2331234",
+      "title": "Verdugo at Calle Vaquero",
+      "shortTitle": "Verdugo @ Calle Vaquero",
+      "stopId": "0273",
+      "tag": "verdcall",
+      "lat": "34.1638061"
+    },
+    "verdgcc_d": {
+      "lon": "-118.2303325",
+      "title": "Verdugo at GCC",
+      "shortTitle": "Verdugo @ GCC",
+      "stopId": "0274",
+      "tag": "verdgcc_d",
+      "lat": "34.1668274"
+    },
+    "canaverd_d": {
+      "lon": "-118.229131",
+      "title": "Canada at Verdugo",
+      "shortTitle": "Canada @ Verdugo",
+      "stopId": "0265",
+      "tag": "canaverd_d",
+      "lat": "34.1687805"
+    },
+    "verdtown": {
+      "lon": "-118.2289502",
+      "title": "Verdugo at Towne",
+      "shortTitle": "Verdugo @ Towne",
+      "stopId": "0275",
+      "tag": "verdtown",
+      "lat": "34.1683896"
+    },
+    "verdmoun": {
+      "lon": "-118.2324696",
+      "title": "Verdugo at Mountain",
+      "shortTitle": "Verdugo @ Mountain",
+      "stopId": "0272",
+      "tag": "verdmoun",
+      "lat": "34.1648004"
+    },
+    "glenverd": {
+      "lon": "-118.2366158",
+      "title": "Glendale at Verdugo",
+      "shortTitle": "Glendale @ Verdugo",
+      "stopId": "0271",
+      "tag": "glenverd",
+      "lat": "34.161227"
+    },
+    "glenglen": {
+      "lon": "-118.2398618",
+      "title": "Glendale at Glenoaks",
+      "shortTitle": "Glendale @ Glenoaks",
+      "stopId": "0268",
+      "tag": "glenglen",
+      "lat": "34.1590281"
+    },
+    "montglen": {
+      "lon": "-118.2426299",
+      "title": "Monterey at Glendale",
+      "shortTitle": "Monterey @ Glendale",
+      "stopId": "0396",
+      "tag": "montglen",
+      "lat": "34.1565899"
+    },
+    "jackglen": {
+      "lon": "-118.24993",
+      "title": "Glenoaks at Jackson",
+      "shortTitle": "Glenoaks @ Jackson",
+      "stopId": "0366",
+      "tag": "jackglen",
+      "lat": "34.1583897"
+    },
+    "branfair": {
+      "lon": "-118.255",
+      "title": "Brand At Fairview",
+      "shortTitle": "Brand @ Fairview",
+      "stopId": "0165",
+      "tag": "branfair",
+      "lat": "34.1604299"
+    },
+    "branstoc": {
+      "lon": "-118.2554868",
+      "title": "Stocker At Brand",
+      "shortTitle": "Stocker @ Brand",
+      "stopId": "0166",
+      "tag": "branstoc",
+      "lat": "34.16373"
+    },
+    "stoccent": {
+      "lon": "-118.2570969",
+      "title": "Stocker at Central",
+      "shortTitle": "Stocker @ Central",
+      "stopId": "0388",
+      "tag": "stoccent",
+      "lat": "34.16373"
+    },
+    "stoccolu": {
+      "lon": "-118.2626646",
+      "title": "Stocker at Columbus",
+      "shortTitle": "Stocker @ Columbus",
+      "stopId": "0390",
+      "tag": "stoccolu",
+      "lat": "34.1635308"
+    },
+    "pacistoc2": {
+      "lon": "-118.264718",
+      "title": "Stocker at Pacific",
+      "shortTitle": "Stocker @ Pacific",
+      "stopId": "0391",
+      "tag": "pacistoc2",
+      "lat": "34.1631503"
+    },
+    "concglenw": {
+      "lon": "-118.2697235",
+      "title": "Glenwood at Concord (Hoover High)",
+      "shortTitle": "Glenwood @ Concord (Hoover High)",
+      "stopId": "0324",
+      "tag": "concglenw",
+      "lat": "34.1652385"
+    },
+    "pacistoc": {
+      "lon": "-118.2651295",
+      "title": "Stocker at Pacific",
+      "shortTitle": "Stocker @ Pacific",
+      "stopId": "0327",
+      "tag": "pacistoc",
+      "lat": "34.1631997"
+    },
+    "pacidryd": {
+      "lon": "-118.2644881",
+      "title": "Pacific at Dryden",
+      "shortTitle": "Pacific @ Dryden",
+      "stopId": "0325",
+      "tag": "pacidryd",
+      "lat": "34.1608729"
+    },
+    "glenpaci": {
+      "lon": "-118.2646246",
+      "title": "Glenoaks at Pacific",
+      "shortTitle": "Glenoaks @ Pacific",
+      "stopId": "0371",
+      "tag": "glenpaci",
+      "lat": "34.1596803"
+    },
+    "glenkeni": {
+      "lon": "-118.2677303",
+      "title": "Glenoaks at Kenilworth",
+      "shortTitle": "Glenoaks @ Kenilworth",
+      "stopId": "0370",
+      "tag": "glenkeni",
+      "lat": "34.1599007"
+    },
+    "glenconc": {
+      "lon": "-118.2711573",
+      "title": "Glenoaks at Concord",
+      "shortTitle": "Glenoaks @ Concord",
+      "stopId": "0359",
+      "tag": "glenconc",
+      "lat": "34.1601611"
+    },
+    "glenhigh": {
+      "lon": "-118.2752107",
+      "title": "Glenoaks at Highland",
+      "shortTitle": "Glenoaks @ Highland",
+      "stopId": "0364",
+      "tag": "glenhigh",
+      "lat": "34.1611653"
+    },
+    "glengray_w": {
+      "lon": "-118.278352",
+      "title": "Glenoaks at Graynold",
+      "shortTitle": "Glenoaks @ Graynold",
+      "stopId": "0393",
+      "tag": "glengray_w",
+      "lat": "34.1630415"
+    },
+    "glengrad": {
+      "lon": "-118.2815578",
+      "title": "Glenoaks at Grandview",
+      "shortTitle": "Glenoaks @ Grandview",
+      "stopId": "0361",
+      "tag": "glengrad",
+      "lat": "34.1653857"
+    },
+    "glenrose": {
+      "lon": "-118.2834692",
+      "title": "Glenoaks at Rosedale (DMV)",
+      "shortTitle": "Glenoaks @ Rosedale (DMV)",
+      "stopId": "0372",
+      "tag": "glenrose",
+      "lat": "34.1667961"
+    },
+    "glensono": {
+      "lon": "-118.2855791",
+      "title": "Glenoaks at Sonora",
+      "shortTitle": "Glenoaks @ Sonora",
+      "stopId": "0374",
+      "tag": "glensono",
+      "lat": "34.1683093"
+    },
+    "glenjust": {
+      "lon": "-118.28755",
+      "title": "Glenoaks at Justin",
+      "shortTitle": "Glenoaks @ Justin",
+      "stopId": "0368",
+      "tag": "glenjust",
+      "lat": "34.1697074"
+    },
+    "glenowest": {
+      "lon": "-118.28986",
+      "title": "Glenoaks at Western",
+      "shortTitle": "Glenoaks @ Western",
+      "stopId": "0378",
+      "tag": "glenowest",
+      "lat": "34.17142"
+    },
+    "glenthom": {
+      "lon": "-118.2913771",
+      "title": "Glenoaks at Thompson",
+      "shortTitle": "Glenoaks @ Thompson",
+      "stopId": "0376",
+      "tag": "glenthom",
+      "lat": "34.1725325"
+    },
+    "alleglen": {
+      "lon": "-118.2936187",
+      "title": "Glenoaks at Allen",
+      "shortTitle": "Glenoaks @ Allen",
+      "stopId": "0357",
+      "tag": "alleglen",
+      "lat": "34.174199"
+    },
+    "glenalam": {
+      "lon": "-118.2978631",
+      "title": "Alameda at Glenoaks",
+      "shortTitle": "Alameda @ Glenoaks",
+      "stopId": "0355",
+      "tag": "glenalam",
+      "lat": "34.1764768"
+    },
+    "alamsanf": {
+      "lon": "-118.2994985",
+      "title": "San Fernando at Alameda",
+      "shortTitle": "San Fernando @ Alameda",
+      "stopId": "0380",
+      "tag": "alamsanf",
+      "lat": "34.173999"
+    },
+    "allesanf": {
+      "lon": "-118.2959443",
+      "title": "San Fernando at Allen",
+      "shortTitle": "San Fernando @ Allen",
+      "stopId": "0382",
+      "tag": "allesanf",
+      "lat": "34.1714659"
+    },
+    "thomsanf": {
+      "lon": "-118.2943407",
+      "title": "San Fernando at Thompson",
+      "shortTitle": "San Fernando @ Thompson",
+      "stopId": "0383",
+      "tag": "thomsanf",
+      "lat": "34.1702906"
+    },
+    "westsanf": {
+      "lon": "-118.2924768",
+      "title": "San Fernando at Western",
+      "shortTitle": "San Fernando @ Western",
+      "stopId": "0385",
+      "tag": "westsanf",
+      "lat": "34.1689478"
+    },
+    "flowsono": {
+      "lon": "-118.2917476",
+      "title": "Flower at Sonora",
+      "shortTitle": "Flower @ Sonora",
+      "stopId": "0398",
+      "tag": "flowsono",
+      "lat": "34.163084"
+    },
+    "sonolake": {
+      "lon": "-118.2938177",
+      "title": "Sonora at Lake",
+      "shortTitle": "Sonora @ Lake",
+      "stopId": "0386",
+      "tag": "sonolake",
+      "lat": "34.1608125"
+    },
+    "gtc_n": {
+      "lon": "-118.25984",
+      "title": "Glendale Transportation Center (Morning)",
+      "stopId": "0133",
+      "tag": "gtc_n",
+      "lat": "34.12459"
+    },
+    "brancolo_n": {
+      "lon": "-118.2549",
+      "title": "Brand At Colorado",
+      "shortTitle": "Brand @ Colorado",
+      "stopId": "0158",
+      "tag": "brancolo_n",
+      "lat": "34.1428611"
+    },
+    "branbroa_n": {
+      "lon": "-118.25493",
+      "title": "Brand At Broadway",
+      "shortTitle": "Brand @ Broadway",
+      "stopId": "0156",
+      "tag": "branbroa_n",
+      "lat": "34.1465399"
+    },
+    "branlexi_n": {
+      "lon": "-118.25492",
+      "title": "Brand At Lexington",
+      "shortTitle": "Brand @ Lexington",
+      "stopId": "0157",
+      "tag": "branlexi_n",
+      "lat": "34.1513899"
+    },
+    "branmilf_n": {
+      "lon": "-118.25492",
+      "title": "Brand At Milford",
+      "shortTitle": "Brand @ Milford",
+      "stopId": "0159",
+      "tag": "branmilf_n",
+      "lat": "34.1537677"
+    },
+    "montbran_n": {
+      "lon": "-118.25454",
+      "title": "Monterey at Brand",
+      "shortTitle": "Monterey @ Brand",
+      "stopId": "0399",
+      "tag": "montbran_n",
+      "lat": "34.15738"
+    },
+    "wilsglen_n": {
+      "lon": "-118.2471958",
+      "title": "Wilson at Glendale (Morning)",
+      "shortTitle": "Wilson @ Glendale (Morning)",
+      "stopId": "0401",
+      "tag": "wilsglen_n",
+      "lat": "34.1481197"
+    },
+    "colojack_n": {
+      "lon": "-118.2505699",
+      "title": "Colorado at Jackson (Morning)",
+      "shortTitle": "Colorado @ Jackson (Morning)",
+      "stopId": "0403",
+      "tag": "colojack_n",
+      "lat": "34.14269"
+    },
+    "colobran_n": {
+      "lon": "-118.2550711",
+      "title": "Brand At Colorado (Morning)",
+      "shortTitle": "Brand @ Colorado (Morning)",
+      "stopId": "0127",
+      "tag": "colobran_n",
+      "lat": "34.1421754"
+    },
+    "gtc_s": {
+      "lon": "-118.25984",
+      "title": "Glendale Transportation Center (Afternoon)",
+      "stopId": "0133",
+      "tag": "gtc_s",
+      "lat": "34.12459"
+    },
+    "centbroa_s": {
+      "lon": "-118.2578399",
+      "title": "Central At Broadway",
+      "shortTitle": "Central @ Broadway",
+      "stopId": "0130",
+      "tag": "centbroa_s",
+      "lat": "34.1466494"
+    },
+    "montbran_s": {
+      "lon": "-118.2544529",
+      "title": "Monterey at Brand",
+      "shortTitle": "Monterey @ Brand",
+      "stopId": "0400",
+      "tag": "montbran_s",
+      "lat": "34.15751"
+    },
+    "dorabran_s": {
+      "lon": "-118.25515",
+      "title": "Brand At Doran",
+      "shortTitle": "Brand @ Doran",
+      "stopId": "0128",
+      "tag": "dorabran_s",
+      "lat": "34.1540648"
+    },
+    "branlexi_s": {
+      "lon": "-118.25512",
+      "title": "Brand At Lexington",
+      "shortTitle": "Brand @ Lexington",
+      "stopId": "0129",
+      "tag": "branlexi_s",
+      "lat": "34.1514112"
+    },
+    "wilsmary_s": {
+      "lon": "-118.253667",
+      "title": "Wilson at Maryland",
+      "shortTitle": "Wilson @ Maryland",
+      "stopId": "0402",
+      "tag": "wilsmary_s",
+      "lat": "34.14804"
+    },
+    "wilsglen_s": {
+      "lon": "-118.2471958",
+      "title": "Wilson at Glendale (Afternoon)",
+      "shortTitle": "Wilson @ Glendale (Afternoon)",
+      "stopId": "0401",
+      "tag": "wilsglen_s",
+      "lat": "34.14812"
+    },
+    "colojack_s": {
+      "lon": "-118.25057",
+      "title": "Colorado at Jackson (Afternoon)",
+      "shortTitle": "Colorado @ Jackson (Afternoon)",
+      "stopId": "0403",
+      "tag": "colojack_s",
+      "lat": "34.14269"
+    },
+    "colobran_s": {
+      "lon": "-118.2550711",
+      "title": "Colorado At Brand (Afternoon)",
+      "shortTitle": "Colorado @ Brand (Afternoon)",
+      "stopId": "0127",
+      "tag": "colobran_s",
+      "lat": "34.1421754"
+    },
+    "gtc_d": {
+      "lon": "-118.25984",
+      "title": "Glendale Transportation Center",
+      "stopId": "0133",
+      "tag": "gtc_d",
+      "lat": "34.12459"
+    },
+    "sanchev": {
+      "lon": "-118.26232",
+      "title": "San Fernando at Chevy Chase",
+      "shortTitle": "San Fernando @ Chevy Chase",
+      "stopId": "0425",
+      "tag": "sanchev",
+      "lat": "34.1332499"
+    },
+    "sanpac": {
+      "lon": "-118.26463",
+      "title": "San Fernando at Pacific",
+      "shortTitle": "San Fernando @ Pacific",
+      "stopId": "0432",
+      "tag": "sanpac",
+      "lat": "34.13703"
+    },
+    "sanbro": {
+      "lon": "-118.2715881",
+      "title": "San Fernando at Broadway",
+      "shortTitle": "San Fernando @ Broadway",
+      "stopId": "0422",
+      "tag": "sanbro",
+      "lat": "34.1464563"
+    },
+    "sanmilf": {
+      "lon": "-118.2742179",
+      "title": "San Fernando at Milford",
+      "shortTitle": "San Fernando @ Milford",
+      "stopId": "0431",
+      "tag": "sanmilf",
+      "lat": "34.1516354"
+    },
+    "sanfair": {
+      "lon": "-118.2760752",
+      "title": "San Fernando at Fairmont",
+      "shortTitle": "San Fernando @ Fairmont",
+      "stopId": "0428",
+      "tag": "sanfair",
+      "lat": "34.1550173"
+    },
+    "sanhigh": {
+      "lon": "-118.2773515",
+      "title": "San Fernando at Highland",
+      "shortTitle": "San Fernando @ Highland",
+      "stopId": "0429",
+      "tag": "sanhigh",
+      "lat": "34.1567518"
+    },
+    "sanpel_b": {
+      "lon": "-118.2794805",
+      "title": "San Fernando at Pelanconi",
+      "shortTitle": "San Fernando @ Pelanconi",
+      "stopId": "0439",
+      "tag": "sanpel_b",
+      "lat": "34.1590705"
+    },
+    "graair": {
+      "lon": "-118.2834499",
+      "title": "Grandview at Airway",
+      "shortTitle": "Grandview @ Airway",
+      "stopId": "0417",
+      "tag": "graair",
+      "lat": "34.16098"
+    },
+    "graflo": {
+      "lon": "-118.2855112",
+      "title": "Grandview at Flower",
+      "shortTitle": "Grandview @ Flower",
+      "stopId": "0419",
+      "tag": "graflo",
+      "lat": "34.1589989"
+    },
+    "flocirc": {
+      "lon": "-118.2865749",
+      "title": "Flower at Circle Seven",
+      "shortTitle": "Flower @ Circle Seven",
+      "stopId": "0409",
+      "tag": "flocirc",
+      "lat": "34.1594759"
+    },
+    "flodav": {
+      "lon": "-118.2895843",
+      "title": "Flower at Davis",
+      "shortTitle": "Flower @ Davis",
+      "stopId": "0411",
+      "tag": "flodav",
+      "lat": "34.1616431"
+    },
+    "floson": {
+      "lon": "-118.291186",
+      "title": "Flower at Sonora",
+      "shortTitle": "Flower @ Sonora",
+      "stopId": "0412",
+      "tag": "floson",
+      "lat": "34.1628868"
+    },
+    "flowes_n": {
+      "lon": "-118.2955769",
+      "title": "Flower at Western",
+      "shortTitle": "Flower @ Western",
+      "stopId": "0415",
+      "tag": "flowes_n",
+      "lat": "34.1660369"
+    },
+    "floall": {
+      "lon": "-118.29938",
+      "title": "Flower at Allen",
+      "shortTitle": "Flower @ Allen",
+      "stopId": "0407",
+      "tag": "floall",
+      "lat": "34.16879"
+    },
+    "floala": {
+      "lon": "-118.3027081",
+      "title": "Flower at Alameda",
+      "shortTitle": "Flower @ Alameda",
+      "stopId": "0405",
+      "tag": "floala",
+      "lat": "34.1712285"
+    },
+    "flover": {
+      "lon": "-118.3092569",
+      "title": "Flower at Verdugo",
+      "shortTitle": "Flower @ Verdugo",
+      "stopId": "0413",
+      "tag": "flover",
+      "lat": "34.1755981"
+    },
+    "britc_d": {
+      "lon": "-118.3122206",
+      "title": "Burbank RITC",
+      "stopId": "0404",
+      "tag": "britc_d",
+      "lat": "34.1778838"
+    },
+    "verflo": {
+      "lon": "-118.3093111",
+      "title": "Flower at Verdugo",
+      "shortTitle": "Flower @ Verdugo",
+      "stopId": "0414",
+      "tag": "verflo",
+      "lat": "34.1755407"
+    },
+    "alaflo": {
+      "lon": "-118.303312",
+      "title": "Flower at Alameda",
+      "shortTitle": "Flower @ Alameda",
+      "stopId": "0406",
+      "tag": "alaflo",
+      "lat": "34.1715314"
+    },
+    "allflo": {
+      "lon": "-118.2994339",
+      "title": "Flower at Allen",
+      "shortTitle": "Flower @ Allen",
+      "stopId": "0408",
+      "tag": "allflo",
+      "lat": "34.1687231"
+    },
+    "flowes": {
+      "lon": "-118.2956415",
+      "title": "Flower at Western",
+      "shortTitle": "Flower @ Western",
+      "stopId": "0442",
+      "tag": "flowes",
+      "lat": "34.165937"
+    },
+    "sonflo": {
+      "lon": "-118.29167",
+      "title": "Flower at Sonora",
+      "shortTitle": "Flower @ Sonora",
+      "stopId": "0398",
+      "tag": "sonflo",
+      "lat": "34.16303"
+    },
+    "davflo": {
+      "lon": "-118.2896242",
+      "title": "Flower at Davis",
+      "shortTitle": "Flower @ Davis",
+      "stopId": "0441",
+      "tag": "davflo",
+      "lat": "34.1615433"
+    },
+    "circflo": {
+      "lon": "-118.28667",
+      "title": "Flower at Circle Seven",
+      "shortTitle": "Flower @ Circle Seven",
+      "stopId": "0410",
+      "tag": "circflo",
+      "lat": "34.15939"
+    },
+    "flogra": {
+      "lon": "-118.2854177",
+      "title": "Grandview at Flower",
+      "shortTitle": "Grandview @ Flower",
+      "stopId": "0418",
+      "tag": "flogra",
+      "lat": "34.1588922"
+    },
+    "airgra": {
+      "lon": "-118.2833324",
+      "title": "Grandview at Airway",
+      "shortTitle": "Grandview @ Airway",
+      "stopId": "0416",
+      "tag": "airgra",
+      "lat": "34.1608978"
+    },
+    "sanflow_g": {
+      "lon": "-118.279976",
+      "title": "San Fernando at Flower",
+      "shortTitle": "San Fernando @ Flower",
+      "stopId": "0440",
+      "tag": "sanflow_g",
+      "lat": "34.1593058"
+    },
+    "highsan": {
+      "lon": "-118.2771618",
+      "title": "San Fernando at Highland",
+      "shortTitle": "San Fernando @ Highland",
+      "stopId": "0430",
+      "tag": "highsan",
+      "lat": "34.1562591"
+    },
+    "milfsan": {
+      "lon": "-118.2751182",
+      "title": "San Fernando at Milford",
+      "shortTitle": "San Fernando @ Milford",
+      "stopId": "0434",
+      "tag": "milfsan",
+      "lat": "34.1529865"
+    },
+    "calisan": {
+      "lon": "-118.2736241",
+      "title": "San Fernando at California",
+      "shortTitle": "San Fernando @ California",
+      "stopId": "0424",
+      "tag": "calisan",
+      "lat": "34.1501182"
+    },
+    "brosan": {
+      "lon": "-118.27198",
+      "title": "San Fernando at Broadway",
+      "shortTitle": "San Fernando @ Broadway",
+      "stopId": "0423",
+      "tag": "brosan",
+      "lat": "34.14697"
+    },
+    "colosan": {
+      "lon": "-118.2697613",
+      "title": "San Fernando at Colorado",
+      "shortTitle": "San Fernando @ Colorado",
+      "stopId": "0427",
+      "tag": "colosan",
+      "lat": "34.1426031"
+    },
+    "pacsan": {
+      "lon": "-118.2648729",
+      "title": "San Fernando at Pacific",
+      "shortTitle": "San Fernando @ Pacific",
+      "stopId": "0433",
+      "tag": "pacsan",
+      "lat": "34.1369604"
+    },
+    "chevsan": {
+      "lon": "-118.2626606",
+      "title": "San Fernando at Chevy Chase",
+      "shortTitle": "San Fernando @ Chevy Chase",
+      "stopId": "0426",
+      "tag": "chevsan",
+      "lat": "34.1336313"
+    }
+  },
+  "copyright": "All data copyright Glendale Beeline 2018."
+}

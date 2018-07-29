@@ -1,0 +1,119 @@
+{
+  "data": {
+    "green": {
+      "title": "Green",
+      "color": "0ac92b",
+      "tag": "green",
+      "oppositeColor": "000000",
+      "max": [
+        36.989575,
+        -86.4300255
+      ],
+      "min": [
+        36.9490991,
+        -86.4700046
+      ],
+      "stops": {
+        "CAMPBELL_LANE PARK & RIDE": [
+          "wmrt",
+          "greemall",
+          "barnsnob",
+          "krog_pknr",
+          "cambpknr_a"
+        ],
+        "WAL-MART": [
+          "duc",
+          "keen",
+          "creapknr",
+          "evolvill",
+          "scam",
+          "cambpknr",
+          "krog_gm"
+        ],
+        "DSU": [
+          "cambpknr_d",
+          "scam_ob",
+          "evolvill_ob",
+          "univlot",
+          "ranshall",
+          "helmlib",
+          "est",
+          "augualum",
+          "vall"
+        ]
+      }
+    },
+    "red": {
+      "title": "Red",
+      "color": "cd0000",
+      "tag": "red",
+      "oppositeColor": "ffffff",
+      "max": [
+        36.9953094,
+        -86.4407694
+      ],
+      "min": [
+        36.9786796,
+        -86.467127
+      ],
+      "stops": {
+        "RUSSELLVILLE_ROAD PARK & RIDE": [
+          "8thcent",
+          "cent11th",
+          "coluapts",
+          "augualum",
+          "cohh",
+          "gris",
+          "mmth",
+          "pft"
+        ],
+        "8TH_& CENTER ST": [
+          "russpknr",
+          "creapknr",
+          "jagg",
+          "univlot",
+          "mimo",
+          "helmlib",
+          "est",
+          "stat11th"
+        ]
+      }
+    },
+    "white": {
+      "title": "White",
+      "color": "82cffd",
+      "tag": "white",
+      "oppositeColor": "000000",
+      "max": [
+        36.9877076,
+        -86.45031
+      ],
+      "min": [
+        36.9640035,
+        -86.4700051
+      ],
+      "stops": {
+        "Main_Campus": [
+          "cambpknr_d",
+          "scamp_c",
+          "evolvill_ob",
+          "jagg",
+          "univlot",
+          "mimo",
+          "helmlib",
+          "est"
+        ],
+        "CAMPBELL_LANE PARK & RIDE": [
+          "cherhall",
+          "vall",
+          "duc",
+          "keen",
+          "creapknr",
+          "evolvill_ib",
+          "scamp_pknr"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Western Kentucky University 2018."
+}

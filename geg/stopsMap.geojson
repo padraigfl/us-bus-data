@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Economy C",
+        "tag": "ccon_d",
+        "stopId": "3261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5380774,
+          47.6247977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Economy A/B",
+        "tag": "abcon",
+        "stopId": "3262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.536934,
+          47.626803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Economy Parking Lot",
+        "tag": "econpark",
+        "stopId": "3263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5346994,
+          47.6316458
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright Spokane International Airport 2018."
+}
