@@ -1,994 +1,812 @@
 {
   "data": {
-    "1002": {
-      "lon": "-93.61511",
-      "title": "South Meadow Apartments",
-      "stopId": "1002",
-      "tag": "1002",
-      "lat": "42.01741"
-    },
-    "1007": {
-      "lon": "-93.6254399",
-      "title": "S. 4th St. at S. Maple Ave.",
-      "stopId": "1007",
-      "tag": "1007",
-      "lat": "42.0192"
-    },
-    "1016": {
-      "lon": "-93.644317",
-      "title": "Blankenburg Dr. at Stange Rd.",
-      "stopId": "1016",
-      "tag": "1016",
-      "lat": "42.0416004"
-    },
-    "1017": {
-      "lon": "-93.6426499",
-      "title": "University Village Laundry",
-      "stopId": "1017",
-      "tag": "1017",
-      "lat": "42.04136"
-    },
-    "1018": {
-      "lon": "-93.64087",
-      "title": "Stotts Rd. at Blankenburg Dr.",
-      "stopId": "1018",
-      "tag": "1018",
-      "lat": "42.0411999"
-    },
-    "1019": {
-      "lon": "-93.64125",
-      "title": "Stotts Rd. at Edenburn Dr.",
-      "stopId": "1019",
-      "tag": "1019",
-      "lat": "42.04299"
-    },
-    "1020": {
-      "lon": "-93.6402599",
-      "title": "Edenburn Dr. at #27 Schilletter",
-      "stopId": "1020",
-      "tag": "1020",
-      "lat": "42.0443299"
-    },
-    "1021": {
-      "lon": "-93.64196",
-      "title": "#40 Schilletter",
-      "stopId": "1021",
-      "tag": "1021",
-      "lat": "42.0451199"
-    },
-    "1033": {
-      "lon": "-93.6224299",
-      "title": "Northern Lights",
-      "stopId": "1033",
-      "tag": "1033",
-      "lat": "42.05395"
-    },
-    "1034": {
-      "lon": "-93.62341",
-      "title": "Roy Key Ave. at Wheeler St.",
-      "stopId": "1034",
-      "tag": "1034",
-      "lat": "42.05325"
-    },
-    "1035": {
-      "lon": "-93.6233999",
-      "title": "Roy Key Ave. at 30th St.",
-      "stopId": "1035",
-      "tag": "1035",
-      "lat": "42.0514999"
-    },
-    "1065": {
-      "lon": "-93.6107699",
-      "title": "S. 5th Ave. at S. Duff Ave.",
-      "stopId": "1065",
-      "tag": "1065",
-      "lat": "42.01743"
-    },
-    "1069": {
-      "lon": "-93.6261799",
-      "title": "20th St. at Northwestern Ave.",
-      "stopId": "1069",
-      "tag": "1069",
-      "lat": "42.04201"
-    },
-    "1074": {
-      "lon": "-93.62623",
-      "title": "16th St. at Northwestern Ave.",
-      "stopId": "1074",
-      "tag": "1074",
-      "lat": "42.03825"
-    },
-    "1092": {
-      "lon": "-93.6519099",
-      "title": "Howe Hall",
-      "stopId": "1092",
-      "tag": "1092",
-      "lat": "42.0274799"
-    },
-    "1122": {
-      "lon": "-93.65188",
-      "title": "Sweeney Hall",
-      "stopId": "1122",
-      "tag": "1122",
-      "lat": "42.0276599"
-    },
-    "1174": {
-      "lon": "-93.649643",
-      "title": "Lake Laverne",
-      "stopId": "1174",
-      "tag": "1174",
-      "lat": "42.0236267"
-    },
-    "1175": {
-      "lon": "-93.64954",
-      "title": "Enrollment Services Building",
-      "stopId": "1175",
-      "tag": "1175",
-      "lat": "42.02445"
-    },
-    "1176": {
-      "lon": "-93.6507781",
-      "title": "Student Services",
-      "stopId": "1176",
-      "tag": "1176",
-      "lat": "42.0251838"
-    },
-    "1177": {
-      "lon": "-93.65296",
-      "title": "Beyer Hall",
-      "stopId": "1177",
-      "tag": "1177",
-      "lat": "42.0253699"
-    },
-    "1188": {
-      "lon": "-93.6792599",
-      "title": "Steinbeck St. at S. Dakota Ave.",
-      "stopId": "1188",
-      "tag": "1188",
-      "lat": "42.01458"
-    },
-    "1189": {
-      "lon": "-93.68107",
-      "title": "Dickenson Ave. at Steinbeck St.",
-      "stopId": "1189",
-      "tag": "1189",
-      "lat": "42.0142299"
-    },
-    "1190": {
-      "lon": "-93.68158",
-      "title": "Dickenson Ave. at Mortensen Rd.",
-      "stopId": "1190",
-      "tag": "1190",
-      "lat": "42.0128999"
-    },
-    "1209": {
-      "lon": "-93.65268",
-      "title": "State Gym",
-      "stopId": "1209",
-      "tag": "1209",
-      "lat": "42.0253399"
-    },
-    "1210": {
-      "lon": "-93.65049",
-      "title": "Upper Friley",
-      "stopId": "1210",
-      "tag": "1210",
-      "lat": "42.025"
-    },
-    "1211": {
-      "lon": "-93.6498",
-      "title": "Lower Friley",
-      "stopId": "1211",
-      "tag": "1211",
-      "lat": "42.0234699"
-    },
-    "1322": {
-      "lon": "-93.6107199",
-      "title": "S. 16th St. at Duff Ave.",
-      "stopId": "1322",
-      "tag": "1322",
-      "lat": "42.0083799"
-    },
-    "1383": {
-      "lon": "-93.65188",
-      "title": "Bissell Rd. at Osborn Dr.",
-      "stopId": "1383",
-      "tag": "1383",
-      "lat": "42.02927"
-    },
-    "1384": {
-      "lon": "-93.6501",
-      "title": "Pammel Dr. at Spedding Hall",
-      "stopId": "1384",
-      "tag": "1384",
-      "lat": "42.0305"
-    },
-    "1385": {
-      "lon": "-93.64603",
-      "title": "Pammel Dr. at Science II",
-      "stopId": "1385",
-      "tag": "1385",
-      "lat": "42.0305"
-    },
-    "1389": {
-      "lon": "-93.6810299",
-      "title": "Todd Dr. at Sinclair Ave.",
-      "stopId": "1389",
-      "tag": "1389",
-      "lat": "42.02173"
-    },
-    "1390": {
-      "lon": "-93.68346",
-      "title": "Todd Dr. at College Creek Apartments",
-      "stopId": "1390",
-      "tag": "1390",
-      "lat": "42.02186"
-    },
-    "1391": {
-      "lon": "-93.68476",
-      "title": "Thackery Ave. at Todd Dr.",
-      "stopId": "1391",
-      "tag": "1391",
-      "lat": "42.0222699"
-    },
-    "1392": {
-      "lon": "-93.68103",
-      "title": "Lincoln Way at Alcott Ave.",
-      "stopId": "1392",
-      "tag": "1392",
-      "lat": "42.02287"
-    },
-    "1393": {
-      "lon": "-93.65537",
-      "title": "Lincoln Way at Hyland Ave.",
-      "stopId": "1393",
-      "tag": "1393",
-      "lat": "42.02265"
-    },
-    "1394": {
-      "lon": "-93.65327",
-      "title": "Lincoln Way at Sheldon Ave.",
-      "stopId": "1394",
-      "tag": "1394",
-      "lat": "42.02266"
-    },
-    "1395": {
-      "lon": "-93.64897",
-      "title": "Lake Laverne",
-      "stopId": "1395",
-      "tag": "1395",
-      "lat": "42.02404"
-    },
-    "1399": {
-      "lon": "-93.6823099",
-      "title": "Todd Dr. at Alcott Ave.",
-      "stopId": "1399",
-      "tag": "1399",
-      "lat": "42.02187"
-    },
-    "1400": {
-      "lon": "-93.68072",
-      "title": "Todd Dr. at Sinclair Ave.",
-      "stopId": "1400",
-      "tag": "1400",
-      "lat": "42.02162"
-    },
-    "1406": {
-      "lon": "-93.6340299",
-      "title": "Christensen at Veterinary Medicine",
-      "stopId": "1406",
-      "tag": "1406",
-      "lat": "42.0063999"
-    },
-    "1422": {
-      "lon": "-93.63196",
-      "title": "Aquatics Center",
-      "stopId": "1422",
-      "tag": "1422",
-      "lat": "42.0355599"
-    },
-    "1423": {
-      "lon": "-93.6228099",
-      "title": "13th St. at Roosevelt Ave.",
-      "stopId": "1423",
-      "tag": "1423",
-      "lat": "42.0346499"
-    },
-    "1424": {
-      "lon": "-93.62621",
-      "title": "13th St. at Northwestern Ave.",
-      "stopId": "1424",
-      "tag": "1424",
-      "lat": "42.0346399"
-    },
-    "1425": {
-      "lon": "-93.62538",
-      "title": "13th St. at Northwestern Ave.",
-      "stopId": "1425",
-      "tag": "1425",
-      "lat": "42.03446"
-    },
-    "1426": {
-      "lon": "-93.62219",
-      "title": "13th St. at Roosevelt Ave.",
-      "stopId": "1426",
-      "tag": "1426",
-      "lat": "42.03446"
-    },
-    "1460": {
-      "lon": "-93.6430899",
-      "title": "Union Drive at the Knoll",
-      "stopId": "1460",
-      "tag": "1460",
-      "lat": "42.02386"
-    },
     "2000": {
-      "lon": "-93.63901",
+      "lon": "-93.639",
       "title": "Lincoln Way at Beach Ave.",
       "stopId": "2000",
       "tag": "2000",
-      "lat": "42.0226499"
+      "lat": "42.0225899"
     },
     "2001": {
-      "lon": "-93.64006",
+      "lon": "-93.64004",
       "title": "Lincoln Way at Beach Ave.",
       "stopId": "2001",
       "tag": "2001",
-      "lat": "42.0227599"
+      "lat": "42.0228899"
     },
     "2010": {
-      "lon": "-93.64245",
+      "lon": "-93.6424499",
       "title": "Buchanan Hall",
       "stopId": "2010",
       "tag": "2010",
-      "lat": "42.02268"
+      "lat": "42.02265"
     },
     "2011": {
       "lon": "-93.64224",
       "title": "Lincoln Way at Union Dr.",
       "stopId": "2011",
       "tag": "2011",
-      "lat": "42.02278"
+      "lat": "42.0228799"
     },
     "2020": {
-      "lon": "-93.6457499",
+      "lon": "-93.6457299",
       "title": "Lincoln Way at Lynn Ave.",
       "stopId": "2020",
       "tag": "2020",
-      "lat": "42.02269"
+      "lat": "42.02263"
     },
     "2021": {
-      "lon": "-93.6469699",
+      "lon": "-93.6469599",
       "title": "Lincoln Way at Lynn Ave.",
       "stopId": "2021",
       "tag": "2021",
-      "lat": "42.02282"
+      "lat": "42.0228999"
     },
     "2030": {
-      "lon": "-93.6491799",
+      "lon": "-93.64918",
       "title": "Kingland Systems",
       "stopId": "2030",
       "tag": "2030",
-      "lat": "42.02272"
+      "lat": "42.02267"
+    },
+    "2040": {
+      "lon": "-93.64953",
+      "title": "Lake Laverne",
+      "stopId": "2040",
+      "tag": "2040",
+      "lat": "42.0235199"
+    },
+    "2041": {
+      "lon": "-93.6498899",
+      "title": "Lower Friley",
+      "stopId": "2041",
+      "tag": "2041",
+      "lat": "42.0235599"
+    },
+    "2050": {
+      "lon": "-93.6505399",
+      "title": "Upper Friley",
+      "stopId": "2050",
+      "tag": "2050",
+      "lat": "42.02495"
+    },
+    "2051": {
+      "lon": "-93.6506999",
+      "title": "Student Services",
+      "stopId": "2051",
+      "tag": "2051",
+      "lat": "42.0252399"
+    },
+    "2060": {
+      "lon": "-93.65269",
+      "title": "State Gym",
+      "stopId": "2060",
+      "tag": "2060",
+      "lat": "42.0252899"
+    },
+    "2061": {
+      "lon": "-93.65296",
+      "title": "Beyer Hall",
+      "stopId": "2061",
+      "tag": "2061",
+      "lat": "42.0254699"
     },
     "2070": {
-      "lon": "-93.65501",
+      "lon": "-93.65523",
       "title": "West St. at Hyland Ave.",
       "stopId": "2070",
       "tag": "2070",
-      "lat": "42.02533"
+      "lat": "42.02528"
     },
     "2071": {
-      "lon": "-93.65542",
+      "lon": "-93.6554299",
       "title": "West St. at Hyland Ave.",
       "stopId": "2071",
       "tag": "2071",
-      "lat": "42.02534"
+      "lat": "42.0254199"
+    },
+    "2100": {
+      "lon": "-93.64697",
+      "title": "Morrill Rd. at Union Dr.",
+      "stopId": "2100",
+      "tag": "2100",
+      "lat": "42.0243699"
+    },
+    "2101": {
+      "lon": "-93.6467599",
+      "title": "Morrill Rd. at Memorial Union",
+      "stopId": "2101",
+      "tag": "2101",
+      "lat": "42.02374"
+    },
+    "2110": {
+      "lon": "-93.649",
+      "title": "Lake Laverne",
+      "stopId": "2110",
+      "tag": "2110",
+      "lat": "42.024"
     },
     "2200": {
-      "lon": "-93.6392999",
+      "lon": "-93.63919",
       "title": "Maple Hall",
       "stopId": "2200",
       "tag": "2200",
-      "lat": "42.02381"
+      "lat": "42.0238299"
     },
     "2201": {
-      "lon": "-93.6394399",
+      "lon": "-93.6395599",
       "title": "Beach Rd. at Linden Hall",
       "stopId": "2201",
       "tag": "2201",
-      "lat": "42.02322"
+      "lat": "42.02323"
     },
     "2210": {
-      "lon": "-93.63899",
+      "lon": "-93.63888",
       "title": "Lied Recreation",
       "stopId": "2210",
       "tag": "2210",
-      "lat": "42.0265"
+      "lat": "42.0264299"
     },
     "2211": {
-      "lon": "-93.6390099",
+      "lon": "-93.6390699",
       "title": "Beach Rd. at Forker Hall",
       "stopId": "2211",
       "tag": "2211",
-      "lat": "42.0261599"
+      "lat": "42.0261499"
     },
     "2221": {
       "lon": "-93.6406799",
       "title": "General Serivces South",
       "stopId": "2221",
       "tag": "2221",
-      "lat": "42.02726"
+      "lat": "42.0273399"
     },
     "2230": {
-      "lon": "-93.64149",
+      "lon": "-93.6414",
       "title": "General Serivces West",
       "stopId": "2230",
       "tag": "2230",
-      "lat": "42.0282199"
+      "lat": "42.0281699"
     },
     "2231": {
-      "lon": "-93.64152",
+      "lon": "-93.6416199",
       "title": "Agronomy Hall",
       "stopId": "2231",
       "tag": "2231",
-      "lat": "42.0281699"
+      "lat": "42.02819"
     },
     "2241": {
-      "lon": "-93.64794",
+      "lon": "-93.6481099",
       "title": "Parks Library",
       "stopId": "2241",
       "tag": "2241",
-      "lat": "42.0279199"
+      "lat": "42.02791"
     },
     "2251": {
-      "lon": "-93.64792",
+      "lon": "-93.6480699",
       "title": "Beardshear Hall",
       "stopId": "2251",
       "tag": "2251",
       "lat": "42.02606"
     },
     "2260": {
-      "lon": "-93.6460999",
+      "lon": "-93.64618",
       "title": "Memorial Union",
       "stopId": "2260",
       "tag": "2260",
-      "lat": "42.02459"
+      "lat": "42.0246799"
     },
     "2261": {
       "lon": "-93.64597",
       "title": "Memorial Union",
       "stopId": "2261",
       "tag": "2261",
-      "lat": "42.0245599"
+      "lat": "42.0245"
     },
     "2270": {
-      "lon": "-93.6437699",
+      "lon": "-93.6438199",
       "title": "Wallace Rd. at Gerdin Hall",
       "stopId": "2270",
       "tag": "2270",
-      "lat": "42.02522"
+      "lat": "42.0252499"
     },
     "2271": {
-      "lon": "-93.64346",
+      "lon": "-93.6434099",
       "title": "Wallace Rd. at Gerdin Hall",
       "stopId": "2271",
       "tag": "2271",
-      "lat": "42.0254199"
+      "lat": "42.0254"
     },
     "2280": {
-      "lon": "-93.64228",
+      "lon": "-93.6422999",
       "title": "Food Science",
       "stopId": "2280",
       "tag": "2280",
-      "lat": "42.0264499"
+      "lat": "42.0264699"
     },
     "2281": {
-      "lon": "-93.6419799",
+      "lon": "-93.64194",
       "title": "Wallace Rd. at Forker Hall",
       "stopId": "2281",
       "tag": "2281",
-      "lat": "42.02666"
+      "lat": "42.02662"
     },
     "2301": {
-      "lon": "-93.63948",
+      "lon": "-93.63958",
       "title": "Beach Ave. at Lincoln Way",
       "stopId": "2301",
       "tag": "2301",
-      "lat": "42.02232"
+      "lat": "42.0223199"
+    },
+    "2311": {
+      "lon": "-93.6430899",
+      "title": "Union Drive at the Knoll",
+      "stopId": "2311",
+      "tag": "2311",
+      "lat": "42.02386"
     },
     "2490": {
-      "lon": "-93.64367",
+      "lon": "-93.6436499",
       "title": "University Blvd. at Stange Rd.",
       "stopId": "2490",
       "tag": "2490",
-      "lat": "42.0305"
+      "lat": "42.03043"
     },
     "2491": {
-      "lon": "-93.64404",
+      "lon": "-93.64403",
       "title": "University Blvd. at Stange Rd.",
       "stopId": "2491",
       "tag": "2491",
-      "lat": "42.03054"
+      "lat": "42.0306399"
     },
     "2500": {
       "lon": "-93.644",
       "title": "Bessey Hall",
       "stopId": "2500",
       "tag": "2500",
-      "lat": "42.0288599"
+      "lat": "42.0288199"
     },
     "2501": {
-      "lon": "-93.64444",
+      "lon": "-93.64445",
       "title": "Kildee Hall",
       "stopId": "2501",
       "tag": "2501",
-      "lat": "42.0288899"
+      "lat": "42.0289399"
     },
     "2511": {
-      "lon": "-93.6468599",
+      "lon": "-93.64687",
       "title": "Physics Hall",
       "stopId": "2511",
       "tag": "2511",
-      "lat": "42.02888"
+      "lat": "42.0289499"
     },
     "2520": {
-      "lon": "-93.64854",
+      "lon": "-93.64855",
       "title": "Parks Library",
       "stopId": "2520",
       "tag": "2520",
-      "lat": "42.02886"
+      "lat": "42.02882"
     },
     "2521": {
-      "lon": "-93.6488999",
+      "lon": "-93.6488799",
       "title": "Gilman Hall",
       "stopId": "2521",
       "tag": "2521",
-      "lat": "42.0288899"
+      "lat": "42.0289699"
     },
     "2530": {
-      "lon": "-93.6508299",
+      "lon": "-93.6508199",
       "title": "Coover Hall",
       "stopId": "2530",
       "tag": "2530",
-      "lat": "42.02886"
+      "lat": "42.02881"
     },
     "2531": {
-      "lon": "-93.65101",
+      "lon": "-93.6509899",
       "title": "Armory",
       "stopId": "2531",
       "tag": "2531",
-      "lat": "42.0288899"
+      "lat": "42.0289599"
+    },
+    "2540": {
+      "lon": "-93.65176",
+      "title": "Sweeney Hall",
+      "stopId": "2540",
+      "tag": "2540",
+      "lat": "42.0276599"
+    },
+    "2541": {
+      "lon": "-93.6520699",
+      "title": "Howe Hall",
+      "stopId": "2541",
+      "tag": "2541",
+      "lat": "42.02747"
+    },
+    "3261": {
+      "lon": "-93.69577",
+      "title": "Mortensen Rd. at West Bus Turnaround",
+      "stopId": "3261",
+      "tag": "3261",
+      "lat": "42.0154999"
+    },
+    "3270": {
+      "lon": "-93.68883",
+      "title": "Mortensen Rd. at Wilder Blvd.",
+      "stopId": "3270",
+      "tag": "3270",
+      "lat": "42.0136"
+    },
+    "3271": {
+      "lon": "-93.68923",
+      "title": "Mortensen Rd. at Wilder Blvd.",
+      "stopId": "3271",
+      "tag": "3271",
+      "lat": "42.0138799"
     },
     "3280": {
-      "lon": "-93.68658",
+      "lon": "-93.6866099",
       "title": "Mortensen Rd. at Miller Ave.",
       "stopId": "3280",
       "tag": "3280",
-      "lat": "42.0135299"
+      "lat": "42.0134799"
+    },
+    "3281": {
+      "lon": "-93.68721",
+      "title": "Mortensen Rd. at Miller Ave.",
+      "stopId": "3281",
+      "tag": "3281",
+      "lat": "42.0138399"
     },
     "3290": {
-      "lon": "-93.68442",
+      "lon": "-93.6844499",
       "title": "Mortensen Rd. at Poe Ave.",
       "stopId": "3290",
       "tag": "3290",
-      "lat": "42.01289"
+      "lat": "42.0128"
     },
     "3291": {
-      "lon": "-93.6848199",
+      "lon": "-93.68466",
       "title": "Mortensen Rd. at Poe Ave.",
       "stopId": "3291",
       "tag": "3291",
-      "lat": "42.0129999"
+      "lat": "42.01313"
     },
     "3300": {
-      "lon": "-93.6760599",
+      "lon": "-93.67579",
       "title": "Mortensen Rd. at Coconino Rd.",
       "stopId": "3300",
       "tag": "3300",
-      "lat": "42.01206"
+      "lat": "42.01196"
     },
     "3301": {
-      "lon": "-93.6750699",
+      "lon": "-93.6751099",
       "title": "Mortensen Rd. at Pinon Rd.",
       "stopId": "3301",
       "tag": "3301",
-      "lat": "42.01205"
+      "lat": "42.0121699"
     },
     "3310": {
-      "lon": "-93.67355",
+      "lon": "-93.6735499",
       "title": "Mortensen Rd. at Dotson Dr.",
       "stopId": "3310",
       "tag": "3310",
       "lat": "42.01197"
     },
+    "3320": {
+      "lon": "-93.6708199",
+      "title": "Mortensen Rd. at Seagrave Blvd.",
+      "stopId": "3320",
+      "tag": "3320",
+      "lat": "42.01193"
+    },
+    "3321": {
+      "lon": "-93.67202",
+      "title": "Mortensen Rd. at Seagrave Blvd.",
+      "stopId": "3321",
+      "tag": "3321",
+      "lat": "42.0121399"
+    },
     "3333": {
-      "lon": "-93.67143",
+      "lon": "-93.6715",
       "title": "Ames Middle School",
       "stopId": "3333",
       "tag": "3333",
-      "lat": "42.0121999"
+      "lat": "42.0122499"
+    },
+    "3440": {
+      "lon": "-93.68212",
+      "title": "Alcott Ave. at Todd Dr.",
+      "stopId": "3440",
+      "tag": "3440",
+      "lat": "42.0222499"
     },
     "3450": {
-      "lon": "-93.6845",
+      "lon": "-93.68448",
       "title": "Todd Dr. at Thackery Ave.",
       "stopId": "3450",
       "tag": "3450",
-      "lat": "42.0218999"
+      "lat": "42.02185"
     },
     "3461": {
-      "lon": "-93.6824099",
+      "lon": "-93.68241",
       "title": "Lincoln Way at Alcott Ave.",
       "stopId": "3461",
       "tag": "3461",
-      "lat": "42.02295"
+      "lat": "42.0230499"
     },
     "3470": {
-      "lon": "-93.6816617",
+      "lon": "-93.68155",
       "title": "Dickenson Ave. at Mortensen Rd.",
       "stopId": "3470",
       "tag": "3470",
-      "lat": "42.0126823"
+      "lat": "42.0126399"
     },
     "3480": {
-      "lon": "-93.6811399",
+      "lon": "-93.68101",
       "title": "Dickenson Ave. at Steinbeck St.",
       "stopId": "3480",
       "tag": "3480",
-      "lat": "42.01407"
+      "lat": "42.01401"
     },
     "3490": {
-      "lon": "-93.6791199",
+      "lon": "-93.67916",
       "title": "Steinbeck St. at S. Dakota Ave.",
       "stopId": "3490",
       "tag": "3490",
-      "lat": "42.01459"
+      "lat": "42.01445"
     },
     "3500": {
-      "lon": "-93.67868",
+      "lon": "-93.67855",
       "title": "S. Dakota Ave. at Clemens Blvd.",
       "stopId": "3500",
       "tag": "3500",
-      "lat": "42.01813"
+      "lat": "42.0181199"
     },
     "3501": {
-      "lon": "-93.67868",
+      "lon": "-93.6787999",
       "title": "S. Dakota Ave. at Clemens Blvd.",
       "stopId": "3501",
       "tag": "3501",
-      "lat": "42.0176399"
+      "lat": "42.0176499"
     },
     "3510": {
-      "lon": "-93.6787",
+      "lon": "-93.67859",
       "title": "S. Dakota Ave. at Todd Dr.",
       "stopId": "3510",
       "tag": "3510",
-      "lat": "42.02146"
+      "lat": "42.02145"
     },
     "3511": {
-      "lon": "-93.6787",
+      "lon": "-93.6788499",
       "title": "S. Dakota Ave. at Todd Dr.",
       "stopId": "3511",
       "tag": "3511",
       "lat": "42.0211199"
     },
     "3521": {
-      "lon": "-93.6787099",
+      "lon": "-93.67885",
       "title": "S. Dakota Ave. at Lincoln Swing",
       "stopId": "3521",
       "tag": "3521",
-      "lat": "42.0222299"
+      "lat": "42.0222099"
     },
     "3530": {
-      "lon": "-93.6782199",
+      "lon": "-93.67821",
       "title": "Lincoln Way at S. Dakota Ave.",
       "stopId": "3530",
       "tag": "3530",
-      "lat": "42.02287"
+      "lat": "42.02286"
     },
     "3531": {
       "lon": "-93.6791599",
       "title": "Lincoln Way at N. Dakota Ave.",
       "stopId": "3531",
       "tag": "3531",
-      "lat": "42.023"
+      "lat": "42.0230799"
     },
     "3540": {
-      "lon": "-93.67279",
+      "lon": "-93.67275",
       "title": "Lincoln Way at Beedle Dr.",
       "stopId": "3540",
       "tag": "3540",
-      "lat": "42.0228499"
+      "lat": "42.0227999"
     },
     "3541": {
-      "lon": "-93.67358",
+      "lon": "-93.6735699",
       "title": "Lincoln Way at Hickory Dr.",
       "stopId": "3541",
       "tag": "3541",
-      "lat": "42.02296"
+      "lat": "42.0230399"
     },
     "3550": {
-      "lon": "-93.66849",
+      "lon": "-93.6684799",
       "title": "Lincoln Way at Marshall Ave.",
       "stopId": "3550",
       "tag": "3550",
-      "lat": "42.02277"
+      "lat": "42.02271"
     },
     "3551": {
       "lon": "-93.66994",
       "title": "Lincoln Way at Marshall Ave.",
       "stopId": "3551",
       "tag": "3551",
-      "lat": "42.0228999"
+      "lat": "42.0229899"
     },
     "3560": {
-      "lon": "-93.66525",
+      "lon": "-93.66429",
       "title": "Lincoln Way at S. Franklin Ave.",
       "stopId": "3560",
       "tag": "3560",
-      "lat": "42.02281"
+      "lat": "42.02272"
     },
     "3561": {
-      "lon": "-93.6655899",
+      "lon": "-93.66559",
       "title": "Lincoln Way at Franklin Ave.",
       "stopId": "3561",
       "tag": "3561",
-      "lat": "42.0228"
+      "lat": "42.0229099"
     },
     "3570": {
-      "lon": "-93.6613499",
+      "lon": "-93.6613399",
       "title": "Lincoln Way at S. Wilmoth Ave.",
       "stopId": "3570",
       "tag": "3570",
-      "lat": "42.02276"
+      "lat": "42.02267"
     },
     "3571": {
-      "lon": "-93.66208",
+      "lon": "-93.66207",
       "title": "Lincoln Way at Wilmoth Ave.",
       "stopId": "3571",
       "tag": "3571",
-      "lat": "42.02277"
+      "lat": "42.0228599"
     },
     "3580": {
-      "lon": "-93.6585",
+      "lon": "-93.65847",
       "title": "Lincoln Way at State Ave.",
       "stopId": "3580",
       "tag": "3580",
-      "lat": "42.02271"
+      "lat": "42.02264"
     },
     "3581": {
-      "lon": "-93.6594199",
+      "lon": "-93.65942",
       "title": "Lincoln Way at State Ave.",
       "stopId": "3581",
       "tag": "3581",
-      "lat": "42.02273"
+      "lat": "42.0228099"
     },
     "3590": {
-      "lon": "-93.65556",
+      "lon": "-93.6555",
       "title": "Hyland Ave. at Lincoln Way",
       "stopId": "3590",
       "tag": "3590",
-      "lat": "42.02316"
+      "lat": "42.0231499"
     },
     "3591": {
-      "lon": "-93.6555999",
+      "lon": "-93.6556999",
       "title": "Hyland Ave. at Lincoln Way",
       "stopId": "3591",
       "tag": "3591",
-      "lat": "42.02303"
+      "lat": "42.02302"
+    },
+    "3700": {
+      "lon": "-93.6532699",
+      "title": "Lincoln Way at Sheldon Ave.",
+      "stopId": "3700",
+      "tag": "3700",
+      "lat": "42.02266"
     },
     "3800": {
-      "lon": "-93.6557",
+      "lon": "-93.65558",
       "title": "Hyland Ave. at Sheldon",
       "stopId": "3800",
       "tag": "3800",
-      "lat": "42.02855"
+      "lat": "42.0285399"
     },
     "3801": {
-      "lon": "-93.6557299",
+      "lon": "-93.6558099",
       "title": "Hyland Ave. at Oakland St.",
       "stopId": "3801",
       "tag": "3801",
-      "lat": "42.02844"
+      "lat": "42.0284399"
     },
     "3810": {
-      "lon": "-93.65566",
+      "lon": "-93.65556",
       "title": "Hyland Ave. at Forest Hills Dr.",
       "stopId": "3810",
       "tag": "3810",
-      "lat": "42.0308399"
+      "lat": "42.03084"
     },
     "3811": {
-      "lon": "-93.65565",
+      "lon": "-93.6557799",
       "title": "Hyland Ave. at Forest Hills Dr.",
       "stopId": "3811",
       "tag": "3811",
-      "lat": "42.03212"
+      "lat": "42.0310099"
     },
     "3820": {
-      "lon": "-93.65564",
+      "lon": "-93.65551",
       "title": "Hyland Ave. at Ross Rd.",
       "stopId": "3820",
       "tag": "3820",
-      "lat": "42.03332"
+      "lat": "42.0333099"
     },
     "3831": {
-      "lon": "-93.6556599",
+      "lon": "-93.6557299",
       "title": "Hyland Ave. at Ontario St.",
       "stopId": "3831",
       "tag": "3831",
       "lat": "42.03407"
     },
     "3841": {
-      "lon": "-93.6569099",
+      "lon": "-93.65714",
       "title": "Ontario St. at Hyland Ave.",
       "stopId": "3841",
       "tag": "3841",
-      "lat": "42.03447"
+      "lat": "42.0345499"
     },
     "3850": {
-      "lon": "-93.65892",
+      "lon": "-93.6589099",
       "title": "Ontario St. at Iowa Ave.",
       "stopId": "3850",
       "tag": "3850",
-      "lat": "42.0344399"
+      "lat": "42.03439"
     },
     "3851": {
-      "lon": "-93.6594899",
+      "lon": "-93.6595799",
       "title": "Ontario St. at Iowa Cir.",
       "stopId": "3851",
       "tag": "3851",
-      "lat": "42.03446"
+      "lat": "42.0345499"
     },
     "3860": {
-      "lon": "-93.6613899",
+      "lon": "-93.6613599",
       "title": "Ontario St. at Wisconsin Ave.",
       "stopId": "3860",
       "tag": "3860",
-      "lat": "42.0344399"
+      "lat": "42.03439"
     },
     "3861": {
-      "lon": "-93.66256",
+      "lon": "-93.6625399",
       "title": "Ontario St. at Minnesota Ave.",
       "stopId": "3861",
       "tag": "3861",
-      "lat": "42.03446"
+      "lat": "42.03455"
     },
     "3870": {
-      "lon": "-93.66515",
+      "lon": "-93.66514",
       "title": "Ontario St. at Scholl Rd.",
       "stopId": "3870",
       "tag": "3870",
-      "lat": "42.03444"
+      "lat": "42.03439"
     },
     "3871": {
-      "lon": "-93.66577",
+      "lon": "-93.66578",
       "title": "Ontario St. at Scholl Rd.",
       "stopId": "3871",
       "tag": "3871",
-      "lat": "42.03447"
+      "lat": "42.0345499"
     },
     "3880": {
-      "lon": "-93.66822",
+      "lon": "-93.66821",
       "title": "Ontario St. at Garfield Ave.",
       "stopId": "3880",
       "tag": "3880",
-      "lat": "42.0344499"
+      "lat": "42.0343999"
     },
     "3881": {
       "lon": "-93.67004",
       "title": "Ontario St. at Garfield Ave.",
       "stopId": "3881",
       "tag": "3881",
-      "lat": "42.0344999"
+      "lat": "42.0345699"
     },
     "3890": {
       "lon": "-93.67192",
       "title": "Ontario St. at Alabama Ln.",
       "stopId": "3890",
       "tag": "3890",
-      "lat": "42.03448"
+      "lat": "42.03441"
     },
     "3891": {
-      "lon": "-93.67227",
+      "lon": "-93.67228",
       "title": "Ontario St. at Alabama Ln.",
       "stopId": "3891",
       "tag": "3891",
-      "lat": "42.03451"
+      "lat": "42.0346199"
     },
     "3894": {
-      "lon": "-93.6747",
+      "lon": "-93.6746999",
       "title": "Ontario St. at Arizona Ave.",
       "stopId": "3894",
       "tag": "3894",
-      "lat": "42.03451"
+      "lat": "42.03446"
     },
     "3900": {
-      "lon": "-93.67692",
+      "lon": "-93.67694",
       "title": "Ontario St. at Woodstock Ave.",
       "stopId": "3900",
       "tag": "3900",
-      "lat": "42.03456"
+      "lat": "42.0346499"
     },
     "3901": {
-      "lon": "-93.6776199",
+      "lon": "-93.67727",
       "title": "Ontario St. at Sawyer School",
       "stopId": "3901",
       "tag": "3901",
-      "lat": "42.03446"
+      "lat": "42.03445"
     },
     "3910": {
       "lon": "-93.68014",
       "title": "Ontario St. at Delaware Ave.",
       "stopId": "3910",
       "tag": "3910",
-      "lat": "42.03454"
+      "lat": "42.03449"
     },
     "3911": {
-      "lon": "-93.6805199",
+      "lon": "-93.68054",
       "title": "Ontario St. at Delaware Ave.",
       "stopId": "3911",
       "tag": "3911",
-      "lat": "42.03456"
+      "lat": "42.0346599"
     },
     "3920": {
       "lon": "-93.68223",
       "title": "Ontario St. at Georgia Ave.",
       "stopId": "3920",
       "tag": "3920",
-      "lat": "42.03452"
+      "lat": "42.03444"
     },
     "3921": {
       "lon": "-93.6829599",
       "title": "Ontario St. at Georgia Ave.",
       "stopId": "3921",
       "tag": "3921",
-      "lat": "42.0345299"
+      "lat": "42.0346299"
     },
     "3930": {
-      "lon": "-93.68457",
+      "lon": "-93.6845699",
       "title": "Ontario St. at Illinois Ave.",
       "stopId": "3930",
       "tag": "3930",
-      "lat": "42.03449"
+      "lat": "42.03443"
     },
     "3931": {
       "lon": "-93.6855099",
       "title": "Ontario St. at Illinois Ave.",
       "stopId": "3931",
       "tag": "3931",
-      "lat": "42.0345"
+      "lat": "42.0345799"
     },
     "3940": {
-      "lon": "-93.6868299",
+      "lon": "-93.6868199",
       "title": "Ontario St. at Kentucky Ave.",
       "stopId": "3940",
       "tag": "3940",
-      "lat": "42.03448"
+      "lat": "42.03441"
     },
     "3941": {
-      "lon": "-93.6882299",
+      "lon": "-93.6882399",
       "title": "Ontario St. at Kentucky Ave.",
       "stopId": "3941",
       "tag": "3941",
-      "lat": "42.0345"
+      "lat": "42.0345599"
     },
     "3951": {
-      "lon": "-93.69105",
+      "lon": "-93.69104",
       "title": "Ontario St. at California Ave.",
       "stopId": "3951",
       "tag": "3951",
-      "lat": "42.0346999"
+      "lat": "42.0347199"
     },
     "4000": {
-      "lon": "-93.6205",
+      "lon": "-93.62043",
       "title": "Grand Ave. at 30th St.",
       "stopId": "4000",
       "tag": "4000",
-      "lat": "42.05152"
+      "lat": "42.0515199"
     },
     "4010": {
-      "lon": "-93.6205308",
+      "lon": "-93.62045",
       "title": "Grand Ave. at Wheeler St.",
       "stopId": "4010",
       "tag": "4010",
@@ -999,598 +817,633 @@
       "title": "Grand Ave. at Wheeler St.",
       "stopId": "4011",
       "tag": "4011",
-      "lat": "42.0536099"
+      "lat": "42.05361"
     },
     "4020": {
-      "lon": "-93.62097",
+      "lon": "-93.6209599",
       "title": "Bloomington Rd. at Grand Ave.",
       "stopId": "4020",
       "tag": "4020",
-      "lat": "42.05595"
+      "lat": "42.05586"
     },
     "4021": {
-      "lon": "-93.6210999",
+      "lon": "-93.6211299",
       "title": "Bloomington Rd. at Grand Ave.",
       "stopId": "4021",
       "tag": "4021",
-      "lat": "42.05605"
+      "lat": "42.0561399"
     },
     "4030": {
-      "lon": "-93.62334",
+      "lon": "-93.6226199",
       "title": "Bloomington Rd. at Roy Key Ave.",
       "stopId": "4030",
       "tag": "4030",
-      "lat": "42.05606"
+      "lat": "42.05589"
     },
     "4031": {
-      "lon": "-93.62262",
+      "lon": "-93.62334",
       "title": "Bloomington Rd. at Roy Key Ave.",
       "stopId": "4031",
       "tag": "4031",
-      "lat": "42.05593"
+      "lat": "42.0561199"
     },
     "4040": {
-      "lon": "-93.6299",
+      "lon": "-93.6299199",
       "title": "Bloomington Rd. at Hoover Ave.",
       "stopId": "4040",
       "tag": "4040",
-      "lat": "42.05583"
+      "lat": "42.05578"
     },
     "4041": {
-      "lon": "-93.63064",
+      "lon": "-93.6306499",
       "title": "Bloomington Rd. at Hoover Ave.",
       "stopId": "4041",
       "tag": "4041",
-      "lat": "42.05593"
+      "lat": "42.0559899"
     },
     "4050": {
-      "lon": "-93.6346899",
+      "lon": "-93.6346699",
       "title": "Bloomington Rd. at Fletcher Blvd.",
       "stopId": "4050",
       "tag": "4050",
-      "lat": "42.05641"
+      "lat": "42.05636"
     },
     "4051": {
-      "lon": "-93.634",
+      "lon": "-93.6339799",
       "title": "Bloomington Rd. at Fletcher Blvd.",
       "stopId": "4051",
       "tag": "4051",
-      "lat": "42.05634"
+      "lat": "42.0564299"
     },
     "4060": {
-      "lon": "-93.63762",
+      "lon": "-93.6376199",
       "title": "Bloomington Rd. at Eisenhower Ave.",
       "stopId": "4060",
       "tag": "4060",
-      "lat": "42.05637"
+      "lat": "42.05631"
     },
     "4061": {
-      "lon": "-93.63828",
+      "lon": "-93.6382599",
       "title": "Bloomington Rd. at Eisenhower Ave.",
       "stopId": "4061",
       "tag": "4061",
-      "lat": "42.05638"
+      "lat": "42.0564499"
     },
     "4070": {
-      "lon": "-93.6411199",
+      "lon": "-93.64113",
       "title": "Bloomington Rd. at Hyde Ave.",
       "stopId": "4070",
       "tag": "4070",
-      "lat": "42.05629"
+      "lat": "42.05621"
     },
     "4071": {
-      "lon": "-93.6415899",
+      "lon": "-93.6416",
       "title": "Bloomington Rd. at Hyde Ave.",
       "stopId": "4071",
       "tag": "4071",
-      "lat": "42.0563099"
+      "lat": "42.0563999"
     },
     "4080": {
-      "lon": "-93.64486",
+      "lon": "-93.64466",
       "title": "Stange Rd. at Bloomington Rd. Rd.",
       "stopId": "4080",
       "tag": "4080",
-      "lat": "42.0560099"
+      "lat": "42.056"
     },
     "4081": {
-      "lon": "-93.6449899",
+      "lon": "-93.6452399",
       "title": "Stange Rd. at Bloomington Rd.",
       "stopId": "4081",
       "tag": "4081",
-      "lat": "42.0559599"
+      "lat": "42.0559399"
     },
     "4090": {
-      "lon": "-93.64485",
+      "lon": "-93.64473",
       "title": "Stange Rd. at Yorkshire Rd.",
       "stopId": "4090",
       "tag": "4090",
       "lat": "42.0540599"
     },
     "4091": {
-      "lon": "-93.64498",
+      "lon": "-93.6452199",
       "title": "Stange Rd. at Yorkshire Rd.",
       "stopId": "4091",
       "tag": "4091",
-      "lat": "42.05401"
+      "lat": "42.05405"
     },
     "4100": {
-      "lon": "-93.64485",
+      "lon": "-93.64476",
       "title": "Stange Rd. at Aspen Rd.",
       "stopId": "4100",
       "tag": "4100",
       "lat": "42.0506399"
     },
     "4101": {
-      "lon": "-93.64538",
+      "lon": "-93.64551",
       "title": "Stange Rd. at Aspen Rd.",
       "stopId": "4101",
       "tag": "4101",
       "lat": "42.0496399"
     },
     "4104": {
-      "lon": "-93.64498",
+      "lon": "-93.64489",
       "title": "Stange Rd. at Northridge Pkwy",
       "stopId": "4104",
       "tag": "4104",
       "lat": "42.0495199"
     },
     "4110": {
-      "lon": "-93.6448",
+      "lon": "-93.64471",
       "title": "Stange Rd. at Camden Dr.",
       "stopId": "4110",
       "tag": "4110",
-      "lat": "42.04681"
+      "lat": "42.04682"
     },
     "4111": {
-      "lon": "-93.64497",
+      "lon": "-93.6450899",
       "title": "Stange Rd. at Bristol Dr.",
       "stopId": "4111",
       "tag": "4111",
-      "lat": "42.0468"
+      "lat": "42.0467999"
     },
     "4120": {
-      "lon": "-93.64482",
+      "lon": "-93.64476",
       "title": "Stange Rd. at Greensboro Dr.",
       "stopId": "4120",
       "tag": "4120",
-      "lat": "42.04395"
+      "lat": "42.0439599"
     },
     "4121": {
-      "lon": "-93.64484",
+      "lon": "-93.6449599",
       "title": "Stange Rd. at Greensboro Dr.",
       "stopId": "4121",
       "tag": "4121",
-      "lat": "42.04357"
+      "lat": "42.0435899"
     },
     "4130": {
-      "lon": "-93.64481",
+      "lon": "-93.64472",
       "title": "Stange Rd. at Blankenburg Dr.",
       "stopId": "4130",
       "tag": "4130",
-      "lat": "42.0417599"
+      "lat": "42.0417099"
     },
     "4131": {
-      "lon": "-93.6448399",
+      "lon": "-93.6449399",
       "title": "Stange Rd. at Blankenburg Dr.",
       "stopId": "4131",
       "tag": "4131",
-      "lat": "42.04128"
+      "lat": "42.0412899"
     },
     "4140": {
-      "lon": "-93.64482",
-      "title": "100 UV",
+      "lon": "-93.6447",
+      "title": "#100 University Village",
       "stopId": "4140",
       "tag": "4140",
-      "lat": "42.0392399"
+      "lat": "42.03923"
     },
     "4141": {
-      "lon": "-93.6448",
+      "lon": "-93.6449299",
       "title": "Stange Rd. at Bruner St.",
       "stopId": "4141",
       "tag": "4141",
-      "lat": "42.0390999"
+      "lat": "42.0391199"
     },
     "4200": {
-      "lon": "-93.6257699",
+      "lon": "-93.62577",
       "title": "30th St. at Regency Ct.",
       "stopId": "4200",
       "tag": "4200",
-      "lat": "42.0511"
+      "lat": "42.051"
     },
     "4201": {
-      "lon": "-93.6260199",
+      "lon": "-93.62603",
       "title": "30th St. at Regency Ct.",
       "stopId": "4201",
       "tag": "4201",
-      "lat": "42.05111"
+      "lat": "42.0512099"
     },
     "4210": {
-      "lon": "-93.62717",
+      "lon": "-93.62705",
       "title": "Northwestern Ave. at 30th St.",
       "stopId": "4210",
       "tag": "4210",
-      "lat": "42.0508199"
+      "lat": "42.05082"
     },
     "4211": {
-      "lon": "-93.6271999",
+      "lon": "-93.6272899",
       "title": "Northwestern Ave. at 30th St.",
       "stopId": "4211",
       "tag": "4211",
-      "lat": "42.0506899"
+      "lat": "42.05069"
     },
     "4220": {
-      "lon": "-93.62716",
+      "lon": "-93.62707",
       "title": "Northwestern Ave. at Johnson St.",
       "stopId": "4220",
       "tag": "4220",
-      "lat": "42.04924"
+      "lat": "42.0492399"
     },
     "4221": {
-      "lon": "-93.62699",
+      "lon": "-93.6270999",
       "title": "Northwestern Ave. at Johnson St.",
       "stopId": "4221",
       "tag": "4221",
-      "lat": "42.0488"
+      "lat": "42.0487599"
     },
     "4230": {
-      "lon": "-93.62594",
+      "lon": "-93.62582",
       "title": "Northwestern Ave. at 26th",
       "stopId": "4230",
       "tag": "4230",
-      "lat": "42.04749"
+      "lat": "42.0474899"
     },
     "4231": {
-      "lon": "-93.6259",
+      "lon": "-93.6259899",
       "title": "Northwestern Ave. at 26th St.",
       "stopId": "4231",
       "tag": "4231",
-      "lat": "42.0471899"
+      "lat": "42.04717"
     },
     "4240": {
-      "lon": "-93.6258899",
+      "lon": "-93.62577",
       "title": "Northwestern Ave. at 24th St.",
       "stopId": "4240",
       "tag": "4240",
-      "lat": "42.0459003"
+      "lat": "42.0459"
     },
     "4241": {
-      "lon": "-93.6263099",
+      "lon": "-93.62631",
       "title": "24th St. at Northwestern Ave.",
       "stopId": "4241",
       "tag": "4241",
-      "lat": "42.04563"
+      "lat": "42.0457099"
     },
     "4250": {
-      "lon": "-93.63",
+      "lon": "-93.6299999",
       "title": "24th St. at Hoover Ave.",
       "stopId": "4250",
       "tag": "4250",
-      "lat": "42.04558"
+      "lat": "42.04551"
     },
     "4251": {
-      "lon": "-93.63083",
+      "lon": "-93.63084",
       "title": "24th St. at Hoover Ave.",
       "stopId": "4251",
       "tag": "4251",
-      "lat": "42.0455799"
+      "lat": "42.0456499"
     },
     "4260": {
-      "lon": "-93.63315",
+      "lon": "-93.63313",
       "title": "24th St. at Hayes Ave.",
       "stopId": "4260",
       "tag": "4260",
-      "lat": "42.04553"
+      "lat": "42.0454699"
     },
     "4261": {
       "lon": "-93.63393",
       "title": "24th St. at Hayes Ave.",
       "stopId": "4261",
       "tag": "4261",
-      "lat": "42.04555"
+      "lat": "42.0456299"
     },
     "4270": {
-      "lon": "-93.6358199",
+      "lon": "-93.6357999",
       "title": "24th St. at Northcrest Dr.",
       "stopId": "4270",
       "tag": "4270",
-      "lat": "42.0455"
+      "lat": "42.04541"
     },
     "4271": {
       "lon": "-93.6355699",
       "title": "24th St. at Northcrest Dr.",
       "stopId": "4271",
       "tag": "4271",
-      "lat": "42.04553"
+      "lat": "42.0455799"
     },
     "4280": {
-      "lon": "-93.63878",
+      "lon": "-93.6387799",
       "title": "24th St. at Prairie View West",
       "stopId": "4280",
       "tag": "4280",
-      "lat": "42.04545"
+      "lat": "42.04539"
     },
     "4281": {
-      "lon": "-93.63914",
+      "lon": "-93.6391399",
       "title": "24th St. at Kent Ave.",
       "stopId": "4281",
       "tag": "4281",
-      "lat": "42.0454699"
+      "lat": "42.0455399"
     },
     "4300": {
-      "lon": "-93.64211",
+      "lon": "-93.6421",
       "title": "Edenburn Dr. at #40 Schilletter",
       "stopId": "4300",
       "tag": "4300",
-      "lat": "42.0450999"
+      "lat": "42.0450299"
     },
     "4311": {
-      "lon": "-93.64025",
+      "lon": "-93.6403999",
       "title": "Edenburn Dr. at #27 Schilletter",
       "stopId": "4311",
       "tag": "4311",
-      "lat": "42.0442799"
+      "lat": "42.04433"
     },
     "4321": {
-      "lon": "-93.64122",
+      "lon": "-93.6413399",
       "title": "Stotts Rd. at Edenburn Dr.",
       "stopId": "4321",
       "tag": "4321",
-      "lat": "42.04285"
+      "lat": "42.0428199"
     },
     "4331": {
-      "lon": "-93.6408899",
+      "lon": "-93.6409999",
       "title": "Stotts Rd. at Blankenburg Dr.",
       "stopId": "4331",
       "tag": "4331",
-      "lat": "42.04154"
+      "lat": "42.0415299"
     },
     "4341": {
-      "lon": "-93.642163",
+      "lon": "-93.64211",
       "title": "University Village Laundry",
       "stopId": "4341",
       "tag": "4341",
-      "lat": "42.0412094"
+      "lat": "42.04125"
     },
     "4351": {
-      "lon": "-93.64356",
+      "lon": "-93.6436499",
       "title": "Long Rd. at #130 University Village",
       "stopId": "4351",
       "tag": "4351",
-      "lat": "42.0407299"
+      "lat": "42.0407699"
     },
     "4361": {
-      "lon": "-93.64382",
+      "lon": "-93.64387",
       "title": "Bruner Dr. at Long Rd.  (#100 UV)",
       "stopId": "4361",
       "tag": "4361",
-      "lat": "42.0390199"
+      "lat": "42.0392299"
+    },
+    "4400": {
+      "lon": "-93.64156",
+      "title": "#42 Frederiksen",
+      "stopId": "4400",
+      "tag": "4400",
+      "lat": "42.0335999"
+    },
+    "4411": {
+      "lon": "-93.6405099",
+      "title": "#33 Frederiksen",
+      "stopId": "4411",
+      "tag": "4411",
+      "lat": "42.0342099"
+    },
+    "4421": {
+      "lon": "-93.6417599",
+      "title": "#31 Frederiksen",
+      "stopId": "4421",
+      "tag": "4421",
+      "lat": "42.0341799"
+    },
+    "4430": {
+      "lon": "-93.64379",
+      "title": "Frederiksen at #22",
+      "stopId": "4430",
+      "tag": "4430",
+      "lat": "42.03374"
+    },
+    "4431": {
+      "lon": "-93.6440399",
+      "title": "#11 Frederiksen",
+      "stopId": "4431",
+      "tag": "4431",
+      "lat": "42.0339999"
     },
     "4500": {
-      "lon": "-93.64473",
-      "title": "Stange Rd. at Fredericksen",
+      "lon": "-93.64463",
+      "title": "Stange Rd. at Frederiksen",
       "stopId": "4500",
       "tag": "4500",
-      "lat": "42.03424"
+      "lat": "42.03426"
     },
     "4501": {
-      "lon": "-93.6447299",
-      "title": "Stange Rd. at Fredericksen",
+      "lon": "-93.6448399",
+      "title": "Stange Rd. at Frederiksen",
       "stopId": "4501",
       "tag": "4501",
-      "lat": "42.0334899"
+      "lat": "42.0335"
     },
     "5001": {
-      "lon": "-93.62179",
+      "lon": "-93.62186",
       "title": "North Grand Mall",
       "stopId": "5001",
       "tag": "5001",
-      "lat": "42.0495599"
+      "lat": "42.0496299"
     },
     "5004": {
-      "lon": "-93.6223799",
+      "lon": "-93.6223699",
       "title": "30th St. at Wal Mart",
       "stopId": "5004",
       "tag": "5004",
-      "lat": "42.05116"
+      "lat": "42.0511"
     },
     "5005": {
-      "lon": "-93.62171",
+      "lon": "-93.6217",
       "title": "30th St. at Grand Ave.",
       "stopId": "5005",
       "tag": "5005",
-      "lat": "42.05117"
+      "lat": "42.0512599"
     },
     "5010": {
-      "lon": "-93.6185699",
+      "lon": "-93.6185399",
       "title": "Duff Ave. at Kellogg Ave.",
       "stopId": "5010",
       "tag": "5010",
-      "lat": "42.05117"
+      "lat": "42.05108"
     },
     "5011": {
-      "lon": "-93.6190999",
+      "lon": "-93.6191199",
       "title": "Duff Ave. at Kellogg Ave.",
       "stopId": "5011",
       "tag": "5011",
-      "lat": "42.05119"
+      "lat": "42.0512799"
     },
     "5020": {
-      "lon": "-93.61414",
+      "lon": "-93.61404",
       "title": "Duff Ave. at Northwood Dr.",
       "stopId": "5020",
       "tag": "5020",
-      "lat": "42.0485999"
+      "lat": "42.04857"
     },
     "5021": {
-      "lon": "-93.6141599",
+      "lon": "-93.6142999",
       "title": "Duff Ave. at Northwood Dr.",
       "stopId": "5021",
       "tag": "5021",
-      "lat": "42.0484"
+      "lat": "42.0483999"
     },
     "5030": {
-      "lon": "-93.61413",
+      "lon": "-93.61402",
       "title": "Duff Ave. at 24th St.",
       "stopId": "5030",
       "tag": "5030",
-      "lat": "42.0461099"
+      "lat": "42.0460899"
     },
     "5031": {
-      "lon": "-93.6141199",
+      "lon": "-93.6142599",
       "title": "Duff Ave. at 24th St.",
       "stopId": "5031",
       "tag": "5031",
-      "lat": "42.04532"
+      "lat": "42.0453299"
     },
     "5040": {
-      "lon": "-93.61227",
+      "lon": "-93.61225",
       "title": "Duff Ave. at Douglas Ave.",
       "stopId": "5040",
       "tag": "5040",
-      "lat": "42.04384"
+      "lat": "42.0439399"
     },
     "5041": {
-      "lon": "-93.61279",
+      "lon": "-93.6128499",
       "title": "Duff Ave. at 22nd St.",
       "stopId": "5041",
       "tag": "5041",
-      "lat": "42.04402"
+      "lat": "42.04396"
     },
     "5050": {
-      "lon": "-93.61074",
+      "lon": "-93.6106",
       "title": "Duff Ave. at 20th St.",
       "stopId": "5050",
       "tag": "5050",
       "lat": "42.04239"
     },
     "5051": {
-      "lon": "-93.61071",
+      "lon": "-93.6108299",
       "title": "Duff Ave. at 20th St.",
       "stopId": "5051",
       "tag": "5051",
-      "lat": "42.0417499"
+      "lat": "42.04175"
     },
     "5060": {
-      "lon": "-93.61071",
+      "lon": "-93.6105899",
       "title": "Duff Ave. at O'Neil Dr.",
       "stopId": "5060",
       "tag": "5060",
-      "lat": "42.0404799"
+      "lat": "42.0404699"
     },
     "5061": {
-      "lon": "-93.61071",
+      "lon": "-93.6108199",
       "title": "Duff Ave. at O'Neil Dr.",
       "stopId": "5061",
       "tag": "5061",
-      "lat": "42.0400299"
+      "lat": "42.04003"
     },
     "5070": {
-      "lon": "-93.61068",
+      "lon": "-93.61058",
       "title": "Duff Ave. at 16th St.",
       "stopId": "5070",
       "tag": "5070",
-      "lat": "42.0385999"
+      "lat": "42.0386"
     },
     "5071": {
-      "lon": "-93.61069",
+      "lon": "-93.6107999",
       "title": "Duff Ave. at 16th St.",
       "stopId": "5071",
       "tag": "5071",
-      "lat": "42.0380699"
+      "lat": "42.0380499"
     },
     "5080": {
-      "lon": "-93.61066",
+      "lon": "-93.61058",
       "title": "Duff Ave. at 14th St.",
       "stopId": "5080",
       "tag": "5080",
-      "lat": "42.03596"
+      "lat": "42.03595"
     },
     "5081": {
-      "lon": "-93.61067",
+      "lon": "-93.6107999",
       "title": "Duff Ave. at 14th St.",
       "stopId": "5081",
       "tag": "5081",
-      "lat": "42.03541"
+      "lat": "42.0354399"
     },
     "5090": {
-      "lon": "-93.61062",
+      "lon": "-93.61051",
       "title": "Duff Ave. at 12th St.",
       "stopId": "5090",
       "tag": "5090",
-      "lat": "42.0333799"
+      "lat": "42.03337"
     },
     "5091": {
-      "lon": "-93.61063",
+      "lon": "-93.6107699",
       "title": "Duff Ave. at 12th St.",
       "stopId": "5091",
       "tag": "5091",
-      "lat": "42.03328"
+      "lat": "42.03327"
     },
     "5100": {
-      "lon": "-93.61058",
+      "lon": "-93.61049",
       "title": "Mary Greely Hospital",
       "stopId": "5100",
       "tag": "5100",
       "lat": "42.0322399"
     },
     "5101": {
-      "lon": "-93.61058",
+      "lon": "-93.61071",
       "title": "Mary Greely Hospital",
       "stopId": "5101",
       "tag": "5101",
-      "lat": "42.0316199"
+      "lat": "42.0316299"
     },
     "5110": {
-      "lon": "-93.61054",
+      "lon": "-93.61046",
       "title": "Duff Ave. at 9th St.",
       "stopId": "5110",
       "tag": "5110",
-      "lat": "42.0303599"
+      "lat": "42.0303299"
     },
     "5111": {
-      "lon": "-93.6105399",
+      "lon": "-93.6106699",
       "title": "Duff Ave. at 9th St.",
       "stopId": "5111",
       "tag": "5111",
-      "lat": "42.0298199"
+      "lat": "42.0298099"
     },
     "5120": {
-      "lon": "-93.61049",
+      "lon": "-93.6104",
       "title": "Duff Ave. at 7th St.",
       "stopId": "5120",
       "tag": "5120",
-      "lat": "42.0282099"
+      "lat": "42.02822"
     },
     "5121": {
-      "lon": "-93.61051",
+      "lon": "-93.6106199",
       "title": "Duff Ave. at 8th St.",
       "stopId": "5121",
       "tag": "5121",
-      "lat": "42.02873"
+      "lat": "42.02871"
     },
     "5130": {
-      "lon": "-93.61046",
+      "lon": "-93.61037",
       "title": "Duff Ave. at 6th St.",
       "stopId": "5130",
       "tag": "5130",
-      "lat": "42.0270699"
+      "lat": "42.02707"
     },
     "5131": {
-      "lon": "-93.61108",
+      "lon": "-93.6110899",
       "title": "6th St. at Duff Ave.",
       "stopId": "5131",
       "tag": "5131",
-      "lat": "42.02694"
+      "lat": "42.0270299"
     },
     "5200": {
-      "lon": "-93.61211",
+      "lon": "-93.61202",
       "title": "Douglas Ave. at 6th St.",
       "stopId": "5200",
       "tag": "5200",
-      "lat": "42.02679"
+      "lat": "42.0268099"
     },
     "5201": {
-      "lon": "-93.6121199",
+      "lon": "-93.6121999",
       "title": "Ames Public Library",
       "stopId": "5201",
       "tag": "5201",
@@ -1601,343 +1454,357 @@
       "title": "5th St. at Kellogg Ave.",
       "stopId": "5210",
       "tag": "5210",
-      "lat": "42.02588"
+      "lat": "42.0258"
     },
     "5211": {
-      "lon": "-93.6140699",
+      "lon": "-93.61407",
       "title": "5th St. at Kellogg Ave.",
       "stopId": "5211",
       "tag": "5211",
       "lat": "42.0259599"
     },
     "5301": {
-      "lon": "-93.62047",
+      "lon": "-93.62032",
       "title": "Grand Ave. at 28th St.",
       "stopId": "5301",
       "tag": "5301",
-      "lat": "42.04774"
+      "lat": "42.0477299"
     },
     "5310": {
-      "lon": "-93.6205799",
+      "lon": "-93.6207199",
       "title": "Grand Ave. at 24th St.",
       "stopId": "5310",
       "tag": "5310",
-      "lat": "42.0447299"
+      "lat": "42.0449799"
     },
     "5311": {
-      "lon": "-93.62045",
+      "lon": "-93.62033",
       "title": "Grand Ave. at 24th St.",
       "stopId": "5311",
       "tag": "5311",
-      "lat": "42.0464199"
+      "lat": "42.04611"
     },
     "5320": {
-      "lon": "-93.6209299",
+      "lon": "-93.6209099",
       "title": "20th St. at Grand Ave.",
       "stopId": "5320",
       "tag": "5320",
-      "lat": "42.04207"
+      "lat": "42.04197"
     },
     "5321": {
-      "lon": "-93.6208099",
+      "lon": "-93.62082",
       "title": "20th St. at Grand Ave.",
       "stopId": "5321",
       "tag": "5321",
-      "lat": "42.04209"
+      "lat": "42.0421599"
     },
     "5330": {
-      "lon": "-93.6225599",
+      "lon": "-93.6225699",
       "title": "20th St. at Melrose Ave.",
       "stopId": "5330",
       "tag": "5330",
-      "lat": "42.04205"
+      "lat": "42.04198"
     },
     "5331": {
-      "lon": "-93.6229799",
+      "lon": "-93.62297",
       "title": "20th St. at Melrose Ave.",
       "stopId": "5331",
       "tag": "5331",
-      "lat": "42.04206"
+      "lat": "42.0421299"
     },
     "5340": {
-      "lon": "-93.6255908",
+      "lon": "-93.62559",
       "title": "20th St. at Northwestern Ave.",
       "stopId": "5340",
       "tag": "5340",
-      "lat": "42.0420203"
+      "lat": "42.04195"
+    },
+    "5341": {
+      "lon": "-93.62537",
+      "title": "20th St. at Northwestern Ave.",
+      "stopId": "5341",
+      "tag": "5341",
+      "lat": "42.0421199"
+    },
+    "5350": {
+      "lon": "-93.6254099",
+      "title": "16th St. at Northwestern Ave.",
+      "stopId": "5350",
+      "tag": "5350",
+      "lat": "42.0382"
     },
     "5351": {
-      "lon": "-93.62541",
+      "lon": "-93.6254199",
       "title": "16th St. at Northwestern Ave.",
       "stopId": "5351",
       "tag": "5351",
-      "lat": "42.03827"
+      "lat": "42.0383599"
     },
     "5360": {
-      "lon": "-93.6222099",
+      "lon": "-93.62221",
       "title": "16th St. at Roosevelt Ave.",
       "stopId": "5360",
       "tag": "5360",
-      "lat": "42.03829"
+      "lat": "42.03824"
     },
     "5361": {
       "lon": "-93.6228399",
       "title": "16th St. at Roosevelt Ave.",
       "stopId": "5361",
       "tag": "5361",
-      "lat": "42.0383"
+      "lat": "42.0383899"
     },
     "5370": {
       "lon": "-93.62102",
       "title": "16th St. at Grand Ave.",
       "stopId": "5370",
       "tag": "5370",
-      "lat": "42.0383"
+      "lat": "42.03823"
     },
     "5371": {
       "lon": "-93.62087",
       "title": "16th St. at Grand Ave.",
       "stopId": "5371",
       "tag": "5371",
-      "lat": "42.0383099"
+      "lat": "42.0383999"
     },
     "5380": {
-      "lon": "-93.62039",
+      "lon": "-93.62027",
       "title": "Grand Ave. at 13th",
       "stopId": "5380",
       "tag": "5380",
-      "lat": "42.0348999"
+      "lat": "42.0349"
     },
     "5381": {
-      "lon": "-93.62039",
+      "lon": "-93.6205199",
       "title": "Grand Ave. at 13th St.",
       "stopId": "5381",
       "tag": "5381",
-      "lat": "42.03419"
+      "lat": "42.0341899"
     },
     "5390": {
-      "lon": "-93.62033",
+      "lon": "-93.62022",
       "title": "Grand Ave. at 11th",
       "stopId": "5390",
       "tag": "5390",
-      "lat": "42.03244"
+      "lat": "42.0324199"
     },
     "5391": {
-      "lon": "-93.6203399",
+      "lon": "-93.6204499",
       "title": "Grand Ave. at 11th St.",
       "stopId": "5391",
       "tag": "5391",
-      "lat": "42.0317999"
+      "lat": "42.0317899"
     },
     "5400": {
-      "lon": "-93.6198",
+      "lon": "-93.6197699",
       "title": "9th St. at Grand Ave.",
       "stopId": "5400",
       "tag": "5400",
-      "lat": "42.0301699"
+      "lat": "42.03014"
     },
     "5401": {
-      "lon": "-93.61994",
+      "lon": "-93.6198999",
       "title": "9th St. at Grand Ave.",
       "stopId": "5401",
       "tag": "5401",
-      "lat": "42.0301899"
+      "lat": "42.0302899"
     },
     "5410": {
-      "lon": "-93.617",
+      "lon": "-93.61684",
       "title": "Clark Ave. at 9th St.",
       "stopId": "5410",
       "tag": "5410",
-      "lat": "42.0299599"
+      "lat": "42.02995"
     },
     "5411": {
-      "lon": "-93.61699",
+      "lon": "-93.6171199",
       "title": "Clark Ave. at 9th St.",
       "stopId": "5411",
       "tag": "5411",
-      "lat": "42.0295599"
+      "lat": "42.0295499"
     },
     "5420": {
-      "lon": "-93.61694",
+      "lon": "-93.61678",
       "title": "Clark Ave. at 7th St.",
       "stopId": "5420",
       "tag": "5420",
       "lat": "42.02798"
     },
     "5421": {
-      "lon": "-93.61693",
+      "lon": "-93.6170499",
       "title": "Clark Ave. at 6th St.",
       "stopId": "5421",
       "tag": "5421",
-      "lat": "42.02713"
+      "lat": "42.0271199"
     },
     "5500": {
       "lon": "-93.61757",
       "title": "City Hall",
       "stopId": "5500",
       "tag": "5500",
-      "lat": "42.0258199"
+      "lat": "42.0257599"
     },
     "5501": {
-      "lon": "-93.61785",
+      "lon": "-93.61783",
       "title": "City Hall",
       "stopId": "5501",
       "tag": "5501",
-      "lat": "42.0258099"
+      "lat": "42.0259299"
     },
     "5510": {
-      "lon": "-93.62045",
+      "lon": "-93.62043",
       "title": "Allan Dr. at Grand Ave.",
       "stopId": "5510",
       "tag": "5510",
-      "lat": "42.0256399"
+      "lat": "42.02558"
     },
     "5520": {
-      "lon": "-93.623",
+      "lon": "-93.6230099",
       "title": "Lincoln Way at Elm Ave.",
       "stopId": "5520",
       "tag": "5520",
-      "lat": "42.0228"
+      "lat": "42.02273"
     },
     "5521": {
       "lon": "-93.6227999",
       "title": "Lincoln Way at Elm Ave.",
       "stopId": "5521",
       "tag": "5521",
-      "lat": "42.02291"
+      "lat": "42.0230199"
     },
     "5531": {
-      "lon": "-93.6255099",
+      "lon": "-93.6255",
       "title": "Lincoln Way at Maple Ave.",
       "stopId": "5531",
       "tag": "5531",
-      "lat": "42.02284"
+      "lat": "42.0229399"
     },
     "5540": {
-      "lon": "-93.62651",
+      "lon": "-93.6265099",
       "title": "Lincoln Way at S. Hazel Ave.",
       "stopId": "5540",
       "tag": "5540",
-      "lat": "42.02283"
+      "lat": "42.02278"
     },
     "5541": {
-      "lon": "-93.62721",
+      "lon": "-93.62723",
       "title": "Lincoln Way at Hazel Ave.",
       "stopId": "5541",
       "tag": "5541",
-      "lat": "42.02284"
+      "lat": "42.0229299"
     },
     "5550": {
       "lon": "-93.6278199",
       "title": "Lincoln Way at S. Russell Ave.",
       "stopId": "5550",
       "tag": "5550",
-      "lat": "42.02282"
+      "lat": "42.02277"
     },
     "5551": {
-      "lon": "-93.62857",
+      "lon": "-93.62858",
       "title": "Lincoln Way at Russell Ave.",
       "stopId": "5551",
       "tag": "5551",
-      "lat": "42.02283"
+      "lat": "42.0229199"
     },
     "5560": {
-      "lon": "-93.6350699",
+      "lon": "-93.63507",
       "title": "Hilton Coliseum",
       "stopId": "5560",
       "tag": "5560",
       "lat": "42.02269"
     },
     "5561": {
-      "lon": "-93.6351799",
+      "lon": "-93.63517",
       "title": "Lincoln Way at Hilton Coliseum",
       "stopId": "5561",
       "tag": "5561",
-      "lat": "42.02281"
+      "lat": "42.0228999"
     },
     "5610": {
-      "lon": "-93.6197399",
+      "lon": "-93.6197499",
       "title": "5th St. at Pearle Ave.",
       "stopId": "5610",
       "tag": "5610",
-      "lat": "42.0258"
+      "lat": "42.02574"
     },
     "5620": {
-      "lon": "-93.6219699",
+      "lon": "-93.62191",
       "title": "Northwestern Ave. at 5th St.",
       "stopId": "5620",
       "tag": "5620",
-      "lat": "42.0259399"
+      "lat": "42.02598"
     },
     "5630": {
-      "lon": "-93.62248",
+      "lon": "-93.6225799",
       "title": "Northwestern Ave. at 6th St.",
       "stopId": "5630",
       "tag": "5630",
-      "lat": "42.02655"
+      "lat": "42.02654"
     },
     "5631": {
-      "lon": "-93.62333",
+      "lon": "-93.62335",
       "title": "6th St. at Northwestern Ave.",
       "stopId": "5631",
       "tag": "5631",
-      "lat": "42.02677"
+      "lat": "42.0268699"
     },
     "5640": {
-      "lon": "-93.6261099",
+      "lon": "-93.62613",
       "title": "6th St. at Brookridge Ave.",
       "stopId": "5640",
       "tag": "5640",
-      "lat": "42.02672"
+      "lat": "42.0266"
     },
     "5641": {
-      "lon": "-93.6265299",
+      "lon": "-93.62652",
       "title": "6th St. at Brookridge Ave.",
       "stopId": "5641",
       "tag": "5641",
-      "lat": "42.0267399"
+      "lat": "42.0268199"
     },
     "5650": {
-      "lon": "-93.6299099",
+      "lon": "-93.6299499",
       "title": "6th St. at Brookside Park",
       "stopId": "5650",
       "tag": "5650",
-      "lat": "42.02828"
+      "lat": "42.0282399"
     },
     "5651": {
-      "lon": "-93.63062",
+      "lon": "-93.63057",
       "title": "6th St. at Brookside Park",
       "stopId": "5651",
       "tag": "5651",
-      "lat": "42.02856"
+      "lat": "42.0286199"
     },
     "5661": {
-      "lon": "-93.63337",
+      "lon": "-93.6334999",
       "title": "6th St. at University Blvd.",
       "stopId": "5661",
       "tag": "5661",
-      "lat": "42.0276899"
+      "lat": "42.0277999"
     },
     "5670": {
-      "lon": "-93.63576",
+      "lon": "-93.63587",
       "title": "University Blvd. at CyRide Rd.",
       "stopId": "5670",
       "tag": "5670",
-      "lat": "42.02894"
+      "lat": "42.0289"
     },
     "5680": {
-      "lon": "-93.6383499",
+      "lon": "-93.63839",
       "title": "University Blvd. at Haber Rd.",
       "stopId": "5680",
       "tag": "5680",
-      "lat": "42.0297999"
+      "lat": "42.02975"
     },
     "5681": {
-      "lon": "-93.6391099",
+      "lon": "-93.63907",
       "title": "University Blvd. at Haber Rd.",
       "stopId": "5681",
       "tag": "5681",
-      "lat": "42.0300599"
+      "lat": "42.0301299"
     },
     "6000": {
       "lon": "-93.63722",
@@ -1946,145 +1813,159 @@
       "tag": "6000",
       "lat": "42.0172299"
     },
-    "6001": {
-      "lon": "-93.63736",
-      "title": "Iowa State Center",
-      "stopId": "6001",
-      "tag": "6001",
-      "lat": "42.0171799"
-    },
     "6450": {
-      "lon": "-93.6394699",
+      "lon": "-93.63939",
       "title": "Beach Ave. at Sunset Dr.",
       "stopId": "6450",
       "tag": "6450",
-      "lat": "42.0207"
+      "lat": "42.02069"
     },
     "6451": {
-      "lon": "-93.6394799",
+      "lon": "-93.6395899",
       "title": "Beach Ave. at Sunset Dr.",
       "stopId": "6451",
       "tag": "6451",
-      "lat": "42.0207999"
+      "lat": "42.02079"
     },
     "6460": {
-      "lon": "-93.63864",
+      "lon": "-93.6386199",
       "title": "S. 4th St. at Beach Ave.",
       "stopId": "6460",
       "tag": "6460",
-      "lat": "42.0162"
+      "lat": "42.01614"
     },
     "6461": {
-      "lon": "-93.63914",
+      "lon": "-93.6391499",
       "title": "S. 4th St. at Beach Ave.",
       "stopId": "6461",
       "tag": "6461",
-      "lat": "42.01621"
+      "lat": "42.0162899"
     },
     "6470": {
-      "lon": "-93.6356",
+      "lon": "-93.6356599",
       "title": "Jack Trice Stadium",
       "stopId": "6470",
       "tag": "6470",
-      "lat": "42.0162399"
+      "lat": "42.01614"
     },
     "6471": {
-      "lon": "-93.6356299",
+      "lon": "-93.6355899",
       "title": "S. 4th St. at Victory Lane",
       "stopId": "6471",
       "tag": "6471",
-      "lat": "42.0162599"
+      "lat": "42.0163299"
     },
     "6480": {
-      "lon": "-93.6311199",
+      "lon": "-93.6310799",
       "title": "S. 4th St. at University Blvd.",
       "stopId": "6480",
       "tag": "6480",
-      "lat": "42.01632"
+      "lat": "42.01626"
     },
     "6481": {
-      "lon": "-93.6328007",
+      "lon": "-93.6328",
       "title": "S. 4th St. at University Blvd.",
       "stopId": "6481",
       "tag": "6481",
-      "lat": "42.0163395"
+      "lat": "42.0163799"
     },
     "6490": {
-      "lon": "-93.6264799",
+      "lon": "-93.62647",
       "title": "S. 4th St. at S. Maple",
       "stopId": "6490",
       "tag": "6490",
-      "lat": "42.01918"
+      "lat": "42.01912"
     },
     "6491": {
-      "lon": "-93.62704",
+      "lon": "-93.6270399",
       "title": "S. 4th St. at S. Hazel Ave.",
       "stopId": "6491",
       "tag": "6491",
-      "lat": "42.0191699"
+      "lat": "42.0192799"
     },
     "6510": {
-      "lon": "-93.6199436",
+      "lon": "-93.61995",
       "title": "S. 3rd St. at HyVee",
       "stopId": "6510",
       "tag": "6510",
-      "lat": "42.0193325"
+      "lat": "42.01924"
     },
     "6511": {
-      "lon": "-93.62131",
+      "lon": "-93.6213",
       "title": "S. 4th St. at Grand Ave.",
       "stopId": "6511",
       "tag": "6511",
-      "lat": "42.01929"
+      "lat": "42.0193799"
     },
     "6520": {
-      "lon": "-93.6181199",
+      "lon": "-93.61808",
       "title": "S. 3rd St. at Pear Tree",
       "stopId": "6520",
       "tag": "6520",
-      "lat": "42.01991"
+      "lat": "42.01984"
     },
     "6521": {
-      "lon": "-93.61894",
+      "lon": "-93.6189699",
       "title": "S. 3rd St. at HyVee",
       "stopId": "6521",
       "tag": "6521",
-      "lat": "42.0195999"
+      "lat": "42.0196699"
     },
     "6530": {
-      "lon": "-93.61688",
+      "lon": "-93.61681",
       "title": "Walnut Ave. at S. 3rd St.",
       "stopId": "6530",
       "tag": "6530",
-      "lat": "42.0199199"
+      "lat": "42.0199099"
     },
     "6540": {
-      "lon": "-93.61683",
+      "lon": "-93.61669",
       "title": "Walnut Ave. at S. 5th St.",
       "stopId": "6540",
       "tag": "6540",
-      "lat": "42.01788"
+      "lat": "42.0178699"
     },
     "6550": {
-      "lon": "-93.61642",
+      "lon": "-93.6162299",
       "title": "S. 3rd St. at Walnut Ave.",
       "stopId": "6550",
       "tag": "6550",
-      "lat": "42.02017"
+      "lat": "42.02011"
     },
     "6560": {
-      "lon": "-93.61327",
-      "title": "S. 3rd St. at S. Kellogg",
+      "lon": "-93.61243",
+      "title": "S. 3rd St. at S. Sherman Ave.",
       "stopId": "6560",
       "tag": "6560",
-      "lat": "42.0201499"
+      "lat": "42.0201"
+    },
+    "6567": {
+      "lon": "-93.6145999",
+      "title": "S. 5th St. at South Meadow",
+      "stopId": "6567",
+      "tag": "6567",
+      "lat": "42.0174699"
     },
     "6571": {
       "lon": "-93.61221",
       "title": "River Birch Apartments",
       "stopId": "6571",
       "tag": "6571",
-      "lat": "42.0173999"
+      "lat": "42.0174599"
+    },
+    "6591": {
+      "lon": "-93.6080799",
+      "title": "S. E. 5th St. at S. Duff Ave.",
+      "stopId": "6591",
+      "tag": "6591",
+      "lat": "42.0174899"
+    },
+    "6601": {
+      "lon": "-93.60761",
+      "title": "Target",
+      "stopId": "6601",
+      "tag": "6601",
+      "lat": "42.0186599"
     },
     "6700": {
       "lon": "-93.6164799",
@@ -2101,7 +1982,7 @@
       "lat": "42.0229899"
     },
     "6710": {
-      "lon": "-93.6128399",
+      "lon": "-93.61284",
       "title": "Lincoln Way at S. Kellogg Ave.",
       "stopId": "6710",
       "tag": "6710",
@@ -2115,133 +1996,133 @@
       "lat": "42.02297"
     },
     "6720": {
-      "lon": "-93.61093",
+      "lon": "-93.61095",
       "title": "Lincoln Way at S. Duff Ave.",
       "stopId": "6720",
       "tag": "6720",
-      "lat": "42.0228699"
+      "lat": "42.02279"
     },
     "6721": {
-      "lon": "-93.61101",
+      "lon": "-93.61097",
       "title": "Lincoln Way at Duff Ave.",
       "stopId": "6721",
       "tag": "6721",
-      "lat": "42.0228899"
+      "lat": "42.0229799"
     },
     "6730": {
-      "lon": "-93.61031",
+      "lon": "-93.61018",
       "title": "S. Duff Ave. at S. 3rd St.",
       "stopId": "6730",
       "tag": "6730",
-      "lat": "42.02031"
+      "lat": "42.0202999"
     },
     "6731": {
-      "lon": "-93.6103199",
+      "lon": "-93.6105199",
       "title": "S. Duff Ave. at S. 3rd St.",
       "stopId": "6731",
       "tag": "6731",
-      "lat": "42.01975"
+      "lat": "42.0197499"
     },
     "6740": {
-      "lon": "-93.61033",
+      "lon": "-93.61013",
       "title": "S. Duff Ave. at S. 5th Ave.",
       "stopId": "6740",
       "tag": "6740",
-      "lat": "42.01759"
+      "lat": "42.0175399"
     },
     "6741": {
-      "lon": "-93.61035",
+      "lon": "-93.6105",
       "title": "S. Duff Ave. at S. 5th Ave.",
       "stopId": "6741",
       "tag": "6741",
-      "lat": "42.0171899"
+      "lat": "42.0171799"
     },
     "7710": {
-      "lon": "-93.6327499",
+      "lon": "-93.63263",
       "title": "Stadium Parking at North Stop",
       "stopId": "7710",
       "tag": "7710",
-      "lat": "42.0143699"
+      "lat": "42.01436"
     },
     "7711": {
-      "lon": "-93.6327599",
+      "lon": "-93.6328699",
       "title": "Stadium Parking at North Stop",
       "stopId": "7711",
       "tag": "7711",
-      "lat": "42.0143"
+      "lat": "42.01432"
     },
     "7720": {
-      "lon": "-93.63375",
+      "lon": "-93.63371",
       "title": "Stadium Parking at South Stop",
       "stopId": "7720",
       "tag": "7720",
-      "lat": "42.0122399"
+      "lat": "42.01219"
     },
     "7721": {
-      "lon": "-93.6340499",
+      "lon": "-93.6341199",
       "title": "Stadium Parking at South Stop",
       "stopId": "7721",
       "tag": "7721",
-      "lat": "42.0121"
+      "lat": "42.0121499"
     },
     "7730": {
-      "lon": "-93.63263",
+      "lon": "-93.63255",
       "title": "Christensen at S. 16th St. St.",
       "stopId": "7730",
       "tag": "7730",
-      "lat": "42.00915"
+      "lat": "42.0091"
     },
     "7731": {
-      "lon": "-93.6324399",
+      "lon": "-93.6325",
       "title": "Christensen at S. 16th St.",
       "stopId": "7731",
       "tag": "7731",
-      "lat": "42.00936"
+      "lat": "42.0093799"
     },
     "7740": {
-      "lon": "-93.63401",
+      "lon": "-93.6340099",
       "title": "Christensen at Day Care Center",
       "stopId": "7740",
       "tag": "7740",
-      "lat": "42.00906"
+      "lat": "42.00903"
     },
     "7741": {
-      "lon": "-93.63428",
+      "lon": "-93.6342999",
       "title": "Christensen at Day Care Center",
       "stopId": "7741",
       "tag": "7741",
-      "lat": "42.00907"
+      "lat": "42.0091399"
     },
     "7750": {
-      "lon": "-93.63393",
+      "lon": "-93.63383",
       "title": "Veterinary Medicine",
       "stopId": "7750",
       "tag": "7750",
-      "lat": "42.0063199"
+      "lat": "42.0063799"
     },
     "7810": {
-      "lon": "-93.63135",
+      "lon": "-93.6313499",
       "title": "S. 16th at Christensen",
       "stopId": "7810",
       "tag": "7810",
       "lat": "42.00931"
     },
     "7820": {
-      "lon": "-93.6263999",
+      "lon": "-93.6264399",
       "title": "S. 16th St. at Mulberry Blvd.",
       "stopId": "7820",
       "tag": "7820",
-      "lat": "42.0084199"
+      "lat": "42.00832"
     },
     "7821": {
       "lon": "-93.62603",
       "title": "S. 16th St. at Apple Pl.",
       "stopId": "7821",
       "tag": "7821",
-      "lat": "42.00838"
+      "lat": "42.0085099"
     },
     "7830": {
-      "lon": "-93.6234199",
+      "lon": "-93.62342",
       "title": "S. 16th St. at Creekside",
       "stopId": "7830",
       "tag": "7830",
@@ -2269,95 +2150,95 @@
       "lat": "42.0084699"
     },
     "7850": {
-      "lon": "-93.6160599",
+      "lon": "-93.61583",
       "title": "S. 16th St. at Golden Aspen Dr.",
       "stopId": "7850",
       "tag": "7850",
-      "lat": "42.00836"
+      "lat": "42.00828"
     },
     "7851": {
-      "lon": "-93.6165999",
+      "lon": "-93.61659",
       "title": "S. 16th St. at Golden Aspen Dr.",
       "stopId": "7851",
       "tag": "7851",
-      "lat": "42.00838"
+      "lat": "42.0084599"
     },
     "7860": {
-      "lon": "-93.61321",
+      "lon": "-93.61371",
       "title": "S. 16th St. at S. Kellogg",
       "stopId": "7860",
       "tag": "7860",
-      "lat": "42.0083699"
+      "lat": "42.0083"
     },
     "7861": {
-      "lon": "-93.6136799",
+      "lon": "-93.61374",
       "title": "S. 16th St. at S. Kellogg",
       "stopId": "7861",
       "tag": "7861",
-      "lat": "42.0083899"
+      "lat": "42.0084599"
     },
     "7870": {
-      "lon": "-93.61147",
+      "lon": "-93.61143",
       "title": "Buckeye Ave. at S. 16th St.",
       "stopId": "7870",
       "tag": "7870",
       "lat": "42.0087399"
     },
     "7880": {
-      "lon": "-93.61151",
+      "lon": "-93.61145",
       "title": "Buckeye Ave. at Chestnut St.",
       "stopId": "7880",
       "tag": "7880",
-      "lat": "42.0101899"
+      "lat": "42.01018"
     },
     "7910": {
-      "lon": "-93.6103",
+      "lon": "-93.61017",
       "title": "S. Duff Ave. at Super Wal-Mart",
       "stopId": "7910",
       "tag": "7910",
       "lat": "42.01528"
     },
     "7911": {
-      "lon": "-93.61031",
+      "lon": "-93.6104999",
       "title": "S. Duff Ave. at Super Wal-Mart",
       "stopId": "7911",
       "tag": "7911",
-      "lat": "42.0154499"
+      "lat": "42.01546"
     },
     "7920": {
-      "lon": "-93.61027",
+      "lon": "-93.61009",
       "title": "S. Duff Ave. at Chestnut St.",
       "stopId": "7920",
       "tag": "7920",
-      "lat": "42.0104099"
+      "lat": "42.0103899"
     },
     "7921": {
-      "lon": "-93.61027",
+      "lon": "-93.6104699",
       "title": "S. Duff Ave. at Chestnut St.",
       "stopId": "7921",
       "tag": "7921",
-      "lat": "42.0112"
+      "lat": "42.0110499"
     },
     "7930": {
-      "lon": "-93.61003",
+      "lon": "-93.60994",
       "title": "S. Duff Ave. at S. 16th St.",
       "stopId": "7930",
       "tag": "7930",
-      "lat": "42.00867"
+      "lat": "42.0086699"
     },
     "7940": {
-      "lon": "-93.60986",
+      "lon": "-93.60976",
       "title": "S. Duff Ave. at Airport Rd.",
       "stopId": "7940",
       "tag": "7940",
       "lat": "42.00088"
     },
     "7941": {
-      "lon": "-93.6101408",
+      "lon": "-93.6102499",
       "title": "S. Duff Ave. at Airport Rd.",
       "stopId": "7941",
       "tag": "7941",
-      "lat": "42.0007697"
+      "lat": "42.00076"
     },
     "7950": {
       "lon": "-93.60814",
@@ -2374,186 +2255,228 @@
       "lat": "41.99206"
     },
     "7970": {
-      "lon": "-93.60754",
+      "lon": "-93.60747",
       "title": "Opal Dr. at Jewel Dr.",
       "stopId": "7970",
       "tag": "7970",
       "lat": "41.9935599"
     },
     "7980": {
-      "lon": "-93.6088699",
+      "lon": "-93.6088799",
       "title": "Crystal St. at Opal Dr.",
       "stopId": "7980",
       "tag": "7980",
-      "lat": "41.99513"
+      "lat": "41.9953299"
     },
     "8790": {
-      "lon": "-93.65011",
+      "lon": "-93.65001",
       "title": "Welch Ave. at Chamberlain St.",
       "stopId": "8790",
       "tag": "8790",
-      "lat": "42.02132"
+      "lat": "42.0213499"
     },
     "8791": {
-      "lon": "-93.6501499",
+      "lon": "-93.6502099",
       "title": "Welch Ave. at Chamberlain St.",
       "stopId": "8791",
       "tag": "8791",
-      "lat": "42.0210599"
+      "lat": "42.02105"
+    },
+    "8800": {
+      "lon": "-93.6463",
+      "title": "Lynn Ave. at Lincoln Way",
+      "stopId": "8800",
+      "tag": "8800",
+      "lat": "42.0214199"
+    },
+    "8811": {
+      "lon": "-93.6464999",
+      "title": "Lynn Ave. at Chamberlain St.",
+      "stopId": "8811",
+      "tag": "8811",
+      "lat": "42.0213399"
+    },
+    "8820": {
+      "lon": "-93.64624",
+      "title": "Lynn Ave. at Ash Ave.",
+      "stopId": "8820",
+      "tag": "8820",
+      "lat": "42.0198899"
+    },
+    "8831": {
+      "lon": "-93.64677",
+      "title": "Knapp St. at Lynn Ave.",
+      "stopId": "8831",
+      "tag": "8831",
+      "lat": "42.0192099"
+    },
+    "8840": {
+      "lon": "-93.6496",
+      "title": "Knapp St. at Welch Ave.",
+      "stopId": "8840",
+      "tag": "8840",
+      "lat": "42.01905"
     },
     "8850": {
-      "lon": "-93.65009",
+      "lon": "-93.64999",
       "title": "Welch Ave. at Knapp St.",
       "stopId": "8850",
       "tag": "8850",
-      "lat": "42.01935"
+      "lat": "42.0193399"
     },
     "8851": {
-      "lon": "-93.6501199",
+      "lon": "-93.6501999",
       "title": "Welch Ave. at Knapp St.",
       "stopId": "8851",
       "tag": "8851",
-      "lat": "42.01892"
+      "lat": "42.0189099"
+    },
+    "8860": {
+      "lon": "-93.64999",
+      "title": "Towers Welch Turnaround",
+      "stopId": "8860",
+      "tag": "8860",
+      "lat": "42.0159899"
     },
     "8870": {
-      "lon": "-93.65027",
+      "lon": "-93.6502799",
       "title": "Storm St. at Welch Ave.",
       "stopId": "8870",
       "tag": "8870",
-      "lat": "42.01612"
+      "lat": "42.01606"
     },
     "8871": {
-      "lon": "-93.65045",
+      "lon": "-93.65043",
       "title": "Storm St. at Welch Ave.",
       "stopId": "8871",
       "tag": "8871",
-      "lat": "42.0161399"
+      "lat": "42.0161899"
     },
     "8880": {
-      "lon": "-93.65167",
+      "lon": "-93.65155",
       "title": "Hayward Ave. at Wilson Hall",
       "stopId": "8880",
       "tag": "8880",
-      "lat": "42.0138499"
+      "lat": "42.0138599"
     },
     "8881": {
-      "lon": "-93.6516899",
+      "lon": "-93.6517499",
       "title": "Hayward Ave. at Wilson Hall",
       "stopId": "8881",
       "tag": "8881",
-      "lat": "42.0137399"
+      "lat": "42.01374"
     },
     "8890": {
-      "lon": "-93.65129",
+      "lon": "-93.6512699",
       "title": "Mortensen Pkwy at Hayward Ave.",
       "stopId": "8890",
       "tag": "8890",
-      "lat": "42.01183"
+      "lat": "42.01175"
     },
     "8891": {
-      "lon": "-93.6512299",
+      "lon": "-93.6512899",
       "title": "Mortensen Pkwy at Hayward Ave.",
       "stopId": "8891",
       "tag": "8891",
-      "lat": "42.01186"
+      "lat": "42.0119699"
     },
     "8900": {
-      "lon": "-93.6494799",
+      "lon": "-93.64948",
       "title": "Mortensen Pkwy at Gateway Hills Park Dr.",
       "stopId": "8900",
       "tag": "8900",
-      "lat": "42.01183"
+      "lat": "42.01175"
     },
     "8901": {
-      "lon": "-93.64955",
+      "lon": "-93.64954",
       "title": "Mortensen Pkwy at Gateway Hills Park Dr.",
       "stopId": "8901",
       "tag": "8901",
-      "lat": "42.01186"
+      "lat": "42.01196"
     },
     "8910": {
-      "lon": "-93.64723",
+      "lon": "-93.64728",
       "title": "Mortensen Pkwy at Ash Ave.",
       "stopId": "8910",
       "tag": "8910",
-      "lat": "42.01152"
+      "lat": "42.0115"
     },
     "8911": {
-      "lon": "-93.6468992",
+      "lon": "-93.6468399",
       "title": "Mortensen Pkwy at Ash Ave.",
       "stopId": "8911",
       "tag": "8911",
-      "lat": "42.0115007"
+      "lat": "42.0115799"
     },
     "8920": {
-      "lon": "-93.64561",
+      "lon": "-93.6456899",
       "title": "Mortensen Pkwy at Little Bluestem Ct.",
       "stopId": "8920",
       "tag": "8920",
-      "lat": "42.00927"
+      "lat": "42.00926"
     },
     "8921": {
-      "lon": "-93.6455699",
+      "lon": "-93.6455",
       "title": "Mortensen Pkwy at Big Bluestem Ct.",
       "stopId": "8921",
       "tag": "8921",
-      "lat": "42.0096199"
+      "lat": "42.0097099"
     },
     "8930": {
-      "lon": "-93.6430699",
+      "lon": "-93.6430499",
       "title": "Mortensen Pkwy at Coneflower Ct.",
       "stopId": "8930",
       "tag": "8930",
-      "lat": "42.00893"
+      "lat": "42.0089"
     },
     "8931": {
-      "lon": "-93.6433699",
+      "lon": "-93.64341",
       "title": "Mortensen Pkwy at Coneflower Ct.",
       "stopId": "8931",
       "tag": "8931",
-      "lat": "42.00899"
+      "lat": "42.0090799"
     },
     "8940": {
-      "lon": "-93.6393295",
+      "lon": "-93.63923",
       "title": "University Blvd. at Mortensen Pkwy",
       "stopId": "8940",
       "tag": "8940",
-      "lat": "42.0068702"
+      "lat": "42.0068699"
     },
     "8941": {
-      "lon": "-93.63949",
+      "lon": "-93.6395499",
       "title": "University Blvd. at Mortensen Pkwy",
       "stopId": "8941",
       "tag": "8941",
       "lat": "42.0072799"
     },
     "8950": {
-      "lon": "-93.63938",
+      "lon": "-93.63932",
       "title": "University Blvd. at Baymont",
       "stopId": "8950",
       "tag": "8950",
-      "lat": "42.0006899"
+      "lat": "42.0007099"
     },
     "8951": {
-      "lon": "-93.6395399",
+      "lon": "-93.6396099",
       "title": "University Blvd. at Green Hills Dr.",
       "stopId": "8951",
       "tag": "8951",
-      "lat": "42.0009099"
+      "lat": "42.0008999"
     },
     "8960": {
-      "lon": "-93.63933",
+      "lon": "-93.63925",
       "title": "University Blvd. at Holiday Inn",
       "stopId": "8960",
       "tag": "8960",
-      "lat": "41.99921"
+      "lat": "41.9988699"
     },
     "8961": {
-      "lon": "-93.6394999",
+      "lon": "-93.6395499",
       "title": "University Blvd. at Holiday Inn",
       "stopId": "8961",
       "tag": "8961",
-      "lat": "41.9991399"
+      "lat": "41.99913"
     },
     "8970": {
       "lon": "-93.63921",
@@ -2563,18 +2486,18 @@
       "lat": "41.9951699"
     },
     "8971": {
-      "lon": "-93.63972",
+      "lon": "-93.6394899",
       "title": "University Blvd. at Wessex",
       "stopId": "8971",
       "tag": "8971",
-      "lat": "41.9951799"
+      "lat": "41.99568"
     },
     "8980": {
       "lon": "-93.6391",
       "title": "University Blvd. at Second Roundabout",
       "stopId": "8980",
       "tag": "8980",
-      "lat": "41.99246"
+      "lat": "41.9924599"
     },
     "8981": {
       "lon": "-93.6394599",
@@ -2590,61 +2513,68 @@
       "tag": "8990",
       "lat": "41.9903999"
     },
-    "9200": {
-      "lon": "-93.6319",
-      "title": "Ames High School",
-      "stopId": "9200",
-      "tag": "9200",
-      "lat": "42.0412499"
+    "9011": {
+      "lon": "-93.65058",
+      "title": "Lincoln Way at Welch Ave.",
+      "stopId": "9011",
+      "tag": "9011",
+      "lat": "42.0229199"
     },
-    "9201": {
-      "lon": "-93.63199",
-      "title": "Ames High School",
-      "stopId": "9201",
-      "tag": "9201",
-      "lat": "42.0413499"
+    "9021": {
+      "lon": "-93.64642",
+      "title": "Pammel Dr. at Winlock Rd.",
+      "stopId": "9021",
+      "tag": "9021",
+      "lat": "42.0305799"
     },
-    "9210": {
-      "lon": "-93.6312199",
-      "title": "20th St. at Hayes Ave.",
-      "stopId": "9210",
-      "tag": "9210",
-      "lat": "42.0419"
+    "9031": {
+      "lon": "-93.64962",
+      "title": "Pammel Dr. at Molecular Biology",
+      "stopId": "9031",
+      "tag": "9031",
+      "lat": "42.0305899"
     },
-    "9211": {
-      "lon": "-93.63187",
-      "title": "20th St. at Hayes Ave.",
-      "stopId": "9211",
-      "tag": "9211",
-      "lat": "42.0419"
+    "9041": {
+      "lon": "-93.6573599",
+      "title": "Lincoln Way at Campus Ave.",
+      "stopId": "9041",
+      "tag": "9041",
+      "lat": "42.0228099"
     },
-    "9220": {
-      "lon": "-93.6290399",
-      "title": "16th St. at Ridgewood Ave.",
-      "stopId": "9220",
-      "tag": "9220",
-      "lat": "42.03823"
+    "9050": {
+      "lon": "-93.65168",
+      "title": "Hayward Ave. at Chamberlain St.",
+      "stopId": "9050",
+      "tag": "9050",
+      "lat": "42.0217299"
     },
-    "9221": {
-      "lon": "-93.6293299",
-      "title": "16th St. at Ridgewood Ave.",
-      "stopId": "9221",
-      "tag": "9221",
-      "lat": "42.03825"
+    "9051": {
+      "lon": "-93.6518499",
+      "title": "Hayward Ave. at Chamberlain St.",
+      "stopId": "9051",
+      "tag": "9051",
+      "lat": "42.02156"
     },
-    "9230": {
-      "lon": "-93.6287999",
-      "title": "20th St. at Fellows School",
-      "stopId": "9230",
-      "tag": "9230",
-      "lat": "42.04194"
+    "9061": {
+      "lon": "-93.61864",
+      "title": "6th St. at Grand Ave.",
+      "stopId": "9061",
+      "tag": "9061",
+      "lat": "42.0267799"
     },
-    "9231": {
-      "lon": "-93.62914",
-      "title": "20th St. at Fellows School",
-      "stopId": "9231",
-      "tag": "9231",
-      "lat": "42.04196"
+    "9071": {
+      "lon": "-93.61085",
+      "title": "6th St. at Douglas Ave.",
+      "stopId": "9071",
+      "tag": "9071",
+      "lat": "42.02686"
+    },
+    "9081": {
+      "lon": "-93.6105699",
+      "title": "Duff Ave. at 5th St.",
+      "stopId": "9081",
+      "tag": "9081",
+      "lat": "42.0263"
     }
   },
   "copyright": "All data copyright CyRide 2018."

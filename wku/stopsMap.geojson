@@ -19,21 +19,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "SOUTH CAMPUS",
-        "tag": "scam_ob",
-        "stopId": "0002"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4674307,
-          36.9656703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "CAMPUS EVOLUTION VILLAGE (CEV)",
         "tag": "evolvill_ob",
         "stopId": "0021"
@@ -41,8 +26,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.4658981,
-          36.9780951
+          -86.4658982,
+          36.978095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CREASON PARK & RIDE",
+        "tag": "creapknr_ob",
+        "stopId": "0020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4637947,
+          36.9808987
         ]
       }
     },
@@ -206,8 +206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.4674099,
-          36.9657199
+          -86.46741,
+          36.96572
         ]
       }
     },
@@ -364,45 +364,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "STATE & 11TH AVE",
-        "tag": "stat11th",
+        "title": "11TH & COLLEGE",
+        "tag": "11thcoll",
         "stopId": "0015"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.44331,
-          36.9909799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "8TH & CENTER ST",
-        "tag": "8thcent",
-        "stopId": "0017"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4407694,
-          36.9953094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "CENTER & 11TH",
-        "tag": "cent11th",
-        "stopId": "0019"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4450303,
-          36.9933984
+          -86.443358,
+          36.991501
         ]
       }
     },
@@ -416,7 +386,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.4469779,
+          -86.446978,
           36.992078
         ]
       }
@@ -454,7 +424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "MMTH",
+        "title": "JODY RICHARDS HALL",
         "tag": "mmth",
         "stopId": "0006"
       },
@@ -478,21 +448,6 @@
         "coordinates": [
           -86.45837,
           36.98028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "SOUTH CAMPUS",
-        "tag": "scamp_c",
-        "stopId": "0002"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4674299,
-          36.96567
         ]
       }
     },
@@ -536,8 +491,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.4674099,
-          36.9657199
+          -86.46741,
+          36.96572
         ]
       }
     }

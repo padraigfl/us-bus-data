@@ -3402,7 +3402,7 @@
         "type": "Point",
         "coordinates": [
           -71.064,
-          42.2990699
+          42.29907
         ]
       }
     },
@@ -3567,7 +3567,7 @@
         "type": "Point",
         "coordinates": [
           -71.0636,
-          42.288
+          42.2879999
         ]
       }
     },
@@ -3596,7 +3596,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0624999,
+          -71.0625,
           42.29194
         ]
       }
@@ -4182,7 +4182,7 @@
         "type": "Point",
         "coordinates": [
           -71.08138,
-          42.31996
+          42.3199599
         ]
       }
     },
@@ -4242,7 +4242,7 @@
         "type": "Point",
         "coordinates": [
           -71.0833099,
-          42.3273899
+          42.32739
         ]
       }
     },
@@ -4256,7 +4256,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.08288,
+          -71.0828799,
           42.3239199
         ]
       }
@@ -4272,7 +4272,7 @@
         "type": "Point",
         "coordinates": [
           -71.0820999,
-          42.3215399
+          42.32154
         ]
       }
     },
@@ -4301,7 +4301,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.08212,
+          -71.0821199,
           42.3181299
         ]
       }
@@ -6102,7 +6102,7 @@
         "type": "Point",
         "coordinates": [
           -71.06715,
-          42.3009299
+          42.30093
         ]
       }
     },
@@ -6131,7 +6131,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0693799,
+          -71.06938,
           42.3022499
         ]
       }
@@ -7586,8 +7586,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.15943,
-          42.2787299
+          -71.1594299,
+          42.27873
         ]
       }
     },
@@ -8126,7 +8126,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1721199,
+          -71.17212,
           42.2720299
         ]
       }
@@ -9552,7 +9552,7 @@
         "type": "Point",
         "coordinates": [
           -71.13387,
-          42.35334
+          42.3533399
         ]
       }
     },
@@ -9581,7 +9581,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1417099,
+          -71.14171,
           42.3520899
         ]
       }
@@ -9596,7 +9596,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.14554,
+          -71.1455399,
           42.3508599
         ]
       }
@@ -9611,7 +9611,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.14735,
+          -71.1473499,
           42.3501199
         ]
       }
@@ -9889,6 +9889,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Newton St @ Arlington Rd",
+        "tag": "1001",
+        "stopId": "01001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.16952,
+          42.3076599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Chestnut Hill Ave @ Veronica Smith Ctr",
         "tag": "1026",
         "stopId": "01026"
@@ -9912,7 +9927,7 @@
         "type": "Point",
         "coordinates": [
           -71.15208,
-          42.3371199
+          42.33712
         ]
       }
     },
@@ -9927,7 +9942,7 @@
         "type": "Point",
         "coordinates": [
           -71.15308,
-          42.3379499
+          42.33795
         ]
       }
     },
@@ -9942,7 +9957,7 @@
         "type": "Point",
         "coordinates": [
           -71.15345,
-          42.33831
+          42.3383099
         ]
       }
     },
@@ -9957,7 +9972,7 @@
         "type": "Point",
         "coordinates": [
           -71.15527,
-          42.34026
+          42.3402599
         ]
       }
     },
@@ -9971,7 +9986,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.15474,
+          -71.1547399,
           42.3411
         ]
       }
@@ -10001,7 +10016,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1532199,
+          -71.15322,
           42.34461
         ]
       }
@@ -10017,7 +10032,7 @@
         "type": "Point",
         "coordinates": [
           -71.1530186,
-          42.3461163
+          42.3461162
         ]
       }
     },
@@ -13782,7 +13797,7 @@
         "type": "Point",
         "coordinates": [
           -71.09525,
-          42.3315799
+          42.33158
         ]
       }
     },
@@ -14967,7 +14982,7 @@
         "type": "Point",
         "coordinates": [
           -71.06448,
-          42.3126799
+          42.31268
         ]
       }
     },
@@ -14982,7 +14997,7 @@
         "type": "Point",
         "coordinates": [
           -71.06581,
-          42.3149099
+          42.31491
         ]
       }
     },
@@ -15162,7 +15177,7 @@
         "type": "Point",
         "coordinates": [
           -71.0754499,
-          42.3261199
+          42.32612
         ]
       }
     },
@@ -16714,15 +16729,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Liberty St @ Quincy St",
+        "title": "Liberty St @ Penn St",
         "tag": "1628",
         "stopId": "01628"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0071999,
-          42.23925
+          -71.00635,
+          42.2397599
         ]
       }
     },
@@ -18582,7 +18597,7 @@
         "type": "Point",
         "coordinates": [
           -71.0972,
-          42.3384099
+          42.33841
         ]
       }
     },
@@ -19647,7 +19662,7 @@
         "type": "Point",
         "coordinates": [
           -71.11514,
-          42.3065499
+          42.30655
         ]
       }
     },
@@ -19676,7 +19691,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1186599,
+          -71.11866,
           42.3087999
         ]
       }
@@ -20576,7 +20591,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.13753,
+          -71.1375299,
           42.3813199
         ]
       }
@@ -20591,7 +20606,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.14022,
+          -71.1402199,
           42.3809299
         ]
       }
@@ -26434,7 +26449,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "O'Brien Hwy @ Twin City Plaza",
+        "title": "McGrath Hwy @ Twin City Plaza",
         "tag": "2601",
         "stopId": "02601"
       },
@@ -26464,7 +26479,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "245 O'Brien Hwy @ Twin City Plaza",
+        "title": "McGrath Hwy opp Twin City Plaza",
         "tag": "2605",
         "stopId": "02605"
       },
@@ -31377,7 +31392,7 @@
         "type": "Point",
         "coordinates": [
           -71.05602,
-          42.28989
+          42.2898899
         ]
       }
     },
@@ -31924,36 +31939,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "E Squantum St opp Beechwood on the Bay",
-        "tag": "3137",
-        "stopId": "03137"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.02246,
-          42.2898
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Squantum St opp Victory Rd",
-        "tag": "3139",
-        "stopId": "03139"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.02157,
-          42.29256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "E Squantum St @ Deerfield St",
         "tag": "3140",
         "stopId": "03140"
@@ -32029,21 +32014,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bellevue Rd @ Gladstone Rd",
-        "tag": "3146",
-        "stopId": "03146"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.00875,
-          42.29789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Bellevue Rd @ Wegdewood St",
         "tag": "3147",
         "stopId": "03147"
@@ -32052,7 +32022,7 @@
         "type": "Point",
         "coordinates": [
           -71.00976,
-          42.29879
+          42.2987899
         ]
       }
     },
@@ -32067,7 +32037,7 @@
         "type": "Point",
         "coordinates": [
           -71.01154,
-          42.30004
+          42.3000399
         ]
       }
     },
@@ -32081,8 +32051,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0137,
-          42.30091
+          -71.0136999,
+          42.3009099
         ]
       }
     },
@@ -32096,7 +32066,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0154,
+          -71.0153999,
           42.2991899
         ]
       }
@@ -32188,21 +32158,6 @@
         "coordinates": [
           -71.02367,
           42.2872899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Squantum @ Ditmar St",
-        "tag": "3158",
-        "stopId": "03158"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.02465,
-          42.2864299
         ]
       }
     },
@@ -34849,21 +34804,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Granite Ave @ Courtland Circle",
-        "tag": "3367",
-        "stopId": "03367"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.04851,
-          42.27249
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Granite Ave @ Hilltop St",
         "tag": "3368",
         "stopId": "03368"
@@ -34887,7 +34827,7 @@
         "type": "Point",
         "coordinates": [
           -71.05461,
-          42.2802499
+          42.28025
         ]
       }
     },
@@ -35563,21 +35503,6 @@
         "coordinates": [
           -71.00273,
           42.24419
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hancock St @ Elm st",
-        "tag": "3421",
-        "stopId": "03421"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.00022,
-          42.2455499
         ]
       }
     },
@@ -39424,21 +39349,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Summer St @ Garfield Ave",
-        "tag": "3814",
-        "stopId": "03814"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.9671699,
-          42.21298
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Summer St @ Roseen Ave",
         "tag": "3815",
         "stopId": "03815"
@@ -39447,7 +39357,7 @@
         "type": "Point",
         "coordinates": [
           -70.9666699,
-          42.21112
+          42.2111199
         ]
       }
     },
@@ -39506,7 +39416,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.95795,
+          -70.9579499,
           42.20847
         ]
       }
@@ -39522,7 +39432,7 @@
         "type": "Point",
         "coordinates": [
           -70.95865,
-          42.20977
+          42.2097699
         ]
       }
     },
@@ -39536,8 +39446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.96005,
-          42.21185
+          -70.9600499,
+          42.2118499
         ]
       }
     },
@@ -39552,7 +39462,7 @@
         "type": "Point",
         "coordinates": [
           -70.96106,
-          42.21334
+          42.2133399
         ]
       }
     },
@@ -39658,21 +39568,6 @@
         "coordinates": [
           -70.9856499,
           42.24411
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "South St @ Southern Artery",
-        "tag": "3831",
-        "stopId": "03831"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.9840099,
-          42.2434699
         ]
       }
     },
@@ -40819,21 +40714,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hancock St @ Plain St",
-        "tag": "3924",
-        "stopId": "03924"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.00507,
-          42.19604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Hancock St opp Hancock Ave",
         "tag": "3925",
         "stopId": "03925"
@@ -40871,7 +40751,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.00504,
+          -71.0050399,
           42.20357
         ]
       }
@@ -41584,21 +41464,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "S Franklin St @ Linwood St",
-        "tag": "3994",
-        "stopId": "03994"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.00963,
-          42.1272799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "S Franklin St @ Diman Ave",
         "tag": "3996",
         "stopId": "03996"
@@ -41681,7 +41546,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.00698,
+          -71.0069799,
           42.1398299
         ]
       }
@@ -41697,7 +41562,7 @@
         "type": "Point",
         "coordinates": [
           -71.00791,
-          42.14138
+          42.1413799
         ]
       }
     },
@@ -41787,7 +41652,7 @@
         "type": "Point",
         "coordinates": [
           -71.00828,
-          42.1522199
+          42.15222
         ]
       }
     },
@@ -42094,21 +41959,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "647 Granite St",
-        "tag": "4033",
-        "stopId": "04033"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0202399,
-          42.21012
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "738 Granite St opp Town St",
         "tag": "4034",
         "stopId": "04034"
@@ -42117,7 +41967,7 @@
         "type": "Point",
         "coordinates": [
           -71.0220699,
-          42.2066999
+          42.2067
         ]
       }
     },
@@ -42131,8 +41981,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0239999,
-          42.20293
+          -71.024,
+          42.2029299
         ]
       }
     },
@@ -42146,8 +41996,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0259299,
-          42.19918
+          -71.02593,
+          42.1991799
         ]
       }
     },
@@ -42161,7 +42011,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.02767,
+          -71.0276699,
           42.1967699
         ]
       }
@@ -42177,7 +42027,7 @@
         "type": "Point",
         "coordinates": [
           -71.0279999,
-          42.19544
+          42.1954399
         ]
       }
     },
@@ -46279,21 +46129,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Brook Rd @ Randolph Ave",
-        "tag": "4407",
-        "stopId": "04407"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.06871,
-          42.25994
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Brook Rd @ Centre St",
         "tag": "4408",
         "stopId": "04408"
@@ -46549,21 +46384,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "494 Essex St",
-        "tag": "4431",
-        "stopId": "04431"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.9486399,
-          42.2226899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Essex St @ Roosevelt Rd",
         "tag": "4432",
         "stopId": "04432"
@@ -46587,7 +46407,7 @@
         "type": "Point",
         "coordinates": [
           -70.9496599,
-          42.2196199
+          42.21962
         ]
       }
     },
@@ -46699,36 +46519,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "445 Essex St",
-        "tag": "4445",
-        "stopId": "04445"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.94877,
-          42.22192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "493 Essex St",
-        "tag": "4446",
-        "stopId": "04446"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.94839,
-          42.2233999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Commercial St @ Essex St",
         "tag": "4448",
         "stopId": "04448"
@@ -46811,8 +46601,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.8988699,
-          42.52259
+          -70.8987599,
+          42.52162
         ]
       }
     },
@@ -46856,7 +46646,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.9027199,
+          -70.90272,
           42.5201599
         ]
       }
@@ -46901,8 +46691,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.90743,
-          42.5132499
+          -70.9074299,
+          42.51325
         ]
       }
     },
@@ -51514,21 +51304,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lewis St @ Burrill Ave",
-        "tag": "4888",
-        "stopId": "04888"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.9274799,
-          42.4665699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Lewis St @ Autumn St",
         "tag": "4890",
         "stopId": "04890"
@@ -53862,7 +53637,7 @@
         "type": "Point",
         "coordinates": [
           -71.1248299,
-          42.3044799
+          42.30448
         ]
       }
     },
@@ -53877,7 +53652,7 @@
         "type": "Point",
         "coordinates": [
           -71.1253999,
-          42.30297
+          42.3029699
         ]
       }
     },
@@ -57559,21 +57334,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "170 Broadway",
-        "tag": "5526",
-        "stopId": "05526"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.04056,
-          42.4290899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Eastern Ave @ Broadway",
         "tag": "5527",
         "stopId": "05527"
@@ -57581,23 +57341,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.04,
+          -71.0399999,
           42.43021
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Opp 1236 Eastern Ave",
-        "tag": "5528",
-        "stopId": "05528"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.03761,
-          42.43052
         ]
       }
     },
@@ -57656,7 +57401,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.02655,
+          -71.0265499,
           42.43151
         ]
       }
@@ -59419,21 +59164,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Everett Ave @ Fourth St",
-        "tag": "5683",
-        "stopId": "05683"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.03937,
-          42.3948199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Everett Ave @ Maple St",
         "tag": "5684",
         "stopId": "05684"
@@ -60672,7 +60402,7 @@
         "type": "Point",
         "coordinates": [
           -70.9966899,
-          42.4003199
+          42.40032
         ]
       }
     },
@@ -60852,7 +60582,7 @@
         "type": "Point",
         "coordinates": [
           -70.9985779,
-          42.4016352
+          42.4016353
         ]
       }
     },
@@ -60866,7 +60596,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.9996999,
+          -70.9997,
           42.4024899
         ]
       }
@@ -60881,8 +60611,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0011399,
-          42.4035399
+          -71.00114,
+          42.40354
         ]
       }
     },
@@ -60897,7 +60627,7 @@
         "type": "Point",
         "coordinates": [
           -71.00543,
-          42.4054199
+          42.40542
         ]
       }
     },
@@ -60911,8 +60641,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.00734,
-          42.40603
+          -71.0073399,
+          42.4060299
         ]
       }
     },
@@ -60927,7 +60657,7 @@
         "type": "Point",
         "coordinates": [
           -71.01025,
-          42.4072
+          42.4071999
         ]
       }
     },
@@ -60941,8 +60671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0125699,
-          42.40942
+          -71.01257,
+          42.4094199
         ]
       }
     },
@@ -61159,21 +60889,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bennington St opp Wood Island Station",
-        "tag": "5847",
-        "stopId": "05847"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0238,
-          42.3807099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Bennington St @ Neptune Rd",
         "tag": "5848",
         "stopId": "05848"
@@ -61211,7 +60926,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0301999,
+          -71.0302,
           42.3781699
         ]
       }
@@ -61226,7 +60941,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0317999,
+          -71.0318,
           42.3775699
         ]
       }
@@ -61242,7 +60957,7 @@
         "type": "Point",
         "coordinates": [
           -71.0335999,
-          42.3769
+          42.3768999
         ]
       }
     },
@@ -61256,7 +60971,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0359799,
+          -71.03598,
           42.3760099
         ]
       }
@@ -67084,21 +66799,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Willow Rd @ Winter St",
-        "tag": "6630",
-        "stopId": "06630"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.9196199,
-          42.4242199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Willow Rd @ Summer St",
         "tag": "6631",
         "stopId": "06631"
@@ -67286,7 +66986,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.92844,
+          -70.9284399,
           42.4280799
         ]
       }
@@ -67316,8 +67016,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.93351,
-          42.43012
+          -70.9335099,
+          42.4301199
         ]
       }
     },
@@ -67684,15 +67384,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Myrtle St @ Holyoke St",
+        "title": "Holyoke St @ Myrtle St",
         "tag": "6694",
         "stopId": "06694"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.97643,
-          42.4687699
+          -70.97673,
+          42.4688199
         ]
       }
     },
@@ -67706,7 +67406,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.9775499,
+          -70.97755,
           42.4685099
         ]
       }
@@ -68262,7 +67962,7 @@
         "type": "Point",
         "coordinates": [
           -70.9901199,
-          42.4673599
+          42.46736
         ]
       }
     },
@@ -68276,7 +67976,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.98743,
+          -70.9874299,
           42.46789
         ]
       }
@@ -68359,15 +68059,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Holyoke St @ Myrtle St",
+        "title": "Myrtle St @ Holyoke St",
         "tag": "6752",
         "stopId": "06752"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.9765899,
-          42.46877
+          -70.9765399,
+          42.4686799
         ]
       }
     },
@@ -68397,7 +68097,7 @@
         "type": "Point",
         "coordinates": [
           -70.9761299,
-          42.4647499
+          42.46475
         ]
       }
     },
@@ -68412,7 +68112,7 @@
         "type": "Point",
         "coordinates": [
           -70.9760099,
-          42.4637499
+          42.46375
         ]
       }
     },
@@ -68426,7 +68126,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.9738299,
+          -70.97383,
           42.46402
         ]
       }
@@ -68441,7 +68141,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.9714999,
+          -70.9715,
           42.46468
         ]
       }
@@ -68471,7 +68171,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.96798,
+          -70.9679799,
           42.46622
         ]
       }
@@ -68501,7 +68201,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.96284,
+          -70.9628399,
           42.46735
         ]
       }
@@ -68516,7 +68216,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.9614899,
+          -70.96149,
           42.46854
         ]
       }
@@ -72432,7 +72132,7 @@
         "type": "Point",
         "coordinates": [
           -70.9574199,
-          42.46769
+          42.4676899
         ]
       }
     },
@@ -72447,7 +72147,7 @@
         "type": "Point",
         "coordinates": [
           -70.9564699,
-          42.46691
+          42.4669099
         ]
       }
     },
@@ -72461,7 +72161,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.9551099,
+          -70.95511,
           42.46576
         ]
       }
@@ -72724,21 +72424,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "475 Lynnfield St",
-        "tag": "7333",
-        "stopId": "07333"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.97793,
-          42.50137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Lynnfield St opp Union Hospital",
         "tag": "7334",
         "stopId": "07334"
@@ -72747,7 +72432,7 @@
         "type": "Point",
         "coordinates": [
           -70.97941,
-          42.5024
+          42.5023999
         ]
       }
     },
@@ -72761,8 +72446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.98032,
-          42.50365
+          -70.9803199,
+          42.5036499
         ]
       }
     },
@@ -73706,7 +73391,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.02461,
+          -71.0246099,
           42.43172
         ]
       }
@@ -76482,7 +76167,7 @@
         "type": "Point",
         "coordinates": [
           -71.2104,
-          42.3840799
+          42.38408
         ]
       }
     },
@@ -76527,7 +76212,7 @@
         "type": "Point",
         "coordinates": [
           -71.23208,
-          42.38502
+          42.3850199
         ]
       }
     },
@@ -76594,21 +76279,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Warren St @ Brookline St",
-        "tag": "7712",
-        "stopId": "07712"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.1985199,
-          42.3824899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Warren St @ Waverley St",
         "tag": "7713",
         "stopId": "07713"
@@ -76616,7 +76286,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.20103,
+          -71.2010299,
           42.3817899
         ]
       }
@@ -78454,21 +78124,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bedford St @ National Guard Armory",
-        "tag": "7899",
-        "stopId": "07899"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.2505199,
-          42.4755
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Bedford St @ Eldred St",
         "tag": "7900",
         "stopId": "07900"
@@ -78492,7 +78147,7 @@
         "type": "Point",
         "coordinates": [
           -71.2423099,
-          42.4664999
+          42.4665
         ]
       }
     },
@@ -78507,7 +78162,7 @@
         "type": "Point",
         "coordinates": [
           -71.2409099,
-          42.46396
+          42.4639599
         ]
       }
     },
@@ -78522,7 +78177,7 @@
         "type": "Point",
         "coordinates": [
           -71.2401599,
-          42.4625499
+          42.46255
         ]
       }
     },
@@ -78567,7 +78222,7 @@
         "type": "Point",
         "coordinates": [
           -71.2372399,
-          42.4580699
+          42.45807
         ]
       }
     },
@@ -78582,7 +78237,7 @@
         "type": "Point",
         "coordinates": [
           -71.2357999,
-          42.4565
+          42.4564999
         ]
       }
     },
@@ -78612,7 +78267,7 @@
         "type": "Point",
         "coordinates": [
           -71.2331299,
-          42.4536099
+          42.45361
         ]
       }
     },
@@ -78626,7 +78281,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.2325499,
+          -71.23255,
           42.45288
         ]
       }
@@ -78642,7 +78297,7 @@
         "type": "Point",
         "coordinates": [
           -71.2306699,
-          42.4502799
+          42.45028
         ]
       }
     },
@@ -80629,21 +80284,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "40 Cambridge St",
-        "tag": "8266",
-        "stopId": "08266"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.15269,
-          42.4394399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "26 Cambridge St",
         "tag": "8267",
         "stopId": "08267"
@@ -81658,21 +81298,6 @@
         "coordinates": [
           -70.8849599,
           42.57547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "27 Tozer Rd",
-        "tag": "8357",
-        "stopId": "08357"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.8849099,
-          42.5742699
         ]
       }
     },
@@ -84282,7 +83907,7 @@
         "type": "Point",
         "coordinates": [
           -71.2294499,
-          42.4484799
+          42.44848
         ]
       }
     },
@@ -86779,7 +86404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "400 Centre St",
+        "title": "400 Centre St - East",
         "tag": "9031",
         "stopId": "09031"
       },
@@ -91736,8 +91361,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.16794,
-          42.2578899
+          -71.16853,
+          42.2587199
         ]
       }
     },
@@ -93844,6 +93469,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Townsend St @ Warren St",
+        "tag": "13321",
+        "stopId": "13321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08346,
+          42.3164599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Bryant Ave @ Upton St",
         "tag": "13400",
         "stopId": "13400"
@@ -93987,7 +93627,7 @@
         "type": "Point",
         "coordinates": [
           -70.9562499,
-          42.20676
+          42.2067599
         ]
       }
     },
@@ -94016,8 +93656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.95065,
-          42.20374
+          -70.9506499,
+          42.2037399
         ]
       }
     },
@@ -94648,21 +94288,6 @@
         "coordinates": [
           -71.1022099,
           42.37384
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pond St @ Messina Dr",
-        "tag": "14039",
-        "stopId": "14039"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.02925,
-          42.1924699
         ]
       }
     },
@@ -95636,8 +95261,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.06472,
-          42.3459099
+          -71.06485,
+          42.3455799
         ]
       }
     },
@@ -95998,6 +95623,21 @@
         "coordinates": [
           -70.99205,
           42.4133799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tomasello Way",
+        "tag": "15808",
+        "stopId": "15808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.99821,
+          42.3993799
         ]
       }
     },
@@ -97594,6 +97234,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Goodridge St @ Memorial Pk Ave",
+        "tag": "17370",
+        "stopId": "17370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.94602,
+          42.4760499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Seaver St opp Maple St",
         "tag": "17391",
         "stopId": "17391"
@@ -98428,6 +98083,21 @@
         "coordinates": [
           -71.1477,
           42.2423599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "400 Centre St - West",
+        "tag": "19031",
+        "stopId": "19031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1852999,
+          42.35594
         ]
       }
     },
@@ -99784,6 +99454,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Albany St @ Boston Medical Ctr",
+        "tag": "25089",
+        "stopId": "25089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07231,
+          42.3344099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Preble St @ Vinton St",
         "tag": "25202",
         "stopId": "25202"
@@ -100063,6 +99748,21 @@
         "coordinates": [
           -71.0966199,
           42.3802699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brookline St @ Marshall School",
+        "tag": "26137",
+        "stopId": "26137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9296,
+          42.4711999
         ]
       }
     },
@@ -100864,6 +100564,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "27 Drydock Ave",
+        "tag": "30251",
+        "stopId": "30251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02842,
+          42.34471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Drydock Ave @ Harbor St",
         "tag": "30256",
         "stopId": "30256"
@@ -100961,7 +100676,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0639,
+          -71.0638999,
           42.287
         ]
       }
@@ -101149,7 +100864,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "27 Drydock Ave - Silver Line - Sl2 Design Center",
+        "title": "Drydock Ave @ Black Falcon Ave - Silver Line - Sl2 Design Center",
         "tag": "31259",
         "stopId": "31259"
       },
@@ -101157,7 +100872,7 @@
         "type": "Point",
         "coordinates": [
           -71.0272099,
-          42.34423
+          42.3442299
         ]
       }
     },
@@ -101173,6 +100888,21 @@
         "coordinates": [
           -71.09987,
           42.3358299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Longwood Ave @ Huntington Ave",
+        "tag": "31318",
+        "stopId": "31318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0999,
+          42.33577
         ]
       }
     },
@@ -101818,6 +101548,21 @@
         "coordinates": [
           -71.0881699,
           42.3630599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tappan St @ Greenough St",
+        "tag": "34589",
+        "stopId": "34589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12918,
+          42.3322899
         ]
       }
     },
@@ -102507,7 +102252,7 @@
         "type": "Point",
         "coordinates": [
           -70.9840399,
-          42.2398899
+          42.23989
         ]
       }
     },
@@ -103339,21 +103084,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Holbrook Ct @ Linwood St",
-        "tag": "39942",
-        "stopId": "39942"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0080099,
-          42.1260099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Warren St @ Dabney Pl",
         "tag": "40001",
         "stopId": "40001"
@@ -103738,6 +103468,21 @@
         "coordinates": [
           -71.13213,
           42.2373599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Neponset Valley Pkwy @ Westighouse Ind Park",
+        "tag": "42820",
+        "stopId": "42820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13189,
+          42.2435199
         ]
       }
     },
@@ -106354,21 +106099,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Crosby Dr @ Middlesex Trnpk",
-        "tag": "49949",
-        "stopId": "49949"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.24184,
-          42.51505
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Dawes Drive",
         "tag": "49950",
         "stopId": "49950"
@@ -107044,6 +106774,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Fecteau Way",
+        "tag": "56733",
+        "stopId": "56733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.98467,
+          42.4701199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "O'Callaghan Way opp Osborne St",
         "tag": "56734",
         "stopId": "56734"
@@ -107051,8 +106796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.98675,
-          42.4701199
+          -70.9867499,
+          42.47012
         ]
       }
     },
@@ -107876,8 +107621,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.98608,
-          42.4715599
+          -70.9860799,
+          42.47156
         ]
       }
     },
@@ -109497,7 +109242,7 @@
         "type": "Point",
         "coordinates": [
           -71.20843,
-          42.38314
+          42.3831399
         ]
       }
     },
@@ -109511,8 +109256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.2072899,
-          42.38511
+          -71.20729,
+          42.3851099
         ]
       }
     },
@@ -109527,7 +109272,7 @@
         "type": "Point",
         "coordinates": [
           -71.2039,
-          42.38689
+          42.3868899
         ]
       }
     },
@@ -109541,7 +109286,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1980199,
+          -71.19802,
           42.39036
         ]
       }
@@ -109557,7 +109302,7 @@
         "type": "Point",
         "coordinates": [
           -71.2019,
-          42.3925399
+          42.39254
         ]
       }
     },
@@ -109571,7 +109316,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.20432,
+          -71.2043199,
           42.3939899
         ]
       }
@@ -109602,7 +109347,7 @@
         "type": "Point",
         "coordinates": [
           -71.21193,
-          42.3989
+          42.3988999
         ]
       }
     },
@@ -109631,7 +109376,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.2172199,
+          -71.21722,
           42.3967899
         ]
       }
@@ -109646,8 +109391,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.22019,
-          42.3933499
+          -71.2201899,
+          42.39335
         ]
       }
     },
@@ -109661,8 +109406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.2219199,
-          42.39148
+          -71.22192,
+          42.3914799
         ]
       }
     },
@@ -109676,8 +109421,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.2259499,
-          42.38584
+          -71.22595,
+          42.3858399
         ]
       }
     },
@@ -110038,21 +109783,6 @@
         "coordinates": [
           -71.1738199,
           42.42692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "High Plain St opp Peach St",
-        "tag": "80618",
-        "stopId": "80618"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.2356399,
-          42.1476899
         ]
       }
     },
@@ -111027,7 +110757,7 @@
         "type": "Point",
         "coordinates": [
           -70.8834099,
-          42.5714799
+          42.57148
         ]
       }
     },
@@ -111041,7 +110771,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.24642,
+          -71.2464199,
           42.1471999
         ]
       }
@@ -111388,21 +111118,6 @@
         "coordinates": [
           -71.2020199,
           42.29885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "210 Nahanton St",
-        "tag": "85289",
-        "stopId": "85289"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.19684,
-          42.29959
         ]
       }
     },
@@ -111934,21 +111649,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Main St @ Glenwood St",
-        "tag": "86618",
-        "stopId": "86618"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.25242,
-          42.1467099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Walnut St opp Sterling St",
         "tag": "86734",
         "stopId": "86734"
@@ -112363,21 +112063,6 @@
         "coordinates": [
           -71.23639,
           42.3738799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Walpole Station Elm St Lot",
-        "tag": "87619",
-        "stopId": "87619"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.25624,
-          42.1469499
         ]
       }
     },
@@ -113474,14 +113159,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "27 Drydock Ave - Silver Line - Sl2 Design Center",
+        "title": "27 Drydock Ave",
+        "tag": "30251_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0284199,
+          42.34471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Drydock Ave @ Black Falcon Ave - Silver Line - Sl2 Design Center",
         "tag": "31259_1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -71.0272099,
-          42.3442299
+          42.34423
         ]
       }
     },
@@ -113824,6 +113523,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Andrew - Busway",
+        "tag": "13_0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05762,
+          42.3299599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "City Point Bus Terminal",
         "tag": "33_ar"
       },
@@ -113832,20 +113545,6 @@
         "coordinates": [
           -71.0319,
           42.3385799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Andrew - Busway",
-        "tag": "13_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.05762,
-          42.3299599
         ]
       }
     },
@@ -113978,6 +113677,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Broadway Station - Red Line",
+        "tag": "150_0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05706,
+          42.3426499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Boylston St @ Dartmouth St",
         "tag": "175_ar"
       },
@@ -113992,6 +113705,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Andrew - Busway",
+        "tag": "13_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05762,
+          42.3299599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Saint James Ave @ Dartmouth St",
         "tag": "178_ar"
       },
@@ -114000,6 +113727,20 @@
         "coordinates": [
           -71.07691,
           42.3493699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Franklin Park Loop @ Zoo entrance",
+        "tag": "1565_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08651,
+          42.3022699
         ]
       }
     },
@@ -114118,34 +113859,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Park St Busway @ Dorchester Ave",
-        "tag": "325_0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.06093,
-          42.2982499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Mattapan - North Busway",
-        "tag": "185_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.09207,
-          42.2677199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Hancock St @ Bowdoin St",
         "tag": "1508_ar"
       },
@@ -114188,6 +113901,34 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Park St Busway @ Dorchester Ave",
+        "tag": "325_0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06093,
+          42.2982499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mattapan - North Busway",
+        "tag": "185_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09207,
+          42.2677199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Congress St @ Haymarket Sta",
         "tag": "117_ar"
       },
@@ -114202,14 +113943,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Dudley Station",
-        "tag": "64000_1"
+        "title": "Forest Hills - Upper Busway",
+        "tag": "10642_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.08398,
-          42.3295399
+          -71.11431,
+          42.3007499
         ]
       }
     },
@@ -114224,20 +113965,6 @@
         "coordinates": [
           -71.11363,
           42.3004799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Forest Hills - Upper Busway",
-        "tag": "10642_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.11431,
-          42.3007499
         ]
       }
     },
@@ -114342,6 +114069,48 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Fields Corner - Busway",
+        "tag": "323_0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06222,
+          42.2998099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Adams St @ Minot St",
+        "tag": "8687_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0557,
+          42.2836799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Adams St @ Gallivan Blvd",
+        "tag": "13378_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0559,
+          42.2828299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Ruggles - Lower Busway Lane 1",
         "tag": "17862_ar"
       },
@@ -114370,14 +114139,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Jackson Square - Busway",
-        "tag": "11531_1"
+        "title": "Dudley Station",
+        "tag": "64000_1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.09955,
-          42.3230699
+          -71.08398,
+          42.3295399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ave Louis Pasteur @ Longwood Ave",
+        "tag": "11780_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10246,
+          42.3379699
         ]
       }
     },
@@ -114413,13 +114196,27 @@
       "type": "Feature",
       "properties": {
         "title": "Mattapan - North Busway",
-        "tag": "185_1"
+        "tag": "185_0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -71.09207,
           42.2677199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "River St @ Fairmount Ave",
+        "tag": "6390_0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12122,
+          42.2557399
         ]
       }
     },
@@ -114448,6 +114245,20 @@
         "coordinates": [
           -71.07873,
           42.2784899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Millennium Park",
+        "tag": "67120_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17703,
+          42.2810099
         ]
       }
     },
@@ -114538,6 +114349,48 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Forest Hills - Lower Busway",
+        "tag": "875_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11363,
+          42.3004799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Humboldt Ave @ Townsend St",
+        "tag": "1332_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0865,
+          42.3169299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Neponset Valley Pkwy @ Westighouse Ind Park",
+        "tag": "42820_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13189,
+          42.2435199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "River St @ Milton St",
         "tag": "18974_ar"
       },
@@ -114580,42 +114433,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Walpole Station Elm St Lot",
-        "tag": "87618_ar"
+        "title": "Forest Hills - Upper Busway",
+        "tag": "10642_1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.25619,
-          42.1469099
+          -71.11431,
+          42.3007499
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Dedham Mall @ Old Navy",
-        "tag": "10832_0"
+        "title": "Main St @ Glenwood St",
+        "tag": "86618_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.16863,
-          42.2538699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dedham Mall @ Stop & Shop",
-        "tag": "10833_0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.16794,
-          42.2578899
+          -71.25242,
+          42.1467099
         ]
       }
     },
@@ -114630,6 +114469,34 @@
         "coordinates": [
           -71.21835,
           42.1591399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dedham Mall @ Old Navy",
+        "tag": "10832_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.16863,
+          42.2538699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dedham Mall @ Stop & Shop",
+        "tag": "10833_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.16853,
+          42.2587199
         ]
       }
     },
@@ -114656,8 +114523,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.16794,
-          42.2578899
+          -71.16853,
+          42.2587199
         ]
       }
     },
@@ -114672,20 +114539,6 @@
         "coordinates": [
           -71.15859,
           42.2602799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dedham Mall @ Old Navy",
-        "tag": "10832_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.16863,
-          42.2538699
         ]
       }
     },
@@ -114748,14 +114601,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Millennium Park",
-        "tag": "67120_ar"
+        "title": "Spring Street opp Charles River Loop",
+        "tag": "818_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.17703,
-          42.2810099
+          -71.17212,
+          42.2720299
         ]
       }
     },
@@ -114910,6 +114763,34 @@
         "coordinates": [
           -71.14816,
           42.2788599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South St @ Jamaica St",
+        "tag": "2006_0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1150899,
+          42.3061299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South St @ St Rose St",
+        "tag": "2007_0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1147699,
+          42.3043999
         ]
       }
     },
@@ -115112,6 +114993,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Jackson Square - Busway",
+        "tag": "11531_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09955,
+          42.3230699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Jfk/Umass - Busway",
         "tag": "121_ar"
       },
@@ -115148,20 +115043,6 @@
         "coordinates": [
           -71.06291,
           42.3556899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Franklin Park Loop @ Zoo entrance",
-        "tag": "1565_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.08651,
-          42.3022699
         ]
       }
     },
@@ -115238,6 +115119,34 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Reservoir - Busway",
+        "tag": "21917_0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1494,
+          42.3351199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brighton Ave @ Cambridge St",
+        "tag": "926_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.13669,
+          42.3533499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Watertown Yard",
         "tag": "900_ar"
       },
@@ -115267,13 +115176,41 @@
       "type": "Feature",
       "properties": {
         "title": "Kenmore - Busway",
-        "tag": "899_0"
+        "tag": "899_1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -71.09583,
           42.3489299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ave Louis Pasteur @ Longwood Ave",
+        "tag": "11780_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10246,
+          42.3379699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ave Louis Pasteur @ The Fenway",
+        "tag": "11781_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1008399,
+          42.34023
         ]
       }
     },
@@ -115322,48 +115259,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mall at Chestnut Hill @ Bloomingdales",
-        "tag": "19661_0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.17767,
-          42.3219999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "325 Boylston St",
-        "tag": "17000_0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.18152,
-          42.3193799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "280 Boylston St",
-        "tag": "17001_0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.17931,
-          42.31928
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Boylston St @ Tully St",
         "tag": "19821_ar"
       },
@@ -115386,6 +115281,48 @@
         "coordinates": [
           -71.17767,
           42.3219999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mall at Chestnut Hill @ Bloomingdales",
+        "tag": "19661_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17767,
+          42.3219999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "325 Boylston St",
+        "tag": "17000_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18152,
+          42.3193799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "280 Boylston St",
+        "tag": "17001_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.17931,
+          42.31928
         ]
       }
     },
@@ -115644,6 +115581,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Winship St @ Union St",
+        "tag": "994_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1523,
+          42.3461999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Clyde Terr @ Lawrence Ln",
         "tag": "7959_ar"
       },
@@ -115799,20 +115750,6 @@
       "type": "Feature",
       "properties": {
         "title": "Harvard - Upper Busway",
-        "tag": "20761_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.11896,
-          42.3733599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Harvard - Upper Busway",
         "tag": "20761_1"
       },
       "geometry": {
@@ -115834,6 +115771,20 @@
         "coordinates": [
           -71.12054,
           42.3777599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harvard - Upper Busway",
+        "tag": "20761_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11896,
+          42.3733599
         ]
       }
     },
@@ -115862,6 +115813,20 @@
         "coordinates": [
           -71.12178,
           42.3725399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Felton St @ Cambridge St",
+        "tag": "1430_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11234,
+          42.3750499
         ]
       }
     },
@@ -116282,6 +116247,20 @@
         "coordinates": [
           -71.13136,
           42.4318999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "475 Winthrop St @ Temple Shalom",
+        "tag": "9176_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12497,
+          42.4269299
         ]
       }
     },
@@ -116778,6 +116757,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Wesley St @ Lynn St",
+        "tag": "7417_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02409,
+          42.4328599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Broadway @ Ferry St",
         "tag": "5518_ar"
       },
@@ -117240,6 +117233,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Tomasello Way",
+        "tag": "15808_0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9982099,
+          42.39938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "104 Constitution Ave",
         "tag": "35830_0"
       },
@@ -117324,28 +117331,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Border St @ Liberty Plaza Shopping Center",
-        "tag": "15867_0"
+        "title": "Orient Heights - Bennington St Busway",
+        "tag": "5880_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0399799,
-          42.37483
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Wood Island - Busway",
-        "tag": "5666_0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.02329,
-          42.3803699
+          -71.00423,
+          42.3872299
         ]
       }
     },
@@ -117353,7 +117346,7 @@
       "type": "Feature",
       "properties": {
         "title": "Bennington St @ Antrim St",
-        "tag": "5881_0"
+        "tag": "5881_1"
       },
       "geometry": {
         "type": "Point",
@@ -117366,14 +117359,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Orient Heights - Bennington St Busway",
-        "tag": "5880_ar"
+        "title": "Wood Island - Busway",
+        "tag": "5666_1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.00423,
-          42.3872299
+          -71.02329,
+          42.3803699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Border St @ Liberty Plaza Shopping Center",
+        "tag": "15867_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0399799,
+          42.37483
         ]
       }
     },
@@ -117556,6 +117563,20 @@
         "coordinates": [
           -71.0890199,
           42.4042299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Middlesex Ave @ First St",
+        "tag": "9049_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07914,
+          42.4114499
         ]
       }
     },
@@ -117940,6 +117961,118 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Huckins Ave @ E Squantum St",
+        "tag": "3143_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01444,
+          42.2968699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Huckins Ave @ Standish Rd",
+        "tag": "3144_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01092,
+          42.29706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Huckins Ave @ Bellevue Rd",
+        "tag": "3145_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0086199,
+          42.29718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bellevue Rd @ Wegdewood St",
+        "tag": "3147_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.00976,
+          42.29879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bellevue Rd @ Standish Rd",
+        "tag": "3148_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01154,
+          42.30004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bellevue Rd @ Dorchester St",
+        "tag": "3149_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0137,
+          42.30091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dorchester St opp Pratt Rd",
+        "tag": "3150_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0154,
+          42.2991899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dorchester St @ E Squantum St",
+        "tag": "3151_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01655,
+          42.2976799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "O'Brien Towers",
         "tag": "3308_ar"
       },
@@ -117990,6 +118123,20 @@
         "coordinates": [
           -71.00517,
           42.2518499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Adams St @ Church St",
+        "tag": "3359_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.03928,
+          42.2579499
         ]
       }
     },
@@ -118116,6 +118263,34 @@
         "coordinates": [
           -71.0334599,
           42.2563099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hollis @ Newbury",
+        "tag": "93130_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.02546,
+          42.2765999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bryant Ave @ Upton St",
+        "tag": "13400_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.03838,
+          42.2503699
         ]
       }
     },
@@ -118360,20 +118535,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Braintree - Busway",
-        "tag": "38671_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.00107,
-          42.2077399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Holbrook Court Apartments",
         "tag": "39941_1"
       },
@@ -118388,14 +118549,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Holbrook Ct @ Linwood St",
-        "tag": "39942_1"
+        "title": "Braintree - Busway",
+        "tag": "38671_1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0080099,
-          42.1260099
+          -71.00107,
+          42.2077399
         ]
       }
     },
@@ -118592,6 +118753,20 @@
         "coordinates": [
           -71.04267,
           42.2586899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Newport Ave @ Beale St",
+        "tag": "3191_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.01921,
+          42.2649999
         ]
       }
     },
@@ -119130,28 +119305,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Kings Hill Dr @ Magner Rd",
-        "tag": "6742_0"
+        "title": "O'Callaghan Way opp Osborne St",
+        "tag": "56734_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.9901199,
-          42.46736
+          -70.98675,
+          42.4701199
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Kings Hill Dr @ Newcastle St",
-        "tag": "6744_0"
+        "title": "Market St @ Andrew St",
+        "tag": "6773_0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.9874299,
-          42.46789
+          -70.9489599,
+          42.4628899
         ]
       }
     },
@@ -119166,6 +119341,34 @@
         "coordinates": [
           -71.01972,
           42.48841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kings Hill Dr @ Magner Rd",
+        "tag": "6742_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9901199,
+          42.4673599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kings Hill Dr @ Newcastle St",
+        "tag": "6744_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.98743,
+          42.46789
         ]
       }
     },
@@ -119270,6 +119473,48 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "O'Callaghan Way opp Osborne St",
+        "tag": "56734_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.98675,
+          42.4701199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "O'Callaghan Way opp Walnut Pk",
+        "tag": "66734_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.98608,
+          42.4715599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "O'Callaghan Way @ Walnut St",
+        "tag": "76734_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.98536,
+          42.47292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Square One Mall @ Sears",
         "tag": "7529_0"
       },
@@ -119298,13 +119543,27 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Trueman Dr @ Central Ave",
-        "tag": "48575_0"
+        "title": "Square One Mall @ Sears",
+        "tag": "7529_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0307999,
+          -71.02581,
+          42.4598999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Trueman Dr @ Central Ave",
+        "tag": "48575_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0308,
           42.4390999
         ]
       }
@@ -119313,55 +119572,13 @@
       "type": "Feature",
       "properties": {
         "title": "Central Ave @ Kennedy Dr",
-        "tag": "17456_0"
+        "tag": "17456_1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0297999,
-          42.4380399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Kennedy Dr @ Main Stop",
-        "tag": "8336_0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0332,
-          42.4364499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Kennedy Dr @ Bldg 184",
-        "tag": "8338_0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0318,
-          42.43627
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Kennedy Dr @ Bldg 142",
-        "tag": "18338_0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0304399,
-          42.43741
+          -71.0298,
+          42.43804
         ]
       }
     },
@@ -119369,7 +119586,7 @@
       "type": "Feature",
       "properties": {
         "title": "Central Ave @ Kennedy Dr",
-        "tag": "17463_0"
+        "tag": "17463_1"
       },
       "geometry": {
         "type": "Point",
@@ -119383,7 +119600,7 @@
       "type": "Feature",
       "properties": {
         "title": "Trueman Dr @ Central Ave",
-        "tag": "8576_0"
+        "tag": "8576_1"
       },
       "geometry": {
         "type": "Point",
@@ -119397,13 +119614,13 @@
       "type": "Feature",
       "properties": {
         "title": "Trueman Dr @ Broadway",
-        "tag": "8577_0"
+        "tag": "8577_1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0310899,
-          42.4414
+          -71.03109,
+          42.4413999
         ]
       }
     },
@@ -119432,6 +119649,34 @@
         "coordinates": [
           -70.99218,
           42.5117499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pleasant @ Tremont St",
+        "tag": "94322_0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9513499,
+          42.4619599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northshore Mall @ Entrance G",
+        "tag": "7269_0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.94435,
+          42.5419599
         ]
       }
     },
@@ -119480,34 +119725,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Northshore Mall @ Entrance G",
-        "tag": "7269_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.94435,
-          42.5419599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pleasant @ Tremont St",
-        "tag": "94322_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.95135,
-          42.4619599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Neptune Blvd @ Blossom St",
         "tag": "94320_ar"
       },
@@ -119544,6 +119761,20 @@
         "coordinates": [
           -70.99218,
           42.5117499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northshore Mall @ Entrance G",
+        "tag": "7269_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.94435,
+          42.5419599
         ]
       }
     },
@@ -119662,14 +119893,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Salem St @ Humphrey St",
-        "tag": "4777_ar"
+        "title": "Paradise Rd @ Vinnin St",
+        "tag": "4771_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.89258,
-          42.4761899
+          -70.9002,
+          42.4845499
         ]
       }
     },
@@ -119690,14 +119921,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Humphrey St @ Ocean Ave",
-        "tag": "4825_ar"
+        "title": "1000 Paradise Rd",
+        "tag": "4872_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.89366,
-          42.4747799
+          -70.90052,
+          42.4838599
         ]
       }
     },
@@ -119850,8 +120081,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.8988699,
-          42.52259
+          -70.8987599,
+          42.5216199
         ]
       }
     },
@@ -119866,20 +120097,6 @@
         "coordinates": [
           -70.94098,
           42.5501699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Winship St @ Union St",
-        "tag": "994_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.1523,
-          42.3461999
         ]
       }
     },
@@ -119922,48 +120139,6 @@
         "coordinates": [
           -71.18594,
           42.3571299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "400 Centre St",
-        "tag": "9031_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.18425,
-          42.3561599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Washington St @ Bacon St",
-        "tag": "903_0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.18594,
-          42.3571299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "400 Centre St",
-        "tag": "9031_0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.18425,
-          42.3561599
         ]
       }
     },
@@ -120026,6 +120201,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Washington St @ Bacon St",
+        "tag": "903_0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18594,
+          42.3571299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "South St @ Angleside Rd",
         "tag": "7600_ar"
       },
@@ -120034,6 +120223,20 @@
         "coordinates": [
           -71.26119,
           42.3612699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "400 Centre St - West",
+        "tag": "19031_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1853,
+          42.35594
         ]
       }
     },

@@ -348,12 +348,12 @@
       "tag": "CPX",
       "oppositeColor": "ffffff",
       "max": [
-        35.9186201,
+        35.9186195,
         -79.0527798
       ],
       "min": [
         35.9016229,
-        -79.09867
+        -79.0986696
       ],
       "stops": {
         "To_Carrboro Plaza": [
@@ -368,10 +368,10 @@
           "oldfaut",
           "oldframg",
           "oldfwpop",
-          "oldfberk"
+          "oldfberk",
+          "carrpark_d"
         ],
         "To_UNC Campus": [
-          "carrpark_d",
           "oldfnc54",
           "nc54carr",
           "nc54berk",
@@ -409,8 +409,6 @@
           "poplrave_o",
           "popllila_o",
           "poplnc54_o",
-          "nc54jone",
-          "nc54olea",
           "nc54popl",
           "nc54berk_o",
           "mainjame",
@@ -464,8 +462,6 @@
           "davifide",
           "davibert",
           "davijone",
-          "nc54domi",
-          "nc54harr",
           "jonewilshp",
           "jonewill_w",
           "ofaypopl_w"
@@ -2008,7 +2004,8 @@
           "hillnort",
           "hillrose_s",
           "franplan_s",
-          "franhend"
+          "franhend",
+          "franvars_a"
         ]
       }
     },

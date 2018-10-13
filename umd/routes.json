@@ -7,28 +7,25 @@
       "shortTitle": "104 CP Metro",
       "oppositeColor": "ffffff",
       "max": [
-        38.9879842,
+        38.9899499,
         -76.9266479
       ],
       "min": [
         38.9781498,
-        -76.9465439
+        -76.940772
       ],
       "stops": {
-        "Stamp_Student Union": [
+        "College_Park Metro": [
+          "regdrgar_d",
+          "campmath",
+          "paingree",
+          "painrhod"
+        ],
+        "Regents_Drive Parking Garage": [
           "cpmetro_d",
           "pain50th",
           "painrhod_in",
-          "campmcir"
-        ],
-        "College_Park Metro": [
-          "stamsu_d",
-          "dorchall",
-          "camplibr",
-          "campedwa",
-          "campmath",
-          "campdiam",
-          "painrhod"
+          "painglen"
         ]
       }
     },
@@ -38,23 +35,35 @@
       "tag": "105",
       "oppositeColor": "000000",
       "max": [
-        39.0030719,
-        -76.9374813
+        39.0030898,
+        -76.9374809
       ],
       "min": [
-        38.9781829,
-        -76.9469495
+        38.978183,
+        -76.94677
       ],
       "stops": {
+        "Guilford_Drive and Rowalt Drive": [
+          "stamsu_d",
+          "artsoci",
+          "wico",
+          "lotu4",
+          "cour500",
+          "greemead_in",
+          "greemetz",
+          "lot4_in",
+          "shutbase_in",
+          "regepain",
+          "regecomc_in",
+          "regefarm_in",
+          "regegara_d"
+        ],
         "Courtyards_500": [
+          "guilrowa",
           "hartshop",
-          "sccomm5_6",
-          "lota",
-          "somehall",
-          "annearun",
-          "dorchall",
-          "camplibr",
-          "campedwa",
+          "mont_in",
+          "memo_in",
+          "mitc_in",
           "regestad",
           "regefarm_out",
           "regecomc_out",
@@ -63,22 +72,6 @@
           "lot4_out",
           "metzgree",
           "gree_out"
-        ],
-        "Hartwick_Road at College Park Shopping Center": [
-          "regegara_d",
-          "stamsu_d",
-          "artsoci",
-          "wico",
-          "lotu4",
-          "guilrowa",
-          "cour500",
-          "greemead_in",
-          "greemetz",
-          "lot4_in",
-          "shutbase_in",
-          "regepain",
-          "regecomc_in",
-          "regefarm_in"
         ]
       }
     },
@@ -141,10 +134,10 @@
       "oppositeColor": "ffffff",
       "max": [
         38.9781498,
-        -76.9229913
+        -76.922991
       ],
       "min": [
-        38.9682923,
+        38.9683562,
         -76.9301381
       ],
       "stops": {
@@ -153,10 +146,58 @@
           "acphys",
           "acphys_elli",
           "rayt",
-          "collpark",
           "msqua",
           "usda",
           "rrmshel"
+        ]
+      }
+    },
+    "110": {
+      "title": "110 Seven Springs Apts",
+      "color": "cd8500",
+      "tag": "110",
+      "shortTitle": "110 Sevn Springs",
+      "oppositeColor": "000000",
+      "max": [
+        39.0178782,
+        -76.9211996
+      ],
+      "min": [
+        38.9847421,
+        -76.9544992
+      ],
+      "stops": {
+        "Regents_Drive Garage": [
+          "ssvill",
+          "cher9308",
+          "cher47th",
+          "edge49th_in",
+          "edgerhod_in",
+          "rhodmusk",
+          "rhodholl_in",
+          "rhodfox",
+          "rhodcher_in",
+          "rhoduni_in",
+          "lot4_in",
+          "shutbase_in",
+          "painrege_bus",
+          "painstad"
+        ],
+        "Seven_Springs Village Apartments": [
+          "regegara_d",
+          "stamsu_d",
+          "artsoci",
+          "camplot3",
+          "umuc",
+          "rhoduni",
+          "rhodcher",
+          "rhodindi",
+          "rhodholl",
+          "hollshop",
+          "edgerhod",
+          "edge49th",
+          "cpmark",
+          "cher9348"
         ]
       }
     },
@@ -283,6 +324,109 @@
         ]
       }
     },
+    "114": {
+      "title": "114 University View",
+      "color": "ff9912",
+      "tag": "114",
+      "shortTitle": "114 Univ View",
+      "oppositeColor": "000000",
+      "max": [
+        38.99234,
+        -76.9338999
+      ],
+      "min": [
+        38.9809619,
+        -76.9467699
+      ],
+      "stops": {
+        "Loop": [
+          "stamsuhh_d",
+          "artsoci",
+          "wico",
+          "lotu4",
+          "collpksh",
+          "baltritc",
+          "univview",
+          "baltvars",
+          "mcirc"
+        ]
+      }
+    },
+    "115": {
+      "title": "115 Orange",
+      "color": "ff9912",
+      "tag": "115",
+      "oppositeColor": "000000",
+      "max": [
+        38.99297,
+        -76.9370967
+      ],
+      "min": [
+        38.9824312,
+        -76.9494
+      ],
+      "stops": {
+        "Loop": [
+          "stamsu_d",
+          "lot1",
+          "cspac",
+          "elk",
+          "hage",
+          "laplat",
+          "camb",
+          "regegara_d",
+          "mitc_out",
+          "memo_out",
+          "mont_out",
+          "baltritc_s",
+          "mcirc_s"
+        ]
+      }
+    },
+    "116": {
+      "title": "116 Purple",
+      "color": "9932cc",
+      "tag": "116",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.0030848,
+        -76.9370967
+      ],
+      "min": [
+        38.9824312,
+        -76.94539
+      ],
+      "stops": {
+        "Loop": [
+          "stamsuhh_d",
+          "hoff",
+          "uniofiel",
+          "biofield",
+          "regestad",
+          "regefarm_out",
+          "regecomc_out",
+          "regepain_out",
+          "shutbase_out",
+          "lot4_out",
+          "cour300",
+          "cour400",
+          "cour500",
+          "gree",
+          "greemetz",
+          "lot4i_r",
+          "shutbase_in",
+          "regepain",
+          "regecomc_in",
+          "regefarm_in",
+          "regegara_d",
+          "mitc_out",
+          "memo_out",
+          "mont_out",
+          "baltritc_s",
+          "mcirc_s"
+        ]
+      }
+    },
     "117": {
       "title": "117 Blue",
       "color": "3299cc",
@@ -313,18 +457,65 @@
         ]
       }
     },
+    "118": {
+      "title": "118 Gold",
+      "color": "ffe600",
+      "tag": "118",
+      "oppositeColor": "000000",
+      "max": [
+        38.9936749,
+        -76.9372506
+      ],
+      "min": [
+        38.9782048,
+        -76.95824
+      ],
+      "stops": {
+        "Loop": [
+          "stamsu_d",
+          "lot1",
+          "cspac",
+          "dent",
+          "tula3424",
+          "tula3410",
+          "tula3403",
+          "univgrad",
+          "camplot19",
+          "univbapt",
+          "hillmunc",
+          "lds",
+          "sccomm1_2",
+          "4315rwlt",
+          "4327rwlt",
+          "balthart_in",
+          "mont_in",
+          "memo_in",
+          "shoebuil",
+          "loty",
+          "mitc_in",
+          "campmath",
+          "painstad_r",
+          "avwill",
+          "techpain",
+          "regepain",
+          "regecomc_in",
+          "regefarm_in",
+          "regegara_d"
+        ]
+      }
+    },
     "122": {
       "title": "122 Green",
       "color": "00cd66",
       "tag": "122",
       "oppositeColor": "000000",
       "max": [
-        38.99297,
+        38.9929705,
         -76.93131
       ],
       "min": [
         38.9796165,
-        -76.9494
+        -76.9493998
       ],
       "stops": {
         "Loop": [
@@ -362,6 +553,48 @@
         ]
       }
     },
+    "123": {
+      "title": "123 Discovery District",
+      "color": "ffe600",
+      "tag": "123",
+      "shortTitle": "123 Discovery",
+      "oppositeColor": "000000",
+      "max": [
+        38.989794,
+        -76.923247
+      ],
+      "min": [
+        38.9691629,
+        -76.94075
+      ],
+      "stops": {
+        "Loop": [
+          "regegara_d",
+          "diviofit"
+        ]
+      }
+    },
+    "124": {
+      "title": "Shady Grove",
+      "color": "7f00ff",
+      "tag": "124",
+      "shortTitle": "USG",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.0917039,
+        -76.9432066
+      ],
+      "min": [
+        38.98756,
+        -77.199467
+      ],
+      "stops": {
+        "Shady_Grove": [
+          "stamsu_d",
+          "univshad"
+        ]
+      }
+    },
     "126": {
       "title": "126 New Carrolton",
       "color": "0147fa",
@@ -373,8 +606,8 @@
         -76.8682799
       ],
       "min": [
-        38.9488713,
-        -76.9469495
+        38.950275,
+        -76.94677
       ],
       "stops": {
         "N_Carrolton Metro": [
@@ -388,8 +621,7 @@
           "baltunde",
           "ewhwbeal",
           "ewhwtayl_out",
-          "rivstber_n",
-          "rivd61st",
+          "rivd63rd",
           "riveeast",
           "rive67th",
           "riveaubu",
@@ -400,7 +632,7 @@
           "rivemaho",
           "herisqap",
           "annarive",
-          "annafinn"
+          "harkanna"
         ],
         "Stamp_Student Union": [
           "ncarmetr",
@@ -433,26 +665,22 @@
           "ngarmo",
           "baltrive_in",
           "baltamhe",
-          "guilrowa_in",
-          "sccomm5_6",
-          "lota",
-          "somehall",
-          "annearun",
-          "dorchall",
-          "camplibr",
-          "campedwa"
+          "hartshop",
+          "mont_in",
+          "memo_in",
+          "mitc_in"
         ]
       }
     },
-    "134": {
-      "title": "134 Mazza GrandMarc and Seven Springs",
-      "color": "cd8500",
-      "tag": "134",
-      "shortTitle": "134 Mazza ",
-      "oppositeColor": "000000",
+    "127": {
+      "title": "127 Mazza GrandMarc",
+      "color": "c73f17",
+      "tag": "127",
+      "shortTitle": "127 MGM",
+      "oppositeColor": "ffffff",
       "max": [
-        39.0178782,
-        -76.9213738
+        39.0161019,
+        -76.9213841
       ],
       "min": [
         38.9878607,
@@ -460,30 +688,209 @@
       ],
       "stops": {
         "Regents_Drive Garage": [
-          "cher9348",
-          "ssvill",
-          "cher9308",
-          "cher47th",
-          "mazz",
-          "baltberw_in",
+          "baltberw_s",
           "baltqueb_in",
           "varsfron",
-          "painglen"
+          "painstad_r"
         ],
-        "Seven_Springs Village Apartments": [
+        "Mazza_GrandMarc": [
           "regegara_d",
           "campmath_m",
           "baltmacd",
           "baltqueb_out",
           "baltberw_out",
-          "rhoduni",
+          "rhoduniv",
           "rhodcher",
-          "rhodindi",
+          "rhodfox",
           "rhodholl",
-          "hollshop",
+          "rhodshop",
           "edgerhod",
           "edge49th",
-          "cpmark"
+          "mazz"
+        ]
+      }
+    },
+    "128": {
+      "title": "128 The Enclave",
+      "color": "00ff00",
+      "tag": "128",
+      "shortTitle": "128 Enclave",
+      "oppositeColor": "000000",
+      "max": [
+        38.99782,
+        -76.93182
+      ],
+      "min": [
+        38.9872099,
+        -76.9500943
+      ],
+      "stops": {
+        "Stamp_Student Union": [
+          "baltberw_s",
+          "baltqueb_in",
+          "baltvars",
+          "mcirc_s"
+        ],
+        "Enclave": [
+          "stamsuhh_d",
+          "lot1",
+          "cspac",
+          "dent_e",
+          "enclave_s"
+        ]
+      }
+    },
+    "131": {
+      "title": "131 MGM/Enclave",
+      "color": "9932cc",
+      "tag": "131",
+      "shortTitle": "131 The Enclave & Mazza Grandmarc",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.0161019,
+        -76.9213841
+      ],
+      "min": [
+        38.9824312,
+        -76.94539
+      ],
+      "stops": {
+        "Stamp_Student Union": [
+          "enclave_s",
+          "baltberw_s",
+          "baltqueb_in",
+          "vars",
+          "mcirc"
+        ],
+        "Mazza_GrandMarc": [
+          "stamsuhh_d",
+          "hoff",
+          "uniofiel",
+          "biofield",
+          "mitc_out",
+          "memo_out",
+          "mont_out",
+          "baltritc",
+          "baltmacd",
+          "baltqueb_out",
+          "baltberw_out",
+          "rhoduniv",
+          "rhodcher",
+          "rhodfox",
+          "rhodholl",
+          "rhodshop",
+          "edgerhod",
+          "edge49th",
+          "mazz"
+        ]
+      }
+    },
+    "132": {
+      "title": "132 The Varsity",
+      "color": "ffe600",
+      "tag": "132",
+      "shortTitle": "132 Varsity",
+      "oppositeColor": "000000",
+      "max": [
+        38.9908161,
+        -76.9298057
+      ],
+      "min": [
+        38.9809619,
+        -76.94677
+      ],
+      "stops": {
+        "Loop": [
+          "stamsuhh_d",
+          "artsoci",
+          "wico",
+          "lotu4",
+          "collpksh",
+          "baltritc",
+          "univclub",
+          "baltvars",
+          "mcirc"
+        ]
+      }
+    },
+    "133": {
+      "title": "133 Grocery Shopping Shuttle",
+      "color": "bf3eff",
+      "tag": "133",
+      "shortTitle": "133 Grocery",
+      "oppositeColor": "000000",
+      "max": [
+        38.9930112,
+        -76.937862
+      ],
+      "min": [
+        38.9657284,
+        -76.95417
+      ],
+      "stops": {
+        "Regents_Drive Garage": [
+          "baltsher",
+          "ngarmo",
+          "baltrive_in",
+          "baltamhe",
+          "guilrowa_in",
+          "sccomm5_6",
+          "lota",
+          "somehall",
+          "annearun",
+          "dorchall",
+          "lot1",
+          "cspac",
+          "elk",
+          "hage_in",
+          "laplat_in",
+          "camb_in"
+        ],
+        "The_Mall at Prince George's": [
+          "regegara_d",
+          "regestad",
+          "regefarm_out",
+          "camb_out",
+          "laplat_out",
+          "hage_out",
+          "elkton_out",
+          "vallstad",
+          "benj",
+          "artsoci",
+          "wico",
+          "lotu4",
+          "guilrowa",
+          "univpkth",
+          "baltrive_out",
+          "baltunde",
+          "amersafe",
+          "amerregal",
+          "tolebelc",
+          "targ"
+        ]
+      }
+    },
+    "140": {
+      "title": "140 UMB Law",
+      "color": "24c9b9",
+      "tag": "140",
+      "oppositeColor": "000000",
+      "max": [
+        39.2897837,
+        -76.6223289
+      ],
+      "min": [
+        38.9874519,
+        -76.9440396
+      ],
+      "stops": {
+        "Baltimore_St & Paca St": [
+          "stamsuhh_d",
+          "painglen_ob",
+          "baltpaca"
+        ],
+        "Stamp_Student Union": [
+          "painglen_ib"
         ]
       }
     },
@@ -565,6 +972,7 @@
           "pontcunn_ib",
           "ruat60th_ib",
           "gree60th_ib",
+          "greestat_ib",
           "greerhod_ib",
           "cspa_main",
           "stadgara",
@@ -577,6 +985,7 @@
           "cspac",
           "dent_e",
           "greeseve_ob",
+          "greestat_ob",
           "gree60th_ob",
           "60thgree_ob",
           "60thruat_ob",
@@ -605,6 +1014,33 @@
         ]
       }
     },
+    "601": {
+      "title": "601 State Center",
+      "color": "000000",
+      "tag": "601",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.30785,
+        -76.6159296
+      ],
+      "min": [
+        39.3017091,
+        -76.6228338
+      ],
+      "stops": {
+        "Loop": [
+          "stcent",
+          "meysymp",
+          "marygar",
+          "charmary",
+          "fitzgar",
+          "langlib",
+          "acadcen",
+          "charpres",
+          "anncath"
+        ]
+      }
+    },
     "701": {
       "title": "701 UMB BioPark",
       "color": "80ff00",
@@ -626,7 +1062,6 @@
           "greelomb",
           "greeprat",
           "washemor",
-          "washmlk",
           "washbarr",
           "washscot",
           "ramsapts",
@@ -696,7 +1131,6 @@
           "paulmadi",
           "paulcent",
           "paulmulb",
-          "paulsara",
           "paullexi",
           "fayeplaz",
           "fayehowa",

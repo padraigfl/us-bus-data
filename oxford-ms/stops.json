@@ -1,12 +1,5 @@
 {
   "data": {
-    "140": {
-      "lon": "-89.5106022",
-      "title": "Old Armory",
-      "stopId": "140",
-      "tag": "140",
-      "lat": "34.36385"
-    },
     "148": {
       "lon": "-89.536504",
       "title": "Observatory",
@@ -194,8 +187,8 @@
     },
     "jackente": {
       "lon": "-89.5529079",
-      "title": "Jackson at Enterprise",
-      "shortTitle": "Jackson @ Enterprise",
+      "title": "Jackson at Kiamies",
+      "shortTitle": "Jackson @ Kiamies",
       "stopId": "110",
       "tag": "jackente",
       "lat": "34.3656009"
@@ -315,7 +308,7 @@
     },
     "bigstar": {
       "lon": "-89.50852",
-      "title": "Big Star",
+      "title": "Cash Saver",
       "stopId": "127",
       "tag": "bigstar",
       "lat": "34.3614605"
@@ -356,26 +349,26 @@
       "tag": "univobys",
       "lat": "34.3625196"
     },
-    "faukflat": {
-      "lon": "-89.547183",
-      "title": "Faulkner Flats",
-      "stopId": "170",
-      "tag": "faukflat",
-      "lat": "34.342425"
+    "archive": {
+      "lon": "-89.5298448",
+      "title": "Archive",
+      "stopId": "281",
+      "tag": "archive",
+      "lat": "34.3409788"
     },
     "doma": {
-      "lon": "-89.5403211",
+      "lon": "-89.540321",
       "title": "Domain",
       "stopId": "235",
       "tag": "doma",
-      "lat": "34.344334"
+      "lat": "34.3443343"
     },
     "exchapar_d": {
-      "lon": "-89.5404486",
+      "lon": "-89.540448",
       "title": "Connection Apartments",
       "stopId": "143",
       "tag": "exchapar_d",
-      "lat": "34.3451313"
+      "lat": "34.345132"
     },
     "oldtfleu_i": {
       "lon": "-89.5438058",
@@ -386,26 +379,12 @@
       "lat": "34.3459448"
     },
     "oldtshil_i": {
-      "lon": "-89.5393944",
+      "lon": "-89.539395",
       "title": "Old Taylor at Taylor Bend",
       "shortTitle": "Old Taylor @ Taylor Bend",
       "stopId": "145",
       "tag": "oldtshil_i",
       "lat": "34.34982"
-    },
-    "whirlpool_o": {
-      "lon": "-89.5354476",
-      "title": "Whirlpool Dr",
-      "stopId": "147",
-      "tag": "whirlpool_o",
-      "lat": "34.3512034"
-    },
-    "univtrai_o": {
-      "lon": "-89.538079",
-      "title": "The Flatts",
-      "stopId": "159",
-      "tag": "univtrai_o",
-      "lat": "34.351632"
     },
     "obse": {
       "lon": "-89.5364848",
@@ -765,25 +744,32 @@
     },
     "jac_d": {
       "lon": "-89.5459899",
-      "title": "JAC",
+      "title": "JAC East",
       "stopId": "119",
       "tag": "jac_d",
       "lat": "34.3699324"
     },
+    "jac_w": {
+      "lon": "-89.5489",
+      "title": "JAC West",
+      "stopId": "282",
+      "tag": "jac_w",
+      "lat": "34.36949"
+    },
     "fratwest": {
-      "lon": "-89.5433433",
+      "lon": "-89.5433431",
       "title": "Fraternity at West Rd",
       "shortTitle": "Fraternity @ West",
       "stopId": "252",
       "tag": "fratwest",
-      "lat": "34.3656756"
+      "lat": "34.3656755"
     },
     "chap": {
       "lon": "-89.5400081",
       "title": "Chapel",
       "stopId": "153",
       "tag": "chap",
-      "lat": "34.365376"
+      "lat": "34.3653762"
     },
     "guytdorm": {
       "lon": "-89.5422601",
@@ -819,12 +805,26 @@
       "tag": "obsvthub",
       "lat": "34.3645119"
     },
+    "faukflat": {
+      "lon": "-89.547183",
+      "title": "Faulkner Flats",
+      "stopId": "170",
+      "tag": "faukflat",
+      "lat": "34.3424249"
+    },
     "connapts": {
-      "lon": "-89.5404486",
+      "lon": "-89.540448",
       "title": "Connection Apartments",
       "stopId": "143",
       "tag": "connapts",
-      "lat": "34.3451313"
+      "lat": "34.345132"
+    },
+    "univtrai_o": {
+      "lon": "-89.538079",
+      "title": "The Flatts",
+      "stopId": "146",
+      "tag": "univtrai_o",
+      "lat": "34.351632"
     },
     "campcrck_o": {
       "lon": "-89.5497881",
@@ -932,52 +932,53 @@
       "lat": "34.363524"
     },
     "cityhall_d": {
-      "lon": "-89.5192189",
+      "lon": "-89.51839",
       "title": "City Hall",
       "stopId": "100",
       "tag": "cityhall_d",
-      "lat": "34.3665412"
-    },
-    "oxfomsch": {
-      "lon": "-89.5076499",
-      "title": "Oxford Middle School",
-      "stopId": "231",
-      "tag": "oxfomsch",
-      "lat": "34.3681197"
-    },
-    "convcent": {
-      "lon": "-89.4988768",
-      "title": "Convention Center",
-      "stopId": "240",
-      "tag": "convcent",
-      "lat": "34.3717206"
-    },
-    "delldavi": {
-      "lon": "-89.4956992",
-      "title": "Della Davis Elem",
-      "stopId": "241",
-      "tag": "delldavi",
-      "lat": "34.3711891"
-    },
-    "oxfohsch": {
-      "lon": "-89.4878362",
-      "title": "Oxford High School",
-      "stopId": "242",
-      "tag": "oxfohsch",
-      "lat": "34.3725961"
-    },
-    "140_ib": {
-      "lon": "-89.5106977",
-      "title": "Old Armory",
-      "stopId": "140",
-      "tag": "140_ib",
-      "lat": "34.3638528"
+      "lat": "34.36636"
     },
     "lyce_d": {
       "lon": "-89.535858",
       "title": "The Lyceum",
       "tag": "lyce_d",
       "lat": "34.36533"
+    },
+    "fleudeli": {
+      "lon": "-89.5437931",
+      "title": "Fleur De Lis",
+      "stopId": "144",
+      "tag": "fleudeli",
+      "lat": "34.3459378"
+    },
+    "taylbend": {
+      "lon": "-89.539395",
+      "title": "Taylor Bend",
+      "stopId": "145",
+      "tag": "taylbend",
+      "lat": "34.34982"
+    },
+    "flat": {
+      "lon": "-89.538079",
+      "title": "Flatts",
+      "stopId": "146",
+      "tag": "flat",
+      "lat": "34.3516318"
+    },
+    "mullotay_ob": {
+      "lon": "-89.5354475",
+      "title": "Mullins-Old Taylor Road",
+      "shortTitle": "Mullins-Old Taylor",
+      "stopId": "147",
+      "tag": "mullotay_ob",
+      "lat": "34.3512033"
+    },
+    "mullotay_ib": {
+      "lon": "-89.5354467",
+      "title": "Mullins-Old Taylor Road",
+      "shortTitle": "Mullins-Old Taylor",
+      "tag": "mullotay_ib",
+      "lat": "34.3512028"
     }
   },
   "copyright": "All data copyright City of Oxford 2018."

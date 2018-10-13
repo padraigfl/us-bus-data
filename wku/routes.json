@@ -32,8 +32,8 @@
         ],
         "DSU": [
           "cambpknr_d",
-          "scam_ob",
           "evolvill_ob",
+          "creapknr_ob",
           "univlot",
           "ranshall",
           "helmlib",
@@ -49,8 +49,8 @@
       "tag": "red",
       "oppositeColor": "ffffff",
       "max": [
-        36.9953094,
-        -86.4407694
+        36.992078,
+        -86.443358
       ],
       "min": [
         36.9786796,
@@ -58,8 +58,7 @@
       ],
       "stops": {
         "RUSSELLVILLE_ROAD PARK & RIDE": [
-          "8thcent",
-          "cent11th",
+          "11thcoll",
           "coluapts",
           "augualum",
           "cohh",
@@ -67,15 +66,14 @@
           "mmth",
           "pft"
         ],
-        "8TH_& CENTER ST": [
+        "11TH_& COLLEGE": [
           "russpknr",
           "creapknr",
           "jagg",
           "univlot",
           "mimo",
           "helmlib",
-          "est",
-          "stat11th"
+          "est"
         ]
       }
     },
@@ -89,13 +87,12 @@
         -86.45031
       ],
       "min": [
-        36.9640035,
-        -86.4700051
+        36.9640027,
+        -86.4700058
       ],
       "stops": {
         "Main_Campus": [
           "cambpknr_d",
-          "scamp_c",
           "evolvill_ob",
           "jagg",
           "univlot",
@@ -103,7 +100,7 @@
           "helmlib",
           "est"
         ],
-        "CAMPBELL_LANE PARK & RIDE": [
+        "Campbell_Lane Park and Ride": [
           "cherhall",
           "vall",
           "duc",

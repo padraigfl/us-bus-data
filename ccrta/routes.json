@@ -1,9 +1,186 @@
 {
   "data": {
-    "Bourne": {
-      "title": "The Bourne Run",
+    "2973": {
+      "title": "H2O Hyannis-Orleans",
+      "color": "00a75e",
+      "tag": "2973",
+      "oppositeColor": "ffffff",
+      "max": [
+        41.7961799,
+        -69.96195
+      ],
+      "min": [
+        41.6477599,
+        -70.30063
+      ],
+      "stops": {
+        "Patriot_Square, South Dennis": [
+          "800598",
+          "800597",
+          "800596",
+          "800595",
+          "800593",
+          "845132",
+          "800600",
+          "2383148",
+          "800592",
+          "800591",
+          "800590",
+          "800589",
+          "800588",
+          "800587",
+          "800684",
+          "800586",
+          "800585",
+          "800686",
+          "800584",
+          "800583",
+          "800582",
+          "800551"
+        ],
+        "Stop_& Shop, Orleans": [
+          "800551",
+          "800581",
+          "800582",
+          "800583",
+          "800584",
+          "800686",
+          "800585",
+          "800684",
+          "800586",
+          "800587",
+          "800588",
+          "800589",
+          "800590",
+          "800591",
+          "800592",
+          "2383148",
+          "800600",
+          "845132",
+          "800593",
+          "800595",
+          "800596",
+          "800597",
+          "800598"
+        ]
+      }
+    },
+    "2976": {
+      "title": "Sealine Hyannis-Falmouth/Woods Hole",
+      "color": "005caa",
+      "tag": "2976",
+      "oppositeColor": "ffffff",
+      "max": [
+        41.6950599,
+        -70.15047
+      ],
+      "min": [
+        41.5230299,
+        -70.6698
+      ],
+      "stops": {
+        "Steamship_Authority Ferry Docks, Woods Hole": [
+          "800551",
+          "2455476",
+          "800564",
+          "800565",
+          "800566",
+          "800567",
+          "800568",
+          "800569",
+          "800570",
+          "800571",
+          "800673",
+          "800572",
+          "805265",
+          "800574",
+          "800575",
+          "800576"
+        ],
+        "Patriot_Square, South Dennis": [
+          "800576",
+          "800575",
+          "800574",
+          "2483887",
+          "800572",
+          "800673",
+          "800571",
+          "800570",
+          "800569",
+          "800568",
+          "800567",
+          "800566",
+          "800565",
+          "800564",
+          "2455476",
+          "800551",
+          "800586"
+        ]
+      }
+    },
+    "2977": {
+      "title": "Sandwich Line",
+      "color": "ac6813",
+      "tag": "2977",
+      "oppositeColor": "ffffff",
+      "max": [
+        41.7809499,
+        -70.15047
+      ],
+      "min": [
+        41.6477599,
+        -70.54595
+      ],
+      "stops": {
+        "Sagamore_Park & Ride": [
+          "800551",
+          "800667",
+          "800565",
+          "800666",
+          "800665",
+          "800664",
+          "800663",
+          "800651",
+          "800648",
+          "800649",
+          "800650",
+          "800647",
+          "2327016",
+          "800646",
+          "800645",
+          "800644",
+          "800660",
+          "800642",
+          "800641"
+        ],
+        "Patriot_Square, South Dennis": [
+          "800641",
+          "800660",
+          "800642",
+          "800644",
+          "800645",
+          "800646",
+          "2327016",
+          "800647",
+          "800648",
+          "800649",
+          "800650",
+          "800651",
+          "800663",
+          "800664",
+          "800665",
+          "800666",
+          "800565",
+          "800667",
+          "800551",
+          "800586"
+        ]
+      }
+    },
+    "2978": {
+      "title": "Bourne Run",
       "color": "e5173e",
-      "tag": "Bourne",
+      "tag": "2978",
       "oppositeColor": "ffffff",
       "max": [
         41.7580699,
@@ -15,351 +192,212 @@
       ],
       "stops": {
         "Mashpee_Commons (Stop & Shop)": [
-          "CranberryPlaza",
-          "BuzzardsBayTrain",
-          "BourneCOA",
-          "Continential",
-          "BourneOaks",
-          "CapeSideConvenience",
-          "CountyBeach",
-          "HarmonyHill",
-          "CataumetMotel",
-          "151_28A",
-          "151SandwichRd",
-          "151AlgonquinAve",
-          "MashpeeVillage",
-          "MashpeeCommons"
+          "800683",
+          "800675",
+          "800682",
+          "800679",
+          "800680",
+          "800652",
+          "800653",
+          "800672",
+          "800654",
+          "800655",
+          "800656",
+          "800657",
+          "800658",
+          "800659",
+          "2383149",
+          "800569"
         ],
-        "Cranberry_Plaza": [
-          "MashpeeCommons",
-          "MashpeeVillage",
-          "151AlgonquinAve",
-          "151SandwichRd",
-          "151_28A",
-          "CataumetMotel",
-          "HarmonyHill",
-          "CountyBeach",
-          "CapeSideConvenience",
-          "Continential",
-          "BourneOaks",
-          "BourneCOA",
-          "BuzzardsBayTrain",
-          "CranberryPlaza"
+        "Cranberry_Plaza Walmart, Wareham": [
+          "800569",
+          "2383149",
+          "800659",
+          "800658",
+          "800657",
+          "800656",
+          "800655",
+          "800654",
+          "800672",
+          "800653",
+          "800652",
+          "800679",
+          "800680",
+          "800682",
+          "800675",
+          "800683"
         ]
       }
     },
-    "FLEX": {
+    "2980": {
       "title": "Flex",
       "color": "633a82",
-      "tag": "FLEX",
+      "tag": "2980",
       "oppositeColor": "ffffff",
       "max": [
         42.0509599,
-        -69.97197
+        -69.9685999
       ],
       "min": [
-        41.66804,
+        41.6680399,
         -70.19528
       ],
       "stops": {
+        "Stop_& Shop, Provincetown": [
+          "800588",
+          "800589",
+          "800599",
+          "800600",
+          "800602",
+          "800603",
+          "800596",
+          "800594",
+          "800598",
+          "800605",
+          "800606",
+          "800607",
+          "800676",
+          "800609",
+          "811989",
+          "831902",
+          "800610",
+          "800687",
+          "800611",
+          "800671",
+          "800613",
+          "800615",
+          "800616",
+          "800617"
+        ],
         "Star_Market, Harwich Port": [
-          "MacMillanPier",
-          "S_SPtown",
-          "HighlandNTruro",
-          "TruroVillage",
-          "CobbLibrary",
-          "Wellfleet",
-          "WellfleetDunkinDonuts",
-          "Blackfish",
-          "MarconiBeach",
-          "GillRd",
-          "SeamansBank",
-          "FourPoints",
-          "SaltPond",
-          "EasthamTownHallSuperette",
-          "S_SOrleans",
-          "MainOrleansCVSMobil",
-          "SkaketCorners",
-          "BrewsterSenior",
-          "UnderpassBrewster",
-          "S_SEHarwich",
-          "HarwichComm",
-          "28Harwich",
-          "StarMarketHarwich"
-        ],
-        "MacMillan_Pier, Provincetown": [
-          "StarMarketHarwich",
-          "28Harwich",
-          "HarwichComm",
-          "S_SEHarwich",
-          "UnderpassBrewster",
-          "BrewsterSenior",
-          "SkaketCorners",
-          "MainOrleansLandHo",
-          "S_SOrleans",
-          "EasthamTownHallSuperette",
-          "SaltPond",
-          "FourPoints",
-          "BrackettRd",
-          "MauriceMkt",
-          "MarconiBeach",
-          "Blackfish",
-          "WellfleetDunkinDonuts",
-          "Wellfleet",
-          "CobbLibrary",
-          "WhitmanvilleTruro",
-          "HighlandNTruro",
-          "S_SPtown",
-          "MacMillanPier"
+          "800617",
+          "800616",
+          "800615",
+          "800614",
+          "800671",
+          "800611",
+          "800687",
+          "800610",
+          "831902",
+          "811990",
+          "800609",
+          "800608",
+          "800607",
+          "800606",
+          "800605",
+          "800598",
+          "800595",
+          "800596",
+          "800603",
+          "800602",
+          "800600",
+          "800599",
+          "800589",
+          "800588"
         ]
       }
     },
-    "HyannisLoop": {
-      "title": "Hyannis Loop",
-      "color": "f37322",
-      "tag": "HyannisLoop",
-      "oppositeColor": "000000",
-      "max": [
-        41.6950599,
-        -70.15047
-      ],
-      "min": [
-        41.6494999,
-        -70.30747
-      ],
-      "stops": {
-        "Patriot_Square, South Dennis": [
-          "HTC",
-          "CCMall_FC",
-          "SouthwindPl",
-          "VillageGreenApts",
-          "FestivalMall",
-          "SuperS_SHyannis",
-          "CareerOppurtunities",
-          "DTANorthSt",
-          "PatriotSq"
-        ]
-      }
-    },
-    "H2O": {
-      "title": "H2O Hyannis-Orleans",
-      "color": "00a75e",
-      "tag": "H2O",
-      "oppositeColor": "ffffff",
-      "max": [
-        41.7961799,
-        -69.96195
-      ],
-      "min": [
-        41.6506299,
-        -70.28018
-      ],
-      "stops": {
-        "Stop_& Shop, Orleans": [
-          "HTC",
-          "CCHospitalBayviewSt",
-          "CrowellWYarmouth",
-          "S_SSYarmouth",
-          "ShawsSYarmouth",
-          "TownHallLawtonBusShelter",
-          "MainSYarmouth",
-          "DennisCommonsElderServices",
-          "PatriotSq",
-          "DennisMunicipal",
-          "StarMarketHarwich",
-          "28Harwich",
-          "MortonSChatham",
-          "AnchorageChatham",
-          "VeteransFieldRd",
-          "BroadReachHC",
-          "S_SEHarwich",
-          "39SOrleans",
-          "MainOrleansCVSMobil",
-          "SkaketCorners",
-          "OldColonyVillage",
-          "S_SOrleans"
-        ],
-        "Hyannis_Transportation Center (HTC)": [
-          "S_SOrleans",
-          "OldColonyVillage",
-          "SkaketCorners",
-          "MainOrleansCVSMobil",
-          "39SOrleans",
-          "S_SEHarwich",
-          "BroadReachHC",
-          "VeteransFieldRd",
-          "AnchorageChatham",
-          "MortonSChatham",
-          "28Harwich",
-          "StarMarketHarwich",
-          "DennisMunicipal",
-          "DennisCommonsElderServices",
-          "PatriotSq",
-          "MainSYarmouth",
-          "TownHallLawtonBusShelter",
-          "ShawsSYarmouth",
-          "S_SSYarmouth",
-          "CrowellWYarmouth",
-          "HTC"
-        ]
-      }
-    },
-    "Sandwich": {
-      "title": "The Sandwich Line",
-      "color": "ac6813",
-      "tag": "Sandwich",
-      "oppositeColor": "ffffff",
-      "max": [
-        41.7809499,
-        -70.15047
-      ],
-      "min": [
-        41.6477599,
-        -70.54595
-      ],
-      "stops": {
-        "Patriot_Square, South Dennis": [
-          "HTC",
-          "SturgisSchoolEast",
-          "SturgisSchoolWest",
-          "StarMktHyannis",
-          "WMain28Centerville",
-          "BellTowerMall",
-          "RaceOsterWBarnSandwich",
-          "RaceGrHillSandwich",
-          "CotuitFarmersvilleSandwich",
-          "S_SQuakerMHRdSandwich",
-          "HeritagePark",
-          "SandwichHousing",
-          "CanterburyPlaza",
-          "SandwichCOA",
-          "SpauldingRehab",
-          "SandwichTownHall",
-          "S_S6ASandwich",
-          "MktBasketSagamore",
-          "CanalViewApts",
-          "SagamoreP_R",
-          "PatriotSq"
-        ]
-      }
-    },
-    "Sealine": {
-      "title": "Sealine Hyannis-Falmouth/Woods Hole",
-      "color": "005caa",
-      "tag": "Sealine",
-      "oppositeColor": "ffffff",
-      "max": [
-        41.6950599,
-        -70.15047
-      ],
-      "min": [
-        41.5230299,
-        -70.6698
-      ],
-      "stops": {
-        "Hyannis_Transportation Center (HTC)": [
-          "WoodsHoleDocks",
-          "FalmouthBusDepot",
-          "FalmouthMall",
-          "StMarksHousing",
-          "EFalmouthDunkin",
-          "SeacoastShores",
-          "CommHealth",
-          "SCapeVillage",
-          "MashpeeCommons",
-          "MarstonsMills",
-          "Osterville",
-          "Centerville",
-          "WMain28Centerville",
-          "CCMall_RE",
-          "BarnstableAirport",
-          "HTC"
-        ],
-        "Steamship_Authority Ferry Docks, Woods Hole": [
-          "HTC",
-          "BarnstableAirport",
-          "CCMall_RE",
-          "WMain28Centerville",
-          "Centerville",
-          "Osterville",
-          "MarstonsMills",
-          "MashpeeCommons",
-          "SCapeVillage",
-          "CommHealth",
-          "SeacoastShores",
-          "EFalmouthDunkin",
-          "StMarksHousing",
-          "FalmouthMall",
-          "FalmouthBusDepot",
-          "WoodsHoleDocks"
-        ]
-      }
-    },
-    "Villager": {
+    "2981": {
       "title": "Barnstable Villager",
       "color": "ffd900",
-      "tag": "Villager",
+      "tag": "2981",
       "oppositeColor": "000000",
       "max": [
-        41.7003199,
+        41.70032,
         -70.15047
       ],
       "min": [
         41.6545599,
-        -70.33753
+        -70.3375299
       ],
       "stops": {
         "Patriot_Square, South Dennis": [
-          "BarnstableCourthouse",
-          "CCCC",
-          "CapeCodder",
-          "SuperS_SHyannis",
-          "FestivalMall",
-          "HarborCommHealthCntr",
-          "SouthwindPl",
-          "CCMall_FC",
-          "CapetownPl",
-          "HyannisYouth",
-          "HTC",
-          "PatriotSq"
-        ],
-        "Courthouse_Complex, Barnstable": [
-          "HTC",
-          "HyannisYouth",
-          "CCMall_FC",
-          "CapetownPl",
-          "HarborCommHealthCntr",
-          "SouthwindPl",
-          "FestivalMall",
-          "SuperS_SHyannis",
-          "CCCC",
-          "BarnstableCourthouse"
+          "800551",
+          "800553",
+          "800554",
+          "800555",
+          "805266",
+          "800556",
+          "800557",
+          "800558",
+          "800559",
+          "800561",
+          "800562",
+          "800586"
         ]
       }
     },
-    "WHOOSH": {
-      "title": "Whoosh Trolley",
-      "color": "658427",
-      "tag": "WHOOSH",
+    "2982": {
+      "title": "Provincetown/North Truro Shuttle",
+      "color": "a2501c",
+      "tag": "2982",
       "oppositeColor": "ffffff",
       "max": [
-        41.5613199,
-        -70.59419
+        42.0793099,
+        -70.05653
       ],
       "min": [
-        41.5230299,
-        -70.6698
+        42.03129,
+        -70.2181199
       ],
       "stops": {
-        "Steamship_Authority Ferry Docks, Woods Hole": [
-          "FalmouthMall",
-          "FalmouthBusDepot",
-          "WoodsHoleDocks"
+        "MacMillan_Pier, Provincetown": [
+          "800616",
+          "2455484",
+          "800632",
+          "800633",
+          "800631",
+          "800635",
+          "800636",
+          "800634"
         ],
-        "Falmouth_Mall": [
-          "WoodsHoleDocks",
-          "FalmouthBusDepot",
-          "FalmouthMall"
+        "Horton's_Camping Resort, North Truro": [
+          "800627",
+          "800629",
+          "800630",
+          "800615",
+          "800628",
+          "800677",
+          "800616",
+          "800678"
+        ]
+      }
+    },
+    "3139": {
+      "title": "Hyannis Loop",
+      "color": "e6862c",
+      "tag": "3139",
+      "oppositeColor": "000000",
+      "max": [
+        41.6950599,
+        -70.15047
+      ],
+      "min": [
+        41.6493699,
+        -70.30747
+      ],
+      "stops": {
+        "Patriot_Square, South Dennis": [
+          "800551",
+          "805279",
+          "805280",
+          "800559",
+          "800557",
+          "805282",
+          "800556",
+          "800554",
+          "800586"
+        ],
+        "Hyannis_Transportation Center (HTC)": [
+          "800551",
+          "800554",
+          "800556",
+          "805283",
+          "805282",
+          "800557",
+          "800559",
+          "805280",
+          "2483886"
         ]
       }
     }

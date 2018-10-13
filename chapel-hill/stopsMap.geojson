@@ -3109,21 +3109,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Carrboro Plaza Park Ride Lot",
-        "tag": "carrpark_d",
-        "stopId": "3134"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.09684,
-          35.91597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Old Fayetteville Rd at NC 54 (SECU)",
         "tag": "oldfnc54",
         "stopId": "3132"
@@ -3131,8 +3116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.09867,
-          35.9186201
+          -79.0986696,
+          35.9186195
         ]
       }
     },
@@ -3221,8 +3206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.09165,
-          35.9056
+          -79.0916499,
+          35.9055999
         ]
       }
     },
@@ -3283,6 +3268,21 @@
         "coordinates": [
           -79.0957805,
           35.9144608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carrboro Plaza Park Ride Lot",
+        "tag": "carrpark_d",
+        "stopId": "3134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0968099,
+          35.9159299
         ]
       }
     },
@@ -3687,7 +3687,7 @@
         "type": "Point",
         "coordinates": [
           -79.056702,
-          35.912689
+          35.9126889
         ]
       }
     },
@@ -3716,7 +3716,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.05646,
+          -79.0564599,
           35.91297
         ]
       }
@@ -4361,8 +4361,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0082199,
-          35.9504399
+          -79.00822,
+          35.95044
         ]
       }
     },
@@ -4692,7 +4692,7 @@
         "type": "Point",
         "coordinates": [
           -79.0189645,
-          35.9423019
+          35.942302
         ]
       }
     },

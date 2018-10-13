@@ -4,15 +4,30 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mendenhall/ West End",
-        "tag": "mendwend_d",
-        "stopId": "21010"
+        "title": "Main Campus Student Center",
+        "tag": "mainstud",
+        "stopId": "21025"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3703939,
-          35.6081862
+          -77.368061,
+          35.605668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cotanche & 8th",
+        "tag": "cota8th",
+        "stopId": "21026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.371977,
+          35.6078442
         ]
       }
     },
@@ -26,8 +41,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3619099,
-          35.60344
+          -77.36191,
+          35.6034398
         ]
       }
     },
@@ -41,8 +56,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3634112,
-          35.6010847
+          -77.3634114,
+          35.6010845
         ]
       }
     },
@@ -56,8 +71,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3686042,
-          35.5920972
+          -77.3686041,
+          35.592097
         ]
       }
     },
@@ -79,7 +94,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ficklen Drive",
+        "title": "Charles Boulevard & Ficklen Drive",
         "tag": "charfick",
         "stopId": "26005"
       },
@@ -94,7 +109,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gold Lot",
+        "title": "Ficklen Drive",
         "tag": "fick",
         "stopId": "26010"
       },
@@ -117,7 +132,7 @@
         "type": "Point",
         "coordinates": [
           -77.363215,
-          35.60119
+          35.6011899
         ]
       }
     },
@@ -146,7 +161,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3794899,
+          -77.3794896,
           35.6123199
         ]
       }
@@ -161,7 +176,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3861771,
+          -77.3861767,
           35.6130095
         ]
       }
@@ -175,8 +190,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4022449,
-          35.6098288
+          -77.4025049,
+          35.610773
         ]
       }
     },
@@ -190,7 +205,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4054889,
+          -77.405489,
           35.61088
         ]
       }
@@ -207,21 +222,6 @@
         "coordinates": [
           -77.4054509,
           35.6128089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Medical Pavilion",
-        "tag": "medipavi",
-        "stopId": "23015"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3958765,
-          35.6129601
         ]
       }
     },
@@ -258,75 +258,165 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cotanche St & 10 St",
-        "tag": "cota10th",
-        "stopId": "23140"
+        "title": "College Hill West",
+        "tag": "collhill_ob",
+        "stopId": "23020"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3722329,
-          35.6063051
+          -77.36341,
+          35.601087
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Evans Street & 9th Street",
-        "tag": "evan9th_ob",
-        "stopId": "23135"
+        "title": "Greenville Mall (Outbound)",
+        "tag": "greenmall",
+        "stopId": "23030"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.374063,
-          35.6069877
+          -77.368797,
+          35.5862602
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Reade Street & Chicos Mexican Restaurant",
+        "title": "Publix",
+        "tag": "publix",
+        "stopId": "23031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3700073,
+          35.5878582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University Commons",
+        "tag": "univcomm",
+        "stopId": "23035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3819499,
+          35.58002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lynncroft Shopping Center",
+        "tag": "bbuy",
+        "stopId": "23050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.384389,
+          35.574505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Navy",
+        "tag": "oldn",
+        "stopId": "23055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3719142,
+          35.5824167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Greenville Mall (Inbound)",
+        "tag": "greemall",
+        "stopId": "23030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36879,
+          35.58627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "College Hill East",
+        "tag": "collhill_ib",
+        "stopId": "23025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.363208,
+          35.6011909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Reade Street & Chico's (Outbound)",
         "tag": "readchic",
         "stopId": "23060"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3714597,
-          35.6097801
+          -77.3714599,
+          35.60978
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Reade Street",
+        "title": "GREAT Bus Hub",
         "tag": "finhub",
         "stopId": "10005"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3700512,
-          35.6137654
+          -77.370376,
+          35.6126132
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "2nd Street & Washington Street",
+        "title": "2nd Street & Reade Street",
         "tag": "wash2nd",
         "stopId": "23065"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3731302,
-          35.61446
+          -77.3702515,
+          35.6139264
         ]
       }
     },
@@ -340,7 +430,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3752614,
+          -77.3752611,
           35.615928
         ]
       }
@@ -378,15 +468,30 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "5th Street & Summit Street",
+        "title": "Reade Street & Chico's (Inbound)",
+        "tag": "readchic_i",
+        "stopId": "23060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3714597,
+          35.6097801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5th Street & Chancellors Way",
         "tag": "summ5th",
         "stopId": "23085"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3682907,
-          35.6098048
+          -77.3675071,
+          35.6094868
         ]
       }
     },
@@ -438,15 +543,105 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Christenbury Gym",
-        "tag": "chrisgym_d",
-        "stopId": "21005"
+        "title": "The Eastern on 10th (Outbound)",
+        "tag": "east10th",
+        "stopId": "24020"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3632563,
-          35.6044279
+          -77.3473799,
+          35.60287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "10th and Copper Beach",
+        "tag": "tencopp",
+        "stopId": "10017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3276189,
+          35.5980302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Shops at Hardee Village",
+        "tag": "hardvill",
+        "stopId": "10018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3112719,
+          35.5818789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Walmart",
+        "tag": "walmart_d",
+        "stopId": "10020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.308982,
+          35.580958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "10th and The Davis",
+        "tag": "tenuvman",
+        "stopId": "10022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3203178,
+          35.5932603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "10th and 33 East",
+        "tag": "ten33est",
+        "stopId": "10023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3279383,
+          35.5982269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Eastern on 10th (Inbound)",
+        "tag": "east10th_i",
+        "stopId": "24025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34744,
+          35.6029999
         ]
       }
     },
@@ -633,30 +828,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunchase: Front",
-        "tag": "sunfront",
-        "stopId": "25025"
+        "title": "Village Green on 5th Street",
+        "tag": "vgrn5th",
+        "stopId": "24060"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3338209,
-          35.6040419
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sunchase: Back",
-        "tag": "sunback",
-        "stopId": "25030"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3336979,
-          35.6023799
+          -77.3450087,
+          35.6066214
         ]
       }
     },
@@ -670,8 +850,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3419446,
-          35.608647
+          -77.3419499,
+          35.6086204
         ]
       }
     },
@@ -685,23 +865,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.343399,
-          35.60933
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "4th & Cedar",
-        "tag": "4thcedar",
-        "stopId": "24071"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3441048,
-          35.6076171
+          -77.3433988,
+          35.6093299
         ]
       }
     },
@@ -715,8 +880,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.35039,
-          35.60896
+          -77.3503898,
+          35.6089563
         ]
       }
     },
@@ -730,8 +895,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3521214,
-          35.6106476
+          -77.352122,
+          35.6106477
         ]
       }
     },
@@ -745,8 +910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3536829,
-          35.610683
+          -77.35365,
+          35.6107299
         ]
       }
     },
@@ -760,8 +925,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.353187,
-          35.6125683
+          -77.3532011,
+          35.6125506
         ]
       }
     },
@@ -775,8 +940,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3551815,
-          35.612744
+          -77.3551897,
+          35.6127899
         ]
       }
     },
@@ -790,8 +955,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3558889,
-          35.6110001
+          -77.3559175,
+          35.6109976
         ]
       }
     },
@@ -805,8 +970,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.356257,
-          35.6124332
+          -77.3562707,
+          35.6124274
         ]
       }
     },
@@ -820,83 +985,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.357386,
-          35.6128092
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Copper Beech: Phase 2",
-        "tag": "copbphs2",
-        "stopId": "25070"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3291577,
-          35.596746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Copper Beech: Back",
-        "tag": "copbback",
-        "stopId": "25075"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3286354,
-          35.5953005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Copper Beech: Clubhouse",
-        "tag": "copbclub",
-        "stopId": "25080"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3272028,
-          35.5961631
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "The Davis: Back",
-        "tag": "univmanb",
-        "stopId": "25015"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3191899,
-          35.5946359
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "The Davis: Front",
-        "tag": "univmanf",
-        "stopId": "25020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3204926,
-          35.5937982
+          -77.3574032,
+          35.6128562
         ]
       }
     },
@@ -910,8 +1000,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3282019,
-          35.5987226
+          -77.328201,
+          35.598728
         ]
       }
     },
@@ -925,23 +1015,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3277376,
-          35.6012111
+          -77.3277356,
+          35.601212
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Charles and Mellow Mushroom",
-        "tag": "charmush",
-        "stopId": "25031"
+        "title": "The Davis: Back",
+        "tag": "univmanb",
+        "stopId": "25015"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3659523,
-          35.5876474
+          -77.3191517,
+          35.5946121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Davis: Front",
+        "tag": "univmanf",
+        "stopId": "25020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3204957,
+          35.5937961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sunchase: Front",
+        "tag": "sunfront",
+        "stopId": "25025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.33382,
+          35.60404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sunchase: Back",
+        "tag": "sunback",
+        "stopId": "25030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3350815,
+          35.6029836
         ]
       }
     },
@@ -955,8 +1090,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3636992,
-          35.5856543
+          -77.3636961,
+          35.5856516
         ]
       }
     },
@@ -970,8 +1105,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3543079,
-          35.5746805
+          -77.3542976,
+          35.5746585
         ]
       }
     },
@@ -985,68 +1120,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3554919,
-          35.572974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "The Bellamy",
-        "tag": "bell",
-        "stopId": "25085"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3495859,
-          35.5591889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Signature Dr",
-        "tag": "signatur",
-        "stopId": "25090"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3482369,
-          35.5591852
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "North Recreational Complex: Field House",
-        "tag": "nrecfield",
-        "stopId": "25055"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3198642,
-          35.6292954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "North Recreational Complex: Boat House",
-        "tag": "nrecboat",
-        "stopId": "25060"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3231056,
-          35.6287087
+          -77.3554705,
+          35.573032
         ]
       }
     },
@@ -1077,6 +1152,395 @@
         "coordinates": [
           -77.3820659,
           35.590877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Copper Beech: Phase 2",
+        "tag": "copbphs2",
+        "stopId": "25070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3291577,
+          35.596746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Copper Beech: Back",
+        "tag": "copbback",
+        "stopId": "25075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3286365,
+          35.5953008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Copper Beech: Clubhouse",
+        "tag": "copbclub",
+        "stopId": "25080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3272112,
+          35.5961547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Bellamy",
+        "tag": "bell",
+        "stopId": "25085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3495859,
+          35.5591889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Signature Dr",
+        "tag": "signatur",
+        "stopId": "25090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3482375,
+          35.5591995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Recreational Complex: Field House",
+        "tag": "nrecfield",
+        "stopId": "25055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.319864,
+          35.6292949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Recreational Complex: Boat House",
+        "tag": "nrecboat",
+        "stopId": "25060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3231056,
+          35.6287087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Christenbury Gym",
+        "tag": "chrisgym_d",
+        "stopId": "21005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3632563,
+          35.6044279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "4th & Cedar",
+        "tag": "4thcedar",
+        "stopId": "24071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3441048,
+          35.6076171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Charles and Mellow Mushroom",
+        "tag": "charmush",
+        "stopId": "25031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3659523,
+          35.5876474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Bower",
+        "tag": "piratplc",
+        "stopId": "28010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3707199,
+          35.5997199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hub: Downtown",
+        "tag": "downtown",
+        "stopId": "10005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3703781,
+          35.6126074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1st and Summit",
+        "tag": "firstsum",
+        "stopId": "29005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3659384,
+          35.6138008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1st and woodlawn",
+        "tag": "firstwoo",
+        "stopId": "29010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3639233,
+          35.6130081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1st and Harding",
+        "tag": "firsthar",
+        "stopId": "29015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3623578,
+          35.6123469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1st and Meade",
+        "tag": "firstmea",
+        "stopId": "29020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3592429,
+          35.6114479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1st and Oak",
+        "tag": "firstoak",
+        "stopId": "29025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3566497,
+          35.6108809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brownlea and Wyndham",
+        "tag": "bronwynd",
+        "stopId": "24080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.354066,
+          35.6106179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brownlea and 3rd",
+        "tag": "brow3rd",
+        "stopId": "29030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3515668,
+          35.6103188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Riverwalk",
+        "tag": "riverwal",
+        "stopId": "24070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3432894,
+          35.6093028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Green on 5th",
+        "tag": "villgree",
+        "stopId": "29040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3452236,
+          35.6067376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5th and Ash",
+        "tag": "fifthash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3559328,
+          35.6067049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5th and Meade",
+        "tag": "fifthmea",
+        "stopId": "29050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3608312,
+          35.6068946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5th and Harding",
+        "tag": "fifthhar",
+        "stopId": "29055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3640972,
+          35.6081997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5th and Biltmore",
+        "tag": "fifthbil",
+        "stopId": "29060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3657222,
+          35.6088746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5th and Summit",
+        "tag": "fifthsum",
+        "stopId": "29065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3681782,
+          35.6098816
         ]
       }
     }

@@ -119,32 +119,11 @@
       "tag": "westlind",
       "lat": "34.0597695"
     },
-    "clarington": {
-      "lon": "-118.40215",
-      "title": "Clarington",
-      "stopId": "17",
-      "tag": "clarington",
-      "lat": "34.02154"
-    },
-    "keystn": {
-      "lon": "-118.4055099",
-      "title": "Keystone/Mentone",
-      "stopId": "18",
-      "tag": "keystn",
-      "lat": "34.01968"
-    },
-    "venbarry": {
-      "lon": "-118.42609",
-      "title": "Venice/Barry",
-      "stopId": "19",
-      "tag": "venbarry",
-      "lat": "34.00795"
-    },
-    "npi_n": {
+    "steinpla": {
       "lon": "-118.44522",
       "title": "Stein Plaza",
       "stopId": "03",
-      "tag": "npi_n",
+      "tag": "steinpla",
       "lat": "34.0654599"
     },
     "structure2_n": {
@@ -153,6 +132,19 @@
       "stopId": "04",
       "tag": "structure2_n",
       "lat": "34.0688628"
+    },
+    "weybtive": {
+      "lon": "-118.4430173",
+      "title": "Weyburn/Tiverton",
+      "tag": "weybtive",
+      "lat": "34.0622067"
+    },
+    "venbarry": {
+      "lon": "-118.42609",
+      "title": "Venice/Barry",
+      "stopId": "19",
+      "tag": "venbarry",
+      "lat": "34.00795"
     }
   },
   "copyright": "All data copyright UCLA 2018."

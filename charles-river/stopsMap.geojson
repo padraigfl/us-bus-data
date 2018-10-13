@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0710352,
-          42.3701444
+          -71.0710351,
+          42.3701443
         ]
       }
     },
@@ -56,7 +56,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0771129,
+          -71.077113,
           42.3700886
         ]
       }
@@ -72,7 +72,7 @@
         "type": "Point",
         "coordinates": [
           -71.0778265,
-          42.3669455
+          42.3669454
         ]
       }
     },
@@ -124,30 +124,30 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Kendall Square",
-        "tag": "kendsq_d",
+        "title": "Ames West/Main",
+        "tag": "amesmain",
         "stopId": "09"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.08581,
-          42.36234
+          -71.08826,
+          42.362385
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Amherst St/Sloan",
-        "tag": "amhesloa",
+        "title": "Ames West/Amherst",
+        "tag": "amesamhe",
         "stopId": "10"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0846523,
-          42.3610392
+          -71.0876594,
+          42.3599367
         ]
       }
     },
@@ -161,8 +161,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.093666,
-          42.3592534
+          -71.0936874,
+          42.3592434
         ]
       }
     },
@@ -176,8 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0980608,
-          42.359964
+          -71.0980604,
+          42.3599642
         ]
       }
     },
@@ -191,8 +191,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1003563,
-          42.359143
+          -71.100356,
+          42.3591429
         ]
       }
     },
@@ -206,8 +206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.102022,
-          42.3601453
+          -71.1020217,
+          42.3601451
         ]
       }
     },
@@ -304,30 +304,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Tech Sq/Main St",
-        "tag": "techmain",
-        "stopId": "41"
+        "title": "Main South/Vassar (500 Main)",
+        "tag": "vassstat",
+        "stopId": "24"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0913529,
-          42.3627139
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Kendall Square (Inbound)",
-        "tag": "kendsq_ib_d",
-        "stopId": "25"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0855159,
-          42.3624169
+          -71.08966,
+          42.362678
         ]
       }
     },
@@ -341,7 +326,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.088742,
+          -71.0887421,
           42.3645966
         ]
       }
@@ -356,8 +341,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0855248,
-          42.3660046
+          -71.0855247,
+          42.3660045
         ]
       }
     },
@@ -371,8 +356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0819241,
-          42.3655431
+          -71.0805682,
+          42.3653804
         ]
       }
     },
@@ -416,8 +401,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0727597,
-          42.3709758
+          -71.0727596,
+          42.3709757
         ]
       }
     },
@@ -431,7 +416,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0719625,
+          -71.0719626,
           42.3693077
         ]
       }
@@ -454,45 +439,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Vassar St/Stata Center",
-        "tag": "vassstat",
-        "stopId": "24"
+        "title": "Mass Ave/Albany",
+        "tag": "massalba",
+        "stopId": "14"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0903125,
-          42.3623713
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Amherst St/Sloan (Inbound)",
-        "tag": "amhesloa_ib",
-        "stopId": "26"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0846523,
-          42.3610392
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Ames St/Media Lab (Inbound)",
-        "tag": "medilab_ib",
-        "stopId": "27"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0883046,
-          42.3612888
+          -71.095714,
+          42.360717
         ]
       }
     }

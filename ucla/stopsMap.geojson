@@ -258,53 +258,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Clarington",
-        "tag": "clarington",
-        "stopId": "17"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.40215,
-          34.02154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Keystone/Mentone",
-        "tag": "keystn",
-        "stopId": "18"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4055099,
-          34.01968
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Venice/Barry",
-        "tag": "venbarry",
-        "stopId": "19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.42609,
-          34.00795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Stein Plaza",
-        "tag": "npi_n",
+        "tag": "steinpla",
         "stopId": "03"
       },
       "geometry": {
@@ -327,6 +282,35 @@
         "coordinates": [
           -118.440219,
           34.0688628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Weyburn/Tiverton",
+        "tag": "weybtive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4430173,
+          34.0622067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Venice/Barry",
+        "tag": "venbarry",
+        "stopId": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.42609,
+          34.00795
         ]
       }
     }

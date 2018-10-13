@@ -41,8 +41,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.252003,
+          -80.2520029,
           26.078913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "UPP North",
+        "tag": "upp",
+        "stopId": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2496609,
+          26.0791469
         ]
       }
     },
@@ -56,8 +71,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2498122,
-          26.081087
+          -80.2498128,
+          26.0810871
         ]
       }
     },
@@ -133,36 +148,6 @@
         "coordinates": [
           -80.2432127,
           26.077733
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "UPP North",
-        "tag": "upp",
-        "stopId": "12"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.2496605,
-          26.0791473
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Terry Administration Building (Health Professions)",
-        "tag": "terry",
-        "stopId": "03"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.2498054,
-          26.0810859
         ]
       }
     },
@@ -304,6 +289,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Walmart",
+        "tag": "walm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.252474,
+          26.066837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Rolling Hills Residence Hall (North-A)",
         "tag": "rhills_n_m",
         "stopId": "09"
@@ -399,6 +398,35 @@
         "coordinates": [
           -80.1484679,
           26.1211027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terry Administration Building (Health Professions)",
+        "tag": "terry",
+        "stopId": "03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2497,
+          26.08095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Publix",
+        "tag": "publix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2535064,
+          26.062861
         ]
       }
     }

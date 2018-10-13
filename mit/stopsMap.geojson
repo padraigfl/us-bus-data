@@ -213,7 +213,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "70 Pacific Street",
+        "title": "NW86/70 Pacific Street",
         "tag": "paci70",
         "stopId": "40"
       },
@@ -390,7 +390,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Simmons Hall",
+        "title": "Simmons hall",
         "tag": "simmhl",
         "stopId": "47"
       },
@@ -1288,6 +1288,90 @@
         "coordinates": [
           -71.1001597,
           42.3624601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maseeh Hall",
+        "tag": "masehall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.094118,
+          42.3578822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burton Conner",
+        "tag": "burtconn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0970162,
+          42.356577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Random Hall/MIT Museum",
+        "tag": "randhmit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0980307,
+          42.3621008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "NW30/Warehouse",
+        "tag": "nw30ware"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1002947,
+          42.3590331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Costco",
+        "tag": "costco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0713849,
+          42.396812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Target",
+        "tag": "targ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.072323,
+          42.398743
         ]
       }
     }

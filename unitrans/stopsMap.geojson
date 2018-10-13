@@ -296,7 +296,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7468699,
+          -121.74687,
           38.5463799
         ]
       }
@@ -536,7 +536,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.72685,
+          -121.7268499,
           38.53974
         ]
       }
@@ -596,8 +596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7239799,
-          38.54023
+          -121.72398,
+          38.5402299
         ]
       }
     },
@@ -3611,8 +3611,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.70626,
-          38.55817
+          -121.7062599,
+          38.5581699
         ]
       }
     },
@@ -3926,7 +3926,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.68376,
+          -121.6837599,
           38.5498299
         ]
       }
@@ -3986,7 +3986,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.68438,
+          -121.6843799,
           38.5524299
         ]
       }
@@ -4069,6 +4069,321 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Anderson & Alvarado (SB)",
+        "tag": "22365",
+        "stopId": "365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75865,
+          38.5625999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anderson & Catalina (SB)",
+        "tag": "22366",
+        "stopId": "366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75853,
+          38.5675399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anderson & Oriole (SB)",
+        "tag": "22367",
+        "stopId": "367"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7558399,
+          38.57234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anderson & Sandpiper (WB)",
+        "tag": "22368",
+        "stopId": "368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74853,
+          38.5733599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "F St & Bueno (NB)",
+        "tag": "22369",
+        "stopId": "369"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74452,
+          38.5617299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "F St & Faro (NB)",
+        "tag": "22370",
+        "stopId": "370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74515,
+          38.56645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "J St & Drexel Dr (NB)",
+        "tag": "22371",
+        "stopId": "371"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74064,
+          38.5570999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "J St & Menlo Dr (NB)",
+        "tag": "22372",
+        "stopId": "372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.73917,
+          38.5589599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lake Blvd & Westlake Plaza (SB)",
+        "tag": "22373",
+        "stopId": "373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7877599,
+          38.5536899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moore & Sargent (WB)",
+        "tag": "22374",
+        "stopId": "374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7198299,
+          38.56438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moore & Pole Line Rd (WB)",
+        "tag": "22375",
+        "stopId": "375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72955,
+          38.5704399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moore Village (WB)",
+        "tag": "22376",
+        "stopId": "376"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.72405,
+          38.56625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shasta & Covell (SB)",
+        "tag": "22378",
+        "stopId": "378"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7729,
+          38.5599399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shasta & Denali (EB)",
+        "tag": "22379",
+        "stopId": "379"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77986,
+          38.5551199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shasta & Denali (WB)",
+        "tag": "22380",
+        "stopId": "380"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7801999,
+          38.55529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shasta & El Capitan (EB)",
+        "tag": "22381",
+        "stopId": "381"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77515,
+          38.5553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shasta & El Capitan (WB)",
+        "tag": "22382",
+        "stopId": "382"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7754799,
+          38.5555799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shasta & Hampton (EB)",
+        "tag": "22383",
+        "stopId": "383"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77242,
+          38.5554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shasta & Hampton (WB)",
+        "tag": "22384",
+        "stopId": "384"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77291,
+          38.5556199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shasta & Rio Grande (NB)",
+        "tag": "22385",
+        "stopId": "385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77113,
+          38.55728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shasta & Rio Grande (SB)",
+        "tag": "22386",
+        "stopId": "386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7715799,
+          38.55698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Arlington Blvd & Bucklebury Rd (NB)",
         "tag": "22494",
         "stopId": "494"
@@ -4106,7 +4421,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.69054,
+          -121.6905399,
           38.55136
         ]
       }
@@ -4121,8 +4436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.68997,
-          38.5488099
+          -121.6899699,
+          38.54881
         ]
       }
     },
@@ -4369,42 +4684,56 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Covell Blvd & Mace Blvd (EB)",
-        "tag": "22245_ar"
+        "title": "J St & Drexel Dr (NB)",
+        "tag": "22371_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.70003,
-          38.5647999
+          -121.74064,
+          38.5570999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "14th St & Davis HS (WB)",
-        "tag": "22125_ar"
+        "title": "Lake Blvd & Portage Bay (SB)",
+        "tag": "22387_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.75058,
-          38.5559599
+          -121.78908,
+          38.5487899
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Richards Blvd & Olive Dr (NB)",
-        "tag": "22242_ar"
+        "title": "Oak & 14th Street (NB)",
+        "tag": "22314_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.73832,
-          38.5407999
+          -121.75221,
+          38.5560899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hutchison Drive & Old Davis Road (WB)",
+        "tag": "22001_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74614,
+          38.5401599
         ]
       }
     },

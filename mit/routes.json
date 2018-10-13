@@ -40,7 +40,7 @@
       ],
       "min": [
         42.361272,
-        -71.08613
+        -71.0862
       ],
       "stops": {
         "To_Kendall Square": [
@@ -58,7 +58,7 @@
       "tag": "northwest",
       "oppositeColor": "000000",
       "max": [
-        42.3623986,
+        42.3624099,
         -71.0843897
       ],
       "min": [
@@ -458,6 +458,39 @@
           "amhekres",
           "burthous",
           "tangwest"
+        ]
+      }
+    },
+    "costtarg": {
+      "title": "Costco Target Shuttle",
+      "color": "000000",
+      "tag": "costtarg",
+      "shortTitle": "Costco Targ Shut",
+      "oppositeColor": "ffffff",
+      "max": [
+        42.398743,
+        -71.0713849
+      ],
+      "min": [
+        42.35486,
+        -71.10265
+      ],
+      "stops": {
+        "To_MIT Campus": [
+          "costco",
+          "targ"
+        ],
+        "To_Costco": [
+          "masehall",
+          "burtconn",
+          "macgreg",
+          "tangwest",
+          "simmhl",
+          "randhmit",
+          "paci70",
+          "nw30ware",
+          "wadse40",
+          "medilab"
         ]
       }
     }

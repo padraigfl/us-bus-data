@@ -1,5 +1,72 @@
 {
   "data": {
+    "stcent": {
+      "lon": "-76.6228338",
+      "title": "State Center (Metro)",
+      "stopId": "39001",
+      "tag": "stcent",
+      "lat": "39.3017091"
+    },
+    "meysymp": {
+      "lon": "-76.6190986",
+      "title": "Meyerhoff Symphony Hall",
+      "stopId": "39004",
+      "tag": "meysymp",
+      "lat": "39.303462"
+    },
+    "marygar": {
+      "lon": "-76.6176602",
+      "title": "Maryland Avenue Garage(To Campus)",
+      "shortTitle": "Maryland Garage(To Campus)",
+      "stopId": "39005",
+      "tag": "marygar",
+      "lat": "39.3033375"
+    },
+    "charmary": {
+      "lon": "-76.6181275",
+      "title": "Chase St & Maryland Av",
+      "shortTitle": "Chase & Maryland",
+      "stopId": "39012",
+      "tag": "charmary",
+      "lat": "39.302314"
+    },
+    "fitzgar": {
+      "lon": "-76.619297",
+      "title": "Fitzgerald Garage",
+      "stopId": "39008",
+      "tag": "fitzgar",
+      "lat": "39.30785"
+    },
+    "langlib": {
+      "lon": "-76.6176374",
+      "title": "Robert L. Bogomolny Library",
+      "stopId": "39009",
+      "tag": "langlib",
+      "lat": "39.306237"
+    },
+    "acadcen": {
+      "lon": "-76.6169892",
+      "title": "Student Center",
+      "stopId": "39013",
+      "tag": "acadcen",
+      "lat": "39.3054029"
+    },
+    "charpres": {
+      "lon": "-76.6159296",
+      "title": "Preston St. and Charles St.",
+      "shortTitle": "Preston & Charles",
+      "stopId": "39014",
+      "tag": "charpres",
+      "lat": "39.3044976"
+    },
+    "anncath": {
+      "lon": "-76.6173261",
+      "title": "Preston St. and Maryland Ave.",
+      "shortTitle": "Preston & Maryland",
+      "stopId": "39015",
+      "tag": "anncath",
+      "lat": "39.3044466"
+    },
     "peargara_d": {
       "lon": "-76.6245549",
       "title": "Pearl St Garage",
@@ -47,14 +114,6 @@
       "stopId": "47012",
       "tag": "washemor",
       "lat": "39.2845546"
-    },
-    "washmlk": {
-      "lon": "-76.6258074",
-      "title": "Washington Blvd & Martin Luther King Jr Blvd",
-      "shortTitle": "Washington & Martin Luther King Jr",
-      "stopId": "47013",
-      "tag": "washmlk",
-      "lat": "39.2836365"
     },
     "washbarr": {
       "lon": "-76.6271531",
@@ -315,14 +374,6 @@
       "tag": "charbidd",
       "lat": "39.3033104"
     },
-    "charpres": {
-      "lon": "-76.6160807",
-      "title": "Charles St and Preston St",
-      "shortTitle": "Charles & Preston",
-      "stopId": "47047",
-      "tag": "charpres",
-      "lat": "39.3042912"
-    },
     "charpenn": {
       "lon": "-76.6162718",
       "title": "Charles St & Penn Station",
@@ -394,14 +445,6 @@
       "stopId": "47057",
       "tag": "paulmulb",
       "lat": "39.294306"
-    },
-    "paulsara": {
-      "lon": "-76.6141345",
-      "title": "St Paul & Saratoga St",
-      "shortTitle": "St Paul & Saratoga",
-      "stopId": "47058",
-      "tag": "paulsara",
-      "lat": "39.2924957"
     },
     "paullexi": {
       "lon": "-76.614017",
@@ -882,59 +925,36 @@
       "tag": "lombligh",
       "lat": "39.2878014"
     },
-    "stamsu_d": {
-      "lon": "-76.9439449",
-      "title": "Stamp Student Union - Slip",
-      "stopId": "10001",
-      "tag": "stamsu_d",
-      "lat": "38.9876099"
-    },
-    "dorchall": {
-      "lon": "-76.9465439",
-      "title": "Dorchester Hall",
-      "stopId": "48075",
-      "tag": "dorchall",
-      "lat": "38.9869687"
-    },
-    "camplibr": {
-      "lon": "-76.9454339",
-      "title": "Campus Drive and Library Lane",
-      "shortTitle": "Campus Drive & Library Lane",
-      "stopId": "48076",
-      "tag": "camplibr",
-      "lat": "38.9873828"
-    },
-    "campedwa": {
-      "lon": "-76.9414639",
-      "title": "Campus Drive at Edward St. John",
-      "shortTitle": "Campus Drive @ Edward John",
-      "stopId": "48077",
-      "tag": "campedwa",
-      "lat": "38.9875362"
+    "regdrgar_d": {
+      "lon": "-76.940772",
+      "title": "Regents Drive Garage",
+      "stopId": "10003",
+      "tag": "regdrgar_d",
+      "lat": "38.989521"
     },
     "campmath": {
-      "lon": "-76.9386063",
+      "lon": "-76.9386053",
       "title": "Campus Dr at Math Slip",
       "shortTitle": "Campus Dr @ Math Slip",
       "stopId": "36112",
       "tag": "campmath",
-      "lat": "38.9878607"
+      "lat": "38.9878609"
     },
-    "campdiam": {
-      "lon": "-76.9340325",
+    "paingree": {
+      "lon": "-76.934037",
       "title": "Campus Drive and Diamondback Drive",
       "shortTitle": "Campus Drive & Diamondback Drive",
       "stopId": "30561",
-      "tag": "campdiam",
-      "lat": "38.9879842"
+      "tag": "paingree",
+      "lat": "38.9879877"
     },
     "painrhod": {
-      "lon": "-76.9313272",
+      "lon": "-76.9313263",
       "title": "Campus Drive and Rhode Island Avenue (Outbound)",
       "shortTitle": "Campus Drive & Rhode Island (Outbound)",
       "stopId": "34991",
       "tag": "painrhod",
-      "lat": "38.9836057"
+      "lat": "38.9836054"
     },
     "cpmetro_d": {
       "lon": "-76.9275778",
@@ -959,20 +979,19 @@
       "tag": "painrhod_in",
       "lat": "38.9835717"
     },
-    "campmcir": {
-      "lon": "-76.9395204",
-      "title": "Campus Drive at M-Circle",
-      "shortTitle": "Campus Drive @ M-Circle",
-      "stopId": "36288",
-      "tag": "campmcir",
-      "lat": "38.987699"
+    "painglen": {
+      "lon": "-76.9372499",
+      "title": "Glenn L. Martin Wind Tunnel",
+      "stopId": "30500",
+      "tag": "painglen",
+      "lat": "38.9899499"
     },
-    "regegara_d": {
-      "lon": "-76.94075",
-      "title": "Regents Drive Garage",
-      "stopId": "10003",
-      "tag": "regegara_d",
-      "lat": "38.9895254"
+    "stamsu_d": {
+      "lon": "-76.9439449",
+      "title": "Stamp Student Union - Slip",
+      "stopId": "10001",
+      "tag": "stamsu_d",
+      "lat": "38.9876099"
     },
     "artsoci": {
       "lon": "-76.94677",
@@ -997,50 +1016,41 @@
       "lat": "38.9821893"
     },
     "guilrowa": {
-      "lon": "-76.9394689",
+      "lon": "-76.939469",
       "title": "Guilford Drive and Rowalt Drive (Outbound)",
       "shortTitle": "Guilford Drive & Rowalt Drive (Outbound)",
       "stopId": "50003",
       "tag": "guilrowa",
-      "lat": "38.9781829"
+      "lat": "38.978183"
     },
     "hartshop": {
-      "lon": "-76.9385753",
-      "title": "Hartwick Road at College Park Shopping Center",
-      "shortTitle": "Hartwick @ College Park Shopping Center",
-      "stopId": "48078",
+      "lon": "-76.93783",
+      "title": "Baltimore Avenue and Hartwick Road (Inbound)",
+      "shortTitle": "Baltimore & Hartwick (Inbound)",
+      "stopId": "37019",
       "tag": "hartshop",
-      "lat": "38.9797038"
+      "lat": "38.97944"
     },
-    "sccomm5_6": {
-      "lon": "-76.9448437",
-      "title": "South Campus Commons 5 and 6",
-      "shortTitle": "South Campus Commons 5 & 6",
-      "stopId": "34728",
-      "tag": "sccomm5_6",
-      "lat": "38.9823229"
+    "mont_in": {
+      "lon": "-76.9391275",
+      "title": "Montgomery Hall (Inbound)",
+      "stopId": "30473",
+      "tag": "mont_in",
+      "lat": "38.9824955"
     },
-    "lota": {
-      "lon": "-76.9451946",
-      "title": "Preinkert Drive at Lot A",
-      "shortTitle": "Preinkert Drive @ Lot A",
-      "stopId": "36430",
-      "tag": "lota",
-      "lat": "38.9842509"
+    "memo_in": {
+      "lon": "-76.94007",
+      "title": "Memorial Chapel (Inbound)",
+      "stopId": "30027",
+      "tag": "memo_in",
+      "lat": "38.9845403"
     },
-    "somehall": {
-      "lon": "-76.9458235",
-      "title": "Somerset Hall",
-      "stopId": "27412",
-      "tag": "somehall",
-      "lat": "38.9847538"
-    },
-    "annearun": {
-      "lon": "-76.9469495",
-      "title": "Anne Arundel Hall",
-      "stopId": "27941",
-      "tag": "annearun",
-      "lat": "38.9859447"
+    "mitc_in": {
+      "lon": "-76.9401199",
+      "title": "Mitchell Building (Inbound)",
+      "stopId": "30494",
+      "tag": "mitc_in",
+      "lat": "38.9863659"
     },
     "regestad": {
       "lon": "-76.9406498",
@@ -1048,7 +1058,7 @@
       "shortTitle": "Regents Dr & Stadium Dr",
       "stopId": "30397",
       "tag": "regestad",
-      "lat": "38.9900117"
+      "lat": "38.990012"
     },
     "regefarm_out": {
       "lon": "-76.9406599",
@@ -1056,18 +1066,18 @@
       "shortTitle": "Regents Dr & Farm Dr (Outbound)",
       "stopId": "30425",
       "tag": "regefarm_out",
-      "lat": "38.9912618"
+      "lat": "38.9912621"
     },
     "regecomc_out": {
-      "lon": "-76.939927",
+      "lon": "-76.9399271",
       "title": "Regents Drive at XFINITY Center (Outbound)",
       "shortTitle": "Regents Drive @ XFINITY Center (Outbound)",
       "stopId": "30321",
       "tag": "regecomc_out",
-      "lat": "38.9934722"
+      "lat": "38.9934725"
     },
     "regepain_out": {
-      "lon": "-76.9374813",
+      "lon": "-76.9374809",
       "title": "Regents Dr and Paint Branch Dr (Outbound)",
       "shortTitle": "Regents Dr & Paint Branch Dr (Outbound)",
       "stopId": "30309",
@@ -1075,42 +1085,42 @@
       "lat": "38.9936299"
     },
     "shutbase_out": {
-      "lon": "-76.9374988",
+      "lon": "-76.9374989",
       "title": "Shuttle-UM Base (Outbound)",
       "stopId": "37150",
       "tag": "shutbase_out",
-      "lat": "38.9953474"
+      "lat": "38.9953477"
     },
     "lot4_out": {
-      "lon": "-76.9404138",
+      "lon": "-76.940414",
       "title": "Paint Branch Dr at Lot 4b (Outbound)",
       "shortTitle": "Paint Branch Dr @ Lot 4b (Outbound)",
       "stopId": "36290",
       "tag": "lot4_out",
-      "lat": "38.9978948"
+      "lat": "38.997895"
     },
     "metzgree": {
-      "lon": "-76.944471",
+      "lon": "-76.9444714",
       "title": "Metzerott Rd and Greenmead Dr",
       "shortTitle": "Metzerott & Greenmead Dr",
       "stopId": "30299",
       "tag": "metzgree",
-      "lat": "39.0009111"
+      "lat": "39.0009112"
     },
     "gree_out": {
-      "lon": "-76.9434988",
+      "lon": "-76.9434987",
       "title": "Greenmead Dr at Maryland 4-H (Outbound)",
       "shortTitle": "Greenmead Dr @ Maryland 4-H (Outbound)",
       "stopId": "37185",
       "tag": "gree_out",
-      "lat": "39.0020474"
+      "lat": "39.0020477"
     },
     "cour500": {
-      "lon": "-76.9425747",
+      "lon": "-76.94257",
       "title": "Courtyards #500",
       "stopId": "27735",
       "tag": "cour500",
-      "lat": "39.0030719"
+      "lat": "39.0030898"
     },
     "greemead_in": {
       "lon": "-76.9433279",
@@ -1166,6 +1176,13 @@
       "stopId": "30313",
       "tag": "regefarm_in",
       "lat": "38.9914838"
+    },
+    "regegara_d": {
+      "lon": "-76.94075",
+      "title": "Regents Drive Garage",
+      "stopId": "10003",
+      "tag": "regegara_d",
+      "lat": "38.9895254"
     },
     "camplt1d": {
       "lon": "-76.9510623",
@@ -1404,26 +1421,19 @@
       "tag": "rayt",
       "lat": "38.9683562"
     },
-    "collpark": {
-      "lon": "-76.9279211",
-      "title": "College Park Academy",
-      "stopId": "31570",
-      "tag": "collpark",
-      "lat": "38.9682923"
-    },
     "msqua": {
-      "lon": "-76.9229913",
+      "lon": "-76.922991",
       "title": "M-Square",
       "stopId": "34293",
       "tag": "msqua",
-      "lat": "38.9707573"
+      "lat": "38.9707579"
     },
     "usda": {
-      "lon": "-76.9261353",
+      "lon": "-76.9261352",
       "title": "USDA",
       "stopId": "31881",
       "tag": "usda",
-      "lat": "38.9698864"
+      "lat": "38.9698863"
     },
     "rrmshel": {
       "lon": "-76.9283434",
@@ -1432,6 +1442,166 @@
       "stopId": "31899",
       "tag": "rrmshel",
       "lat": "38.9722045"
+    },
+    "camplot3": {
+      "lon": "-76.9515395",
+      "title": "Campus Dr at Lot 3",
+      "shortTitle": "Campus Dr @ Lot 3",
+      "stopId": "34422",
+      "tag": "camplot3",
+      "lat": "38.9847421"
+    },
+    "rhoduni": {
+      "lon": "-76.9248359",
+      "title": "Rhode Island Ave and University Blvd (Outbound)",
+      "shortTitle": "Rhode Island & University (Outbound)",
+      "stopId": "55000",
+      "tag": "rhoduni",
+      "lat": "39.0009914"
+    },
+    "rhodcher": {
+      "lon": "-76.9244471",
+      "title": "Rhode Island Avenue and Cherokee Street (Outbound)",
+      "shortTitle": "Rhode Island & Cherokee (Outbound)",
+      "stopId": "27372",
+      "tag": "rhodcher",
+      "lat": "39.0023874"
+    },
+    "rhodindi": {
+      "lon": "-76.92349",
+      "title": "Rhode Island Ave and Fox St (Outbound)",
+      "shortTitle": "Rhode Island & Fox (Outbound)",
+      "stopId": "27934",
+      "tag": "rhodindi",
+      "lat": "39.0059699"
+    },
+    "rhodholl": {
+      "lon": "-76.9221711",
+      "title": "Rhode Island Avenue and Hollywood Road (Outbound)",
+      "shortTitle": "Rhode Island & Hollywood (Outbound)",
+      "stopId": "30366",
+      "tag": "rhodholl",
+      "lat": "39.0108829"
+    },
+    "hollshop": {
+      "lon": "-76.921375",
+      "title": "Rhode Island Ave and Hollywood Shopping Ctr",
+      "shortTitle": "Rhode Island & Hollywood Shopping Ctr",
+      "stopId": "30350",
+      "tag": "hollshop",
+      "lat": "39.0138309"
+    },
+    "edgerhod": {
+      "lon": "-76.9214099",
+      "title": "Edgewood Road and Rhode Island Avenue (Outbound)",
+      "shortTitle": "Edgewood & Rhode Island (Outbound)",
+      "stopId": "27703",
+      "tag": "edgerhod",
+      "lat": "39.0161096"
+    },
+    "edge49th": {
+      "lon": "-76.9243329",
+      "title": "Edgewood Road and 49th Avenue (Outbound)",
+      "shortTitle": "Edgewood & 49th (Outbound)",
+      "stopId": "31691",
+      "tag": "edge49th",
+      "lat": "39.016061"
+    },
+    "cpmark": {
+      "lon": "-76.9301971",
+      "title": "Cherry Hill Rd at College Park Marketplace",
+      "shortTitle": "Cherry Hill @ College Park Marketplace",
+      "stopId": "36476",
+      "tag": "cpmark",
+      "lat": "39.0160182"
+    },
+    "cher9348": {
+      "lon": "-76.9393951",
+      "title": "Seven Springs Apts at 9348 Cherry Hill Rd",
+      "shortTitle": "Seven Springs Apts @ 9348 Cherry Hill",
+      "stopId": "27800",
+      "tag": "cher9348",
+      "lat": "39.0169461"
+    },
+    "ssvill": {
+      "lon": "-76.9394283",
+      "title": "Seven Springs Apts at 9310 Cherry Hill Rd",
+      "shortTitle": "Seven Springs Apts @ 9310 Cherry Hill",
+      "stopId": "27420",
+      "tag": "ssvill",
+      "lat": "39.0159991"
+    },
+    "cher9308": {
+      "lon": "-76.9376829",
+      "title": "Seven Springs Apts at 9308 Cherry Hill Rd",
+      "shortTitle": "Seven Springs Apts @ 9308 Cherry Hill",
+      "stopId": "27816",
+      "tag": "cher9308",
+      "lat": "39.0178782"
+    },
+    "cher47th": {
+      "lon": "-76.9321727",
+      "title": "Cherry Hill Rd and 47th Ave",
+      "shortTitle": "Cherry Hill & 47th",
+      "stopId": "36154",
+      "tag": "cher47th",
+      "lat": "39.0165878"
+    },
+    "edge49th_in": {
+      "lon": "-76.924331",
+      "title": "Edgewood Rd and 49th Ave (Inbound)",
+      "shortTitle": "Edgewood & 49th (Inbound)",
+      "stopId": "36448",
+      "tag": "edge49th_in",
+      "lat": "39.015949"
+    },
+    "edgerhod_in": {
+      "lon": "-76.9211996",
+      "title": "Edgewood Rd and Rhode Island Ave (Inbound)",
+      "shortTitle": "Edgewood & Rhode Island (Inbound)",
+      "stopId": "27243",
+      "tag": "edgerhod_in",
+      "lat": "39.01597"
+    },
+    "rhodmusk": {
+      "lon": "-76.9215202",
+      "title": "Rhode Island Avenue and Muskogee Street",
+      "shortTitle": "Rhode Island & Muskogee",
+      "stopId": "37324",
+      "tag": "rhodmusk",
+      "lat": "39.0136129"
+    },
+    "rhodholl_in": {
+      "lon": "-76.9223553",
+      "title": "Rhode Island Ave and Hollywood Rd (Inbound)",
+      "shortTitle": "Rhode Island & Hollywood (Inbound)",
+      "stopId": "30378",
+      "tag": "rhodholl_in",
+      "lat": "39.0105519"
+    },
+    "rhodfox": {
+      "lon": "-76.9234763",
+      "title": "Rhode Island Avenue and Fox Street (Outbound)",
+      "shortTitle": "Rhode Island & Fox (Outbound)",
+      "stopId": "30983",
+      "tag": "rhodfox",
+      "lat": "39.0064427"
+    },
+    "rhodcher_in": {
+      "lon": "-76.9244616",
+      "title": "Rhode Island Ave and Cherokee St (Inbound)",
+      "shortTitle": "Rhode Island & Cherokee (Inbound)",
+      "stopId": "30965",
+      "tag": "rhodcher_in",
+      "lat": "39.0027034"
+    },
+    "rhoduni_in": {
+      "lon": "-76.9252728",
+      "title": "Rhode Island Ave and University Blvd (Inbound)",
+      "shortTitle": "Rhode Island & University (Inbound)",
+      "stopId": "37078",
+      "tag": "rhoduni_in",
+      "lat": "38.9997597"
     },
     "stamsuhh_d": {
       "lon": "-76.9440396",
@@ -2000,55 +2170,174 @@
       "tag": "adeltula",
       "lat": "38.9846321"
     },
-    "hoff": {
-      "lon": "-76.94539",
-      "title": "Hoff Theater",
-      "stopId": "34507",
-      "tag": "hoff",
-      "lat": "38.9880686"
+    "collpksh": {
+      "lon": "-76.9390277",
+      "title": "College Park Shopping Ctr (Outbound)",
+      "stopId": "30138",
+      "tag": "collpksh",
+      "lat": "38.9809619"
     },
-    "uniofiel": {
-      "lon": "-76.945307",
-      "title": "Union Ln and Fieldhouse Dr",
-      "shortTitle": "Union Ln & Fieldhouse Dr",
-      "stopId": "27774",
-      "tag": "uniofiel",
-      "lat": "38.9886927"
+    "baltritc": {
+      "lon": "-76.9370967",
+      "title": "Ritchie Coliseum",
+      "stopId": "27291",
+      "tag": "baltritc",
+      "lat": "38.9852774"
     },
-    "biofield": {
-      "lon": "-76.9421091",
-      "title": "BioSciences Research Building",
-      "stopId": "50016",
-      "tag": "biofield",
-      "lat": "38.9892581"
+    "univview": {
+      "lon": "-76.9338999",
+      "title": "University View",
+      "stopId": "37105",
+      "tag": "univview",
+      "lat": "38.99234"
+    },
+    "baltvars": {
+      "lon": "-76.9340075",
+      "title": "Baltimore Ave at The Varsity",
+      "shortTitle": "Baltimore @ The Varsity",
+      "stopId": "29789",
+      "tag": "baltvars",
+      "lat": "38.9908313"
+    },
+    "mcirc": {
+      "lon": "-76.9395199",
+      "title": "Campus Dr at M Circle",
+      "shortTitle": "Campus Dr @ M Circle",
+      "stopId": "36288",
+      "tag": "mcirc",
+      "lat": "38.987699"
+    },
+    "lot1": {
+      "lon": "-76.9481576",
+      "title": "Union Dr at Lot 1b",
+      "shortTitle": "Union Dr @ Lot 1b",
+      "stopId": "36495",
+      "tag": "lot1",
+      "lat": "38.9872099"
+    },
+    "cspac": {
+      "lon": "-76.9494",
+      "title": "Valley Drive at Stadium Drive Garage",
+      "shortTitle": "Valley Drive @ Stadium Drive Garage",
+      "stopId": "36261",
+      "tag": "cspac",
+      "lat": "38.9902373"
+    },
+    "elk": {
+      "lon": "-76.9485888",
+      "title": "Elkton Hall",
+      "stopId": "27227",
+      "tag": "elk",
+      "lat": "38.9924177"
+    },
+    "hage": {
+      "lon": "-76.947599",
+      "title": "Hagerstown Hall",
+      "stopId": "27514",
+      "tag": "hage",
+      "lat": "38.99297"
+    },
+    "laplat": {
+      "lon": "-76.94563",
+      "title": "La Plata Hall",
+      "stopId": "27197",
+      "tag": "laplat",
+      "lat": "38.9922186"
+    },
+    "camb": {
+      "lon": "-76.9430218",
+      "title": "Cambridge Hall",
+      "stopId": "36274",
+      "tag": "camb",
+      "lat": "38.9914205"
     },
     "mitc_out": {
       "lon": "-76.9401999",
       "title": "Mitchell Building (Outbound)",
       "stopId": "30487",
       "tag": "mitc_out",
-      "lat": "38.9866486"
+      "lat": "38.9866498"
     },
     "memo_out": {
       "lon": "-76.94015",
       "title": "Memorial Chapel (Outbound)",
       "stopId": "30043",
       "tag": "memo_out",
-      "lat": "38.9848193"
+      "lat": "38.9848206"
     },
     "mont_out": {
-      "lon": "-76.9391512",
+      "lon": "-76.9391529",
       "title": "Montgomery Hall (Outbound)",
       "stopId": "30456",
       "tag": "mont_out",
-      "lat": "38.9824311"
+      "lat": "38.9824312"
     },
-    "baltritc": {
-      "lon": "-76.937097",
+    "baltritc_s": {
+      "lon": "-76.9370967",
       "title": "Ritchie Coliseum",
       "stopId": "27291",
-      "tag": "baltritc",
-      "lat": "38.9852768"
+      "tag": "baltritc_s",
+      "lat": "38.9852774"
+    },
+    "mcirc_s": {
+      "lon": "-76.9394934",
+      "title": "Campus Dr at M Circle",
+      "shortTitle": "Campus Dr @ M Circle",
+      "stopId": "36288",
+      "tag": "mcirc_s",
+      "lat": "38.9877034"
+    },
+    "hoff": {
+      "lon": "-76.94539",
+      "title": "Hoff Theater",
+      "stopId": "34507",
+      "tag": "hoff",
+      "lat": "38.9880692"
+    },
+    "uniofiel": {
+      "lon": "-76.9453067",
+      "title": "Union Ln and Fieldhouse Dr",
+      "shortTitle": "Union Ln & Fieldhouse Dr",
+      "stopId": "27774",
+      "tag": "uniofiel",
+      "lat": "38.9886932"
+    },
+    "biofield": {
+      "lon": "-76.9421089",
+      "title": "BioSciences Research Building",
+      "stopId": "50016",
+      "tag": "biofield",
+      "lat": "38.9892576"
+    },
+    "cour300": {
+      "lon": "-76.9419255",
+      "title": "Courtyards #300",
+      "stopId": "27047",
+      "tag": "cour300",
+      "lat": "39.0013104"
+    },
+    "cour400": {
+      "lon": "-76.94271",
+      "title": "Courtyards #400",
+      "stopId": "27742",
+      "tag": "cour400",
+      "lat": "39.001867"
+    },
+    "gree": {
+      "lon": "-76.9433266",
+      "title": "Greenmeade Dr at Maryland 4-H (Inbound)",
+      "shortTitle": "Greenmeade Dr @ Maryland 4-H (Inbound)",
+      "stopId": "27676",
+      "tag": "gree",
+      "lat": "39.0026811"
+    },
+    "lot4i_r": {
+      "lon": "-76.9404883",
+      "title": "Paint Branch Dr at Lot 4b (Inbound)",
+      "shortTitle": "Paint Branch Dr @ Lot 4b (Inbound)",
+      "stopId": "27522",
+      "tag": "lot4i_r",
+      "lat": "38.9978287"
     },
     "univclub": {
       "lon": "-76.9298057",
@@ -2056,13 +2345,6 @@
       "stopId": "31765",
       "tag": "univclub",
       "lat": "38.9906518"
-    },
-    "univview": {
-      "lon": "-76.9339",
-      "title": "University View",
-      "stopId": "37105",
-      "tag": "univview",
-      "lat": "38.9923399"
     },
     "varsity": {
       "lon": "-76.9340079",
@@ -2072,13 +2354,133 @@
       "tag": "varsity",
       "lat": "38.9908309"
     },
-    "mcirc": {
-      "lon": "-76.9394975",
-      "title": "Campus Dr at M Circle",
-      "shortTitle": "Campus Dr @ M Circle",
-      "stopId": "36288",
-      "tag": "mcirc",
-      "lat": "38.9877026"
+    "dent": {
+      "lon": "-76.9500274",
+      "title": "Denton Hall",
+      "stopId": "36424",
+      "tag": "dent",
+      "lat": "38.9919122"
+    },
+    "tula3424": {
+      "lon": "-76.9559259",
+      "title": "Graduate Hills at 3424 Tulane Dr",
+      "shortTitle": "Graduate Hills @ 3424 Tulane Dr",
+      "stopId": "27699",
+      "tag": "tula3424",
+      "lat": "38.9849405"
+    },
+    "tula3410": {
+      "lon": "-76.9572802",
+      "title": "Graduate Hills at 3410 Tulane Dr",
+      "shortTitle": "Graduate Hills @ 3410 Tulane Dr",
+      "stopId": "37152",
+      "tag": "tula3410",
+      "lat": "38.984739"
+    },
+    "tula3403": {
+      "lon": "-76.95824",
+      "title": "Graduate Hills at 3404 Tulane Dr",
+      "shortTitle": "Graduate Hills @ 3404 Tulane Dr",
+      "stopId": "27023",
+      "tag": "tula3403",
+      "lat": "38.9846822"
+    },
+    "camplot19": {
+      "lon": "-76.9544776",
+      "title": "Campus Dr at UMUC Lot 19",
+      "shortTitle": "Campus Dr @ UMUC Lot 19",
+      "stopId": "36120",
+      "tag": "camplot19",
+      "lat": "38.9852911"
+    },
+    "univbapt": {
+      "lon": "-76.9524262",
+      "title": "University Methodist Church",
+      "stopId": "34894",
+      "tag": "univbapt",
+      "lat": "38.9848573"
+    },
+    "hillmunc": {
+      "lon": "-76.9482112",
+      "title": "Van Munching Hall (Inbound)",
+      "stopId": "27075",
+      "tag": "hillmunc",
+      "lat": "38.9830167"
+    },
+    "lds": {
+      "lon": "-76.9471916",
+      "title": "LDS Institute of Religion",
+      "stopId": "27533",
+      "tag": "lds",
+      "lat": "38.9822297"
+    },
+    "sccomm1_2": {
+      "lon": "-76.9434585",
+      "title": "South Campus Commons 1 & 2",
+      "stopId": "27505",
+      "tag": "sccomm1_2",
+      "lat": "38.9823305"
+    },
+    "4315rwlt": {
+      "lon": "-76.9414545",
+      "title": "Graduate Gardens at 4315 Rowalt Dr",
+      "shortTitle": "Graduate Gardens @ 4315 Rowalt Dr",
+      "stopId": "37118",
+      "tag": "4315rwlt",
+      "lat": "38.9788425"
+    },
+    "4327rwlt": {
+      "lon": "-76.9400307",
+      "title": "Graduate Gardens at 4327 Rowalt Dr",
+      "shortTitle": "Graduate Gardens @ 4327 Rowalt Dr",
+      "stopId": "34958",
+      "tag": "4327rwlt",
+      "lat": "38.9782048"
+    },
+    "balthart_in": {
+      "lon": "-76.93783",
+      "title": "Baltimore Ave and Hartwick Rd (Inbound)",
+      "shortTitle": "Baltimore & Hartwick (Inbound)",
+      "stopId": "37019",
+      "tag": "balthart_in",
+      "lat": "38.9794663"
+    },
+    "shoebuil": {
+      "lon": "-76.9421853",
+      "title": "Shoemaker Building",
+      "stopId": "37232",
+      "tag": "shoebuil",
+      "lat": "38.9838654"
+    },
+    "loty": {
+      "lon": "-76.9417399",
+      "title": "Lot Y and Chapel Dr",
+      "shortTitle": "Lot Y & Chapel Dr",
+      "stopId": "34511",
+      "tag": "loty",
+      "lat": "38.9843599"
+    },
+    "painstad_r": {
+      "lon": "-76.9372506",
+      "title": "Glenn L. Martin Wind Tunnel",
+      "stopId": "30500",
+      "tag": "painstad_r",
+      "lat": "38.9899585"
+    },
+    "avwill": {
+      "lon": "-76.93726",
+      "title": "A.V. Williams Building",
+      "stopId": "27863",
+      "tag": "avwill",
+      "lat": "38.9909815"
+    },
+    "techpain": {
+      "lon": "-76.93727",
+      "title": "Paint Branch Dr and Technology Dr",
+      "shortTitle": "Paint Branch Dr & Technology Dr",
+      "stopId": "27973",
+      "tag": "techpain",
+      "lat": "38.9925816"
     },
     "stamsu_m": {
       "lon": "-76.9439438",
@@ -2086,13 +2488,6 @@
       "stopId": "10001",
       "tag": "stamsu_m",
       "lat": "38.9876098"
-    },
-    "collpksh": {
-      "lon": "-76.9390277",
-      "title": "College Park Shopping Ctr (Outbound)",
-      "stopId": "30138",
-      "tag": "collpksh",
-      "lat": "38.9809619"
     },
     "knoxyale": {
       "lon": "-76.9368551",
@@ -2202,49 +2597,57 @@
       "tag": "scam34",
       "lat": "38.9811409"
     },
-    "lot1": {
-      "lon": "-76.9481578",
-      "title": "Union Dr at Lot 1b",
-      "shortTitle": "Union Dr @ Lot 1b",
-      "stopId": "36495",
-      "tag": "lot1",
-      "lat": "38.9872099"
+    "sccomm5_6": {
+      "lon": "-76.9448437",
+      "title": "South Campus Commons 5 and 6",
+      "shortTitle": "South Campus Commons 5 & 6",
+      "stopId": "34728",
+      "tag": "sccomm5_6",
+      "lat": "38.9823229"
     },
-    "cspac": {
-      "lon": "-76.9494",
-      "title": "Valley Drive at Stadium Drive Garage",
-      "shortTitle": "Valley Drive @ Stadium Drive Garage",
-      "stopId": "36261",
-      "tag": "cspac",
-      "lat": "38.9902373"
+    "lota": {
+      "lon": "-76.9451946",
+      "title": "Preinkert Drive at Lot A",
+      "shortTitle": "Preinkert Drive @ Lot A",
+      "stopId": "36430",
+      "tag": "lota",
+      "lat": "38.9842509"
     },
-    "elk": {
-      "lon": "-76.9485776",
-      "title": "Elkton Hall",
-      "stopId": "27227",
-      "tag": "elk",
-      "lat": "38.9924819"
+    "somehall": {
+      "lon": "-76.9458235",
+      "title": "Somerset Hall",
+      "stopId": "27412",
+      "tag": "somehall",
+      "lat": "38.9847538"
     },
-    "hage": {
-      "lon": "-76.9475896",
-      "title": "Hagerstown Hall",
-      "stopId": "27514",
-      "tag": "hage",
-      "lat": "38.99297"
+    "annearun": {
+      "lon": "-76.9469495",
+      "title": "Anne Arundel Hall",
+      "stopId": "27941",
+      "tag": "annearun",
+      "lat": "38.9859448"
     },
-    "laplat": {
-      "lon": "-76.9456303",
-      "title": "La Plata Hall",
-      "stopId": "27197",
-      "tag": "laplat",
-      "lat": "38.9922129"
+    "dorchall": {
+      "lon": "-76.9465401",
+      "title": "Dorchester Hall",
+      "stopId": "48075",
+      "tag": "dorchall",
+      "lat": "38.9869691"
     },
-    "camb": {
-      "lon": "-76.9430102",
-      "title": "Cambridge Hall",
-      "stopId": "36274",
-      "tag": "camb",
-      "lat": "38.99142"
+    "diviofit": {
+      "lon": "-76.923247",
+      "title": "Division of IT",
+      "stopId": "31571",
+      "tag": "diviofit",
+      "lat": "38.9691629"
+    },
+    "univshad": {
+      "lon": "-77.199467",
+      "title": "The Universities at Shady Grove",
+      "shortTitle": "The Universities @ Shady Grove",
+      "stopId": "34777",
+      "tag": "univshad",
+      "lat": "39.0917039"
     },
     "univpkth": {
       "lon": "-76.9380183",
@@ -2286,21 +2689,13 @@
       "tag": "ewhwtayl_out",
       "lat": "38.9623242"
     },
-    "rivstber_n": {
-      "lon": "-76.9156512",
-      "title": "Riverdale Rd at St. Bernard's Church",
-      "shortTitle": "Riverdale @ Bernard's Church",
-      "stopId": "37035",
-      "tag": "rivstber_n",
-      "lat": "38.9599499"
-    },
-    "rivd61st": {
-      "lon": "-76.9122848",
-      "title": "Riverdale Rd and 61st Place",
-      "shortTitle": "Riverdale & 61st Place",
-      "stopId": "37080",
-      "tag": "rivd61st",
-      "lat": "38.9604936"
+    "rivd63rd": {
+      "lon": "-76.9100993",
+      "title": "Riverdale Rd and 63rd Ave",
+      "shortTitle": "Riverdale & 63rd",
+      "stopId": "48083",
+      "tag": "rivd63rd",
+      "lat": "38.9609676"
     },
     "riveeast": {
       "lon": "-76.9067853",
@@ -2367,12 +2762,12 @@
       "lat": "38.9595921"
     },
     "herisqap": {
-      "lon": "-76.8752215",
+      "lon": "-76.8752214",
       "title": "Riverdale Rd at Heritage Square Apartments",
       "shortTitle": "Riverdale @ Heritage Square Apartments",
       "stopId": "37058",
       "tag": "herisqap",
-      "lat": "38.9585215"
+      "lat": "38.9585214"
     },
     "annarive": {
       "lon": "-76.8735862",
@@ -2382,20 +2777,20 @@
       "tag": "annarive",
       "lat": "38.9554776"
     },
-    "annafinn": {
-      "lon": "-76.8782143",
-      "title": "Annapolis Rd and Finns Ln",
-      "shortTitle": "Annapolis & Finns Ln",
-      "stopId": "37009",
-      "tag": "annafinn",
-      "lat": "38.953008"
+    "harkanna": {
+      "lon": "-76.8776441",
+      "title": "Harkins Rd and Annapolis Rd",
+      "shortTitle": "Harkins & Annapolis",
+      "stopId": "48081",
+      "tag": "harkanna",
+      "lat": "38.9523513"
     },
     "ncarmetr": {
-      "lon": "-76.8728252",
+      "lon": "-76.872531",
       "title": "New Carrollton Metro Station",
       "stopId": "37071",
       "tag": "ncarmetr",
-      "lat": "38.9488713"
+      "lat": "38.950275"
     },
     "lenocrap": {
       "lon": "-76.86878",
@@ -2403,7 +2798,7 @@
       "shortTitle": "85th @ Lenox Court Apartments",
       "stopId": "37064",
       "tag": "lenocrap",
-      "lat": "38.9538914"
+      "lat": "38.9538912"
     },
     "carrmnap": {
       "lon": "-76.8682799",
@@ -2411,7 +2806,7 @@
       "shortTitle": "85th @ Carrollton Manor Apartments",
       "stopId": "37031",
       "tag": "carrmnap",
-      "lat": "38.9560196"
+      "lat": "38.9560194"
     },
     "long85th": {
       "lon": "-76.8697998",
@@ -2419,7 +2814,7 @@
       "shortTitle": "85th & Longfellow",
       "stopId": "37007",
       "tag": "long85th",
-      "lat": "38.9595986"
+      "lat": "38.9595984"
     },
     "lega85th": {
       "lon": "-76.86988",
@@ -2427,34 +2822,34 @@
       "shortTitle": "85th & Legation",
       "stopId": "37006",
       "tag": "lega85th",
-      "lat": "38.9607899"
+      "lat": "38.9607897"
     },
     "westmadi": {
-      "lon": "-76.870233",
+      "lon": "-76.8702329",
       "title": "Westbrook Dr and Madison St",
       "shortTitle": "Westbrook Dr & Madison",
       "stopId": "37099",
       "tag": "westmadi",
-      "lat": "38.9623384"
+      "lat": "38.9623382"
     },
     "westogle": {
-      "lon": "-76.8715632",
+      "lon": "-76.8715631",
       "title": "Westbrook Dr and Oglethorpe St",
       "shortTitle": "Westbrook Dr & Oglethorpe",
       "stopId": "37100",
       "tag": "westogle",
-      "lat": "38.9642509"
+      "lat": "38.9642507"
     },
     "westpowh": {
-      "lon": "-76.8730068",
+      "lon": "-76.8730066",
       "title": "Westbrook Dr and Powhatan St",
       "shortTitle": "Westbrook Dr & Powhatan",
       "stopId": "37101",
       "tag": "westpowh",
-      "lat": "38.9655377"
+      "lat": "38.9655375"
     },
     "westlamo": {
-      "lon": "-76.88028",
+      "lon": "-76.8802797",
       "title": "Westbrook Dr and Lamont Dr",
       "shortTitle": "Westbrook Dr & Lamont Dr",
       "stopId": "37098",
@@ -2462,20 +2857,20 @@
       "lat": "38.9658"
     },
     "lamolarc": {
-      "lon": "-76.8798725",
+      "lon": "-76.8798726",
       "title": "Lamont Dr and Larchwood St",
       "shortTitle": "Lamont Dr & Larchwood",
       "stopId": "37061",
       "tag": "lamolarc",
-      "lat": "38.967877"
+      "lat": "38.9678768"
     },
     "lamocarr": {
-      "lon": "-76.8801134",
+      "lon": "-76.8801133",
       "title": "Lamont Dr and Carrollton Pkwy",
       "shortTitle": "Lamont Dr & Carrollton Pkwy",
       "stopId": "37059",
       "tag": "lamocarr",
-      "lat": "38.9693726"
+      "lat": "38.9693724"
     },
     "lamoquen": {
       "lon": "-76.8807906",
@@ -2483,63 +2878,63 @@
       "shortTitle": "Lamont Dr & Quentin",
       "stopId": "37062",
       "tag": "lamoquen",
-      "lat": "38.971853"
+      "lat": "38.9718528"
     },
     "lamodono": {
-      "lon": "-76.8821713",
+      "lon": "-76.8821712",
       "title": "Lamont Dr and Donoghue Dr",
       "shortTitle": "Lamont Dr & Donoghue Dr",
       "stopId": "37060",
       "tag": "lamodono",
-      "lat": "38.974663"
+      "lat": "38.9746629"
     },
     "lamoelem": {
-      "lon": "-76.8838802",
+      "lon": "-76.8838799",
       "title": "Good Luck Rd at Lamont Elementary School",
       "shortTitle": "Good Luck @ Lamont Elementary School",
       "stopId": "37063",
       "tag": "lamoelem",
-      "lat": "38.9749699"
+      "lat": "38.97497"
     },
     "gdlknash": {
-      "lon": "-76.8864037",
+      "lon": "-76.8864035",
       "title": "Good Luck Rd and Nashville Rd",
       "shortTitle": "Good Luck & Nashville",
       "stopId": "37053",
       "tag": "gdlknash",
-      "lat": "38.9746888"
+      "lat": "38.9746889"
     },
     "gdlkian": {
-      "lon": "-76.8912735",
+      "lon": "-76.8912732",
       "title": "Good Luck Rd and Ian St",
       "shortTitle": "Good Luck & Ian",
       "stopId": "37052",
       "tag": "gdlkian",
-      "lat": "38.9725314"
+      "lat": "38.9725315"
     },
     "aubuches": {
-      "lon": "-76.8937951",
+      "lon": "-76.893795",
       "title": "Auburn Ave and Chestnut Ave",
       "shortTitle": "Auburn & Chestnut",
       "stopId": "37013",
       "tag": "aubuches",
-      "lat": "38.971487"
+      "lat": "38.9714872"
     },
     "aubu3rd": {
-      "lon": "-76.894813",
+      "lon": "-76.8948129",
       "title": "Auburn Ave and 3rd St",
       "shortTitle": "Auburn & 3rd",
       "stopId": "37012",
       "tag": "aubu3rd",
-      "lat": "38.9691257"
+      "lat": "38.9691259"
     },
     "aubu1st": {
-      "lon": "-76.89604",
+      "lon": "-76.8960399",
       "title": "Auburn Ave and 1st St",
       "shortTitle": "Auburn & 1st",
       "stopId": "37011",
       "tag": "aubu1st",
-      "lat": "38.9663098"
+      "lat": "38.96631"
     },
     "auburive": {
       "lon": "-76.8966299",
@@ -2547,7 +2942,7 @@
       "shortTitle": "Auburn & Riverdale",
       "stopId": "50018",
       "tag": "auburive",
-      "lat": "38.96503"
+      "lat": "38.9650301"
     },
     "wildshop": {
       "lon": "-76.8978744",
@@ -2629,14 +3024,6 @@
       "tag": "baltamhe",
       "lat": "38.9728518"
     },
-    "guilrowa_in": {
-      "lon": "-76.9391156",
-      "title": "Guilford Drive and Rowalt Drive (Inbound)",
-      "shortTitle": "Guilford Drive & Rowalt Drive (Inbound)",
-      "stopId": "37103",
-      "tag": "guilrowa_in",
-      "lat": "38.978184"
-    },
     "campmath_m": {
       "lon": "-76.9386064",
       "title": "Campus Dr at Math Slip",
@@ -2646,7 +3033,7 @@
       "lat": "38.9878607"
     },
     "baltmacd": {
-      "lon": "-76.9331918",
+      "lon": "-76.9331919",
       "title": "Baltimore Avenue and Berwyn House Road",
       "shortTitle": "Baltimore & Berwyn House",
       "stopId": "27301",
@@ -2654,116 +3041,36 @@
       "lat": "38.9923857"
     },
     "baltqueb_out": {
-      "lon": "-76.9322314",
+      "lon": "-76.9322248",
       "title": "Baltimore Ave and Quebec St(Outbound)",
       "shortTitle": "Baltimore & Quebec St(Outbound)",
       "stopId": "27270",
       "tag": "baltqueb_out",
-      "lat": "38.994596"
+      "lat": "38.9946079"
     },
     "baltberw_out": {
-      "lon": "-76.9317425",
+      "lon": "-76.9317454",
       "title": "Baltimore Ave and Berwyn Rd (Outbound)",
       "shortTitle": "Baltimore & Berwyn (Outbound)",
       "stopId": "30351",
       "tag": "baltberw_out",
-      "lat": "38.9961507"
+      "lat": "38.9961091"
     },
-    "rhoduni": {
-      "lon": "-76.9248489",
-      "title": "Rhode Island Ave and University Blvd (Outbound)",
+    "rhoduniv": {
+      "lon": "-76.92481",
+      "title": "Rhode Island Avenue and University Boulevard (Outbound)",
       "shortTitle": "Rhode Island & University (Outbound)",
       "stopId": "55000",
-      "tag": "rhoduni",
-      "lat": "39.0009936"
+      "tag": "rhoduniv",
+      "lat": "39.0009848"
     },
-    "rhodcher": {
-      "lon": "-76.9244253",
-      "title": "Rhode Island Avenue and Cherokee Street (Outbound)",
-      "shortTitle": "Rhode Island & Cherokee (Outbound)",
-      "stopId": "27372",
-      "tag": "rhodcher",
-      "lat": "39.0024456"
-    },
-    "rhodindi": {
-      "lon": "-76.9234933",
-      "title": "Rhode Island Ave and Fox St (Outbound)",
-      "shortTitle": "Rhode Island & Fox (Outbound)",
-      "stopId": "27934",
-      "tag": "rhodindi",
-      "lat": "39.0059584"
-    },
-    "rhodholl": {
-      "lon": "-76.9221672",
-      "title": "Rhode Island Avenue and Hollywood Road (Outbound)",
-      "shortTitle": "Rhode Island & Hollywood (Outbound)",
-      "stopId": "30366",
-      "tag": "rhodholl",
-      "lat": "39.0108975"
-    },
-    "hollshop": {
-      "lon": "-76.9213738",
-      "title": "Rhode Island Ave and Hollywood Shopping Ctr",
-      "shortTitle": "Rhode Island & Hollywood Shopping Ctr",
+    "rhodshop": {
+      "lon": "-76.9213841",
+      "title": "Rhode Island Avenue at Hollywood Shopping Center",
+      "shortTitle": "Rhode Island @ Hollywood Shopping Center",
       "stopId": "30350",
-      "tag": "hollshop",
-      "lat": "39.0138351"
-    },
-    "edgerhod": {
-      "lon": "-76.9214099",
-      "title": "Edgewood Road and Rhode Island Avenue (Outbound)",
-      "shortTitle": "Edgewood & Rhode Island (Outbound)",
-      "stopId": "27703",
-      "tag": "edgerhod",
-      "lat": "39.0161096"
-    },
-    "edge49th": {
-      "lon": "-76.9243369",
-      "title": "Edgewood Road and 49th Avenue (Outbound)",
-      "shortTitle": "Edgewood & 49th (Outbound)",
-      "stopId": "31691",
-      "tag": "edge49th",
-      "lat": "39.016061"
-    },
-    "cpmark": {
-      "lon": "-76.9301971",
-      "title": "Cherry Hill Rd at College Park Marketplace",
-      "shortTitle": "Cherry Hill @ College Park Marketplace",
-      "stopId": "36476",
-      "tag": "cpmark",
-      "lat": "39.0160182"
-    },
-    "cher9348": {
-      "lon": "-76.9393998",
-      "title": "Seven Springs Apts at 9348 Cherry Hill Rd",
-      "shortTitle": "Seven Springs Apts @ 9348 Cherry Hill",
-      "stopId": "27800",
-      "tag": "cher9348",
-      "lat": "39.0169401"
-    },
-    "ssvill": {
-      "lon": "-76.9394283",
-      "title": "Seven Springs Apts at 9310 Cherry Hill Rd",
-      "shortTitle": "Seven Springs Apts @ 9310 Cherry Hill",
-      "stopId": "27420",
-      "tag": "ssvill",
-      "lat": "39.0159991"
-    },
-    "cher9308": {
-      "lon": "-76.9376829",
-      "title": "Seven Springs Apts at 9308 Cherry Hill Rd",
-      "shortTitle": "Seven Springs Apts @ 9308 Cherry Hill",
-      "stopId": "27816",
-      "tag": "cher9308",
-      "lat": "39.0178782"
-    },
-    "cher47th": {
-      "lon": "-76.9321727",
-      "title": "Cherry Hill Rd and 47th Ave",
-      "shortTitle": "Cherry Hill & 47th",
-      "stopId": "36154",
-      "tag": "cher47th",
-      "lat": "39.0165878"
+      "tag": "rhodshop",
+      "lat": "39.0138375"
     },
     "mazz": {
       "lon": "-76.9300394",
@@ -2772,36 +3079,153 @@
       "tag": "mazz",
       "lat": "39.0111215"
     },
-    "baltberw_in": {
-      "lon": "-76.9318288",
+    "baltberw_s": {
+      "lon": "-76.931829",
       "title": "Baltimore Ave and Berwyn Rd (Inbound)",
       "shortTitle": "Baltimore & Berwyn (Inbound)",
       "stopId": "30352",
-      "tag": "baltberw_in",
-      "lat": "38.9964082"
+      "tag": "baltberw_s",
+      "lat": "38.996407"
     },
     "baltqueb_in": {
-      "lon": "-76.9323638",
+      "lon": "-76.932356",
       "title": "Baltimore Ave and Quebec St (Inbound)",
       "shortTitle": "Baltimore & Quebec (Inbound)",
       "stopId": "27006",
       "tag": "baltqueb_in",
-      "lat": "38.9946057"
+      "lat": "38.9946243"
     },
     "varsfron": {
-      "lon": "-76.9340075",
+      "lon": "-76.9340076",
       "title": "Baltimore Ave at The Varsity",
       "shortTitle": "Baltimore @ The Varsity",
       "stopId": "29789",
       "tag": "varsfron",
+      "lat": "38.9908311"
+    },
+    "dent_e": {
+      "lon": "-76.9500943",
+      "title": "Denton Hall",
+      "stopId": "36424",
+      "tag": "dent_e",
+      "lat": "38.9919412"
+    },
+    "enclave_s": {
+      "lon": "-76.93182",
+      "title": "The Enclave",
+      "stopId": "37121",
+      "tag": "enclave_s",
+      "lat": "38.99782"
+    },
+    "vars": {
+      "lon": "-76.9340075",
+      "title": "Baltimore Ave at The Varsity",
+      "shortTitle": "Baltimore @ The Varsity",
+      "stopId": "29789",
+      "tag": "vars",
       "lat": "38.9908313"
     },
-    "painglen": {
-      "lon": "-76.9372416",
+    "camb_out": {
+      "lon": "-76.9438804",
+      "title": "Cambridge Hall (Outbound)",
+      "stopId": "48069",
+      "tag": "camb_out",
+      "lat": "38.9915013"
+    },
+    "laplat_out": {
+      "lon": "-76.945597",
+      "title": "La Plata Hall (Outbound)",
+      "stopId": "48070",
+      "tag": "laplat_out",
+      "lat": "38.9928692"
+    },
+    "hage_out": {
+      "lon": "-76.9477048",
+      "title": "Hagerstown Hall (Outbound)",
+      "stopId": "48071",
+      "tag": "hage_out",
+      "lat": "38.9930112"
+    },
+    "elkton_out": {
+      "lon": "-76.9486289",
+      "title": "Elkton Hall (Outbound)",
+      "stopId": "48072",
+      "tag": "elkton_out",
+      "lat": "38.992501"
+    },
+    "vallstad": {
+      "lon": "-76.949457",
+      "title": "Valley Drive at Stadium Drive Garage (Outbound)",
+      "shortTitle": "Valley Drive @ Stadium Drive Garage (Outbound)",
+      "stopId": "48073",
+      "tag": "vallstad",
+      "lat": "38.9902296"
+    },
+    "benj": {
+      "lon": "-76.9471001",
+      "title": "Benjamin Building",
+      "stopId": "48074",
+      "tag": "benj",
+      "lat": "38.987176"
+    },
+    "amersafe": {
+      "lon": "-76.9522059",
+      "title": "America Boulevard at Safeway",
+      "shortTitle": "America @ Safeway",
+      "stopId": "48061",
+      "tag": "amersafe",
+      "lat": "38.9674012"
+    },
+    "amerregal": {
+      "lon": "-76.952074",
+      "title": "America Boulevard at Regal Cinemas Hyattsville",
+      "shortTitle": "America @ Regal Cinemas Hyattsville",
+      "stopId": "48062",
+      "tag": "amerregal",
+      "lat": "38.9689218"
+    },
+    "guilrowa_in": {
+      "lon": "-76.9390836",
+      "title": "Guilford Drive and Rowalt Drive (Inbound)",
+      "shortTitle": "Guilford Drive & Rowalt Drive (Inbound)",
+      "stopId": "37103",
+      "tag": "guilrowa_in",
+      "lat": "38.9781553"
+    },
+    "hage_in": {
+      "lon": "-76.9475987",
+      "title": "Hagerstown Hall (Inbound)",
+      "stopId": "27514",
+      "tag": "hage_in",
+      "lat": "38.99297"
+    },
+    "laplat_in": {
+      "lon": "-76.94563",
+      "title": "La Plata Hall (Inbound)",
+      "stopId": "27197",
+      "tag": "laplat_in",
+      "lat": "38.9922184"
+    },
+    "camb_in": {
+      "lon": "-76.9430216",
+      "title": "Cambridge Hall (Inbound)",
+      "stopId": "36274",
+      "tag": "camb_in",
+      "lat": "38.9914204"
+    },
+    "painglen_ob": {
+      "lon": "-76.93725",
       "title": "Glenn L. Martin Wind Tunnel",
       "stopId": "30500",
-      "tag": "painglen",
-      "lat": "38.9899587"
+      "tag": "painglen_ob",
+      "lat": "38.98995"
+    },
+    "painglen_ib": {
+      "lon": "-76.93725",
+      "title": "Glenn L. Martin Wind Tunnel",
+      "stopId": "30500",
+      "tag": "painglen_ib",
+      "lat": "38.98995"
     },
     "wdiapknr_d": {
       "lon": "-77.211631",
@@ -2818,13 +3242,6 @@
       "tag": "brokride",
       "lat": "39.174232"
     },
-    "dent_e": {
-      "lon": "-76.9500943",
-      "title": "Denton Hall",
-      "stopId": "36424",
-      "tag": "dent_e",
-      "lat": "38.9919412"
-    },
     "greeseve_ob": {
       "lon": "-76.9244527",
       "title": "Greenbelt Rd at Severn Building (Outbound)",
@@ -2832,6 +3249,14 @@
       "stopId": "37094",
       "tag": "greeseve_ob",
       "lat": "38.99809"
+    },
+    "greestat_ob": {
+      "lon": "-76.9183707",
+      "title": "Greenbelt Road and Greenbelt Station Parkway (Outbound)",
+      "shortTitle": "Greenbelt & Greenbelt Station Parkway (Outbound)",
+      "stopId": "37400",
+      "tag": "greestat_ob",
+      "lat": "38.9980441"
     },
     "gree60th_ob": {
       "lon": "-76.9126796",
@@ -3174,6 +3599,14 @@
       "stopId": "37001",
       "tag": "gree60th_ib",
       "lat": "38.9972712"
+    },
+    "greestat_ib": {
+      "lon": "-76.918404",
+      "title": "Greenbelt Road and Greenbelt Station Parkway (Inbound)",
+      "shortTitle": "Greenbelt & Greenbelt Station Parkway (Inbound)",
+      "stopId": "37401",
+      "tag": "greestat_ib",
+      "lat": "38.9981455"
     },
     "greerhod_ib": {
       "lon": "-76.9254433",

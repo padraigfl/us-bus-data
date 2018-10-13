@@ -4,6 +4,141 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "State Center (Metro)",
+        "tag": "stcent",
+        "stopId": "39001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6228338,
+          39.3017091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Meyerhoff Symphony Hall",
+        "tag": "meysymp",
+        "stopId": "39004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6190986,
+          39.303462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maryland Avenue Garage(To Campus)",
+        "tag": "marygar",
+        "stopId": "39005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6176602,
+          39.3033375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chase St & Maryland Av",
+        "tag": "charmary",
+        "stopId": "39012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6181275,
+          39.302314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fitzgerald Garage",
+        "tag": "fitzgar",
+        "stopId": "39008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.619297,
+          39.30785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Robert L. Bogomolny Library",
+        "tag": "langlib",
+        "stopId": "39009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6176374,
+          39.306237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Student Center",
+        "tag": "acadcen",
+        "stopId": "39013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6169892,
+          39.3054029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Preston St. and Charles St.",
+        "tag": "charpres",
+        "stopId": "39014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6159296,
+          39.3044976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Preston St. and Maryland Ave.",
+        "tag": "anncath",
+        "stopId": "39015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6173261,
+          39.3044466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Pearl St Garage",
         "tag": "peargara_d",
         "stopId": "47000"
@@ -88,21 +223,6 @@
         "coordinates": [
           -76.6243629,
           39.2845546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Washington Blvd & Martin Luther King Jr Blvd",
-        "tag": "washmlk",
-        "stopId": "47013"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6258074,
-          39.2836365
         ]
       }
     },
@@ -604,21 +724,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Charles St and Preston St",
-        "tag": "charpres",
-        "stopId": "47047"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6160807,
-          39.3042912
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Charles St & Penn Station",
         "tag": "charpenn",
         "stopId": "47055"
@@ -748,21 +853,6 @@
         "coordinates": [
           -76.6142719,
           39.294306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "St Paul & Saratoga St",
-        "tag": "paulsara",
-        "stopId": "47058"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6141345,
-          39.2924957
         ]
       }
     },
@@ -1669,60 +1759,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Stamp Student Union - Slip",
-        "tag": "stamsu_d",
-        "stopId": "10001"
+        "title": "Regents Drive Garage",
+        "tag": "regdrgar_d",
+        "stopId": "10003"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9439449,
-          38.9876099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dorchester Hall",
-        "tag": "dorchall",
-        "stopId": "48075"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9465439,
-          38.9869687
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Campus Drive and Library Lane",
-        "tag": "camplibr",
-        "stopId": "48076"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9454339,
-          38.9873828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Campus Drive at Edward St. John",
-        "tag": "campedwa",
-        "stopId": "48077"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9414639,
-          38.9875362
+          -76.940772,
+          38.989521
         ]
       }
     },
@@ -1736,8 +1781,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9386063,
-          38.9878607
+          -76.9386053,
+          38.9878609
         ]
       }
     },
@@ -1745,14 +1790,14 @@
       "type": "Feature",
       "properties": {
         "title": "Campus Drive and Diamondback Drive",
-        "tag": "campdiam",
+        "tag": "paingree",
         "stopId": "30561"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9340325,
-          38.9879842
+          -76.934037,
+          38.9879877
         ]
       }
     },
@@ -1766,8 +1811,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9313272,
-          38.9836057
+          -76.9313263,
+          38.9836054
         ]
       }
     },
@@ -1819,30 +1864,30 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Campus Drive at M-Circle",
-        "tag": "campmcir",
-        "stopId": "36288"
+        "title": "Glenn L. Martin Wind Tunnel",
+        "tag": "painglen",
+        "stopId": "30500"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9395204,
-          38.987699
+          -76.9372499,
+          38.9899499
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Regents Drive Garage",
-        "tag": "regegara_d",
-        "stopId": "10003"
+        "title": "Stamp Student Union - Slip",
+        "tag": "stamsu_d",
+        "stopId": "10001"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.94075,
-          38.9895254
+          -76.9439449,
+          38.9876099
         ]
       }
     },
@@ -1901,83 +1946,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9394689,
-          38.9781829
+          -76.939469,
+          38.978183
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Hartwick Road at College Park Shopping Center",
+        "title": "Baltimore Avenue and Hartwick Road (Inbound)",
         "tag": "hartshop",
-        "stopId": "48078"
+        "stopId": "37019"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9385753,
-          38.9797038
+          -76.93783,
+          38.97944
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "South Campus Commons 5 and 6",
-        "tag": "sccomm5_6",
-        "stopId": "34728"
+        "title": "Montgomery Hall (Inbound)",
+        "tag": "mont_in",
+        "stopId": "30473"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9448437,
-          38.9823229
+          -76.9391275,
+          38.9824955
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Preinkert Drive at Lot A",
-        "tag": "lota",
-        "stopId": "36430"
+        "title": "Memorial Chapel (Inbound)",
+        "tag": "memo_in",
+        "stopId": "30027"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9451946,
-          38.9842509
+          -76.94007,
+          38.9845403
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Somerset Hall",
-        "tag": "somehall",
-        "stopId": "27412"
+        "title": "Mitchell Building (Inbound)",
+        "tag": "mitc_in",
+        "stopId": "30494"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9458235,
-          38.9847538
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Anne Arundel Hall",
-        "tag": "annearun",
-        "stopId": "27941"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9469495,
-          38.9859447
+          -76.9401199,
+          38.9863659
         ]
       }
     },
@@ -1992,7 +2022,7 @@
         "type": "Point",
         "coordinates": [
           -76.9406498,
-          38.9900117
+          38.990012
         ]
       }
     },
@@ -2007,7 +2037,7 @@
         "type": "Point",
         "coordinates": [
           -76.9406599,
-          38.9912618
+          38.9912621
         ]
       }
     },
@@ -2021,8 +2051,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.939927,
-          38.9934722
+          -76.9399271,
+          38.9934725
         ]
       }
     },
@@ -2036,7 +2066,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9374813,
+          -76.9374809,
           38.9936299
         ]
       }
@@ -2051,8 +2081,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9374988,
-          38.9953474
+          -76.9374989,
+          38.9953477
         ]
       }
     },
@@ -2066,8 +2096,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9404138,
-          38.9978948
+          -76.940414,
+          38.997895
         ]
       }
     },
@@ -2081,8 +2111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.944471,
-          39.0009111
+          -76.9444714,
+          39.0009112
         ]
       }
     },
@@ -2096,8 +2126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9434988,
-          39.0020474
+          -76.9434987,
+          39.0020477
         ]
       }
     },
@@ -2111,8 +2141,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9425747,
-          39.0030719
+          -76.94257,
+          39.0030898
         ]
       }
     },
@@ -2218,6 +2248,21 @@
         "coordinates": [
           -76.9407074,
           38.9914838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Regents Drive Garage",
+        "tag": "regegara_d",
+        "stopId": "10003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94075,
+          38.9895254
         ]
       }
     },
@@ -2674,21 +2719,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "College Park Academy",
-        "tag": "collpark",
-        "stopId": "31570"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9279211,
-          38.9682923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "M-Square",
         "tag": "msqua",
         "stopId": "34293"
@@ -2696,8 +2726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9229913,
-          38.9707573
+          -76.922991,
+          38.9707579
         ]
       }
     },
@@ -2711,8 +2741,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9261353,
-          38.9698864
+          -76.9261352,
+          38.9698863
         ]
       }
     },
@@ -2728,6 +2758,306 @@
         "coordinates": [
           -76.9283434,
           38.9722045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Campus Dr at Lot 3",
+        "tag": "camplot3",
+        "stopId": "34422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9515395,
+          38.9847421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rhode Island Ave and University Blvd (Outbound)",
+        "tag": "rhoduni",
+        "stopId": "55000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9248359,
+          39.0009914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rhode Island Avenue and Cherokee Street (Outbound)",
+        "tag": "rhodcher",
+        "stopId": "27372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9244471,
+          39.0023874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rhode Island Ave and Fox St (Outbound)",
+        "tag": "rhodindi",
+        "stopId": "27934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92349,
+          39.0059699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rhode Island Avenue and Hollywood Road (Outbound)",
+        "tag": "rhodholl",
+        "stopId": "30366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9221711,
+          39.0108829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rhode Island Ave and Hollywood Shopping Ctr",
+        "tag": "hollshop",
+        "stopId": "30350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.921375,
+          39.0138309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Edgewood Road and Rhode Island Avenue (Outbound)",
+        "tag": "edgerhod",
+        "stopId": "27703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9214099,
+          39.0161096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Edgewood Road and 49th Avenue (Outbound)",
+        "tag": "edge49th",
+        "stopId": "31691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9243329,
+          39.016061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cherry Hill Rd at College Park Marketplace",
+        "tag": "cpmark",
+        "stopId": "36476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9301971,
+          39.0160182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seven Springs Apts at 9348 Cherry Hill Rd",
+        "tag": "cher9348",
+        "stopId": "27800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9393951,
+          39.0169461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seven Springs Apts at 9310 Cherry Hill Rd",
+        "tag": "ssvill",
+        "stopId": "27420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9394283,
+          39.0159991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seven Springs Apts at 9308 Cherry Hill Rd",
+        "tag": "cher9308",
+        "stopId": "27816"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9376829,
+          39.0178782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cherry Hill Rd and 47th Ave",
+        "tag": "cher47th",
+        "stopId": "36154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9321727,
+          39.0165878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Edgewood Rd and 49th Ave (Inbound)",
+        "tag": "edge49th_in",
+        "stopId": "36448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.924331,
+          39.015949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Edgewood Rd and Rhode Island Ave (Inbound)",
+        "tag": "edgerhod_in",
+        "stopId": "27243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9211996,
+          39.01597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rhode Island Avenue and Muskogee Street",
+        "tag": "rhodmusk",
+        "stopId": "37324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9215202,
+          39.0136129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rhode Island Ave and Hollywood Rd (Inbound)",
+        "tag": "rhodholl_in",
+        "stopId": "30378"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9223553,
+          39.0105519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rhode Island Avenue and Fox Street (Outbound)",
+        "tag": "rhodfox",
+        "stopId": "30983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9234763,
+          39.0064427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rhode Island Ave and Cherokee St (Inbound)",
+        "tag": "rhodcher_in",
+        "stopId": "30965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9244616,
+          39.0027034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rhode Island Ave and University Blvd (Inbound)",
+        "tag": "rhoduni_in",
+        "stopId": "37078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9252728,
+          38.9997597
         ]
       }
     },
@@ -3814,45 +4144,165 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hoff Theater",
-        "tag": "hoff",
-        "stopId": "34507"
+        "title": "College Park Shopping Ctr (Outbound)",
+        "tag": "collpksh",
+        "stopId": "30138"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.94539,
-          38.9880686
+          -76.9390277,
+          38.9809619
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Union Ln and Fieldhouse Dr",
-        "tag": "uniofiel",
-        "stopId": "27774"
+        "title": "Ritchie Coliseum",
+        "tag": "baltritc",
+        "stopId": "27291"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.945307,
-          38.9886927
+          -76.9370967,
+          38.9852774
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "BioSciences Research Building",
-        "tag": "biofield",
-        "stopId": "50016"
+        "title": "University View",
+        "tag": "univview",
+        "stopId": "37105"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9421091,
-          38.9892581
+          -76.9338999,
+          38.99234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Baltimore Ave at The Varsity",
+        "tag": "baltvars",
+        "stopId": "29789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9340075,
+          38.9908313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Campus Dr at M Circle",
+        "tag": "mcirc",
+        "stopId": "36288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9395199,
+          38.987699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union Dr at Lot 1b",
+        "tag": "lot1",
+        "stopId": "36495"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9481576,
+          38.9872099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Valley Drive at Stadium Drive Garage",
+        "tag": "cspac",
+        "stopId": "36261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9494,
+          38.9902373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Elkton Hall",
+        "tag": "elk",
+        "stopId": "27227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9485888,
+          38.9924177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hagerstown Hall",
+        "tag": "hage",
+        "stopId": "27514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.947599,
+          38.99297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Plata Hall",
+        "tag": "laplat",
+        "stopId": "27197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94563,
+          38.9922186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cambridge Hall",
+        "tag": "camb",
+        "stopId": "36274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9430218,
+          38.9914205
         ]
       }
     },
@@ -3867,7 +4317,7 @@
         "type": "Point",
         "coordinates": [
           -76.9401999,
-          38.9866486
+          38.9866498
         ]
       }
     },
@@ -3882,7 +4332,7 @@
         "type": "Point",
         "coordinates": [
           -76.94015,
-          38.9848193
+          38.9848206
         ]
       }
     },
@@ -3896,8 +4346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9391512,
-          38.9824311
+          -76.9391529,
+          38.9824312
         ]
       }
     },
@@ -3905,14 +4355,134 @@
       "type": "Feature",
       "properties": {
         "title": "Ritchie Coliseum",
-        "tag": "baltritc",
+        "tag": "baltritc_s",
         "stopId": "27291"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.937097,
-          38.9852768
+          -76.9370967,
+          38.9852774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Campus Dr at M Circle",
+        "tag": "mcirc_s",
+        "stopId": "36288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9394934,
+          38.9877034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hoff Theater",
+        "tag": "hoff",
+        "stopId": "34507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94539,
+          38.9880692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union Ln and Fieldhouse Dr",
+        "tag": "uniofiel",
+        "stopId": "27774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9453067,
+          38.9886932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "BioSciences Research Building",
+        "tag": "biofield",
+        "stopId": "50016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9421089,
+          38.9892576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Courtyards #300",
+        "tag": "cour300",
+        "stopId": "27047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9419255,
+          39.0013104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Courtyards #400",
+        "tag": "cour400",
+        "stopId": "27742"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94271,
+          39.001867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Greenmeade Dr at Maryland 4-H (Inbound)",
+        "tag": "gree",
+        "stopId": "27676"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9433266,
+          39.0026811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Paint Branch Dr at Lot 4b (Inbound)",
+        "tag": "lot4i_r",
+        "stopId": "27522"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9404883,
+          38.9978287
         ]
       }
     },
@@ -3934,21 +4504,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "University View",
-        "tag": "univview",
-        "stopId": "37105"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9339,
-          38.9923399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Baltimore Ave at The Varsity",
         "tag": "varsity",
         "stopId": "29789"
@@ -3964,15 +4519,255 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Campus Dr at M Circle",
-        "tag": "mcirc",
-        "stopId": "36288"
+        "title": "Denton Hall",
+        "tag": "dent",
+        "stopId": "36424"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9394975,
-          38.9877026
+          -76.9500274,
+          38.9919122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Graduate Hills at 3424 Tulane Dr",
+        "tag": "tula3424",
+        "stopId": "27699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9559259,
+          38.9849405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Graduate Hills at 3410 Tulane Dr",
+        "tag": "tula3410",
+        "stopId": "37152"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9572802,
+          38.984739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Graduate Hills at 3404 Tulane Dr",
+        "tag": "tula3403",
+        "stopId": "27023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95824,
+          38.9846822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Campus Dr at UMUC Lot 19",
+        "tag": "camplot19",
+        "stopId": "36120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9544776,
+          38.9852911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University Methodist Church",
+        "tag": "univbapt",
+        "stopId": "34894"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9524262,
+          38.9848573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Van Munching Hall (Inbound)",
+        "tag": "hillmunc",
+        "stopId": "27075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9482112,
+          38.9830167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "LDS Institute of Religion",
+        "tag": "lds",
+        "stopId": "27533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9471916,
+          38.9822297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Campus Commons 1 & 2",
+        "tag": "sccomm1_2",
+        "stopId": "27505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9434585,
+          38.9823305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Graduate Gardens at 4315 Rowalt Dr",
+        "tag": "4315rwlt",
+        "stopId": "37118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9414545,
+          38.9788425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Graduate Gardens at 4327 Rowalt Dr",
+        "tag": "4327rwlt",
+        "stopId": "34958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9400307,
+          38.9782048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Baltimore Ave and Hartwick Rd (Inbound)",
+        "tag": "balthart_in",
+        "stopId": "37019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93783,
+          38.9794663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shoemaker Building",
+        "tag": "shoebuil",
+        "stopId": "37232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9421853,
+          38.9838654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lot Y and Chapel Dr",
+        "tag": "loty",
+        "stopId": "34511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9417399,
+          38.9843599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glenn L. Martin Wind Tunnel",
+        "tag": "painstad_r",
+        "stopId": "30500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9372506,
+          38.9899585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "A.V. Williams Building",
+        "tag": "avwill",
+        "stopId": "27863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93726,
+          38.9909815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Paint Branch Dr and Technology Dr",
+        "tag": "techpain",
+        "stopId": "27973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93727,
+          38.9925816
         ]
       }
     },
@@ -3988,21 +4783,6 @@
         "coordinates": [
           -76.9439438,
           38.9876098
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "College Park Shopping Ctr (Outbound)",
-        "tag": "collpksh",
-        "stopId": "30138"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9390277,
-          38.9809619
         ]
       }
     },
@@ -4219,90 +4999,105 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Union Dr at Lot 1b",
-        "tag": "lot1",
-        "stopId": "36495"
+        "title": "South Campus Commons 5 and 6",
+        "tag": "sccomm5_6",
+        "stopId": "34728"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9481578,
-          38.9872099
+          -76.9448437,
+          38.9823229
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Valley Drive at Stadium Drive Garage",
-        "tag": "cspac",
-        "stopId": "36261"
+        "title": "Preinkert Drive at Lot A",
+        "tag": "lota",
+        "stopId": "36430"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9494,
-          38.9902373
+          -76.9451946,
+          38.9842509
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Elkton Hall",
-        "tag": "elk",
-        "stopId": "27227"
+        "title": "Somerset Hall",
+        "tag": "somehall",
+        "stopId": "27412"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9485776,
-          38.9924819
+          -76.9458235,
+          38.9847538
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Hagerstown Hall",
-        "tag": "hage",
-        "stopId": "27514"
+        "title": "Anne Arundel Hall",
+        "tag": "annearun",
+        "stopId": "27941"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9475896,
-          38.99297
+          -76.9469495,
+          38.9859448
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "La Plata Hall",
-        "tag": "laplat",
-        "stopId": "27197"
+        "title": "Dorchester Hall",
+        "tag": "dorchall",
+        "stopId": "48075"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9456303,
-          38.9922129
+          -76.9465401,
+          38.9869691
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Cambridge Hall",
-        "tag": "camb",
-        "stopId": "36274"
+        "title": "Division of IT",
+        "tag": "diviofit",
+        "stopId": "31571"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9430102,
-          38.99142
+          -76.923247,
+          38.9691629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Universities at Shady Grove",
+        "tag": "univshad",
+        "stopId": "34777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.199467,
+          39.0917039
         ]
       }
     },
@@ -4384,30 +5179,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Riverdale Rd at St. Bernard's Church",
-        "tag": "rivstber_n",
-        "stopId": "37035"
+        "title": "Riverdale Rd and 63rd Ave",
+        "tag": "rivd63rd",
+        "stopId": "48083"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9156512,
-          38.9599499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Riverdale Rd and 61st Place",
-        "tag": "rivd61st",
-        "stopId": "37080"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9122848,
-          38.9604936
+          -76.9100993,
+          38.9609676
         ]
       }
     },
@@ -4541,8 +5321,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8752215,
-          38.9585215
+          -76.8752214,
+          38.9585214
         ]
       }
     },
@@ -4564,15 +5344,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Annapolis Rd and Finns Ln",
-        "tag": "annafinn",
-        "stopId": "37009"
+        "title": "Harkins Rd and Annapolis Rd",
+        "tag": "harkanna",
+        "stopId": "48081"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8782143,
-          38.953008
+          -76.8776441,
+          38.9523513
         ]
       }
     },
@@ -4586,8 +5366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8728252,
-          38.9488713
+          -76.872531,
+          38.950275
         ]
       }
     },
@@ -4602,7 +5382,7 @@
         "type": "Point",
         "coordinates": [
           -76.86878,
-          38.9538914
+          38.9538912
         ]
       }
     },
@@ -4617,7 +5397,7 @@
         "type": "Point",
         "coordinates": [
           -76.8682799,
-          38.9560196
+          38.9560194
         ]
       }
     },
@@ -4632,7 +5412,7 @@
         "type": "Point",
         "coordinates": [
           -76.8697998,
-          38.9595986
+          38.9595984
         ]
       }
     },
@@ -4647,7 +5427,7 @@
         "type": "Point",
         "coordinates": [
           -76.86988,
-          38.9607899
+          38.9607897
         ]
       }
     },
@@ -4661,8 +5441,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.870233,
-          38.9623384
+          -76.8702329,
+          38.9623382
         ]
       }
     },
@@ -4676,8 +5456,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8715632,
-          38.9642509
+          -76.8715631,
+          38.9642507
         ]
       }
     },
@@ -4691,8 +5471,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8730068,
-          38.9655377
+          -76.8730066,
+          38.9655375
         ]
       }
     },
@@ -4706,7 +5486,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.88028,
+          -76.8802797,
           38.9658
         ]
       }
@@ -4721,8 +5501,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8798725,
-          38.967877
+          -76.8798726,
+          38.9678768
         ]
       }
     },
@@ -4736,8 +5516,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8801134,
-          38.9693726
+          -76.8801133,
+          38.9693724
         ]
       }
     },
@@ -4752,7 +5532,7 @@
         "type": "Point",
         "coordinates": [
           -76.8807906,
-          38.971853
+          38.9718528
         ]
       }
     },
@@ -4766,8 +5546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8821713,
-          38.974663
+          -76.8821712,
+          38.9746629
         ]
       }
     },
@@ -4781,8 +5561,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8838802,
-          38.9749699
+          -76.8838799,
+          38.97497
         ]
       }
     },
@@ -4796,8 +5576,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8864037,
-          38.9746888
+          -76.8864035,
+          38.9746889
         ]
       }
     },
@@ -4811,8 +5591,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8912735,
-          38.9725314
+          -76.8912732,
+          38.9725315
         ]
       }
     },
@@ -4826,8 +5606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8937951,
-          38.971487
+          -76.893795,
+          38.9714872
         ]
       }
     },
@@ -4841,8 +5621,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.894813,
-          38.9691257
+          -76.8948129,
+          38.9691259
         ]
       }
     },
@@ -4856,8 +5636,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.89604,
-          38.9663098
+          -76.8960399,
+          38.96631
         ]
       }
     },
@@ -4872,7 +5652,7 @@
         "type": "Point",
         "coordinates": [
           -76.8966299,
-          38.96503
+          38.9650301
         ]
       }
     },
@@ -5029,21 +5809,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Guilford Drive and Rowalt Drive (Inbound)",
-        "tag": "guilrowa_in",
-        "stopId": "37103"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9391156,
-          38.978184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Campus Dr at Math Slip",
         "tag": "campmath_m",
         "stopId": "36112"
@@ -5066,7 +5831,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9331918,
+          -76.9331919,
           38.9923857
         ]
       }
@@ -5081,8 +5846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9322314,
-          38.994596
+          -76.9322248,
+          38.9946079
         ]
       }
     },
@@ -5096,188 +5861,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9317425,
-          38.9961507
+          -76.9317454,
+          38.9961091
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Rhode Island Ave and University Blvd (Outbound)",
-        "tag": "rhoduni",
+        "title": "Rhode Island Avenue and University Boulevard (Outbound)",
+        "tag": "rhoduniv",
         "stopId": "55000"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9248489,
-          39.0009936
+          -76.92481,
+          39.0009848
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Rhode Island Avenue and Cherokee Street (Outbound)",
-        "tag": "rhodcher",
-        "stopId": "27372"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9244253,
-          39.0024456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rhode Island Ave and Fox St (Outbound)",
-        "tag": "rhodindi",
-        "stopId": "27934"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9234933,
-          39.0059584
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rhode Island Avenue and Hollywood Road (Outbound)",
-        "tag": "rhodholl",
-        "stopId": "30366"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9221672,
-          39.0108975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rhode Island Ave and Hollywood Shopping Ctr",
-        "tag": "hollshop",
+        "title": "Rhode Island Avenue at Hollywood Shopping Center",
+        "tag": "rhodshop",
         "stopId": "30350"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9213738,
-          39.0138351
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Edgewood Road and Rhode Island Avenue (Outbound)",
-        "tag": "edgerhod",
-        "stopId": "27703"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9214099,
-          39.0161096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Edgewood Road and 49th Avenue (Outbound)",
-        "tag": "edge49th",
-        "stopId": "31691"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9243369,
-          39.016061
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cherry Hill Rd at College Park Marketplace",
-        "tag": "cpmark",
-        "stopId": "36476"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9301971,
-          39.0160182
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Seven Springs Apts at 9348 Cherry Hill Rd",
-        "tag": "cher9348",
-        "stopId": "27800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9393998,
-          39.0169401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Seven Springs Apts at 9310 Cherry Hill Rd",
-        "tag": "ssvill",
-        "stopId": "27420"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9394283,
-          39.0159991
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Seven Springs Apts at 9308 Cherry Hill Rd",
-        "tag": "cher9308",
-        "stopId": "27816"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9376829,
-          39.0178782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cherry Hill Rd and 47th Ave",
-        "tag": "cher47th",
-        "stopId": "36154"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9321727,
-          39.0165878
+          -76.9213841,
+          39.0138375
         ]
       }
     },
@@ -5300,14 +5915,14 @@
       "type": "Feature",
       "properties": {
         "title": "Baltimore Ave and Berwyn Rd (Inbound)",
-        "tag": "baltberw_in",
+        "tag": "baltberw_s",
         "stopId": "30352"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9318288,
-          38.9964082
+          -76.931829,
+          38.996407
         ]
       }
     },
@@ -5321,8 +5936,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9323638,
-          38.9946057
+          -76.932356,
+          38.9946243
         ]
       }
     },
@@ -5336,6 +5951,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.9340076,
+          38.9908311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Denton Hall",
+        "tag": "dent_e",
+        "stopId": "36424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9500943,
+          38.9919412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Enclave",
+        "tag": "enclave_s",
+        "stopId": "37121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93182,
+          38.99782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Baltimore Ave at The Varsity",
+        "tag": "vars",
+        "stopId": "29789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.9340075,
           38.9908313
         ]
@@ -5344,15 +6004,210 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Cambridge Hall (Outbound)",
+        "tag": "camb_out",
+        "stopId": "48069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9438804,
+          38.9915013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Plata Hall (Outbound)",
+        "tag": "laplat_out",
+        "stopId": "48070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.945597,
+          38.9928692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hagerstown Hall (Outbound)",
+        "tag": "hage_out",
+        "stopId": "48071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9477048,
+          38.9930112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Elkton Hall (Outbound)",
+        "tag": "elkton_out",
+        "stopId": "48072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9486289,
+          38.992501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Valley Drive at Stadium Drive Garage (Outbound)",
+        "tag": "vallstad",
+        "stopId": "48073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.949457,
+          38.9902296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Benjamin Building",
+        "tag": "benj",
+        "stopId": "48074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9471001,
+          38.987176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "America Boulevard at Safeway",
+        "tag": "amersafe",
+        "stopId": "48061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9522059,
+          38.9674012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "America Boulevard at Regal Cinemas Hyattsville",
+        "tag": "amerregal",
+        "stopId": "48062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.952074,
+          38.9689218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Guilford Drive and Rowalt Drive (Inbound)",
+        "tag": "guilrowa_in",
+        "stopId": "37103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9390836,
+          38.9781553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hagerstown Hall (Inbound)",
+        "tag": "hage_in",
+        "stopId": "27514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9475987,
+          38.99297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Plata Hall (Inbound)",
+        "tag": "laplat_in",
+        "stopId": "27197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94563,
+          38.9922184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cambridge Hall (Inbound)",
+        "tag": "camb_in",
+        "stopId": "36274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9430216,
+          38.9914204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Glenn L. Martin Wind Tunnel",
-        "tag": "painglen",
+        "tag": "painglen_ob",
         "stopId": "30500"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9372416,
-          38.9899587
+          -76.93725,
+          38.98995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glenn L. Martin Wind Tunnel",
+        "tag": "painglen_ib",
+        "stopId": "30500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93725,
+          38.98995
         ]
       }
     },
@@ -5389,21 +6244,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Denton Hall",
-        "tag": "dent_e",
-        "stopId": "36424"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9500943,
-          38.9919412
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Greenbelt Rd at Severn Building (Outbound)",
         "tag": "greeseve_ob",
         "stopId": "37094"
@@ -5413,6 +6253,21 @@
         "coordinates": [
           -76.9244527,
           38.99809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Greenbelt Road and Greenbelt Station Parkway (Outbound)",
+        "tag": "greestat_ob",
+        "stopId": "37400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9183707,
+          38.9980441
         ]
       }
     },
@@ -6058,6 +6913,21 @@
         "coordinates": [
           -76.9119102,
           38.9972712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Greenbelt Road and Greenbelt Station Parkway (Inbound)",
+        "tag": "greestat_ib",
+        "stopId": "37401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.918404,
+          38.9981455
         ]
       }
     },

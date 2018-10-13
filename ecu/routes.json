@@ -6,26 +6,27 @@
       "tag": "301",
       "oppositeColor": "000000",
       "max": [
-        35.6081862,
-        -77.3619099
+        35.6078442,
+        -77.36191
       ],
       "min": [
         35.5898861,
-        -77.37106
+        -77.371977
       ],
       "stops": {
-        "Curry_Court": [
-          "mendwend_d",
-          "chil0th",
-          "collhill_w",
-          "stratford"
-        ],
-        "Mendenhall": [
+        "Main_Campus Student Center": [
           "currcour",
           "charfick",
           "fick",
           "collhill_e",
           "brew10th"
+        ],
+        "Curry_Court": [
+          "mainstud",
+          "cota8th",
+          "chil0th",
+          "collhill_w",
+          "stratford"
         ]
       }
     },
@@ -36,25 +37,54 @@
       "oppositeColor": "ffffff",
       "max": [
         35.6130095,
-        -77.3703942
+        -77.3679036
       ],
       "min": [
-        35.6081849,
-        -77.4054889
+        35.6056408,
+        -77.405489
       ],
       "stops": {
-        "Mendenhall": [
+        "Main_Campus Student Center": [
           "healscib",
-          "medipavi",
           "lwileast",
           "zetahous_i"
         ],
         "Health_Sciences": [
-          "mendwend_d",
+          "mainstud",
           "zetahous_o",
           "lwilwest",
           "brod",
           "healstud"
+        ]
+      }
+    },
+    "303": {
+      "title": "303 Blue",
+      "color": "1c3f95",
+      "tag": "303",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6078442,
+        -77.363208
+      ],
+      "min": [
+        35.574505,
+        -77.384389
+      ],
+      "stops": {
+        "Lynncroft_Shopping Center": [
+          "mainstud",
+          "cota8th",
+          "collhill_ob",
+          "greenmall",
+          "publix",
+          "univcomm"
+        ],
+        "Main_Campus Student Center": [
+          "bbuy",
+          "oldn",
+          "greemall",
+          "collhill_ib"
         ]
       }
     },
@@ -69,25 +99,356 @@
       ],
       "min": [
         35.6044281,
-        -77.3752614
+        -77.3752611
       ],
       "stops": {
-        "First_St Place": [
-          "mendwend_d",
-          "cota10th",
-          "evan9th_ob",
-          "readchic",
-          "finhub",
-          "wash2nd"
-        ],
-        "Mendenhall": [
+        "Main_Campus Student Center": [
           "firsplac",
           "cota4th",
           "univbook",
+          "readchic_i",
           "summ5th",
           "foun5th",
           "spei",
           "chrisgym"
+        ],
+        "First_St Place": [
+          "mainstud",
+          "readchic",
+          "finhub",
+          "wash2nd"
+        ]
+      }
+    },
+    "307": {
+      "title": "307 Walmart",
+      "color": "faa30c",
+      "tag": "307",
+      "oppositeColor": "000000",
+      "max": [
+        35.6078442,
+        -77.308982
+      ],
+      "min": [
+        35.580958,
+        -77.371977
+      ],
+      "stops": {
+        "Main_Campus Student Center": [
+          "walmart_d",
+          "tenuvman",
+          "ten33est",
+          "east10th_i",
+          "collhill_ib"
+        ],
+        "Walmart": [
+          "mainstud",
+          "cota8th",
+          "collhill_ob",
+          "east10th",
+          "tencopp",
+          "hardvill"
+        ]
+      }
+    },
+    "401": {
+      "title": "401 Purple",
+      "color": "472783",
+      "tag": "401",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6044283,
+        -77.3318989
+      ],
+      "min": [
+        35.5953406,
+        -77.3632586
+      ],
+      "stops": {
+        "Christenbury_Gym": [
+          "canncour",
+          "eastbkap",
+          "camppt",
+          "10thverd",
+          "vilg10th_ib",
+          "east10th_i",
+          "cyprgard"
+        ],
+        "Cannon_Court": [
+          "chrisgym",
+          "univpkap",
+          "collpkap",
+          "10thbrow",
+          "east10th",
+          "vilg10th_ob",
+          "10thceda",
+          "eastvill"
+        ]
+      }
+    },
+    "402": {
+      "title": "402 Brown",
+      "color": "0581e0",
+      "tag": "402",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6128562,
+        -77.3419499
+      ],
+      "min": [
+        35.6066214,
+        -77.36125
+      ],
+      "stops": {
+        "River_Walk": [
+          "spei",
+          "vgrn5th",
+          "beachvil"
+        ],
+        "Speight": [
+          "rivrwalk",
+          "univterr",
+          "gablbrow",
+          "browwynd",
+          "wyndwill",
+          "ashwill",
+          "ash1st",
+          "oakwill",
+          "willelm"
+        ]
+      }
+    },
+    "501": {
+      "title": "501 33 East",
+      "color": "601951",
+      "tag": "501",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6068901,
+        -77.3277356
+      ],
+      "min": [
+        35.598728,
+        -77.3617302
+      ],
+      "stops": {
+        "Speight": [
+          "pirtcove_offc",
+          "pirtcove_phs2"
+        ],
+        "33_East": [
+          "spei"
+        ]
+      }
+    },
+    "502": {
+      "title": "502 The Davis",
+      "color": "064f8b",
+      "tag": "502",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6068901,
+        -77.3191517
+      ],
+      "min": [
+        35.5937961,
+        -77.3617302
+      ],
+      "stops": {
+        "The_Davis": [
+          "spei",
+          "univmanb"
+        ],
+        "Speight": [
+          "univmanf"
+        ]
+      }
+    },
+    "503": {
+      "title": "503 Sunchase",
+      "color": "fecd6b",
+      "tag": "503",
+      "oppositeColor": "000000",
+      "max": [
+        35.6066999,
+        -77.33382
+      ],
+      "min": [
+        35.6029836,
+        -77.36125
+      ],
+      "stops": {
+        "Speight": [
+          "sunfront",
+          "sunback"
+        ],
+        "Sunchase:_Front": [
+          "spei"
+        ]
+      }
+    },
+    "504": {
+      "title": "504 The Landing",
+      "color": "542c7a",
+      "tag": "504",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6044277,
+        -77.3542976
+      ],
+      "min": [
+        35.573032,
+        -77.3636961
+      ],
+      "stops": {
+        "Christenbury_Gym": [
+          "land"
+        ],
+        "The_Landing": [
+          "chrisgym",
+          "greecent",
+          "hyde"
+        ]
+      }
+    },
+    "505": {
+      "title": "505 Paramount 3800",
+      "color": "00aa4f",
+      "tag": "505",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.62895,
+        -77.32647
+      ],
+      "min": [
+        35.6066999,
+        -77.3617302
+      ],
+      "stops": {
+        "Speight": [
+          "ncamcros"
+        ],
+        "Paramount_3800": [
+          "spei"
+        ]
+      }
+    },
+    "506": {
+      "title": "506 University Suites",
+      "color": "086038",
+      "tag": "506",
+      "shortTitle": "506 Univ Suites",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6044277,
+        -77.363255
+      ],
+      "min": [
+        35.590877,
+        -77.3820659
+      ],
+      "stops": {
+        "Univ_Suites": [
+          "chrisgym"
+        ],
+        "University_Suites": [
+          "univsuit"
+        ]
+      }
+    },
+    "507": {
+      "title": "507 Copper Beech",
+      "color": "993233",
+      "tag": "507",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6044277,
+        -77.3272112
+      ],
+      "min": [
+        35.5953008,
+        -77.363255
+      ],
+      "stops": {
+        "Christenbury_Gym": [
+          "copbphs2",
+          "copbback",
+          "copbclub"
+        ],
+        "Copper_Beech": [
+          "chrisgym"
+        ]
+      }
+    },
+    "508": {
+      "title": "508 The Bellamy",
+      "color": "b51f63",
+      "tag": "508",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.604428,
+        -77.3482375
+      ],
+      "min": [
+        35.5591889,
+        -77.3632566
+      ],
+      "stops": {
+        "Christenbury_Gym": [
+          "bell",
+          "signatur"
+        ],
+        "The_Bellamy": [
+          "chrisgym"
+        ]
+      }
+    },
+    "551": {
+      "title": "551 The Davis/33 East",
+      "color": "5d5d8b",
+      "tag": "551",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6068901,
+        -77.31919
+      ],
+      "min": [
+        35.5937982,
+        -77.3617302
+      ],
+      "stops": {
+        "Speight": [
+          "univmanb",
+          "univmanf",
+          "pirtcove_offc",
+          "pirtcove_phs2"
+        ],
+        "The_Davis: Back": [
+          "spei"
+        ]
+      }
+    },
+    "555": {
+      "title": "555 North Rec Complex/Paramount 3800",
+      "color": "00aa4f",
+      "tag": "555",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6292949,
+        -77.319864
+      ],
+      "min": [
+        35.6066999,
+        -77.36125
+      ],
+      "stops": {
+        "Speight": [
+          "nrecfield",
+          "nrecboat",
+          "ncamcros"
+        ],
+        "N_Rec Complex": [
+          "spei"
         ]
       }
     },
@@ -134,6 +495,7 @@
           "camppt",
           "10thverd",
           "vilg10th_ib",
+          "east10th_i",
           "cyprgard"
         ],
         "Cannon_Court": [
@@ -141,6 +503,7 @@
           "univpkap",
           "collpkap",
           "10thbrow",
+          "east10th",
           "vilg10th_ob",
           "10thceda",
           "eastvill"
@@ -238,7 +601,7 @@
       }
     },
     "805": {
-      "title": "805 North Rec Complex/North Campus Crsng",
+      "title": "805 North Rec Complex/Paramount 3800",
       "color": "00aa4f",
       "tag": "805",
       "oppositeColor": "ffffff",
@@ -280,6 +643,234 @@
         ],
         "University_Suites": [
           "chrisgym"
+        ]
+      }
+    },
+    "850": {
+      "title": "850 Gold",
+      "color": "415a68",
+      "tag": "850",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6078442,
+        -77.36191
+      ],
+      "min": [
+        35.589882,
+        -77.371977
+      ],
+      "stops": {
+        "Main_Campus Student Center": [
+          "currcour",
+          "charfick",
+          "fick",
+          "collhill_e",
+          "chrisgym"
+        ],
+        "Curry_Court": [
+          "mainstud",
+          "cota8th",
+          "chil0th",
+          "collhill_w",
+          "piratplc",
+          "stratford"
+        ]
+      }
+    },
+    "901": {
+      "title": "901 Pirate Express - The Davis/33 East",
+      "color": "601951",
+      "tag": "901",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6126074,
+        -77.319152
+      ],
+      "min": [
+        35.5937761,
+        -77.3703781
+      ],
+      "stops": {
+        "Downtown": [
+          "univmanb",
+          "univmanf",
+          "pirtcove_offc",
+          "pirtcove_phs2"
+        ],
+        "The_Davis: Back": [
+          "downtown"
+        ]
+      }
+    },
+    "902": {
+      "title": "902 Pirate Express - The Grid",
+      "color": "e82038",
+      "tag": "902",
+      "shortTitle": "902 PE - Grid",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6138008,
+        -77.3432894
+      ],
+      "min": [
+        35.6067049,
+        -77.3704352
+      ],
+      "stops": {
+        "Riverwalk": [
+          "downtown",
+          "firstsum",
+          "firstwoo",
+          "firsthar",
+          "firstmea",
+          "firstoak",
+          "bronwynd",
+          "brow3rd",
+          "univterr"
+        ],
+        "Downtown": [
+          "riverwal",
+          "villgree",
+          "fifthash",
+          "fifthmea",
+          "fifthhar",
+          "fifthbil",
+          "fifthsum"
+        ]
+      }
+    },
+    "903": {
+      "title": "903 Pirate Express - Sunchase",
+      "color": "fecd6b",
+      "tag": "903",
+      "oppositeColor": "000000",
+      "max": [
+        35.6126074,
+        -77.33383
+      ],
+      "min": [
+        35.6029849,
+        -77.3703781
+      ],
+      "stops": {
+        "Downtown": [
+          "sunfront",
+          "sunback"
+        ],
+        "Sunchase:_Front": [
+          "downtown"
+        ]
+      }
+    },
+    "904": {
+      "title": "904 Pirate Express - The Landing",
+      "color": "831d80",
+      "tag": "904",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6126074,
+        -77.3554919
+      ],
+      "min": [
+        35.572974,
+        -77.3703781
+      ],
+      "stops": {
+        "The_Landing": [
+          "downtown"
+        ],
+        "Downtown": [
+          "land"
+        ]
+      }
+    },
+    "905": {
+      "title": "905 Pirate Express - Paramount 3800",
+      "color": "00aa4f",
+      "tag": "905",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.62895,
+        -77.32647
+      ],
+      "min": [
+        35.6126074,
+        -77.3703781
+      ],
+      "stops": {
+        "Paramount_3800": [
+          "downtown"
+        ],
+        "Downtown": [
+          "ncamcros"
+        ]
+      }
+    },
+    "906": {
+      "title": "906 Pirate Express - University Suites ",
+      "color": "086038",
+      "tag": "906",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6126074,
+        -77.3703781
+      ],
+      "min": [
+        35.590877,
+        -77.3820659
+      ],
+      "stops": {
+        "Downtown": [
+          "univsuit"
+        ],
+        "University_Suites": [
+          "downtown"
+        ]
+      }
+    },
+    "907": {
+      "title": "907 Pirate Express - Copper Beech",
+      "color": "993233",
+      "tag": "907",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6126074,
+        -77.3272059
+      ],
+      "min": [
+        35.5952986,
+        -77.3703781
+      ],
+      "stops": {
+        "Downtown": [
+          "copbback",
+          "copbclub"
+        ],
+        "Copper_Beech: Back": [
+          "downtown",
+          "copbphs2"
+        ]
+      }
+    },
+    "908": {
+      "title": "908 Pirate Express - The Bellamy",
+      "color": "b51f63",
+      "tag": "908",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6126074,
+        -77.3495859
+      ],
+      "min": [
+        35.5591889,
+        -77.3703781
+      ],
+      "stops": {
+        "The_Bellamy": [
+          "downtown"
+        ],
+        "Downtown": [
+          "bell"
         ]
       }
     }

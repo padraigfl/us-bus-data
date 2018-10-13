@@ -184,21 +184,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Middlefield Rd & Lytton Av",
-        "tag": "2200070",
-        "stopId": "57635"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1579099,
-          37.45134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Page Mill Rd & El Camino Real",
         "tag": "2200220",
         "stopId": "55184"
@@ -478,36 +463,6 @@
         "coordinates": [
           -122.1468899,
           37.4174899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Page Mill Rd & #1501",
-        "tag": "2200410",
-        "stopId": "58054"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1498099,
-          37.4139699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Page Mill Rd & Peter Coutts Rd",
-        "tag": "2200420",
-        "stopId": "58108"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1515499,
-          37.4118699
         ]
       }
     },
@@ -1159,6 +1114,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "University Av & Middlefield Rd",
+        "tag": "9904500",
+        "stopId": "51843"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1574399,
+          37.4502099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Union City BART",
         "tag": "31701180"
       },
@@ -1209,20 +1179,6 @@
         "coordinates": [
           -122.15022,
           37.3957699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Deer Creek Rd & Dept Of Interior",
-        "tag": "32200430"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.15,
-          37.3954299
         ]
       }
     },

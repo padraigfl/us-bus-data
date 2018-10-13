@@ -106,8 +106,8 @@
     },
     "paci70": {
       "lon": "-71.1023",
-      "title": "70 Pacific Street",
-      "shortTitle": "70 Pacific",
+      "title": "NW86/70 Pacific Street",
+      "shortTitle": "NW86/70 Pacific",
       "stopId": "40",
       "tag": "paci70",
       "lat": "42.36023"
@@ -195,7 +195,7 @@
     },
     "simmhl": {
       "lon": "-71.1021137",
-      "title": "Simmons Hall",
+      "title": "Simmons hall",
       "stopId": "47",
       "tag": "simmhl",
       "lat": "42.3566937"
@@ -632,6 +632,42 @@
       "stopId": "50",
       "tag": "sydgreen",
       "lat": "42.3624601"
+    },
+    "masehall": {
+      "lon": "-71.094118",
+      "title": "Maseeh Hall",
+      "tag": "masehall",
+      "lat": "42.3578822"
+    },
+    "burtconn": {
+      "lon": "-71.0970162",
+      "title": "Burton Conner",
+      "tag": "burtconn",
+      "lat": "42.356577"
+    },
+    "randhmit": {
+      "lon": "-71.0980307",
+      "title": "Random Hall/MIT Museum",
+      "tag": "randhmit",
+      "lat": "42.3621008"
+    },
+    "nw30ware": {
+      "lon": "-71.1002947",
+      "title": "NW30/Warehouse",
+      "tag": "nw30ware",
+      "lat": "42.3590331"
+    },
+    "costco": {
+      "lon": "-71.0713849",
+      "title": "Costco",
+      "tag": "costco",
+      "lat": "42.396812"
+    },
+    "targ": {
+      "lon": "-71.072323",
+      "title": "Target",
+      "tag": "targ",
+      "lat": "42.398743"
     }
   },
   "copyright": "All data copyright Massachusetts Institute of Technology 2018."

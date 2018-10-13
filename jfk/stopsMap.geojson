@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bus Stop 00, Federal Circle &#8211; Cargo Service Road & Rental Car North",
+        "title": "Bus Stop 00 Federal Circle &#8211; Cargo Service Road & Rental Car North",
         "tag": "fedcirc",
         "stopId": "000"
       },
@@ -71,7 +71,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.7898359,
+          -73.789836,
           40.6616209
         ]
       }
@@ -214,6 +214,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Bus Stop 250  - Post Office North Boundary Road & Old Rockaway Blvd (Building 250)",
+        "tag": "stop250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7663731,
+          40.6530479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Bus Stop 49 &#8211; Eastern Road & Eastern Road (Building 250)",
         "tag": "stop49",
         "stopId": "049"
@@ -289,22 +303,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bus Stop 150 &#8211; 150th Avenue & 148th Street",
-        "tag": "150a148s",
-        "stopId": "150"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.7929416,
-          40.6610322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bus Stop 150 &#8211; 150th Avenue & 148th Street",
+        "title": "Bus Stop 36 &#8211; 150th Avenue & 148th Street",
         "tag": "150a148s_ib",
         "stopId": "150"
       },
@@ -319,7 +318,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bus Stop 903 &#8211; Eastern Road & Eastern Road (Building 77)",
+        "title": "Bus Stop 77 &#8211; Eastern Road & Eastern Road (Building 77)",
         "tag": "stop903",
         "stopId": "903"
       },
@@ -619,7 +618,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Long Term 5",
+        "title": "Long Term 4",
         "tag": "stop4",
         "stopId": "905"
       },

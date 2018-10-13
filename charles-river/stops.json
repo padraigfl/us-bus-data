@@ -8,11 +8,11 @@
       "lat": "42.3665669"
     },
     "muse": {
-      "lon": "-71.0710352",
+      "lon": "-71.0710351",
       "title": "Museum Way",
       "stopId": "02",
       "tag": "muse",
-      "lat": "42.3701444"
+      "lat": "42.3701443"
     },
     "npoin": {
       "lon": "-71.0728855",
@@ -22,7 +22,7 @@
       "lat": "42.3711091"
     },
     "lech": {
-      "lon": "-71.0771129",
+      "lon": "-71.077113",
       "title": "Lechmere",
       "stopId": "04",
       "tag": "lech",
@@ -34,7 +34,7 @@
       "shortTitle": "First",
       "stopId": "05",
       "tag": "1st",
-      "lat": "42.3669455"
+      "lat": "42.3669454"
     },
     "2nd": {
       "lon": "-71.0801663",
@@ -59,49 +59,49 @@
       "tag": "broagali_ob",
       "lat": "42.3643569"
     },
-    "kendsq_d": {
-      "lon": "-71.08581",
-      "title": "Kendall Square",
+    "amesmain": {
+      "lon": "-71.08826",
+      "title": "Ames West/Main",
       "stopId": "09",
-      "tag": "kendsq_d",
-      "lat": "42.36234"
+      "tag": "amesmain",
+      "lat": "42.362385"
     },
-    "amhesloa": {
-      "lon": "-71.0846523",
-      "title": "Amherst St/Sloan",
+    "amesamhe": {
+      "lon": "-71.0876594",
+      "title": "Ames West/Amherst",
       "stopId": "10",
-      "tag": "amhesloa",
-      "lat": "42.3610392"
+      "tag": "amesamhe",
+      "lat": "42.3599367"
     },
     "mass77": {
-      "lon": "-71.093666",
+      "lon": "-71.0936874",
       "title": "77 Mass Ave - MIT",
       "shortTitle": "77 Mass - MIT",
       "stopId": "35",
       "tag": "mass77",
-      "lat": "42.3592534"
+      "lat": "42.3592434"
     },
     "albaedge": {
-      "lon": "-71.0980608",
+      "lon": "-71.0980604",
       "title": "Albany St/Edgerton House",
       "stopId": "36",
       "tag": "albaedge",
-      "lat": "42.359964"
+      "lat": "42.3599642"
     },
     "pacialba": {
-      "lon": "-71.1003563",
+      "lon": "-71.100356",
       "title": "Pacific St/Albany St",
       "shortTitle": "Pacific St/Albany",
       "stopId": "37",
       "tag": "pacialba",
-      "lat": "42.359143"
+      "lat": "42.3591429"
     },
     "paciland": {
-      "lon": "-71.102022",
+      "lon": "-71.1020217",
       "title": "Pacific St/Landsdowne",
       "stopId": "17",
       "tag": "paciland",
-      "lat": "42.3601453"
+      "lat": "42.3601451"
     },
     "erie_d": {
       "lon": "-71.1050348",
@@ -148,43 +148,35 @@
       "tag": "albaport",
       "lat": "42.3614978"
     },
-    "techmain": {
-      "lon": "-71.0913529",
-      "title": "Tech Sq/Main St",
-      "shortTitle": "Tech Sq/Main",
-      "stopId": "41",
-      "tag": "techmain",
-      "lat": "42.3627139"
-    },
-    "kendsq_ib_d": {
-      "lon": "-71.0855159",
-      "title": "Kendall Square (Inbound)",
-      "stopId": "25",
-      "tag": "kendsq_ib_d",
-      "lat": "42.3624169"
+    "vassstat": {
+      "lon": "-71.08966",
+      "title": "Main South/Vassar (500 Main)",
+      "stopId": "24",
+      "tag": "vassstat",
+      "lat": "42.362678"
     },
     "broagali_ib": {
-      "lon": "-71.088742",
+      "lon": "-71.0887421",
       "title": "Broadway/Galileo Way (Inbound)",
       "stopId": "28",
       "tag": "broagali_ib",
       "lat": "42.3645966"
     },
     "6th_ib": {
-      "lon": "-71.0855248",
+      "lon": "-71.0855247",
       "title": "Sixth St (Inbound)",
       "shortTitle": "Sixth (Inbound)",
       "stopId": "29",
       "tag": "6th_ib",
-      "lat": "42.3660046"
+      "lat": "42.3660045"
     },
     "3rd_ib": {
-      "lon": "-71.0819241",
+      "lon": "-71.0805682",
       "title": "Third St (Inbound)",
       "shortTitle": "Third (Inbound)",
       "stopId": "30",
       "tag": "3rd_ib",
-      "lat": "42.3655431"
+      "lat": "42.3653804"
     },
     "1st_ib": {
       "lon": "-71.0777522",
@@ -202,14 +194,14 @@
       "lat": "42.3698613"
     },
     "npoin_ib": {
-      "lon": "-71.0727597",
+      "lon": "-71.0727596",
       "title": "North Point (Inbound)",
       "stopId": "33",
       "tag": "npoin_ib",
-      "lat": "42.3709758"
+      "lat": "42.3709757"
     },
     "muse_ib": {
-      "lon": "-71.0719625",
+      "lon": "-71.0719626",
       "title": "Museum Way (Inbound)",
       "stopId": "34",
       "tag": "muse_ib",
@@ -223,26 +215,12 @@
       "tag": "vassmass",
       "lat": "42.3603974"
     },
-    "vassstat": {
-      "lon": "-71.0903125",
-      "title": "Vassar St/Stata Center",
-      "stopId": "24",
-      "tag": "vassstat",
-      "lat": "42.3623713"
-    },
-    "amhesloa_ib": {
-      "lon": "-71.0846523",
-      "title": "Amherst St/Sloan (Inbound)",
-      "stopId": "26",
-      "tag": "amhesloa_ib",
-      "lat": "42.3610392"
-    },
-    "medilab_ib": {
-      "lon": "-71.0883046",
-      "title": "Ames St/Media Lab (Inbound)",
-      "stopId": "27",
-      "tag": "medilab_ib",
-      "lat": "42.3612888"
+    "massalba": {
+      "lon": "-71.095714",
+      "title": "Mass Ave/Albany",
+      "stopId": "14",
+      "tag": "massalba",
+      "lat": "42.360717"
     }
   },
   "copyright": "All data copyright EZRide - Charles River TMA 2018."

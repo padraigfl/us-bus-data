@@ -79,6 +79,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "TRE Station",
+        "tag": "239",
+        "stopId": "0239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.22305,
+          32.7994999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Berry & Evans",
         "tag": "255",
         "stopId": "0255"
@@ -7587,7 +7602,7 @@
         "type": "Point",
         "coordinates": [
           -97.23734,
-          32.72922
+          32.7292199
         ]
       }
     },
@@ -11291,8 +11306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3578399,
-          32.65946
+          -97.35784,
+          32.6594599
         ]
       }
     },
@@ -12754,6 +12769,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "TCC Southeast C",
+        "tag": "1767",
+        "stopId": "1767"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.07272,
+          32.6399499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Bryant Irvin & Convair",
         "tag": "1768",
         "stopId": "1768"
@@ -12883,6 +12913,21 @@
         "coordinates": [
           -97.34906,
           32.7864799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Private & Campus",
+        "tag": "1786",
+        "stopId": "1786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.19122,
+          32.8442099
         ]
       }
     },
@@ -13048,21 +13093,6 @@
         "coordinates": [
           -97.36369,
           32.7859399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Heritage & World Wide",
-        "tag": "1806",
-        "stopId": "1806"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.30416,
-          32.9919199
         ]
       }
     },
@@ -14839,6 +14869,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Pennsylvania & Adams",
+        "tag": "2057",
+        "stopId": "2057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3366,
+          32.7383999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Hemphill & Fogg",
         "tag": "2058",
         "stopId": "2058"
@@ -15566,8 +15611,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.43474,
-          32.7297099
+          -97.4347399,
+          32.72971
         ]
       }
     },
@@ -15672,7 +15717,7 @@
         "type": "Point",
         "coordinates": [
           -97.2154,
-          32.7542599
+          32.75426
         ]
       }
     },
@@ -19376,7 +19421,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.40985,
+          -97.4098499,
           32.6450999
         ]
       }
@@ -22684,21 +22729,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Heritage & Texas Longhorn",
-        "tag": "3535",
-        "stopId": "3535"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.30037,
-          32.9972799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Angle & Long",
         "tag": "3536",
         "stopId": "3536"
@@ -24889,21 +24919,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Heritage & Texas Longhorn",
-        "tag": "3762",
-        "stopId": "3762"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.30002,
-          32.9971399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Campus & Oak Grove",
         "tag": "3763",
         "stopId": "3763"
@@ -25646,8 +25661,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.2167299,
-          32.73774
+          -97.21673,
+          32.7377399
         ]
       }
     },
@@ -25886,8 +25901,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4348,
-          32.7256199
+          -97.4347999,
+          32.72562
         ]
       }
     },
@@ -28609,36 +28624,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bonnie Brae & Stella",
-        "tag": "4085",
-        "stopId": "4085"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.1614699,
-          33.2136099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "University & Bonnie Brae",
-        "tag": "4086",
-        "stopId": "4086"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.16235,
-          33.2295999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "North Park And Ride Bay#2",
         "tag": "4088",
         "stopId": "4088"
@@ -28648,21 +28633,6 @@
         "coordinates": [
           -97.31862,
           32.9218699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "David Strickland & Willow",
-        "tag": "4089",
-        "stopId": "4089"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.25174,
-          32.6815399
         ]
       }
     },
@@ -28834,21 +28804,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bonnie Brae & Emery",
-        "tag": "4102",
-        "stopId": "4102"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.1611299,
-          33.2283899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "E Loop 820 & Sun Valley",
         "tag": "4104",
         "stopId": "4104"
@@ -28873,6 +28828,21 @@
         "coordinates": [
           -97.16166,
           33.2172699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fouts Field",
+        "tag": "770392",
+        "stopId": "770392"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.15499,
+          33.2093699
         ]
       }
     },
@@ -29334,7 +29304,7 @@
         "type": "Point",
         "coordinates": [
           -97.3712,
-          32.64992
+          32.6499199
         ]
       }
     },
@@ -29347,8 +29317,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.36992,
-          32.6497999
+          -97.3699199,
+          32.6498
         ]
       }
     },
@@ -29895,6 +29865,34 @@
         "coordinates": [
           -97.16746,
           32.7647299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Private & Campus",
+        "tag": "1786_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.19122,
+          32.8442099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "TRE Station",
+        "tag": "239_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.22305,
+          32.7994999
         ]
       }
     },
@@ -30755,8 +30753,22 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Fouts Field",
+        "tag": "770392_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.15499,
+          33.2093699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "I 35 & Oaks",
-        "tag": "1986_ar"
+        "tag": "1986_1"
       },
       "geometry": {
         "type": "Point",
@@ -31155,6 +31167,20 @@
         "coordinates": [
           -97.3712,
           32.6499199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "TCC Southeast C",
+        "tag": "1767_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.07272,
+          32.6399499
         ]
       }
     },

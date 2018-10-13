@@ -1152,14 +1152,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Arundel Rd at 30th St",
+        "title": "Arundel Rd at 29th St",
         "tag": "12_12"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9669291,
-          38.9466454
+          -76.9678764,
+          38.94627
         ]
       }
     },
@@ -1362,20 +1362,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rhode Island Ave at Mt Rainier",
-        "tag": "12_39"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.96001,
-          38.93673
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Rhode Island Ave at 37th St",
         "tag": "12_40"
       },
@@ -1390,14 +1376,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rhode Island Ave at 39th St",
+        "title": "Rhode Island Ave at 38th St",
         "tag": "12_41"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9552088,
-          38.9392507
+          -76.9551786,
+          38.9392717
         ]
       }
     },
@@ -1440,6 +1426,20 @@
         "coordinates": [
           -76.9516816,
           38.9446809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Volta Ave at Rhode Island Ave",
+        "tag": "voltrhod"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9526089,
+          38.9424333
         ]
       }
     },
@@ -1566,20 +1566,6 @@
         "coordinates": [
           -76.9606104,
           38.9550473
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hamilton St at Queens Chapel Rd",
-        "tag": "hamiquee"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9617517,
-          38.9556308
         ]
       }
     },
@@ -2174,6 +2160,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Ager Rd at 23rd Ave",
+        "tag": "ager23rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.974805,
+          38.9669726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "East-West Hwy at Toledo Terr",
         "tag": "easttole_nb"
       },
@@ -2182,6 +2182,20 @@
         "coordinates": [
           -76.9626005,
           38.96698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "East-West Hwy at Metro Center Dr",
+        "tag": "westmetr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.957942,
+          38.9667262
         ]
       }
     },
@@ -2202,42 +2216,42 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Belcrest Rd at 6505 Belcrest Rd",
+        "tag": "belc6505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95399,
+          38.96796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Toledo Rd at Belcrest Rd",
         "tag": "tolebelc_nb"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9530394,
-          38.9698511
+          -76.9538212,
+          38.9696651
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Toledo Rd at Adelphia Rd",
+        "title": "Toledo Rd at Adelphi Rd",
         "tag": "toleadel_nb"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9499952,
-          38.9700001
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Queens Chapel Rd at Belcrest Rd",
-        "tag": "queebelc_nb"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.951395,
-          38.9642398
+          -76.9498017,
+          38.9700077
         ]
       }
     },
@@ -2418,8 +2432,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9485069,
-          38.9516739
+          -76.9485615,
+          38.9517712
         ]
       }
     },
@@ -2530,8 +2544,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.927436,
-          38.978135
+          -76.9274359,
+          38.9781349
         ]
       }
     },
@@ -2930,20 +2944,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "5023 Riverdale Rd",
-        "tag": "14_2_o"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9268677,
-          38.9607872
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Riverdale Rd at Taylor Rd",
         "tag": "14_50"
       },
@@ -3036,20 +3036,6 @@
         "coordinates": [
           -76.9390808,
           38.9631444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Crescent Cities Center",
-        "tag": "14_11_o"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.940492,
-          38.9631882
         ]
       }
     },
@@ -3168,6 +3154,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Belcrest Rd at PG Plaza Metrorail",
+        "tag": "belcpgpl_o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9541497,
+          38.9660498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Prince George's Plaza - Arrival",
         "tag": "pgpl_a"
       },
@@ -3196,14 +3196,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Belcrest Rd at PG Plaza Entrance",
-        "tag": "belcresd"
+        "title": "Belcrest Rd at Opp. PG Plaza Station",
+        "tag": "belcpgpl_i"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.953987,
-          38.9679528
+          -76.954047,
+          38.9669599
         ]
       }
     },
@@ -3288,20 +3288,6 @@
         "coordinates": [
           -76.941963,
           38.9633091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Crescent Cities Center",
-        "tag": "14_11"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9409699,
-          38.9632099
         ]
       }
     },
@@ -4596,20 +4582,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Beltway Plaza Shopping Center",
-        "tag": "beltshop_n"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9119,
-          38.9981499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Breezewood Dr at Cherrywood Ln",
         "tag": "breezewo_n"
       },
@@ -4750,6 +4722,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Cherrywood Ln at Springhill Drive",
+        "tag": "cherspri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9051168,
+          39.0084807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Springhill Dr at Cherrywood Ln",
         "tag": "springhd"
       },
@@ -4764,6 +4750,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Springhill Dr at 6027 Springhill Dr",
+        "tag": "6027spri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9037143,
+          39.0058679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Springhill Ln at Springhill Dr",
         "tag": "springhl"
       },
@@ -4772,20 +4772,6 @@
         "coordinates": [
           -76.9035186,
           39.0057421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Springhill Dr at Springhill Ln",
-        "tag": "16_49"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9025647,
-          39.0045352
         ]
       }
     },
@@ -4862,7 +4848,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Beltway Plaza Shopping Center",
+        "title": "Cherrywood Ln at Greenbelt Rd (MD. RTE. 193)",
         "tag": "beltshop_s"
       },
       "geometry": {
@@ -5240,14 +5226,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lamont Dr at Donoghue Dr",
+        "title": "Lamont Dr at Lamont Pl",
         "tag": "lamontdt"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.88215,
-          38.97443
+          -76.882078,
+          38.974334
         ]
       }
     },
@@ -5261,7 +5247,7 @@
         "type": "Point",
         "coordinates": [
           -76.8809203,
-          38.9722325
+          38.9722329
         ]
       }
     },
@@ -5274,8 +5260,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8804294,
-          38.9700281
+          -76.8804295,
+          38.9700285
         ]
       }
     },
@@ -5289,7 +5275,7 @@
         "type": "Point",
         "coordinates": [
           -76.8805297,
-          38.9660124
+          38.9660128
         ]
       }
     },
@@ -5302,8 +5288,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8820158,
-          38.9618352
+          -76.8820155,
+          38.9618355
         ]
       }
     },
@@ -5316,8 +5302,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8795234,
-          38.9600611
+          -76.8795239,
+          38.9600613
         ]
       }
     },
@@ -5330,8 +5316,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8776618,
-          38.9596203
+          -76.8776623,
+          38.9596204
         ]
       }
     },
@@ -5344,8 +5330,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8751032,
-          38.9584332
+          -76.8751035,
+          38.9584335
         ]
       }
     },
@@ -5358,8 +5344,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8742111,
-          38.9574812
+          -76.8742114,
+          38.9574816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Annapolis Rd at Riverdale Rd",
+        "tag": "annarive_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8723,
+          38.9559499
         ]
       }
     },
@@ -5450,6 +5450,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Rhode Island Ave at 38th St",
+        "tag": "rhod38th_n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9551682,
+          38.9392748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Rhode Island Ave at Bunker Hill Rd",
         "tag": "rhodbunk"
       },
@@ -5520,20 +5534,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rhode Island Ave at Charles Armentrout Way (2)",
-        "tag": "rhodchar2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9455855,
-          38.9462135
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Rhode Island Ave at 41st Place",
         "tag": "rhod41st"
       },
@@ -5562,14 +5562,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Farragut Street",
+        "title": "Rhode Island Ave at County Service Building - NB",
         "tag": "cosvbldg_n"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.94195,
-          38.9500499
+          -76.941567,
+          38.950526
         ]
       }
     },
@@ -5597,7 +5597,7 @@
         "type": "Point",
         "coordinates": [
           -76.9403499,
-          38.9541103
+          38.9541102
         ]
       }
     },
@@ -5624,7 +5624,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9397698,
+          -76.9397699,
           38.9594607
         ]
       }
@@ -5639,7 +5639,7 @@
         "type": "Point",
         "coordinates": [
           -76.9394699,
-          38.9615309
+          38.9615308
         ]
       }
     },
@@ -5653,7 +5653,7 @@
         "type": "Point",
         "coordinates": [
           -76.9393398,
-          38.962471
+          38.9624709
         ]
       }
     },
@@ -5667,7 +5667,7 @@
         "type": "Point",
         "coordinates": [
           -76.93907,
-          38.96432
+          38.9643199
         ]
       }
     },
@@ -5968,14 +5968,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ikea Way at IKEA Center Blvd",
+        "title": "Ikea at Bus Bay 2",
+        "tag": "ikea2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92819,
+          39.02222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ikea at Bus Bay 3",
         "tag": "ikea_d"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9281901,
-          39.0222201
+          -76.926854,
+          39.0215869
         ]
       }
     },
@@ -5989,7 +6003,7 @@
         "type": "Point",
         "coordinates": [
           -76.9278986,
-          39.0138665
+          39.0138666
         ]
       }
     },
@@ -6003,7 +6017,7 @@
         "type": "Point",
         "coordinates": [
           -76.9284845,
-          39.0117092
+          39.0117093
         ]
       }
     },
@@ -6018,20 +6032,6 @@
         "coordinates": [
           -76.9293253,
           39.0086961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore Ave at Fox Street",
-        "tag": "baltfox"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9293355,
-          39.0086592
         ]
       }
     },
@@ -6059,7 +6059,7 @@
         "type": "Point",
         "coordinates": [
           -76.9305661,
-          39.0038634
+          39.0038635
         ]
       }
     },
@@ -6100,7 +6100,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9318089,
+          -76.9318088,
           38.9964682
         ]
       }
@@ -6156,8 +6156,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.927436,
-          38.978135
+          -76.9274359,
+          38.9781349
         ]
       }
     },
@@ -6332,20 +6332,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Baltimore Ave at Oliver St",
-        "tag": "baltoliv"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9395796,
-          38.9615301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Baltimore Ave at Oglethorpe St",
         "tag": "baltogle"
       },
@@ -6402,14 +6388,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Farragut Street",
+        "title": "Rhode Island Ave at County Service Building - SB",
         "tag": "cosvbldg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.94204,
-          38.95011
+          -76.941658,
+          38.950569
         ]
       }
     },
@@ -6422,8 +6408,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9435157,
-          38.9484729
+          -76.9435153,
+          38.9484733
         ]
       }
     },
@@ -6436,8 +6422,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9457703,
-          38.9463597
+          -76.9457699,
+          38.94636
         ]
       }
     },
@@ -6450,8 +6436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9493206,
-          38.9436795
+          -76.9493202,
+          38.9436798
         ]
       }
     },
@@ -6464,8 +6450,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9505607,
-          38.9427594
+          -76.9505603,
+          38.9427597
         ]
       }
     },
@@ -6478,8 +6464,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9516908,
-          38.9419394
+          -76.9516904,
+          38.9419397
         ]
       }
     },
@@ -6492,8 +6478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9543111,
-          38.9400292
+          -76.9543107,
+          38.9400295
         ]
       }
     },
@@ -6506,8 +6492,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9558312,
-          38.9389792
+          -76.9558307,
+          38.9389795
         ]
       }
     },
@@ -6520,8 +6506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9572714,
-          38.9382291
+          -76.9572709,
+          38.9382293
         ]
       }
     },
@@ -7019,14 +7005,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cheverly Ave at Euclid St",
+        "title": "Cheverly Ave at Cheverly Cir",
         "tag": "18_57_n"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.91418,
-          38.9215876
+          -76.914119,
+          38.9219909
         ]
       }
     },
@@ -7153,6 +7139,20 @@
         "coordinates": [
           -76.9240074,
           38.938209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Annapolis Rd at 54th Pl",
+        "tag": "anna54th"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.926796,
+          38.9390867
         ]
       }
     },
@@ -7697,8 +7697,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9711179,
-          38.9825603
+          -76.971162,
+          38.982911
         ]
       }
     },
@@ -7711,8 +7711,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9731634,
-          38.9840557
+          -76.9731631,
+          38.9840558
         ]
       }
     },
@@ -7725,8 +7725,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9766067,
-          38.9837068
+          -76.9766064,
+          38.9837069
         ]
       }
     },
@@ -7739,7 +7739,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9781985,
+          -76.9781982,
           38.9836642
         ]
       }
@@ -7753,8 +7753,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9801129,
-          38.9844373
+          -76.9801126,
+          38.9844372
         ]
       }
     },
@@ -7767,8 +7767,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9814792,
-          38.985244
+          -76.9814789,
+          38.9852439
         ]
       }
     },
@@ -7781,7 +7781,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9819419,
+          -76.9819416,
           38.9879452
         ]
       }
@@ -7795,8 +7795,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.98323,
-          38.98814
+          -76.9832297,
+          38.9881398
         ]
       }
     },
@@ -7809,8 +7809,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.98434,
-          38.99002
+          -76.9843398,
+          38.9900197
         ]
       }
     },
@@ -8000,6 +8000,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "23rd Ave at  Beechwood Rd",
+        "tag": "23rdbeec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9708875,
+          38.9796747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "23rd Ave at Drexel St",
         "tag": "18_7"
       },
@@ -8064,6 +8078,20 @@
         "coordinates": [
           -76.9616131,
           38.9669196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Belcrest at PG Plaza Metrorail",
+        "tag": "belcpgpl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9541407,
+          38.9660395
         ]
       }
     },
@@ -8148,6 +8176,20 @@
         "coordinates": [
           -76.959831,
           38.9574461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Queens Chapel Rd at Hamilton St",
+        "tag": "queehami"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9610999,
+          38.95652
         ]
       }
     },
@@ -8476,7 +8518,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Annapolis Rd at 52nd St",
+        "title": "Annapolis Rd at Bladensburg Elem. School",
         "tag": "18_43"
       },
       "geometry": {
@@ -8750,6 +8792,20 @@
         "coordinates": [
           -76.9077295,
           38.9166534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Columbia Park Rd at 5801 Columbia Park Rd",
+        "tag": "5801colu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9067781,
+          38.9168131
         ]
       }
     },
@@ -9134,14 +9190,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Addison Rd at Health Clinic",
+        "title": "Addison Rd at Ernie Banks St",
         "tag": "20_2"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8968311,
-          38.8812744
+          -76.8968087,
+          38.8811497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Addison Rd at Wilburn St",
+        "tag": "addiwilb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8964758,
+          38.8796143
         ]
       }
     },
@@ -9232,6 +9302,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "County Rd at Foster St",
+        "tag": "counfost_e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8991754,
+          38.855535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Marlboro Pike at County Rd",
         "tag": "marlbork"
       },
@@ -9302,14 +9386,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Penn-Mar Shopping Center",
+        "title": "Donnell Drive at Marlboro Pike",
+        "tag": "donnmarl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8853036,
+          38.8488827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donnell Drive at Target Store",
         "tag": "pennmars_e"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.88517,
-          38.8474301
+          -76.885218,
+          38.8476803
         ]
       }
     },
@@ -9322,8 +9420,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8848576,
-          38.8444316
+          -76.8848577,
+          38.8444313
         ]
       }
     },
@@ -9336,36 +9434,92 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.877209,
-          38.8416875
+          -76.8772086,
+          38.8416874
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Melwood Training Center",
-        "tag": "20_40_e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.84577,
-          38.81098
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pennsylvania Ave at Marlboro Pike",
+        "title": "Pennsylvania Ave at Old Marlboro Pl",
         "tag": "pennmarl_eb"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8495456,
-          38.8209552
+          -76.8628596,
+          38.8378098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pennsylvania Ave at Suitland Pkwy",
+        "tag": "pennsuit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8578324,
+          38.8312503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dower House Rd at Old Marlboro Pike",
+        "tag": "dowepike_eb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84979,
+          38.81652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Pike Way at 5620 Old Pike Way",
+        "tag": "5620pike_eb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8465115,
+          38.8108963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Pike Way at Dower House Rd",
+        "tag": "pikedowe_eb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8487988,
+          38.8108502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dower House Rd at Old Marlboro Pike",
+        "tag": "dowemarl_eb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8496757,
+          38.8165425
         ]
       }
     },
@@ -9400,28 +9554,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Marlboro Pike at N Marwood Dr",
+        "title": "Marlboro Pike at Marwood Blvd N",
         "tag": "20_19_e"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8333817,
-          38.8137858
+          -76.8334157,
+          38.813795
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Woodyard Rd at South Osborne Rd",
+        "title": "Woodyard Rd at Marlboro Pike",
         "tag": "20_39"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8246514,
-          38.8114863
+          -76.8246084,
+          38.8110941
         ]
       }
     },
@@ -9484,14 +9638,70 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Old Marlboro Pike at Charles Mill Blvd",
+        "tag": "marlchar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8050199,
+          38.81614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Marlboro Pike at Derby Manor Ln",
+        "tag": "marlderb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7928555,
+          38.8150376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Marlboro Pike at Weldon Manor Ln",
+        "tag": "marlweld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.790952,
+          38.8147786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Marlboro Pike at Atherstone Terrace",
+        "tag": "marlathe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.784274,
+          38.815027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Old Marlboro Pike at Ritchie-Marlboro Rd",
         "tag": "20_31_e"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7789083,
-          38.81555
+          -76.7789947,
+          38.8155431
         ]
       }
     },
@@ -9792,6 +10002,62 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Old Marlboro Pike at Atherstone Terrace",
+        "tag": "marlathe_wb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7840975,
+          38.8150964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Marlboro Pike at Weldon Manor Ln",
+        "tag": "marlweld_wb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7913101,
+          38.8149025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Marlboro Pike at Derby Manor Ln",
+        "tag": "marlderb_wb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.79358,
+          38.81516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Marlboro Pike at Charles Mill Blvd",
+        "tag": "marlchar_wb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8050299,
+          38.8162105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Old Marlboro Pike at Brooklee Dr",
         "tag": "20_25"
       },
@@ -9862,14 +10128,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Marlboro Pike at N Marwood Dr",
+        "title": "Marlboro Pike at Marwood Blvd N",
         "tag": "20_19"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8333164,
-          38.8138362
+          -76.8334008,
+          38.8138586
         ]
       }
     },
@@ -9904,14 +10170,56 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Melwood Training Center",
-        "tag": "20_40"
+        "title": "Dower House Rd at Old Marlboro Pike",
+        "tag": "dowepike_wb"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.84577,
-          38.81098
+          -76.84979,
+          38.81652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Pike Way at 5620 Old Pike Way",
+        "tag": "5620pike_wb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8465115,
+          38.8108963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Pike Way at Dower House Rd",
+        "tag": "pikedowe_wb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8487988,
+          38.8108502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dower House Rd at Old Marlboro Pike",
+        "tag": "dowemarl_wb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8496757,
+          38.8165425
         ]
       }
     },
@@ -9946,7 +10254,21 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Penn-Mar Shopping Center",
+        "title": "Donnell Dr at 2900 Donnell Dr",
+        "tag": "2900donn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8850018,
+          38.8477047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donnell Dr at Marlboro Pike",
         "tag": "pennmars"
       },
       "geometry": {
@@ -10010,6 +10332,20 @@
         "coordinates": [
           -76.896401,
           38.853116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "County Rd at Foster St",
+        "tag": "counfost_wb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8990963,
+          38.8555098
         ]
       }
     },
@@ -10101,14 +10437,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Addison Rd opposite Health Center",
-        "tag": "addiheal_wb"
+        "title": "Addison Rd at Wilburn Dr",
+        "tag": "addiwilb_wb"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8966793,
-          38.8810074
+          -76.8963848,
+          38.8796162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Addison Rd at Health Center Ent.",
+        "tag": "addiheal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8967052,
+          38.8811134
         ]
       }
     },
@@ -10123,6 +10473,20 @@
         "coordinates": [
           -76.897259,
           38.8833662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "County Courthouse",
+        "tag": "courthou_d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7497099,
+          38.81476
         ]
       }
     },
@@ -10157,7 +10521,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "County Administration Building",
+        "title": "Governor Oden Bowie Drive at Rear of CAB",
         "tag": "countyad"
       },
       "geometry": {
@@ -10479,6 +10843,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Apollo Dr at Mercantile Ln",
+        "tag": "apolmerc_n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.83821,
+          38.9052299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Lottsford Rd at Zachery St",
         "tag": "lottzach_n"
       },
@@ -10619,14 +10997,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "McCormick Dr at Raytheon Bldg",
+        "title": "McCormick Dr at UMUC (opposite)",
         "tag": "21_58_n"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8462059,
-          38.9122172
+          -76.8462002,
+          38.9122585
         ]
       }
     },
@@ -10647,21 +11025,21 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Inglewood",
+        "title": "McCormick Dr at Basil Ct",
         "tag": "21_57_n"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.84604,
-          38.9138797
+          -76.8459892,
+          38.9142722
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Landover Mall",
+        "title": "Brightseat Rd at Maple Ridge Apts (opposite)",
         "tag": "landover_n"
       },
       "geometry": {
@@ -10681,8 +11059,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8586556,
-          38.9225676
+          -76.85866,
+          38.92256
         ]
       }
     },
@@ -10717,20 +11095,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Brightseat Rd at Hamlin St",
-        "tag": "21_25_n"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.8587291,
-          38.9265049
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Brightseat Rd at McLain Av",
         "tag": "21_28"
       },
@@ -10738,7 +11102,21 @@
         "type": "Point",
         "coordinates": [
           -76.85938,
-          38.9293901
+          38.92939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brightseat Rd at Glenarden Pkwy",
+        "tag": "brigglen_n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8597612,
+          38.9304577
         ]
       }
     },
@@ -10821,8 +11199,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8674109,
-          38.941981
+          -76.8660486,
+          38.941648
         ]
       }
     },
@@ -10857,14 +11235,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Metro East",
+        "title": "8401 Corporate Dr",
         "tag": "21_60_n"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8620095,
-          38.9470108
+          -76.8622312,
+          38.9469923
         ]
       }
     },
@@ -10899,14 +11277,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "8100 Professional Pl",
+        "title": "Professional Pl at Garden City Dr",
         "tag": "21_4_s"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8657393,
-          38.9500895
+          -76.8657647,
+          38.9501065
         ]
       }
     },
@@ -10927,28 +11305,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Metro East",
+        "title": "8401 Corporate Dr",
         "tag": "21_60_s"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8623799,
-          38.94704
+          -76.8624742,
+          38.947034
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "8300 Corporate Dr",
+        "title": "8201 Corporate Dr",
         "tag": "21_7"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8649857,
-          38.9468285
+          -76.8649245,
+          38.9468337
         ]
       }
     },
@@ -10969,7 +11347,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "8235 Ardwick-Ardmore Rd",
+        "title": "8325 Ardwick-Ardmore Rd",
         "tag": "21_6"
       },
       "geometry": {
@@ -11017,8 +11395,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8585898,
-          38.9369298
+          -76.8586165,
+          38.9369565
         ]
       }
     },
@@ -11061,6 +11439,20 @@
         "coordinates": [
           -76.8594974,
           38.9328276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brightseat Rd at Glenarden Pkwy",
+        "tag": "brigglen_s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8597019,
+          38.9300882
         ]
       }
     },
@@ -11115,8 +11507,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8584248,
-          38.9234555
+          -76.858781,
+          38.9227114
         ]
       }
     },
@@ -11129,15 +11521,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8593532,
-          38.9218009
+          -76.859353,
+          38.921801
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Landover Mall",
+        "title": "Brightseat Rd at Maple Ridge Apts",
         "tag": "landover_s"
       },
       "geometry": {
@@ -11151,14 +11543,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Inglewood",
+        "title": "McCormick Dr at Basil Ct",
         "tag": "21_57_s"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8460584,
-          38.9143286
+          -76.8460656,
+          38.9142647
         ]
       }
     },
@@ -11179,14 +11571,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "McCormick Dr at Raytheon Bldg",
+        "title": "McCormick Dr at UMUC",
         "tag": "21_58_s"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8462792,
-          38.9123555
+          -76.8462875,
+          38.9122523
         ]
       }
     },
@@ -11341,6 +11733,20 @@
         "coordinates": [
           -76.839408,
           38.905382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Apollo Dr at Mercantile Ln",
+        "tag": "apolmerc_s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.838413,
+          38.9051354
         ]
       }
     },
@@ -11571,6 +11977,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Largo Rd at Kirkland Ln",
+        "tag": "largkirk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7631936,
+          38.8456941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Largo Rd at Eton Dr",
         "tag": "21_44_s"
       },
@@ -11621,6 +12041,20 @@
         "coordinates": [
           -76.7483036,
           38.8120758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Equestrian Center Lot 1",
+        "tag": "equestrn_a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.745374,
+          38.8126528
         ]
       }
     },
@@ -11753,6 +12187,34 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Garrett A. Morgan Blvd at Morgan Blvd Station",
+        "tag": "garrmorg_o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86577,
+          38.89345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Garrett A. Morgan Blvd at Gibbs Way",
+        "tag": "garrgibb_o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8657984,
+          38.8956026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Garrett A Morgan Blvd at Ridgefield Blvd",
         "tag": "22_43"
       },
@@ -11879,6 +12341,34 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Garrett A. Morgan Blvd at Rear Morgan Blvd Station",
+        "tag": "garrrear"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86624,
+          38.8948899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Garrett A. Morgan Blvd at Morgan Blvd Station",
+        "tag": "garrmorg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8659399,
+          38.8933299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Fieldstone Way",
         "tag": "22_37_o"
       },
@@ -11949,7 +12439,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "405 Brightseat Rd",
+        "title": "425 Brightseat Rd",
         "tag": "22_3"
       },
       "geometry": {
@@ -11991,21 +12481,49 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "8501 Spectrum Dr",
-        "tag": "22_10"
+        "title": "Brightseat Rd at 901 Brightseat Rd",
+        "tag": "901brig"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8569698,
-          38.9079393
+          -76.8532242,
+          38.9030937
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Spectrum Dr at Brightseat Rd",
+        "title": "Brightseat Rd at Arena Dr",
+        "tag": "brigaren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8529034,
+          38.9069938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jericho City Dr at 8501 Jericho City Drive",
+        "tag": "22_10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8570639,
+          38.9084931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jericho City Dr at Brightseat Rd.",
         "tag": "22_42_o"
       },
       "geometry": {
@@ -12137,8 +12655,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.858762,
-          38.9227429
+          -76.8587619,
+          38.922743
         ]
       }
     },
@@ -12153,20 +12671,6 @@
         "coordinates": [
           -76.8593452,
           38.9218177
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brightseat Rd at Landover Mall",
-        "tag": "22_16"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.8598807,
-          38.920887
         ]
       }
     },
@@ -12201,7 +12705,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "8100 Sheriff Rd",
+        "title": "8102 Sheriff Rd",
         "tag": "22_6"
       },
       "geometry": {
@@ -12271,28 +12775,56 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Spectrum Dr at Brightseat Rd",
+        "title": "Jericho City Dr at Brightseat Rd.",
         "tag": "22_42"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8541358,
-          38.9099001
+          -76.8534399,
+          38.90992
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "8500 Spectrum Dr",
+        "title": "Jericho City Dr at 8501 Jericho City Dr",
         "tag": "22_9"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8570551,
-          38.9079154
+          -76.8571499,
+          38.90851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brightseat Rd at Bishop Peebles Dr",
+        "tag": "brigbish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8530099,
+          38.9071499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brightseat Rd at 1000 Jericho City Drive",
+        "tag": "1000jer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8535899,
+          38.90569
         ]
       }
     },
@@ -12425,6 +12957,34 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Garrett A. Morgan Blvd at Morgan Blvd Station",
+        "tag": "garrmorg_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86577,
+          38.89345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Garrett A. Morgan Blvd at Gibbs Way",
+        "tag": "garrgibb_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8657984,
+          38.8956026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Garrett A Morgan Blvd at Ridgefield Blvd",
         "tag": "22_38"
       },
@@ -12545,6 +13105,34 @@
         "coordinates": [
           -76.8639138,
           38.8981585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Garrett A. Morgan Blvd at SGT. Hartman Ln",
+        "tag": "garrhart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86624,
+          38.8948899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Garrett A. Morgan Blvd at Morgan Blvd Station",
+        "tag": "garrmorg_i2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8659399,
+          38.8933299
         ]
       }
     },
@@ -13111,7 +13699,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sheriff Rd at Willowood Ct",
+        "title": "Sheriff Rd at Willow Wood Ct",
         "tag": "23_73_o"
       },
       "geometry": {
@@ -13363,7 +13951,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "5800 Columbia Park Rd",
+        "title": "5700 Columbia Park Rd (Opposite)",
         "tag": "5800colu"
       },
       "geometry": {
@@ -13371,20 +13959,6 @@
         "coordinates": [
           -76.9083825,
           38.9165514
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cabin Branch Dr at Columbia Park Rd",
-        "tag": "23_16"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9061985,
-          38.91667
         ]
       }
     },
@@ -13517,6 +14091,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Sheriff Rd at Cypress Tree Dr",
+        "tag": "shefcypr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9049954,
+          38.9067888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Sheriff Rd at Glen Willow Dr - South Side",
         "tag": "23_67_s"
       },
@@ -13559,7 +14147,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sheriff Rd at Willowood Ct",
+        "title": "Sheriff Rd at Willow Wood Ct",
         "tag": "23_73"
       },
       "geometry": {
@@ -13867,21 +14455,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Willow Hill Dr at Nalley Rd",
-        "tag": "23_77"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.8769686,
-          38.8954907
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hill Rd at Willow Hill Dr",
+        "title": "Willow Hill Dr at Stevenson Ln",
         "tag": "23_35"
       },
       "geometry": {
@@ -13889,6 +14463,34 @@
         "coordinates": [
           -76.8782844,
           38.8949524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hill Rd at Mountain View Way",
+        "tag": "hillmoun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8780879,
+          38.8915853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Walker Mill Dr at Shady Glen Dr",
+        "tag": "walkshad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8768989,
+          38.8876679
         ]
       }
     },
@@ -13903,6 +14505,48 @@
         "coordinates": [
           -76.8678174,
           38.8857638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Walker Mill Drive at Shady Glen Drive",
+        "tag": "wlkmshdy_i2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8768605,
+          38.8878204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hill Dr at Mountain View",
+        "tag": "walkmtn_i2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8779199,
+          38.8916099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hill Rd at Willow Hill Dr",
+        "tag": "hillwill_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8787884,
+          38.8946751
         ]
       }
     },
@@ -14035,6 +14679,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Ritchie Rd at Central Ave",
+        "tag": "ritccent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.862128,
+          38.8883088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Ritchie Rd at Truck Way",
         "tag": "ritctruc_wb"
       },
@@ -14043,6 +14701,20 @@
         "coordinates": [
           -76.8615103,
           38.886771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ashwood Dr at Ritchie Rd",
+        "tag": "ashwritc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8591517,
+          38.8817625
         ]
       }
     },
@@ -14133,6 +14805,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Ritchie Rd at Ritchie Rd Spur",
+        "tag": "ritcspur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8561199,
+          38.86954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Ritchie Rd at Forest Park Dr",
         "tag": "ritfor"
       },
@@ -14141,6 +14827,20 @@
         "coordinates": [
           -76.8570535,
           38.8688585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ritchie Rd at Ashville Rd",
+        "tag": "ritcashv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8593272,
+          38.8679034
         ]
       }
     },
@@ -14637,7 +15337,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Silver Hill Rd at Penn Station",
+        "title": "Silver Hill Rd at Pennsylvania Ave",
         "tag": "silverhi_o",
         "stopId": "3000749"
       },
@@ -14744,6 +15444,20 @@
         "coordinates": [
           -76.9080177,
           38.8662155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rollins Ave at 1507 Rollins Ave",
+        "tag": "1507roll"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9057615,
+          38.8681826
         ]
       }
     },
@@ -14876,7 +15590,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "East Capitol Street at Coolidge Street",
+        "title": "East Capitol Street at Maryland Park Drive",
         "tag": "eastcapi_o"
       },
       "geometry": {
@@ -15148,7 +15862,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.914132,
+          -76.9141319,
           38.864486
         ]
       }
@@ -15198,20 +15912,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Silver Hill Rd at Penn Station",
-        "tag": "silverhi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9087608,
-          38.8536096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Old Silver Hill Rd at Library",
         "tag": "oldslibr_eb"
       },
@@ -15240,7 +15940,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Old Silver Hill Rd at Opp- Parkland Court",
+        "title": "Silver Hill Rd at Parkway Terrace Dr",
         "tag": "silvpark"
       },
       "geometry": {
@@ -15702,6 +16402,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Ritchie Rd at Ashville Rd",
+        "tag": "ritcashv_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8597766,
+          38.8675891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Ritchie Rd at Forest Park Dr",
         "tag": "ritfpd"
       },
@@ -15710,20 +16424,6 @@
         "coordinates": [
           -76.8567753,
           38.8687977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Ritchie Rd at Ritchie Rd Spur",
-        "tag": "ritcspur"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.8559526,
-          38.8694273
         ]
       }
     },
@@ -15842,6 +16542,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Ritchie Rd at Central Ave",
+        "tag": "ritccent_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8620965,
+          38.8885424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Capitol Heights Station",
         "tag": "capitolh_de"
       },
@@ -15856,7 +16570,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Addison Plaza",
+        "title": "East Capital Street at Old Central Ave",
         "tag": "25_27_o"
       },
       "geometry": {
@@ -16066,6 +16780,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Capitol Heights Blvd at 734 Capitol Heights Blvd",
+        "tag": "734capi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9161425,
+          38.8779305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Capitol Heights Blvd at Ute Way",
         "tag": "25_12_o"
       },
@@ -16122,14 +16850,56 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Nova Ave at Marlboro Pike",
+        "title": "Marlboro Pike at Nova Ave",
         "tag": "25_42_o"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9220059,
-          38.8704887
+          -76.92236,
+          38.87062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marlboro Pike at Larchmont Ave",
+        "tag": "marllarc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9233103,
+          38.8712112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marlboro Pike at Jansen Ave",
+        "tag": "marljans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92492,
+          38.87218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marlboro Pike at Glacier Ave",
+        "tag": "marlglac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9267,
+          38.87258
         ]
       }
     },
@@ -16150,14 +16920,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Benning Rd at Southern Ave",
+        "title": "Benning Rd at Abel Ave",
         "tag": "25_2_o"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.93038,
-          38.8754
+          -76.9304,
+          38.87542
         ]
       }
     },
@@ -16346,6 +17116,48 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Marlboro Pike at Glacier Ave",
+        "tag": "marlglac_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9267146,
+          38.8725058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marlboro Pike at Jansen Ave",
+        "tag": "marljans_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9245259,
+          38.8719263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marlboro Pike at Larchmont Ave",
+        "tag": "marllarc_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9226799,
+          38.8707099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Nova Ave at Marlboro Pike",
         "tag": "25_42"
       },
@@ -16396,6 +17208,20 @@
         "coordinates": [
           -76.916874,
           38.8764502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Capitol Heights Blvd at 733 Capitol Heights Blvd",
+        "tag": "733capi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9160999,
+          38.87791
         ]
       }
     },
@@ -16584,6 +17410,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Suffolk Ave at Central Ave",
+        "tag": "suffcent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9099399,
+          38.88503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Central Ave at Suffolk Ave",
         "tag": "25_47"
       },
@@ -16654,14 +17494,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Addison Plaza",
+        "title": "East Capitol St at Yost Pl",
         "tag": "25_27"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.902277,
-          38.8870196
+          -76.9024535,
+          38.8870469
         ]
       }
     },
@@ -16892,14 +17732,42 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ritchie Stadium",
-        "tag": "ritcstat"
+        "title": "Ritchie-Marlboro Rd & Sansbury Rd",
+        "tag": "ritchsans"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8496905,
-          38.8654414
+          -76.8377701,
+          38.8671614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ritchie Station Court Bus Stop #1",
+        "tag": "ritcstat1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8503198,
+          38.8664744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ritchie Station Court Bus Stop #2",
+        "tag": "ritcstat2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.850126,
+          38.866592
         ]
       }
     },
@@ -16926,8 +17794,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.850931,
-          38.873902
+          -76.8509309,
+          38.8739019
         ]
       }
     },
@@ -17102,14 +17970,42 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ritchie Stadium",
-        "tag": "ritcstat_eb"
+        "title": "Ritchie Station Court Bus Stop #1",
+        "tag": "ritcstat1_i"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8496964,
-          38.8654497
+          -76.8503198,
+          38.8664744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ritchie Station Court Bus Stop #2",
+        "tag": "ritcstat2_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.850126,
+          38.866592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ritchie-Marlboro Rd & Sansbury Rd",
+        "tag": "ritchsans_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.83874,
+          38.8672923
         ]
       }
     },
@@ -17326,6 +18222,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Pennsy Dr at Landover Metrorail Station",
+        "tag": "pennland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.889536,
+          38.9317352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "3133 Pennsy Dr",
         "tag": "penn3133"
       },
@@ -17390,6 +18300,20 @@
         "coordinates": [
           -76.8851199,
           38.9297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "75th Ave at Landover Rd",
+        "tag": "75thland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8864066,
+          38.9274912
         ]
       }
     },
@@ -17704,6 +18628,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "75th Ave at Landover Rd",
+        "tag": "75thland_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8863022,
+          38.9275268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "3209 75th Ave",
         "tag": "75th3209_sb"
       },
@@ -17768,6 +18706,20 @@
         "coordinates": [
           -76.8879017,
           38.9329079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pennsy Drive at Landover Metro Station",
+        "tag": "pennland_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88889,
+          38.9321199
         ]
       }
     },
@@ -17948,8 +18900,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8373993,
-          38.9072315
+          -76.8372967,
+          38.9074687
         ]
       }
     },
@@ -18180,34 +19132,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "LOTTSFORD ROAD AT GRAND BLVD",
-        "tag": "8951lot_s"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.8417799,
-          38.8995202
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lottsford Rd at Harry S. Truman Dr",
-        "tag": "lothst_s"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.8423401,
-          38.8981297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Largo Town Center Station at Bus Bay E",
         "tag": "largoe_d2"
       },
@@ -18216,34 +19140,6 @@
         "coordinates": [
           -76.8462199,
           38.90014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "8951 Lottsford Road",
-        "tag": "8951lott"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.8414483,
-          38.8996284
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lottsford Rd at Zachery St",
-        "tag": "lotzac_n2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.8413097,
-          38.9015988
         ]
       }
     },
@@ -18466,8 +19362,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8373993,
-          38.9072315
+          -76.8372955,
+          38.9074715
         ]
       }
     },
@@ -18628,6 +19524,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Stuart Ln at Topaz Court",
+        "tag": "stuatopa_o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8819999,
+          38.7540499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Clinton Fringe Lot",
         "tag": "clintonf_d"
       },
@@ -18636,6 +19546,20 @@
         "coordinates": [
           -76.88521,
           38.76602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Woody Terrace at Woodyard Rd",
+        "tag": "woodwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88669,
+          38.76655
         ]
       }
     },
@@ -18796,7 +19720,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Hill Rd at Mansfield Manor",
+        "title": "Temple Hill Rd at Allentown Rd",
         "tag": "30_35_o"
       },
       "geometry": {
@@ -18964,28 +19888,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Allentown Rd at Robin Ln",
+        "title": "Allentown Rd at Opp. Leon St",
         "tag": "30_10_o"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9014667,
-          38.806928
+          -76.9012708,
+          38.8069548
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Allentown Rd at Auth Rd",
+        "title": "Allentown Rd at Opp. 5711 AFCU Allentown Rd",
         "tag": "30_3_o"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8977887,
-          38.8086754
+          -76.8979925,
+          38.8085016
         ]
       }
     },
@@ -19014,6 +19938,20 @@
         "coordinates": [
           -76.8960847,
           38.8152254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Auth Rd at #6208-6220",
+        "tag": "auth6208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8992002,
+          38.8150083
         ]
       }
     },
@@ -19062,14 +20000,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Auth Rd at Oakland Way",
+        "title": "Auth Rd at Procopio",
         "tag": "30_21_o"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9080957,
-          38.8212928
+          -76.90914,
+          38.82186
         ]
       }
     },
@@ -19090,7 +20028,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Branch Ave Station Bay H",
+        "title": "Branch Ave Station Bus Bay J",
         "tag": "bas_d"
       },
       "geometry": {
@@ -19174,6 +20112,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Auth Rd at Magruder Ave",
+        "tag": "authmagr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8992506,
+          38.8149776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Morris Ave at Maxwell Dr",
         "tag": "30_27"
       },
@@ -19202,14 +20154,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Allentown Rd at Auth Rd",
+        "title": "Allentown Rd at 5711 AFCU Allentown Rd",
         "tag": "30_3"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8978645,
-          38.808791
+          -76.8980584,
+          38.8086286
         ]
       }
     },
@@ -19224,6 +20176,20 @@
         "coordinates": [
           -76.9022913,
           38.8069211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Allentown Rd at Perrie Ln",
+        "tag": "alleperr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9032087,
+          38.806741
         ]
       }
     },
@@ -19384,7 +20350,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Hill Rd at Mansfield Manor",
+        "title": "Temple Hill Rd at Allentown Rd",
         "tag": "30_35"
       },
       "geometry": {
@@ -19426,14 +20392,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Hill Rd at Temple Hills Trailer Pk",
+        "title": "Temple Hill Rd at 8601 Temple Hill Rd",
         "tag": "30_43"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9269585,
-          38.7699088
+          -76.9269665,
+          38.7698574
         ]
       }
     },
@@ -19524,7 +20490,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Piscataway Rd at Old Branch Ave",
+        "title": "Piscataway Rd at Brandywine Rd",
         "tag": "30_32"
       },
       "geometry": {
@@ -19580,27 +20546,13 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Stuarts Ln @ Topaz Ct",
-        "tag": "stuatopa"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.882158,
-          38.7544771
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Stuart at Surrats",
         "tag": "stuasurr_a"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8834399,
+          -76.88344,
           38.75142
         ]
       }
@@ -19734,6 +20686,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Old Alexandria Ferry Rd at Highland Meadows Dr",
+        "tag": "alexhigh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8762889,
+          38.7806494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Old Alexandria Ferry Rd at Mike Shapiro Dr",
         "tag": "32_35_o"
       },
@@ -19756,6 +20722,34 @@
         "coordinates": [
           -76.8880826,
           38.7839286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Alexandria Ferry Rd at Malcolm Rd",
+        "tag": "alexmalc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.890582,
+          38.78365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Coventry Way at Old Alexandria Ferry Rd",
+        "tag": "covealex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8932299,
+          38.78424
         ]
       }
     },
@@ -19790,7 +20784,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Old Branch Ave at Tarquin Ave",
+        "title": "Old Branch Ave at 6811 Old Branch Ave (Opposite)",
         "tag": "32_43_o"
       },
       "geometry": {
@@ -19964,22 +20958,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9372811,
-          38.8100811
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Temple Hill Rd at Suburban Ct",
-        "tag": "32_62_o"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9381248,
-          38.8130034
+          -76.9372681,
+          38.8100146
         ]
       }
     },
@@ -20182,6 +21162,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "28th Ave at Keating St",
+        "tag": "28thkeat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9490491,
+          38.8365383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Iverson St at 28th Ave",
         "tag": "32_25"
       },
@@ -20232,6 +21226,20 @@
         "coordinates": [
           -76.953238,
           38.84087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "28th Pkwy at Duggan St",
+        "tag": "28thdugg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9562507,
+          38.8429649
         ]
       }
     },
@@ -20350,6 +21358,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "28th Pkwy at 27th Ave",
+        "tag": "28th27th"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9602659,
+          38.845716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "3223 28th Pkwy",
         "tag": "32_9"
       },
@@ -20372,6 +21394,20 @@
         "coordinates": [
           -76.957704,
           38.8443024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "28th Pkwy at Duggan St",
+        "tag": "28thdugg_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95613,
+          38.84245
         ]
       }
     },
@@ -20414,6 +21450,20 @@
         "coordinates": [
           -76.9477814,
           38.8390528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "28th Ave at Keating St",
+        "tag": "28thkeat_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.949371,
+          38.8367687
         ]
       }
     },
@@ -20622,8 +21672,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9383219,
-          38.8130714
+          -76.9375232,
+          38.8111188
         ]
       }
     },
@@ -20636,36 +21686,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9373259,
-          38.809985
+          -76.9372785,
+          38.8097668
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Hill Rd at Lakeview Dr",
-        "tag": "32_55"
+        "title": "Temple Hill Rd at Henderson Rd",
+        "tag": "32_54"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9304225,
-          38.8020047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Temple Hill Rd at Cedell Pl",
-        "tag": "32_52"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9324667,
-          38.8038072
+          -76.9366063,
+          38.8075653
         ]
       }
     },
@@ -20686,14 +21722,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Hill Rd at Henderson Rd",
-        "tag": "32_54"
+        "title": "Temple Hill Rd at Lakeview Dr",
+        "tag": "32_55"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9366063,
-          38.8075653
+          -76.9304225,
+          38.8020047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Temple Hill Rd at Old Temple Hill Rd",
+        "tag": "temphill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9323161,
+          38.803677
         ]
       }
     },
@@ -20784,7 +21834,21 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Old Branch Ave at Tarquin Ave",
+        "title": "Allentown Rd at Old Branch Ave",
+        "tag": "allebran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9072538,
+          38.8035214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Branch Ave at 6811 Old Branch Ave",
         "tag": "32_43"
       },
       "geometry": {
@@ -20826,6 +21890,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Coventry Way at Old Alexandria Ferry Rd",
+        "tag": "covealex_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8931599,
+          38.78407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Old Alexandria Ferry Rd at Heflin Dr",
         "tag": "32_33"
       },
@@ -20848,6 +21926,20 @@
         "coordinates": [
           -76.883341,
           38.7837701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Alexandria Ferry Rd at Alexandria Ferry Business Park",
+        "tag": "alexferr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8790026,
+          38.7823757
         ]
       }
     },
@@ -20980,29 +22072,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Woody Terrace @ Woodyard Road",
-        "tag": "woodwood",
-        "stopId": "36020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.8866604,
-          38.7663208
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Old Branch Ave at Allentown Way",
         "tag": "oldbranc_d"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.90506,
-          38.80164
+          -76.9049766,
+          38.8017226
         ]
       }
     },
@@ -21015,8 +22092,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9101277,
-          38.8009071
+          -76.9101278,
+          38.800907
         ]
       }
     },
@@ -21029,7 +22106,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9128793,
+          -76.9128794,
           38.7986738
         ]
       }
@@ -21071,7 +22148,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9229214,
+          -76.9229215,
           38.7928846
         ]
       }
@@ -21191,20 +22268,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "3910 Brinkley Rd",
-        "tag": "33_4"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9400896,
-          38.8001999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Brinkley Rd at Roberts Dr",
         "tag": "33_31"
       },
@@ -21247,20 +22310,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Brinkley Rd at Brinkley Manor E Ent",
-        "tag": "33_23"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9544236,
-          38.8038807
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Brinkley Rd at Brinkley Manor W Ent",
         "tag": "33_24"
       },
@@ -21275,7 +22324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Fisher Rd at Brinkley Rd",
+        "title": "Fisher Rd at Clow Ct",
         "tag": "33_35_n"
       },
       "geometry": {
@@ -21513,6 +22562,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "St Barnabas Rd at Frazier Dr",
+        "tag": "barnfraz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9606099,
+          38.81757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "St Barnabas Rd at Wheeler Rd",
         "tag": "33_71"
       },
@@ -21527,7 +22590,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Owens Rd at Woodland",
+        "title": "Owens Rd at Woodland Blvd",
         "tag": "33_52_e"
       },
       "geometry": {
@@ -21667,20 +22730,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Owens Rd at Southern Ave",
-        "tag": "33_44_e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9954948,
-          38.8257263
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Southern Ave at Park Southern Apts",
         "tag": "33_60_w"
       },
@@ -21689,20 +22738,6 @@
         "coordinates": [
           -76.9938399,
           38.82696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Southern Ave at Southview Dr",
-        "tag": "33_61_s"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9921153,
-          38.8282675
         ]
       }
     },
@@ -21743,8 +22778,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9869518,
-          38.8323008
+          -76.9877525,
+          38.8316841
         ]
       }
     },
@@ -21869,8 +22904,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9870887,
-          38.8323885
+          -76.9877122,
+          38.8319083
         ]
       }
     },
@@ -21905,20 +22940,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Southern Ave at Southview Dr",
-        "tag": "33_61_n"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9920269,
-          38.8285224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Southern Ave at Park Southern Apts",
         "tag": "33_60_e"
       },
@@ -21927,20 +22948,6 @@
         "coordinates": [
           -76.9940058,
           38.8269732
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Owens Rd at Southern Ave",
-        "tag": "33_44_w"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9956967,
-          38.8256426
         ]
       }
     },
@@ -22059,7 +23066,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Owens Rd at Woodland",
+        "title": "Owens Rd at Woodland Blvd",
         "tag": "33_52_w"
       },
       "geometry": {
@@ -22115,14 +23122,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "St Barnabas Rd at Lime St",
+        "title": "St Barnabas Rd at Kernal Ln",
         "tag": "33_67_s"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.957507,
-          38.8201905
+          -76.9564859,
+          38.8209914
         ]
       }
     },
@@ -22325,14 +23332,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Fisher Rd at Brinkley Rd",
+        "title": "Fisher Rd at Clow Ct",
         "tag": "33_35_s"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.958329,
-          38.8053409
+          -76.9580137,
+          38.8056843
         ]
       }
     },
@@ -22345,22 +23352,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9566963,
+          -76.9566958,
           38.8041019
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brinkley Rd at Brinkley House E Ent",
-        "tag": "33_21"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9545503,
-          38.8037899
         ]
       }
     },
@@ -22373,7 +23366,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9529848,
+          -76.9529843,
           38.80404
         ]
       }
@@ -22387,8 +23380,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9501079,
-          38.8031814
+          -76.9501075,
+          38.8031813
         ]
       }
     },
@@ -22401,22 +23394,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9416855,
-          38.8006521
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "3908 Brinkley Rd",
-        "tag": "33_3"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9405063,
-          38.8001858
+          -76.9416851,
+          38.8006519
         ]
       }
     },
@@ -22429,8 +23408,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9380844,
-          38.8001995
+          -76.9380839,
+          38.8001996
         ]
       }
     },
@@ -22443,7 +23422,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9354113,
+          -76.9354108,
           38.80045
         ]
       }
@@ -22457,7 +23436,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9321638,
+          -76.9321633,
           38.8002096
         ]
       }
@@ -22471,8 +23450,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9296397,
-          38.800751
+          -76.9296392,
+          38.8007512
         ]
       }
     },
@@ -22485,8 +23464,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.927647,
-          38.7974005
+          -76.9276471,
+          38.7974001
         ]
       }
     },
@@ -22499,8 +23478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9282865,
-          38.7952004
+          -76.9282866,
+          38.7952
         ]
       }
     },
@@ -22577,28 +23556,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Allentown Rd at Brinkley Rd",
-        "tag": "allentot_e"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.910006,
-          38.8008932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Suitland Metrorail Station Bay D",
         "tag": "suitmsta_d"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9325098,
-          38.8446698
+          -76.9325096,
+          38.8446696
         ]
       }
     },
@@ -22611,8 +23576,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9300746,
-          38.8435261
+          -76.9295464,
+          38.8438396
         ]
       }
     },
@@ -22625,8 +23590,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9276177,
-          38.8454813
+          -76.928252,
+          38.8448067
         ]
       }
     },
@@ -22653,8 +23618,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.925167,
-          38.849054
+          -76.9265688,
+          38.8497332
         ]
       }
     },
@@ -22683,6 +23648,48 @@
         "coordinates": [
           -76.9308481,
           38.851735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "4412 Suitland Rd",
+        "tag": "4415suit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.933318,
+          38.8523988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "4211 Suitland Rd (Opposite)",
+        "tag": "4211suit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9378827,
+          38.8539651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Capitol Crossing Apts",
+        "tag": "cpcrapts_d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9460481,
+          38.8609806
         ]
       }
     },
@@ -22737,8 +23744,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9346692,
-          38.8617993
+          -76.93467,
+          38.8618
         ]
       }
     },
@@ -22787,14 +23794,224 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Capitol Crossing Apts",
-        "tag": "cpcrapts_d"
+        "title": "4205  Suitland Rd",
+        "tag": "4205suit"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9460481,
-          38.8609806
+          -76.9378599,
+          38.8538597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "4412 Suitland Rd (Opposite)",
+        "tag": "4412suit_op"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9336634,
+          38.852427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Suitland Rd at Shadyside Ave",
+        "tag": "suitshad_o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.930133,
+          38.851357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Suitland Rd at Homer Ave",
+        "tag": "suithome_o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9277027,
+          38.8501808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Suitland Rd at Huron Ave",
+        "tag": "suithuro_o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9260387,
+          38.8493748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Silver Hill Rd at Suitland Rd",
+        "tag": "silvsuit_o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.925486,
+          38.8480858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "4615 Silver Hill Rd",
+        "tag": "4615silv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9276879,
+          38.8457906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Silver Hill Rd at Randall Rd",
+        "tag": "silvrand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9282352,
+          38.8452135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Suitland Metrorail Station Bay D",
+        "tag": "suitmsta_d2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.932224,
+          38.844825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Silver Hill Rd at Randall Rd",
+        "tag": "silvrand_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.928252,
+          38.8448067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Silver Hill Rd at Swann Rd",
+        "tag": "silvswan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9263168,
+          38.8468935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Suitland Rd at Huron Ave",
+        "tag": "suithuro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9265688,
+          38.8497332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Suitland Rd at Homer Ave",
+        "tag": "suithome"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9284263,
+          38.8506241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Suitland Rd at Shadyside Ave",
+        "tag": "suitshad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9308481,
+          38.851735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Suitland Rd at 4412 Suitland Rd",
+        "tag": "4412suit_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9333189,
+          38.852399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Suitland Rd at Opposite Prem. #4211",
+        "tag": "4211suit_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9378827,
+          38.8539651
         ]
       }
     },
@@ -22849,8 +24066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9346692,
-          38.8617993
+          -76.93467,
+          38.8618
         ]
       }
     },
@@ -22893,6 +24110,48 @@
         "coordinates": [
           -76.9386153,
           38.8554183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Capitol Crossing Apts",
+        "tag": "cpcrapts_d2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9460481,
+          38.8609806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "4205  Suitland Rd",
+        "tag": "4205suit_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9378599,
+          38.8538597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "4412 Suitland Rd (Opposite)",
+        "tag": "4412suit_i2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9336634,
+          38.852427
         ]
       }
     },
@@ -22955,14 +24214,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Silver Hill Rd at Swann Rd",
-        "tag": "34_9"
+        "title": "4615 Silver Hill Rd",
+        "tag": "4615silv_i"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.927276,
-          38.8462249
+          -76.9276879,
+          38.8457906
         ]
       }
     },
@@ -22989,7 +24248,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.975403,
+          -76.9754029,
           38.840552
         ]
       }
@@ -23089,6 +24348,20 @@
         "coordinates": [
           -76.994006,
           38.826973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Southern Ave at Bonini Rd",
+        "tag": "soutboni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.996031,
+          38.8253934
         ]
       }
     },
@@ -23221,28 +24494,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Water Street at Potomac Passage",
-        "tag": "potowate"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0156851,
-          38.7855665
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Stars Entrance Gaylord Hotel at National Harbor Blvd",
         "tag": "gaylhote"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0166597,
-          38.7796004
+          -77.01666,
+          38.7796
         ]
       }
     },
@@ -23353,8 +24612,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9770924,
-          38.8048191
+          -76.975131,
+          38.805212
         ]
       }
     },
@@ -23381,8 +24640,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9777762,
-          38.8020276
+          -76.9781746,
+          38.80172
         ]
       }
     },
@@ -23395,15 +24654,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9795762,
-          38.7995796
+          -76.9801559,
+          38.8001379
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Bock Rd at 6801 Woodside Village Apts",
+        "title": "6801 Woodside Village Apts",
         "tag": "bockwood"
       },
       "geometry": {
@@ -23417,28 +24676,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bock Rd at Belfast Drive",
+        "title": "Bock Rd at Belfast Dr",
         "tag": "bockbelf_o"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9762333,
-          38.7958082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bock Rd at Sourwood Ln",
-        "tag": "bocksour"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9746934,
-          38.7940797
+          -76.9762816,
+          38.7958625
         ]
       }
     },
@@ -23465,22 +24710,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9741546,
-          38.7935423
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bock Rd @ Belfast Dr",
-        "tag": "bock_belf"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9761776,
-          38.7958055
+          -76.974384,
+          38.7937944
         ]
       }
     },
@@ -23493,8 +24724,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9778534,
-          38.7977095
+          -76.9785942,
+          38.7985743
         ]
       }
     },
@@ -23627,104 +24858,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Brinkley Rd at Huntley Square Dr",
-        "tag": "brinhusq"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9501077,
-          38.8031813
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brinkley Rd at Cherryfield Rd",
-        "tag": "brincher"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9416852,
-          38.800652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brinkley Rd at Middlefield Rd",
-        "tag": "brinmidd"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9380842,
-          38.8001996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brinkley Rd at Trude St",
-        "tag": "brintrud_o"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9354111,
-          38.80045
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brinkley Rd at Farmer Dr",
-        "tag": "brinfarm_o"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9321635,
-          38.8002096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brinkley Rd at Temple Hill Rd",
-        "tag": "brintemp"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9273904,
-          38.8012434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brinkley Rd at Summerhill Rd",
-        "tag": "brinsumm"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9244101,
-          38.8018359
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Brinkley Rd at Shopton Pl",
         "tag": "brinshop"
       },
@@ -23831,20 +24964,6 @@
         "coordinates": [
           -76.9276484,
           38.7971358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brinkley Rd at Lujean Ln",
-        "tag": "brinluje"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9304074,
-          38.8006247
         ]
       }
     },
@@ -24040,7 +25159,7 @@
         "type": "Point",
         "coordinates": [
           -76.9762333,
-          38.7958082
+          38.7958083
         ]
       }
     },
@@ -24271,20 +25390,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Indian Head Highway (MD. RTE. 210) at Livingston Road",
-        "tag": "indilivi_i"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.99872,
-          38.81651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Indian Head Highway at Audrey Ln",
         "tag": "indiaudr"
       },
@@ -24334,21 +25439,7 @@
         "type": "Point",
         "coordinates": [
           -76.9972907,
-          38.8243169
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Southern Ave at Owens Road",
-        "tag": "soutowen"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.99626,
-          38.8251284
+          38.824317
         ]
       }
     },
@@ -24403,8 +25494,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9868766,
-          38.8323583
+          -76.9872902,
+          38.8320412
         ]
       }
     },
@@ -24439,6 +25530,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Southern Ave at Forest Hills Apartment",
+        "tag": "soutfore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9828751,
+          38.8354889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Southern Ave at Opposite 1380 Southern Ave",
         "tag": "1380sout"
       },
@@ -24460,8 +25565,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0005217,
-          38.7985339
+          -77.0004176,
+          38.7984947
         ]
       }
     },
@@ -24482,6 +25587,91 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "St George Blvd at Waterfront St",
+        "tag": "georwate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0143799,
+          38.7817999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxon Hill Rd at Tanger Blvd",
+        "tag": "oxontang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.003369,
+          38.797028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OXON HILL FRINGE PARK AND RIDE LOT AT BUS BAY F",
+        "tag": "oxhfprlt2",
+        "stopId": "3002809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0004173,
+          38.7984946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxon Hill Rd at Oxon Hill Manor",
+        "tag": "oxonmano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0038626,
+          38.7939052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxon Hill Rd at MGM Employment Center",
+        "tag": "oxonempl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0041489,
+          38.791875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxon Hill Rd at Kerby Pkwy",
+        "tag": "oxonkirb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.006282,
+          38.77859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "OXON HILL ROAD AT CROSS FOXES DR",
         "tag": "oxhrcfox",
         "stopId": "3002647"
@@ -24490,7 +25680,21 @@
         "type": "Point",
         "coordinates": [
           -77.0061281,
-          38.775273
+          38.7752731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxon Hill at Joellyn Ct",
+        "tag": "oxonjoel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.005425,
+          38.7640099
         ]
       }
     },
@@ -24519,8 +25723,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9991706,
+          -76.9991707,
           38.7428348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ft Washington Rd at Indian Head Hwy",
+        "tag": "washindi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9927769,
+          38.7426774
         ]
       }
     },
@@ -24541,117 +25759,56 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Ft Washington Rd at Indian Head Hwy",
+        "tag": "washindi2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9916603,
+          38.7427272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "LIVINGSTON ROAD AT FORT WASHINGTON MEDICAL CENTER",
         "tag": "livmedc"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9918509,
-          38.7292489
+          -76.991851,
+          38.729249
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "SWAN CREEK ROAD AT OLD FORTE VILLAGE SHOPPING CENTER #974",
-        "tag": "swanfvil"
+        "title": "East Swan Creek at Indian Head Hwy",
+        "tag": "swanhead"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9919869,
-          38.725166
+          -76.990247,
+          38.7256109
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "SWAN CREEK ROAD AT FORT WASHINGTON PARK AND RIDE LOT",
-        "tag": "swanwash",
-        "stopId": "3002814"
+        "title": "Fort Washington Fringe Lot Bus Bay B",
+        "tag": "swanwash"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9948188,
-          38.724461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "INDIAN HEAD HWY AT FORT WASHINGTON MANOR SENIOR RESIDENCES",
-        "tag": "indhwash_ib"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9898378,
-          38.7432938
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "LIVINGSTON RD AT FORT WASHINGTON RD",
-        "tag": "livfwash_ib",
-        "stopId": "3000127"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9990589,
-          38.7428244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "OXON HILL ROAD AT LIVINGSTON RD",
-        "tag": "oxhrlivi_ib",
-        "stopId": "3000151"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9973517,
-          38.7579913
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "OXON HILL ROAD AT CROSS FOXES DR",
-        "tag": "oxhrcfox_ib",
-        "stopId": "3002646"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0059972,
-          38.7755401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "OXON HILL FRINGE PARK AND RIDE LOT AT BUS BAY F (Arrival)",
-        "tag": "oxhfprlt_a",
-        "stopId": "3002809"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.000417,
-          38.7984945
+          -76.9948795,
+          38.7246471
         ]
       }
     },
@@ -24688,29 +25845,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Woodyard Road at CVS Pharmacy",
-        "tag": "woodcvsp",
-        "stopId": "36003"
+        "title": "Woodyard Rd at Pine View Ln",
+        "tag": "woodpine"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8896232,
-          38.7668235
+          -76.8895751,
+          38.7668264
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Brandywine Rd at Horshoe Rd.",
-        "tag": "branhors_o"
+        "title": "Brandywine Rd at Woodyard Rd",
+        "tag": "branwood"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8977468,
-          38.7644834
+          -76.898051,
+          38.765117
         ]
       }
     },
@@ -24738,7 +25894,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.895041,
+          -76.8950409,
           38.756196
         ]
       }
@@ -24805,6 +25961,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Brandywine Rd at Old Marbury Rd",
+        "tag": "branold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8923329,
+          38.7199135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Brandywine Rd at Lytton Ave",
         "tag": "branlytt_o"
       },
@@ -24849,7 +26019,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Brandywine Crossing",
+        "title": "Matapeake Business Dr at Target Store",
         "tag": "brancros_o",
         "stopId": "36010"
       },
@@ -24864,7 +26034,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mattawoman Beantown Road",
+        "title": "Mattawoman Beantown Rd at Pinefield Center",
         "tag": "mattbean_o",
         "stopId": "36011"
       },
@@ -24907,7 +26077,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mattawoman Beantown Rd",
+        "title": "Mattawoman Beantown Rd at Pinefield Center",
         "tag": "mattbean",
         "stopId": "36011"
       },
@@ -24922,7 +26092,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Brandywine Crossing",
+        "title": "Matapeake Business Dr at Target Store (opposite)",
         "tag": "brancros",
         "stopId": "36012"
       },
@@ -24975,6 +26145,20 @@
         "coordinates": [
           -76.8901954,
           38.717516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brandywine Rd at Old Marbury Rd",
+        "tag": "branold_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8924782,
+          38.7202496
         ]
       }
     },
@@ -25083,7 +26267,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "8924 Woodyard Road",
+        "title": "Woodyard Rd at Pine View Lane",
         "tag": "8924wood",
         "stopId": "36019"
       },
@@ -25426,8 +26610,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9582799,
-          38.775319
+          -76.9576619,
+          38.775444
         ]
       }
     },
@@ -25680,20 +26864,6 @@
         "coordinates": [
           -76.9913572,
           38.8288658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "SOUTHERN AVENUE & 9TH STREET SE",
-        "tag": "sav9th_n"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9887106,
-          38.8309444
         ]
       }
     },
@@ -26190,14 +27360,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "TUCKER ROAD & ARUNDEL ROAD",
+        "title": "TUCKER RD & ALLENTOWN RD",
         "tag": "tuckarun_s"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9522856,
-          38.7763726
+          -76.952022,
+          38.776506
         ]
       }
     },
@@ -26210,8 +27380,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9509453,
-          38.7772415
+          -76.9509455,
+          38.7772414
         ]
       }
     },
@@ -26224,8 +27394,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9499376,
-          38.7780773
+          -76.9499377,
+          38.7780772
         ]
       }
     },
@@ -26238,8 +27408,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9481196,
-          38.7794732
+          -76.9481197,
+          38.7794731
         ]
       }
     },
@@ -26252,8 +27422,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9456438,
-          38.781089
+          -76.945644,
+          38.7810889
         ]
       }
     },
@@ -26266,8 +27436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.942798,
-          38.7827879
+          -76.9427981,
+          38.7827878
         ]
       }
     },
@@ -26280,8 +27450,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9402137,
-          38.7850792
+          -76.9402138,
+          38.7850791
         ]
       }
     },
@@ -26295,7 +27465,7 @@
         "type": "Point",
         "coordinates": [
           -76.9385719,
-          38.7874031
+          38.787403
         ]
       }
     },
@@ -26308,8 +27478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9372789,
-          38.788869
+          -76.937279,
+          38.7888689
         ]
       }
     },
@@ -26322,8 +27492,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9363093,
-          38.7898404
+          -76.9363095,
+          38.7898403
         ]
       }
     },
@@ -26336,8 +27506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9316278,
-          38.7916101
+          -76.9316279,
+          38.79161
         ]
       }
     },
@@ -26518,8 +27688,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7463368,
-          38.8124411
+          -76.746337,
+          38.812441
         ]
       }
     },
@@ -26532,8 +27702,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7481561,
-          38.812184
+          -76.7481572,
+          38.8121851
         ]
       }
     },
@@ -26546,8 +27716,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7496349,
-          38.8147831
+          -76.7496351,
+          38.8147827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Access rd at West Court Dr",
+        "tag": "accewest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7515756,
+          38.8159188
         ]
       }
     },
@@ -26560,22 +27744,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7521836,
-          38.8170272
+          -76.7521835,
+          38.817027
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Courthouse",
-        "tag": "courthou_s"
+        "title": "Equestrian Center Lot 3",
+        "tag": "eque3_i"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7496384,
-          38.8147817
+          -76.7463362,
+          38.8124406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Equestrian Center Lot 4",
+        "tag": "eque4_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7483295,
+          38.8120595
         ]
       }
     },
@@ -26652,14 +27850,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Marlboro Meadows",
+        "title": "Old Crain Hwy at Villiage Drive West",
         "tag": "marlm_d"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7264882,
-          38.8407298
+          -76.72704,
+          38.84069
         ]
       }
     },
@@ -26688,6 +27886,20 @@
         "coordinates": [
           -76.7343768,
           38.8239924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Marlboro Pike  at Peerless Ave",
+        "tag": "marlpeer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7427089,
+          38.8221316
         ]
       }
     },
@@ -26772,20 +27984,6 @@
         "coordinates": [
           -76.772081,
           38.8232053
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "DWI Facility",
-        "tag": "dwifac"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.7738512,
-          38.8224392
         ]
       }
     },
@@ -26918,6 +28116,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Old Marlboro Pike at Old Mill Rd",
+        "tag": "oldmill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.75632,
+          38.81771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Elm St at Governor Oden Bowie Dr",
         "tag": "elmgove"
       },
@@ -26926,6 +28138,20 @@
         "coordinates": [
           -76.7521883,
           38.8170151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Marlboro Pike at Peerless Ave",
+        "tag": "oldpeer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7426679,
+          38.8220827
         ]
       }
     },
@@ -26960,14 +28186,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Marlboro Meadows",
+        "title": "Old Crain Hwy at Villiage Drive West",
         "tag": "marlm_c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7269701,
-          38.8403321
+          -76.7269899,
+          38.84066
         ]
       }
     },

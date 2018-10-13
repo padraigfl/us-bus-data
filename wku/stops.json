@@ -7,19 +7,19 @@
       "tag": "cambpknr_d",
       "lat": "36.964266"
     },
-    "scam_ob": {
-      "lon": "-86.4674307",
-      "title": "SOUTH CAMPUS",
-      "stopId": "0002",
-      "tag": "scam_ob",
-      "lat": "36.9656703"
-    },
     "evolvill_ob": {
-      "lon": "-86.4658981",
+      "lon": "-86.4658982",
       "title": "CAMPUS EVOLUTION VILLAGE (CEV)",
       "stopId": "0021",
       "tag": "evolvill_ob",
-      "lat": "36.9780951"
+      "lat": "36.978095"
+    },
+    "creapknr_ob": {
+      "lon": "-86.4637947",
+      "title": "CREASON PARK & RIDE",
+      "stopId": "0020",
+      "tag": "creapknr_ob",
+      "lat": "36.9808987"
     },
     "univlot": {
       "lon": "-86.4591",
@@ -92,11 +92,11 @@
       "lat": "36.977701"
     },
     "scam": {
-      "lon": "-86.4674099",
+      "lon": "-86.46741",
       "title": "SOUTH CAMPUS",
       "stopId": "0008",
       "tag": "scam",
-      "lat": "36.9657199"
+      "lat": "36.96572"
     },
     "cambpknr": {
       "lon": "-86.469803",
@@ -169,31 +169,15 @@
       "tag": "mimo",
       "lat": "36.983135"
     },
-    "stat11th": {
-      "lon": "-86.44331",
-      "title": "STATE & 11TH AVE",
-      "shortTitle": "STATE & 11TH",
+    "11thcoll": {
+      "lon": "-86.443358",
+      "title": "11TH & COLLEGE",
       "stopId": "0015",
-      "tag": "stat11th",
-      "lat": "36.9909799"
-    },
-    "8thcent": {
-      "lon": "-86.4407694",
-      "title": "8TH & CENTER ST",
-      "shortTitle": "8TH & CENTER",
-      "stopId": "0017",
-      "tag": "8thcent",
-      "lat": "36.9953094"
-    },
-    "cent11th": {
-      "lon": "-86.4450303",
-      "title": "CENTER & 11TH",
-      "stopId": "0019",
-      "tag": "cent11th",
-      "lat": "36.9933984"
+      "tag": "11thcoll",
+      "lat": "36.991501"
     },
     "coluapts": {
-      "lon": "-86.4469779",
+      "lon": "-86.446978",
       "title": "COLUMNS APARTMENTS",
       "stopId": "0051",
       "tag": "coluapts",
@@ -215,7 +199,7 @@
     },
     "mmth": {
       "lon": "-86.45634",
-      "title": "MMTH",
+      "title": "JODY RICHARDS HALL",
       "stopId": "0006",
       "tag": "mmth",
       "lat": "36.98252"
@@ -226,13 +210,6 @@
       "stopId": "0007",
       "tag": "pft",
       "lat": "36.98028"
-    },
-    "scamp_c": {
-      "lon": "-86.4674299",
-      "title": "SOUTH CAMPUS",
-      "stopId": "0002",
-      "tag": "scamp_c",
-      "lat": "36.96567"
     },
     "cherhall": {
       "lon": "-86.4505676",
@@ -249,11 +226,11 @@
       "lat": "36.977701"
     },
     "scamp_pknr": {
-      "lon": "-86.4674099",
+      "lon": "-86.46741",
       "title": "SOUTH CAMPUS",
       "stopId": "0008",
       "tag": "scamp_pknr",
-      "lat": "36.9657199"
+      "lat": "36.96572"
     }
   },
   "copyright": "All data copyright Western Kentucky University 2018."

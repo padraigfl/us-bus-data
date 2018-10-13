@@ -572,11 +572,11 @@
       "lat": "38.947839"
     },
     "12_12": {
-      "lon": "-76.9669291",
-      "title": "Arundel Rd at 30th St",
-      "shortTitle": "Arundel @ 30th",
+      "lon": "-76.9678764",
+      "title": "Arundel Rd at 29th St",
+      "shortTitle": "Arundel @ 29th",
       "tag": "12_12",
-      "lat": "38.9466454"
+      "lat": "38.94627"
     },
     "12_11": {
       "lon": "-76.9705406",
@@ -675,13 +675,6 @@
       "tag": "ri_34thst",
       "lat": "38.936099"
     },
-    "12_39": {
-      "lon": "-76.96001",
-      "title": "Rhode Island Ave at Mt Rainier",
-      "shortTitle": "Rhode Island @ Mt Rainier",
-      "tag": "12_39",
-      "lat": "38.93673"
-    },
     "12_40": {
       "lon": "-76.9580856",
       "title": "Rhode Island Ave at 37th St",
@@ -690,11 +683,11 @@
       "lat": "38.9376921"
     },
     "12_41": {
-      "lon": "-76.9552088",
-      "title": "Rhode Island Ave at 39th St",
-      "shortTitle": "Rhode Island @ 39th",
+      "lon": "-76.9551786",
+      "title": "Rhode Island Ave at 38th St",
+      "shortTitle": "Rhode Island @ 38th",
       "tag": "12_41",
-      "lat": "38.9392507"
+      "lat": "38.9392717"
     },
     "12_42": {
       "lon": "-76.954226",
@@ -715,6 +708,13 @@
       "title": "Gwendolyn Britt Center",
       "tag": "gwenbritt",
       "lat": "38.9446809"
+    },
+    "voltrhod": {
+      "lon": "-76.9526089",
+      "title": "Volta Ave at Rhode Island Ave",
+      "shortTitle": "Volta @ Rhode Island",
+      "tag": "voltrhod",
+      "lat": "38.9424333"
     },
     "12_47": {
       "lon": "-76.9551739",
@@ -778,13 +778,6 @@
       "shortTitle": "Hamilton @ 35th",
       "tag": "hami35",
       "lat": "38.9550473"
-    },
-    "hamiquee": {
-      "lon": "-76.9617517",
-      "title": "Hamilton St at Queens Chapel Rd",
-      "shortTitle": "Hamilton @ Queens Chapel",
-      "tag": "hamiquee",
-      "lat": "38.9556308"
     },
     "hami31": {
       "lon": "-76.9632519",
@@ -1074,6 +1067,13 @@
       "tag": "agerpeab_nb",
       "lat": "38.9660149"
     },
+    "ager23rd": {
+      "lon": "-76.974805",
+      "title": "Ager Rd at 23rd Ave",
+      "shortTitle": "Ager @ 23rd",
+      "tag": "ager23rd",
+      "lat": "38.9669726"
+    },
     "easttole_nb": {
       "lon": "-76.9626005",
       "title": "East-West Hwy at Toledo Terr",
@@ -1081,32 +1081,39 @@
       "tag": "easttole_nb",
       "lat": "38.96698"
     },
+    "westmetr": {
+      "lon": "-76.957942",
+      "title": "East-West Hwy at Metro Center Dr",
+      "shortTitle": "East-West Hwy @ Metro Center Dr",
+      "tag": "westmetr",
+      "lat": "38.9667262"
+    },
     "pgplaza_nb": {
       "lon": "-76.9556052",
       "title": "PG Plaza Station",
       "tag": "pgplaza_nb",
       "lat": "38.965482"
     },
+    "belc6505": {
+      "lon": "-76.95399",
+      "title": "Belcrest Rd at 6505 Belcrest Rd",
+      "shortTitle": "Belcrest @ 6505 Belcrest",
+      "tag": "belc6505",
+      "lat": "38.96796"
+    },
     "tolebelc_nb": {
-      "lon": "-76.9530394",
+      "lon": "-76.9538212",
       "title": "Toledo Rd at Belcrest Rd",
       "shortTitle": "Toledo @ Belcrest",
       "tag": "tolebelc_nb",
-      "lat": "38.9698511"
+      "lat": "38.9696651"
     },
     "toleadel_nb": {
-      "lon": "-76.9499952",
-      "title": "Toledo Rd at Adelphia Rd",
-      "shortTitle": "Toledo @ Adelphia",
+      "lon": "-76.9498017",
+      "title": "Toledo Rd at Adelphi Rd",
+      "shortTitle": "Toledo @ Adelphi",
       "tag": "toleadel_nb",
-      "lat": "38.9700001"
-    },
-    "queebelc_nb": {
-      "lon": "-76.951395",
-      "title": "Queens Chapel Rd at Belcrest Rd",
-      "shortTitle": "Queens Chapel @ Belcrest",
-      "tag": "queebelc_nb",
-      "lat": "38.9642398"
+      "lat": "38.9700077"
     },
     "quee39pl_nb": {
       "lon": "-76.950249",
@@ -1192,11 +1199,11 @@
       "lat": "38.9487276"
     },
     "40plgall_nb": {
-      "lon": "-76.9485069",
+      "lon": "-76.9485615",
       "title": "40th Pl at Gallatin St",
       "shortTitle": "40th Pl @ Gallatin",
       "tag": "40plgall_nb",
-      "lat": "38.9516739"
+      "lat": "38.9517712"
     },
     "hami3900_n": {
       "lon": "-76.9527224",
@@ -1247,10 +1254,10 @@
       "lat": "38.9564028"
     },
     "cps_d": {
-      "lon": "-76.927436",
+      "lon": "-76.9274359",
       "title": "College Park Station",
       "tag": "cps_d",
-      "lat": "38.978135"
+      "lat": "38.9781349"
     },
     "riverrdb_o": {
       "lon": "-76.9285102",
@@ -1448,13 +1455,6 @@
       "tag": "14_49_o",
       "lat": "38.9602798"
     },
-    "14_2_o": {
-      "lon": "-76.9268677",
-      "title": "5023 Riverdale Rd",
-      "shortTitle": "5023 Riverdale",
-      "tag": "14_2_o",
-      "lat": "38.9607872"
-    },
     "14_50": {
       "lon": "-76.9293296",
       "title": "Riverdale Rd at Taylor Rd",
@@ -1503,12 +1503,6 @@
       "shortTitle": "Queensbury @ 44th Pl",
       "tag": "14_26",
       "lat": "38.9631444"
-    },
-    "14_11_o": {
-      "lon": "-76.940492",
-      "title": "Crescent Cities Center",
-      "tag": "14_11_o",
-      "lat": "38.9631882"
     },
     "14_64_o": {
       "lon": "-76.9423119",
@@ -1566,6 +1560,13 @@
       "tag": "belcresd_o",
       "lat": "38.96815"
     },
+    "belcpgpl_o": {
+      "lon": "-76.9541497",
+      "title": "Belcrest Rd at PG Plaza Metrorail",
+      "shortTitle": "Belcrest @ PG Plaza Metrorail",
+      "tag": "belcpgpl_o",
+      "lat": "38.9660498"
+    },
     "pgpl_a": {
       "lon": "-76.9567858",
       "title": "Prince George's Plaza - Arrival",
@@ -1578,12 +1579,12 @@
       "tag": "pgpl_d",
       "lat": "38.96509"
     },
-    "belcresd": {
-      "lon": "-76.953987",
-      "title": "Belcrest Rd at PG Plaza Entrance",
-      "shortTitle": "Belcrest @ PG Plaza Entrance",
-      "tag": "belcresd",
-      "lat": "38.9679528"
+    "belcpgpl_i": {
+      "lon": "-76.954047",
+      "title": "Belcrest Rd at Opp. PG Plaza Station",
+      "shortTitle": "Belcrest @ Opp. PG Plaza Station",
+      "tag": "belcpgpl_i",
+      "lat": "38.9669599"
     },
     "toledort": {
       "lon": "-76.9530408",
@@ -1626,12 +1627,6 @@
       "shortTitle": "Queensbury @ 44th",
       "tag": "14_64",
       "lat": "38.9633091"
-    },
-    "14_11": {
-      "lon": "-76.9409699",
-      "title": "Crescent Cities Center",
-      "tag": "14_11",
-      "lat": "38.9632099"
     },
     "14_28": {
       "lon": "-76.9397468",
@@ -2264,12 +2259,6 @@
       "tag": "60thgree",
       "lat": "38.9975023"
     },
-    "beltshop_n": {
-      "lon": "-76.9119",
-      "title": "Beltway Plaza Shopping Center",
-      "tag": "beltshop_n",
-      "lat": "38.9981499"
-    },
     "breezewo_n": {
       "lon": "-76.9095384",
       "title": "Breezewood Dr at Cherrywood Ln",
@@ -2340,6 +2329,13 @@
       "tag": "greecher_s",
       "lat": "39.0113897"
     },
+    "cherspri": {
+      "lon": "-76.9051168",
+      "title": "Cherrywood Ln at Springhill Drive",
+      "shortTitle": "Cherrywood Ln @ Springhill Drive",
+      "tag": "cherspri",
+      "lat": "39.0084807"
+    },
     "springhd": {
       "lon": "-76.9055052",
       "title": "Springhill Dr at Cherrywood Ln",
@@ -2347,19 +2343,19 @@
       "tag": "springhd",
       "lat": "39.0070151"
     },
+    "6027spri": {
+      "lon": "-76.9037143",
+      "title": "Springhill Dr at 6027 Springhill Dr",
+      "shortTitle": "Springhill Dr @ 6027 Springhill Dr",
+      "tag": "6027spri",
+      "lat": "39.0058679"
+    },
     "springhl": {
       "lon": "-76.9035186",
       "title": "Springhill Ln at Springhill Dr",
       "shortTitle": "Springhill Ln @ Springhill Dr",
       "tag": "springhl",
       "lat": "39.0057421"
-    },
-    "16_49": {
-      "lon": "-76.9025647",
-      "title": "Springhill Dr at Springhill Ln",
-      "shortTitle": "Springhill Dr @ Springhill Ln",
-      "tag": "16_49",
-      "lat": "39.0045352"
     },
     "springhi": {
       "lon": "-76.9032336",
@@ -2398,7 +2394,8 @@
     },
     "beltshop_s": {
       "lon": "-76.9117799",
-      "title": "Beltway Plaza Shopping Center",
+      "title": "Cherrywood Ln at Greenbelt Rd (MD. RTE. 193)",
+      "shortTitle": "Cherrywood Ln @ Greenbelt (MD. RTE. 193)",
       "tag": "beltshop_s",
       "lat": "38.99941"
     },
@@ -2583,67 +2580,74 @@
       "lat": "38.9763275"
     },
     "lamontdt": {
-      "lon": "-76.88215",
-      "title": "Lamont Dr at Donoghue Dr",
-      "shortTitle": "Lamont Dr @ Donoghue Dr",
+      "lon": "-76.882078",
+      "title": "Lamont Dr at Lamont Pl",
+      "shortTitle": "Lamont Dr @ Lamont Pl",
       "tag": "lamontdt",
-      "lat": "38.97443"
+      "lat": "38.974334"
     },
     "16_36": {
       "lon": "-76.8809203",
       "title": "Lamont Dr at Quentin St",
       "shortTitle": "Lamont Dr @ Quentin",
       "tag": "16_36",
-      "lat": "38.9722325"
+      "lat": "38.9722329"
     },
     "16_30": {
-      "lon": "-76.8804294",
+      "lon": "-76.8804295",
       "title": "Lamont Dr at Carrollton Pkwy",
       "shortTitle": "Lamont Dr @ Carrollton Pkwy",
       "tag": "16_30",
-      "lat": "38.9700281"
+      "lat": "38.9700285"
     },
     "16_37": {
       "lon": "-76.8805297",
       "title": "Lamont Dr at Westbrook Dr",
       "shortTitle": "Lamont Dr @ Westbrook Dr",
       "tag": "16_37",
-      "lat": "38.9660124"
+      "lat": "38.9660128"
     },
     "lamontdr": {
-      "lon": "-76.8820158",
+      "lon": "-76.8820155",
       "title": "Lamont Dr at Powhatan St",
       "shortTitle": "Lamont Dr @ Powhatan",
       "tag": "lamontdr",
-      "lat": "38.9618352"
+      "lat": "38.9618355"
     },
     "16_3": {
-      "lon": "-76.8795234",
+      "lon": "-76.8795239",
       "title": "7600 Riverdale Rd",
       "shortTitle": "7600 Riverdale",
       "tag": "16_3",
-      "lat": "38.9600611"
+      "lat": "38.9600613"
     },
     "16_40": {
-      "lon": "-76.8776618",
+      "lon": "-76.8776623",
       "title": "Riverdale Rd at Fountainbleau Dr",
       "shortTitle": "Riverdale @ Fountainbleau Dr",
       "tag": "16_40",
-      "lat": "38.9596203"
+      "lat": "38.9596204"
     },
     "16_41": {
-      "lon": "-76.8751032",
+      "lon": "-76.8751035",
       "title": "Riverdale Rd at Heritage Square Apts",
       "shortTitle": "Riverdale @ Heritage Square Apts",
       "tag": "16_41",
-      "lat": "38.9584332"
+      "lat": "38.9584335"
     },
     "rivcmall": {
-      "lon": "-76.8742111",
+      "lon": "-76.8742114",
       "title": "Riverdale Rd at Carrollton Mall",
       "shortTitle": "Riverdale @ Carrollton Mall",
       "tag": "rivcmall",
-      "lat": "38.9574812"
+      "lat": "38.9574816"
+    },
+    "annarive_i": {
+      "lon": "-76.8723",
+      "title": "Annapolis Rd at Riverdale Rd",
+      "shortTitle": "Annapolis @ Riverdale",
+      "tag": "annarive_i",
+      "lat": "38.9559499"
     },
     "16_5": {
       "lon": "-76.8700179",
@@ -2687,6 +2691,13 @@
       "tag": "rhod37pl_n",
       "lat": "38.9381124"
     },
+    "rhod38th_n": {
+      "lon": "-76.9551682",
+      "title": "Rhode Island Ave at 38th St",
+      "shortTitle": "Rhode Island @ 38th",
+      "tag": "rhod38th_n",
+      "lat": "38.9392748"
+    },
     "rhodbunk": {
       "lon": "-76.9542262",
       "title": "Rhode Island Ave at Bunker Hill Rd",
@@ -2722,13 +2733,6 @@
       "tag": "rhodchar",
       "lat": "38.9459397"
     },
-    "rhodchar2": {
-      "lon": "-76.9455855",
-      "title": "Rhode Island Ave at Charles Armentrout Way (2)",
-      "shortTitle": "Rhode Island @ Charles Armentrout Way (2)",
-      "tag": "rhodchar2",
-      "lat": "38.9462135"
-    },
     "rhod41st": {
       "lon": "-76.9454023",
       "title": "Rhode Island Ave at 41st Place",
@@ -2744,11 +2748,11 @@
       "lat": "38.948414"
     },
     "cosvbldg_n": {
-      "lon": "-76.94195",
-      "title": "Farragut Street",
-      "shortTitle": "Farragut",
+      "lon": "-76.941567",
+      "title": "Rhode Island Ave at County Service Building - NB",
+      "shortTitle": "Rhode Island @ County Service Building - NB",
       "tag": "cosvbldg_n",
-      "lat": "38.9500499"
+      "lat": "38.950526"
     },
     "rhodalt1": {
       "lon": "-76.9404499",
@@ -2762,7 +2766,7 @@
       "title": "Baltimore Ave at Hamilton St",
       "shortTitle": "Baltimore @ Hamilton",
       "tag": "balthami",
-      "lat": "38.9541103"
+      "lat": "38.9541102"
     },
     "baltlong_n": {
       "lon": "-76.9400446",
@@ -2772,7 +2776,7 @@
       "lat": "38.9568353"
     },
     "baltogle_n": {
-      "lon": "-76.9397698",
+      "lon": "-76.9397699",
       "title": "Baltimore Ave at Oglethorpe St",
       "shortTitle": "Baltimore @ Oglethorpe",
       "tag": "baltogle_n",
@@ -2783,21 +2787,21 @@
       "title": "Baltimore Ave at Harrison Ave",
       "shortTitle": "Baltimore @ Harrison",
       "tag": "baltharr",
-      "lat": "38.9615309"
+      "lat": "38.9615308"
     },
     "baltrive": {
       "lon": "-76.9393398",
       "title": "Baltimore Ave at Riverdale Rd",
       "shortTitle": "Baltimore @ Riverdale",
       "tag": "baltrive",
-      "lat": "38.962471"
+      "lat": "38.9624709"
     },
     "balteawe_n": {
       "lon": "-76.93907",
       "title": "Baltimore Ave at East-West Hwy",
       "shortTitle": "Baltimore @ East-West Hwy",
       "tag": "balteawe_n",
-      "lat": "38.96432"
+      "lat": "38.9643199"
     },
     "baltsher": {
       "lon": "-76.9388396",
@@ -2946,26 +2950,33 @@
       "tag": "baltcher",
       "lat": "39.014114"
     },
+    "ikea2": {
+      "lon": "-76.92819",
+      "title": "Ikea at Bus Bay 2",
+      "shortTitle": "Ikea @ Bus Bay 2",
+      "tag": "ikea2",
+      "lat": "39.02222"
+    },
     "ikea_d": {
-      "lon": "-76.9281901",
-      "title": "Ikea Way at IKEA Center Blvd",
-      "shortTitle": "Ikea Way @ IKEA Center",
+      "lon": "-76.926854",
+      "title": "Ikea at Bus Bay 3",
+      "shortTitle": "Ikea @ Bus Bay 3",
       "tag": "ikea_d",
-      "lat": "39.0222201"
+      "lat": "39.0215869"
     },
     "baltcher_s": {
       "lon": "-76.9278986",
       "title": "Baltimore Ave at Cherry Hill Road",
       "shortTitle": "Baltimore @ Cherry Hill",
       "tag": "baltcher_s",
-      "lat": "39.0138665"
+      "lat": "39.0138666"
     },
     "baltholly": {
       "lon": "-76.9284845",
       "title": "Baltimore Ave at Hollywood Rd",
       "shortTitle": "Baltimore @ Hollywood",
       "tag": "baltholly",
-      "lat": "39.0117092"
+      "lat": "39.0117093"
     },
     "baltindia": {
       "lon": "-76.9293253",
@@ -2973,13 +2984,6 @@
       "shortTitle": "Baltimore @ Indian Ln",
       "tag": "baltindia",
       "lat": "39.0086961"
-    },
-    "baltfox": {
-      "lon": "-76.9293355",
-      "title": "Baltimore Ave at Fox Street",
-      "shortTitle": "Baltimore @ Fox",
-      "tag": "baltfox",
-      "lat": "39.0086592"
     },
     "balterie": {
       "lon": "-76.9298553",
@@ -2993,7 +2997,7 @@
       "title": "Baltimore Ave at Cherokee St",
       "shortTitle": "Baltimore @ Cherokee",
       "tag": "baltchero",
-      "lat": "39.0038634"
+      "lat": "39.0038635"
     },
     "baltuniv": {
       "lon": "-76.9312801",
@@ -3010,7 +3014,7 @@
       "lat": "38.9982077"
     },
     "baltberw": {
-      "lon": "-76.9318089",
+      "lon": "-76.9318088",
       "title": "Baltimore Ave at Berwyn Rd",
       "shortTitle": "Baltimore @ Berwyn",
       "tag": "baltberw",
@@ -3038,11 +3042,11 @@
       "lat": "38.98811"
     },
     "cps_s": {
-      "lon": "-76.927436",
+      "lon": "-76.9274359",
       "title": "College Park Metro Station at Bus Bay B",
       "shortTitle": "College Park Metro Station @ Bus Bay B",
       "tag": "cps_s",
-      "lat": "38.978135"
+      "lat": "38.9781349"
     },
     "painbalt2_s": {
       "lon": "-76.9332091",
@@ -3128,13 +3132,6 @@
       "tag": "baltquee",
       "lat": "38.9630764"
     },
-    "baltoliv": {
-      "lon": "-76.9395796",
-      "title": "Baltimore Ave at Oliver St",
-      "shortTitle": "Baltimore @ Oliver",
-      "tag": "baltoliv",
-      "lat": "38.9615301"
-    },
     "baltogle": {
       "lon": "-76.9398702",
       "title": "Baltimore Ave at Oglethorpe St",
@@ -3164,67 +3161,67 @@
       "lat": "38.9525556"
     },
     "cosvbldg": {
-      "lon": "-76.94204",
-      "title": "Farragut Street",
-      "shortTitle": "Farragut",
+      "lon": "-76.941658",
+      "title": "Rhode Island Ave at County Service Building - SB",
+      "shortTitle": "Rhode Island @ County Service Building - SB",
       "tag": "cosvbldg",
-      "lat": "38.95011"
+      "lat": "38.950569"
     },
     "rhod42pl": {
-      "lon": "-76.9435157",
+      "lon": "-76.9435153",
       "title": "Rhode Island Ave at 42nd Pl",
       "shortTitle": "Rhode Island @ 42nd Pl",
       "tag": "rhod42pl",
-      "lat": "38.9484729"
+      "lat": "38.9484733"
     },
     "rhod41pl": {
-      "lon": "-76.9457703",
+      "lon": "-76.9457699",
       "title": "Rhode Island Ave at 41st Pl",
       "shortTitle": "Rhode Island @ 41st Pl",
       "tag": "rhod41pl",
-      "lat": "38.9463597"
+      "lat": "38.94636"
     },
     "rhodwall": {
-      "lon": "-76.9493206",
+      "lon": "-76.9493202",
       "title": "Rhode Island Ave at Wallace Rd",
       "shortTitle": "Rhode Island @ Wallace",
       "tag": "rhodwall",
-      "lat": "38.9436795"
+      "lat": "38.9436798"
     },
     "rhodwebs": {
-      "lon": "-76.9505607",
+      "lon": "-76.9505603",
       "title": "Rhode Island Ave at Webster St",
       "shortTitle": "Rhode Island @ Webster",
       "tag": "rhodwebs",
-      "lat": "38.9427594"
+      "lat": "38.9427597"
     },
     "rhodvolt": {
-      "lon": "-76.9516908",
+      "lon": "-76.9516904",
       "title": "Rhode Island Ave at Volta Ave",
       "shortTitle": "Rhode Island @ Volta",
       "tag": "rhodvolt",
-      "lat": "38.9419394"
+      "lat": "38.9419397"
     },
     "rhodshep": {
-      "lon": "-76.9543111",
+      "lon": "-76.9543107",
       "title": "Rhode Island Ave at Shepherd St",
       "shortTitle": "Rhode Island @ Shepherd",
       "tag": "rhodshep",
-      "lat": "38.9400292"
+      "lat": "38.9400295"
     },
     "rhod38th": {
-      "lon": "-76.9558312",
+      "lon": "-76.9558307",
       "title": "Rhode Island Ave at 38th St",
       "shortTitle": "Rhode Island @ 38th",
       "tag": "rhod38th",
-      "lat": "38.9389792"
+      "lat": "38.9389795"
     },
     "rhod37pl": {
-      "lon": "-76.9572714",
+      "lon": "-76.9572709",
       "title": "Rhode Island Ave at 37th Pl",
       "shortTitle": "Rhode Island @ 37th Pl",
       "tag": "rhod37pl",
-      "lat": "38.9382291"
+      "lat": "38.9382293"
     },
     "mtraterm_a": {
       "lon": "-76.9600497",
@@ -3471,11 +3468,11 @@
       "lat": "38.9197162"
     },
     "18_57_n": {
-      "lon": "-76.91418",
-      "title": "Cheverly Ave at Euclid St",
-      "shortTitle": "Cheverly @ Euclid",
+      "lon": "-76.914119",
+      "title": "Cheverly Ave at Cheverly Cir",
+      "shortTitle": "Cheverly @ Cheverly Cir",
       "tag": "18_57_n",
-      "lat": "38.9215876"
+      "lat": "38.9219909"
     },
     "18_55": {
       "lon": "-76.9129984",
@@ -3539,6 +3536,13 @@
       "shortTitle": "Landover @ Annapolis",
       "tag": "18_90_n",
       "lat": "38.938209"
+    },
+    "anna54th": {
+      "lon": "-76.926796",
+      "title": "Annapolis Rd at 54th Pl",
+      "shortTitle": "Annapolis @ 54th Pl",
+      "tag": "anna54th",
+      "lat": "38.9390867"
     },
     "18_40": {
       "lon": "-76.9288752",
@@ -3806,67 +3810,67 @@
       "lat": "38.9810925"
     },
     "23rdavea_n": {
-      "lon": "-76.9711179",
+      "lon": "-76.971162",
       "title": "23rd Ave at Lewisdale Dr",
       "shortTitle": "23rd @ Lewisdale Dr",
       "tag": "23rdavea_n",
-      "lat": "38.9825603"
+      "lat": "38.982911"
     },
     "18_116_n": {
-      "lon": "-76.9731634",
+      "lon": "-76.9731631",
       "title": "University Blvd at Phelps Rd",
       "shortTitle": "University @ Phelps",
       "tag": "18_116_n",
-      "lat": "38.9840557"
+      "lat": "38.9840558"
     },
     "18_115_n": {
-      "lon": "-76.9766067",
+      "lon": "-76.9766064",
       "title": "University Blvd at Guilford Rd",
       "shortTitle": "University @ Guilford",
       "tag": "18_115_n",
-      "lat": "38.9837068"
+      "lat": "38.9837069"
     },
     "18_117_n": {
-      "lon": "-76.9781985",
+      "lon": "-76.9781982",
       "title": "University Blvd at Riggs Rd",
       "shortTitle": "University @ Riggs",
       "tag": "18_117_n",
       "lat": "38.9836642"
     },
     "18_113_n": {
-      "lon": "-76.9801129",
+      "lon": "-76.9801126",
       "title": "Riggs Rd at University Blvd",
       "shortTitle": "Riggs @ University",
       "tag": "18_113_n",
-      "lat": "38.9844373"
+      "lat": "38.9844372"
     },
     "18_3_n": {
-      "lon": "-76.9814792",
+      "lon": "-76.9814789",
       "title": "15th Ave at University Blvd",
       "shortTitle": "15th @ University",
       "tag": "18_3_n",
-      "lat": "38.985244"
+      "lat": "38.9852439"
     },
     "18_84_n": {
-      "lon": "-76.9819419",
+      "lon": "-76.9819416",
       "title": "Kanawha St at 15th Ave",
       "shortTitle": "Kanawha @ 15th",
       "tag": "18_84_n",
       "lat": "38.9879452"
     },
     "18_83": {
-      "lon": "-76.98323",
+      "lon": "-76.9832297",
       "title": "Kanawha St at 14th Ave",
       "shortTitle": "Kanawha @ 14th",
       "tag": "18_83",
-      "lat": "38.98814"
+      "lat": "38.9881398"
     },
     "18_2_n": {
-      "lon": "-76.98434",
+      "lon": "-76.9843398",
       "title": "14th Ave at Langley Way",
       "shortTitle": "14th @ Langley Way",
       "tag": "18_2_n",
-      "lat": "38.99002"
+      "lat": "38.9900197"
     },
     "edwanewh_d": {
       "lon": "-76.9883711",
@@ -3959,6 +3963,13 @@
       "tag": "23rdavea",
       "lat": "38.9827056"
     },
+    "23rdbeec": {
+      "lon": "-76.9708875",
+      "title": "23rd Ave at  Beechwood Rd",
+      "shortTitle": "23rd @  Beechwood",
+      "tag": "23rdbeec",
+      "lat": "38.9796747"
+    },
     "18_7": {
       "lon": "-76.9717714",
       "title": "23rd Ave at Drexel St",
@@ -3993,6 +4004,13 @@
       "shortTitle": "East-West Hwy @ Toledo Ter",
       "tag": "18_75",
       "lat": "38.9669196"
+    },
+    "belcpgpl": {
+      "lon": "-76.9541407",
+      "title": "Belcrest at PG Plaza Metrorail",
+      "shortTitle": "Belcrest @ PG Plaza Metrorail",
+      "tag": "belcpgpl",
+      "lat": "38.9660395"
     },
     "18_45": {
       "lon": "-76.95393",
@@ -4034,6 +4052,13 @@
       "shortTitle": "Queens Chapel @ Lancer Dr",
       "tag": "18_110",
       "lat": "38.9574461"
+    },
+    "queehami": {
+      "lon": "-76.9610999",
+      "title": "Queens Chapel Rd at Hamilton St",
+      "shortTitle": "Queens Chapel @ Hamilton",
+      "tag": "queehami",
+      "lat": "38.95652"
     },
     "hamilto5": {
       "lon": "-76.9613239",
@@ -4198,8 +4223,8 @@
     },
     "18_43": {
       "lon": "-76.9314616",
-      "title": "Annapolis Rd at 52nd St",
-      "shortTitle": "Annapolis @ 52nd",
+      "title": "Annapolis Rd at Bladensburg Elem. School",
+      "shortTitle": "Annapolis @ Bladensburg Elem. School",
       "tag": "18_43",
       "lat": "38.9395202"
     },
@@ -4334,6 +4359,13 @@
       "shortTitle": "Columbia Park @ Cabin Branch Dr",
       "tag": "columbir",
       "lat": "38.9166534"
+    },
+    "5801colu": {
+      "lon": "-76.9067781",
+      "title": "Columbia Park Rd at 5801 Columbia Park Rd",
+      "shortTitle": "Columbia Park @ 5801 Columbia Park",
+      "tag": "5801colu",
+      "lat": "38.9168131"
     },
     "18_65": {
       "lon": "-76.905492",
@@ -4525,11 +4557,18 @@
       "lat": "38.882946"
     },
     "20_2": {
-      "lon": "-76.8968311",
-      "title": "Addison Rd at Health Clinic",
-      "shortTitle": "Addison @ Health Clinic",
+      "lon": "-76.8968087",
+      "title": "Addison Rd at Ernie Banks St",
+      "shortTitle": "Addison @ Ernie Banks",
       "tag": "20_2",
-      "lat": "38.8812744"
+      "lat": "38.8811497"
+    },
+    "addiwilb": {
+      "lon": "-76.8964758",
+      "title": "Addison Rd at Wilburn St",
+      "shortTitle": "Addison @ Wilburn",
+      "tag": "addiwilb",
+      "lat": "38.8796143"
     },
     "20_3_e": {
       "lon": "-76.8947189",
@@ -4573,6 +4612,13 @@
       "tag": "20_9_e",
       "lat": "38.8565121"
     },
+    "counfost_e": {
+      "lon": "-76.8991754",
+      "title": "County Rd at Foster St",
+      "shortTitle": "County @ Foster",
+      "tag": "counfost_e",
+      "lat": "38.855535"
+    },
     "marlbork": {
       "lon": "-76.8992629",
       "title": "Marlboro Pike at County Rd",
@@ -4608,38 +4654,75 @@
       "tag": "20_16",
       "lat": "38.85016"
     },
+    "donnmarl": {
+      "lon": "-76.8853036",
+      "title": "Donnell Drive at Marlboro Pike",
+      "shortTitle": "Donnell Drive @ Marlboro Pike",
+      "tag": "donnmarl",
+      "lat": "38.8488827"
+    },
     "pennmars_e": {
-      "lon": "-76.88517",
-      "title": "Penn-Mar Shopping Center",
+      "lon": "-76.885218",
+      "title": "Donnell Drive at Target Store",
+      "shortTitle": "Donnell Drive @ Target Store",
       "tag": "pennmars_e",
-      "lat": "38.8474301"
+      "lat": "38.8476803"
     },
     "20_12_e": {
-      "lon": "-76.8848576",
+      "lon": "-76.8848577",
       "title": "Donnell Dr at Pennsylvania Ave",
       "shortTitle": "Donnell Dr @ Pennsylvania",
       "tag": "20_12_e",
-      "lat": "38.8444316"
+      "lat": "38.8444313"
     },
     "20_35_e": {
-      "lon": "-76.877209",
+      "lon": "-76.8772086",
       "title": "Pennsylvania Ave at Forestville Rd",
       "shortTitle": "Pennsylvania @ Forestville",
       "tag": "20_35_e",
-      "lat": "38.8416875"
-    },
-    "20_40_e": {
-      "lon": "-76.84577",
-      "title": "Melwood Training Center",
-      "tag": "20_40_e",
-      "lat": "38.81098"
+      "lat": "38.8416874"
     },
     "pennmarl_eb": {
-      "lon": "-76.8495456",
-      "title": "Pennsylvania Ave at Marlboro Pike",
-      "shortTitle": "Pennsylvania @ Marlboro Pike",
+      "lon": "-76.8628596",
+      "title": "Pennsylvania Ave at Old Marlboro Pl",
+      "shortTitle": "Pennsylvania @ Old Marlboro Pl",
       "tag": "pennmarl_eb",
-      "lat": "38.8209552"
+      "lat": "38.8378098"
+    },
+    "pennsuit": {
+      "lon": "-76.8578324",
+      "title": "Pennsylvania Ave at Suitland Pkwy",
+      "shortTitle": "Pennsylvania @ Suitland Pkwy",
+      "tag": "pennsuit",
+      "lat": "38.8312503"
+    },
+    "dowepike_eb": {
+      "lon": "-76.84979",
+      "title": "Dower House Rd at Old Marlboro Pike",
+      "shortTitle": "Dower House @ Old Marlboro Pike",
+      "tag": "dowepike_eb",
+      "lat": "38.81652"
+    },
+    "5620pike_eb": {
+      "lon": "-76.8465115",
+      "title": "Old Pike Way at 5620 Old Pike Way",
+      "shortTitle": "Old Pike Way @ 5620 Old Pike Way",
+      "tag": "5620pike_eb",
+      "lat": "38.8108963"
+    },
+    "pikedowe_eb": {
+      "lon": "-76.8487988",
+      "title": "Old Pike Way at Dower House Rd",
+      "shortTitle": "Old Pike Way @ Dower House",
+      "tag": "pikedowe_eb",
+      "lat": "38.8108502"
+    },
+    "dowemarl_eb": {
+      "lon": "-76.8496757",
+      "title": "Dower House Rd at Old Marlboro Pike",
+      "shortTitle": "Dower House @ Old Marlboro Pike",
+      "tag": "dowemarl_eb",
+      "lat": "38.8165425"
     },
     "20_20_e": {
       "lon": "-76.8470637",
@@ -4656,18 +4739,18 @@
       "lat": "38.81672"
     },
     "20_19_e": {
-      "lon": "-76.8333817",
-      "title": "Marlboro Pike at N Marwood Dr",
-      "shortTitle": "Marlboro Pike @ N Marwood Dr",
+      "lon": "-76.8334157",
+      "title": "Marlboro Pike at Marwood Blvd N",
+      "shortTitle": "Marlboro Pike @ Marwood N",
       "tag": "20_19_e",
-      "lat": "38.8137858"
+      "lat": "38.813795"
     },
     "20_39": {
-      "lon": "-76.8246514",
-      "title": "Woodyard Rd at South Osborne Rd",
-      "shortTitle": "Woodyard @ South Osborne",
+      "lon": "-76.8246084",
+      "title": "Woodyard Rd at Marlboro Pike",
+      "shortTitle": "Woodyard @ Marlboro Pike",
       "tag": "20_39",
-      "lat": "38.8114863"
+      "lat": "38.8110941"
     },
     "20_29_e": {
       "lon": "-76.8233394",
@@ -4697,12 +4780,40 @@
       "tag": "20_25_e",
       "lat": "38.814924"
     },
+    "marlchar": {
+      "lon": "-76.8050199",
+      "title": "Old Marlboro Pike at Charles Mill Blvd",
+      "shortTitle": "Old Marlboro Pike @ Charles Mill",
+      "tag": "marlchar",
+      "lat": "38.81614"
+    },
+    "marlderb": {
+      "lon": "-76.7928555",
+      "title": "Old Marlboro Pike at Derby Manor Ln",
+      "shortTitle": "Old Marlboro Pike @ Derby Manor Ln",
+      "tag": "marlderb",
+      "lat": "38.8150376"
+    },
+    "marlweld": {
+      "lon": "-76.790952",
+      "title": "Old Marlboro Pike at Weldon Manor Ln",
+      "shortTitle": "Old Marlboro Pike @ Weldon Manor Ln",
+      "tag": "marlweld",
+      "lat": "38.8147786"
+    },
+    "marlathe": {
+      "lon": "-76.784274",
+      "title": "Old Marlboro Pike at Atherstone Terrace",
+      "shortTitle": "Old Marlboro Pike @ Atherstone Terrace",
+      "tag": "marlathe",
+      "lat": "38.815027"
+    },
     "20_31_e": {
-      "lon": "-76.7789083",
+      "lon": "-76.7789947",
       "title": "Old Marlboro Pike at Ritchie-Marlboro Rd",
       "shortTitle": "Old Marlboro Pike @ Ritchie-Marlboro",
       "tag": "20_31_e",
-      "lat": "38.81555"
+      "lat": "38.8155431"
     },
     "20_33_e": {
       "lon": "-76.7734693",
@@ -4848,6 +4959,34 @@
       "tag": "20_31",
       "lat": "38.8155701"
     },
+    "marlathe_wb": {
+      "lon": "-76.7840975",
+      "title": "Old Marlboro Pike at Atherstone Terrace",
+      "shortTitle": "Old Marlboro Pike @ Atherstone Terrace",
+      "tag": "marlathe_wb",
+      "lat": "38.8150964"
+    },
+    "marlweld_wb": {
+      "lon": "-76.7913101",
+      "title": "Old Marlboro Pike at Weldon Manor Ln",
+      "shortTitle": "Old Marlboro Pike @ Weldon Manor Ln",
+      "tag": "marlweld_wb",
+      "lat": "38.8149025"
+    },
+    "marlderb_wb": {
+      "lon": "-76.79358",
+      "title": "Old Marlboro Pike at Derby Manor Ln",
+      "shortTitle": "Old Marlboro Pike @ Derby Manor Ln",
+      "tag": "marlderb_wb",
+      "lat": "38.81516"
+    },
+    "marlchar_wb": {
+      "lon": "-76.8050299",
+      "title": "Old Marlboro Pike at Charles Mill Blvd",
+      "shortTitle": "Old Marlboro Pike @ Charles Mill",
+      "tag": "marlchar_wb",
+      "lat": "38.8162105"
+    },
     "20_25": {
       "lon": "-76.808156",
       "title": "Old Marlboro Pike at Brooklee Dr",
@@ -4884,11 +5023,11 @@
       "lat": "38.811106"
     },
     "20_19": {
-      "lon": "-76.8333164",
-      "title": "Marlboro Pike at N Marwood Dr",
-      "shortTitle": "Marlboro Pike @ N Marwood Dr",
+      "lon": "-76.8334008",
+      "title": "Marlboro Pike at Marwood Blvd N",
+      "shortTitle": "Marlboro Pike @ Marwood N",
       "tag": "20_19",
-      "lat": "38.8138362"
+      "lat": "38.8138586"
     },
     "20_18": {
       "lon": "-76.8418511",
@@ -4904,11 +5043,33 @@
       "tag": "20_20",
       "lat": "38.8189397"
     },
-    "20_40": {
-      "lon": "-76.84577",
-      "title": "Melwood Training Center",
-      "tag": "20_40",
-      "lat": "38.81098"
+    "dowepike_wb": {
+      "lon": "-76.84979",
+      "title": "Dower House Rd at Old Marlboro Pike",
+      "shortTitle": "Dower House @ Old Marlboro Pike",
+      "tag": "dowepike_wb",
+      "lat": "38.81652"
+    },
+    "5620pike_wb": {
+      "lon": "-76.8465115",
+      "title": "Old Pike Way at 5620 Old Pike Way",
+      "shortTitle": "Old Pike Way @ 5620 Old Pike Way",
+      "tag": "5620pike_wb",
+      "lat": "38.8108963"
+    },
+    "pikedowe_wb": {
+      "lon": "-76.8487988",
+      "title": "Old Pike Way at Dower House Rd",
+      "shortTitle": "Old Pike Way @ Dower House",
+      "tag": "pikedowe_wb",
+      "lat": "38.8108502"
+    },
+    "dowemarl_wb": {
+      "lon": "-76.8496757",
+      "title": "Dower House Rd at Old Marlboro Pike",
+      "shortTitle": "Dower House @ Old Marlboro Pike",
+      "tag": "dowemarl_wb",
+      "lat": "38.8165425"
     },
     "20_35": {
       "lon": "-76.8767795",
@@ -4924,9 +5085,17 @@
       "tag": "20_12",
       "lat": "38.8446095"
     },
+    "2900donn": {
+      "lon": "-76.8850018",
+      "title": "Donnell Dr at 2900 Donnell Dr",
+      "shortTitle": "Donnell Dr @ 2900 Donnell Dr",
+      "tag": "2900donn",
+      "lat": "38.8477047"
+    },
     "pennmars": {
       "lon": "-76.88506",
-      "title": "Penn-Mar Shopping Center",
+      "title": "Donnell Dr at Marlboro Pike",
+      "shortTitle": "Donnell Dr @ Marlboro Pike",
       "tag": "pennmars",
       "lat": "38.8488574"
     },
@@ -4957,6 +5126,13 @@
       "shortTitle": "Marlboro Pike @ Kipling Pkwy",
       "tag": "marlboro",
       "lat": "38.853116"
+    },
+    "counfost_wb": {
+      "lon": "-76.8990963",
+      "title": "County Rd at Foster St",
+      "shortTitle": "County @ Foster",
+      "tag": "counfost_wb",
+      "lat": "38.8555098"
     },
     "20_9": {
       "lon": "-76.8990001",
@@ -5001,12 +5177,19 @@
       "tag": "20_3",
       "lat": "38.8728267"
     },
-    "addiheal_wb": {
-      "lon": "-76.8966793",
-      "title": "Addison Rd opposite Health Center",
-      "shortTitle": "Addison opposite Health Center",
-      "tag": "addiheal_wb",
-      "lat": "38.8810074"
+    "addiwilb_wb": {
+      "lon": "-76.8963848",
+      "title": "Addison Rd at Wilburn Dr",
+      "shortTitle": "Addison @ Wilburn Dr",
+      "tag": "addiwilb_wb",
+      "lat": "38.8796162"
+    },
+    "addiheal": {
+      "lon": "-76.8967052",
+      "title": "Addison Rd at Health Center Ent.",
+      "shortTitle": "Addison @ Health Center Ent.",
+      "tag": "addiheal",
+      "lat": "38.8811134"
     },
     "20_4": {
       "lon": "-76.897259",
@@ -5014,6 +5197,12 @@
       "shortTitle": "Addison @ Margaret's School",
       "tag": "20_4",
       "lat": "38.8833662"
+    },
+    "courthou_d": {
+      "lon": "-76.7497099",
+      "title": "County Courthouse",
+      "tag": "courthou_d",
+      "lat": "38.81476"
     },
     "equestrn_d": {
       "lon": "-76.7452348",
@@ -5029,7 +5218,8 @@
     },
     "countyad": {
       "lon": "-76.751033",
-      "title": "County Administration Building",
+      "title": "Governor Oden Bowie Drive at Rear of CAB",
+      "shortTitle": "Governor Oden Bowie Drive @ Rear of CAB",
       "tag": "countyad",
       "lat": "38.818459"
     },
@@ -5187,6 +5377,13 @@
       "tag": "21_13_n",
       "lat": "38.9053705"
     },
+    "apolmerc_n": {
+      "lon": "-76.83821",
+      "title": "Apollo Dr at Mercantile Ln",
+      "shortTitle": "Apollo Dr @ Mercantile Ln",
+      "tag": "apolmerc_n",
+      "lat": "38.9052299"
+    },
     "lottzach_n": {
       "lon": "-76.8414676",
       "title": "Lottsford Rd at Zachery St",
@@ -5255,11 +5452,11 @@
       "lat": "38.9097787"
     },
     "21_58_n": {
-      "lon": "-76.8462059",
-      "title": "McCormick Dr at Raytheon Bldg",
-      "shortTitle": "McCormick Dr @ Raytheon Bldg",
+      "lon": "-76.8462002",
+      "title": "McCormick Dr at UMUC (opposite)",
+      "shortTitle": "McCormick Dr @ UMUC (opposite)",
       "tag": "21_58_n",
-      "lat": "38.9122172"
+      "lat": "38.9122585"
     },
     "21_12_n": {
       "lon": "-76.8439069",
@@ -5268,23 +5465,25 @@
       "lat": "38.913014"
     },
     "21_57_n": {
-      "lon": "-76.84604",
-      "title": "Inglewood",
+      "lon": "-76.8459892",
+      "title": "McCormick Dr at Basil Ct",
+      "shortTitle": "McCormick Dr @ Basil Ct",
       "tag": "21_57_n",
-      "lat": "38.9138797"
+      "lat": "38.9142722"
     },
     "landover_n": {
       "lon": "-76.8599467",
-      "title": "Landover Mall",
+      "title": "Brightseat Rd at Maple Ridge Apts (opposite)",
+      "shortTitle": "Brightseat @ Maple Ridge Apts (opposite)",
       "tag": "landover_n",
       "lat": "38.9204381"
     },
     "brightse_n": {
-      "lon": "-76.8586556",
+      "lon": "-76.85866",
       "title": "Brightseat Rd at Maple Ridge Apts",
       "shortTitle": "Brightseat @ Maple Ridge Apts",
       "tag": "brightse_n",
-      "lat": "38.9225676"
+      "lat": "38.92256"
     },
     "brightsr_n": {
       "lon": "-76.85824",
@@ -5300,19 +5499,19 @@
       "tag": "brightst_n",
       "lat": "38.9256295"
     },
-    "21_25_n": {
-      "lon": "-76.8587291",
-      "title": "Brightseat Rd at Hamlin St",
-      "shortTitle": "Brightseat @ Hamlin",
-      "tag": "21_25_n",
-      "lat": "38.9265049"
-    },
     "21_28": {
       "lon": "-76.85938",
       "title": "Brightseat Rd at McLain Av",
       "shortTitle": "Brightseat @ McLain",
       "tag": "21_28",
-      "lat": "38.9293901"
+      "lat": "38.92939"
+    },
+    "brigglen_n": {
+      "lon": "-76.8597612",
+      "title": "Brightseat Rd at Glenarden Pkwy",
+      "shortTitle": "Brightseat @ Glenarden Pkwy",
+      "tag": "brigglen_n",
+      "lat": "38.9304577"
     },
     "21_20_n": {
       "lon": "-76.85938",
@@ -5350,11 +5549,11 @@
       "lat": "38.9416303"
     },
     "21_10": {
-      "lon": "-76.8674109",
+      "lon": "-76.8660486",
       "title": "8235 Ardwick-Ardmore Rd",
       "shortTitle": "8235 Ardwick-Ardmore",
       "tag": "21_10",
-      "lat": "38.941981"
+      "lat": "38.941648"
     },
     "21_15_n": {
       "lon": "-76.8702793",
@@ -5370,10 +5569,10 @@
       "lat": "38.9467912"
     },
     "21_60_n": {
-      "lon": "-76.8620095",
-      "title": "Metro East",
+      "lon": "-76.8622312",
+      "title": "8401 Corporate Dr",
       "tag": "21_60_n",
-      "lat": "38.9470108"
+      "lat": "38.9469923"
     },
     "21_8": {
       "lon": "-76.8630246",
@@ -5388,10 +5587,11 @@
       "lat": "38.9501343"
     },
     "21_4_s": {
-      "lon": "-76.8657393",
-      "title": "8100 Professional Pl",
+      "lon": "-76.8657647",
+      "title": "Professional Pl at Garden City Dr",
+      "shortTitle": "Professional Pl @ Garden City Dr",
       "tag": "21_4_s",
-      "lat": "38.9500895"
+      "lat": "38.9501065"
     },
     "21_9": {
       "lon": "-76.8628832",
@@ -5400,16 +5600,16 @@
       "lat": "38.9499097"
     },
     "21_60_s": {
-      "lon": "-76.8623799",
-      "title": "Metro East",
+      "lon": "-76.8624742",
+      "title": "8401 Corporate Dr",
       "tag": "21_60_s",
-      "lat": "38.94704"
+      "lat": "38.947034"
     },
     "21_7": {
-      "lon": "-76.8649857",
-      "title": "8300 Corporate Dr",
+      "lon": "-76.8649245",
+      "title": "8201 Corporate Dr",
       "tag": "21_7",
-      "lat": "38.9468285"
+      "lat": "38.9468337"
     },
     "21_15_s": {
       "lon": "-76.8705902",
@@ -5420,8 +5620,8 @@
     },
     "21_6": {
       "lon": "-76.86756",
-      "title": "8235 Ardwick-Ardmore Rd",
-      "shortTitle": "8235 Ardwick-Ardmore",
+      "title": "8325 Ardwick-Ardmore Rd",
+      "shortTitle": "8325 Ardwick-Ardmore",
       "tag": "21_6",
       "lat": "38.9419368"
     },
@@ -5440,11 +5640,11 @@
       "lat": "38.9397805"
     },
     "ardwicka_s": {
-      "lon": "-76.8585898",
+      "lon": "-76.8586165",
       "title": "Ardwick-Ardmore Rd at MLK Jr Hwy",
       "shortTitle": "Ardwick-Ardmore @ MLK Jr Hwy",
       "tag": "ardwicka_s",
-      "lat": "38.9369298"
+      "lat": "38.9369565"
     },
     "brightsd_s": {
       "lon": "-76.8572442",
@@ -5466,6 +5666,13 @@
       "shortTitle": "Brightseat @ Amador Dr",
       "tag": "21_20_s",
       "lat": "38.9328276"
+    },
+    "brigglen_s": {
+      "lon": "-76.8597019",
+      "title": "Brightseat Rd at Glenarden Pkwy",
+      "shortTitle": "Brightseat @ Glenarden Pkwy",
+      "tag": "brigglen_s",
+      "lat": "38.9300882"
     },
     "21_27": {
       "lon": "-76.85927",
@@ -5489,30 +5696,32 @@
       "lat": "38.9254527"
     },
     "brightsr_s": {
-      "lon": "-76.8584248",
+      "lon": "-76.858781",
       "title": "Brightseat Rd at Evarts St",
       "shortTitle": "Brightseat @ Evarts",
       "tag": "brightsr_s",
-      "lat": "38.9234555"
+      "lat": "38.9227114"
     },
     "brightse_s": {
-      "lon": "-76.8593532",
+      "lon": "-76.859353",
       "title": "Brightseat Rd at Maple Ridge Apts",
       "shortTitle": "Brightseat @ Maple Ridge Apts",
       "tag": "brightse_s",
-      "lat": "38.9218009"
+      "lat": "38.921801"
     },
     "landover_s": {
       "lon": "-76.8599189",
-      "title": "Landover Mall",
+      "title": "Brightseat Rd at Maple Ridge Apts",
+      "shortTitle": "Brightseat @ Maple Ridge Apts",
       "tag": "landover_s",
       "lat": "38.9208265"
     },
     "21_57_s": {
-      "lon": "-76.8460584",
-      "title": "Inglewood",
+      "lon": "-76.8460656",
+      "title": "McCormick Dr at Basil Ct",
+      "shortTitle": "McCormick Dr @ Basil Ct",
       "tag": "21_57_s",
-      "lat": "38.9143286"
+      "lat": "38.9142647"
     },
     "21_12_s": {
       "lon": "-76.8439069",
@@ -5521,11 +5730,11 @@
       "lat": "38.913014"
     },
     "21_58_s": {
-      "lon": "-76.8462792",
-      "title": "McCormick Dr at Raytheon Bldg",
-      "shortTitle": "McCormick Dr @ Raytheon Bldg",
+      "lon": "-76.8462875",
+      "title": "McCormick Dr at UMUC",
+      "shortTitle": "McCormick Dr @ UMUC",
       "tag": "21_58_s",
-      "lat": "38.9123555"
+      "lat": "38.9122523"
     },
     "21_2": {
       "lon": "-76.8454302",
@@ -5600,6 +5809,13 @@
       "shortTitle": "Apollo Dr @ Lottsford",
       "tag": "21_13_s",
       "lat": "38.905382"
+    },
+    "apolmerc_s": {
+      "lon": "-76.838413",
+      "title": "Apollo Dr at Mercantile Ln",
+      "shortTitle": "Apollo Dr @ Mercantile Ln",
+      "tag": "apolmerc_s",
+      "lat": "38.9051354"
     },
     "21_59_s": {
       "lon": "-76.8371871",
@@ -5713,6 +5929,13 @@
       "tag": "21_40_s",
       "lat": "38.8467867"
     },
+    "largkirk": {
+      "lon": "-76.7631936",
+      "title": "Largo Rd at Kirkland Ln",
+      "shortTitle": "Largo @ Kirkland Ln",
+      "tag": "largkirk",
+      "lat": "38.8456941"
+    },
     "21_44_s": {
       "lon": "-76.7585375",
       "title": "Largo Rd at Eton Dr",
@@ -5739,6 +5962,12 @@
       "title": "Equestrian Center Lot 4",
       "tag": "equestri_s",
       "lat": "38.8120758"
+    },
+    "equestrn_a": {
+      "lon": "-76.745374",
+      "title": "Equestrian Center Lot 1",
+      "tag": "equestrn_a",
+      "lat": "38.8126528"
     },
     "motorveh_d": {
       "lon": "-76.8284972",
@@ -5798,6 +6027,20 @@
       "shortTitle": "Morgan Metro Station",
       "tag": "morstation_d",
       "lat": "38.8928097"
+    },
+    "garrmorg_o": {
+      "lon": "-76.86577",
+      "title": "Garrett A. Morgan Blvd at Morgan Blvd Station",
+      "shortTitle": "Garrett A. Morgan @ Morgan Station",
+      "tag": "garrmorg_o",
+      "lat": "38.89345"
+    },
+    "garrgibb_o": {
+      "lon": "-76.8657984",
+      "title": "Garrett A. Morgan Blvd at Gibbs Way",
+      "shortTitle": "Garrett A. Morgan @ Gibbs Way",
+      "tag": "garrgibb_o",
+      "lat": "38.8956026"
     },
     "22_43": {
       "lon": "-76.8652805",
@@ -5862,6 +6105,20 @@
       "tag": "22_41_o",
       "lat": "38.8981585"
     },
+    "garrrear": {
+      "lon": "-76.86624",
+      "title": "Garrett A. Morgan Blvd at Rear Morgan Blvd Station",
+      "shortTitle": "Garrett A. Morgan @ Rear Morgan Station",
+      "tag": "garrrear",
+      "lat": "38.8948899"
+    },
+    "garrmorg": {
+      "lon": "-76.8659399",
+      "title": "Garrett A. Morgan Blvd at Morgan Blvd Station",
+      "shortTitle": "Garrett A. Morgan @ Morgan Station",
+      "tag": "garrmorg",
+      "lat": "38.8933299"
+    },
     "22_37_o": {
       "lon": "-76.8627999",
       "title": "Fieldstone Way",
@@ -5898,8 +6155,8 @@
     },
     "22_3": {
       "lon": "-76.851539",
-      "title": "405 Brightseat Rd",
-      "shortTitle": "405 Brightseat",
+      "title": "425 Brightseat Rd",
+      "shortTitle": "425 Brightseat",
       "tag": "22_3",
       "lat": "38.896047"
     },
@@ -5916,16 +6173,31 @@
       "tag": "22_12_o",
       "lat": "38.9021499"
     },
+    "901brig": {
+      "lon": "-76.8532242",
+      "title": "Brightseat Rd at 901 Brightseat Rd",
+      "shortTitle": "Brightseat @ 901 Brightseat",
+      "tag": "901brig",
+      "lat": "38.9030937"
+    },
+    "brigaren": {
+      "lon": "-76.8529034",
+      "title": "Brightseat Rd at Arena Dr",
+      "shortTitle": "Brightseat @ Arena Dr",
+      "tag": "brigaren",
+      "lat": "38.9069938"
+    },
     "22_10": {
-      "lon": "-76.8569698",
-      "title": "8501 Spectrum Dr",
+      "lon": "-76.8570639",
+      "title": "Jericho City Dr at 8501 Jericho City Drive",
+      "shortTitle": "Jericho City Dr @ 8501 Jericho City Drive",
       "tag": "22_10",
-      "lat": "38.9079393"
+      "lat": "38.9084931"
     },
     "22_42_o": {
       "lon": "-76.8541262",
-      "title": "Spectrum Dr at Brightseat Rd",
-      "shortTitle": "Spectrum Dr @ Brightseat",
+      "title": "Jericho City Dr at Brightseat Rd.",
+      "shortTitle": "Jericho City Dr @ Brightseat",
       "tag": "22_42_o",
       "lat": "38.9098304"
     },
@@ -5984,11 +6256,11 @@
       "lat": "38.9225677"
     },
     "brstevar_d": {
-      "lon": "-76.858762",
+      "lon": "-76.8587619",
       "title": "Brightseat Rd at Evarts St",
       "shortTitle": "Brightseat @ Evarts",
       "tag": "brstevar_d",
-      "lat": "38.9227429"
+      "lat": "38.922743"
     },
     "brightse": {
       "lon": "-76.8593452",
@@ -5996,13 +6268,6 @@
       "shortTitle": "Brightseat @ Maple Ridge Apts",
       "tag": "brightse",
       "lat": "38.9218177"
-    },
-    "22_16": {
-      "lon": "-76.8598807",
-      "title": "Brightseat Rd at Landover Mall",
-      "shortTitle": "Brightseat @ Landover Mall",
-      "tag": "22_16",
-      "lat": "38.920887"
     },
     "22_18": {
       "lon": "-76.8603391",
@@ -6020,8 +6285,8 @@
     },
     "22_6": {
       "lon": "-76.866066",
-      "title": "8100 Sheriff Rd",
-      "shortTitle": "8100 Sheriff",
+      "title": "8102 Sheriff Rd",
+      "shortTitle": "8102 Sheriff",
       "tag": "22_6",
       "lat": "38.9138702"
     },
@@ -6052,17 +6317,32 @@
       "lat": "38.9128941"
     },
     "22_42": {
-      "lon": "-76.8541358",
-      "title": "Spectrum Dr at Brightseat Rd",
-      "shortTitle": "Spectrum Dr @ Brightseat",
+      "lon": "-76.8534399",
+      "title": "Jericho City Dr at Brightseat Rd.",
+      "shortTitle": "Jericho City Dr @ Brightseat",
       "tag": "22_42",
-      "lat": "38.9099001"
+      "lat": "38.90992"
     },
     "22_9": {
-      "lon": "-76.8570551",
-      "title": "8500 Spectrum Dr",
+      "lon": "-76.8571499",
+      "title": "Jericho City Dr at 8501 Jericho City Dr",
+      "shortTitle": "Jericho City Dr @ 8501 Jericho City Dr",
       "tag": "22_9",
-      "lat": "38.9079154"
+      "lat": "38.90851"
+    },
+    "brigbish": {
+      "lon": "-76.8530099",
+      "title": "Brightseat Rd at Bishop Peebles Dr",
+      "shortTitle": "Brightseat @ Bishop Peebles Dr",
+      "tag": "brigbish",
+      "lat": "38.9071499"
+    },
+    "1000jer": {
+      "lon": "-76.8535899",
+      "title": "Brightseat Rd at 1000 Jericho City Drive",
+      "shortTitle": "Brightseat @ 1000 Jericho City Drive",
+      "tag": "1000jer",
+      "lat": "38.90569"
     },
     "22_12": {
       "lon": "-76.8533099",
@@ -6124,6 +6404,20 @@
       "title": "Fieldstone Way",
       "tag": "22_37",
       "lat": "38.89318"
+    },
+    "garrmorg_i": {
+      "lon": "-76.86577",
+      "title": "Garrett A. Morgan Blvd at Morgan Blvd Station",
+      "shortTitle": "Garrett A. Morgan @ Morgan Station",
+      "tag": "garrmorg_i",
+      "lat": "38.89345"
+    },
+    "garrgibb_i": {
+      "lon": "-76.8657984",
+      "title": "Garrett A. Morgan Blvd at Gibbs Way",
+      "shortTitle": "Garrett A. Morgan @ Gibbs Way",
+      "tag": "garrgibb_i",
+      "lat": "38.8956026"
     },
     "22_38": {
       "lon": "-76.8652795",
@@ -6187,6 +6481,20 @@
       "shortTitle": "Ridgefield @ Stretford Ct",
       "tag": "22_41",
       "lat": "38.8981585"
+    },
+    "garrhart": {
+      "lon": "-76.86624",
+      "title": "Garrett A. Morgan Blvd at SGT. Hartman Ln",
+      "shortTitle": "Garrett A. Morgan @ SGT. Hartman Ln",
+      "tag": "garrhart",
+      "lat": "38.8948899"
+    },
+    "garrmorg_i2": {
+      "lon": "-76.8659399",
+      "title": "Garrett A. Morgan Blvd at Morgan Blvd Station",
+      "shortTitle": "Garrett A. Morgan @ Morgan Station",
+      "tag": "garrmorg_i2",
+      "lat": "38.8933299"
     },
     "23_21": {
       "lon": "-76.8936898",
@@ -6469,8 +6777,8 @@
     },
     "23_73_o": {
       "lon": "-76.8886876",
-      "title": "Sheriff Rd at Willowood Ct",
-      "shortTitle": "Sheriff @ Willowood Ct",
+      "title": "Sheriff Rd at Willow Wood Ct",
+      "shortTitle": "Sheriff @ Willow Wood Ct",
       "tag": "23_73_o",
       "lat": "38.9109364"
     },
@@ -6594,17 +6902,10 @@
     },
     "5800colu": {
       "lon": "-76.9083825",
-      "title": "5800 Columbia Park Rd",
-      "shortTitle": "5800 Columbia Park",
+      "title": "5700 Columbia Park Rd (Opposite)",
+      "shortTitle": "5700 Columbia Park (Opposite)",
       "tag": "5800colu",
       "lat": "38.9165514"
-    },
-    "23_16": {
-      "lon": "-76.9061985",
-      "title": "Cabin Branch Dr at Columbia Park Rd",
-      "shortTitle": "Cabin Branch Dr @ Columbia Park",
-      "tag": "23_16",
-      "lat": "38.91667"
     },
     "23_17": {
       "lon": "-76.9046308",
@@ -6669,6 +6970,13 @@
       "tag": "23_30",
       "lat": "38.9053291"
     },
+    "shefcypr": {
+      "lon": "-76.9049954",
+      "title": "Sheriff Rd at Cypress Tree Dr",
+      "shortTitle": "Sheriff @ Cypress Tree Dr",
+      "tag": "shefcypr",
+      "lat": "38.9067888"
+    },
     "23_67_s": {
       "lon": "-76.9036495",
       "title": "Sheriff Rd at Glen Willow Dr - South Side",
@@ -6692,8 +7000,8 @@
     },
     "23_73": {
       "lon": "-76.8885701",
-      "title": "Sheriff Rd at Willowood Ct",
-      "shortTitle": "Sheriff @ Willowood Ct",
+      "title": "Sheriff Rd at Willow Wood Ct",
+      "shortTitle": "Sheriff @ Willow Wood Ct",
       "tag": "23_73",
       "lat": "38.9109199"
     },
@@ -6844,19 +7152,26 @@
       "tag": "23_48",
       "lat": "38.8981936"
     },
-    "23_77": {
-      "lon": "-76.8769686",
-      "title": "Willow Hill Dr at Nalley Rd",
-      "shortTitle": "Willow Hill Dr @ Nalley",
-      "tag": "23_77",
-      "lat": "38.8954907"
-    },
     "23_35": {
       "lon": "-76.8782844",
-      "title": "Hill Rd at Willow Hill Dr",
-      "shortTitle": "Hill @ Willow Hill Dr",
+      "title": "Willow Hill Dr at Stevenson Ln",
+      "shortTitle": "Willow Hill Dr @ Stevenson Ln",
       "tag": "23_35",
       "lat": "38.8949524"
+    },
+    "hillmoun": {
+      "lon": "-76.8780879",
+      "title": "Hill Rd at Mountain View Way",
+      "shortTitle": "Hill @ Mountain View Way",
+      "tag": "hillmoun",
+      "lat": "38.8915853"
+    },
+    "walkshad": {
+      "lon": "-76.8768989",
+      "title": "Walker Mill Dr at Shady Glen Dr",
+      "shortTitle": "Walker Mill Dr @ Shady Glen Dr",
+      "tag": "walkshad",
+      "lat": "38.8876679"
     },
     "posswalk": {
       "lon": "-76.8678174",
@@ -6864,6 +7179,27 @@
       "shortTitle": "Possum Ct @ Walker Mill Dr",
       "tag": "posswalk",
       "lat": "38.8857638"
+    },
+    "wlkmshdy_i2": {
+      "lon": "-76.8768605",
+      "title": "Walker Mill Drive at Shady Glen Drive",
+      "shortTitle": "Walker Mill Drive @ Shady Glen Drive",
+      "tag": "wlkmshdy_i2",
+      "lat": "38.8878204"
+    },
+    "walkmtn_i2": {
+      "lon": "-76.8779199",
+      "title": "Hill Dr at Mountain View",
+      "shortTitle": "Hill Dr @ Mountain View",
+      "tag": "walkmtn_i2",
+      "lat": "38.8916099"
+    },
+    "hillwill_i": {
+      "lon": "-76.8787884",
+      "title": "Hill Rd at Willow Hill Dr",
+      "shortTitle": "Hill @ Willow Hill Dr",
+      "tag": "hillwill_i",
+      "lat": "38.8946751"
     },
     "23_32": {
       "lon": "-76.8809944",
@@ -6928,12 +7264,26 @@
       "tag": "centrals",
       "lat": "38.8874588"
     },
+    "ritccent": {
+      "lon": "-76.862128",
+      "title": "Ritchie Rd at Central Ave",
+      "shortTitle": "Ritchie @ Central",
+      "tag": "ritccent",
+      "lat": "38.8883088"
+    },
     "ritctruc_wb": {
       "lon": "-76.8615103",
       "title": "Ritchie Rd at Truck Way",
       "shortTitle": "Ritchie @ Truck Way",
       "tag": "ritctruc_wb",
       "lat": "38.886771"
+    },
+    "ashwritc": {
+      "lon": "-76.8591517",
+      "title": "Ashwood Dr at Ritchie Rd",
+      "shortTitle": "Ashwood Dr @ Ritchie",
+      "tag": "ashwritc",
+      "lat": "38.8817625"
     },
     "ashwdunm_wb": {
       "lon": "-76.8567668",
@@ -6977,12 +7327,26 @@
       "tag": "ritrit",
       "lat": "38.871242"
     },
+    "ritcspur": {
+      "lon": "-76.8561199",
+      "title": "Ritchie Rd at Ritchie Rd Spur",
+      "shortTitle": "Ritchie @ Ritchie Spur",
+      "tag": "ritcspur",
+      "lat": "38.86954"
+    },
     "ritfor": {
       "lon": "-76.8570535",
       "title": "Ritchie Rd at Forest Park Dr",
       "shortTitle": "Ritchie @ Forest Park Dr",
       "tag": "ritfor",
       "lat": "38.8688585"
+    },
+    "ritcashv": {
+      "lon": "-76.8593272",
+      "title": "Ritchie Rd at Ashville Rd",
+      "shortTitle": "Ritchie @ Ashville",
+      "tag": "ritcashv",
+      "lat": "38.8679034"
     },
     "ritalb": {
       "lon": "-76.8621745",
@@ -7230,8 +7594,8 @@
     },
     "silverhi_o": {
       "lon": "-76.90897",
-      "title": "Silver Hill Rd at Penn Station",
-      "shortTitle": "Silver Hill @ Penn Station",
+      "title": "Silver Hill Rd at Pennsylvania Ave",
+      "shortTitle": "Silver Hill @ Pennsylvania",
       "stopId": "3000749",
       "tag": "silverhi_o",
       "lat": "38.8537"
@@ -7284,6 +7648,13 @@
       "shortTitle": "Rollins @ Rollins Ln",
       "tag": "24_67_o",
       "lat": "38.8662155"
+    },
+    "1507roll": {
+      "lon": "-76.9057615",
+      "title": "Rollins Ave at 1507 Rollins Ave",
+      "shortTitle": "Rollins @ 1507 Rollins",
+      "tag": "1507roll",
+      "lat": "38.8681826"
     },
     "24_68_o": {
       "lon": "-76.9030004",
@@ -7350,8 +7721,8 @@
     },
     "eastcapi_o": {
       "lon": "-76.9088299",
-      "title": "East Capitol Street at Coolidge Street",
-      "shortTitle": "East Capitol @ Coolidge",
+      "title": "East Capitol Street at Maryland Park Drive",
+      "shortTitle": "East Capitol @ Maryland Park Drive",
       "tag": "eastcapi_o",
       "lat": "38.8891199"
     },
@@ -7481,7 +7852,7 @@
       "lat": "38.8648909"
     },
     "walkmarl_i": {
-      "lon": "-76.914132",
+      "lon": "-76.9141319",
       "title": "Walker Mill Road at Marlboro Pike",
       "shortTitle": "Walker Mill @ Marlboro Pike",
       "tag": "walkmarl_i",
@@ -7508,13 +7879,6 @@
       "tag": "24_59",
       "lat": "38.8558489"
     },
-    "silverhi": {
-      "lon": "-76.9087608",
-      "title": "Silver Hill Rd at Penn Station",
-      "shortTitle": "Silver Hill @ Penn Station",
-      "tag": "silverhi",
-      "lat": "38.8536096"
-    },
     "oldslibr_eb": {
       "lon": "-76.9062098",
       "title": "Old Silver Hill Rd at Library",
@@ -7531,8 +7895,8 @@
     },
     "silvpark": {
       "lon": "-76.9033115",
-      "title": "Old Silver Hill Rd at Opp- Parkland Court",
-      "shortTitle": "Old Silver Hill @ Opp- Parkland Court",
+      "title": "Silver Hill Rd at Parkway Terrace Dr",
+      "shortTitle": "Silver Hill @ Parkway Terrace Dr",
       "tag": "silvpark",
       "lat": "38.854587"
     },
@@ -7759,19 +8123,19 @@
       "tag": "ritlaur",
       "lat": "38.8667478"
     },
+    "ritcashv_i": {
+      "lon": "-76.8597766",
+      "title": "Ritchie Rd at Ashville Rd",
+      "shortTitle": "Ritchie @ Ashville",
+      "tag": "ritcashv_i",
+      "lat": "38.8675891"
+    },
     "ritfpd": {
       "lon": "-76.8567753",
       "title": "Ritchie Rd at Forest Park Dr",
       "shortTitle": "Ritchie @ Forest Park Dr",
       "tag": "ritfpd",
       "lat": "38.8687977"
-    },
-    "ritcspur": {
-      "lon": "-76.8559526",
-      "title": "Ritchie Rd at Ritchie Rd Spur",
-      "shortTitle": "Ritchie @ Ritchie Spur",
-      "tag": "ritcspur",
-      "lat": "38.8694273"
     },
     "ritchwmr": {
       "lon": "-76.856059",
@@ -7829,6 +8193,13 @@
       "tag": "ritctruc_eb",
       "lat": "38.8865967"
     },
+    "ritccent_i": {
+      "lon": "-76.8620965",
+      "title": "Ritchie Rd at Central Ave",
+      "shortTitle": "Ritchie @ Central",
+      "tag": "ritccent_i",
+      "lat": "38.8885424"
+    },
     "capitolh_de": {
       "lon": "-76.9138006",
       "title": "Capitol Heights Station",
@@ -7837,7 +8208,8 @@
     },
     "25_27_o": {
       "lon": "-76.9024382",
-      "title": "Addison Plaza",
+      "title": "East Capital Street at Old Central Ave",
+      "shortTitle": "East Capital @ Old Central",
       "tag": "25_27_o",
       "lat": "38.8868913"
     },
@@ -7939,6 +8311,13 @@
       "tag": "25_7",
       "lat": "38.8813562"
     },
+    "734capi": {
+      "lon": "-76.9161425",
+      "title": "Capitol Heights Blvd at 734 Capitol Heights Blvd",
+      "shortTitle": "Capitol Heights @ 734 Capitol Heights",
+      "tag": "734capi",
+      "lat": "38.8779305"
+    },
     "25_12_o": {
       "lon": "-76.9170557",
       "title": "Capitol Heights Blvd at Ute Way",
@@ -7968,11 +8347,32 @@
       "lat": "38.8701405"
     },
     "25_42_o": {
-      "lon": "-76.9220059",
-      "title": "Nova Ave at Marlboro Pike",
-      "shortTitle": "Nova @ Marlboro Pike",
+      "lon": "-76.92236",
+      "title": "Marlboro Pike at Nova Ave",
+      "shortTitle": "Marlboro Pike @ Nova",
       "tag": "25_42_o",
-      "lat": "38.8704887"
+      "lat": "38.87062"
+    },
+    "marllarc": {
+      "lon": "-76.9233103",
+      "title": "Marlboro Pike at Larchmont Ave",
+      "shortTitle": "Marlboro Pike @ Larchmont",
+      "tag": "marllarc",
+      "lat": "38.8712112"
+    },
+    "marljans": {
+      "lon": "-76.92492",
+      "title": "Marlboro Pike at Jansen Ave",
+      "shortTitle": "Marlboro Pike @ Jansen",
+      "tag": "marljans",
+      "lat": "38.87218"
+    },
+    "marlglac": {
+      "lon": "-76.9267",
+      "title": "Marlboro Pike at Glacier Ave",
+      "shortTitle": "Marlboro Pike @ Glacier",
+      "tag": "marlglac",
+      "lat": "38.87258"
     },
     "25_3_o": {
       "lon": "-76.9292151",
@@ -7982,11 +8382,11 @@
       "lat": "38.8738251"
     },
     "25_2_o": {
-      "lon": "-76.93038",
-      "title": "Benning Rd at Southern Ave",
-      "shortTitle": "Benning @ Southern",
+      "lon": "-76.9304",
+      "title": "Benning Rd at Abel Ave",
+      "shortTitle": "Benning @ Abel",
       "tag": "25_2_o",
-      "lat": "38.8754"
+      "lat": "38.87542"
     },
     "25_44": {
       "lon": "-76.9284315",
@@ -8078,6 +8478,27 @@
       "tag": "25_3",
       "lat": "38.8736334"
     },
+    "marlglac_i": {
+      "lon": "-76.9267146",
+      "title": "Marlboro Pike at Glacier Ave",
+      "shortTitle": "Marlboro Pike @ Glacier",
+      "tag": "marlglac_i",
+      "lat": "38.8725058"
+    },
+    "marljans_i": {
+      "lon": "-76.9245259",
+      "title": "Marlboro Pike at Jansen Ave",
+      "shortTitle": "Marlboro Pike @ Jansen",
+      "tag": "marljans_i",
+      "lat": "38.8719263"
+    },
+    "marllarc_i": {
+      "lon": "-76.9226799",
+      "title": "Marlboro Pike at Larchmont Ave",
+      "shortTitle": "Marlboro Pike @ Larchmont",
+      "tag": "marllarc_i",
+      "lat": "38.8707099"
+    },
     "25_42": {
       "lon": "-76.9217052",
       "title": "Nova Ave at Marlboro Pike",
@@ -8105,6 +8526,13 @@
       "shortTitle": "Capitol Heights @ Ute Way",
       "tag": "25_12",
       "lat": "38.8764502"
+    },
+    "733capi": {
+      "lon": "-76.9160999",
+      "title": "Capitol Heights Blvd at 733 Capitol Heights Blvd",
+      "shortTitle": "Capitol Heights @ 733 Capitol Heights",
+      "tag": "733capi",
+      "lat": "38.87791"
     },
     "25_41": {
       "lon": "-76.9165787",
@@ -8197,6 +8625,13 @@
       "tag": "25_1",
       "lat": "38.8835265"
     },
+    "suffcent": {
+      "lon": "-76.9099399",
+      "title": "Suffolk Ave at Central Ave",
+      "shortTitle": "Suffolk @ Central",
+      "tag": "suffcent",
+      "lat": "38.88503"
+    },
     "25_47": {
       "lon": "-76.9096864",
       "title": "Central Ave at Suffolk Ave",
@@ -8233,10 +8668,11 @@
       "lat": "38.8861063"
     },
     "25_27": {
-      "lon": "-76.902277",
-      "title": "Addison Plaza",
+      "lon": "-76.9024535",
+      "title": "East Capitol St at Yost Pl",
+      "shortTitle": "East Capitol @ Yost Pl",
       "tag": "25_27",
-      "lat": "38.8870196"
+      "lat": "38.8870469"
     },
     "largo_d": {
       "lon": "-76.84625",
@@ -8345,11 +8781,24 @@
       "tag": "htrubird_wb",
       "lat": "38.8698957"
     },
-    "ritcstat": {
-      "lon": "-76.8496905",
-      "title": "Ritchie Stadium",
-      "tag": "ritcstat",
-      "lat": "38.8654414"
+    "ritchsans": {
+      "lon": "-76.8377701",
+      "title": "Ritchie-Marlboro Rd & Sansbury Rd",
+      "shortTitle": "Ritchie-Marlboro & Sansbury",
+      "tag": "ritchsans",
+      "lat": "38.8671614"
+    },
+    "ritcstat1": {
+      "lon": "-76.8503198",
+      "title": "Ritchie Station Court Bus Stop #1",
+      "tag": "ritcstat1",
+      "lat": "38.8664744"
+    },
+    "ritcstat2": {
+      "lon": "-76.850126",
+      "title": "Ritchie Station Court Bus Stop #2",
+      "tag": "ritcstat2",
+      "lat": "38.866592"
     },
     "hampalak_wb": {
       "lon": "-76.8499439",
@@ -8359,11 +8808,11 @@
       "lat": "38.8709837"
     },
     "hampstee_wb": {
-      "lon": "-76.850931",
+      "lon": "-76.8509309",
       "title": "Hampton Park Boulevard at Steeplechase",
       "shortTitle": "Hampton Park @ Steeplechase",
       "tag": "hampstee_wb",
-      "lat": "38.873902"
+      "lat": "38.8739019"
     },
     "hpbedge": {
       "lon": "-76.85128",
@@ -8449,11 +8898,24 @@
       "tag": "hampalak_eb",
       "lat": "38.8709882"
     },
-    "ritcstat_eb": {
-      "lon": "-76.8496964",
-      "title": "Ritchie Stadium",
-      "tag": "ritcstat_eb",
-      "lat": "38.8654497"
+    "ritcstat1_i": {
+      "lon": "-76.8503198",
+      "title": "Ritchie Station Court Bus Stop #1",
+      "tag": "ritcstat1_i",
+      "lat": "38.8664744"
+    },
+    "ritcstat2_i": {
+      "lon": "-76.850126",
+      "title": "Ritchie Station Court Bus Stop #2",
+      "tag": "ritcstat2_i",
+      "lat": "38.866592"
+    },
+    "ritchsans_i": {
+      "lon": "-76.83874",
+      "title": "Ritchie-Marlboro Rd & Sansbury Rd",
+      "shortTitle": "Ritchie-Marlboro & Sansbury",
+      "tag": "ritchsans_i",
+      "lat": "38.8672923"
     },
     "htrubird_eb": {
       "lon": "-76.8284029",
@@ -8554,6 +9016,13 @@
       "tag": "lms_d_nb",
       "lat": "38.9337409"
     },
+    "pennland": {
+      "lon": "-76.889536",
+      "title": "Pennsy Dr at Landover Metrorail Station",
+      "shortTitle": "Pennsy Dr @ Landover Metrorail Station",
+      "tag": "pennland",
+      "lat": "38.9317352"
+    },
     "penn3133": {
       "lon": "-76.8878882",
       "title": "3133 Pennsy Dr",
@@ -8586,6 +9055,13 @@
       "shortTitle": "3209 75th",
       "tag": "75th3209",
       "lat": "38.9297"
+    },
+    "75thland": {
+      "lon": "-76.8864066",
+      "title": "75th Ave at Landover Rd",
+      "shortTitle": "75th @ Landover",
+      "tag": "75thland",
+      "lat": "38.9274912"
     },
     "27_2": {
       "lon": "-76.8867674",
@@ -8739,6 +9215,13 @@
       "tag": "75th3119",
       "lat": "38.9270757"
     },
+    "75thland_i": {
+      "lon": "-76.8863022",
+      "title": "75th Ave at Landover Rd",
+      "shortTitle": "75th @ Landover",
+      "tag": "75thland_i",
+      "lat": "38.9275268"
+    },
     "75th3209_sb": {
       "lon": "-76.8850193",
       "title": "3209 75th Ave",
@@ -8771,6 +9254,13 @@
       "title": "3133 Pennsy Dr",
       "tag": "penn3133_sb",
       "lat": "38.9329079"
+    },
+    "pennland_i": {
+      "lon": "-76.88889",
+      "title": "Pennsy Drive at Landover Metro Station",
+      "shortTitle": "Pennsy Drive @ Landover Metro Station",
+      "tag": "pennland_i",
+      "lat": "38.9321199"
     },
     "lms_a": {
       "lon": "-76.8899575",
@@ -8855,11 +9345,11 @@
       "lat": "38.90873"
     },
     "tecmer_n": {
-      "lon": "-76.8373993",
+      "lon": "-76.8372967",
       "title": "MERCANTILE LN AT TECHNOLOGY WAY",
       "shortTitle": "MERCANTILE LN @ TECHNOLOGY WAY",
       "tag": "tecmer_n",
-      "lat": "38.9072315"
+      "lat": "38.9074687"
     },
     "appomerc_n": {
       "lon": "-76.8387198",
@@ -8971,40 +9461,12 @@
       "tag": "9617lott",
       "lat": "38.9090037"
     },
-    "8951lot_s": {
-      "lon": "-76.8417799",
-      "title": "LOTTSFORD ROAD AT GRAND BLVD",
-      "shortTitle": "LOTTSFORD @ GRAND",
-      "tag": "8951lot_s",
-      "lat": "38.8995202"
-    },
-    "lothst_s": {
-      "lon": "-76.8423401",
-      "title": "Lottsford Rd at Harry S. Truman Dr",
-      "shortTitle": "Lottsford @ Harry S. Truman Dr",
-      "tag": "lothst_s",
-      "lat": "38.8981297"
-    },
     "largoe_d2": {
       "lon": "-76.8462199",
       "title": "Largo Town Center Station at Bus Bay E",
       "shortTitle": "Largo Town Center Station @ Bus Bay E",
       "tag": "largoe_d2",
       "lat": "38.90014"
-    },
-    "8951lott": {
-      "lon": "-76.8414483",
-      "title": "8951 Lottsford Road",
-      "shortTitle": "8951 Lottsford",
-      "tag": "8951lott",
-      "lat": "38.8996284"
-    },
-    "lotzac_n2": {
-      "lon": "-76.8413097",
-      "title": "Lottsford Rd at Zachery St",
-      "shortTitle": "Lottsford @ Zachery",
-      "tag": "lotzac_n2",
-      "lat": "38.9015988"
     },
     "9654lott": {
       "lon": "-76.8404969",
@@ -9111,11 +9573,11 @@
       "lat": "38.90873"
     },
     "mertec": {
-      "lon": "-76.8373993",
+      "lon": "-76.8372955",
       "title": "Mercantile Ln at Technology Way",
       "shortTitle": "Mercantile Ln @ Technology Way",
       "tag": "mertec",
-      "lat": "38.9072315"
+      "lat": "38.9074715"
     },
     "apoare": {
       "lon": "-76.837278",
@@ -9192,11 +9654,25 @@
       "tag": "stuasurr_d",
       "lat": "38.7517773"
     },
+    "stuatopa_o": {
+      "lon": "-76.8819999",
+      "title": "Stuart Ln at Topaz Court",
+      "shortTitle": "Stuart Ln @ Topaz Court",
+      "tag": "stuatopa_o",
+      "lat": "38.7540499"
+    },
     "clintonf_d": {
       "lon": "-76.88521",
       "title": "Clinton Fringe Lot",
       "tag": "clintonf_d",
       "lat": "38.76602"
+    },
+    "woodwood": {
+      "lon": "-76.88669",
+      "title": "Woody Terrace at Woodyard Rd",
+      "shortTitle": "Woody Terrace @ Woodyard",
+      "tag": "woodwood",
+      "lat": "38.76655"
     },
     "30_45_o": {
       "lon": "-76.8895965",
@@ -9277,8 +9753,8 @@
     },
     "30_35_o": {
       "lon": "-76.928157",
-      "title": "Temple Hill Rd at Mansfield Manor",
-      "shortTitle": "Temple Hill @ Mansfield Manor",
+      "title": "Temple Hill Rd at Allentown Rd",
+      "shortTitle": "Temple Hill @ Allentown",
       "tag": "30_35_o",
       "lat": "38.7920243"
     },
@@ -9359,18 +9835,18 @@
       "lat": "38.8017699"
     },
     "30_10_o": {
-      "lon": "-76.9014667",
-      "title": "Allentown Rd at Robin Ln",
-      "shortTitle": "Allentown @ Robin Ln",
+      "lon": "-76.9012708",
+      "title": "Allentown Rd at Opp. Leon St",
+      "shortTitle": "Allentown @ Opp. Leon",
       "tag": "30_10_o",
-      "lat": "38.806928"
+      "lat": "38.8069548"
     },
     "30_3_o": {
-      "lon": "-76.8977887",
-      "title": "Allentown Rd at Auth Rd",
-      "shortTitle": "Allentown @ Auth",
+      "lon": "-76.8979925",
+      "title": "Allentown Rd at Opp. 5711 AFCU Allentown Rd",
+      "shortTitle": "Allentown @ Opp. 5711 AFCU Allentown",
       "tag": "30_3_o",
-      "lat": "38.8086754"
+      "lat": "38.8085016"
     },
     "30_24_o": {
       "lon": "-76.8950121",
@@ -9385,6 +9861,13 @@
       "shortTitle": "Maxwell Dr @ Morris",
       "tag": "30_25",
       "lat": "38.8152254"
+    },
+    "auth6208": {
+      "lon": "-76.8992002",
+      "title": "Auth Rd at #6208-6220",
+      "shortTitle": "Auth @ #6208-6220",
+      "tag": "auth6208",
+      "lat": "38.8150083"
     },
     "30_17_o": {
       "lon": "-76.9003967",
@@ -9408,11 +9891,11 @@
       "lat": "38.8203622"
     },
     "30_21_o": {
-      "lon": "-76.9080957",
-      "title": "Auth Rd at Oakland Way",
-      "shortTitle": "Auth @ Oakland Way",
+      "lon": "-76.90914",
+      "title": "Auth Rd at Procopio",
+      "shortTitle": "Auth @ Procopio",
       "tag": "30_21_o",
-      "lat": "38.8212928"
+      "lat": "38.82186"
     },
     "30_46": {
       "lon": "-76.9107224",
@@ -9423,8 +9906,8 @@
     },
     "bas_d": {
       "lon": "-76.9125483",
-      "title": "Branch Ave Station Bay H",
-      "shortTitle": "Branch Station Bay H",
+      "title": "Branch Ave Station Bus Bay J",
+      "shortTitle": "Branch Station Bus Bay J",
       "tag": "bas_d",
       "lat": "38.8268588"
     },
@@ -9463,6 +9946,13 @@
       "tag": "30_17",
       "lat": "38.8165628"
     },
+    "authmagr": {
+      "lon": "-76.8992506",
+      "title": "Auth Rd at Magruder Ave",
+      "shortTitle": "Auth @ Magruder",
+      "tag": "authmagr",
+      "lat": "38.8149776"
+    },
     "30_27": {
       "lon": "-76.8965",
       "title": "Morris Ave at Maxwell Dr",
@@ -9478,11 +9968,11 @@
       "lat": "38.8143127"
     },
     "30_3": {
-      "lon": "-76.8978645",
-      "title": "Allentown Rd at Auth Rd",
-      "shortTitle": "Allentown @ Auth",
+      "lon": "-76.8980584",
+      "title": "Allentown Rd at 5711 AFCU Allentown Rd",
+      "shortTitle": "Allentown @ 5711 AFCU Allentown",
       "tag": "30_3",
-      "lat": "38.808791"
+      "lat": "38.8086286"
     },
     "30_10": {
       "lon": "-76.9022913",
@@ -9490,6 +9980,13 @@
       "shortTitle": "Allentown @ Robin Ln",
       "tag": "30_10",
       "lat": "38.8069211"
+    },
+    "alleperr": {
+      "lon": "-76.9032087",
+      "title": "Allentown Rd at Perrie Ln",
+      "shortTitle": "Allentown @ Perrie Ln",
+      "tag": "alleperr",
+      "lat": "38.806741"
     },
     "oldbranc": {
       "lon": "-76.90506",
@@ -9568,8 +10065,8 @@
     },
     "30_35": {
       "lon": "-76.9282205",
-      "title": "Temple Hill Rd at Mansfield Manor",
-      "shortTitle": "Temple Hill @ Mansfield Manor",
+      "title": "Temple Hill Rd at Allentown Rd",
+      "shortTitle": "Temple Hill @ Allentown",
       "tag": "30_35",
       "lat": "38.7919459"
     },
@@ -9588,11 +10085,11 @@
       "lat": "38.7725954"
     },
     "30_43": {
-      "lon": "-76.9269585",
-      "title": "Temple Hill Rd at Temple Hills Trailer Pk",
-      "shortTitle": "Temple Hill @ Temple Hills Trailer Pk",
+      "lon": "-76.9269665",
+      "title": "Temple Hill Rd at 8601 Temple Hill Rd",
+      "shortTitle": "Temple Hill @ 8601 Temple Hill",
       "tag": "30_43",
-      "lat": "38.7699088"
+      "lat": "38.7698574"
     },
     "30_42": {
       "lon": "-76.9273486",
@@ -9638,8 +10135,8 @@
     },
     "30_32": {
       "lon": "-76.8993215",
-      "title": "Piscataway Rd at Old Branch Ave",
-      "shortTitle": "Piscataway @ Old Branch",
+      "title": "Piscataway Rd at Brandywine Rd",
+      "shortTitle": "Piscataway @ Brandywine",
       "tag": "30_32",
       "lat": "38.7649498"
     },
@@ -9663,14 +10160,8 @@
       "tag": "clintonf_a",
       "lat": "38.7660965"
     },
-    "stuatopa": {
-      "lon": "-76.882158",
-      "title": "Stuarts Ln @ Topaz Ct",
-      "tag": "stuatopa",
-      "lat": "38.7544771"
-    },
     "stuasurr_a": {
-      "lon": "-76.8834399",
+      "lon": "-76.88344",
       "title": "Stuart at Surrats",
       "shortTitle": "Stuart @ Surrats",
       "tag": "stuasurr_a",
@@ -9737,6 +10228,13 @@
       "tag": "32_36",
       "lat": "38.7803742"
     },
+    "alexhigh": {
+      "lon": "-76.8762889",
+      "title": "Old Alexandria Ferry Rd at Highland Meadows Dr",
+      "shortTitle": "Old Alexandria Ferry @ Highland Meadows Dr",
+      "tag": "alexhigh",
+      "lat": "38.7806494"
+    },
     "32_35_o": {
       "lon": "-76.8831013",
       "title": "Old Alexandria Ferry Rd at Mike Shapiro Dr",
@@ -9750,6 +10248,20 @@
       "shortTitle": "Old Alexandria Ferry @ Heflin Dr",
       "tag": "32_33_o",
       "lat": "38.7839286"
+    },
+    "alexmalc": {
+      "lon": "-76.890582",
+      "title": "Old Alexandria Ferry Rd at Malcolm Rd",
+      "shortTitle": "Old Alexandria Ferry @ Malcolm",
+      "tag": "alexmalc",
+      "lat": "38.78365"
+    },
+    "covealex": {
+      "lon": "-76.8932299",
+      "title": "Coventry Way at Old Alexandria Ferry Rd",
+      "shortTitle": "Coventry Way @ Old Alexandria Ferry",
+      "tag": "covealex",
+      "lat": "38.78424"
     },
     "32_41_o": {
       "lon": "-76.8984349",
@@ -9767,8 +10279,8 @@
     },
     "32_43_o": {
       "lon": "-76.9006144",
-      "title": "Old Branch Ave at Tarquin Ave",
-      "shortTitle": "Old Branch @ Tarquin",
+      "title": "Old Branch Ave at 6811 Old Branch Ave (Opposite)",
+      "shortTitle": "Old Branch @ 6811 Old Branch (Opposite)",
       "tag": "32_43_o",
       "lat": "38.7961022"
     },
@@ -9850,18 +10362,11 @@
       "lat": "38.8080152"
     },
     "32_57_o": {
-      "lon": "-76.9372811",
+      "lon": "-76.9372681",
       "title": "Temple Hill Rd at Old Temple Hill Rd",
       "shortTitle": "Temple Hill @ Old Temple Hill",
       "tag": "32_57_o",
-      "lat": "38.8100811"
-    },
-    "32_62_o": {
-      "lon": "-76.9381248",
-      "title": "Temple Hill Rd at Suburban Ct",
-      "shortTitle": "Temple Hill @ Suburban Ct",
-      "tag": "32_62_o",
-      "lat": "38.8130034"
+      "lat": "38.8100146"
     },
     "32_56_o": {
       "lon": "-76.9410835",
@@ -9961,6 +10466,13 @@
       "tag": "28thkeit_nb",
       "lat": "38.835597"
     },
+    "28thkeat": {
+      "lon": "-76.9490491",
+      "title": "28th Ave at Keating St",
+      "shortTitle": "28th @ Keating",
+      "tag": "28thkeat",
+      "lat": "38.8365383"
+    },
     "32_25": {
       "lon": "-76.9496451",
       "title": "Iverson St at 28th Ave",
@@ -9987,6 +10499,13 @@
       "shortTitle": "Fairlawn @ 28th Pkwy",
       "tag": "32_23",
       "lat": "38.84087"
+    },
+    "28thdugg": {
+      "lon": "-76.9562507",
+      "title": "28th Pkwy at Duggan St",
+      "shortTitle": "28th Pkwy @ Duggan",
+      "tag": "28thdugg",
+      "lat": "38.8429649"
     },
     "32_6_o": {
       "lon": "-76.957484",
@@ -10043,6 +10562,13 @@
       "tag": "32_5",
       "lat": "38.8464115"
     },
+    "28th27th": {
+      "lon": "-76.9602659",
+      "title": "28th Pkwy at 27th Ave",
+      "shortTitle": "28th Pkwy @ 27th",
+      "tag": "28th27th",
+      "lat": "38.845716"
+    },
     "32_9": {
       "lon": "-76.9586932",
       "title": "3223 28th Pkwy",
@@ -10055,6 +10581,13 @@
       "shortTitle": "28th Pkwy @ Curtis Dr",
       "tag": "32_6",
       "lat": "38.8443024"
+    },
+    "28thdugg_i": {
+      "lon": "-76.95613",
+      "title": "28th Pkwy at Duggan St",
+      "shortTitle": "28th Pkwy @ Duggan",
+      "tag": "28thdugg_i",
+      "lat": "38.84245"
     },
     "32_7": {
       "lon": "-76.9536615",
@@ -10075,6 +10608,13 @@
       "title": "Iverson Mall",
       "tag": "32_26",
       "lat": "38.8390528"
+    },
+    "28thkeat_i": {
+      "lon": "-76.949371",
+      "title": "28th Ave at Keating St",
+      "shortTitle": "28th @ Keating",
+      "tag": "28thkeat_i",
+      "lat": "38.8367687"
     },
     "32_2": {
       "lon": "-76.9482785",
@@ -10175,32 +10715,25 @@
       "lat": "38.81357"
     },
     "32_62": {
-      "lon": "-76.9383219",
+      "lon": "-76.9375232",
       "title": "Temple Hill Rd at Suburban Ct",
       "shortTitle": "Temple Hill @ Suburban Ct",
       "tag": "32_62",
-      "lat": "38.8130714"
+      "lat": "38.8111188"
     },
     "32_57": {
-      "lon": "-76.9373259",
+      "lon": "-76.9372785",
       "title": "Temple Hill Rd at Old Temple Hill Rd",
       "shortTitle": "Temple Hill @ Old Temple Hill",
       "tag": "32_57",
-      "lat": "38.809985"
+      "lat": "38.8097668"
     },
-    "32_55": {
-      "lon": "-76.9304225",
-      "title": "Temple Hill Rd at Lakeview Dr",
-      "shortTitle": "Temple Hill @ Lakeview Dr",
-      "tag": "32_55",
-      "lat": "38.8020047"
-    },
-    "32_52": {
-      "lon": "-76.9324667",
-      "title": "Temple Hill Rd at Cedell Pl",
-      "shortTitle": "Temple Hill @ Cedell Pl",
-      "tag": "32_52",
-      "lat": "38.8038072"
+    "32_54": {
+      "lon": "-76.9366063",
+      "title": "Temple Hill Rd at Henderson Rd",
+      "shortTitle": "Temple Hill @ Henderson",
+      "tag": "32_54",
+      "lat": "38.8075653"
     },
     "32_63": {
       "lon": "-76.9346395",
@@ -10209,12 +10742,19 @@
       "tag": "32_63",
       "lat": "38.8056861"
     },
-    "32_54": {
-      "lon": "-76.9366063",
-      "title": "Temple Hill Rd at Henderson Rd",
-      "shortTitle": "Temple Hill @ Henderson",
-      "tag": "32_54",
-      "lat": "38.8075653"
+    "32_55": {
+      "lon": "-76.9304225",
+      "title": "Temple Hill Rd at Lakeview Dr",
+      "shortTitle": "Temple Hill @ Lakeview Dr",
+      "tag": "32_55",
+      "lat": "38.8020047"
+    },
+    "temphill": {
+      "lon": "-76.9323161",
+      "title": "Temple Hill Rd at Old Temple Hill Rd",
+      "shortTitle": "Temple Hill @ Old Temple Hill",
+      "tag": "temphill",
+      "lat": "38.803677"
     },
     "brinkley": {
       "lon": "-76.9281053",
@@ -10258,10 +10798,17 @@
       "tag": "32_12",
       "lat": "38.8018103"
     },
+    "allebran": {
+      "lon": "-76.9072538",
+      "title": "Allentown Rd at Old Branch Ave",
+      "shortTitle": "Allentown @ Old Branch",
+      "tag": "allebran",
+      "lat": "38.8035214"
+    },
     "32_43": {
       "lon": "-76.9006771",
-      "title": "Old Branch Ave at Tarquin Ave",
-      "shortTitle": "Old Branch @ Tarquin",
+      "title": "Old Branch Ave at 6811 Old Branch Ave",
+      "shortTitle": "Old Branch @ 6811 Old Branch",
       "tag": "32_43",
       "lat": "38.7959668"
     },
@@ -10279,6 +10826,13 @@
       "tag": "32_41",
       "lat": "38.7833386"
     },
+    "covealex_i": {
+      "lon": "-76.8931599",
+      "title": "Coventry Way at Old Alexandria Ferry Rd",
+      "shortTitle": "Coventry Way @ Old Alexandria Ferry",
+      "tag": "covealex_i",
+      "lat": "38.78407"
+    },
     "32_33": {
       "lon": "-76.8878516",
       "title": "Old Alexandria Ferry Rd at Heflin Dr",
@@ -10292,6 +10846,13 @@
       "shortTitle": "Old Alexandria Ferry @ Mike Shapiro Dr",
       "tag": "32_35",
       "lat": "38.7837701"
+    },
+    "alexferr": {
+      "lon": "-76.8790026",
+      "title": "Old Alexandria Ferry Rd at Alexandria Ferry Business Park",
+      "shortTitle": "Old Alexandria Ferry @ Alexandria Ferry Business Park",
+      "tag": "alexferr",
+      "lat": "38.7823757"
     },
     "32_34": {
       "lon": "-76.8762094",
@@ -10354,30 +10915,22 @@
       "tag": "32_49",
       "lat": "38.7704527"
     },
-    "woodwood": {
-      "lon": "-76.8866604",
-      "title": "Woody Terrace @ Woodyard Road",
-      "shortTitle": "Woody Terrace @ Woodyard",
-      "stopId": "36020",
-      "tag": "woodwood",
-      "lat": "38.7663208"
-    },
     "oldbranc_d": {
-      "lon": "-76.90506",
+      "lon": "-76.9049766",
       "title": "Old Branch Ave at Allentown Way",
       "shortTitle": "Old Branch @ Allentown Way",
       "tag": "oldbranc_d",
-      "lat": "38.80164"
+      "lat": "38.8017226"
     },
     "allentot_w": {
-      "lon": "-76.9101277",
+      "lon": "-76.9101278",
       "title": "Allentown Rd at Brinkley Rd",
       "shortTitle": "Allentown @ Brinkley",
       "tag": "allentot_w",
-      "lat": "38.8009071"
+      "lat": "38.800907"
     },
     "allentoc_n": {
-      "lon": "-76.9128793",
+      "lon": "-76.9128794",
       "title": "Allentown Rd at Coolridge Rd",
       "shortTitle": "Allentown @ Coolridge",
       "tag": "allentoc_n",
@@ -10398,7 +10951,7 @@
       "lat": "38.7930967"
     },
     "33_16_n": {
-      "lon": "-76.9229214",
+      "lon": "-76.9229215",
       "title": "Allentown Rd at Waldran Dr",
       "shortTitle": "Allentown @ Waldran Dr",
       "tag": "33_16_n",
@@ -10459,13 +11012,6 @@
       "tag": "33_30",
       "lat": "38.8003495"
     },
-    "33_4": {
-      "lon": "-76.9400896",
-      "title": "3910 Brinkley Rd",
-      "shortTitle": "3910 Brinkley",
-      "tag": "33_4",
-      "lat": "38.8001999"
-    },
     "33_31": {
       "lon": "-76.9417646",
       "title": "Brinkley Rd at Roberts Dr",
@@ -10487,13 +11033,6 @@
       "tag": "33_27_n",
       "lat": "38.8041399"
     },
-    "33_23": {
-      "lon": "-76.9544236",
-      "title": "Brinkley Rd at Brinkley Manor E Ent",
-      "shortTitle": "Brinkley @ Brinkley Manor E Ent",
-      "tag": "33_23",
-      "lat": "38.8038807"
-    },
     "33_24": {
       "lon": "-76.9565255",
       "title": "Brinkley Rd at Brinkley Manor W Ent",
@@ -10503,8 +11042,8 @@
     },
     "33_35_n": {
       "lon": "-76.9579543",
-      "title": "Fisher Rd at Brinkley Rd",
-      "shortTitle": "Fisher @ Brinkley",
+      "title": "Fisher Rd at Clow Ct",
+      "shortTitle": "Fisher @ Clow Ct",
       "tag": "33_35_n",
       "lat": "38.8056456"
     },
@@ -10620,6 +11159,13 @@
       "tag": "33_64_w",
       "lat": "38.8169226"
     },
+    "barnfraz": {
+      "lon": "-76.9606099",
+      "title": "St Barnabas Rd at Frazier Dr",
+      "shortTitle": "St Barnabas @ Frazier Dr",
+      "tag": "barnfraz",
+      "lat": "38.81757"
+    },
     "33_71": {
       "lon": "-76.9625025",
       "title": "St Barnabas Rd at Wheeler Rd",
@@ -10629,7 +11175,7 @@
     },
     "33_52_e": {
       "lon": "-76.9670334",
-      "title": "Owens Rd at Woodland",
+      "title": "Owens Rd at Woodland Blvd",
       "shortTitle": "Owens @ Woodland",
       "tag": "33_52_e",
       "lat": "38.8171108"
@@ -10697,26 +11243,12 @@
       "tag": "owenirvi",
       "lat": "38.8246427"
     },
-    "33_44_e": {
-      "lon": "-76.9954948",
-      "title": "Owens Rd at Southern Ave",
-      "shortTitle": "Owens @ Southern",
-      "tag": "33_44_e",
-      "lat": "38.8257263"
-    },
     "33_60_w": {
       "lon": "-76.9938399",
       "title": "Southern Ave at Park Southern Apts",
       "shortTitle": "Southern @ Park Southern Apts",
       "tag": "33_60_w",
       "lat": "38.82696"
-    },
-    "33_61_s": {
-      "lon": "-76.9921153",
-      "title": "Southern Ave at Southview Dr",
-      "shortTitle": "Southern @ Southview Dr",
-      "tag": "33_61_s",
-      "lat": "38.8282675"
     },
     "33_56_s": {
       "lon": "-76.9913573",
@@ -10733,11 +11265,11 @@
       "lat": "38.8309445"
     },
     "33_62": {
-      "lon": "-76.9869518",
+      "lon": "-76.9877525",
       "title": "Southern Ave at Wheeler Rd",
       "shortTitle": "Southern @ Wheeler",
       "tag": "33_62",
-      "lat": "38.8323008"
+      "lat": "38.8316841"
     },
     "33_54_s": {
       "lon": "-76.9850901",
@@ -10796,11 +11328,11 @@
       "lat": "38.8341185"
     },
     "33_51": {
-      "lon": "-76.9870887",
+      "lon": "-76.9877122",
       "title": "Southern Rd at Wheeler Rd",
       "shortTitle": "Southern @ Wheeler",
       "tag": "33_51",
-      "lat": "38.8323885"
+      "lat": "38.8319083"
     },
     "33_55_w": {
       "lon": "-76.9888904",
@@ -10816,26 +11348,12 @@
       "tag": "33_56_n",
       "lat": "38.8293859"
     },
-    "33_61_n": {
-      "lon": "-76.9920269",
-      "title": "Southern Ave at Southview Dr",
-      "shortTitle": "Southern @ Southview Dr",
-      "tag": "33_61_n",
-      "lat": "38.8285224"
-    },
     "33_60_e": {
       "lon": "-76.9940058",
       "title": "Southern Ave at Park Southern Apts",
       "shortTitle": "Southern @ Park Southern Apts",
       "tag": "33_60_e",
       "lat": "38.8269732"
-    },
-    "33_44_w": {
-      "lon": "-76.9956967",
-      "title": "Owens Rd at Southern Ave",
-      "shortTitle": "Owens @ Southern",
-      "tag": "33_44_w",
-      "lat": "38.8256426"
     },
     "owenirvi_sb": {
       "lon": "-76.9931252",
@@ -10895,7 +11413,7 @@
     },
     "33_52_w": {
       "lon": "-76.9673411",
-      "title": "Owens Rd at Woodland",
+      "title": "Owens Rd at Woodland Blvd",
       "shortTitle": "Owens @ Woodland",
       "tag": "33_52_w",
       "lat": "38.8170223"
@@ -10922,11 +11440,11 @@
       "lat": "38.8179592"
     },
     "33_67_s": {
-      "lon": "-76.957507",
-      "title": "St Barnabas Rd at Lime St",
-      "shortTitle": "St Barnabas @ Lime",
+      "lon": "-76.9564859",
+      "title": "St Barnabas Rd at Kernal Ln",
+      "shortTitle": "St Barnabas @ Kernal Ln",
       "tag": "33_67_s",
-      "lat": "38.8201905"
+      "lat": "38.8209914"
     },
     "33_66_e": {
       "lon": "-76.9545625",
@@ -11027,95 +11545,81 @@
       "lat": "38.8068559"
     },
     "33_35_s": {
-      "lon": "-76.958329",
-      "title": "Fisher Rd at Brinkley Rd",
-      "shortTitle": "Fisher @ Brinkley",
+      "lon": "-76.9580137",
+      "title": "Fisher Rd at Clow Ct",
+      "shortTitle": "Fisher @ Clow Ct",
       "tag": "33_35_s",
-      "lat": "38.8053409"
+      "lat": "38.8056843"
     },
     "33_22": {
-      "lon": "-76.9566963",
+      "lon": "-76.9566958",
       "title": "Brinkley Rd at Brinkley House W Ent",
       "shortTitle": "Brinkley @ Brinkley House W Ent",
       "tag": "33_22",
       "lat": "38.8041019"
     },
-    "33_21": {
-      "lon": "-76.9545503",
-      "title": "Brinkley Rd at Brinkley House E Ent",
-      "shortTitle": "Brinkley @ Brinkley House E Ent",
-      "tag": "33_21",
-      "lat": "38.8037899"
-    },
     "33_27_s": {
-      "lon": "-76.9529848",
+      "lon": "-76.9529843",
       "title": "Brinkley Rd at Huntcrest",
       "shortTitle": "Brinkley @ Huntcrest",
       "tag": "33_27_s",
       "lat": "38.80404"
     },
     "33_28": {
-      "lon": "-76.9501079",
+      "lon": "-76.9501075",
       "title": "Brinkley Rd at Huntley Square Dr",
       "shortTitle": "Brinkley @ Huntley Square Dr",
       "tag": "33_28",
-      "lat": "38.8031814"
+      "lat": "38.8031813"
     },
     "33_25": {
-      "lon": "-76.9416855",
+      "lon": "-76.9416851",
       "title": "Brinkley Rd at Cherryfield Rd",
       "shortTitle": "Brinkley @ Cherryfield",
       "tag": "33_25",
-      "lat": "38.8006521"
-    },
-    "33_3": {
-      "lon": "-76.9405063",
-      "title": "3908 Brinkley Rd",
-      "shortTitle": "3908 Brinkley",
-      "tag": "33_3",
-      "lat": "38.8001858"
+      "lat": "38.8006519"
     },
     "33_29": {
-      "lon": "-76.9380844",
+      "lon": "-76.9380839",
       "title": "Brinkley Rd at Middlefield Rd",
       "shortTitle": "Brinkley @ Middlefield",
       "tag": "33_29",
-      "lat": "38.8001995"
+      "lat": "38.8001996"
     },
     "33_33_s": {
-      "lon": "-76.9354113",
+      "lon": "-76.9354108",
       "title": "Brinkley Rd at Trude St",
       "shortTitle": "Brinkley @ Trude",
       "tag": "33_33_s",
       "lat": "38.80045"
     },
     "33_26_w": {
-      "lon": "-76.9321638",
+      "lon": "-76.9321633",
       "title": "Brinkley Rd at Farmer Dr",
       "shortTitle": "Brinkley @ Farmer Dr",
       "tag": "33_26_w",
       "lat": "38.8002096"
     },
     "brinkley_e": {
-      "lon": "-76.9296397",
+      "lon": "-76.9296392",
       "title": "Brinkley Rd at Temple Hill Rd",
       "shortTitle": "Brinkley @ Temple Hill",
       "tag": "brinkley_e",
-      "lat": "38.800751"
+      "lat": "38.8007512"
     },
     "33_72_n": {
-      "lon": "-76.927647",
+      "lon": "-76.9276471",
       "title": "Temple Hill Rd at Cardwell Dr",
       "shortTitle": "Temple Hill @ Cardwell Dr",
       "tag": "33_72_n",
-      "lat": "38.7974005"
+      "lat": "38.7974001"
     },
     "33_73_w": {
-      "lon": "-76.9282865",
+      "lon": "-76.9282866",
       "title": "Temple Hill Rd at Farmer Dr",
       "shortTitle": "Temple Hill @ Farmer Dr",
       "tag": "33_73_w",
-      "lat": "38.7952004"
+      "lat": "38.7952"
     },
     "padgetts_s": {
       "lon": "-76.92561",
@@ -11151,32 +11655,25 @@
       "tag": "allentoc_s",
       "lat": "38.7983771"
     },
-    "allentot_e": {
-      "lon": "-76.910006",
-      "title": "Allentown Rd at Brinkley Rd",
-      "shortTitle": "Allentown @ Brinkley",
-      "tag": "allentot_e",
-      "lat": "38.8008932"
-    },
     "suitmsta_d": {
-      "lon": "-76.9325098",
+      "lon": "-76.9325096",
       "title": "Suitland Metrorail Station Bay D",
       "tag": "suitmsta_d",
-      "lat": "38.8446698"
+      "lat": "38.8446696"
     },
     "34_6": {
-      "lon": "-76.9300746",
+      "lon": "-76.9295464",
       "title": "Silver Hill Rd at Parkway Terrace Dr",
       "shortTitle": "Silver Hill @ Parkway Terrace Dr",
       "tag": "34_6",
-      "lat": "38.8435261"
+      "lat": "38.8438396"
     },
     "34_7_n": {
-      "lon": "-76.9276177",
+      "lon": "-76.928252",
       "title": "Silver Hill Rd at Randall Rd",
       "shortTitle": "Silver Hill @ Randall",
       "tag": "34_7_n",
-      "lat": "38.8454813"
+      "lat": "38.8448067"
     },
     "34_9_n": {
       "lon": "-76.9263168",
@@ -11186,11 +11683,11 @@
       "lat": "38.8468935"
     },
     "34_12_n": {
-      "lon": "-76.925167",
+      "lon": "-76.9265688",
       "title": "Suitland Rd at Huron Ave",
       "shortTitle": "Suitland @ Huron",
       "tag": "34_12_n",
-      "lat": "38.849054"
+      "lat": "38.8497332"
     },
     "34_11_n": {
       "lon": "-76.9284263",
@@ -11205,6 +11702,26 @@
       "shortTitle": "Suitland @ Shadyside",
       "tag": "34_13_n",
       "lat": "38.851735"
+    },
+    "4415suit": {
+      "lon": "-76.933318",
+      "title": "4412 Suitland Rd",
+      "shortTitle": "4412 Suitland",
+      "tag": "4415suit",
+      "lat": "38.8523988"
+    },
+    "4211suit": {
+      "lon": "-76.9378827",
+      "title": "4211 Suitland Rd (Opposite)",
+      "shortTitle": "4211 Suitland (Opposite)",
+      "tag": "4211suit",
+      "lat": "38.8539651"
+    },
+    "cpcrapts_d": {
+      "lon": "-76.9460481",
+      "title": "Capitol Crossing Apts",
+      "tag": "cpcrapts_d",
+      "lat": "38.8609806"
     },
     "34_2_n": {
       "lon": "-76.938232",
@@ -11225,10 +11742,10 @@
       "lat": "38.8600847"
     },
     "34_5_n": {
-      "lon": "-76.9346692",
+      "lon": "-76.93467",
       "title": "4258 Whitehall Square Apts",
       "tag": "34_5_n",
-      "lat": "38.8617993"
+      "lat": "38.8618"
     },
     "34_14_n": {
       "lon": "-76.9349986",
@@ -11249,11 +11766,116 @@
       "tag": "34_1_o",
       "lat": "38.8565338"
     },
-    "cpcrapts_d": {
-      "lon": "-76.9460481",
-      "title": "Capitol Crossing Apts",
-      "tag": "cpcrapts_d",
-      "lat": "38.8609806"
+    "4205suit": {
+      "lon": "-76.9378599",
+      "title": "4205  Suitland Rd",
+      "shortTitle": "4205  Suitland",
+      "tag": "4205suit",
+      "lat": "38.8538597"
+    },
+    "4412suit_op": {
+      "lon": "-76.9336634",
+      "title": "4412 Suitland Rd (Opposite)",
+      "shortTitle": "4412 Suitland (Opposite)",
+      "tag": "4412suit_op",
+      "lat": "38.852427"
+    },
+    "suitshad_o": {
+      "lon": "-76.930133",
+      "title": "Suitland Rd at Shadyside Ave",
+      "shortTitle": "Suitland @ Shadyside",
+      "tag": "suitshad_o",
+      "lat": "38.851357"
+    },
+    "suithome_o": {
+      "lon": "-76.9277027",
+      "title": "Suitland Rd at Homer Ave",
+      "shortTitle": "Suitland @ Homer",
+      "tag": "suithome_o",
+      "lat": "38.8501808"
+    },
+    "suithuro_o": {
+      "lon": "-76.9260387",
+      "title": "Suitland Rd at Huron Ave",
+      "shortTitle": "Suitland @ Huron",
+      "tag": "suithuro_o",
+      "lat": "38.8493748"
+    },
+    "silvsuit_o": {
+      "lon": "-76.925486",
+      "title": "Silver Hill Rd at Suitland Rd",
+      "shortTitle": "Silver Hill @ Suitland",
+      "tag": "silvsuit_o",
+      "lat": "38.8480858"
+    },
+    "4615silv": {
+      "lon": "-76.9276879",
+      "title": "4615 Silver Hill Rd",
+      "shortTitle": "4615 Silver Hill",
+      "tag": "4615silv",
+      "lat": "38.8457906"
+    },
+    "silvrand": {
+      "lon": "-76.9282352",
+      "title": "Silver Hill Rd at Randall Rd",
+      "shortTitle": "Silver Hill @ Randall",
+      "tag": "silvrand",
+      "lat": "38.8452135"
+    },
+    "suitmsta_d2": {
+      "lon": "-76.932224",
+      "title": "Suitland Metrorail Station Bay D",
+      "tag": "suitmsta_d2",
+      "lat": "38.844825"
+    },
+    "silvrand_i": {
+      "lon": "-76.928252",
+      "title": "Silver Hill Rd at Randall Rd",
+      "shortTitle": "Silver Hill @ Randall",
+      "tag": "silvrand_i",
+      "lat": "38.8448067"
+    },
+    "silvswan": {
+      "lon": "-76.9263168",
+      "title": "Silver Hill Rd at Swann Rd",
+      "shortTitle": "Silver Hill @ Swann",
+      "tag": "silvswan",
+      "lat": "38.8468935"
+    },
+    "suithuro": {
+      "lon": "-76.9265688",
+      "title": "Suitland Rd at Huron Ave",
+      "shortTitle": "Suitland @ Huron",
+      "tag": "suithuro",
+      "lat": "38.8497332"
+    },
+    "suithome": {
+      "lon": "-76.9284263",
+      "title": "Suitland Rd at Homer Ave",
+      "shortTitle": "Suitland @ Homer",
+      "tag": "suithome",
+      "lat": "38.8506241"
+    },
+    "suitshad": {
+      "lon": "-76.9308481",
+      "title": "Suitland Rd at Shadyside Ave",
+      "shortTitle": "Suitland @ Shadyside",
+      "tag": "suitshad",
+      "lat": "38.851735"
+    },
+    "4412suit_i": {
+      "lon": "-76.9333189",
+      "title": "Suitland Rd at 4412 Suitland Rd",
+      "shortTitle": "Suitland @ 4412 Suitland",
+      "tag": "4412suit_i",
+      "lat": "38.852399"
+    },
+    "4211suit_i": {
+      "lon": "-76.9378827",
+      "title": "Suitland Rd at Opposite Prem. #4211",
+      "shortTitle": "Suitland @ Opposite Prem. #4211",
+      "tag": "4211suit_i",
+      "lat": "38.8539651"
     },
     "34_2": {
       "lon": "-76.938232",
@@ -11274,10 +11896,10 @@
       "lat": "38.8600848"
     },
     "34_5": {
-      "lon": "-76.9346692",
+      "lon": "-76.93467",
       "title": "4258 Whitehall Square Apts",
       "tag": "34_5",
-      "lat": "38.8617993"
+      "lat": "38.8618"
     },
     "34_14": {
       "lon": "-76.9359348",
@@ -11297,6 +11919,26 @@
       "title": "4106 Whitehall Square Apts",
       "tag": "34_1",
       "lat": "38.8554183"
+    },
+    "cpcrapts_d2": {
+      "lon": "-76.9460481",
+      "title": "Capitol Crossing Apts",
+      "tag": "cpcrapts_d2",
+      "lat": "38.8609806"
+    },
+    "4205suit_i": {
+      "lon": "-76.9378599",
+      "title": "4205  Suitland Rd",
+      "shortTitle": "4205  Suitland",
+      "tag": "4205suit_i",
+      "lat": "38.8538597"
+    },
+    "4412suit_i2": {
+      "lon": "-76.9336634",
+      "title": "4412 Suitland Rd (Opposite)",
+      "shortTitle": "4412 Suitland (Opposite)",
+      "tag": "4412suit_i2",
+      "lat": "38.852427"
     },
     "34_13": {
       "lon": "-76.930133",
@@ -11326,12 +11968,12 @@
       "tag": "34_8",
       "lat": "38.8480858"
     },
-    "34_9": {
-      "lon": "-76.927276",
-      "title": "Silver Hill Rd at Swann Rd",
-      "shortTitle": "Silver Hill @ Swann",
-      "tag": "34_9",
-      "lat": "38.8462249"
+    "4615silv_i": {
+      "lon": "-76.9276879",
+      "title": "4615 Silver Hill Rd",
+      "shortTitle": "4615 Silver Hill",
+      "tag": "4615silv_i",
+      "lat": "38.8457906"
     },
     "34_7": {
       "lon": "-76.9282352",
@@ -11341,7 +11983,7 @@
       "lat": "38.8452135"
     },
     "smetsta_d": {
-      "lon": "-76.975403",
+      "lon": "-76.9754029",
       "title": "Southern Ave Metro Rail Station at Bus Bay F",
       "shortTitle": "Southern Metro Rail Station @ Bus Bay F",
       "tag": "smetsta_d",
@@ -11395,6 +12037,13 @@
       "shortTitle": "Southern @ Premisies 800 (Park Southern Apts)",
       "tag": "soutsout_o",
       "lat": "38.826973"
+    },
+    "soutboni": {
+      "lon": "-76.996031",
+      "title": "Southern Ave at Bonini Rd",
+      "shortTitle": "Southern @ Bonini",
+      "tag": "soutboni",
+      "lat": "38.8253934"
     },
     "soutbarn_o": {
       "lon": "-76.99784",
@@ -11458,19 +12107,12 @@
       "tag": "mgmcasi",
       "lat": "38.7969275"
     },
-    "potowate": {
-      "lon": "-77.0156851",
-      "title": "Water Street at Potomac Passage",
-      "shortTitle": "Water @ Potomac Passage",
-      "tag": "potowate",
-      "lat": "38.7855665"
-    },
     "gaylhote": {
-      "lon": "-77.0166597",
+      "lon": "-77.01666",
       "title": "Stars Entrance Gaylord Hotel at National Harbor Blvd",
       "shortTitle": "Stars Entrance Gaylord Hotel @ National Harbor",
       "tag": "gaylhote",
-      "lat": "38.7796004"
+      "lat": "38.7796"
     },
     "stgewate": {
       "lon": "-77.0143792",
@@ -11522,11 +12164,11 @@
       "lat": "38.804258"
     },
     "oxonjohn_o": {
-      "lon": "-76.9770924",
+      "lon": "-76.975131",
       "title": "Oxon Hill Rd at John Hanson Ln",
       "shortTitle": "Oxon Hill @ John Hanson Ln",
       "tag": "oxonjohn_o",
-      "lat": "38.8048191"
+      "lat": "38.805212"
     },
     "sainbarr_o": {
       "lon": "-76.9757699",
@@ -11536,39 +12178,31 @@
       "lat": "38.803574"
     },
     "saincary_o": {
-      "lon": "-76.9777762",
+      "lon": "-76.9781746",
       "title": "Saint Barnabas Rd at Caryhurst Dr",
       "shortTitle": "Saint Barnabas @ Caryhurst Dr",
       "tag": "saincary_o",
-      "lat": "38.8020276"
+      "lat": "38.80172"
     },
     "bocksain_o": {
-      "lon": "-76.9795762",
+      "lon": "-76.9801559",
       "title": "Bock Rd at Saint Barnabas Rd",
       "shortTitle": "Bock @ Saint Barnabas",
       "tag": "bocksain_o",
-      "lat": "38.7995796"
+      "lat": "38.8001379"
     },
     "bockwood": {
       "lon": "-76.9780503",
-      "title": "Bock Rd at 6801 Woodside Village Apts",
-      "shortTitle": "Bock @ 6801 Woodside Village Apts",
+      "title": "6801 Woodside Village Apts",
       "tag": "bockwood",
       "lat": "38.7978748"
     },
     "bockbelf_o": {
-      "lon": "-76.9762333",
-      "title": "Bock Rd at Belfast Drive",
-      "shortTitle": "Bock @ Belfast Drive",
+      "lon": "-76.9762816",
+      "title": "Bock Rd at Belfast Dr",
+      "shortTitle": "Bock @ Belfast Dr",
       "tag": "bockbelf_o",
-      "lat": "38.7958082"
-    },
-    "bocksour": {
-      "lon": "-76.9746934",
-      "title": "Bock Rd at Sourwood Ln",
-      "shortTitle": "Bock @ Sourwood Ln",
-      "tag": "bocksour",
-      "lat": "38.7940797"
+      "lat": "38.7958625"
     },
     "bocktech": {
       "lon": "-76.973876",
@@ -11578,25 +12212,18 @@
       "lat": "38.792157"
     },
     "bockwolf": {
-      "lon": "-76.9741546",
+      "lon": "-76.974384",
       "title": "Bock Rd at Wolf St",
       "shortTitle": "Bock @ Wolf",
       "tag": "bockwolf",
-      "lat": "38.7935423"
-    },
-    "bock_belf": {
-      "lon": "-76.9761776",
-      "title": "Bock Rd @ Belfast Dr",
-      "shortTitle": "Bock @ Belfast Dr",
-      "tag": "bock_belf",
-      "lat": "38.7958055"
+      "lat": "38.7937944"
     },
     "bockacad": {
-      "lon": "-76.9778534",
+      "lon": "-76.9785942",
       "title": "Bock Rd at National Christian Academy (6700)",
       "shortTitle": "Bock @ National Christian Academy (6700)",
       "tag": "bockacad",
-      "lat": "38.7977095"
+      "lat": "38.7985743"
     },
     "bocksain": {
       "lon": "-76.9795924",
@@ -11661,55 +12288,6 @@
       "tag": "brinrose",
       "lat": "38.80404"
     },
-    "brinhusq": {
-      "lon": "-76.9501077",
-      "title": "Brinkley Rd at Huntley Square Dr",
-      "shortTitle": "Brinkley @ Huntley Square Dr",
-      "tag": "brinhusq",
-      "lat": "38.8031813"
-    },
-    "brincher": {
-      "lon": "-76.9416852",
-      "title": "Brinkley Rd at Cherryfield Rd",
-      "shortTitle": "Brinkley @ Cherryfield",
-      "tag": "brincher",
-      "lat": "38.800652"
-    },
-    "brinmidd": {
-      "lon": "-76.9380842",
-      "title": "Brinkley Rd at Middlefield Rd",
-      "shortTitle": "Brinkley @ Middlefield",
-      "tag": "brinmidd",
-      "lat": "38.8001996"
-    },
-    "brintrud_o": {
-      "lon": "-76.9354111",
-      "title": "Brinkley Rd at Trude St",
-      "shortTitle": "Brinkley @ Trude",
-      "tag": "brintrud_o",
-      "lat": "38.80045"
-    },
-    "brinfarm_o": {
-      "lon": "-76.9321635",
-      "title": "Brinkley Rd at Farmer Dr",
-      "shortTitle": "Brinkley @ Farmer Dr",
-      "tag": "brinfarm_o",
-      "lat": "38.8002096"
-    },
-    "brintemp": {
-      "lon": "-76.9273904",
-      "title": "Brinkley Rd at Temple Hill Rd",
-      "shortTitle": "Brinkley @ Temple Hill",
-      "tag": "brintemp",
-      "lat": "38.8012434"
-    },
-    "brinsumm": {
-      "lon": "-76.9244101",
-      "title": "Brinkley Rd at Summerhill Rd",
-      "shortTitle": "Brinkley @ Summerhill",
-      "tag": "brinsumm",
-      "lat": "38.8018359"
-    },
     "brinshop": {
       "lon": "-76.9218647",
       "title": "Brinkley Rd at Shopton Pl",
@@ -11765,13 +12343,6 @@
       "shortTitle": "Temple Hill @ Cardwell Dr",
       "tag": "tempcard",
       "lat": "38.7971358"
-    },
-    "brinluje": {
-      "lon": "-76.9304074",
-      "title": "Brinkley Rd at Lujean Ln",
-      "shortTitle": "Brinkley @ Lujean Ln",
-      "tag": "brinluje",
-      "lat": "38.8006247"
     },
     "brinfarm": {
       "lon": "-76.9317032",
@@ -11868,7 +12439,7 @@
       "title": "Bock Rd at Belfast Drive",
       "shortTitle": "Bock @ Belfast Drive",
       "tag": "bockbelf_i",
-      "lat": "38.7958082"
+      "lat": "38.7958083"
     },
     "bocksour_i": {
       "lon": "-76.9746934",
@@ -11982,13 +12553,6 @@
       "tag": "indii495",
       "lat": "38.8074902"
     },
-    "indilivi_i": {
-      "lon": "-76.99872",
-      "title": "Indian Head Highway (MD. RTE. 210) at Livingston Road",
-      "shortTitle": "Indian Head Highway (MD. RTE. 210) @ Livingston",
-      "tag": "indilivi_i",
-      "lat": "38.81651"
-    },
     "indiaudr": {
       "lon": "-76.9998126",
       "title": "Indian Head Highway at Audrey Ln",
@@ -12015,14 +12579,7 @@
       "title": "Southern Ave at Barnaby Road",
       "shortTitle": "Southern @ Barnaby",
       "tag": "soutbarn_i",
-      "lat": "38.8243169"
-    },
-    "soutowen": {
-      "lon": "-76.99626",
-      "title": "Southern Ave at Owens Road",
-      "shortTitle": "Southern @ Owens",
-      "tag": "soutowen",
-      "lat": "38.8251284"
+      "lat": "38.824317"
     },
     "soutsout": {
       "lon": "-76.9938399",
@@ -12046,11 +12603,11 @@
       "lat": "38.8309442"
     },
     "soutwhee": {
-      "lon": "-76.9868766",
+      "lon": "-76.9872902",
       "title": "Southern Ave at Wheeler Rd",
       "shortTitle": "Southern @ Wheeler",
       "tag": "soutwhee",
-      "lat": "38.8323583"
+      "lat": "38.8320412"
     },
     "sout13th": {
       "lon": "-76.9850905",
@@ -12066,6 +12623,13 @@
       "tag": "southosp",
       "lat": "38.8345518"
     },
+    "soutfore": {
+      "lon": "-76.9828751",
+      "title": "Southern Ave at Forest Hills Apartment",
+      "shortTitle": "Southern @ Forest Hills Apartment",
+      "tag": "soutfore",
+      "lat": "38.8354889"
+    },
     "1380sout": {
       "lon": "-76.9820138",
       "title": "Southern Ave at Opposite 1380 Southern Ave",
@@ -12074,12 +12638,12 @@
       "lat": "38.8361788"
     },
     "oxhfprlt": {
-      "lon": "-77.0005217",
+      "lon": "-77.0004176",
       "title": "OXON HILL FRINGE PARK AND RIDE LOT AT BUS BAY F",
       "shortTitle": "OXON HILL FRINGE PARK & RIDE LOT @ BUS BAY F",
       "stopId": "3002809",
       "tag": "oxhfprlt",
-      "lat": "38.7985339"
+      "lat": "38.7984947"
     },
     "gaylord": {
       "lon": "-77.01666",
@@ -12087,13 +12651,63 @@
       "tag": "gaylord",
       "lat": "38.7796"
     },
+    "georwate": {
+      "lon": "-77.0143799",
+      "title": "St George Blvd at Waterfront St",
+      "shortTitle": "St George @ Waterfront",
+      "tag": "georwate",
+      "lat": "38.7817999"
+    },
+    "oxontang": {
+      "lon": "-77.003369",
+      "title": "Oxon Hill Rd at Tanger Blvd",
+      "shortTitle": "Oxon Hill @ Tanger",
+      "tag": "oxontang",
+      "lat": "38.797028"
+    },
+    "oxhfprlt2": {
+      "lon": "-77.0004173",
+      "title": "OXON HILL FRINGE PARK AND RIDE LOT AT BUS BAY F",
+      "shortTitle": "OXON HILL FRINGE PARK & RIDE LOT @ BUS BAY F",
+      "stopId": "3002809",
+      "tag": "oxhfprlt2",
+      "lat": "38.7984946"
+    },
+    "oxonmano": {
+      "lon": "-77.0038626",
+      "title": "Oxon Hill Rd at Oxon Hill Manor",
+      "shortTitle": "Oxon Hill @ Oxon Hill Manor",
+      "tag": "oxonmano",
+      "lat": "38.7939052"
+    },
+    "oxonempl": {
+      "lon": "-77.0041489",
+      "title": "Oxon Hill Rd at MGM Employment Center",
+      "shortTitle": "Oxon Hill @ MGM Employment Center",
+      "tag": "oxonempl",
+      "lat": "38.791875"
+    },
+    "oxonkirb": {
+      "lon": "-77.006282",
+      "title": "Oxon Hill Rd at Kerby Pkwy",
+      "shortTitle": "Oxon Hill @ Kerby Pkwy",
+      "tag": "oxonkirb",
+      "lat": "38.77859"
+    },
     "oxhrcfox": {
       "lon": "-77.0061281",
       "title": "OXON HILL ROAD AT CROSS FOXES DR",
       "shortTitle": "OXON HILL @ CROSS FOXES DR",
       "stopId": "3002647",
       "tag": "oxhrcfox",
-      "lat": "38.775273"
+      "lat": "38.7752731"
+    },
+    "oxonjoel": {
+      "lon": "-77.005425",
+      "title": "Oxon Hill at Joellyn Ct",
+      "shortTitle": "Oxon Hill @ Joellyn Ct",
+      "tag": "oxonjoel",
+      "lat": "38.7640099"
     },
     "oxhrlivi": {
       "lon": "-76.997416",
@@ -12104,12 +12718,19 @@
       "lat": "38.7579159"
     },
     "livfwash": {
-      "lon": "-76.9991706",
+      "lon": "-76.9991707",
       "title": "LIVINGSTON ROAD AT FORT WASHINGTON RD",
       "shortTitle": "LIVINGSTON @ FORT WASHINGTON",
       "stopId": "3000128",
       "tag": "livfwash",
       "lat": "38.7428348"
+    },
+    "washindi": {
+      "lon": "-76.9927769",
+      "title": "Ft Washington Rd at Indian Head Hwy",
+      "shortTitle": "Ft Washington @ Indian Head Hwy",
+      "tag": "washindi",
+      "lat": "38.7426774"
     },
     "indhwash": {
       "lon": "-76.9898378",
@@ -12118,66 +12739,32 @@
       "tag": "indhwash",
       "lat": "38.7432938"
     },
+    "washindi2": {
+      "lon": "-76.9916603",
+      "title": "Ft Washington Rd at Indian Head Hwy",
+      "shortTitle": "Ft Washington @ Indian Head Hwy",
+      "tag": "washindi2",
+      "lat": "38.7427272"
+    },
     "livmedc": {
-      "lon": "-76.9918509",
+      "lon": "-76.991851",
       "title": "LIVINGSTON ROAD AT FORT WASHINGTON MEDICAL CENTER",
       "shortTitle": "LIVINGSTON @ FORT WASHINGTON MEDICAL CENTER",
       "tag": "livmedc",
-      "lat": "38.7292489"
+      "lat": "38.729249"
     },
-    "swanfvil": {
-      "lon": "-76.9919869",
-      "title": "SWAN CREEK ROAD AT OLD FORTE VILLAGE SHOPPING CENTER #974",
-      "shortTitle": "SWAN CREEK @ OLD FORTE VILLAGE SHOPPING CENTER #974",
-      "tag": "swanfvil",
-      "lat": "38.725166"
+    "swanhead": {
+      "lon": "-76.990247",
+      "title": "East Swan Creek at Indian Head Hwy",
+      "shortTitle": "East Swan Creek @ Indian Head Hwy",
+      "tag": "swanhead",
+      "lat": "38.7256109"
     },
     "swanwash": {
-      "lon": "-76.9948188",
-      "title": "SWAN CREEK ROAD AT FORT WASHINGTON PARK AND RIDE LOT",
-      "shortTitle": "SWAN CREEK @ FORT WASHINGTON PARK & RIDE LOT",
-      "stopId": "3002814",
+      "lon": "-76.9948795",
+      "title": "Fort Washington Fringe Lot Bus Bay B",
       "tag": "swanwash",
-      "lat": "38.724461"
-    },
-    "indhwash_ib": {
-      "lon": "-76.9898378",
-      "title": "INDIAN HEAD HWY AT FORT WASHINGTON MANOR SENIOR RESIDENCES",
-      "shortTitle": "INDIAN HEAD HWY @ FORT WASHINGTON MANOR SENIOR RESIDENCES",
-      "tag": "indhwash_ib",
-      "lat": "38.7432938"
-    },
-    "livfwash_ib": {
-      "lon": "-76.9990589",
-      "title": "LIVINGSTON RD AT FORT WASHINGTON RD",
-      "shortTitle": "LIVINGSTON @ FORT WASHINGTON",
-      "stopId": "3000127",
-      "tag": "livfwash_ib",
-      "lat": "38.7428244"
-    },
-    "oxhrlivi_ib": {
-      "lon": "-76.9973517",
-      "title": "OXON HILL ROAD AT LIVINGSTON RD",
-      "shortTitle": "OXON HILL @ LIVINGSTON",
-      "stopId": "3000151",
-      "tag": "oxhrlivi_ib",
-      "lat": "38.7579913"
-    },
-    "oxhrcfox_ib": {
-      "lon": "-77.0059972",
-      "title": "OXON HILL ROAD AT CROSS FOXES DR",
-      "shortTitle": "OXON HILL @ CROSS FOXES DR",
-      "stopId": "3002646",
-      "tag": "oxhrcfox_ib",
-      "lat": "38.7755401"
-    },
-    "oxhfprlt_a": {
-      "lon": "-77.000417",
-      "title": "OXON HILL FRINGE PARK AND RIDE LOT AT BUS BAY F (Arrival)",
-      "shortTitle": "OXON HILL FRINGE PARK & RIDE LOT @ BUS BAY F (Arrival)",
-      "stopId": "3002809",
-      "tag": "oxhfprlt_a",
-      "lat": "38.7984945"
+      "lat": "38.7246471"
     },
     "clinton_d": {
       "lon": "-76.8851969",
@@ -12194,20 +12781,19 @@
       "tag": "woodwood_o",
       "lat": "38.7665408"
     },
-    "woodcvsp": {
-      "lon": "-76.8896232",
-      "title": "Woodyard Road at CVS Pharmacy",
-      "shortTitle": "Woodyard @ CVS Pharmacy",
-      "stopId": "36003",
-      "tag": "woodcvsp",
-      "lat": "38.7668235"
+    "woodpine": {
+      "lon": "-76.8895751",
+      "title": "Woodyard Rd at Pine View Ln",
+      "shortTitle": "Woodyard @ Pine View Ln",
+      "tag": "woodpine",
+      "lat": "38.7668264"
     },
-    "branhors_o": {
-      "lon": "-76.8977468",
-      "title": "Brandywine Rd at Horshoe Rd.",
-      "shortTitle": "Brandywine @ Horshoe",
-      "tag": "branhors_o",
-      "lat": "38.7644834"
+    "branwood": {
+      "lon": "-76.898051",
+      "title": "Brandywine Rd at Woodyard Rd",
+      "shortTitle": "Brandywine @ Woodyard",
+      "tag": "branwood",
+      "lat": "38.765117"
     },
     "brancman": {
       "lon": "-76.8959502",
@@ -12217,7 +12803,7 @@
       "lat": "38.7604324"
     },
     "bransurr_o": {
-      "lon": "-76.895041",
+      "lon": "-76.8950409",
       "title": "Brandywine Road at Surrats Road",
       "shortTitle": "Brandywine @ Surrats",
       "stopId": "36004",
@@ -12255,6 +12841,13 @@
       "tag": "brangrov_o",
       "lat": "38.732197"
     },
+    "branold": {
+      "lon": "-76.8923329",
+      "title": "Brandywine Rd at Old Marbury Rd",
+      "shortTitle": "Brandywine @ Old Marbury",
+      "tag": "branold",
+      "lat": "38.7199135"
+    },
     "branlytt_o": {
       "lon": "-76.8902729",
       "title": "Brandywine Rd at Lytton Ave",
@@ -12278,15 +12871,16 @@
     },
     "brancros_o": {
       "lon": "-76.8731595",
-      "title": "Brandywine Crossing",
+      "title": "Matapeake Business Dr at Target Store",
+      "shortTitle": "Matapeake Business Dr @ Target Store",
       "stopId": "36010",
       "tag": "brancros_o",
       "lat": "38.6716239"
     },
     "mattbean_o": {
       "lon": "-76.87622",
-      "title": "Mattawoman Beantown Road",
-      "shortTitle": "Mattawoman Beantown",
+      "title": "Mattawoman Beantown Rd at Pinefield Center",
+      "shortTitle": "Mattawoman Beantown @ Pinefield Center",
       "stopId": "36011",
       "tag": "mattbean_o",
       "lat": "38.655011"
@@ -12307,15 +12901,16 @@
     },
     "mattbean": {
       "lon": "-76.87604",
-      "title": "Mattawoman Beantown Rd",
-      "shortTitle": "Mattawoman Beantown",
+      "title": "Mattawoman Beantown Rd at Pinefield Center",
+      "shortTitle": "Mattawoman Beantown @ Pinefield Center",
       "stopId": "36011",
       "tag": "mattbean",
       "lat": "38.65515"
     },
     "brancros": {
       "lon": "-76.8728394",
-      "title": "Brandywine Crossing",
+      "title": "Matapeake Business Dr at Target Store (opposite)",
+      "shortTitle": "Matapeake Business Dr @ Target Store (opposite)",
       "stopId": "36012",
       "tag": "brancros",
       "lat": "38.671554"
@@ -12340,6 +12935,13 @@
       "shortTitle": "Brandywine @ Lytton",
       "tag": "branlytt",
       "lat": "38.717516"
+    },
+    "branold_i": {
+      "lon": "-76.8924782",
+      "title": "Brandywine Rd at Old Marbury Rd",
+      "shortTitle": "Brandywine @ Old Marbury",
+      "tag": "branold_i",
+      "lat": "38.7202496"
     },
     "brangrov": {
       "lon": "-76.895547",
@@ -12396,8 +12998,8 @@
     },
     "8924wood": {
       "lon": "-76.8896445",
-      "title": "8924 Woodyard Road",
-      "shortTitle": "8924 Woodyard",
+      "title": "Woodyard Rd at Pine View Lane",
+      "shortTitle": "Woodyard @ Pine View Lane",
       "stopId": "36019",
       "tag": "8924wood",
       "lat": "38.766676"
@@ -12564,11 +13166,11 @@
       "lat": "38.7758119"
     },
     "tuckbock_n": {
-      "lon": "-76.9582799",
+      "lon": "-76.9576619",
       "title": "TUCKER ROAD & BOCK ROAD",
       "shortTitle": "TUCKER & BOCK",
       "tag": "tuckbock_n",
-      "lat": "38.775319"
+      "lat": "38.775444"
     },
     "2809tuck_n": {
       "lon": "-76.9618977",
@@ -12692,13 +13294,6 @@
       "shortTitle": "SOUTHERN & CHESAPEAKE SE",
       "tag": "savches_n",
       "lat": "38.8288658"
-    },
-    "sav9th_n": {
-      "lon": "-76.9887106",
-      "title": "SOUTHERN AVENUE & 9TH STREET SE",
-      "shortTitle": "SOUTHERN & 9TH SE",
-      "tag": "sav9th_n",
-      "lat": "38.8309444"
     },
     "savwhrd_n": {
       "lon": "-76.9877326",
@@ -12942,81 +13537,81 @@
       "lat": "38.7756142"
     },
     "tuckarun_s": {
-      "lon": "-76.9522856",
-      "title": "TUCKER ROAD & ARUNDEL ROAD",
-      "shortTitle": "TUCKER & ARUNDEL",
+      "lon": "-76.952022",
+      "title": "TUCKER RD & ALLENTOWN RD",
+      "shortTitle": "TUCKER & ALLENTOWN",
       "tag": "tuckarun_s",
-      "lat": "38.7763726"
+      "lat": "38.776506"
     },
     "allenjoc_s": {
-      "lon": "-76.9509453",
+      "lon": "-76.9509455",
       "title": "ALLENTOWN ROAD & JOCELLE COURT",
       "shortTitle": "ALLENTOWN & JOCELLE COURT",
       "tag": "allenjoc_s",
-      "lat": "38.7772415"
+      "lat": "38.7772414"
     },
     "allengen": {
-      "lon": "-76.9499376",
+      "lon": "-76.9499377",
       "title": "ALLENTOWN ROAD & GENNENE LANE",
       "shortTitle": "ALLENTOWN & GENNENE LANE",
       "tag": "allengen",
-      "lat": "38.7780773"
+      "lat": "38.7780772"
     },
     "allencom_s": {
-      "lon": "-76.9481196",
+      "lon": "-76.9481197",
       "title": "ALLENTOWN ROAD & COMET DRIVE",
       "shortTitle": "ALLENTOWN & COMET DRIVE",
       "tag": "allencom_s",
-      "lat": "38.7794732"
+      "lat": "38.7794731"
     },
     "allenver_n": {
-      "lon": "-76.9456438",
+      "lon": "-76.945644",
       "title": "ALLENTOWN ROAD & VERNON DRIVE",
       "shortTitle": "ALLENTOWN & VERNON DRIVE",
       "tag": "allenver_n",
-      "lat": "38.781089"
+      "lat": "38.7810889"
     },
     "allenpat_s": {
-      "lon": "-76.942798",
+      "lon": "-76.9427981",
       "title": "ALLENTOWN ROAD & PATS LANE",
       "shortTitle": "ALLENTOWN & PATS LANE",
       "tag": "allenpat_s",
-      "lat": "38.7827879"
+      "lat": "38.7827878"
     },
     "allenbur_s": {
-      "lon": "-76.9402137",
+      "lon": "-76.9402138",
       "title": "ALLENTOWN ROAD & BURGESS LANE",
       "shortTitle": "ALLENTOWN & BURGESS LANE",
       "tag": "allenbur_s",
-      "lat": "38.7850792"
+      "lat": "38.7850791"
     },
     "7500alle": {
       "lon": "-76.9385719",
       "title": "7500 ALLENTOWN ROAD",
       "shortTitle": "7500 ALLENTOWN",
       "tag": "7500alle",
-      "lat": "38.7874031"
+      "lat": "38.787403"
     },
     "allenpay_s": {
-      "lon": "-76.9372789",
+      "lon": "-76.937279",
       "title": "ALLENTOWN ROAD & PAYNE DRIVE",
       "shortTitle": "ALLENTOWN & PAYNE DRIVE",
       "tag": "allenpay_s",
-      "lat": "38.788869"
+      "lat": "38.7888689"
     },
     "allenlah": {
-      "lon": "-76.9363093",
+      "lon": "-76.9363095",
       "title": "ALLENTOWN ROAD & LANHAM LANE",
       "shortTitle": "ALLENTOWN & LANHAM LANE",
       "tag": "allenlah",
-      "lat": "38.7898404"
+      "lat": "38.7898403"
     },
     "allenple_s": {
-      "lon": "-76.9316278",
+      "lon": "-76.9316279",
       "title": "ALLENTOWN ROAD & PLEASANT HILL DRIVE",
       "shortTitle": "ALLENTOWN & PLEASANT HILL DRIVE",
       "tag": "allenple_s",
-      "lat": "38.7916101"
+      "lat": "38.79161"
     },
     "allentem_s": {
       "lon": "-76.9296421",
@@ -13102,35 +13697,48 @@
       "lat": "38.8126522"
     },
     "eque3": {
-      "lon": "-76.7463368",
+      "lon": "-76.746337",
       "title": "Equestrian Center Lot 3",
       "tag": "eque3",
-      "lat": "38.8124411"
+      "lat": "38.812441"
     },
     "eque4": {
-      "lon": "-76.7481561",
+      "lon": "-76.7481572",
       "title": "Equestrian Center Lot 4",
       "tag": "eque4",
-      "lat": "38.812184"
+      "lat": "38.8121851"
     },
     "courthou_n": {
-      "lon": "-76.7496349",
+      "lon": "-76.7496351",
       "title": "Courthouse",
       "tag": "courthou_n",
-      "lat": "38.8147831"
+      "lat": "38.8147827"
+    },
+    "accewest": {
+      "lon": "-76.7515756",
+      "title": "Access rd at West Court Dr",
+      "shortTitle": "Access @ West Court Dr",
+      "tag": "accewest",
+      "lat": "38.8159188"
     },
     "odenelm": {
-      "lon": "-76.7521836",
+      "lon": "-76.7521835",
       "title": "Governor Oden Bowie Dr at Elm St",
       "shortTitle": "Governor Oden Bowie Dr @ Elm",
       "tag": "odenelm",
-      "lat": "38.8170272"
+      "lat": "38.817027"
     },
-    "courthou_s": {
-      "lon": "-76.7496384",
-      "title": "Courthouse",
-      "tag": "courthou_s",
-      "lat": "38.8147817"
+    "eque3_i": {
+      "lon": "-76.7463362",
+      "title": "Equestrian Center Lot 3",
+      "tag": "eque3_i",
+      "lat": "38.8124406"
+    },
+    "eque4_i": {
+      "lon": "-76.7483295",
+      "title": "Equestrian Center Lot 4",
+      "tag": "eque4_i",
+      "lat": "38.8120595"
     },
     "villclai_d": {
       "lon": "-76.7090249",
@@ -13168,10 +13776,11 @@
       "lat": "38.8411155"
     },
     "marlm_d": {
-      "lon": "-76.7264882",
-      "title": "Marlboro Meadows",
+      "lon": "-76.72704",
+      "title": "Old Crain Hwy at Villiage Drive West",
+      "shortTitle": "Old Crain Hwy @ Villiage Drive West",
       "tag": "marlm_d",
-      "lat": "38.8407298"
+      "lat": "38.84069"
     },
     "1809oldc": {
       "lon": "-76.7266664",
@@ -13185,6 +13794,13 @@
       "shortTitle": "US Rte 301 @ Marlboro Pike",
       "tag": "301marl",
       "lat": "38.8239924"
+    },
+    "marlpeer": {
+      "lon": "-76.7427089",
+      "title": "Old Marlboro Pike  at Peerless Ave",
+      "shortTitle": "Old Marlboro Pike  @ Peerless",
+      "tag": "marlpeer",
+      "lat": "38.8221316"
     },
     "johncolo": {
       "lon": "-76.7607692",
@@ -13227,12 +13843,6 @@
       "shortTitle": "Dille Dr @ Correctional Center",
       "tag": "dillecorr",
       "lat": "38.8232053"
-    },
-    "dwifac": {
-      "lon": "-76.7738512",
-      "title": "DWI Facility",
-      "tag": "dwifac",
-      "lat": "38.8224392"
     },
     "brodill": {
       "lon": "-76.7690623",
@@ -13297,12 +13907,26 @@
       "tag": "marloldm",
       "lat": "38.8184605"
     },
+    "oldmill": {
+      "lon": "-76.75632",
+      "title": "Old Marlboro Pike at Old Mill Rd",
+      "shortTitle": "Old Marlboro Pike @ Old Mill",
+      "tag": "oldmill",
+      "lat": "38.81771"
+    },
     "elmgove": {
       "lon": "-76.7521883",
       "title": "Elm St at Governor Oden Bowie Dr",
       "shortTitle": "Elm @ Governor Oden Bowie Dr",
       "tag": "elmgove",
       "lat": "38.8170151"
+    },
+    "oldpeer": {
+      "lon": "-76.7426679",
+      "title": "Old Marlboro Pike at Peerless Ave",
+      "shortTitle": "Old Marlboro Pike @ Peerless",
+      "tag": "oldpeer",
+      "lat": "38.8220827"
     },
     "marl301": {
       "lon": "-76.7343645",
@@ -13318,10 +13942,11 @@
       "lat": "38.836642"
     },
     "marlm_c": {
-      "lon": "-76.7269701",
-      "title": "Marlboro Meadows",
+      "lon": "-76.7269899",
+      "title": "Old Crain Hwy at Villiage Drive West",
+      "shortTitle": "Old Crain Hwy @ Villiage Drive West",
       "tag": "marlm_c",
-      "lat": "38.8403321"
+      "lat": "38.84066"
     },
     "villmcco": {
       "lon": "-76.7249432",

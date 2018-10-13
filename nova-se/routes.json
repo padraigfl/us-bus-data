@@ -7,7 +7,7 @@
       "shortTitle": "Rolling Hills Ex",
       "oppositeColor": "ffffff",
       "max": [
-        26.081087,
+        26.0810871,
         -80.2393202
       ],
       "min": [
@@ -19,42 +19,13 @@
           "rhills_n",
           "rhills_s",
           "hpdannex",
+          "upp",
           "terradmn",
           "sherman_n",
           "shepard_1",
           "maltpsyc",
           "horvitz",
-          "ucenter",
-          "upp"
-        ]
-      }
-    },
-    "rhill2": {
-      "title": "Rolling Hills Express 2",
-      "color": "ff4433",
-      "tag": "rhill2",
-      "shortTitle": "Rolling Hills Ex 2",
-      "oppositeColor": "000000",
-      "max": [
-        26.0810859,
-        -80.2393287
-      ],
-      "min": [
-        26.0770687,
-        -80.2575456
-      ],
-      "stops": {
-        "Loop": [
-          "rhills_n",
-          "rhills_s",
-          "hpdannex",
-          "ucenter",
-          "horvitz",
-          "maltpsyc",
-          "shepard_1",
-          "sherman_n",
-          "terry",
-          "upp"
+          "ucenter"
         ]
       }
     },
@@ -87,6 +58,28 @@
         ]
       }
     },
+    "shop": {
+      "title": "Shopper Route",
+      "color": "4dbd33",
+      "tag": "shop",
+      "oppositeColor": "000000",
+      "max": [
+        26.0777314,
+        -80.2432139
+      ],
+      "min": [
+        26.066837,
+        -80.2575457
+      ],
+      "stops": {
+        "Loop": [
+          "rhills_n",
+          "rhills_s",
+          "ucenter",
+          "walm"
+        ]
+      }
+    },
     "dse": {
       "title": "Downtown Shark Express",
       "color": "000000",
@@ -111,6 +104,83 @@
           "gallmall",
           "bct",
           "lasolas"
+        ]
+      }
+    },
+    "cam4": {
+      "title": "Campus Express",
+      "color": "cdad00",
+      "tag": "cam4",
+      "shortTitle": "Campus Exp",
+      "oppositeColor": "000000",
+      "max": [
+        26.08095,
+        -80.23932
+      ],
+      "min": [
+        26.0777113,
+        -80.2497
+      ],
+      "stops": {
+        "Loop": [
+          "ucenter",
+          "upp",
+          "terry",
+          "sherman_n",
+          "shepard_1",
+          "maltpsyc",
+          "horvitz"
+        ]
+      }
+    },
+    "exp1": {
+      "title": "Weekend Express",
+      "color": "0fddaf",
+      "tag": "exp1",
+      "shortTitle": "Weekend Exp",
+      "oppositeColor": "000000",
+      "max": [
+        26.0810859,
+        -80.2393209
+      ],
+      "min": [
+        26.062861,
+        -80.2575457
+      ],
+      "stops": {
+        "Loop": [
+          "rhills_n",
+          "rhills_s",
+          "ucenter",
+          "horvitz",
+          "maltpsyc",
+          "shepard_1",
+          "sherman_n",
+          "terry",
+          "walm",
+          "publix"
+        ]
+      }
+    },
+    "ucexp": {
+      "title": "UC Shark Express",
+      "color": "ff0000",
+      "tag": "ucexp",
+      "shortTitle": "UC Shark Exp",
+      "oppositeColor": "ffffff",
+      "max": [
+        26.0777314,
+        -80.2432139
+      ],
+      "min": [
+        26.0770685,
+        -80.2575457
+      ],
+      "stops": {
+        "Loop": [
+          "rhills_n",
+          "rhills_s",
+          "ucenter"
         ]
       }
     }

@@ -10,7 +10,7 @@
         -71.063993
       ],
       "min": [
-        42.3584777,
+        42.3584779,
         -71.1060261
       ],
       "stops": {
@@ -21,8 +21,7 @@
           "univland",
           "massland",
           "albaport",
-          "techmain",
-          "kendsq_ib_d",
+          "vassstat",
           "broagali_ib",
           "6th_ib",
           "3rd_ib",
@@ -40,8 +39,8 @@
           "2nd",
           "6th",
           "broagali_ob",
-          "kendsq_d",
-          "amhesloa",
+          "amesmain",
+          "amesamhe",
           "mass77",
           "albaedge",
           "pacialba",
@@ -55,15 +54,15 @@
       "tag": "midday",
       "oppositeColor": "000000",
       "max": [
-        42.36241,
-        -71.0846523
+        42.3626777,
+        -71.0876594
       ],
       "min": [
         42.3590294,
-        -71.1022647
+        -71.102265
       ],
       "stops": {
-        "Kendall_Square": [
+        "Ames_West/Main": [
           "paciland_ib",
           "pacialba",
           "albaedge",
@@ -71,8 +70,8 @@
           "vassstat"
         ],
         "Pacific_& Landsdowne": [
-          "kendsq_d",
-          "amhesloa",
+          "amesmain",
+          "amesamhe",
           "mass77",
           "massland"
         ]
@@ -88,7 +87,7 @@
         -71.063993
       ],
       "min": [
-        42.3584763,
+        42.3584702,
         -71.1060261
       ],
       "stops": {
@@ -100,9 +99,6 @@
           "albaedge",
           "vassmass",
           "vassstat",
-          "kendsq_ib_d",
-          "amhesloa_ib",
-          "medilab_ib",
           "broagali_ib",
           "6th_ib",
           "3rd_ib",
@@ -120,9 +116,9 @@
           "2nd",
           "6th",
           "broagali_ob",
-          "kendsq_d",
-          "techmain",
-          "albaport",
+          "amesmain",
+          "amesamhe",
+          "massalba",
           "massland",
           "univland",
           "paciland"

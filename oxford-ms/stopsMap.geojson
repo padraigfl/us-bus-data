@@ -4,21 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Old Armory",
-        "tag": "140",
-        "stopId": "140"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5106022,
-          34.36385
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Observatory",
         "tag": "148",
         "stopId": "148"
@@ -394,7 +379,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Jackson at Enterprise",
+        "title": "Jackson at Kiamies",
         "tag": "jackente",
         "stopId": "110"
       },
@@ -634,7 +619,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Big Star",
+        "title": "Cash Saver",
         "tag": "bigstar",
         "stopId": "127"
       },
@@ -724,15 +709,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Faulkner Flats",
-        "tag": "faukflat",
-        "stopId": "170"
+        "title": "Archive",
+        "tag": "archive",
+        "stopId": "281"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.547183,
-          34.342425
+          -89.5298448,
+          34.3409788
         ]
       }
     },
@@ -746,8 +731,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.5403211,
-          34.344334
+          -89.540321,
+          34.3443343
         ]
       }
     },
@@ -761,8 +746,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.5404486,
-          34.3451313
+          -89.540448,
+          34.345132
         ]
       }
     },
@@ -791,38 +776,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.5393944,
+          -89.539395,
           34.34982
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Whirlpool Dr",
-        "tag": "whirlpool_o",
-        "stopId": "147"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5354476,
-          34.3512034
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "The Flatts",
-        "tag": "univtrai_o",
-        "stopId": "159"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.538079,
-          34.351632
         ]
       }
     },
@@ -1549,7 +1504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "JAC",
+        "title": "JAC East",
         "tag": "jac_d",
         "stopId": "119"
       },
@@ -1564,6 +1519,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "JAC West",
+        "tag": "jac_w",
+        "stopId": "282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5489,
+          34.36949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Fraternity at West Rd",
         "tag": "fratwest",
         "stopId": "252"
@@ -1571,8 +1541,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.5433433,
-          34.3656756
+          -89.5433431,
+          34.3656755
         ]
       }
     },
@@ -1587,7 +1557,7 @@
         "type": "Point",
         "coordinates": [
           -89.5400081,
-          34.365376
+          34.3653762
         ]
       }
     },
@@ -1668,6 +1638,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Faulkner Flats",
+        "tag": "faukflat",
+        "stopId": "170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.547183,
+          34.3424249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Connection Apartments",
         "tag": "connapts",
         "stopId": "143"
@@ -1675,8 +1660,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.5404486,
-          34.3451313
+          -89.540448,
+          34.345132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Flatts",
+        "tag": "univtrai_o",
+        "stopId": "146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.538079,
+          34.351632
         ]
       }
     },
@@ -1915,83 +1915,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.5192189,
-          34.3665412
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Oxford Middle School",
-        "tag": "oxfomsch",
-        "stopId": "231"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5076499,
-          34.3681197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Convention Center",
-        "tag": "convcent",
-        "stopId": "240"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.4988768,
-          34.3717206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Della Davis Elem",
-        "tag": "delldavi",
-        "stopId": "241"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.4956992,
-          34.3711891
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Oxford High School",
-        "tag": "oxfohsch",
-        "stopId": "242"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.4878362,
-          34.3725961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Old Armory",
-        "tag": "140_ib",
-        "stopId": "140"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5106977,
-          34.3638528
+          -89.51839,
+          34.36636
         ]
       }
     },
@@ -2006,6 +1931,80 @@
         "coordinates": [
           -89.535858,
           34.36533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fleur De Lis",
+        "tag": "fleudeli",
+        "stopId": "144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5437931,
+          34.3459378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Taylor Bend",
+        "tag": "taylbend",
+        "stopId": "145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.539395,
+          34.34982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Flatts",
+        "tag": "flat",
+        "stopId": "146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.538079,
+          34.3516318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mullins-Old Taylor Road",
+        "tag": "mullotay_ob",
+        "stopId": "147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5354475,
+          34.3512033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mullins-Old Taylor Road",
+        "tag": "mullotay_ib"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5354467,
+          34.3512028
         ]
       }
     }

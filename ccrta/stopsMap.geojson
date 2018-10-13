@@ -4,638 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mashpee Commons (Stop & Shop)",
-        "tag": "MashpeeCommons",
-        "stopId": "022"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.48945,
-          41.6192399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Mashpee Village",
-        "tag": "MashpeeVillage",
-        "stopId": "168"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.50419,
-          41.6215499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Algonquin Avenue @ Route 151, Mashpee",
-        "tag": "151AlgonquinAve",
-        "stopId": "120"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.5146,
-          41.6162599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sandwich Road @ Route 151, East Falmouth",
-        "tag": "151SandwichRd",
-        "stopId": "119"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.54973,
-          41.6247699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Route 151 & Route 28A, North Falmouth",
-        "tag": "151_28A",
-        "stopId": "117"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.61264,
-          41.6466999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cataumet Motel/Stramship Authority Cataumet Parking Lot",
-        "tag": "CataumetMotel",
-        "stopId": "116"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.60299,
-          41.6667199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Harmony Hill Road, Bourne",
-        "tag": "HarmonyHill",
-        "stopId": "139"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.58508,
-          41.7135099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "County Road @ Beach Street, Monument Beach",
-        "tag": "CountyBeach",
-        "stopId": "113"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.60895,
-          41.7180499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cape Side Convenience, Bourne",
-        "tag": "CapeSideConvenience",
-        "stopId": "112"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.58897,
-          41.7426399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Continental Housing Authority, Bourne",
-        "tag": "Continential",
-        "stopId": "146"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.59558,
-          41.7573999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bourne Oaks Housing Authority, Bourne",
-        "tag": "BourneOaks",
-        "stopId": "147"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.59854,
-          41.7530699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bourne COA",
-        "tag": "BourneCOA",
-        "stopId": "149"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.60432,
-          41.7494499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Buzzards Bay Train Station",
-        "tag": "BuzzardsBayTrain",
-        "stopId": "142"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.61522,
-          41.7448199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cranberry Plaza",
-        "tag": "CranberryPlaza",
-        "stopId": "150"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.66338,
-          41.7580699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Star Market, Harwich Port",
-        "tag": "StarMarketHarwich",
-        "stopId": "045"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.09281,
-          41.6729899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Route 28, Harwich Port",
-        "tag": "28Harwich",
-        "stopId": "046"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.08008,
-          41.66804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Harwich Community Center/High School",
-        "tag": "HarwichComm",
-        "stopId": "056"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.0697999,
-          41.69213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stop & Shop, East Harwich",
-        "tag": "S_SEHarwich",
-        "stopId": "057"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.01894,
-          41.7064499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Underpass Road & Snow Road, Brewster",
-        "tag": "UnderpassBrewster",
-        "stopId": "059"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.06631,
-          41.7565899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brewster Senior Housing/COA",
-        "tag": "BrewsterSenior",
-        "stopId": "060"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.09014,
-          41.75682
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Skaket Corners, Orleans",
-        "tag": "SkaketCorners",
-        "stopId": "053"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.00253,
-          41.7802299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Main Street/Land Ho, Orleans",
-        "tag": "MainOrleansLandHo",
-        "stopId": "051"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.99142,
-          41.7882399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stop & Shop, Orleans",
-        "tag": "S_SOrleans",
-        "stopId": "055"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.98566,
-          41.7961799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eastham Town Hall/Superette",
-        "tag": "EasthamTownHallSuperette",
-        "stopId": "062"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.97364,
-          41.8297599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Salt Pond Visitor Center, Eastham",
-        "tag": "SaltPond",
-        "stopId": "064"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.97197,
-          41.8380299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Four Points, Eastham",
-        "tag": "FourPoints",
-        "stopId": "065"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.98557,
-          41.8464999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brackett Road @ Route 6, Eastham",
-        "tag": "BrackettRd",
-        "stopId": "143"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.98694,
-          41.8565899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Maurices's Market",
-        "tag": "MauriceMkt",
-        "stopId": "162"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.98761,
-          41.8794299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Marconi Beach Road, Wellfleet",
-        "tag": "MarconiBeach",
-        "stopId": "077"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.98343,
-          41.90474
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Blackfish Variety (Farrell's Market), Wellfleet",
-        "tag": "Blackfish",
-        "stopId": "068"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.99457,
-          41.9171999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Wellfleet Dunkin Donuts",
-        "tag": "WellfleetDunkinDonuts",
-        "stopId": "154"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.0175199,
-          41.92921
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Wellfleet Center (Bank Street)",
-        "tag": "Wellfleet",
-        "stopId": "070"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.03078,
-          41.9375299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Old Cobb Library, Truro",
-        "tag": "CobbLibrary",
-        "stopId": "138"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.0509599,
-          41.99479
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Whitmanville Road @ Route 6, Truro",
-        "tag": "WhitmanvilleTruro",
-        "stopId": "072"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.07057,
-          42.0137199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Highland Road & Route 6, North Truro",
-        "tag": "HighlandNTruro",
-        "stopId": "074"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.08223,
-          42.0353599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stop & Shop, Provincetown",
-        "tag": "S_SPtown",
-        "stopId": "076"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.19528,
-          42.0505299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "MacMillan Pier, Provincetown",
-        "tag": "MacMillanPier",
-        "stopId": "075"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.18624,
-          42.0509599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Truro Central Village Plaza @ Route 6",
-        "tag": "TruroVillage",
-        "stopId": "073"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.07086,
-          42.0139199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Gill Road",
-        "tag": "GillRd",
-        "stopId": "163"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.98826,
-          41.8797099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Seaman's Bank @ Route 6, Eastham",
-        "tag": "SeamansBank",
-        "stopId": "066"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.98772,
-          41.8546699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Main Street/CVS/Mobil, Orleans",
-        "tag": "MainOrleansCVSMobil",
-        "stopId": "052"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.99183,
-          41.7878499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Patriot Square, South Dennis",
-        "tag": "PatriotSq",
-        "stopId": "043"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.15047,
-          41.6950599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Hyannis Transportation Center (HTC)",
-        "tag": "HTC",
+        "tag": "800551",
         "stopId": "001"
       },
       "geometry": {
@@ -649,9 +19,24 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cape Cod Mall (Food Court), Hyannis",
-        "tag": "CCMall_FC",
-        "stopId": "171"
+        "title": "Hyannis Youth & Community Center",
+        "tag": "800553",
+        "stopId": "004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.29278,
+          41.6545599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cape Cod Mall (Mens Warehouse), Hyannis",
+        "tag": "800554",
+        "stopId": "005"
       },
       "geometry": {
         "type": "Point",
@@ -664,8 +49,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Capetown Plaza, Hyannis",
+        "tag": "800555",
+        "stopId": "006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.29521,
+          41.6701899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Southwind Plaza, Hyannis",
-        "tag": "SouthwindPl",
+        "tag": "800556",
         "stopId": "007"
       },
       "geometry": {
@@ -679,38 +79,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Trinity Christian Academy",
-        "tag": "TrnityChristAcademy",
-        "stopId": "157"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.2809,
-          41.6840799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Village Green Apartments",
-        "tag": "VillageGreenApts",
-        "stopId": "158"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.28346,
-          41.6829699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Festival Mall, Hyannis",
-        "tag": "FestivalMall",
+        "tag": "800557",
         "stopId": "008"
       },
       "geometry": {
@@ -724,8 +94,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Wilkens Outpatient Medical Complex, Hyannis",
+        "tag": "800558",
+        "stopId": "009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.30367,
+          41.67828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Super Stop & Shop (Liberty Square), Hyannis",
-        "tag": "SuperS_SHyannis",
+        "tag": "800559",
         "stopId": "010"
       },
       "geometry": {
@@ -739,570 +124,45 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Career Oppurtunities",
-        "tag": "CareerOppurtunities",
-        "stopId": "159"
+        "title": "Cape Codder Resort, Hyannis",
+        "tag": "800560",
+        "stopId": "012"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.2948,
-          41.6494999
+          -70.31074,
+          41.6753799
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "DTA @ North St",
-        "tag": "DTANorthSt",
-        "stopId": "161"
+        "title": "Cape Cod Community College, West Barnstable",
+        "tag": "800561",
+        "stopId": "013"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.28924,
-          41.6520699
+          -70.3375299,
+          41.6906199
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "US Social Security Administration",
-        "tag": "SSAHyannis",
-        "stopId": "169"
+        "title": "Courthouse Complex, Barnstable",
+        "tag": "800562",
+        "stopId": "014"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.29827,
-          41.6725199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Higgins Crowell Road, West Yarmouth",
-        "tag": "CrowellWYarmouth",
-        "stopId": "038"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.24209,
-          41.6506299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Shaw's, South Yarmouth",
-        "tag": "ShawsSYarmouth",
-        "stopId": "041"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.2022,
-          41.6621999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Municipal Lot A, Dennis Port",
-        "tag": "DennisMunicipal",
-        "stopId": "044"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.12314,
-          41.6683399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cape Cod Hospital (Bayview Street), Hyannis",
-        "tag": "CCHospitalBayviewSt",
-        "stopId": "037"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.27212,
-          41.6528599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stop & Shop, South Yarmouth",
-        "tag": "S_SSYarmouth",
-        "stopId": "040"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.20719,
-          41.6580899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Town Hall Lawton Bus Shelter",
-        "tag": "TownHallLawtonBusShelter",
-        "stopId": "153"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.19749,
-          41.6640399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Main Street, South Yarmouth",
-        "tag": "MainSYarmouth",
-        "stopId": "042"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.18569,
-          41.6668599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dennis Commons/Elder Services",
-        "tag": "DennisCommonsElderServices",
-        "stopId": "151"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.14806,
-          41.6698099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Morton Road, South Chatham",
-        "tag": "MortonSChatham",
-        "stopId": "047"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.02665,
-          41.6787599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Anchorage/Crowell Road, Chatham",
-        "tag": "AnchorageChatham",
-        "stopId": "048"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.96589,
-          41.6914199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Veterans Field Rd",
-        "tag": "VeteransFieldRd",
-        "stopId": "049"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.96195,
-          41.6826599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Broad Reach Health Care",
-        "tag": "BroadReachHC",
-        "stopId": "167"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.96742,
-          41.7011799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Route 39, South Orleans",
-        "tag": "39SOrleans",
-        "stopId": "050"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.99094,
-          41.7529099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Old Colony Village, Orleans",
-        "tag": "OldColonyVillage",
-        "stopId": "054"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.99735,
-          41.7853899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sturgis Charter School -- Main Street, Hyannis",
-        "tag": "SturgisSchoolEast",
-        "stopId": "033"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.28539,
-          41.6521199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sturgis Charter School -- West Main Street, Hyannis",
-        "tag": "SturgisSchoolWest",
-        "stopId": "035"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.30063,
-          41.6477599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "West Main Street @ Star Market, Hyannis",
-        "tag": "StarMktHyannis",
-        "stopId": "134"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.31792,
-          41.6520699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "West Main Street & Route 28, Centerville",
-        "tag": "WMain28Centerville",
-        "stopId": "018"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.33249,
-          41.6577099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bell Tower Mall, Centerville",
-        "tag": "BellTowerMall",
-        "stopId": "133"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.3454,
-          41.6571299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Race Lane & Osterville-West Barnstable Road, Sandwich",
-        "tag": "RaceOsterWBarnSandwich",
-        "stopId": "132"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.38714,
-          41.6770799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Race Lane/Farmersville Road & Great Hill Road, Sandwich",
-        "tag": "RaceGrHillSandwich",
-        "stopId": "131"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.44417,
-          41.6903399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cotuit Road & Farmersville Road, Sandwich",
-        "tag": "CotuitFarmersvilleSandwich",
-        "stopId": "128"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.48166,
-          41.6964599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stop & Shop, Quaker Meeting House Road, Sandwich",
-        "tag": "S_SQuakerMHRdSandwich",
-        "stopId": "110"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.48547,
-          41.7013999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Heritage Park, Sandwich",
-        "tag": "HeritagePark",
-        "stopId": "107"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.4891,
-          41.7107899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sandwich Housing Authority, Tom's Way, Sandwich",
-        "tag": "SandwichHousing",
-        "stopId": "108"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.48984,
-          41.7083399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Canterbury Plaza, Sandwich",
-        "tag": "CanterburyPlaza",
-        "stopId": "109"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.48846,
-          41.7083299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sandwich COA",
-        "tag": "SandwichCOA",
-        "stopId": "106"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.46064,
-          41.7213999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Spaulding Rehabilitation, East Sandwich",
-        "tag": "SpauldingRehab",
-        "stopId": "105"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.46787,
-          41.7330499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sandwich Town Hall",
-        "tag": "SandwichTownHall",
-        "stopId": "104"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.50053,
-          41.7582499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stop & Shop, Route 6A, Sandwich",
-        "tag": "S_S6ASandwich",
-        "stopId": "103"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.50944,
-          41.7663899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Market Basket, Sagamore",
-        "tag": "MktBasketSagamore",
-        "stopId": "123"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.54595,
-          41.7711599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Canal View Apartments, Sagamore",
-        "tag": "CanalViewApts",
-        "stopId": "101"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.53989,
-          41.7734299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sagamore Park & Ride",
-        "tag": "SagamoreP_R",
-        "stopId": "100"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.54244,
-          41.7809499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sturgis Charter School @ South Street, Hyannis",
-        "tag": "SturgisSchoolEastSouthSt",
-        "stopId": "034"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.28435,
-          41.6506899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Barnstable Municipal Airport",
-        "tag": "BarnstableAirport",
-        "stopId": "170"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.27391,
-          41.6609399
+          -70.3030399,
+          41.70032
         ]
       }
     },
@@ -1310,7 +170,7 @@
       "type": "Feature",
       "properties": {
         "title": "Cape Cod Mall Enterance/Route 28, Hyannis",
-        "tag": "CCMall_RE",
+        "tag": "800564",
         "stopId": "017"
       },
       "geometry": {
@@ -1324,8 +184,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "West Main Street & Route 28, Centerville",
+        "tag": "800565",
+        "stopId": "018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.33249,
+          41.6577099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Centerville (Old Stage Road & Main Street)",
-        "tag": "Centerville",
+        "tag": "800566",
         "stopId": "019"
       },
       "geometry": {
@@ -1340,7 +215,7 @@
       "type": "Feature",
       "properties": {
         "title": "Osterville (Tower Hill Road & Main Street)",
-        "tag": "Osterville",
+        "tag": "800567",
         "stopId": "020"
       },
       "geometry": {
@@ -1355,7 +230,7 @@
       "type": "Feature",
       "properties": {
         "title": "Marstons Mills Marketplace",
-        "tag": "MarstonsMills",
+        "tag": "800568",
         "stopId": "021"
       },
       "geometry": {
@@ -1369,90 +244,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Seacoast Shores Boulevard, East Falmouth",
-        "tag": "SeacoastShores",
-        "stopId": "140"
+        "title": "Mashpee Commons (Stop & Shop)",
+        "tag": "800569",
+        "stopId": "022"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.53395,
-          41.5804399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "East Falmouth Dunkin Donuts",
-        "tag": "EFalmouthDunkin",
-        "stopId": "025"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.56074,
-          41.5786599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "St Marks Housing",
-        "tag": "StMarksHousing",
-        "stopId": "155"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.5866,
-          41.5720099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Route 28 @ Jones Road, Falmouth",
-        "tag": "28JonesFalmouth",
-        "stopId": "028"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.59913,
-          41.5609999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Falmouth Bus Depot",
-        "tag": "FalmouthBusDepot",
-        "stopId": "030"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.62324,
-          41.5568299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Steamship Authority Ferry Docks, Woods Hole",
-        "tag": "WoodsHoleDocks",
-        "stopId": "031"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.6698,
-          41.5230299
+          -70.48945,
+          41.6192399
         ]
       }
     },
@@ -1460,7 +260,7 @@
       "type": "Feature",
       "properties": {
         "title": "South Cape Village (Marshalls), Mashpee",
-        "tag": "SCapeVillage",
+        "tag": "800570",
         "stopId": "023"
       },
       "geometry": {
@@ -1475,7 +275,7 @@
       "type": "Feature",
       "properties": {
         "title": "Community Health Center of Cape Cod",
-        "tag": "CommHealth",
+        "tag": "800571",
         "stopId": "024"
       },
       "geometry": {
@@ -1489,8 +289,38 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "East Falmouth Dunkin Donuts",
+        "tag": "800572",
+        "stopId": "025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.56074,
+          41.5786599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Route 28 @ Jones Road, Falmouth",
+        "tag": "800573",
+        "stopId": "028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59913,
+          41.5609999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Falmouth Mall",
-        "tag": "FalmouthMall",
+        "tag": "800574",
         "stopId": "029"
       },
       "geometry": {
@@ -1504,30 +334,1350 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hyannis Youth & Community Center",
-        "tag": "HyannisYouth",
-        "stopId": "004"
+        "title": "Falmouth Bus Depot",
+        "tag": "800575",
+        "stopId": "030"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.29278,
-          41.6545599
+          -70.62324,
+          41.5568299
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Capetown Plaza, Hyannis",
-        "tag": "CapetownPl",
-        "stopId": "006"
+        "title": "Steamship Authority Ferry Docks, Woods Hole",
+        "tag": "800576",
+        "stopId": "031"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.29521,
-          41.6701899
+          -70.6698,
+          41.5230299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "St. Francis/Pope John Paul, Hyannis",
+        "tag": "800577",
+        "stopId": "032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28499,
+          41.6483399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sturgis Charter School -- Main Street, Hyannis",
+        "tag": "800578",
+        "stopId": "033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28539,
+          41.6521199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sturgis Charter School @ South Street, Hyannis",
+        "tag": "800579",
+        "stopId": "034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28435,
+          41.6506899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sturgis Charter School -- West Main Street, Hyannis",
+        "tag": "800580",
+        "stopId": "035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.30063,
+          41.6477599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cape Cod Hospital (Bayview Street), Hyannis",
+        "tag": "800581",
+        "stopId": "037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.27212,
+          41.6528599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Higgins Crowell Road, West Yarmouth",
+        "tag": "800582",
+        "stopId": "038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.24209,
+          41.6506299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop & Shop, South Yarmouth",
+        "tag": "800583",
+        "stopId": "040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.20719,
+          41.6580899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shaw's, South Yarmouth",
+        "tag": "800584",
+        "stopId": "041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2022,
+          41.6621999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main Street, South Yarmouth",
+        "tag": "800585",
+        "stopId": "042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.18569,
+          41.6668599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Patriot Square, South Dennis",
+        "tag": "800586",
+        "stopId": "043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.15047,
+          41.6950599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Municipal Lot A, Dennis Port",
+        "tag": "800587",
+        "stopId": "044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.12314,
+          41.6683399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Star Market, Harwich Port",
+        "tag": "800588",
+        "stopId": "045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.09281,
+          41.6729899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Route 28, Harwich Port",
+        "tag": "800589",
+        "stopId": "046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.08008,
+          41.6680399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Morton Road, South Chatham",
+        "tag": "800590",
+        "stopId": "047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02665,
+          41.6787599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anchorage/Crowell Road, Chatham",
+        "tag": "800591",
+        "stopId": "048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96589,
+          41.6914199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chatham Rotary",
+        "tag": "800592",
+        "stopId": "049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96195,
+          41.6826599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Route 39, South Orleans",
+        "tag": "800593",
+        "stopId": "050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99094,
+          41.7529099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main Street/Land Ho, Orleans",
+        "tag": "800594",
+        "stopId": "051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99142,
+          41.7882399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main Street/CVS/Mobil, Orleans",
+        "tag": "800595",
+        "stopId": "052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99183,
+          41.7878499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Skaket Corners, Orleans",
+        "tag": "800596",
+        "stopId": "053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.00253,
+          41.7802299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Colony Village, Orleans",
+        "tag": "800597",
+        "stopId": "054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99735,
+          41.7853899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop & Shop, Orleans",
+        "tag": "800598",
+        "stopId": "055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.98566,
+          41.7961799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harwich Community Center/High School",
+        "tag": "800599",
+        "stopId": "056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0698,
+          41.6921299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop & Shop, East Harwich",
+        "tag": "800600",
+        "stopId": "057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.01894,
+          41.7064499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cape Cod Lighthouse Charter School, East Harwich",
+        "tag": "800601",
+        "stopId": "058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02576,
+          41.7111299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Underpass Road & Snow Road, Brewster",
+        "tag": "800602",
+        "stopId": "059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.06631,
+          41.7565899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brewster Senior Housing/COA",
+        "tag": "800603",
+        "stopId": "060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.09014,
+          41.7568199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eastham Town Hall/Superette",
+        "tag": "800605",
+        "stopId": "062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.97364,
+          41.8297599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Salt Pond Visitor Center, Eastham",
+        "tag": "800606",
+        "stopId": "064"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.97197,
+          41.8380299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Four Points, Eastham",
+        "tag": "800607",
+        "stopId": "065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.98557,
+          41.8464999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seaman's Bank @ Route 6, Eastham",
+        "tag": "800608",
+        "stopId": "066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.98772,
+          41.8546699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nauset Regional High School, Eastham",
+        "tag": "800609",
+        "stopId": "067"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9685999,
+          41.8583699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Blackfish Variety (Farrell's Market), Wellfleet",
+        "tag": "800610",
+        "stopId": "068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99457,
+          41.9171999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wellfleet Center (Bank Street)",
+        "tag": "800611",
+        "stopId": "070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.03078,
+          41.9375299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Whitmanville Road @ Route 6, Truro",
+        "tag": "800613",
+        "stopId": "072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.07057,
+          42.0137199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Truro Central Village Plaza @ Route 6",
+        "tag": "800614",
+        "stopId": "073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.07086,
+          42.0139199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Highland Road & Route 6, North Truro",
+        "tag": "800615",
+        "stopId": "074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.08223,
+          42.0353599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MacMillan Pier, Provincetown",
+        "tag": "800616",
+        "stopId": "075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.18624,
+          42.0509599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop & Shop, Provincetown",
+        "tag": "800617",
+        "stopId": "076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19528,
+          42.0505299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Horton's Camping Resort, North Truro",
+        "tag": "800627",
+        "stopId": "086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0661,
+          42.0359199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "P&B Bus Stop/Dutra's Market, North Truro",
+        "tag": "800628",
+        "stopId": "087"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0847899,
+          42.0340999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Highland Museum & Lighthouse, North Truro",
+        "tag": "800629",
+        "stopId": "088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.06498,
+          42.03876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Truro Camping Area",
+        "tag": "800630",
+        "stopId": "089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.07494,
+          42.0379999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beech Forest, Provincetown",
+        "tag": "800631",
+        "stopId": "090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19272,
+          42.06563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Herring Cove Beach, Provincetown",
+        "tag": "800632",
+        "stopId": "091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2164499,
+          42.0438099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "First Pilgrims Park/Provincetown Inn, Provincetown",
+        "tag": "800633",
+        "stopId": "092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1961562,
+          42.037243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Race Point, Provincetown",
+        "tag": "800634",
+        "stopId": "093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2181199,
+          42.0793099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Province Lands Visitor Center, Provincetown",
+        "tag": "800635",
+        "stopId": "094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2057399,
+          42.0738599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Provincetown Municipal Airport",
+        "tag": "800636",
+        "stopId": "095"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.21716,
+          42.07617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sagamore Park & Ride",
+        "tag": "800641",
+        "stopId": "100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.54244,
+          41.7809499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canal View Apartments, Sagamore",
+        "tag": "800642",
+        "stopId": "101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.53989,
+          41.7734299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop & Shop, Route 6A, Sandwich",
+        "tag": "800644",
+        "stopId": "103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.50944,
+          41.7663899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sandwich Town Hall",
+        "tag": "800645",
+        "stopId": "104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.50053,
+          41.7582499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spaulding Rehabilitation, East Sandwich",
+        "tag": "800646",
+        "stopId": "105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.46787,
+          41.7330499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sandwich COA",
+        "tag": "800647",
+        "stopId": "106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.46064,
+          41.7213999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Heritage Park, Sandwich",
+        "tag": "800648",
+        "stopId": "107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4891,
+          41.7107899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sandwich Housing Authority, Tom's Way, Sandwich",
+        "tag": "800649",
+        "stopId": "108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.48984,
+          41.7083399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canterbury Plaza, Sandwich",
+        "tag": "800650",
+        "stopId": "109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.48846,
+          41.7083299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stop & Shop, Quaker Meeting House Road, Sandwich",
+        "tag": "800651",
+        "stopId": "110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.48547,
+          41.7013999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cape Side Convenience, Bourne",
+        "tag": "800652",
+        "stopId": "112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58897,
+          41.7426399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "County Road @ Beach Street, Monument Beach",
+        "tag": "800653",
+        "stopId": "113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60895,
+          41.7180499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bourne Housing Authority, Roland Phinney Place, Pocasset",
+        "tag": "800654",
+        "stopId": "114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.61786,
+          41.6920699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cape Cod Senior Residences, Pocasset",
+        "tag": "800655",
+        "stopId": "115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60135,
+          41.68621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cataumet Motel/Stramship Authority Cataumet Parking Lot",
+        "tag": "800656",
+        "stopId": "116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60299,
+          41.6667199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Route 151 & Route 28A, North Falmouth",
+        "tag": "800657",
+        "stopId": "117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.61264,
+          41.6466999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sandwich Road @ Route 151, East Falmouth",
+        "tag": "800658",
+        "stopId": "119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.54973,
+          41.6247699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Algonquin Avenue @ Route 151, Mashpee",
+        "tag": "800659",
+        "stopId": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5146,
+          41.6162599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Market Basket, Sagamore",
+        "tag": "800660",
+        "stopId": "123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.54595,
+          41.7711599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cotuit Road & Farmersville Road, Sandwich",
+        "tag": "800663",
+        "stopId": "128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.48166,
+          41.6964599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Race Lane/Farmersville Road & Great Hill Road, Sandwich",
+        "tag": "800664",
+        "stopId": "131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.44417,
+          41.6903399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Race Lane & Osterville-West Barnstable Road, Sandwich",
+        "tag": "800665",
+        "stopId": "132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.38714,
+          41.6770799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bell Tower Mall, Centerville",
+        "tag": "800666",
+        "stopId": "133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3454,
+          41.6571299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "West Main Street @ Star Market, Hyannis",
+        "tag": "800667",
+        "stopId": "134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.31792,
+          41.6520699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Cobb Library, Truro",
+        "tag": "800671",
+        "stopId": "138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.05096,
+          41.9947899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harmony Hill Road, Bourne",
+        "tag": "800672",
+        "stopId": "139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58508,
+          41.7135099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seacoast Shores Boulevard, East Falmouth",
+        "tag": "800673",
+        "stopId": "140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.53395,
+          41.5804399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Buzzards Bay Train Station",
+        "tag": "800675",
+        "stopId": "142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.61522,
+          41.7448199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brackett Road @ Route 6, Eastham",
+        "tag": "800676",
+        "stopId": "143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.98694,
+          41.8565899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Outer Cape Health Services/Maushop Senior Housing, Provincetown",
+        "tag": "800677",
+        "stopId": "144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1839699,
+          42.05849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Payomet Tent, Truro",
+        "tag": "800678",
+        "stopId": "145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.05653,
+          42.03129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Continental Housing Authority, Bourne",
+        "tag": "800679",
+        "stopId": "146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59558,
+          41.7573999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bourne Oaks Housing Authority, Bourne",
+        "tag": "800680",
+        "stopId": "147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59854,
+          41.7530699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bourne COA",
+        "tag": "800682",
+        "stopId": "149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60432,
+          41.7494499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cranberry Plaza Walmart, Wareham",
+        "tag": "800683",
+        "stopId": "150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.66338,
+          41.7580699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dennis Commons/Elder Services",
+        "tag": "800684",
+        "stopId": "151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.14815,
+          41.6697899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Town Hall Lawton Bus Shelter",
+        "tag": "800686",
+        "stopId": "153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19749,
+          41.6640399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wellfleet Dunkin Donuts",
+        "tag": "800687",
+        "stopId": "154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.01752,
+          41.9292099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saint Mark's Housing",
+        "tag": "805265",
+        "stopId": "155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58667,
+          41.5719799
         ]
       }
     },
@@ -1535,59 +1685,269 @@
       "type": "Feature",
       "properties": {
         "title": "Harbor Community Health Center",
-        "tag": "HarborCommHealthCntr",
+        "tag": "805266",
         "stopId": "156"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -70.2978,
-          41.6753999
+          41.6754499
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Cape Cod Community College, West Barnstable",
-        "tag": "CCCC",
-        "stopId": "013"
+        "title": "Department of Transitional Assistance @ North Street",
+        "tag": "805279",
+        "stopId": "161"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.33753,
-          41.6906199
+          -70.28926,
+          41.6521299
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Courthouse Complex, Barnstable",
-        "tag": "BarnstableCourthouse",
-        "stopId": "014"
+        "title": "Career Opportunities @ North Street",
+        "tag": "805280",
+        "stopId": "159"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.30304,
-          41.7003199
+          -70.29486,
+          41.6493699
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Cape Codder Resort, Hyannis",
-        "tag": "CapeCodder",
-        "stopId": "012"
+        "title": "Village Green Apartments",
+        "tag": "805282",
+        "stopId": "158"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.31074,
-          41.6753799
+          -70.28349,
+          41.6830199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Trinity Christian Academy",
+        "tag": "805283",
+        "stopId": "157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28086,
+          41.6840799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maurice's Market",
+        "tag": "811989",
+        "stopId": "162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.988,
+          41.8794299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gill Rd. (Welleflett Cinema)",
+        "tag": "811990",
+        "stopId": "163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.98826,
+          41.8797099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marconi Beach",
+        "tag": "831902",
+        "stopId": "077"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.98343,
+          41.9047399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cape Cod National Golf Club",
+        "tag": "845132",
+        "stopId": "164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.00459,
+          41.7331699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brewster Town Hall",
+        "tag": "845491",
+        "stopId": "165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.07438,
+          41.7637599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sandwich High School",
+        "tag": "2327016",
+        "stopId": "166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.45819,
+          41.7354799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Broad Reach Healthcare",
+        "tag": "2383148",
+        "stopId": "167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96531,
+          41.7003399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mashpee Village",
+        "tag": "2383149",
+        "stopId": "168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.50579,
+          41.6216099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Barnstable Airport",
+        "tag": "2455476",
+        "stopId": "2455476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28718,
+          41.6670199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Provincetown Monument",
+        "tag": "2455484",
+        "stopId": "2455484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.18923,
+          42.0527699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beach House",
+        "tag": "2483595",
+        "stopId": "171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.612,
+          41.6463799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Department of Transitional Assistance @ North Street",
+        "tag": "2483886",
+        "stopId": "161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28918,
+          41.6520599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Saint Mark's Housing",
+        "tag": "2483887",
+        "stopId": "155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58658,
+          41.5718899
         ]
       }
     }

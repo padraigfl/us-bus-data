@@ -1140,34 +1140,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "NW 11th & Marshall",
-        "tag": "13620_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.68247,
-          45.5308999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "SW 3rd & Harrison",
-        "tag": "12382_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.67981,
-          45.5102799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "NW 14th & Northrup",
         "tag": "10775_ar"
       },
@@ -1246,6 +1218,20 @@
         "coordinates": [
           -122.66334,
           45.5070399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "NW 11th & Marshall",
+        "tag": "13620_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68247,
+          45.5308999
         ]
       }
     },

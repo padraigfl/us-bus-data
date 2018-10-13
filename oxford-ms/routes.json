@@ -112,21 +112,19 @@
       "oppositeColor": "000000",
       "max": [
         34.3645119,
-        -89.5354476
+        -89.5298448
       ],
       "min": [
-        34.342425,
-        -89.547183
+        34.3409788,
+        -89.5438058
       ],
       "stops": {
         "Observatory": [
-          "faukflat",
+          "archive",
           "doma",
           "exchapar_d",
           "oldtfleu_i",
-          "oldtshil_i",
-          "whirlpool_o",
-          "univtrai_o"
+          "oldtshil_i"
         ],
         "Faulkner_Flats": [
           "obse"
@@ -249,8 +247,8 @@
         -89.5355391
       ],
       "min": [
-        34.365376,
-        -89.5459899
+        34.3653762,
+        -89.5489
       ],
       "stops": {
         "JAC": [
@@ -263,6 +261,7 @@
         ],
         "Chapel": [
           "jac_d",
+          "jac_w",
           "fratwest"
         ]
       }
@@ -298,10 +297,10 @@
       "oppositeColor": "ffffff",
       "max": [
         34.3691516,
-        -89.5380788
+        -89.529845
       ],
       "min": [
-        34.3424249,
+        34.340979,
         -89.5681312
       ],
       "stops": {
@@ -315,6 +314,7 @@
         ],
         "Wal_Mart": [
           "faukflat",
+          "archive",
           "doma",
           "connapts",
           "univtrai_o",
@@ -377,33 +377,6 @@
         ]
       }
     },
-    "grey": {
-      "title": "Grey",
-      "color": "a8a8a8",
-      "tag": "grey",
-      "oppositeColor": "000000",
-      "max": [
-        34.3725961,
-        -89.4878362
-      ],
-      "min": [
-        34.36385,
-        -89.5192189
-      ],
-      "stops": {
-        "Oxford_High School": [
-          "cityhall_d",
-          "140",
-          "oxfomsch",
-          "convcent",
-          "delldavi"
-        ],
-        "City_Hall": [
-          "oxfohsch",
-          "140_ib"
-        ]
-      }
-    },
     "lyce": {
       "title": "The Lyceum",
       "color": "00ced1",
@@ -424,6 +397,33 @@
         ],
         "The_Lyceum": [
           "cityhall_d"
+        ]
+      }
+    },
+    "otayexpr": {
+      "title": "OTR Express",
+      "color": "000000",
+      "tag": "otayexpr",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.3645119,
+        -89.5354467
+      ],
+      "min": [
+        34.342425,
+        -89.547183
+      ],
+      "stops": {
+        "Observatory": [
+          "faukflat",
+          "fleudeli",
+          "taylbend",
+          "flat",
+          "mullotay_ob"
+        ],
+        "Faulkner_Flats": [
+          "obse",
+          "mullotay_ib"
         ]
       }
     }
