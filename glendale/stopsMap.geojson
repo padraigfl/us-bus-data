@@ -2404,7 +2404,8 @@
       "type": "Feature",
       "properties": {
         "title": "Oceanview at Montrose",
-        "tag": "ocanmont_w"
+        "tag": "ocanmont_w",
+        "stopId": "0582"
       },
       "geometry": {
         "type": "Point",
@@ -5490,5 +5491,5 @@
       }
     }
   ],
-  "copyright": "All data copyright Glendale Beeline 2018."
+  "copyright": "All data copyright Glendale Beeline 2019."
 }

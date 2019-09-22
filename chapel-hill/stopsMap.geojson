@@ -4,6 +4,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Homestead Rd at Southern Human Services",
+        "tag": "homesout",
+        "stopId": "3610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0641141,
+          35.9513003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Homestead at Martin Luther King Jr Blvd",
+        "tag": "homemlkb_s",
+        "stopId": "3336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0590494,
+          35.9496198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Martin Luther King Jr Blvd at Chapel View",
         "tag": "airpbroo",
         "stopId": "3332"
@@ -11,8 +41,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0586898,
-          35.9485309
+          -79.0586899,
+          35.948531
         ]
       }
     },
@@ -116,8 +146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0542795,
-          35.9279287
+          -79.05428,
+          35.927929
         ]
       }
     },
@@ -131,8 +161,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.053264,
-          35.9248661
+          -79.0532645,
+          35.924866
         ]
       }
     },
@@ -146,8 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0518136,
-          35.9234148
+          -79.0518138,
+          35.923415
         ]
       }
     },
@@ -161,8 +191,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.051629,
-          35.9197373
+          -79.0516291,
+          35.9197375
         ]
       }
     },
@@ -176,8 +206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0505014,
-          35.9177424
+          -79.0505015,
+          35.9177426
         ]
       }
     },
@@ -191,8 +221,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0496505,
-          35.9162209
+          -79.0496507,
+          35.9162212
         ]
       }
     },
@@ -206,8 +236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0487601,
-          35.9146902
+          -79.0487602,
+          35.9146904
         ]
       }
     },
@@ -221,23 +251,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.04745,
-          35.9123801
+          -79.0474502,
+          35.9123803
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "South Road at Student Stores",
+        "title": "South Rd at Student Union",
         "tag": "soutstud",
         "stopId": "3360"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0482772,
-          35.909585
+          -79.0482769,
+          35.9095852
         ]
       }
     },
@@ -251,8 +281,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0466337,
-          35.9080514
+          -79.046634,
+          35.9080515
         ]
       }
     },
@@ -266,8 +296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0447015,
-          35.906782
+          -79.0447017,
+          35.9067823
         ]
       }
     },
@@ -281,8 +311,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0454697,
-          35.9053994
+          -79.0454698,
+          35.9053997
         ]
       }
     },
@@ -296,8 +326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0468023,
-          35.9035892
+          -79.046802,
+          35.9035893
         ]
       }
     },
@@ -311,8 +341,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0490024,
-          35.9030097
+          -79.0490021,
+          35.9030098
         ]
       }
     },
@@ -326,8 +356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0518599,
-          35.9035599
+          -79.0518595,
+          35.9035598
         ]
       }
     },
@@ -401,8 +431,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0560395,
-          35.9137492
+          -79.05604,
+          35.913749
         ]
       }
     },
@@ -425,8 +455,7 @@
       "type": "Feature",
       "properties": {
         "title": "W Rosemary St at Breadmans",
-        "tag": "rosebrea",
-        "stopId": "3409"
+        "tag": "rosebrea"
       },
       "geometry": {
         "type": "Point",
@@ -447,7 +476,7 @@
         "type": "Point",
         "coordinates": [
           -79.0623904,
-          35.9120265
+          35.9120264
         ]
       }
     },
@@ -462,7 +491,7 @@
         "type": "Point",
         "coordinates": [
           -79.0626289,
-          35.9133164
+          35.9133163
         ]
       }
     },
@@ -470,8 +499,7 @@
       "type": "Feature",
       "properties": {
         "title": "Mitchell Ln at McDade St",
-        "tag": "mitcmcda",
-        "stopId": "3412"
+        "tag": "mitcmcda"
       },
       "geometry": {
         "type": "Point",
@@ -806,8 +834,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0560417,
-          35.9134029
+          -79.056042,
+          35.913403
         ]
       }
     },
@@ -821,8 +849,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0550299,
-          35.9117298
+          -79.05503,
+          35.91173
         ]
       }
     },
@@ -836,8 +864,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0548096,
-          35.9089092
+          -79.0548097,
+          35.9089094
         ]
       }
     },
@@ -852,7 +880,7 @@
         "type": "Point",
         "coordinates": [
           -79.0548701,
-          35.9068889
+          35.9068891
         ]
       }
     },
@@ -867,7 +895,7 @@
         "type": "Point",
         "coordinates": [
           -79.0551402,
-          35.9052788
+          35.905279
         ]
       }
     },
@@ -1061,7 +1089,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0516468,
+          -79.0516469,
           35.9235849
         ]
       }
@@ -1076,7 +1104,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0536879,
+          -79.0536881,
           35.9250697
         ]
       }
@@ -1228,36 +1256,6 @@
         "coordinates": [
           -79.06492,
           35.9488999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Homestead Rd at Southern Human Services",
-        "tag": "homesout",
-        "stopId": "3610"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0641141,
-          35.9513003
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Homestead at Martin Luther King Jr Blvd",
-        "tag": "homemlkb_s",
-        "stopId": "3336"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0590494,
-          35.9496198
         ]
       }
     },
@@ -1460,8 +1458,7 @@
       "type": "Feature",
       "properties": {
         "title": "South Rd at Kenan Labs",
-        "tag": "soutkena",
-        "stopId": "3215"
+        "tag": "soutkena"
       },
       "geometry": {
         "type": "Point",
@@ -2134,7 +2131,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Coleridge Rd at Walden at Greenfield",
+        "title": "Coleridge Rd at Sage Rd",
         "tag": "colewald_d",
         "stopId": "3286"
       },
@@ -2149,7 +2146,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sage Rd at Dobbins Dr",
+        "title": "Sage Rd at Lowe's/Borders",
         "tag": "sagelowe_s",
         "stopId": "3126"
       },
@@ -2329,9 +2326,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "E Franklin St at Library Trail",
-        "tag": "franetna",
-        "stopId": "3369"
+        "title": "E Franklin St at Etna Gas Station",
+        "tag": "franetna"
       },
       "geometry": {
         "type": "Point",
@@ -2599,7 +2595,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "NC 54 East at The Crest",
+        "title": "NC 54 East at Poplar Ave",
         "tag": "nc54domi",
         "stopId": "3488"
       },
@@ -2780,8 +2776,7 @@
       "type": "Feature",
       "properties": {
         "title": "Bowles Dr at Kenan-Flagler Lot",
-        "tag": "bowlkena",
-        "stopId": "3225"
+        "tag": "bowlkena"
       },
       "geometry": {
         "type": "Point",
@@ -2900,8 +2895,7 @@
       "type": "Feature",
       "properties": {
         "title": "Cameron Av at Kenan St",
-        "tag": "camekena",
-        "stopId": "3207"
+        "tag": "camekena"
       },
       "geometry": {
         "type": "Point",
@@ -2929,7 +2923,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cameron Av at Railroad Tracks",
+        "title": "Cameron Av at Merrit Mill Rd",
         "tag": "camerail",
         "stopId": "3204"
       },
@@ -3005,8 +2999,7 @@
       "type": "Feature",
       "properties": {
         "title": "NC 54 West at Royal Park",
-        "tag": "nc54roya",
-        "stopId": "3465"
+        "tag": "nc54roya"
       },
       "geometry": {
         "type": "Point",
@@ -3065,8 +3058,7 @@
       "type": "Feature",
       "properties": {
         "title": "NC 54 at Oleander Rd",
-        "tag": "nc54olea",
-        "stopId": "3598"
+        "tag": "nc54olea"
       },
       "geometry": {
         "type": "Point",
@@ -3650,8 +3642,7 @@
       "type": "Feature",
       "properties": {
         "title": "W Franklin St at Kenan St",
-        "tag": "wfrakena",
-        "stopId": "3471"
+        "tag": "wfrakena"
       },
       "geometry": {
         "type": "Point",
@@ -3709,7 +3700,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "W Franklin St at Caribou Coffee",
+        "title": "W Franklin St at Columbia St",
         "tag": "wfracarb",
         "stopId": "3422"
       },
@@ -3770,8 +3761,7 @@
       "type": "Feature",
       "properties": {
         "title": "W Franklin St at N Graham St",
-        "tag": "wfrangra",
-        "stopId": "3045"
+        "tag": "wfrangra"
       },
       "geometry": {
         "type": "Point",
@@ -3965,8 +3955,7 @@
       "type": "Feature",
       "properties": {
         "title": "W Poplar Av at Lilac Dr",
-        "tag": "popllila",
-        "stopId": "3512"
+        "tag": "popllila"
       },
       "geometry": {
         "type": "Point",
@@ -4048,111 +4037,6 @@
         "coordinates": [
           -79.0836094,
           35.907065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Smith Level Rd at BPW Club Rd",
-        "tag": "smitbpwc_d",
-        "stopId": "3661"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0761172,
-          35.8957668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Smith Level Rd at Willow Oak",
-        "tag": "smitwill",
-        "stopId": "3044"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0751358,
-          35.8981863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Smith Level Rd at FPG School",
-        "tag": "smitfpgs",
-        "stopId": "3133"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0736448,
-          35.9004171
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "NC 54 East at Kingswood",
-        "tag": "nc54king",
-        "stopId": "3191"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0673216,
-          35.8989207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S Columbia St at Purefoy Rd",
-        "tag": "scolpure_n",
-        "stopId": "3187"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0582973,
-          35.8955454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S Columbia St at Coolidge St",
-        "tag": "scolcool",
-        "stopId": "3183"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0576615,
-          35.8975877
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S Columbia St at Chase Ave",
-        "tag": "scolchas",
-        "stopId": "3611"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0575999,
-          35.8992376
         ]
       }
     },
@@ -4361,8 +4245,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.00822,
-          35.95044
+          -79.0082199,
+          35.9504399
         ]
       }
     },
@@ -4414,150 +4298,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mason Farm Rd at Ambulatory Care Center",
-        "tag": "masoambu_s",
-        "stopId": "3220"
+        "title": "Dobbins Dr. at Erwin",
+        "tag": "dobberw",
+        "stopId": "3699"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0560489,
-          35.9022004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S Columbia St at Purefoy Rd",
-        "tag": "scolpure_s",
-        "stopId": "3188"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0585373,
-          35.8953357
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "US 15-501 South at Culbreth Rd",
-        "tag": "us15culb",
-        "stopId": "3189"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.059108,
-          35.892011
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Culbreth Rd at Channing Ln",
-        "tag": "culbchan",
-        "stopId": "3192"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0624531,
-          35.892499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Culbreth Rd at Culbreth Park Dr",
-        "tag": "culbculb",
-        "stopId": "3193"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0643359,
-          35.8918488
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Culbreth Rd at Southbridge Dr",
-        "tag": "culbsout",
-        "stopId": "3194"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0659905,
-          35.89192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Culbreth Rd at Adams Way",
-        "tag": "culbadam",
-        "stopId": "3195"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0678483,
-          35.892238
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Culbreth Rd at Weyer",
-        "tag": "culbweye",
-        "stopId": "3196"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0705608,
-          35.8927001
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Culbreth Rd at Covenant Pl",
-        "tag": "culbcove",
-        "stopId": "3197"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.07562,
-          35.89374
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Smith Level Rd at BPW Club Rd",
-        "tag": "smitbpwc_a",
-        "stopId": "3661"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0762714,
-          35.8953588
+          -79.0191109,
+          35.94283
         ]
       }
     },
@@ -4774,7 +4523,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "W Franklin St at Caribou Coffee",
+        "title": "W Franklin St at S. Columbia",
         "tag": "wfracari",
         "stopId": "3422"
       },
@@ -5000,8 +4749,7 @@
       "type": "Feature",
       "properties": {
         "title": "N Greensboro St at Cedar Ct",
-        "tag": "ngreceda",
-        "stopId": "3539"
+        "tag": "ngreceda"
       },
       "geometry": {
         "type": "Point",
@@ -5270,8 +5018,7 @@
       "type": "Feature",
       "properties": {
         "title": "Carol St at Lisa St",
-        "tag": "carolisa",
-        "stopId": "3543"
+        "tag": "carolisa"
       },
       "geometry": {
         "type": "Point",
@@ -5390,8 +5137,7 @@
       "type": "Feature",
       "properties": {
         "title": "N Greensboro St at Sue Ann Ct",
-        "tag": "ngresuea",
-        "stopId": "3534"
+        "tag": "ngresuea"
       },
       "geometry": {
         "type": "Point",
@@ -5420,8 +5166,7 @@
       "type": "Feature",
       "properties": {
         "title": "N Greensboro St at Oak Av",
-        "tag": "ngreoaka",
-        "stopId": "3537"
+        "tag": "ngreoaka"
       },
       "geometry": {
         "type": "Point",
@@ -5795,8 +5540,7 @@
       "type": "Feature",
       "properties": {
         "title": "Raleigh Rd at UNC Administration",
-        "tag": "raleunca",
-        "stopId": "3386"
+        "tag": "raleunca"
       },
       "geometry": {
         "type": "Point",
@@ -7240,8 +6984,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0843184,
-          35.9591268
+          -79.08431,
+          35.95912
         ]
       }
     },
@@ -7324,7 +7068,7 @@
       "type": "Feature",
       "properties": {
         "title": "Chapel Hill High School",
-        "tag": "chaphigh_d",
+        "tag": "chaphigh",
         "stopId": "3614"
       },
       "geometry": {
@@ -7338,37 +7082,52 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sewell School Rd at Savannah Ter",
-        "tag": "sewesava",
-        "stopId": "3710"
+        "title": "High School Rd at Seawell School Rd",
+        "tag": "highsea",
+        "stopId": "3621"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0754694,
-          35.9483727
+          -79.076888,
+          35.946491
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Sewell School Rd at Kove Rd",
-        "tag": "sewekove",
-        "stopId": "3709"
+        "title": "Homestead Rd at HearthStone Ln",
+        "tag": "homheart",
+        "stopId": "3715"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0754604,
-          35.9505039
+          -79.0731957,
+          35.9518459
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Homestead Rd at Southern Human Services",
+        "title": "Homestead Rd at Greenway Landing",
+        "tag": "homgreen",
+        "stopId": "3714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0696876,
+          35.9516809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Homestead Rd at Senior Center",
         "tag": "homeshum",
         "stopId": "3610"
       },
@@ -7383,6 +7142,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Homestead Rd at 2510",
+        "tag": "home2510",
+        "stopId": "3710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0638346,
+          35.9512557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Homestead at MLK Jr Blvd",
+        "tag": "hommlk",
+        "stopId": "3336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0589598,
+          35.9497028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Martin Luther King Jr Blvd at Chapel View",
         "tag": "mlkchapv",
         "stopId": "3332"
@@ -7390,8 +7179,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.05869,
-          35.9485308
+          -79.0586899,
+          35.9485311
         ]
       }
     },
@@ -7405,8 +7194,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0585194,
-          35.9464517
+          -79.0585195,
+          35.946452
         ]
       }
     },
@@ -7420,8 +7209,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0573001,
-          35.9402107
+          -79.0573002,
+          35.9402111
         ]
       }
     },
@@ -7435,38 +7224,668 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0566399,
-          35.9370698
+          -79.05664,
+          35.9370701
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Seawell School Rd at Woodleaf Dr",
-        "tag": "seawwood",
-        "stopId": "3613"
+        "title": "MLK Jr Blvd at YMCA",
+        "tag": "mlkymca_o",
+        "stopId": "3445"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0694496,
-          35.9304299
+          -79.0559301,
+          35.9335916
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Smith Middle School",
-        "tag": "smitscho_n",
-        "stopId": "3681"
+        "title": "MLK Jr Blvd at Airport Dr",
+        "tag": "mlkairp",
+        "stopId": "3444"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0764796,
-          35.9406723
+          -79.05574,
+          35.932542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MLK Jr Blvd at Barclay",
+        "tag": "mlkbarc_o",
+        "stopId": "3242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0552207,
+          35.9307327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MLK Jr Blvd at Airport Gardens Apts",
+        "tag": "airpgard",
+        "stopId": "3244"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0542796,
+          35.9279291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillsborough St at Brookside Condos",
+        "tag": "hillbrook",
+        "stopId": "3032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0518138,
+          35.9234151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillsborough St at North St",
+        "tag": "hillnorth",
+        "stopId": "3107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0504975,
+          35.9177356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillsborough St at E Rosemary St",
+        "tag": "hillrose",
+        "stopId": "3473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0496467,
+          35.9162143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh St at Davis Library",
+        "tag": "raledave",
+        "stopId": "3127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0468099,
+          35.9107533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pittsboro St at University Dr",
+        "tag": "pittuni",
+        "stopId": "3224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0551401,
+          35.9052732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Westwood Dr",
+        "tag": "coluwest",
+        "stopId": "3184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0575398,
+          35.9016201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Purefoy Rd",
+        "tag": "colupure_o",
+        "stopId": "3188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.058536,
+          35.8953336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "US 15-501 South at Culbreth Rd",
+        "tag": "soutculb",
+        "stopId": "3189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0591122,
+          35.8920085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Culbreth Rd at Channing Ln",
+        "tag": "culbchan",
+        "stopId": "3192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0624515,
+          35.8924995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Culbreth Rd at Culbreth Park Dr",
+        "tag": "culbpark",
+        "stopId": "3193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0643334,
+          35.8918493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Culbreth Rd at Southbridge Dr",
+        "tag": "culbsout",
+        "stopId": "3194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0659897,
+          35.8919199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Culbreth Rd at Adams Way",
+        "tag": "culbadam",
+        "stopId": "3195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0678597,
+          35.8922399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Culbreth Rd at Weyer",
+        "tag": "culbweye",
+        "stopId": "3196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0705543,
+          35.8926989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Culbreth Rd at Covenant Pl",
+        "tag": "culbcove",
+        "stopId": "3197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0757997,
+          35.8937799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Smith Level Rd. at BPW Club",
+        "tag": "smitbpw",
+        "stopId": "3661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0763191,
+          35.8952295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Smith Level Rd at Willow Oak (Berryhill)",
+        "tag": "smitwill",
+        "stopId": "3044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0751422,
+          35.8981745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Smith Level Rd at FPG Shool",
+        "tag": "smitfbg",
+        "stopId": "3133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0736529,
+          35.9004058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "NC 54 East at Kingswood",
+        "tag": "eastking",
+        "stopId": "3191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0673138,
+          35.8989168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Purefoy Rd",
+        "tag": "colupure_i",
+        "stopId": "3187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0583001,
+          35.8955502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Coolidge St",
+        "tag": "soutcool",
+        "stopId": "3183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0576599,
+          35.8975903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Chase Ave",
+        "tag": "soutchas",
+        "stopId": "3611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0575999,
+          35.8992322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Mason Farm Rd",
+        "tag": "soutmas",
+        "stopId": "3219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05659,
+          35.9024125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Health Sciences Li",
+        "tag": "southealt",
+        "stopId": "3223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0534729,
+          35.9054071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Carrington Hall",
+        "tag": "soutcarr",
+        "stopId": "3222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0527815,
+          35.9069318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh St at Lewis Hall",
+        "tag": "ralelewis",
+        "stopId": "3028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.047386,
+          35.9124828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh St at Alderman Hall",
+        "tag": "ralealder",
+        "stopId": "3439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0483061,
+          35.9141728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillsborough St at E Rosemary St",
+        "tag": "hillsrose",
+        "stopId": "3108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0498558,
+          35.9169127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillsborough St at Delta Zeta",
+        "tag": "hillsdeltz",
+        "stopId": "3030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0514771,
+          35.9197936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillsborough St at Bolinwood Dr",
+        "tag": "hillsbolin",
+        "stopId": "3248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0516466,
+          35.9235845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MLK Jr Blvd at Bolinwood",
+        "tag": "mlkbolin",
+        "stopId": "3245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0540814,
+          35.9280041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MLK Jr Blvd at Barclay",
+        "tag": "mlkbarc",
+        "stopId": "3243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0548909,
+          35.930273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MLK Jr Blvd at YMCA",
+        "tag": "mlkymca_i",
+        "stopId": "3053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0557203,
+          35.9336016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MLK Jr Blvd at Shadowood",
+        "tag": "mlkshad",
+        "stopId": "3479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0564206,
+          35.9370926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MLK Jr Blvd at Timber Hollow",
+        "tag": "mlktimber",
+        "stopId": "3337"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.057431,
+          35.9418885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MLK Jr Blvd at Ashley Forest Dr",
+        "tag": "mlkash",
+        "stopId": "3334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0579305,
+          35.9445926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MLK Jr Blvd at Taylor St (Citgo)",
+        "tag": "mlktayl",
+        "stopId": "3335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0581769,
+          35.9459414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Homestead at MLK Jr Blvd",
+        "tag": "homesmlk",
+        "stopId": "3331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0602437,
+          35.9503773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Homestead Rd at Senior Center",
+        "tag": "homeshum_i",
+        "stopId": "3610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0640656,
+          35.9513839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Homestead Rd. at Greenvay Landing",
+        "tag": "homesgre",
+        "stopId": "3713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0699626,
+          35.9518054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Homestead Rd at HearthStone Ln",
+        "tag": "homeshea",
+        "stopId": "3716"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0732834,
+          35.9519282
         ]
       }
     },
@@ -7480,7 +7899,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0813099,
+          -79.0813094,
           35.9473399
         ]
       }
@@ -7533,7 +7952,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rogers Rd. at Tallyho",
+        "title": "Rogers Rd. at Ezekiel Peppers",
         "tag": "rogetall_n",
         "stopId": "3690"
       },
@@ -7587,21 +8006,6 @@
         "coordinates": [
           -79.0886788,
           35.9639893
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Morris Grove Elementary",
-        "tag": "morrgrove_a",
-        "stopId": "3698"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.1013299,
-          35.96644
         ]
       }
     },
@@ -7999,8 +8403,7 @@
       "type": "Feature",
       "properties": {
         "title": "Churton Street at North Hills Shopping Center (Hidden Arrival)",
-        "tag": "maxway_a",
-        "stopId": "3606"
+        "tag": "maxway_a"
       },
       "geometry": {
         "type": "Point",
@@ -8035,7 +8438,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0830143,
+          -79.083,
           35.89182
         ]
       }
@@ -8065,8 +8468,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0858105,
-          35.8936666
+          -79.085811,
+          35.8936667
         ]
       }
     },
@@ -8080,8 +8483,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0854899,
-          35.89488
+          -79.08549,
+          35.8948799
         ]
       }
     },
@@ -8095,7 +8498,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0828733,
+          -79.0828734,
           35.8958086
         ]
       }
@@ -8140,8 +8543,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0761196,
-          35.8957609
+          -79.07612,
+          35.895761
         ]
       }
     },
@@ -8155,8 +8558,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0751396,
+          -79.0751397,
           35.8981804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Smith Level Rd at FPG School",
+        "tag": "smitfpgs",
+        "stopId": "3133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0736494,
+          35.9004107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "NC 54 East at Kingswood",
+        "tag": "nc54king",
+        "stopId": "3191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.067322,
+          35.898921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Purefoy Rd",
+        "tag": "scolpure_n",
+        "stopId": "3187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0582973,
+          35.8955454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Coolidge St",
+        "tag": "scolcool",
+        "stopId": "3183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0576615,
+          35.8975877
         ]
       }
     },
@@ -8171,7 +8634,22 @@
         "type": "Point",
         "coordinates": [
           -79.0714994,
-          35.9104715
+          35.9104719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Greensboro St at Trailer Park",
+        "tag": "greetrai",
+        "stopId": "3466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.072621,
+          35.9029786
         ]
       }
     },
@@ -8185,7 +8663,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0779824,
+          -79.0779825,
           35.9029505
         ]
       }
@@ -8200,8 +8678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0829507,
-          35.9067897
+          -79.08295,
+          35.9067899
         ]
       }
     },
@@ -8260,8 +8738,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0734837,
-          35.9100794
+          -79.0734836,
+          35.910079
         ]
       }
     },
@@ -8277,6 +8755,36 @@
         "coordinates": [
           -79.0707401,
           35.9104499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Chase Ave",
+        "tag": "scolchas",
+        "stopId": "3611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05779,
+          35.8992393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Purefoy Rd",
+        "tag": "scolpure_s",
+        "stopId": "3188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0585305,
+          35.8953436
         ]
       }
     },
@@ -8320,7 +8828,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0739571,
+          -79.073957,
           35.900444
         ]
       }
@@ -8335,7 +8843,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.075316,
+          -79.0753157,
           35.8982164
         ]
       }
@@ -8410,7 +8918,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0800482,
+          -79.0800487,
           35.8918899
         ]
       }
@@ -8620,8 +9128,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0636725,
-          35.9150832
+          -79.063673,
+          35.915083
         ]
       }
     },
@@ -8651,7 +9159,7 @@
         "type": "Point",
         "coordinates": [
           -79.06253,
-          35.9121097
+          35.9121096
         ]
       }
     },
@@ -8666,7 +9174,7 @@
         "type": "Point",
         "coordinates": [
           -79.0606372,
-          35.9123672
+          35.9123673
         ]
       }
     },
@@ -8718,21 +9226,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mitchell Ln at Caldwell St",
-        "tag": "mitccald_n",
-        "stopId": "3413"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.06405,
-          35.91585
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Umstead Dr at Pritchard Ave Ext",
         "tag": "umstprit_n",
         "stopId": "3089"
@@ -8740,8 +9233,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0604188,
-          35.9226503
+          -79.0604186,
+          35.9226504
         ]
       }
     },
@@ -8755,7 +9248,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0623501,
+          -79.0623499,
           35.92177
         ]
       }
@@ -8770,83 +9263,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0650391,
-          35.9226627
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Village Dr at Winding Creek",
-        "tag": "villwind",
-        "stopId": "3038"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0661164,
-          35.9217077
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Village Dr at Fernwood Ln",
-        "tag": "villfern",
-        "stopId": "3406"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0673472,
-          35.9208957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Village Dr at Oakland Dr",
-        "tag": "villoakl",
-        "stopId": "3085"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0693428,
-          35.9212342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Village Dr at Estes Dr",
-        "tag": "villeste",
-        "stopId": "3035"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.070825,
-          35.9226952
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N Columbia St at Town Hall",
-        "tag": "ncoltown",
-        "stopId": "3416"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0577201,
-          35.9164202
+          -79.0650031,
+          35.9226717
         ]
       }
     },
@@ -8913,9 +9331,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "N Columbia St at Town Hall",
+        "tag": "ncoltown",
+        "stopId": "3416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0577201,
+          35.9164202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Estes Park Apts - Arrival",
-        "tag": "estepark_a",
-        "stopId": "3270"
+        "tag": "estepark_a"
       },
       "geometry": {
         "type": "Point",
@@ -8937,6 +9369,66 @@
         "coordinates": [
           -79.07017,
           35.92005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr at Estes Dr",
+        "tag": "villeste",
+        "stopId": "3405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0711139,
+          35.9227937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr at Oakland Dr",
+        "tag": "villoakl",
+        "stopId": "3084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0696553,
+          35.9213552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr at Fernwood Ln",
+        "tag": "villfern",
+        "stopId": "3036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.067316,
+          35.9206863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr at Winding Creek",
+        "tag": "villwind",
+        "stopId": "3037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0658607,
+          35.9219269
         ]
       }
     },
@@ -8988,15 +9480,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Martin Luther King Jr Blvd at Northwood Dr",
+        "title": "Martin Luther King Jr Blvd at Sparrow",
         "tag": "airpnort_s",
         "stopId": "3086"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0583189,
-          35.9633907
+          -79.0577915,
+          35.9619528
         ]
       }
     },
@@ -9042,6 +9534,36 @@
         "coordinates": [
           -79.0580898,
           35.9547414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mason Farm Rd at Ambulatory Care Center",
+        "tag": "masoambu_s",
+        "stopId": "3220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0560517,
+          35.9022003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "US 15-501 South at Culbreth Rd",
+        "tag": "us15culb",
+        "stopId": "3189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0587908,
+          35.8918094
         ]
       }
     },
@@ -9297,21 +9819,6 @@
         "coordinates": [
           -79.0504371,
           35.9177607
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hillsborough St at E Rosemary St",
-        "tag": "hillsrose",
-        "stopId": "3473"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0496107,
-          35.9162342
         ]
       }
     },
@@ -9619,8 +10126,7 @@
       "type": "Feature",
       "properties": {
         "title": "E Franklin St at Varsity Theatre - Arrival",
-        "tag": "franvars_a",
-        "stopId": "3428"
+        "tag": "franvars_a"
       },
       "geometry": {
         "type": "Point",
@@ -9672,21 +10178,6 @@
         "coordinates": [
           -79.07235,
           35.9093886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S Greensboro St at Trailer Park",
-        "tag": "greetrai",
-        "stopId": "3466"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0726203,
-          35.9029782
         ]
       }
     },
@@ -9799,8 +10290,7 @@
       "type": "Feature",
       "properties": {
         "title": "W Rosemary St at Mama Dips",
-        "tag": "rosamama",
-        "stopId": "3571"
+        "tag": "rosamama"
       },
       "geometry": {
         "type": "Point",
@@ -10114,8 +10604,7 @@
       "type": "Feature",
       "properties": {
         "title": "East Chapel Hill HS - Arrival",
-        "tag": "eastchap_a",
-        "stopId": "6603"
+        "tag": "eastchap_a"
       },
       "geometry": {
         "type": "Point",
@@ -10606,5 +11095,5 @@
       }
     }
   ],
-  "copyright": "All data copyright Chapel Hill Transit 2018."
+  "copyright": "All data copyright Chapel Hill Transit 2019."
 }

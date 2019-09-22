@@ -11,8 +11,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.26765,
-          37.87104
+          -122.26764,
+          37.8712069
         ]
       }
     },
@@ -101,8 +101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2539793,
-          37.8726641
+          -122.2539348,
+          37.8726373
         ]
       }
     },
@@ -116,8 +116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2528419,
-          37.8714393
+          -122.2528359,
+          37.8710459
         ]
       }
     },
@@ -146,8 +146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2520976,
-          37.8680371
+          -122.2519109,
+          37.8674549
         ]
       }
     },
@@ -206,8 +206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2586383,
-          37.8688438
+          -122.2597038,
+          37.8686968
         ]
       }
     },
@@ -475,7 +475,7 @@
         "type": "Point",
         "coordinates": [
           -122.338381,
-          37.916293
+          37.9162929
         ]
       }
     },
@@ -504,8 +504,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2749674,
-          37.8853444
+          -122.275047,
+          37.88543
         ]
       }
     },
@@ -534,8 +534,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3010983,
-          37.8877269
+          -122.3007819,
+          37.8877239
         ]
       }
     },
@@ -609,8 +609,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2682087,
-          37.8722739
+          -122.2683609,
+          37.8725519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shattuck at Hearst",
+        "tag": "shakhear"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2680325,
+          37.8739189
         ]
       }
     },
@@ -654,8 +668,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2556971,
-          37.874216
+          -122.2551876,
+          37.8734932
         ]
       }
     },
@@ -669,8 +683,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2537145,
-          37.8724872
+          -122.2539348,
+          37.8726373
         ]
       }
     },
@@ -975,5 +989,5 @@
       }
     }
   ],
-  "copyright": "All data copyright University of California Berkeley 2018."
+  "copyright": "All data copyright University of California Berkeley 2019."
 }

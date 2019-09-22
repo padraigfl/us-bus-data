@@ -86,7 +86,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74391,
+          -121.7439099,
           38.54266
         ]
       }
@@ -116,8 +116,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74118,
-          38.5431399
+          -121.7411799,
+          38.54314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Russell & A St (EB)",
+        "tag": "22008",
+        "stopId": "008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7470999,
+          38.54613
         ]
       }
     },
@@ -131,8 +146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7409299,
-          38.54333
+          -121.74093,
+          38.5433299
         ]
       }
     },
@@ -176,8 +191,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74487,
-          38.5449
+          -121.7448699,
+          38.5448999
         ]
       }
     },
@@ -296,7 +311,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74687,
+          -121.7468699,
           38.5463799
         ]
       }
@@ -341,8 +356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7460599,
-          38.5496499
+          -121.74606,
+          38.54965
         ]
       }
     },
@@ -431,8 +446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7350899,
-          38.54575
+          -121.73509,
+          38.5457499
         ]
       }
     },
@@ -461,8 +476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.73434,
-          38.54774
+          -121.7343399,
+          38.5477399
         ]
       }
     },
@@ -476,8 +491,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7340499,
-          38.5474199
+          -121.73405,
+          38.54742
         ]
       }
     },
@@ -628,6 +643,21 @@
         "coordinates": [
           -121.7175799,
           38.5417799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pole Line & S Diameter Dr (NB)",
+        "tag": "22044",
+        "stopId": "044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7267099,
+          38.5502999
         ]
       }
     },
@@ -896,7 +926,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.69258,
+          -121.6925799,
           38.5488399
         ]
       }
@@ -956,8 +986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7053599,
-          38.55689
+          -121.70536,
+          38.5568899
         ]
       }
     },
@@ -1047,7 +1077,7 @@
         "type": "Point",
         "coordinates": [
           -121.7255299,
-          38.54904
+          38.5490399
         ]
       }
     },
@@ -1092,7 +1122,7 @@
         "type": "Point",
         "coordinates": [
           -121.72777,
-          38.54883
+          38.5488299
         ]
       }
     },
@@ -1106,7 +1136,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7307999,
+          -121.7308,
           38.5488999
         ]
       }
@@ -1151,8 +1181,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7172,
-          38.5619799
+          -121.7171999,
+          38.56198
         ]
       }
     },
@@ -1211,7 +1241,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7203099,
+          -121.72031,
           38.5578999
         ]
       }
@@ -1242,7 +1272,7 @@
         "type": "Point",
         "coordinates": [
           -121.72726,
-          38.5539599
+          38.55396
         ]
       }
     },
@@ -1346,7 +1376,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.73034,
+          -121.7303399,
           38.55329
         ]
       }
@@ -1376,8 +1406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.73544,
-          38.5526699
+          -121.7354399,
+          38.55267
         ]
       }
     },
@@ -1391,8 +1421,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7343599,
-          38.55278
+          -121.73436,
+          38.5527799
         ]
       }
     },
@@ -1556,8 +1586,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74127,
-          38.5514199
+          -121.7412699,
+          38.55142
         ]
       }
     },
@@ -1586,7 +1616,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74401,
+          -121.7440099,
           38.55093
         ]
       }
@@ -2239,21 +2269,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Memorial Union Terminal Arrival & Howard Way (NB)",
-        "tag": "22167",
-        "stopId": "167"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.7498,
-          38.5439799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Hutchison & Shields Library (WB)",
         "tag": "22168",
         "stopId": "168"
@@ -2876,7 +2891,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7760099,
+          -121.77601,
           38.55276
         ]
       }
@@ -2891,7 +2906,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.77111,
+          -121.7711099,
           38.55281
         ]
       }
@@ -2922,7 +2937,7 @@
         "type": "Point",
         "coordinates": [
           -121.7706799,
-          38.5476899
+          38.54769
         ]
       }
     },
@@ -3011,8 +3026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.78752,
-          38.55332
+          -121.7875199,
+          38.5533199
         ]
       }
     },
@@ -3071,8 +3086,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.71538,
-          38.5526799
+          -121.7153799,
+          38.55268
         ]
       }
     },
@@ -3101,8 +3116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7034599,
-          38.55804
+          -121.70346,
+          38.5580399
         ]
       }
     },
@@ -3192,7 +3207,7 @@
         "type": "Point",
         "coordinates": [
           -121.6942999,
-          38.5577499
+          38.55775
         ]
       }
     },
@@ -3207,7 +3222,7 @@
         "type": "Point",
         "coordinates": [
           -121.69395,
-          38.5562499
+          38.55625
         ]
       }
     },
@@ -3251,8 +3266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.71917,
-          38.5644199
+          -121.7191699,
+          38.56442
         ]
       }
     },
@@ -3364,21 +3379,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Dairy Rd & La Rue Rd (SB)",
-        "tag": "22269",
-        "stopId": "269"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.7590099,
-          38.5344599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Memorial Union  & Main Island (NB)",
         "tag": "22272",
         "stopId": "272"
@@ -3446,7 +3446,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.72763,
+          -121.7276299,
           38.5534299
         ]
       }
@@ -3478,21 +3478,6 @@
         "coordinates": [
           -121.7157,
           38.5502299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dairy Road & Tercero (SB)",
-        "tag": "22284",
-        "stopId": "284"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75899,
-          38.5359599
         ]
       }
     },
@@ -3536,8 +3521,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.77133,
-          38.5413599
+          -121.77173,
+          38.5410999
         ]
       }
     },
@@ -3582,7 +3567,7 @@
         "type": "Point",
         "coordinates": [
           -121.7090099,
-          38.5600799
+          38.56008
         ]
       }
     },
@@ -3626,7 +3611,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.72665,
+          -121.7266499,
           38.5686
         ]
       }
@@ -3686,7 +3671,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.699,
+          -121.6989999,
           38.5581199
         ]
       }
@@ -3701,8 +3686,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7053599,
-          38.55645
+          -121.70536,
+          38.5564499
         ]
       }
     },
@@ -3746,38 +3731,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7732999,
-          38.5419
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Tilia Loop & West Bike Path (EB)",
-        "tag": "22305",
-        "stopId": "305"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.77612,
-          38.5419599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "La Rue & Aggie Stadium (NB)",
-        "tag": "22310",
-        "stopId": "310"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.76082,
-          38.5364
+          -121.7733,
+          38.5418999
         ]
       }
     },
@@ -4069,96 +4024,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Anderson & Alvarado (SB)",
-        "tag": "22365",
-        "stopId": "365"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75865,
-          38.5625999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Anderson & Catalina (SB)",
-        "tag": "22366",
-        "stopId": "366"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75853,
-          38.5675399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Anderson & Oriole (SB)",
-        "tag": "22367",
-        "stopId": "367"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.7558399,
-          38.57234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Anderson & Sandpiper (WB)",
-        "tag": "22368",
-        "stopId": "368"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74853,
-          38.5733599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "F St & Bueno (NB)",
-        "tag": "22369",
-        "stopId": "369"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74452,
-          38.5617299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "F St & Faro (NB)",
-        "tag": "22370",
-        "stopId": "370"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74515,
-          38.56645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "J St & Drexel Dr (NB)",
         "tag": "22371",
         "stopId": "371"
@@ -4183,21 +4048,6 @@
         "coordinates": [
           -121.73917,
           38.5589599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lake Blvd & Westlake Plaza (SB)",
-        "tag": "22373",
-        "stopId": "373"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.7877599,
-          38.5536899
         ]
       }
     },
@@ -4243,141 +4093,6 @@
         "coordinates": [
           -121.72405,
           38.56625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Shasta & Covell (SB)",
-        "tag": "22378",
-        "stopId": "378"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.7729,
-          38.5599399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Shasta & Denali (EB)",
-        "tag": "22379",
-        "stopId": "379"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.77986,
-          38.5551199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Shasta & Denali (WB)",
-        "tag": "22380",
-        "stopId": "380"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.7801999,
-          38.55529
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Shasta & El Capitan (EB)",
-        "tag": "22381",
-        "stopId": "381"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.77515,
-          38.5553
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Shasta & El Capitan (WB)",
-        "tag": "22382",
-        "stopId": "382"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.7754799,
-          38.5555799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Shasta & Hampton (EB)",
-        "tag": "22383",
-        "stopId": "383"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.77242,
-          38.5554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Shasta & Hampton (WB)",
-        "tag": "22384",
-        "stopId": "384"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.77291,
-          38.5556199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Shasta & Rio Grande (NB)",
-        "tag": "22385",
-        "stopId": "385"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.77113,
-          38.55728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Shasta & Rio Grande (SB)",
-        "tag": "22386",
-        "stopId": "386"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.7715799,
-          38.55698
         ]
       }
     },
@@ -4482,6 +4197,20 @@
         "coordinates": [
           -121.69103,
           38.5508799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Memorial Union  & Main Island (NB)",
+        "tag": "22272_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75004,
+          38.5438599
         ]
       }
     },
@@ -4670,6 +4399,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "F St & Covell Blvd (SB)",
+        "tag": "22113_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74496,
+          38.5601099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "F St & Covell Blvd (NB)",
         "tag": "22112_ar"
       },
@@ -4678,34 +4421,6 @@
         "coordinates": [
           -121.74466,
           38.5602299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "J St & Drexel Dr (NB)",
-        "tag": "22371_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74064,
-          38.5570999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lake Blvd & Portage Bay (SB)",
-        "tag": "22387_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.78908,
-          38.5487899
         ]
       }
     },
@@ -4740,14 +4455,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Tilia Loop & West Bike Path (EB)",
-        "tag": "22305_ar"
+        "title": "Tilia & Celadon (EB)",
+        "tag": "22304_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.77612,
-          38.5419599
+          -121.7733,
+          38.5418999
         ]
       }
     },
@@ -4778,21 +4493,7 @@
           38.5393499
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dairy Road & Tercero (SB)",
-        "tag": "22284_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75899,
-          38.5359599
-        ]
-      }
     }
   ],
-  "copyright": "All data copyright Unitrans ASUCD/City of Davis 2018."
+  "copyright": "All data copyright Unitrans ASUCD/City of Davis 2019."
 }

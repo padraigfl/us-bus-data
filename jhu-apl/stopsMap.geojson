@@ -170,7 +170,8 @@
       "type": "Feature",
       "properties": {
         "title": "Building 1",
-        "tag": "southend"
+        "tag": "southend",
+        "stopId": "002"
       },
       "geometry": {
         "type": "Point",
@@ -199,7 +200,8 @@
       "type": "Feature",
       "properties": {
         "title": "Building 48",
-        "tag": "bldg48"
+        "tag": "bldg48",
+        "stopId": "048"
       },
       "geometry": {
         "type": "Point",
@@ -225,5 +227,5 @@
       }
     }
   ],
-  "copyright": "All data copyright APL 2018."
+  "copyright": "All data copyright APL 2019."
 }

@@ -1,12 +1,12 @@
 {
   "data": {
     "green": {
-      "title": "Green",
+      "title": "Green Line Shopping Shuttle",
       "color": "0ac92b",
       "tag": "green",
       "oppositeColor": "000000",
       "max": [
-        36.989575,
+        36.9909806,
         -86.4300255
       ],
       "min": [
@@ -14,103 +14,119 @@
         -86.4700046
       ],
       "stops": {
-        "CAMPBELL_LANE PARK & RIDE": [
+        "WAL-MART": [
+          "wilshall",
+          "cohh",
+          "gris",
+          "mmth",
+          "pft",
+          "merehall",
+          "creapknr",
+          "evolvill",
+          "cambpknr"
+        ],
+        "GORDON WILSON HALL": [
+          "creapknr_d",
+          "13thkent",
+          "ps1",
+          "sndrhall"
+        ],
+        "CREASON PARK & RIDE": [
           "wmrt",
           "greemall",
           "barnsnob",
-          "krog_pknr",
-          "cambpknr_a"
-        ],
-        "WAL-MART": [
-          "duc",
-          "keen",
-          "creapknr",
-          "evolvill",
-          "scam",
-          "cambpknr",
-          "krog_gm"
-        ],
-        "DSU": [
           "cambpknr_d",
-          "evolvill_ob",
-          "creapknr_ob",
-          "univlot",
-          "ranshall",
-          "helmlib",
-          "est",
-          "augualum",
-          "vall"
+          "evolvill_ob"
         ]
       }
     },
     "red": {
-      "title": "Red",
+      "title": "Big Red",
       "color": "cd0000",
       "tag": "red",
       "oppositeColor": "ffffff",
       "max": [
-        36.992078,
-        -86.443358
+        36.9878899,
+        -86.4474988
       ],
       "min": [
-        36.9786796,
-        -86.467127
+        36.9786798,
+        -86.4838807
       ],
       "stops": {
-        "RUSSELLVILLE_ROAD PARK & RIDE": [
-          "11thcoll",
-          "coluapts",
-          "augualum",
+        "PARK ST. LOT": [
+          "creapknrrd",
+          "ps1",
+          "sndrhall",
+          "wilshall",
           "cohh",
           "gris",
           "mmth",
-          "pft"
+          "soutches",
+          "ogdepark"
         ],
-        "11TH_& COLLEGE": [
-          "russpknr",
-          "creapknr",
-          "jagg",
+        "CREASON PARK & RIDE": [
+          "parklot",
+          "chesnort",
+          "chessout",
           "univlot",
           "mimo",
           "helmlib",
-          "est"
-        ]
-      }
-    },
-    "white": {
-      "title": "White",
-      "color": "82cffd",
-      "tag": "white",
-      "oppositeColor": "000000",
-      "max": [
-        36.9877076,
-        -86.45031
-      ],
-      "min": [
-        36.9640027,
-        -86.4700058
-      ],
-      "stops": {
-        "Main_Campus": [
-          "cambpknr_d",
-          "evolvill_ob",
-          "jagg",
-          "univlot",
-          "mimo",
-          "helmlib",
-          "est"
-        ],
-        "Campbell_Lane Park and Ride": [
+          "est",
           "cherhall",
           "vall",
           "duc",
           "keen",
+          "walmart",
+          "russpknr"
+        ]
+      }
+    },
+    "white": {
+      "title": "Hilltopper",
+      "color": "82cffd",
+      "tag": "white",
+      "oppositeColor": "000000",
+      "max": [
+        36.99174,
+        -86.447702
+      ],
+      "min": [
+        36.960064,
+        -86.4700058
+      ],
+      "stops": {
+        "Main Campus": [
+          "cambpknr_d",
+          "evolvill_ob",
+          "creapknr_ob",
+          "jagg",
+          "univlot",
+          "mimo",
+          "helmlib",
+          "est"
+        ],
+        "Campbell Lane Park and Ride": [
+          "cherhall",
+          "vall",
+          "mccohall",
+          "13thkent",
+          "12thcent",
+          "cohh",
+          "gris",
+          "mmth",
+          "pft",
+          "merehall",
           "creapknr",
           "evolvill_ib",
-          "scamp_pknr"
+          "scamp_pknr",
+          "kroger"
+        ],
+        "Kroger": [
+          "cambpknr_d2"
         ]
       }
     }
   },
-  "copyright": "All data copyright Western Kentucky University 2018."
+  "copyright": "All data copyright Western Kentucky University 2019."
 }

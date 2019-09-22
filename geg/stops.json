@@ -1,6 +1,7 @@
 {
   "data": {
     "ccon_d": {
+      "routes": {},
       "lon": "-117.5380774",
       "title": "Economy C",
       "stopId": "3261",
@@ -8,6 +9,7 @@
       "lat": "47.6247977"
     },
     "abcon": {
+      "routes": {},
       "lon": "-117.536934",
       "title": "Economy A/B",
       "stopId": "3262",
@@ -15,12 +17,21 @@
       "lat": "47.626803"
     },
     "econpark": {
+      "routes": {},
       "lon": "-117.5346994",
       "title": "Economy Parking Lot",
       "stopId": "3263",
       "tag": "econpark",
       "lat": "47.6316458"
+    },
+    "econpark2": {
+      "routes": {},
+      "lon": "-117.5397464",
+      "title": "Economy Parking Lot",
+      "stopId": "3264",
+      "tag": "econpark2",
+      "lat": "47.6298741"
     }
   },
-  "copyright": "All data copyright Spokane International Airport 2018."
+  "copyright": "All data copyright Spokane International Airport 2019."
 }

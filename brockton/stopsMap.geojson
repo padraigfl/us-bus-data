@@ -1294,7 +1294,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "SHAWS SOUTH",
+        "title": "BAT Centre",
         "tag": "shawss",
         "stopId": "096"
       },
@@ -9296,7 +9296,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.064517,
+          -71.0645169,
           42.284684
         ]
       }
@@ -10211,7 +10211,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.040063,
+          -71.0400629,
           42.132739
         ]
       }
@@ -10414,7 +10414,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Belair St and Tucker Dr",
+        "title": "Belair St at Tucker Dr",
         "tag": "belatuck",
         "stopId": "818"
       },
@@ -10429,7 +10429,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Belair St and Anne Ave",
+        "title": "Belair St at Anne Ave",
         "tag": "belaanne",
         "stopId": "819"
       },
@@ -10459,7 +10459,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Belair St and Earle St",
+        "title": "Belair St at Earle St",
         "tag": "belaearl",
         "stopId": "820"
       },
@@ -10954,52 +10954,181 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "555 Pleasant St",
-        "tag": "plea555",
-        "stopId": "883"
+        "title": "Belair St at 7-Eleven",
+        "tag": "bela711"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0415341,
-          42.0895129
+          -71.0372429,
+          42.0891427
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Pleasant St at West Lennox St",
-        "tag": "pleawlen",
-        "stopId": "884"
+        "title": "Belair St at Colonel Bell Drive",
+        "tag": "belabell",
+        "stopId": "824"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0430051,
-          42.0895168
+          -71.037351,
+          42.090891
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "99 Westgate Dr",
-        "tag": "davi99we",
-        "stopId": "886"
+        "title": "Belair St at Belair Hi Rise",
+        "tag": "belarise",
+        "stopId": "821"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0493862,
-          42.0912722
+          -71.0375211,
+          42.0918934
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Campanelli Dr at Toys R Us",
+        "title": "Belair St at Coventry Cir",
+        "tag": "belacove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.038312,
+          42.0959215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oak St at Golf Course",
+        "tag": "oakgolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0395673,
+          42.10121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oak St at Fuller Art Museum",
+        "tag": "oakart",
+        "stopId": "816"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.044985,
+          42.101639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oak St at Greek Orthodox Church",
+        "tag": "oakorth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0482196,
+          42.1017877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oak St at Chathem West 2",
+        "tag": "oakchat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0502388,
+          42.10177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Campanelli Dr - 2nd Pole in",
+        "tag": "camppole",
+        "stopId": "891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0527959,
+          42.1014965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Campanelli Dr - Ocean State Job Lots",
+        "tag": "campjob",
+        "stopId": "210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0525889,
+          42.0993318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Westgate Dr at Westgate Dialysis",
+        "tag": "westdial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0545666,
+          42.0965164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Market Basket",
+        "tag": "markbask_d",
+        "stopId": "810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0521905,
+          42.093967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Campanelli Dr - Ocean State Job Lot",
         "tag": "camptoys_cobb",
         "stopId": "210"
       },
@@ -11007,37 +11136,80 @@
         "type": "Point",
         "coordinates": [
           -71.0525109,
-          42.0994861
+          42.0994864
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Oak St at Christy's Market",
-        "tag": "oakxchri_o",
+        "title": "Campanelli Dr at Work Out World",
+        "tag": "campwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0526594,
+          42.1007987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oak St at Madrid Sq",
+        "tag": "oakmadr",
+        "stopId": "888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0547442,
+          42.1015187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oak St at Walmart",
+        "tag": "oakwalm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0555893,
+          42.1014217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Good Samaritan Hospital 2nd Pole",
+        "tag": "gsh2pole",
+        "stopId": "891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0624599,
+          42.0997948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Good Samaritan Rd and N Pearl St",
+        "tag": "goodpear",
         "stopId": "893"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0632547,
-          42.1002218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Oak St at Kinder Care School",
-        "tag": "oakxkind_o",
-        "stopId": "894"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0654534,
-          42.0999194
+          -71.0659,
+          42.0980632
         ]
       }
     },
@@ -11051,8 +11223,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0668521,
-          42.1006677
+          -71.066852,
+          42.1006676
         ]
       }
     },
@@ -11066,8 +11238,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0673387,
-          42.1017686
+          -71.0673386,
+          42.1017685
         ]
       }
     },
@@ -11082,7 +11254,7 @@
         "type": "Point",
         "coordinates": [
           -71.0680228,
-          42.1032375
+          42.1032373
         ]
       }
     },
@@ -11096,8 +11268,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0683578,
-          42.103961
+          -71.0683577,
+          42.1039609
         ]
       }
     },
@@ -11112,7 +11284,7 @@
         "type": "Point",
         "coordinates": [
           -71.0689871,
-          42.1053026
+          42.1053025
         ]
       }
     },
@@ -11126,8 +11298,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0709104,
-          42.1093789
+          -71.0709103,
+          42.1093788
         ]
       }
     },
@@ -11141,8 +11313,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0726465,
-          42.1112442
+          -71.0726464,
+          42.1112441
         ]
       }
     },
@@ -11156,8 +11328,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0742939,
-          42.1121374
+          -71.0742937,
+          42.1121373
         ]
       }
     },
@@ -11171,7 +11343,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0773704,
+          -71.0773702,
           42.1135321
         ]
       }
@@ -11186,8 +11358,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0845923,
-          42.1183309
+          -71.0845922,
+          42.1183308
         ]
       }
     },
@@ -11201,8 +11373,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0859553,
-          42.11951
+          -71.0859552,
+          42.1195099
         ]
       }
     },
@@ -11216,7 +11388,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0904277,
+          -71.0904275,
           42.1201206
         ]
       }
@@ -11231,7 +11403,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0941563,
+          -71.0941561,
           42.121089
         ]
       }
@@ -11246,7 +11418,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0961923,
+          -71.0961921,
           42.121624
         ]
       }
@@ -11261,8 +11433,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0992936,
-          42.1225998
+          -71.0992934,
+          42.1225997
         ]
       }
     },
@@ -11277,7 +11449,7 @@
         "type": "Point",
         "coordinates": [
           -71.1021152,
-          42.1257462
+          42.125746
         ]
       }
     },
@@ -11614,7 +11786,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Shaws (Cobbs Corner)",
+        "title": "Cobbs Corner",
         "tag": "cobbcorn",
         "stopId": "935"
       },
@@ -12199,90 +12371,420 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Pleasant St at Doctors Office",
-        "tag": "pleadoct",
+        "title": "Park St across from Canterbury Arms Apts",
+        "tag": "parkcant_i",
+        "stopId": "977"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.066938,
+          42.100601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Good Samaritan Rd and N Pearl St",
+        "tag": "goodpear_i",
+        "stopId": "978"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0653107,
+          42.0977499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Good Samaritan Main Entrance",
+        "tag": "goodsamh_i",
+        "stopId": "892"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.062108,
+          42.0985199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Good Samaritan Rd at Oak St",
+        "tag": "goodoak_i",
+        "stopId": "979"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0623937,
+          42.0998108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oak St at Pine Estates",
+        "tag": "oakpine_i",
+        "stopId": "889"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0586288,
+          42.100978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oak St at Walmart",
+        "tag": "oakwalm_i",
+        "stopId": "980"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.055586,
+          42.1013689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oak St in front of Wendys",
+        "tag": "oakwend",
         "stopId": "981"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0640434,
-          42.0891424
+          -71.0541921,
+          42.1015197
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Pleasant St at Westland Apts",
-        "tag": "pleawesa",
+        "title": "Campanelli Dr - 2nd Pole in",
+        "tag": "camppole_i",
+        "stopId": "891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.052796,
+          42.1014961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Campanelli Dr - Ocean State Job Lot",
+        "tag": "campjob_i",
+        "stopId": "210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0525886,
+          42.099334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Westgate Dr at Westgate Dialysis",
+        "tag": "westdial_i",
         "stopId": "982"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0592789,
-          42.0879304
+          -71.0545613,
+          42.0965125
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Westgate Mall (Arrival)",
-        "tag": "sear",
-        "stopId": "873"
+        "title": "Market Basket",
+        "tag": "markbask_i",
+        "stopId": "810"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.049899,
-          42.095883
+          -71.0521909,
+          42.0939671
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Pleasant St at West St",
-        "tag": "pleawestI_ib",
-        "stopId": "231"
+        "title": "Campanelli Dr - Ocean State Job Lot",
+        "tag": "campjob_2",
+        "stopId": "210"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0456277,
-          42.0889621
+          -71.052511,
+          42.0994873
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "546 Pleasant Street",
-        "tag": "546pleas",
+        "title": "Campanelli Dr at Work Out World",
+        "tag": "campwork_i",
+        "stopId": "983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0526579,
+          42.1007857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oak St at Chathem West 2",
+        "tag": "oakchat_i",
+        "stopId": "984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.050231,
+          42.1017263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oak St at Oaklane",
+        "tag": "oaklane_i",
         "stopId": "985"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0418088,
-          42.0894603
+          -71.0482145,
+          42.1017412
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Pleasant St at Wheeler Ave",
-        "tag": "pleawhee_ib",
-        "stopId": "233"
+        "title": "Oak St at Fuller Art Museum",
+        "tag": "oakart_i",
+        "stopId": "816"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0400838,
-          42.089401
+          -71.044983,
+          42.1015876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oak St at Golf Course",
+        "tag": "oakgolf_i",
+        "stopId": "986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0395704,
+          42.1011461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Belair St at Tucker Dr",
+        "tag": "belatuck_i",
+        "stopId": "818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0388833,
+          42.0992854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Belair St at Anne Ave",
+        "tag": "belaanne_i",
+        "stopId": "819"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.03868,
+          42.0979582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Belair St at Coventry Cir",
+        "tag": "belacove_i",
+        "stopId": "987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0383548,
+          42.0959068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Belair St at Earle St",
+        "tag": "belaearl_i",
+        "stopId": "820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0379227,
+          42.0933767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Belair St at Belair Hi Rise",
+        "tag": "belarise_i",
+        "stopId": "821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0375859,
+          42.0918861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Belair St at Colonel Bell Drive",
+        "tag": "belabell_i",
+        "stopId": "824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0374226,
+          42.0908859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Belair St at 7-Eleven",
+        "tag": "bela711_i",
+        "stopId": "988"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0372999,
+          42.0891499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pleasant St at Ash St",
+        "tag": "pleanash_i",
+        "stopId": "198"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0355002,
+          42.0884359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pleasant St at Augusta Ave",
+        "tag": "pleaaugu_i",
+        "stopId": "197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0330968,
+          42.0879267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pleasant St at Ellis St",
+        "tag": "pleaelli_i",
+        "stopId": "196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0313187,
+          42.0875507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "246 Pleasant St",
+        "tag": "246plea",
+        "stopId": "987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0288153,
+          42.0870166
         ]
       }
     },
@@ -12290,21 +12792,36 @@
       "type": "Feature",
       "properties": {
         "title": "Pleasant St at Glenwood St",
-        "tag": "pleaglen_ib",
-        "stopId": "240"
+        "tag": "pleaglen_i",
+        "stopId": "880"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0262537,
-          42.0864761
+          -71.0263171,
+          42.0864898
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "HARRINGTON HALL",
+        "title": "Pleasant St at Vincentes",
+        "tag": "pleavinc",
+        "stopId": "989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0235723,
+          42.0859008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harrington Hall",
         "tag": "harrgrov",
         "stopId": "300"
       },
@@ -12319,7 +12836,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "ART BUILDING",
+        "title": "Art Building",
         "tag": "artbscho",
         "stopId": "301"
       },
@@ -12439,6 +12956,48 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "University Park",
+        "tag": "unipark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9662638,
+          41.9885189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ECC/Clock Tower",
+        "tag": "clocktow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9645611,
+          41.987587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shea Durgin",
+        "tag": "shedurg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.962182,
+          41.986188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "TINSLEY CENTER",
         "tag": "tinscent",
         "stopId": "309"
@@ -12446,7 +13005,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.962056,
+          -70.9620563,
           41.9890899
         ]
       }
@@ -12461,8 +13020,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.96278,
-          41.9909038
+          -70.9627799,
+          41.990904
         ]
       }
     },
@@ -12476,8 +13035,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.9715772,
-          41.9916115
+          -70.971577,
+          41.9916088
         ]
       }
     },
@@ -12510,7 +13069,67 @@
           41.9876112
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kingswood Village",
+        "tag": "kingvill_o",
+        "stopId": "982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9793898,
+          41.9940808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "City Line",
+        "tag": "cityline_n",
+        "stopId": "980"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0092988,
+          42.0428954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "City Line",
+        "tag": "cityline_s",
+        "stopId": "980"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0094297,
+          42.0428467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kingswood Village",
+        "tag": "kingvill_i",
+        "stopId": "982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.979473,
+          41.9940497
+        ]
+      }
     }
   ],
-  "copyright": "All data copyright Brockton Area Transit Authority 2018."
+  "copyright": "All data copyright Brockton Area Transit Authority 2019."
 }

@@ -537,7 +537,7 @@
         "type": "Point",
         "coordinates": [
           -122.04477,
-          38.26863
+          38.2686299
         ]
       }
     },
@@ -1091,7 +1091,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.03297,
+          -122.0329699,
           38.25816
         ]
       }
@@ -1159,37 +1159,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Atlantic Ave and Heather Dr",
-        "tag": "28610",
-        "stopId": "75106"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.04037,
-          38.2764799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Heather Dr and Dahlia St",
-        "tag": "28611",
-        "stopId": "75107"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.0406999,
-          38.2738
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Travis Blvd and Holiday Ln (Geri Towne)",
+        "title": "Travis Blvd and Holiday Ln (Raley's",
         "tag": "28612",
         "stopId": "75117"
       },
@@ -1249,21 +1219,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Clay Bank Rd and Canal St",
-        "tag": "28616",
-        "stopId": "75132"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.00641,
-          38.2773299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Cement Hill and Bay Tree Dr",
         "tag": "28617",
         "stopId": "75133"
@@ -1301,7 +1256,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.0164899,
+          -122.01649,
           38.2799599
         ]
       }
@@ -1736,7 +1691,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.0205799,
+          -122.02058,
           38.25804
         ]
       }
@@ -1856,8 +1811,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.02505,
-          38.2782899
+          -122.0250499,
+          38.27829
         ]
       }
     },
@@ -1888,36 +1843,6 @@
         "coordinates": [
           -122.0315,
           38.27644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Heather Dr and Dahlia St",
-        "tag": "28664",
-        "stopId": "75254"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.04056,
-          38.2737699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Heather Dr and Jasmine St",
-        "tag": "28665",
-        "stopId": "75255"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.04053,
-          38.27604
         ]
       }
     },
@@ -2141,7 +2066,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.14206,
+          -122.1420599,
           38.2071899
         ]
       }
@@ -2352,7 +2277,7 @@
         "type": "Point",
         "coordinates": [
           -122.13866,
-          38.17781
+          38.1778099
         ]
       }
     },
@@ -2366,8 +2291,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1383312,
-          38.1824661
+          -122.1383,
+          38.18247
         ]
       }
     },
@@ -2381,7 +2306,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1391499,
+          -122.13915,
           38.1838099
         ]
       }
@@ -2412,7 +2337,7 @@
         "type": "Point",
         "coordinates": [
           -122.14247,
-          38.1887499
+          38.18875
         ]
       }
     },
@@ -2426,8 +2351,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.14402,
-          38.19173
+          -122.1440199,
+          38.1917299
         ]
       }
     },
@@ -2442,7 +2367,7 @@
         "type": "Point",
         "coordinates": [
           -122.14596,
-          38.1933599
+          38.19336
         ]
       }
     },
@@ -2487,7 +2412,7 @@
         "type": "Point",
         "coordinates": [
           -122.14702,
-          38.20584
+          38.2058399
         ]
       }
     },
@@ -2516,7 +2441,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.13884,
+          -122.1388399,
           38.20705
         ]
       }
@@ -2562,7 +2487,7 @@
         "type": "Point",
         "coordinates": [
           -122.13642,
-          38.2168299
+          38.21683
         ]
       }
     },
@@ -2974,36 +2899,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Civic Center Dr and Pennsylvania Ave",
-        "tag": "28737",
-        "stopId": "75512"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.0487099,
-          38.2534
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Webster St and Civic Center Dr.",
-        "tag": "28738",
-        "stopId": "75513"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.04496,
-          38.2535
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Pennsylvania Ave and Grant St",
         "tag": "28742",
         "stopId": "75517"
@@ -3259,21 +3154,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Suisun Valley Rd and Kaiser Dr",
-        "tag": "28760",
-        "stopId": "75536"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1283099,
-          38.23006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Fairfield - Cordelia Library",
         "tag": "28761",
         "stopId": "75537"
@@ -3446,7 +3326,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.5027899,
+          -121.50279,
           38.5756
         ]
       }
@@ -3574,15 +3454,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bella Vista Dr and Ventura Way (Montebello Vista Park)",
+        "title": "Montebello Dr and Arroyo Grande Lane (Montebello Vista Park)",
         "tag": "2436313",
         "stopId": "75556"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.98188,
-          38.2491099
+          -121.98227,
+          38.2486099
         ]
       }
     },
@@ -3660,7 +3540,22 @@
           38.5846599
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pennsylvania Ave and Utah St",
+        "tag": "2501905",
+        "stopId": "75557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0500599,
+          38.2543399
+        ]
+      }
     }
   ],
-  "copyright": "All data copyright FAST 2018."
+  "copyright": "All data copyright FAST 2019."
 }

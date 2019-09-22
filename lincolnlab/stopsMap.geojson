@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MIT Lincoln Laboratory",
+        "tag": "linclab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.267467,
+          42.4586261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beaverworks",
+        "tag": "200tech_ib"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.091289,
+          42.363419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Building 39",
+        "tag": "60vass_ib"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0921206,
+          42.3615631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Medical Stop",
+        "tag": "325main_d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0865669,
+          42.3625079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Building 39",
+        "tag": "60vass_ob"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0921207,
+          42.3615631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beaverworks",
+        "tag": "200tech_ob"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.091229,
+          42.363424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MIT Lincoln Laboratory (arrival)",
+        "tag": "linclab_a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2674827,
+          42.4587144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MIT - 5 Forbes Rd",
+        "tag": "5forb",
+        "stopId": "0013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.262608,
+          42.441487
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright MIT Lincoln Lab Shuttle 2019."
+}

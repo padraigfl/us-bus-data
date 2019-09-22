@@ -424,7 +424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "West Covina Pkwy and Sunset Ave E",
+        "title": "West Covina Pkwy and Service Ave E",
         "tag": "02662",
         "stopId": "2662"
       },
@@ -446,7 +446,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9334299,
+          -117.93343,
           34.0686
         ]
       }
@@ -476,7 +476,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9255899,
+          -117.92559,
           34.06675
         ]
       }
@@ -491,8 +491,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9255199,
-          34.06143
+          -117.92552,
+          34.0614299
         ]
       }
     },
@@ -506,8 +506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.92557,
-          34.0577799
+          -117.9255699,
+          34.05778
         ]
       }
     },
@@ -521,8 +521,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9256199,
-          34.05419
+          -117.92562,
+          34.0541899
         ]
       }
     },
@@ -536,8 +536,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9256699,
-          34.05054
+          -117.92567,
+          34.0505399
         ]
       }
     },
@@ -551,8 +551,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9257699,
-          34.04444
+          -117.92577,
+          34.0444399
         ]
       }
     },
@@ -581,7 +581,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.92592,
+          -117.9259199,
           34.0356
         ]
       }
@@ -596,8 +596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9193099,
-          34.0349999
+          -117.91931,
+          34.035
         ]
       }
     },
@@ -3649,21 +3649,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Fair Oaks Ave and Holly St  E",
-        "tag": "01173",
-        "stopId": "1173"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.1506499,
-          34.14789
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Green St and Raymond Ave E",
         "tag": "00015",
         "stopId": "15"
@@ -3671,7 +3656,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.14899,
+          -118.1489899,
           34.14445
         ]
       }
@@ -3687,7 +3672,7 @@
         "type": "Point",
         "coordinates": [
           -118.14697,
-          34.1457499
+          34.14575
         ]
       }
     },
@@ -3716,7 +3701,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.1411499,
+          -118.14115,
           34.14576
         ]
       }
@@ -3731,8 +3716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.1366399,
-          34.14583
+          -118.13664,
+          34.1458299
         ]
       }
     },
@@ -3934,6 +3919,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Rosemead Blvd and Del Mar Blvd",
+        "tag": "03685",
+        "stopId": "3685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0735099,
+          34.1425599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Rosemead Blvd and California Blvd E",
         "tag": "06119",
         "stopId": "6119"
@@ -3986,8 +3986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.06043,
-          34.1311199
+          -118.0604299,
+          34.13112
         ]
       }
     },
@@ -4061,7 +4061,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0347299,
+          -118.03473,
           34.13988
         ]
       }
@@ -4459,15 +4459,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Huntington Dr and Brycedale ave W",
-        "tag": "01766",
-        "stopId": "1766"
+        "title": "Huntington Dr and Cotter Ave",
+        "tag": "02792",
+        "stopId": "2792"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9743599,
-          34.13977
+          -117.9730299,
+          34.1397799
         ]
       }
     },
@@ -4481,8 +4481,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.97794,
-          34.1397399
+          -117.9779399,
+          34.13974
         ]
       }
     },
@@ -4496,8 +4496,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.98382,
-          34.1396799
+          -117.9838199,
+          34.13968
         ]
       }
     },
@@ -4512,7 +4512,7 @@
         "type": "Point",
         "coordinates": [
           -117.9866799,
-          34.13966
+          34.1396599
         ]
       }
     },
@@ -4526,7 +4526,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9904899,
+          -117.99049,
           34.1406599
         ]
       }
@@ -4631,8 +4631,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.02463,
-          34.1402299
+          -118.0246299,
+          34.14023
         ]
       }
     },
@@ -4646,8 +4646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0289299,
-          34.14017
+          -118.02893,
+          34.1401699
         ]
       }
     },
@@ -4789,6 +4789,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Rosemead Blvd and Blanche St",
+        "tag": "03686",
+        "stopId": "3686"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.07315,
+          34.14268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Rosemead Blvd and Colorado Blvd W",
         "tag": "02793",
         "stopId": "2793"
@@ -4811,7 +4826,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0739499,
+          -118.07395,
           34.1502699
         ]
       }
@@ -4871,8 +4886,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.09441,
-          34.1496099
+          -118.0944099,
+          34.14961
         ]
       }
     },
@@ -9169,21 +9184,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Valley Blvd and San Angelo Ave",
-        "tag": "03378",
-        "stopId": "3378"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.99991,
-          34.05187
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Valley Blvd and Durfee Ave",
         "tag": "03402",
         "stopId": "3402"
@@ -9191,8 +9191,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0129799,
-          34.0597599
+          -118.01298,
+          34.05976
         ]
       }
     },
@@ -9206,8 +9206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.01509,
-          34.06082
+          -118.0150899,
+          34.0608199
         ]
       }
     },
@@ -9521,8 +9521,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.75999,
-          34.0297199
+          -117.7600176,
+          34.0297333
         ]
       }
     },
@@ -9559,7 +9559,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Garey and Philadelphia",
+        "title": "Philadelphia St and Garey Ave EB",
         "tag": "03007",
         "stopId": "3007"
       },
@@ -10061,8 +10061,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.76056,
-          34.0293199
+          -117.7605599,
+          34.02932
         ]
       }
     },
@@ -10106,7 +10106,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.77276,
+          -117.7727599,
           34.0287399
         ]
       }
@@ -10151,7 +10151,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.78753,
+          -117.7875299,
           34.0370899
         ]
       }
@@ -10414,7 +10414,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Orange Grove and Dudley N",
+        "title": "Orange Grove Ave and Dudley St N",
         "tag": "03046",
         "stopId": "3046"
       },
@@ -10429,7 +10429,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Orange Grove Ave. and Glen Ave. N",
+        "title": "Orange Grove Ave and Glen Ave N",
         "tag": "00010",
         "stopId": "10"
       },
@@ -10444,7 +10444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Fairplex Dr and Orange Grove N",
+        "title": "Fairplex Dr and Orange Grove Ave N",
         "tag": "03043",
         "stopId": "3043"
       },
@@ -10496,8 +10496,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7723199,
-          34.0825199
+          -117.77232,
+          34.08252
         ]
       }
     },
@@ -10511,8 +10511,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.76582,
-          34.08011
+          -117.7658199,
+          34.0801099
         ]
       }
     },
@@ -10601,8 +10601,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.74883,
-          34.0899199
+          -117.7488299,
+          34.08992
         ]
       }
     },
@@ -10616,8 +10616,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.74273,
-          34.0899399
+          -117.7427299,
+          34.08994
         ]
       }
     },
@@ -10781,8 +10781,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.74888,
-          34.0901099
+          -117.7488799,
+          34.09011
         ]
       }
     },
@@ -10909,7 +10909,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Fairplex Dr. and Orange Grove S",
+        "title": "Fairplex Dr and Orange Grove Ave S",
         "tag": "03042",
         "stopId": "3042"
       },
@@ -10924,7 +10924,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Orange Grove and Glen S",
+        "title": "Orange Grove Ave and Glen Ave S",
         "tag": "03044",
         "stopId": "3044"
       },
@@ -10939,7 +10939,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Orange Grove and Dudley",
+        "title": "Orange Grove Ave and Dudley St",
         "tag": "03045",
         "stopId": "3045"
       },
@@ -11171,8 +11171,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.04228,
-          34.04783
+          -118.0422799,
+          34.0478299
         ]
       }
     },
@@ -11186,8 +11186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0423299,
-          34.05221
+          -118.04233,
+          34.0522099
         ]
       }
     },
@@ -11614,21 +11614,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Myrtle Ave and Wyland Way",
-        "tag": "03493",
-        "stopId": "3493"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.00127,
-          34.11824
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Myrtle Ave and Camino Real St",
         "tag": "03494",
         "stopId": "3494"
@@ -11637,7 +11622,7 @@
         "type": "Point",
         "coordinates": [
           -118.00127,
-          34.1217099
+          34.12171
         ]
       }
     },
@@ -11651,8 +11636,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0014699,
-          34.1267299
+          -118.00147,
+          34.12673
         ]
       }
     },
@@ -11667,22 +11652,22 @@
         "type": "Point",
         "coordinates": [
           -118.00073,
-          34.132
+          34.1319999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Monrovia Gold Line Station",
-        "tag": "03512",
-        "stopId": "3512"
+        "title": "Myrtle Ave and Pomona Ave N",
+        "tag": "02066",
+        "stopId": "2066"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0027399,
-          34.1335
+          -118.00073,
+          34.1339699
         ]
       }
     },
@@ -11869,6 +11854,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Myrtle Ave and Pomona Ave",
+        "tag": "00405",
+        "stopId": "405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0009399,
+          34.13444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Myrtle Ave and Duarte Rd",
         "tag": "03513",
         "stopId": "3513"
@@ -11877,7 +11877,7 @@
         "type": "Point",
         "coordinates": [
           -118.0008799,
-          34.1318299
+          34.13183
         ]
       }
     },
@@ -11892,7 +11892,7 @@
         "type": "Point",
         "coordinates": [
           -118.0017699,
-          34.1266
+          34.1265999
         ]
       }
     },
@@ -11908,21 +11908,6 @@
         "coordinates": [
           -118.0015899,
           34.1219699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Myrtle Ave and Wyland Way",
-        "tag": "03518",
-        "stopId": "3518"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.00144,
-          34.11862
         ]
       }
     },
@@ -14996,8 +14981,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9250799,
-          34.0611799
+          -117.92508,
+          34.06118
         ]
       }
     },
@@ -15011,8 +14996,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9169699,
-          34.0610999
+          -117.91697,
+          34.0611
         ]
       }
     },
@@ -17014,36 +16999,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Citrus College Foothill Blvd and Barranca Ave WB",
-        "tag": "00174",
-        "stopId": "174"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.88141,
-          34.1359099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Citrus College Park and Ride",
-        "tag": "00820",
-        "stopId": "820"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8814699,
-          34.1303799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Glendora Ave and Route 66 N",
         "tag": "01535",
         "stopId": "1535"
@@ -18101,8 +18056,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8826,
-          33.9249899
+          -117.8826017,
+          33.9249946
         ]
       }
     },
@@ -18176,8 +18131,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.83049,
-          33.9815699
+          -117.8304899,
+          33.98157
         ]
       }
     },
@@ -18191,8 +18146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.82713,
-          33.9848899
+          -117.8271299,
+          33.98489
         ]
       }
     },
@@ -18206,8 +18161,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.82455,
-          33.9867099
+          -117.8245499,
+          33.98671
         ]
       }
     },
@@ -18221,7 +18176,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8169899,
+          -117.81699,
           33.99211
         ]
       }
@@ -18341,8 +18296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.81037,
-          34.0288999
+          -117.8103699,
+          34.0289
         ]
       }
     },
@@ -18371,23 +18326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.79783,
-          34.0406999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Mission Blvd and Rancho Laguna Dr E",
-        "tag": "02018",
-        "stopId": "2018"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7967099,
-          34.04298
+          -117.79822,
+          34.0403499
         ]
       }
     },
@@ -18401,8 +18341,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.78501,
-          34.0529099
+          -117.7850099,
+          34.05291
         ]
       }
     },
@@ -18416,8 +18356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7754,
-          34.0541099
+          -117.7753999,
+          34.05411
         ]
       }
     },
@@ -18431,8 +18371,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.77308,
-          34.0543599
+          -117.7730799,
+          34.05436
         ]
       }
     },
@@ -18446,8 +18386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.76785,
-          34.0545799
+          -117.7678499,
+          34.05458
         ]
       }
     },
@@ -18476,8 +18416,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7584999,
-          34.05484
+          -117.7585,
+          34.0548399
         ]
       }
     },
@@ -18507,7 +18447,7 @@
         "type": "Point",
         "coordinates": [
           -117.75004,
-          34.0556999
+          34.0557
         ]
       }
     },
@@ -18521,8 +18461,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7500799,
-          34.0570999
+          -117.75008,
+          34.0571
         ]
       }
     },
@@ -18881,8 +18821,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8343599,
-          33.97754
+          -117.83436,
+          33.9775399
         ]
       }
     },
@@ -18896,8 +18836,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8361199,
-          33.97585
+          -117.83612,
+          33.9758499
         ]
       }
     },
@@ -18911,8 +18851,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.83936,
-          33.9722399
+          -117.8393599,
+          33.97224
         ]
       }
     },
@@ -18956,8 +18896,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8830899,
-          33.91804
+          -117.88309,
+          33.9180399
         ]
       }
     },
@@ -19122,7 +19062,7 @@
         "type": "Point",
         "coordinates": [
           -117.83744,
-          34.0304899
+          34.03049
         ]
       }
     },
@@ -19136,8 +19076,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8397999,
-          34.0358899
+          -117.8398,
+          34.03589
         ]
       }
     },
@@ -19212,7 +19152,7 @@
         "type": "Point",
         "coordinates": [
           -117.8377,
-          34.0304499
+          34.03045
         ]
       }
     },
@@ -19226,7 +19166,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8421699,
+          -117.84217,
           34.0260699
         ]
       }
@@ -19256,8 +19196,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8497799,
-          34.02449
+          -117.84978,
+          34.0244899
         ]
       }
     },
@@ -19271,8 +19211,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8520099,
-          34.02405
+          -117.85201,
+          34.0240499
         ]
       }
     },
@@ -19301,8 +19241,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8663399,
-          34.02019
+          -117.86634,
+          34.0201899
         ]
       }
     },
@@ -19316,8 +19256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8707299,
-          34.01727
+          -117.87073,
+          34.0172699
         ]
       }
     },
@@ -19346,8 +19286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.88041,
-          34.0113999
+          -117.8804099,
+          34.0114
         ]
       }
     },
@@ -19661,8 +19601,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.74891,
-          34.0904599
+          -117.7489099,
+          34.09046
         ]
       }
     },
@@ -19856,8 +19796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.74874,
-          34.1053699
+          -117.7487399,
+          34.10537
         ]
       }
     },
@@ -19871,8 +19811,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.74874,
-          34.10292
+          -117.7487399,
+          34.1029199
         ]
       }
     },
@@ -19887,7 +19827,7 @@
         "type": "Point",
         "coordinates": [
           -117.74869,
-          34.09936
+          34.0993599
         ]
       }
     },
@@ -19931,8 +19871,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7517499,
-          34.08538
+          -117.75175,
+          34.0853799
         ]
       }
     },
@@ -19961,8 +19901,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7525,
-          34.07836
+          -117.7524999,
+          34.0783599
         ]
       }
     },
@@ -19976,8 +19916,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7523499,
-          34.0746199
+          -117.75235,
+          34.07462
         ]
       }
     },
@@ -19991,8 +19931,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.75227,
-          34.07213
+          -117.7522699,
+          34.0721299
         ]
       }
     },
@@ -21986,23 +21926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.82059,
-          34.0072599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Golden Springs Dr and Racquet Club N",
-        "tag": "01576",
-        "stopId": "1576"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8178599,
-          34.00877
+          -117.8205899,
+          34.00726
         ]
       }
     },
@@ -22031,8 +21956,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.81181,
-          34.0159899
+          -117.8118099,
+          34.01599
         ]
       }
     },
@@ -22249,6 +22174,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Golden Springs Dr and Racquet Club N",
+        "tag": "01576",
+        "stopId": "1576"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.81786,
+          34.0087699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Holt Ave and White Ave W",
         "tag": "01744",
         "stopId": "1744"
@@ -22384,51 +22324,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Golden Springs Dr and Sabana S",
-        "tag": "01585",
-        "stopId": "1585"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8117199,
-          34.01644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Golden Springs Dr and Golden Prados S",
-        "tag": "01565",
-        "stopId": "1565"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.81393,
-          34.0118999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Golden Springs Dr and Racquet Club S",
-        "tag": "01577",
-        "stopId": "1577"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.81838,
-          34.0086499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Golden Springs Dr and Grand Ave S",
         "tag": "01569",
         "stopId": "1569"
@@ -22466,8 +22361,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8448599,
-          33.99976
+          -117.84486,
+          33.9997599
         ]
       }
     },
@@ -22511,8 +22406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8584699,
-          33.99425
+          -117.85847,
+          33.9942499
         ]
       }
     },
@@ -22542,7 +22437,7 @@
         "type": "Point",
         "coordinates": [
           -117.8700942,
-          33.9867278
+          33.9867279
         ]
       }
     },
@@ -22594,6 +22489,51 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Golden Springs Dr and Sabana S",
+        "tag": "01585",
+        "stopId": "1585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8117199,
+          34.01644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Golden Springs Dr and Golden Prados S",
+        "tag": "01565",
+        "stopId": "1565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.81393,
+          34.0118999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Golden Springs Dr and Racquet Club S",
+        "tag": "01577",
+        "stopId": "1577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.81838,
+          34.0086499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Copley Dr and AQMD W",
         "tag": "01097",
         "stopId": "1097"
@@ -22601,7 +22541,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.83132,
+          -117.8313199,
           33.9993999
         ]
       }
@@ -22887,7 +22827,7 @@
         "type": "Point",
         "coordinates": [
           -117.96284,
-          34.0449799
+          34.04498
         ]
       }
     },
@@ -23164,7 +23104,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Amar Rd and Meadow Pass Rd W",
+        "title": "Amar Rd and Country Hollow Dr W",
         "tag": "02974",
         "stopId": "2974"
       },
@@ -23412,7 +23352,7 @@
         "type": "Point",
         "coordinates": [
           -117.96268,
-          34.0451499
+          34.04515
         ]
       }
     },
@@ -23426,8 +23366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9656099,
-          34.0473099
+          -117.96561,
+          34.04731
         ]
       }
     },
@@ -23441,8 +23381,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.96808,
-          34.04912
+          -117.9680799,
+          34.0491199
         ]
       }
     },
@@ -23471,8 +23411,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.97238,
-          34.05227
+          -117.9723799,
+          34.0522699
         ]
       }
     },
@@ -24087,7 +24027,7 @@
         "type": "Point",
         "coordinates": [
           -117.87247,
-          34.0996499
+          34.09965
         ]
       }
     },
@@ -24102,7 +24042,7 @@
         "type": "Point",
         "coordinates": [
           -117.87247,
-          34.1034299
+          34.10343
         ]
       }
     },
@@ -24417,7 +24357,7 @@
         "type": "Point",
         "coordinates": [
           -117.87269,
-          34.0990399
+          34.09904
         ]
       }
     },
@@ -24432,7 +24372,7 @@
         "type": "Point",
         "coordinates": [
           -117.8726999,
-          34.0952699
+          34.09527
         ]
       }
     },
@@ -25316,7 +25256,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8852399,
+          -117.88524,
           34.10667
         ]
       }
@@ -25706,8 +25646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7320499,
-          34.09618
+          -117.73205,
+          34.0961799
         ]
       }
     },
@@ -25721,8 +25661,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7270899,
-          34.09632
+          -117.72709,
+          34.0963199
         ]
       }
     },
@@ -26231,8 +26171,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8986099,
-          34.10688
+          -117.89861,
+          34.1068799
         ]
       }
     },
@@ -26749,21 +26689,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "1st St and Grand Ave E",
-        "tag": "00504",
-        "stopId": "504"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2484699,
-          34.0553499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "1st St and Hill E",
         "tag": "00507",
         "stopId": "507"
@@ -27064,21 +26989,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Grand Ave and 1st St W",
-        "tag": "01595",
-        "stopId": "1595"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.24858,
-          34.05552
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Industry City Hall Park and Ride",
         "tag": "01869",
         "stopId": "1869"
@@ -27103,6 +27013,21 @@
         "coordinates": [
           -117.73312,
           34.0112499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1st St and Grand Ave E",
+        "tag": "00504",
+        "stopId": "504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2484699,
+          34.0553499
         ]
       }
     },
@@ -27319,7 +27244,22 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Olympic Blvd and Flower St (temp stop Fig/11th)",
+        "title": "Figueroa St and 11 St E (Staples Center)",
+        "tag": "00047",
+        "stopId": "47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.26492,
+          34.0438599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Olympic Blvd and Flower St",
         "tag": "03624",
         "stopId": "3624"
       },
@@ -27371,23 +27311,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.25295,
-          34.0492599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Olive Ave and 1st St E",
-        "tag": "02093",
-        "stopId": "2093"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.24808,
-          34.0544499
+          -118.2529499,
+          34.04926
         ]
       }
     },
@@ -28575,7 +28500,907 @@
           34.0338699
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mountain Vista Plaza",
+        "tag": "03625",
+        "stopId": "3625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98344,
+          34.1382999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Buena Vista St and Huntington Dr",
+        "tag": "03626",
+        "stopId": "3626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.97746,
+          34.14081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal Oaks Dr and Buena Vista St",
+        "tag": "03627",
+        "stopId": "3627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9772299,
+          34.14321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal Oaks Dr and Cotter Ave",
+        "tag": "03628",
+        "stopId": "3628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9733899,
+          34.14323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal Oaks Dr and Highland Ave",
+        "tag": "03629",
+        "stopId": "3629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.96617,
+          34.1432999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal Oaks Dr and Bradbourne Ave",
+        "tag": "03630",
+        "stopId": "3630"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9597599,
+          34.14304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal Oaks Dr and Mount Olive Dr",
+        "tag": "03631",
+        "stopId": "3631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9558,
+          34.14332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vineyard Ave and Royal Oaks Dr",
+        "tag": "03632",
+        "stopId": "3632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.949,
+          34.14411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vineyard Ave and Conata St",
+        "tag": "03633",
+        "stopId": "3633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9490099,
+          34.1474799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vineyard Ave and Sunnydale Dr",
+        "tag": "03634",
+        "stopId": "3634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9490099,
+          34.15031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Las Lomas Rd and Markwood St",
+        "tag": "03635",
+        "stopId": "3635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9469799,
+          34.1493999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Las Lomas Rd and Gardi St",
+        "tag": "03636",
+        "stopId": "3636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9469699,
+          34.1447899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal Oaks Dr and Las Lomas Rd",
+        "tag": "03637",
+        "stopId": "3637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.94621,
+          34.1436299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal Oaks Dr and Greenbank Ave",
+        "tag": "03638",
+        "stopId": "3638"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9431599,
+          34.1449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Deerlane Dr and Fieldview Ave",
+        "tag": "03640",
+        "stopId": "3640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.94073,
+          34.14888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brookridge Rd and Opal Canyon Rd",
+        "tag": "03641",
+        "stopId": "3641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.93822,
+          34.1515699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mountaincrest Rd and Fish Canyon Rd",
+        "tag": "03642",
+        "stopId": "3642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9378999,
+          34.14736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mountaincrest Rd and Royal Oaks Dr",
+        "tag": "03643",
+        "stopId": "3643"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9378999,
+          34.14538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Encanto Pkwy and Encanto Park",
+        "tag": "03644",
+        "stopId": "3644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.93679,
+          34.1437499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Enanto Pkwy and Hacienda Dr",
+        "tag": "03645",
+        "stopId": "3645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9401699,
+          34.14027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Encanto Pkwy and Avila Gardens Residence",
+        "tag": "03646",
+        "stopId": "3646"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9429699,
+          34.1387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Huntington Dr and Pops Rd",
+        "tag": "03647",
+        "stopId": "3647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.96909,
+          34.13976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Buena Vista St and Royal Oaks Dr",
+        "tag": "03648",
+        "stopId": "3648"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9776299,
+          34.14279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Buena Vista St and Huntington Dr",
+        "tag": "03649",
+        "stopId": "3649"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.97761,
+          34.14076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Buena Vista St and Maynard Dr",
+        "tag": "03650",
+        "stopId": "3650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9776299,
+          34.13793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bloomdale St and Buena Vista St",
+        "tag": "03651",
+        "stopId": "3651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9769399,
+          34.1374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brycedale Ave and Huntington Dr",
+        "tag": "03652",
+        "stopId": "3652"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9743399,
+          34.13936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Huntington Dr and Duarte City Hall",
+        "tag": "03653",
+        "stopId": "3653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9702899,
+          34.13957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Huntington Dr and Pops Rd E",
+        "tag": "01806",
+        "stopId": "1806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.96886,
+          34.1395799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Highland Ave and Huntington Dr S",
+        "tag": "03655",
+        "stopId": "3655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9666899,
+          34.13922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Highland Ave and Business Center Pkwy S",
+        "tag": "03656",
+        "stopId": "3656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9667099,
+          34.1337099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Duarte Rd and Hope Dr W",
+        "tag": "03110",
+        "stopId": "3110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.97106,
+          34.1324099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Galen St and Delford Ave",
+        "tag": "03658",
+        "stopId": "3658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.97957,
+          34.1269199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Galen St and Newington St",
+        "tag": "03659",
+        "stopId": "3659"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9837499,
+          34.12636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beckville St and Mountain Ave",
+        "tag": "03660",
+        "stopId": "3660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98885,
+          34.12569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mountain Ave and Newington St",
+        "tag": "03661",
+        "stopId": "3661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9879499,
+          34.12874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mountain Ave and Hurstview St",
+        "tag": "03662",
+        "stopId": "3662"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9871899,
+          34.13067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mountain Ave and Walmart",
+        "tag": "03663",
+        "stopId": "3663"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98626,
+          34.13375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mountain Ave and Huntington Dr",
+        "tag": "03664",
+        "stopId": "3664"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98624,
+          34.13923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Best Buy Roadway",
+        "tag": "03654",
+        "stopId": "3654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9848799,
+          34.1370299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mountain Ave and Evergreen St",
+        "tag": "03657",
+        "stopId": "3657"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9864099,
+          34.1341599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mountain Ave and Hurstview St",
+        "tag": "03665",
+        "stopId": "3665"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9876099,
+          34.12999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mountain Ave and Euclid Ave",
+        "tag": "03666",
+        "stopId": "3666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98833,
+          34.1281299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beckville St and Mountain Ave",
+        "tag": "03667",
+        "stopId": "3667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9888799,
+          34.1255799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hurlock Ave and Broach Ave",
+        "tag": "03668",
+        "stopId": "3668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9828799,
+          34.12797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kellwill Way and Delford Ave",
+        "tag": "03669",
+        "stopId": "3669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.97957,
+          34.12864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kellwill Way and Buena Vista Ave",
+        "tag": "03670",
+        "stopId": "3670"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.97778,
+          34.1286499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Business Center Dr and Highland Ave",
+        "tag": "03671",
+        "stopId": "3671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.96698,
+          34.1343199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Duncannon Ave and Evergreen Ave",
+        "tag": "03672",
+        "stopId": "3672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.97262,
+          34.13528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Buena Vista Ave and Bloomdale St",
+        "tag": "03673",
+        "stopId": "3673"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.97748,
+          34.1373699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal Oaks Dr and Encanto Pkwy",
+        "tag": "03674",
+        "stopId": "3674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.93549,
+          34.1452899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal Oaks Dr and Mountaincrest Rd",
+        "tag": "03675",
+        "stopId": "3675"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.93772,
+          34.1453499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mountaincrest Rd and Fish Canyon Rd",
+        "tag": "03676",
+        "stopId": "3676"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.93779,
+          34.14705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mountaincrest Rd and Tannencrest Dr",
+        "tag": "03677",
+        "stopId": "3677"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.93747,
+          34.1496699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brookridge Rd and Opal Canyon Rd",
+        "tag": "03678",
+        "stopId": "3678"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.93884,
+          34.1515099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Deerlane Dr and Melcanyon Rd",
+        "tag": "03679",
+        "stopId": "3679"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9400599,
+          34.1489999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal Oaks Dr and Greenbank Ave",
+        "tag": "03681",
+        "stopId": "3681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9431799,
+          34.14503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal Oaks Dr and Park View Ct",
+        "tag": "03682",
+        "stopId": "3682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.94797,
+          34.1434699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Royal Oaks Dr and Mount Olive Dr",
+        "tag": "03683",
+        "stopId": "3683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.95613,
+          34.1434499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Highland Ave and 1st St",
+        "tag": "03684",
+        "stopId": "3684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.96668,
+          34.1420899
+        ]
+      }
     }
   ],
-  "copyright": "All data copyright Foothill Transit 2018."
+  "copyright": "All data copyright Foothill Transit 2019."
 }

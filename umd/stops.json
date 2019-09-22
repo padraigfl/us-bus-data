@@ -1,938 +1,15 @@
 {
   "data": {
-    "stcent": {
-      "lon": "-76.6228338",
-      "title": "State Center (Metro)",
-      "stopId": "39001",
-      "tag": "stcent",
-      "lat": "39.3017091"
-    },
-    "meysymp": {
-      "lon": "-76.6190986",
-      "title": "Meyerhoff Symphony Hall",
-      "stopId": "39004",
-      "tag": "meysymp",
-      "lat": "39.303462"
-    },
-    "marygar": {
-      "lon": "-76.6176602",
-      "title": "Maryland Avenue Garage(To Campus)",
-      "shortTitle": "Maryland Garage(To Campus)",
-      "stopId": "39005",
-      "tag": "marygar",
-      "lat": "39.3033375"
-    },
-    "charmary": {
-      "lon": "-76.6181275",
-      "title": "Chase St & Maryland Av",
-      "shortTitle": "Chase & Maryland",
-      "stopId": "39012",
-      "tag": "charmary",
-      "lat": "39.302314"
-    },
-    "fitzgar": {
-      "lon": "-76.619297",
-      "title": "Fitzgerald Garage",
-      "stopId": "39008",
-      "tag": "fitzgar",
-      "lat": "39.30785"
-    },
-    "langlib": {
-      "lon": "-76.6176374",
-      "title": "Robert L. Bogomolny Library",
-      "stopId": "39009",
-      "tag": "langlib",
-      "lat": "39.306237"
-    },
-    "acadcen": {
-      "lon": "-76.6169892",
-      "title": "Student Center",
-      "stopId": "39013",
-      "tag": "acadcen",
-      "lat": "39.3054029"
-    },
-    "charpres": {
-      "lon": "-76.6159296",
-      "title": "Preston St. and Charles St.",
-      "shortTitle": "Preston & Charles",
-      "stopId": "39014",
-      "tag": "charpres",
-      "lat": "39.3044976"
-    },
-    "anncath": {
-      "lon": "-76.6173261",
-      "title": "Preston St. and Maryland Ave.",
-      "shortTitle": "Preston & Maryland",
-      "stopId": "39015",
-      "tag": "anncath",
-      "lat": "39.3044466"
-    },
-    "peargara_d": {
-      "lon": "-76.6245549",
-      "title": "Pearl St Garage",
-      "shortTitle": "Pearl Garage",
-      "stopId": "47000",
-      "tag": "peargara_d",
-      "lat": "39.2907856"
-    },
-    "greefaye": {
-      "lon": "-76.6238161",
-      "title": "Green St & Fayette St",
-      "shortTitle": "Green & Fayette",
-      "stopId": "47004",
-      "tag": "greefaye",
-      "lat": "39.2906036"
-    },
-    "greebalt": {
-      "lon": "-76.6237402",
-      "title": "Green St & Baltimore St",
-      "shortTitle": "Green & Baltimore",
-      "stopId": "47005",
-      "tag": "greebalt",
-      "lat": "39.2893638"
-    },
-    "greelomb": {
-      "lon": "-76.6236502",
-      "title": "Greene St & Lombard St",
-      "shortTitle": "Greene & Lombard",
-      "stopId": "47006",
-      "tag": "greelomb",
-      "lat": "39.2878134"
-    },
-    "greeprat": {
-      "lon": "-76.6235606",
-      "title": "Green St & Pratt St",
-      "shortTitle": "Green & Pratt",
-      "stopId": "47011",
-      "tag": "greeprat",
-      "lat": "39.2858834"
-    },
-    "washemor": {
-      "lon": "-76.6243629",
-      "title": "Washington Blvd & Emory St",
-      "shortTitle": "Washington & Emory",
-      "stopId": "47012",
-      "tag": "washemor",
-      "lat": "39.2845546"
-    },
-    "washbarr": {
-      "lon": "-76.6271531",
-      "title": "Washington Blvd & Barre St",
-      "shortTitle": "Washington & Barre",
-      "stopId": "47014",
-      "tag": "washbarr",
-      "lat": "39.2831817"
-    },
-    "washscot": {
-      "lon": "-76.6286709",
-      "title": "Washington Blvd & Scott St",
-      "shortTitle": "Washington & Scott",
-      "stopId": "47015",
-      "tag": "washscot",
-      "lat": "39.28301"
-    },
-    "ramsapts": {
-      "lon": "-76.62881",
-      "title": "Ramsay St Apartments",
-      "shortTitle": "Ramsay Apartments",
-      "stopId": "47022",
-      "tag": "ramsapts",
-      "lat": "39.2837202"
-    },
-    "scotroun": {
-      "lon": "-76.628899",
-      "title": "Scott St & Roundhouse Ct",
-      "shortTitle": "Scott & Roundhouse Ct",
-      "stopId": "47023",
-      "tag": "scotroun",
-      "lat": "39.2852842"
-    },
-    "scotlemm": {
-      "lon": "-76.6289693",
-      "title": "Scott St & Lemmon St",
-      "shortTitle": "Scott & Lemmon",
-      "stopId": "47024",
-      "tag": "scotlemm",
-      "lat": "39.2865555"
-    },
-    "lombpark": {
-      "lon": "-76.6304041",
-      "title": "Lombard St & Parkin St",
-      "shortTitle": "Lombard & Parkin",
-      "stopId": "47025",
-      "tag": "lombpark",
-      "lat": "39.2869202"
-    },
-    "popplomb": {
-      "lon": "-76.63202",
-      "title": "Poppleton St & Lombard St",
-      "shortTitle": "Poppleton & Lombard",
-      "stopId": "47026",
-      "tag": "popplomb",
-      "lat": "39.28729"
-    },
-    "poppboot": {
-      "lon": "-76.6320545",
-      "title": "Poppleton St & Booth St",
-      "shortTitle": "Poppleton & Booth",
-      "stopId": "47027",
-      "tag": "poppboot",
-      "lat": "39.2887338"
-    },
-    "biopark": {
-      "lon": "-76.6295243",
-      "title": "BioPark",
-      "stopId": "47089",
-      "tag": "biopark",
-      "lat": "39.2888703"
-    },
-    "baltfrem": {
-      "lon": "-76.62859",
-      "title": "Baltimore St & Martin Luther King Jr Blvd",
-      "shortTitle": "Baltimore & Martin Luther King Jr",
-      "stopId": "47028",
-      "tag": "baltfrem",
-      "lat": "39.28893"
-    },
-    "baltpine": {
-      "lon": "-76.6265298",
-      "title": "Baltimore & Pine St",
-      "shortTitle": "Baltimore & Pine",
-      "stopId": "47029",
-      "tag": "baltpine",
-      "lat": "39.28902"
-    },
-    "umbtrans": {
-      "lon": "-76.6242882",
-      "title": "UMB Transit Center",
-      "stopId": "47030",
-      "tag": "umbtrans",
-      "lat": "39.28912"
-    },
-    "pacafaye": {
-      "lon": "-76.6223157",
-      "title": "Paca St & Fayette St",
-      "shortTitle": "Paca & Fayette",
-      "stopId": "47035",
-      "tag": "pacafaye",
-      "lat": "39.2905826"
-    },
-    "pacasara": {
-      "lon": "-76.6224692",
-      "title": "Paca St & Saratoga St",
-      "shortTitle": "Paca & Saratoga",
-      "stopId": "47036",
-      "tag": "pacasara",
-      "lat": "39.292951"
-    },
-    "pennstmr": {
-      "lon": "-76.6249557",
-      "title": "Pennsylvania Ave & St Mary St",
-      "shortTitle": "Pennsylvania & Mary",
-      "stopId": "47112",
-      "tag": "pennstmr",
-      "lat": "39.2957178"
-    },
-    "ummccamp": {
-      "lon": "-76.620848",
-      "title": "UMMC: Midtown Campus",
-      "stopId": "47113",
-      "tag": "ummccamp",
-      "lat": "39.2995236"
-    },
-    "eutadrui": {
-      "lon": "-76.6214416",
-      "title": "Eutaw St & Druid Hill Ave",
-      "shortTitle": "Eutaw & Druid Hill",
-      "stopId": "47115",
-      "tag": "eutadrui",
-      "lat": "39.2969422"
-    },
-    "eutafran": {
-      "lon": "-76.6213496",
-      "title": "Eutaw St & Franklin St",
-      "shortTitle": "Eutaw & Franklin",
-      "stopId": "47031",
-      "tag": "eutafran",
-      "lat": "39.2954642"
-    },
-    "eutamulb": {
-      "lon": "-76.6212903",
-      "title": "Eutaw St & Mulberry St",
-      "shortTitle": "Eutaw & Mulberry",
-      "stopId": "47032",
-      "tag": "eutamulb",
-      "lat": "39.2940418"
-    },
-    "eutasara": {
-      "lon": "-76.621231",
-      "title": "Eutaw St & Saratoga St",
-      "shortTitle": "Eutaw & Saratoga",
-      "stopId": "47033",
-      "tag": "eutasara",
-      "lat": "39.2930023"
-    },
-    "lexmmetr": {
-      "lon": "-76.6210983",
-      "title": "Lexington Market",
-      "stopId": "47034",
-      "tag": "lexmmetr",
-      "lat": "39.2912536"
-    },
-    "fayepaca": {
-      "lon": "-76.6220613",
-      "title": "Fayette St & Paca St",
-      "shortTitle": "Fayette & Paca",
-      "stopId": "47062",
-      "tag": "fayepaca",
-      "lat": "39.2903802"
-    },
-    "baltpaca": {
-      "lon": "-76.6225509",
-      "title": "Baltimore St & Paca St",
-      "shortTitle": "Baltimore & Paca",
-      "stopId": "47038",
-      "tag": "baltpaca",
-      "lat": "39.2891899"
-    },
-    "balteuta": {
-      "lon": "-76.6205898",
-      "title": "Baltimore St & Eutaw St",
-      "shortTitle": "Baltimore & Eutaw",
-      "stopId": "47116",
-      "tag": "balteuta",
-      "lat": "39.289276"
-    },
-    "balthopk": {
-      "lon": "-76.6183291",
-      "title": "Baltimore St & Hopkins Pl",
-      "shortTitle": "Baltimore & Hopkins Pl",
-      "stopId": "47039",
-      "tag": "balthopk",
-      "lat": "39.2893089"
-    },
-    "charcent": {
-      "lon": "-76.61508",
-      "title": "Charles Center Metro",
-      "stopId": "47040",
-      "tag": "charcent",
-      "lat": "39.2897761"
-    },
-    "charsara": {
-      "lon": "-76.615243",
-      "title": "Charles St & Saratoga St",
-      "shortTitle": "Charles & Saratoga",
-      "stopId": "47041",
-      "tag": "charsara",
-      "lat": "39.2921701"
-    },
-    "charhami": {
-      "lon": "-76.615487",
-      "title": "Charles St & Hamilton St",
-      "shortTitle": "Charles & Hamilton",
-      "stopId": "47054",
-      "tag": "charhami",
-      "lat": "39.2955011"
-    },
-    "charvern": {
-      "lon": "-76.6153277",
-      "title": "Charles St and Mt Vernon Pl",
-      "shortTitle": "Charles & Mt Vernon Pl",
-      "stopId": "47042",
-      "tag": "charvern",
-      "lat": "39.2976365"
-    },
-    "charread": {
-      "lon": "-76.61575",
-      "title": "Charles St and Read St",
-      "shortTitle": "Charles & Read",
-      "stopId": "47043",
-      "tag": "charread",
-      "lat": "39.2994611"
-    },
-    "chareage": {
-      "lon": "-76.61584",
-      "title": "Charles St and Eager St",
-      "shortTitle": "Charles & Eager",
-      "stopId": "47044",
-      "tag": "chareage",
-      "lat": "39.3008213"
-    },
-    "charchas": {
-      "lon": "-76.6159385",
-      "title": "Charles St and Chase St",
-      "shortTitle": "Charles & Chase",
-      "stopId": "47045",
-      "tag": "charchas",
-      "lat": "39.3022109"
-    },
-    "charbidd": {
-      "lon": "-76.6160107",
-      "title": "Charles St and Biddle St",
-      "shortTitle": "Charles & Biddle",
-      "stopId": "47046",
-      "tag": "charbidd",
-      "lat": "39.3033104"
-    },
-    "charpenn": {
-      "lon": "-76.6162718",
-      "title": "Charles St & Penn Station",
-      "shortTitle": "Charles & Penn Station",
-      "stopId": "47055",
-      "tag": "charpenn",
-      "lat": "39.3075428"
-    },
-    "paulpenn": {
-      "lon": "-76.614732",
-      "title": "St Paul St & Penn Station",
-      "shortTitle": "St Paul & Penn Station",
-      "stopId": "47056",
-      "tag": "paulpenn",
-      "lat": "39.306938"
-    },
-    "paulpres": {
-      "lon": "-76.614551",
-      "title": "St Paul and Preston St",
-      "shortTitle": "St Paul & Preston",
-      "stopId": "47049",
-      "tag": "paulpres",
-      "lat": "39.3042325"
-    },
-    "paulbidd": {
-      "lon": "-76.6144795",
-      "title": "St Paul and Biddle St",
-      "shortTitle": "St Paul & Biddle",
-      "stopId": "47050",
-      "tag": "paulbidd",
-      "lat": "39.3031046"
-    },
-    "paulchas": {
-      "lon": "-76.6143794",
-      "title": "St Paul and Chase St",
-      "shortTitle": "St Paul & Chase",
-      "stopId": "47051",
-      "tag": "paulchas",
-      "lat": "39.301753"
-    },
-    "paulread": {
-      "lon": "-76.6142601",
-      "title": "St Paul and Read St",
-      "shortTitle": "St Paul & Read",
-      "stopId": "47052",
-      "tag": "paulread",
-      "lat": "39.2999427"
-    },
-    "paulmadi": {
-      "lon": "-76.6141909",
-      "title": "St Paul St and Madison St",
-      "shortTitle": "St Paul & Madison",
-      "stopId": "47053",
-      "tag": "paulmadi",
-      "lat": "39.2988525"
-    },
-    "paulcent": {
-      "lon": "-76.614023",
-      "title": "St Paul St & Centre St",
-      "shortTitle": "St Paul & Centre",
-      "stopId": "47063",
-      "tag": "paulcent",
-      "lat": "39.2967031"
-    },
-    "paulmulb": {
-      "lon": "-76.6142719",
-      "title": "St Paul & Mulberry St",
-      "shortTitle": "St Paul & Mulberry",
-      "stopId": "47057",
-      "tag": "paulmulb",
-      "lat": "39.294306"
-    },
-    "paullexi": {
-      "lon": "-76.614017",
-      "title": "St Paul & Lexington St",
-      "shortTitle": "St Paul & Lexington",
-      "stopId": "47059",
-      "tag": "paullexi",
-      "lat": "39.2912234"
-    },
-    "fayeplaz": {
-      "lon": "-76.6162306",
-      "title": "Fayette St Plaza",
-      "shortTitle": "Fayette Plaza",
-      "stopId": "47060",
-      "tag": "fayeplaz",
-      "lat": "39.290347"
-    },
-    "fayehowa": {
-      "lon": "-76.6192767",
-      "title": "Fayette St & Howard St",
-      "shortTitle": "Fayette & Howard",
-      "stopId": "47061",
-      "tag": "fayehowa",
-      "lat": "39.2905268"
-    },
-    "mlkbalt": {
-      "lon": "-76.6281499",
-      "title": "Martin Luther King Jr Blvd & Baltimore St",
-      "shortTitle": "Martin Luther King Jr & Baltimore",
-      "stopId": "47064",
-      "tag": "mlkbalt",
-      "lat": "39.2887912"
-    },
-    "pratpenn": {
-      "lon": "-76.6255869",
-      "title": "Pratt St & Penn St",
-      "shortTitle": "Pratt & Penn",
-      "stopId": "47009",
-      "tag": "pratpenn",
-      "lat": "39.28607"
-    },
-    "pratgree": {
-      "lon": "-76.6238817",
-      "title": "Pratt St & Green St",
-      "shortTitle": "Pratt & Green",
-      "stopId": "47010",
-      "tag": "pratgree",
-      "lat": "39.2861103"
-    },
-    "prathowa": {
-      "lon": "-76.6194926",
-      "title": "Pratt St & Howard St",
-      "shortTitle": "Pratt & Howard",
-      "stopId": "47065",
-      "tag": "prathowa",
-      "lat": "39.2862103"
-    },
-    "pratshar": {
-      "lon": "-76.6173584",
-      "title": "Pratt St & Sharp St",
-      "shortTitle": "Pratt & Sharp",
-      "stopId": "47089",
-      "tag": "pratshar",
-      "lat": "39.2863099"
-    },
-    "pratligh": {
-      "lon": "-76.6141229",
-      "title": "Pratt St & Light St",
-      "shortTitle": "Pratt & Light",
-      "stopId": "47090",
-      "tag": "pratligh",
-      "lat": "39.2865153"
-    },
-    "lightcon": {
-      "lon": "-76.6133083",
-      "title": "Light St & Conway St",
-      "shortTitle": "Light & Conway",
-      "stopId": "47091",
-      "tag": "lightcon",
-      "lat": "39.2837048"
-    },
-    "lightlee": {
-      "lon": "-76.6131541",
-      "title": "Light St & Lee St",
-      "shortTitle": "Light & Lee",
-      "stopId": "47092",
-      "tag": "lightlee",
-      "lat": "39.2819927"
-    },
-    "lightmon": {
-      "lon": "-76.6127727",
-      "title": "Light St & Montgomery St",
-      "shortTitle": "Light & Montgomery",
-      "stopId": "47093",
-      "tag": "lightmon",
-      "lat": "39.2802116"
-    },
-    "lighthen": {
-      "lon": "-76.6126964",
-      "title": "Light St & Henrietta St",
-      "shortTitle": "Light & Henrietta",
-      "stopId": "47094",
-      "tag": "lighthen",
-      "lat": "39.2792919"
-    },
-    "lightcro": {
-      "lon": "-76.6124475",
-      "title": "Light St & Cross St",
-      "shortTitle": "Light & Cross",
-      "stopId": "47095",
-      "tag": "lightcro",
-      "lat": "39.2773539"
-    },
-    "lightwes": {
-      "lon": "-76.612207",
-      "title": "Light St & West St",
-      "shortTitle": "Light & West",
-      "stopId": "47096",
-      "tag": "lightwes",
-      "lat": "39.2757218"
-    },
-    "lightost": {
-      "lon": "-76.6120535",
-      "title": "Light St & Ostend St",
-      "shortTitle": "Light & Ostend",
-      "stopId": "47097",
-      "tag": "lightost",
-      "lat": "39.2745604"
-    },
-    "fortligh": {
-      "lon": "-76.6119228",
-      "title": "Light St & Fort Ave",
-      "shortTitle": "Light & Fort",
-      "stopId": "47075",
-      "tag": "fortligh",
-      "lat": "39.2727731"
-    },
-    "fortchar": {
-      "lon": "-76.6137297",
-      "title": "Fort Ave & Charles St",
-      "shortTitle": "Fort & Charles",
-      "stopId": "47098",
-      "tag": "fortchar",
-      "lat": "39.2727096"
-    },
-    "charoste": {
-      "lon": "-76.6141639",
-      "title": "Charles St & Ostend St",
-      "shortTitle": "Charles & Ostend",
-      "stopId": "47099",
-      "tag": "charoste",
-      "lat": "39.2743985"
-    },
-    "charwest": {
-      "lon": "-76.6142309",
-      "title": "Charles St & West St",
-      "shortTitle": "Charles & West",
-      "stopId": "47100",
-      "tag": "charwest",
-      "lat": "39.2755392"
-    },
-    "charcros": {
-      "lon": "-76.6143033",
-      "title": "Charles St & Cross St",
-      "shortTitle": "Charles & Cross",
-      "stopId": "47101",
-      "tag": "charcros",
-      "lat": "39.2766487"
-    },
-    "charhenr": {
-      "lon": "-76.6144337",
-      "title": "Charles St & Henrietta St",
-      "shortTitle": "Charles & Henrietta",
-      "stopId": "47102",
-      "tag": "charhenr",
-      "lat": "39.2787792"
-    },
-    "charlee": {
-      "lon": "-76.6146352",
-      "title": "Charles St & Lee St",
-      "shortTitle": "Charles & Lee",
-      "stopId": "47103",
-      "tag": "charlee",
-      "lat": "39.2816895"
-    },
-    "charlcon": {
-      "lon": "-76.6145997",
-      "title": "Charles St & Conway St",
-      "shortTitle": "Charles & Conway",
-      "stopId": "47082",
-      "tag": "charlcon",
-      "lat": "39.2839958"
-    },
-    "charlcam": {
-      "lon": "-76.6147196",
-      "title": "Charles St & Pratt St",
-      "shortTitle": "Charles & Pratt",
-      "stopId": "47083",
-      "tag": "charlcam",
-      "lat": "39.2852959"
-    },
-    "lombchar": {
-      "lon": "-76.6156787",
-      "title": "Lombard St & Charles St",
-      "shortTitle": "Lombard & Charles",
-      "stopId": "47084",
-      "tag": "lombchar",
-      "lat": "39.2877502"
-    },
-    "lombhopk": {
-      "lon": "-76.6172374",
-      "title": "Lombard St & Hopkins Pl",
-      "shortTitle": "Lombard & Hopkins Pl",
-      "stopId": "47085",
-      "tag": "lombhopk",
-      "lat": "39.2877"
-    },
-    "lombhowa": {
-      "lon": "-76.6188174",
-      "title": "Lombard St & Howard St",
-      "shortTitle": "Lombard & Howard",
-      "stopId": "47086",
-      "tag": "lombhowa",
-      "lat": "39.2876409"
-    },
-    "lombeuta": {
-      "lon": "-76.6212782",
-      "title": "Lombard St & Eutaw St",
-      "shortTitle": "Lombard & Eutaw",
-      "stopId": "47087",
-      "tag": "lombeuta",
-      "lat": "39.2875332"
-    },
-    "lombgree": {
-      "lon": "-76.6232024",
-      "title": "Lombard St & Green St",
-      "shortTitle": "Lombard & Green",
-      "stopId": "47088",
-      "tag": "lombgree",
-      "lat": "39.287457"
-    },
-    "lombmlk": {
-      "lon": "-76.6274602",
-      "title": "Lombard St & Martin Luther King Jr Blvd",
-      "shortTitle": "Lombard & Martin Luther King Jr",
-      "stopId": "47008",
-      "tag": "lombmlk",
-      "lat": "39.2872977"
-    },
-    "utrans": {
-      "lon": "-76.6242893",
-      "title": "UMB Transit Center",
-      "stopId": "47030",
-      "tag": "utrans",
-      "lat": "39.28912"
-    },
-    "baltchar": {
-      "lon": "-76.6155374",
-      "title": "Baltimore St & Charles St",
-      "shortTitle": "Baltimore & Charles",
-      "stopId": "48009",
-      "tag": "baltchar",
-      "lat": "39.289445"
-    },
-    "baltsout": {
-      "lon": "-76.6115772",
-      "title": "Baltimore St & South St",
-      "shortTitle": "Baltimore & South",
-      "stopId": "48010",
-      "tag": "baltsout",
-      "lat": "39.2896642"
-    },
-    "baltfred": {
-      "lon": "-76.6087141",
-      "title": "Baltimore St & Frederick St",
-      "shortTitle": "Baltimore & Frederick",
-      "stopId": "48011",
-      "tag": "baltfred",
-      "lat": "39.2897715"
-    },
-    "baltpres": {
-      "lon": "-76.6055346",
-      "title": "Baltimore St & President St",
-      "shortTitle": "Baltimore & President",
-      "stopId": "48012",
-      "tag": "baltpres",
-      "lat": "39.2899958"
-    },
-    "baltexet": {
-      "lon": "-76.603515",
-      "title": "Baltimore St & Exeter St",
-      "shortTitle": "Baltimore & Exeter",
-      "stopId": "48013",
-      "tag": "baltexet",
-      "lat": "39.2903675"
-    },
-    "baltlloy": {
-      "lon": "-76.6011101",
-      "title": "Baltimore St & Lloyd St",
-      "shortTitle": "Baltimore & Lloyd",
-      "stopId": "48014",
-      "tag": "baltlloy",
-      "lat": "39.2909846"
-    },
-    "broalomb": {
-      "lon": "-76.5938908",
-      "title": "Broadway & Lombard St",
-      "shortTitle": "Broadway & Lombard",
-      "stopId": "48015",
-      "tag": "broalomb",
-      "lat": "39.2902974"
-    },
-    "broagoug": {
-      "lon": "-76.5937327",
-      "title": "Broadway & Gough St (Outbound)",
-      "shortTitle": "Broadway & Gough (Outbound)",
-      "stopId": "48016",
-      "tag": "broagoug",
-      "lat": "39.2877104"
-    },
-    "eastwolf": {
-      "lon": "-76.5904616",
-      "title": "Eastern Ave & Wolfe St (Outbound)",
-      "shortTitle": "Eastern & Wolfe (Outbound)",
-      "stopId": "48017",
-      "tag": "eastwolf",
-      "lat": "39.2857177"
-    },
-    "eastwash": {
-      "lon": "-76.5891411",
-      "title": "Eastern Ave & Washington St",
-      "shortTitle": "Eastern & Washington",
-      "stopId": "48018",
-      "tag": "eastwash",
-      "lat": "39.285773"
-    },
-    "eastmilt": {
-      "lon": "-76.5818639",
-      "title": "Eastern Ave & Milton Ave",
-      "shortTitle": "Eastern & Milton",
-      "stopId": "48019",
-      "tag": "eastmilt",
-      "lat": "39.2860229"
-    },
-    "eastlake": {
-      "lon": "-76.5789169",
-      "title": "Eastern Ave & Lakewood Ave",
-      "shortTitle": "Eastern & Lakewood",
-      "stopId": "48020",
-      "tag": "eastlake",
-      "lat": "39.2861368"
-    },
-    "eastellw": {
-      "lon": "-76.5732904",
-      "title": "Eastern Ave & Ellwood Ave",
-      "shortTitle": "Eastern & Ellwood",
-      "stopId": "48021",
-      "tag": "eastellw",
-      "lat": "39.2863601"
-    },
-    "eastfait": {
-      "lon": "-76.5713796",
-      "title": "East Ave & Fait Ave",
-      "shortTitle": "East & Fait",
-      "stopId": "48022",
-      "tag": "eastfait",
-      "lat": "39.2835957"
-    },
-    "eastodon": {
-      "lon": "-76.5711916",
-      "title": "East Ave & O'Donnell St",
-      "shortTitle": "East & O'Donnell",
-      "stopId": "48023",
-      "tag": "eastodon",
-      "lat": "39.2806543"
-    },
-    "bostellw": {
-      "lon": "-76.5720309",
-      "title": "Boston St & Ellwood Ave",
-      "shortTitle": "Boston & Ellwood",
-      "stopId": "48024",
-      "tag": "bostellw",
-      "lat": "39.2775588"
-    },
-    "bostkenw": {
-      "lon": "-76.5763548",
-      "title": "Boston St & Kenwood Ave",
-      "shortTitle": "Boston & Kenwood",
-      "stopId": "48025",
-      "tag": "bostkenw",
-      "lat": "39.2785257"
-    },
-    "bostcomp": {
-      "lon": "-76.5804715",
-      "title": "Boston St at The Can Company Shopping Center",
-      "shortTitle": "Boston @ The Can Company Shopping Center",
-      "stopId": "48026",
-      "tag": "bostcomp",
-      "lat": "39.2807324"
-    },
-    "eastches": {
-      "lon": "-76.5874086",
-      "title": "Eastern Ave & Chester St",
-      "shortTitle": "Eastern & Chester",
-      "stopId": "48027",
-      "tag": "eastches",
-      "lat": "39.285839"
-    },
-    "eastwolf_ib": {
-      "lon": "-76.5897164",
-      "title": "Eastern Ave & Wolfe St (Inbound)",
-      "shortTitle": "Eastern & Wolfe (Inbound)",
-      "stopId": "48028",
-      "tag": "eastwolf_ib",
-      "lat": "39.2857801"
-    },
-    "eastbroa": {
-      "lon": "-76.5930536",
-      "title": "Eastern Ave & Broadway",
-      "shortTitle": "Eastern & Broadway",
-      "stopId": "48029",
-      "tag": "eastbroa",
-      "lat": "39.2856173"
-    },
-    "broagoug_ib": {
-      "lon": "-76.5934864",
-      "title": "Broadway & Gough St (Inbound)",
-      "shortTitle": "Broadway & Gough (Inbound)",
-      "stopId": "48030",
-      "tag": "broagoug_ib",
-      "lat": "39.2873238"
-    },
-    "lombcent": {
-      "lon": "-76.5991104",
-      "title": "Lombard St & Central Ave",
-      "shortTitle": "Lombard & Central",
-      "stopId": "48031",
-      "tag": "lombcent",
-      "lat": "39.290228"
-    },
-    "lombalbe": {
-      "lon": "-76.6036025",
-      "title": "Lombard St & Albemarle St",
-      "shortTitle": "Lombard & Albemarle",
-      "stopId": "48032",
-      "tag": "lombalbe",
-      "lat": "39.2888062"
-    },
-    "lombmark": {
-      "lon": "-76.6074336",
-      "title": "Lombard St & Market Place",
-      "shortTitle": "Lombard & Market Place",
-      "stopId": "48033",
-      "tag": "lombmark",
-      "lat": "39.2878913"
-    },
-    "lombcomm": {
-      "lon": "-76.6096469",
-      "title": "Lombard St & Commence St",
-      "shortTitle": "Lombard & Commence",
-      "stopId": "48034",
-      "tag": "lombcomm",
-      "lat": "39.2877532"
-    },
-    "lombcalv": {
-      "lon": "-76.6116617",
-      "title": "Lombard St & Calvert St",
-      "shortTitle": "Lombard & Calvert",
-      "stopId": "48035",
-      "tag": "lombcalv",
-      "lat": "39.2878404"
-    },
-    "lombligh": {
-      "lon": "-76.6132361",
-      "title": "Lombard St & Light St",
-      "shortTitle": "Lombard & Light",
-      "stopId": "48036",
-      "tag": "lombligh",
-      "lat": "39.2878014"
-    },
     "regdrgar_d": {
-      "lon": "-76.940772",
+      "routes": {},
+      "lon": "-76.9407719",
       "title": "Regents Drive Garage",
       "stopId": "10003",
       "tag": "regdrgar_d",
-      "lat": "38.989521"
+      "lat": "38.9895211"
     },
     "campmath": {
+      "routes": {},
       "lon": "-76.9386053",
       "title": "Campus Dr at Math Slip",
       "shortTitle": "Campus Dr @ Math Slip",
@@ -941,6 +18,7 @@
       "lat": "38.9878609"
     },
     "paingree": {
+      "routes": {},
       "lon": "-76.934037",
       "title": "Campus Drive and Diamondback Drive",
       "shortTitle": "Campus Drive & Diamondback Drive",
@@ -949,30 +27,34 @@
       "lat": "38.9879877"
     },
     "painrhod": {
-      "lon": "-76.9313263",
+      "routes": {},
+      "lon": "-76.9313264",
       "title": "Campus Drive and Rhode Island Avenue (Outbound)",
       "shortTitle": "Campus Drive & Rhode Island (Outbound)",
       "stopId": "34991",
       "tag": "painrhod",
-      "lat": "38.9836054"
+      "lat": "38.9836051"
     },
     "cpmetro_d": {
-      "lon": "-76.9275778",
+      "routes": {},
+      "lon": "-76.9279988",
       "title": "College Park - UMD Metro Station",
       "stopId": "36469",
       "tag": "cpmetro_d",
-      "lat": "38.9781498"
+      "lat": "38.9755375"
     },
     "pain50th": {
-      "lon": "-76.9266479",
+      "routes": {},
+      "lon": "-76.9266478",
       "title": "Campus Drive and 50th Avenue",
       "shortTitle": "Campus Drive & 50th",
       "stopId": "30528",
       "tag": "pain50th",
-      "lat": "38.978934"
+      "lat": "38.9789339"
     },
     "painrhod_in": {
-      "lon": "-76.9309582",
+      "routes": {},
+      "lon": "-76.930958",
       "title": "Campus Drive and Rhode Island Avenue (Inbound)",
       "shortTitle": "Campus Drive & Rhode Island (Inbound)",
       "stopId": "30585",
@@ -980,13 +62,15 @@
       "lat": "38.9835717"
     },
     "painglen": {
+      "routes": {},
       "lon": "-76.9372499",
       "title": "Glenn L. Martin Wind Tunnel",
       "stopId": "30500",
       "tag": "painglen",
-      "lat": "38.9899499"
+      "lat": "38.9899498"
     },
     "stamsu_d": {
+      "routes": {},
       "lon": "-76.9439449",
       "title": "Stamp Student Union - Slip",
       "stopId": "10001",
@@ -994,6 +78,7 @@
       "lat": "38.9876099"
     },
     "artsoci": {
+      "routes": {},
       "lon": "-76.94677",
       "title": "Art/Sociology Building",
       "stopId": "27719",
@@ -1001,6 +86,7 @@
       "lat": "38.98529"
     },
     "wico": {
+      "routes": {},
       "lon": "-76.94516",
       "title": "Wicomico Hall",
       "stopId": "30089",
@@ -1008,6 +94,7 @@
       "lat": "38.98375"
     },
     "lotu4": {
+      "routes": {},
       "lon": "-76.944884",
       "title": "Preinkert Drive at Lot MV",
       "shortTitle": "Preinkert Drive @ Lot MV",
@@ -1016,6 +103,7 @@
       "lat": "38.9821893"
     },
     "guilrowa": {
+      "routes": {},
       "lon": "-76.939469",
       "title": "Guilford Drive and Rowalt Drive (Outbound)",
       "shortTitle": "Guilford Drive & Rowalt Drive (Outbound)",
@@ -1024,6 +112,7 @@
       "lat": "38.978183"
     },
     "hartshop": {
+      "routes": {},
       "lon": "-76.93783",
       "title": "Baltimore Avenue and Hartwick Road (Inbound)",
       "shortTitle": "Baltimore & Hartwick (Inbound)",
@@ -1032,6 +121,7 @@
       "lat": "38.97944"
     },
     "mont_in": {
+      "routes": {},
       "lon": "-76.9391275",
       "title": "Montgomery Hall (Inbound)",
       "stopId": "30473",
@@ -1039,6 +129,7 @@
       "lat": "38.9824955"
     },
     "memo_in": {
+      "routes": {},
       "lon": "-76.94007",
       "title": "Memorial Chapel (Inbound)",
       "stopId": "30027",
@@ -1046,6 +137,7 @@
       "lat": "38.9845403"
     },
     "mitc_in": {
+      "routes": {},
       "lon": "-76.9401199",
       "title": "Mitchell Building (Inbound)",
       "stopId": "30494",
@@ -1053,6 +145,7 @@
       "lat": "38.9863659"
     },
     "regestad": {
+      "routes": {},
       "lon": "-76.9406498",
       "title": "Regents Dr and Stadium Dr",
       "shortTitle": "Regents Dr & Stadium Dr",
@@ -1061,6 +154,7 @@
       "lat": "38.990012"
     },
     "regefarm_out": {
+      "routes": {},
       "lon": "-76.9406599",
       "title": "Regents Dr and Farm Dr (Outbound)",
       "shortTitle": "Regents Dr & Farm Dr (Outbound)",
@@ -1069,6 +163,7 @@
       "lat": "38.9912621"
     },
     "regecomc_out": {
+      "routes": {},
       "lon": "-76.9399271",
       "title": "Regents Drive at XFINITY Center (Outbound)",
       "shortTitle": "Regents Drive @ XFINITY Center (Outbound)",
@@ -1077,6 +172,7 @@
       "lat": "38.9934725"
     },
     "regepain_out": {
+      "routes": {},
       "lon": "-76.9374809",
       "title": "Regents Dr and Paint Branch Dr (Outbound)",
       "shortTitle": "Regents Dr & Paint Branch Dr (Outbound)",
@@ -1085,6 +181,7 @@
       "lat": "38.9936299"
     },
     "shutbase_out": {
+      "routes": {},
       "lon": "-76.9374989",
       "title": "Shuttle-UM Base (Outbound)",
       "stopId": "37150",
@@ -1092,6 +189,7 @@
       "lat": "38.9953477"
     },
     "lot4_out": {
+      "routes": {},
       "lon": "-76.940414",
       "title": "Paint Branch Dr at Lot 4b (Outbound)",
       "shortTitle": "Paint Branch Dr @ Lot 4b (Outbound)",
@@ -1100,6 +198,7 @@
       "lat": "38.997895"
     },
     "metzgree": {
+      "routes": {},
       "lon": "-76.9444714",
       "title": "Metzerott Rd and Greenmead Dr",
       "shortTitle": "Metzerott & Greenmead Dr",
@@ -1108,6 +207,7 @@
       "lat": "39.0009112"
     },
     "gree_out": {
+      "routes": {},
       "lon": "-76.9434987",
       "title": "Greenmead Dr at Maryland 4-H (Outbound)",
       "shortTitle": "Greenmead Dr @ Maryland 4-H (Outbound)",
@@ -1116,6 +216,7 @@
       "lat": "39.0020477"
     },
     "cour500": {
+      "routes": {},
       "lon": "-76.94257",
       "title": "Courtyards #500",
       "stopId": "27735",
@@ -1123,6 +224,7 @@
       "lat": "39.0030898"
     },
     "greemead_in": {
+      "routes": {},
       "lon": "-76.9433279",
       "title": "Greenmead Dr at Maryland 4-H (Inbound)",
       "shortTitle": "Greenmead Dr @ Maryland 4-H (Inbound)",
@@ -1131,6 +233,7 @@
       "lat": "39.0026768"
     },
     "greemetz": {
+      "routes": {},
       "lon": "-76.9446931",
       "title": "Greenmeade Dr and Metzerott Rd",
       "shortTitle": "Greenmeade Dr & Metzerott",
@@ -1139,6 +242,7 @@
       "lat": "39.0010682"
     },
     "lot4_in": {
+      "routes": {},
       "lon": "-76.9404883",
       "title": "Paint Branch Dr at Lot 4b (Inbound)",
       "shortTitle": "Paint Branch Dr @ Lot 4b (Inbound)",
@@ -1147,6 +251,7 @@
       "lat": "38.9978287"
     },
     "shutbase_in": {
+      "routes": {},
       "lon": "-76.9375886",
       "title": "Shuttle-UM Base (Inbound)",
       "stopId": "37151",
@@ -1154,6 +259,7 @@
       "lat": "38.9953571"
     },
     "regepain": {
+      "routes": {},
       "lon": "-76.9377348",
       "title": "Regents Dr and Paint Branch Dr (Inbound)",
       "shortTitle": "Regents Dr & Paint Branch Dr (Inbound)",
@@ -1162,6 +268,7 @@
       "lat": "38.9936749"
     },
     "regecomc_in": {
+      "routes": {},
       "lon": "-76.9398124",
       "title": "Regents Drive at XFINITY Center (Inbound)",
       "shortTitle": "Regents Drive @ XFINITY Center (Inbound)",
@@ -1170,6 +277,7 @@
       "lat": "38.9936404"
     },
     "regefarm_in": {
+      "routes": {},
       "lon": "-76.9407074",
       "title": "Regents Dr and Farm Dr (Inbound)",
       "shortTitle": "Regents Dr & Farm Dr (Inbound)",
@@ -1178,6 +286,7 @@
       "lat": "38.9914838"
     },
     "regegara_d": {
+      "routes": {},
       "lon": "-76.94075",
       "title": "Regents Drive Garage",
       "stopId": "10003",
@@ -1185,6 +294,7 @@
       "lat": "38.9895254"
     },
     "camplt1d": {
+      "routes": {},
       "lon": "-76.9510623",
       "title": "Campus Dr at Lot 3",
       "shortTitle": "Campus Dr @ Lot 3",
@@ -1193,6 +303,7 @@
       "lat": "38.9846897"
     },
     "umuc": {
+      "routes": {},
       "lon": "-76.9540366",
       "title": "UMUC - College Park Marriott",
       "stopId": "36108",
@@ -1200,6 +311,7 @@
       "lat": "38.985281"
     },
     "metzgree_out": {
+      "routes": {},
       "lon": "-76.9439972",
       "title": "Metzerott Rd and Greenmead Dr (Outbound)",
       "shortTitle": "Metzerott & Greenmead Dr (Outbound)",
@@ -1208,6 +320,7 @@
       "lat": "39.0008257"
     },
     "metz36th": {
+      "routes": {},
       "lon": "-76.9474842",
       "title": "Metzerott Road and 36th Avenue (Outbound)",
       "shortTitle": "Metzerott & 36th (Outbound)",
@@ -1216,6 +329,7 @@
       "lat": "39.0014357"
     },
     "metzstan_out": {
+      "routes": {},
       "lon": "-76.9501337",
       "title": "Metzerott Road and St. Andrew's Place (Outbound)",
       "shortTitle": "Metzerott & Andrew's Place (Outbound)",
@@ -1224,6 +338,7 @@
       "lat": "39.0018938"
     },
     "metzsa": {
+      "routes": {},
       "lon": "-76.9531702",
       "title": "Metzerott Rd @ System Administration",
       "shortTitle": "Metzerott @ System Administration",
@@ -1232,6 +347,7 @@
       "lat": "39.002414"
     },
     "arch_ob": {
+      "routes": {},
       "lon": "-76.9581295",
       "title": "Metzerott Rd at Archives II (Outbound)",
       "shortTitle": "Metzerott @ Archives II (Outbound)",
@@ -1240,6 +356,7 @@
       "lat": "39.0031633"
     },
     "metzadel": {
+      "routes": {},
       "lon": "-76.9657198",
       "title": "Metzerott Rd and Adelphi Rd",
       "shortTitle": "Metzerott & Adelphi",
@@ -1248,6 +365,7 @@
       "lat": "39.0025171"
     },
     "coolspri_out": {
+      "routes": {},
       "lon": "-76.972258",
       "title": "Metzerott Rd and Riggs Rd (Outbound)",
       "shortTitle": "Metzerott & Riggs (Outbound)",
@@ -1256,6 +374,7 @@
       "lat": "39.0032699"
     },
     "metzpres": {
+      "routes": {},
       "lon": "-76.9755719",
       "title": "Metzerott Rd at Presidential Towers",
       "shortTitle": "Metzerott @ Presidential Towers",
@@ -1264,6 +383,7 @@
       "lat": "39.0037089"
     },
     "metznham_out": {
+      "routes": {},
       "lon": "-76.9804472",
       "title": "Metzerott Rd and New Hampshire Ave (Outbound)",
       "shortTitle": "Metzerott & New Hampshire (Outbound)",
@@ -1272,6 +392,7 @@
       "lat": "39.0042327"
     },
     "nhamfox": {
+      "routes": {},
       "lon": "-76.9797824",
       "title": "New Hampshire Ave and Fox St",
       "shortTitle": "New Hampshire & Fox",
@@ -1280,6 +401,7 @@
       "lat": "39.0080415"
     },
     "nhamadel_out": {
+      "routes": {},
       "lon": "-76.9789397",
       "title": "New Hampshire Ave and Adelphi Road (Outbound)",
       "shortTitle": "New Hampshire & Adelphi (Outbound)",
@@ -1288,6 +410,7 @@
       "lat": "39.0110759"
     },
     "nhamoak_out": {
+      "routes": {},
       "lon": "-76.9777991",
       "title": "New Hampshire Ave and Oakview Dr (Outbound)",
       "shortTitle": "New Hampshire & Oakview Dr (Outbound)",
@@ -1296,6 +419,7 @@
       "lat": "39.0150626"
     },
     "chateau_r": {
+      "routes": {},
       "lon": "-76.97613",
       "title": "Mt Pisgah Rd at Chateau Apartments",
       "shortTitle": "Mt Pisgah @ Chateau Apartments",
@@ -1304,6 +428,7 @@
       "lat": "39.01658"
     },
     "nhamadel_in": {
+      "routes": {},
       "lon": "-76.9790439",
       "title": "New Hampshire Ave and Adelphi Rd (Inbound)",
       "shortTitle": "New Hampshire & Adelphi (Inbound)",
@@ -1312,6 +437,7 @@
       "lat": "39.0116175"
     },
     "metznham_in": {
+      "routes": {},
       "lon": "-76.9800581",
       "title": "Metzerott Rd and New Hampshire Ave (Inbound)",
       "shortTitle": "Metzerott & New Hampshire (Inbound)",
@@ -1320,6 +446,7 @@
       "lat": "39.0041118"
     },
     "metz1811": {
+      "routes": {},
       "lon": "-76.9760639",
       "title": "Metzerott Rd at The Delano Apts",
       "shortTitle": "Metzerott @ The Delano Apts",
@@ -1328,6 +455,7 @@
       "lat": "39.0036704"
     },
     "coolspri_in": {
+      "routes": {},
       "lon": "-76.97287",
       "title": "Metzerott Rd and Riggs Rd (Inbound)",
       "shortTitle": "Metzerott & Riggs (Inbound)",
@@ -1336,6 +464,7 @@
       "lat": "39.0032712"
     },
     "metz24th": {
+      "routes": {},
       "lon": "-76.9668481",
       "title": "Metzerott Rd and 24th Ave",
       "shortTitle": "Metzerott & 24th",
@@ -1344,6 +473,7 @@
       "lat": "39.0025883"
     },
     "metzarch": {
+      "routes": {},
       "lon": "-76.9589308",
       "title": "Metzerott Rd at Archives II (Inbound)",
       "shortTitle": "Metzerott @ Archives II (Inbound)",
@@ -1352,6 +482,7 @@
       "lat": "39.00314"
     },
     "metzobse": {
+      "routes": {},
       "lon": "-76.9545755",
       "title": "Metzerott Rd @ UM Observatory",
       "shortTitle": "Metzerott @ UM Observatory",
@@ -1360,6 +491,7 @@
       "lat": "39.0025843"
     },
     "metzstan_in": {
+      "routes": {},
       "lon": "-76.9514869",
       "title": "Metzerott Road and St. Andrew's Place (Inbound)",
       "shortTitle": "Metzerott & Andrew's Place (Inbound)",
@@ -1368,6 +500,7 @@
       "lat": "39.002051"
     },
     "metz36th_in": {
+      "routes": {},
       "lon": "-76.9481327",
       "title": "Metzerott Road and 36th Avenue (Inbound)",
       "shortTitle": "Metzerott & 36th (Inbound)",
@@ -1376,6 +509,7 @@
       "lat": "39.0014833"
     },
     "metzgree_in": {
+      "routes": {},
       "lon": "-76.9447876",
       "title": "Metzerott Rd and University Blvd (Inbound)",
       "shortTitle": "Metzerott & University (Inbound)",
@@ -1384,6 +518,7 @@
       "lat": "39.0008996"
     },
     "painrege_bus": {
+      "routes": {},
       "lon": "-76.9373896",
       "title": "Paint Branch Dr and Regents Dr (Bus Shelter)",
       "shortTitle": "Paint Branch Dr & Regents Dr (Bus Shelter)",
@@ -1392,6 +527,7 @@
       "lat": "38.993499"
     },
     "painstad": {
+      "routes": {},
       "lon": "-76.9373",
       "title": "Paint Branch Dr and Stadium Dr",
       "shortTitle": "Paint Branch Dr & Stadium Dr",
@@ -1400,28 +536,48 @@
       "lat": "38.9902898"
     },
     "acphys": {
-      "lon": "-76.9271071",
+      "routes": {},
+      "lon": "-76.927107",
       "title": "River Road and Rivertech Court",
       "shortTitle": "River & Rivertech Court",
       "stopId": "31564",
       "tag": "acphys",
-      "lat": "38.9699561"
+      "lat": "38.969956"
     },
     "acphys_elli": {
-      "lon": "-76.9301381",
+      "routes": {},
+      "lon": "-76.9301382",
       "title": "American Center for Physics",
       "stopId": "31689",
       "tag": "acphys_elli",
-      "lat": "38.9718216"
+      "lat": "38.9718215"
     },
     "rayt": {
+      "routes": {},
       "lon": "-76.9283283",
       "title": "Raytheon",
       "stopId": "34405",
       "tag": "rayt",
       "lat": "38.9683562"
     },
+    "collpark": {
+      "routes": {},
+      "lon": "-76.9279223",
+      "title": "College Park Academy",
+      "stopId": "31570",
+      "tag": "collpark",
+      "lat": "38.9682907"
+    },
+    "diviofit": {
+      "routes": {},
+      "lon": "-76.9232474",
+      "title": "Division of IT",
+      "stopId": "31571",
+      "tag": "diviofit",
+      "lat": "38.9691729"
+    },
     "msqua": {
+      "routes": {},
       "lon": "-76.922991",
       "title": "M-Square",
       "stopId": "34293",
@@ -1429,6 +585,7 @@
       "lat": "38.9707579"
     },
     "usda": {
+      "routes": {},
       "lon": "-76.9261352",
       "title": "USDA",
       "stopId": "31881",
@@ -1436,181 +593,24 @@
       "lat": "38.9698863"
     },
     "rrmshel": {
+      "routes": {},
       "lon": "-76.9283434",
       "title": "River Road at American Center for Physics",
       "shortTitle": "River @ American Center for Physics",
       "stopId": "31899",
       "tag": "rrmshel",
-      "lat": "38.9722045"
-    },
-    "camplot3": {
-      "lon": "-76.9515395",
-      "title": "Campus Dr at Lot 3",
-      "shortTitle": "Campus Dr @ Lot 3",
-      "stopId": "34422",
-      "tag": "camplot3",
-      "lat": "38.9847421"
-    },
-    "rhoduni": {
-      "lon": "-76.9248359",
-      "title": "Rhode Island Ave and University Blvd (Outbound)",
-      "shortTitle": "Rhode Island & University (Outbound)",
-      "stopId": "55000",
-      "tag": "rhoduni",
-      "lat": "39.0009914"
-    },
-    "rhodcher": {
-      "lon": "-76.9244471",
-      "title": "Rhode Island Avenue and Cherokee Street (Outbound)",
-      "shortTitle": "Rhode Island & Cherokee (Outbound)",
-      "stopId": "27372",
-      "tag": "rhodcher",
-      "lat": "39.0023874"
-    },
-    "rhodindi": {
-      "lon": "-76.92349",
-      "title": "Rhode Island Ave and Fox St (Outbound)",
-      "shortTitle": "Rhode Island & Fox (Outbound)",
-      "stopId": "27934",
-      "tag": "rhodindi",
-      "lat": "39.0059699"
-    },
-    "rhodholl": {
-      "lon": "-76.9221711",
-      "title": "Rhode Island Avenue and Hollywood Road (Outbound)",
-      "shortTitle": "Rhode Island & Hollywood (Outbound)",
-      "stopId": "30366",
-      "tag": "rhodholl",
-      "lat": "39.0108829"
-    },
-    "hollshop": {
-      "lon": "-76.921375",
-      "title": "Rhode Island Ave and Hollywood Shopping Ctr",
-      "shortTitle": "Rhode Island & Hollywood Shopping Ctr",
-      "stopId": "30350",
-      "tag": "hollshop",
-      "lat": "39.0138309"
-    },
-    "edgerhod": {
-      "lon": "-76.9214099",
-      "title": "Edgewood Road and Rhode Island Avenue (Outbound)",
-      "shortTitle": "Edgewood & Rhode Island (Outbound)",
-      "stopId": "27703",
-      "tag": "edgerhod",
-      "lat": "39.0161096"
-    },
-    "edge49th": {
-      "lon": "-76.9243329",
-      "title": "Edgewood Road and 49th Avenue (Outbound)",
-      "shortTitle": "Edgewood & 49th (Outbound)",
-      "stopId": "31691",
-      "tag": "edge49th",
-      "lat": "39.016061"
-    },
-    "cpmark": {
-      "lon": "-76.9301971",
-      "title": "Cherry Hill Rd at College Park Marketplace",
-      "shortTitle": "Cherry Hill @ College Park Marketplace",
-      "stopId": "36476",
-      "tag": "cpmark",
-      "lat": "39.0160182"
-    },
-    "cher9348": {
-      "lon": "-76.9393951",
-      "title": "Seven Springs Apts at 9348 Cherry Hill Rd",
-      "shortTitle": "Seven Springs Apts @ 9348 Cherry Hill",
-      "stopId": "27800",
-      "tag": "cher9348",
-      "lat": "39.0169461"
-    },
-    "ssvill": {
-      "lon": "-76.9394283",
-      "title": "Seven Springs Apts at 9310 Cherry Hill Rd",
-      "shortTitle": "Seven Springs Apts @ 9310 Cherry Hill",
-      "stopId": "27420",
-      "tag": "ssvill",
-      "lat": "39.0159991"
-    },
-    "cher9308": {
-      "lon": "-76.9376829",
-      "title": "Seven Springs Apts at 9308 Cherry Hill Rd",
-      "shortTitle": "Seven Springs Apts @ 9308 Cherry Hill",
-      "stopId": "27816",
-      "tag": "cher9308",
-      "lat": "39.0178782"
-    },
-    "cher47th": {
-      "lon": "-76.9321727",
-      "title": "Cherry Hill Rd and 47th Ave",
-      "shortTitle": "Cherry Hill & 47th",
-      "stopId": "36154",
-      "tag": "cher47th",
-      "lat": "39.0165878"
-    },
-    "edge49th_in": {
-      "lon": "-76.924331",
-      "title": "Edgewood Rd and 49th Ave (Inbound)",
-      "shortTitle": "Edgewood & 49th (Inbound)",
-      "stopId": "36448",
-      "tag": "edge49th_in",
-      "lat": "39.015949"
-    },
-    "edgerhod_in": {
-      "lon": "-76.9211996",
-      "title": "Edgewood Rd and Rhode Island Ave (Inbound)",
-      "shortTitle": "Edgewood & Rhode Island (Inbound)",
-      "stopId": "27243",
-      "tag": "edgerhod_in",
-      "lat": "39.01597"
-    },
-    "rhodmusk": {
-      "lon": "-76.9215202",
-      "title": "Rhode Island Avenue and Muskogee Street",
-      "shortTitle": "Rhode Island & Muskogee",
-      "stopId": "37324",
-      "tag": "rhodmusk",
-      "lat": "39.0136129"
-    },
-    "rhodholl_in": {
-      "lon": "-76.9223553",
-      "title": "Rhode Island Ave and Hollywood Rd (Inbound)",
-      "shortTitle": "Rhode Island & Hollywood (Inbound)",
-      "stopId": "30378",
-      "tag": "rhodholl_in",
-      "lat": "39.0105519"
-    },
-    "rhodfox": {
-      "lon": "-76.9234763",
-      "title": "Rhode Island Avenue and Fox Street (Outbound)",
-      "shortTitle": "Rhode Island & Fox (Outbound)",
-      "stopId": "30983",
-      "tag": "rhodfox",
-      "lat": "39.0064427"
-    },
-    "rhodcher_in": {
-      "lon": "-76.9244616",
-      "title": "Rhode Island Ave and Cherokee St (Inbound)",
-      "shortTitle": "Rhode Island & Cherokee (Inbound)",
-      "stopId": "30965",
-      "tag": "rhodcher_in",
-      "lat": "39.0027034"
-    },
-    "rhoduni_in": {
-      "lon": "-76.9252728",
-      "title": "Rhode Island Ave and University Blvd (Inbound)",
-      "shortTitle": "Rhode Island & University (Inbound)",
-      "stopId": "37078",
-      "tag": "rhoduni_in",
-      "lat": "38.9997597"
+      "lat": "38.9722046"
     },
     "stamsuhh_d": {
+      "routes": {},
       "lon": "-76.9440396",
-      "title": "Stamp Student Union - Lot HH",
+      "title": "Stamp Student Union - Slip",
       "stopId": "10002",
       "tag": "stamsuhh_d",
       "lat": "38.9874519"
     },
     "univtula": {
+      "routes": {},
       "lon": "-76.9588032",
       "title": "University Blvd and Tulane Dr",
       "shortTitle": "University & Tulane Dr",
@@ -1619,6 +619,7 @@
       "lat": "38.9853988"
     },
     "univshop_out": {
+      "routes": {},
       "lon": "-76.9671043",
       "title": "University Blvd at Adelphi Plaza",
       "shortTitle": "University @ Adelphi Plaza",
@@ -1627,6 +628,7 @@
       "lat": "38.9846405"
     },
     "univguil_out": {
+      "routes": {},
       "lon": "-76.9730672",
       "title": "University Blvd at Campus Gardens",
       "shortTitle": "University @ Campus Gardens",
@@ -1635,6 +637,7 @@
       "lat": "38.984079"
     },
     "univrigg_out": {
+      "routes": {},
       "lon": "-76.9803602",
       "title": "University Blvd and Riggs Rd (Outbound)",
       "shortTitle": "University & Riggs (Outbound)",
@@ -1643,6 +646,7 @@
       "lat": "38.9845483"
     },
     "univnham": {
+      "routes": {},
       "lon": "-76.98621",
       "title": "University Blvd and New Hampshire Ave",
       "shortTitle": "University & New Hampshire",
@@ -1651,6 +655,7 @@
       "lat": "38.9880237"
     },
     "univrite": {
+      "routes": {},
       "lon": "-76.9885876",
       "title": "Takoma-Langley Crossroads Transit Center (Outbound)",
       "stopId": "34134",
@@ -1658,6 +663,7 @@
       "lat": "38.989844"
     },
     "merrilock": {
+      "routes": {},
       "lon": "-76.99214",
       "title": "Merrimac Dr and Lockney Ave",
       "shortTitle": "Merrimac Dr & Lockney",
@@ -1666,6 +672,7 @@
       "lat": "38.99242"
     },
     "carrchest": {
+      "routes": {},
       "lon": "-76.9935629",
       "title": "Carroll Ave and Chester St",
       "shortTitle": "Carroll & Chester",
@@ -1674,6 +681,7 @@
       "lat": "38.9899268"
     },
     "carrglen": {
+      "routes": {},
       "lon": "-76.994382",
       "title": "Carroll Ave and Glenside Dr",
       "shortTitle": "Carroll & Glenside Dr",
@@ -1682,6 +690,7 @@
       "lat": "38.9879584"
     },
     "carrgarl": {
+      "routes": {},
       "lon": "-76.9963195",
       "title": "Caroll Ave and Garland Ave (Outbound)",
       "shortTitle": "Caroll & Garland (Outbound)",
@@ -1690,6 +699,7 @@
       "lat": "38.9862204"
     },
     "flowcarr": {
+      "routes": {},
       "lon": "-76.9988477",
       "title": "Flower Ave and Carroll Ave (Outbound)",
       "shortTitle": "Flower & Carroll (Outbound)",
@@ -1698,6 +708,7 @@
       "lat": "38.9853069"
     },
     "flowdivi": {
+      "routes": {},
       "lon": "-76.9998514",
       "title": "Flower Ave at Washington Adventist University (Outbound)",
       "shortTitle": "Flower @ Washington Adventist University (Outbound)",
@@ -1706,6 +717,7 @@
       "lat": "38.9867605"
     },
     "flowkenne": {
+      "routes": {},
       "lon": "-77.0013728",
       "title": "Flower Ave and Kennebec Ave (Outbound)",
       "shortTitle": "Flower & Kennebec (Outbound)",
@@ -1714,6 +726,7 @@
       "lat": "38.9895808"
     },
     "flowhuds": {
+      "routes": {},
       "lon": "-77.0021792",
       "title": "Flower Ave and Hudson (Outbound)",
       "shortTitle": "Flower & Hudson (Outbound)",
@@ -1722,6 +735,7 @@
       "lat": "38.9924554"
     },
     "flowdome": {
+      "routes": {},
       "lon": "-77.0031553",
       "title": "Flower Ave and Domer Ave (Outbound)",
       "shortTitle": "Flower & Domer (Outbound)",
@@ -1730,6 +744,7 @@
       "lat": "38.9966735"
     },
     "flowplym": {
+      "routes": {},
       "lon": "-77.00454",
       "title": "Flower Ave and Plymouth St",
       "shortTitle": "Flower & Plymouth",
@@ -1738,6 +753,7 @@
       "lat": "39.00156"
     },
     "waynslig_out": {
+      "routes": {},
       "lon": "-77.0104152",
       "title": "Wayne Ave and Sligo Creek Pkwy (Outbound)",
       "shortTitle": "Wayne & Sligo Creek Pkwy (Outbound)",
@@ -1746,6 +762,7 @@
       "lat": "38.9996595"
     },
     "wayndale_out": {
+      "routes": {},
       "lon": "-77.0172814",
       "title": "Wayne Ave and Dale Dr (Outbound)",
       "shortTitle": "Wayne & Dale Dr (Outbound)",
@@ -1754,6 +771,7 @@
       "lat": "38.9993802"
     },
     "waynwhol": {
+      "routes": {},
       "lon": "-77.0235453",
       "title": "Wayne Ave and Fenton St (Outbound)",
       "shortTitle": "Wayne & Fenton (Outbound)",
@@ -1761,15 +779,8 @@
       "tag": "waynwhol",
       "lat": "38.9959666"
     },
-    "bonidix": {
-      "lon": "-77.0277056",
-      "title": "Bonifant Street and Dixon Avenue",
-      "shortTitle": "Bonifant & Dixon",
-      "stopId": "27431",
-      "tag": "bonidix",
-      "lat": "38.9934477"
-    },
     "ssmetro": {
+      "routes": {},
       "lon": "-77.029742",
       "title": "Silver Spring Metro Station",
       "stopId": "50034",
@@ -1777,6 +788,7 @@
       "lat": "38.993673"
     },
     "waynfent": {
+      "routes": {},
       "lon": "-77.0245902",
       "title": "Wayne Ave and Fenton St (Inbound)",
       "shortTitle": "Wayne & Fenton (Inbound)",
@@ -1785,6 +797,7 @@
       "lat": "38.9952298"
     },
     "wayndale_in": {
+      "routes": {},
       "lon": "-77.0177496",
       "title": "Wayne Ave and Dale Dr (Inbound)",
       "shortTitle": "Wayne & Dale Dr (Inbound)",
@@ -1793,6 +806,7 @@
       "lat": "38.9992414"
     },
     "waynslig_in": {
+      "routes": {},
       "lon": "-77.010017",
       "title": "Wayne Ave and Sligo Creek Pkwy (Inbound)",
       "shortTitle": "Wayne & Sligo Creek Pkwy (Inbound)",
@@ -1801,6 +815,7 @@
       "lat": "38.9995905"
     },
     "flowplym_in": {
+      "routes": {},
       "lon": "-77.0046644",
       "title": "Flower Ave and Plymouth St (Inbound)",
       "shortTitle": "Flower & Plymouth (Inbound)",
@@ -1809,6 +824,7 @@
       "lat": "39.001575"
     },
     "flowdome_in": {
+      "routes": {},
       "lon": "-77.0031528",
       "title": "Flower Ave and Domer Ave (Inbound)",
       "shortTitle": "Flower & Domer (Inbound)",
@@ -1817,6 +833,7 @@
       "lat": "38.9962614"
     },
     "flowhuds_in": {
+      "routes": {},
       "lon": "-77.00228",
       "title": "Flower Ave and Hudson (Inbound)",
       "shortTitle": "Flower & Hudson (Inbound)",
@@ -1825,6 +842,7 @@
       "lat": "38.9925543"
     },
     "flowkenn_in": {
+      "routes": {},
       "lon": "-77.0015479",
       "title": "Flower Ave and Kennebec (Inbound)",
       "shortTitle": "Flower & Kennebec (Inbound)",
@@ -1833,6 +851,7 @@
       "lat": "38.9897144"
     },
     "flowdivi_inn": {
+      "routes": {},
       "lon": "-77.0001883",
       "title": "Flower Ave at Washington Adventist University (Inbound)",
       "shortTitle": "Flower @ Washington Adventist University (Inbound)",
@@ -1841,6 +860,7 @@
       "lat": "38.9870475"
     },
     "flowcarr_in": {
+      "routes": {},
       "lon": "-76.9989177",
       "title": "Flower Ave and Carroll Ave (Inbound)",
       "shortTitle": "Flower & Carroll (Inbound)",
@@ -1849,6 +869,7 @@
       "lat": "38.9852146"
     },
     "carrgarl_in": {
+      "routes": {},
       "lon": "-76.9961839",
       "title": "Carroll Ave and Garland Ave (Inbound)",
       "shortTitle": "Carroll & Garland (Inbound)",
@@ -1857,6 +878,7 @@
       "lat": "38.9862373"
     },
     "carranne_in": {
+      "routes": {},
       "lon": "-76.994607",
       "title": "Carroll Ave and Anne St",
       "shortTitle": "Carroll & Anne",
@@ -1865,6 +887,7 @@
       "lat": "38.9876429"
     },
     "carrwild_in": {
+      "routes": {},
       "lon": "-76.9935114",
       "title": "Carroll Ave and Wildwood Dr",
       "shortTitle": "Carroll & Wildwood Dr",
@@ -1873,6 +896,7 @@
       "lat": "38.9897314"
     },
     "merriuniv": {
+      "routes": {},
       "lon": "-76.99173",
       "title": "Merrimac Dr and University Blvd",
       "shortTitle": "Merrimac Dr & University",
@@ -1881,6 +905,7 @@
       "lat": "38.9924899"
     },
     "univhamp": {
+      "routes": {},
       "lon": "-76.988171",
       "title": "Takoma-Langley Crossroads Transit Center (Inbound)",
       "stopId": "30234",
@@ -1888,6 +913,7 @@
       "lat": "38.990052"
     },
     "univ14th": {
+      "routes": {},
       "lon": "-76.9852817",
       "title": "University Blvd and 14th Ave",
       "shortTitle": "University & 14th",
@@ -1896,6 +922,7 @@
       "lat": "38.9872511"
     },
     "univhech": {
+      "routes": {},
       "lon": "-76.9810314",
       "title": "University Blvd and Riggs Road (Inbound)",
       "shortTitle": "University & Riggs (Inbound)",
@@ -1904,6 +931,7 @@
       "lat": "38.9847308"
     },
     "univcity": {
+      "routes": {},
       "lon": "-76.9762175",
       "title": "University Blvd and Guilford Rd",
       "shortTitle": "University & Guilford",
@@ -1912,6 +940,7 @@
       "lat": "38.9835797"
     },
     "univ25th_in": {
+      "routes": {},
       "lon": "-76.9674135",
       "title": "University Blvd and 25th Ave",
       "shortTitle": "University & 25th",
@@ -1920,6 +949,7 @@
       "lat": "38.9844296"
     },
     "univgrad": {
+      "routes": {},
       "lon": "-76.9578695",
       "title": "University Blvd at Graduate Hills",
       "shortTitle": "University @ Graduate Hills",
@@ -1928,6 +958,7 @@
       "lat": "38.9853553"
     },
     "cspa_main": {
+      "routes": {},
       "lon": "-76.950237",
       "title": "Stadium Drive and University Boulevard",
       "shortTitle": "Stadium Drive & University",
@@ -1936,6 +967,7 @@
       "lat": "38.991756"
     },
     "stadgara": {
+      "routes": {},
       "lon": "-76.9475442",
       "title": "Stadium Drive Garage",
       "stopId": "37091",
@@ -1943,6 +975,7 @@
       "lat": "38.9917469"
     },
     "stadvtho": {
+      "routes": {},
       "lon": "-76.9454061",
       "title": "Varsity Team House",
       "stopId": "37092",
@@ -1950,6 +983,7 @@
       "lat": "38.9906015"
     },
     "gradhill": {
+      "routes": {},
       "lon": "-76.9555421",
       "title": "Adelphi Rd at Graduate Hills Apts",
       "shortTitle": "Adelphi @ Graduate Hills Apts",
@@ -1958,6 +992,7 @@
       "lat": "38.9846606"
     },
     "adelwell_out": {
+      "routes": {},
       "lon": "-76.9545905",
       "title": "Adelphi Rd and Wells Blvd",
       "shortTitle": "Adelphi & Wells",
@@ -1966,6 +1001,7 @@
       "lat": "38.9795417"
     },
     "adel_nwhs": {
+      "routes": {},
       "lon": "-76.952102",
       "title": "Adelphi Rd at Northwestern HS",
       "shortTitle": "Adelphi @ Northwestern HS",
@@ -1974,6 +1010,7 @@
       "lat": "38.9754953"
     },
     "toleadel": {
+      "routes": {},
       "lon": "-76.9497998",
       "title": "Toledo Rd and Adelphi Rd",
       "shortTitle": "Toledo & Adelphi",
@@ -1982,6 +1019,7 @@
       "lat": "38.97007"
     },
     "tolebelc": {
+      "routes": {},
       "lon": "-76.9532842",
       "title": "Toledo and Belcrest Rd (Outbound)",
       "shortTitle": "Toledo & Belcrest (Outbound)",
@@ -1990,6 +1028,7 @@
       "lat": "38.96991"
     },
     "targ": {
+      "routes": {},
       "lon": "-76.95417",
       "title": "The Mall at Prince George's",
       "shortTitle": "The Mall @ Prince George's",
@@ -1998,6 +1037,7 @@
       "lat": "38.96821"
     },
     "pgmetro_out": {
+      "routes": {},
       "lon": "-76.954134",
       "title": "Prince George's Plaza Metro Station (Outbound)",
       "stopId": "37323",
@@ -2005,6 +1045,7 @@
       "lat": "38.9658812"
     },
     "39thquee": {
+      "routes": {},
       "lon": "-76.9503707",
       "title": "Queensbury Rd and 39th Pl",
       "shortTitle": "Queensbury & 39th Pl",
@@ -2013,6 +1054,7 @@
       "lat": "38.96391"
     },
     "42ndquee": {
+      "routes": {},
       "lon": "-76.9462603",
       "title": "42nd Ave and Queensbury Rd",
       "shortTitle": "42nd & Queensbury",
@@ -2021,6 +1063,7 @@
       "lat": "38.9635641"
     },
     "42ndogle": {
+      "routes": {},
       "lon": "-76.9465446",
       "title": "42nd Ave and Oglethorpe St",
       "shortTitle": "42nd & Oglethorpe",
@@ -2029,6 +1072,7 @@
       "lat": "38.9596743"
     },
     "42ndmadi": {
+      "routes": {},
       "lon": "-76.9467596",
       "title": "42nd Ave and Madison St",
       "shortTitle": "42nd & Madison",
@@ -2037,6 +1081,7 @@
       "lat": "38.9580062"
     },
     "42ndjeff": {
+      "routes": {},
       "lon": "-76.9457762",
       "title": "42nd Ave and Jefferson St",
       "shortTitle": "42nd & Jefferson",
@@ -2045,6 +1090,7 @@
       "lat": "38.9553894"
     },
     "42ndfarr": {
+      "routes": {},
       "lon": "-76.944358",
       "title": "Farragut St and 42nd Pl",
       "shortTitle": "Farragut & 42nd Pl",
@@ -2053,6 +1099,7 @@
       "lat": "38.9517499"
     },
     "farrrhod": {
+      "routes": {},
       "lon": "-76.94123",
       "title": "Farragut St and Rhode Island Ave",
       "shortTitle": "Farragut & Rhode Island",
@@ -2061,6 +1108,7 @@
       "lat": "38.95166"
     },
     "baltgall": {
+      "routes": {},
       "lon": "-76.9404606",
       "title": "Baltimore Ave and Gallatin St",
       "shortTitle": "Baltimore & Gallatin",
@@ -2069,6 +1117,7 @@
       "lat": "38.9530736"
     },
     "balthami": {
+      "routes": {},
       "lon": "-76.9403194",
       "title": "Baltimore Ave and Hamilton St",
       "shortTitle": "Baltimore & Hamilton",
@@ -2077,6 +1126,7 @@
       "lat": "38.9542751"
     },
     "baltlong": {
+      "routes": {},
       "lon": "-76.9400419",
       "title": "Baltimore Ave and Longfellow St",
       "shortTitle": "Baltimore & Longfellow",
@@ -2085,6 +1135,7 @@
       "lat": "38.9567242"
     },
     "baltogle": {
+      "routes": {},
       "lon": "-76.9397604",
       "title": "Baltimore Ave and Oglethorpe St",
       "shortTitle": "Baltimore & Oglethorpe",
@@ -2093,6 +1144,7 @@
       "lat": "38.9593855"
     },
     "44thquee": {
+      "routes": {},
       "lon": "-76.9404546",
       "title": "Queensbury Rd and 44th Pl",
       "shortTitle": "Queensbury & 44th Pl",
@@ -2101,6 +1153,7 @@
       "lat": "38.9632582"
     },
     "quee42nd": {
+      "routes": {},
       "lon": "-76.9450616",
       "title": "Queensbury Rd and 42nd Pl",
       "shortTitle": "Queensbury & 42nd Pl",
@@ -2109,6 +1162,7 @@
       "lat": "38.9637691"
     },
     "belcquch": {
+      "routes": {},
       "lon": "-76.9527003",
       "title": "Belcrest Rd and Queens Chapel Rd",
       "shortTitle": "Belcrest & Queens Chapel",
@@ -2117,6 +1171,7 @@
       "lat": "38.9643701"
     },
     "pgmetro_in": {
+      "routes": {},
       "lon": "-76.9537801",
       "title": "Prince George's Plaza Metro Station (Inbound)",
       "stopId": "30559",
@@ -2124,6 +1179,7 @@
       "lat": "38.9654413"
     },
     "pgcc": {
+      "routes": {},
       "lon": "-76.95394",
       "title": "Prince George's Community College",
       "stopId": "37221",
@@ -2131,6 +1187,7 @@
       "lat": "38.9681505"
     },
     "belctole": {
+      "routes": {},
       "lon": "-76.9532048",
       "title": "Toledo Rd and Belcrest Rd (Inbound)",
       "shortTitle": "Toledo & Belcrest (Inbound)",
@@ -2139,6 +1196,7 @@
       "lat": "38.9698444"
     },
     "adeltole": {
+      "routes": {},
       "lon": "-76.9490295",
       "title": "Adelphi Rd and Toledo Rd",
       "shortTitle": "Adelphi & Toledo",
@@ -2147,6 +1205,7 @@
       "lat": "38.9706254"
     },
     "adelvbur": {
+      "routes": {},
       "lon": "-76.9517565",
       "title": "Adelphi Rd and Van Buren St",
       "shortTitle": "Adelphi & Van Buren",
@@ -2155,6 +1214,7 @@
       "lat": "38.975281"
     },
     "adelwell_in": {
+      "routes": {},
       "lon": "-76.9543073",
       "title": "Adelphi Rd and Wells Pkwy (Inbound)",
       "shortTitle": "Adelphi & Wells Pkwy (Inbound)",
@@ -2163,6 +1223,7 @@
       "lat": "38.9792306"
     },
     "adeltula": {
+      "routes": {},
       "lon": "-76.9553383",
       "title": "Adelphi Rd and Campus Dr",
       "shortTitle": "Adelphi & Campus Dr",
@@ -2171,6 +1232,7 @@
       "lat": "38.9846321"
     },
     "collpksh": {
+      "routes": {},
       "lon": "-76.9390277",
       "title": "College Park Shopping Ctr (Outbound)",
       "stopId": "30138",
@@ -2178,6 +1240,7 @@
       "lat": "38.9809619"
     },
     "baltritc": {
+      "routes": {},
       "lon": "-76.9370967",
       "title": "Ritchie Coliseum",
       "stopId": "27291",
@@ -2185,6 +1248,7 @@
       "lat": "38.9852774"
     },
     "univview": {
+      "routes": {},
       "lon": "-76.9338999",
       "title": "University View",
       "stopId": "37105",
@@ -2192,6 +1256,7 @@
       "lat": "38.99234"
     },
     "baltvars": {
+      "routes": {},
       "lon": "-76.9340075",
       "title": "Baltimore Ave at The Varsity",
       "shortTitle": "Baltimore @ The Varsity",
@@ -2200,6 +1265,7 @@
       "lat": "38.9908313"
     },
     "mcirc": {
+      "routes": {},
       "lon": "-76.9395199",
       "title": "Campus Dr at M Circle",
       "shortTitle": "Campus Dr @ M Circle",
@@ -2208,6 +1274,7 @@
       "lat": "38.987699"
     },
     "lot1": {
+      "routes": {},
       "lon": "-76.9481576",
       "title": "Union Dr at Lot 1b",
       "shortTitle": "Union Dr @ Lot 1b",
@@ -2216,6 +1283,7 @@
       "lat": "38.9872099"
     },
     "cspac": {
+      "routes": {},
       "lon": "-76.9494",
       "title": "Valley Drive at Stadium Drive Garage",
       "shortTitle": "Valley Drive @ Stadium Drive Garage",
@@ -2224,6 +1292,7 @@
       "lat": "38.9902373"
     },
     "elk": {
+      "routes": {},
       "lon": "-76.9485888",
       "title": "Elkton Hall",
       "stopId": "27227",
@@ -2231,6 +1300,7 @@
       "lat": "38.9924177"
     },
     "hage": {
+      "routes": {},
       "lon": "-76.947599",
       "title": "Hagerstown Hall",
       "stopId": "27514",
@@ -2238,6 +1308,7 @@
       "lat": "38.99297"
     },
     "laplat": {
+      "routes": {},
       "lon": "-76.94563",
       "title": "La Plata Hall",
       "stopId": "27197",
@@ -2245,6 +1316,7 @@
       "lat": "38.9922186"
     },
     "camb": {
+      "routes": {},
       "lon": "-76.9430218",
       "title": "Cambridge Hall",
       "stopId": "36274",
@@ -2252,6 +1324,7 @@
       "lat": "38.9914205"
     },
     "mitc_out": {
+      "routes": {},
       "lon": "-76.9401999",
       "title": "Mitchell Building (Outbound)",
       "stopId": "30487",
@@ -2259,6 +1332,7 @@
       "lat": "38.9866498"
     },
     "memo_out": {
+      "routes": {},
       "lon": "-76.94015",
       "title": "Memorial Chapel (Outbound)",
       "stopId": "30043",
@@ -2266,6 +1340,7 @@
       "lat": "38.9848206"
     },
     "mont_out": {
+      "routes": {},
       "lon": "-76.9391529",
       "title": "Montgomery Hall (Outbound)",
       "stopId": "30456",
@@ -2273,6 +1348,7 @@
       "lat": "38.9824312"
     },
     "baltritc_s": {
+      "routes": {},
       "lon": "-76.9370967",
       "title": "Ritchie Coliseum",
       "stopId": "27291",
@@ -2280,6 +1356,7 @@
       "lat": "38.9852774"
     },
     "mcirc_s": {
+      "routes": {},
       "lon": "-76.9394934",
       "title": "Campus Dr at M Circle",
       "shortTitle": "Campus Dr @ M Circle",
@@ -2288,6 +1365,7 @@
       "lat": "38.9877034"
     },
     "hoff": {
+      "routes": {},
       "lon": "-76.94539",
       "title": "Hoff Theater",
       "stopId": "34507",
@@ -2295,6 +1373,7 @@
       "lat": "38.9880692"
     },
     "uniofiel": {
+      "routes": {},
       "lon": "-76.9453067",
       "title": "Union Ln and Fieldhouse Dr",
       "shortTitle": "Union Ln & Fieldhouse Dr",
@@ -2303,6 +1382,7 @@
       "lat": "38.9886932"
     },
     "biofield": {
+      "routes": {},
       "lon": "-76.9421089",
       "title": "BioSciences Research Building",
       "stopId": "50016",
@@ -2310,6 +1390,7 @@
       "lat": "38.9892576"
     },
     "cour300": {
+      "routes": {},
       "lon": "-76.9419255",
       "title": "Courtyards #300",
       "stopId": "27047",
@@ -2317,6 +1398,7 @@
       "lat": "39.0013104"
     },
     "cour400": {
+      "routes": {},
       "lon": "-76.94271",
       "title": "Courtyards #400",
       "stopId": "27742",
@@ -2324,6 +1406,7 @@
       "lat": "39.001867"
     },
     "gree": {
+      "routes": {},
       "lon": "-76.9433266",
       "title": "Greenmeade Dr at Maryland 4-H (Inbound)",
       "shortTitle": "Greenmeade Dr @ Maryland 4-H (Inbound)",
@@ -2332,6 +1415,7 @@
       "lat": "39.0026811"
     },
     "lot4i_r": {
+      "routes": {},
       "lon": "-76.9404883",
       "title": "Paint Branch Dr at Lot 4b (Inbound)",
       "shortTitle": "Paint Branch Dr @ Lot 4b (Inbound)",
@@ -2340,6 +1424,7 @@
       "lat": "38.9978287"
     },
     "univclub": {
+      "routes": {},
       "lon": "-76.9298057",
       "title": "University Club Apartments",
       "stopId": "31765",
@@ -2347,6 +1432,7 @@
       "lat": "38.9906518"
     },
     "varsity": {
+      "routes": {},
       "lon": "-76.9340079",
       "title": "Baltimore Ave at The Varsity",
       "shortTitle": "Baltimore @ The Varsity",
@@ -2355,6 +1441,7 @@
       "lat": "38.9908309"
     },
     "dent": {
+      "routes": {},
       "lon": "-76.9500274",
       "title": "Denton Hall",
       "stopId": "36424",
@@ -2362,6 +1449,7 @@
       "lat": "38.9919122"
     },
     "tula3424": {
+      "routes": {},
       "lon": "-76.9559259",
       "title": "Graduate Hills at 3424 Tulane Dr",
       "shortTitle": "Graduate Hills @ 3424 Tulane Dr",
@@ -2370,6 +1458,7 @@
       "lat": "38.9849405"
     },
     "tula3410": {
+      "routes": {},
       "lon": "-76.9572802",
       "title": "Graduate Hills at 3410 Tulane Dr",
       "shortTitle": "Graduate Hills @ 3410 Tulane Dr",
@@ -2378,6 +1467,7 @@
       "lat": "38.984739"
     },
     "tula3403": {
+      "routes": {},
       "lon": "-76.95824",
       "title": "Graduate Hills at 3404 Tulane Dr",
       "shortTitle": "Graduate Hills @ 3404 Tulane Dr",
@@ -2386,6 +1476,7 @@
       "lat": "38.9846822"
     },
     "camplot19": {
+      "routes": {},
       "lon": "-76.9544776",
       "title": "Campus Dr at UMUC Lot 19",
       "shortTitle": "Campus Dr @ UMUC Lot 19",
@@ -2394,6 +1485,7 @@
       "lat": "38.9852911"
     },
     "univbapt": {
+      "routes": {},
       "lon": "-76.9524262",
       "title": "University Methodist Church",
       "stopId": "34894",
@@ -2401,6 +1493,7 @@
       "lat": "38.9848573"
     },
     "hillmunc": {
+      "routes": {},
       "lon": "-76.9482112",
       "title": "Van Munching Hall (Inbound)",
       "stopId": "27075",
@@ -2408,6 +1501,7 @@
       "lat": "38.9830167"
     },
     "lds": {
+      "routes": {},
       "lon": "-76.9471916",
       "title": "LDS Institute of Religion",
       "stopId": "27533",
@@ -2415,6 +1509,7 @@
       "lat": "38.9822297"
     },
     "sccomm1_2": {
+      "routes": {},
       "lon": "-76.9434585",
       "title": "South Campus Commons 1 & 2",
       "stopId": "27505",
@@ -2422,6 +1517,7 @@
       "lat": "38.9823305"
     },
     "4315rwlt": {
+      "routes": {},
       "lon": "-76.9414545",
       "title": "Graduate Gardens at 4315 Rowalt Dr",
       "shortTitle": "Graduate Gardens @ 4315 Rowalt Dr",
@@ -2430,6 +1526,7 @@
       "lat": "38.9788425"
     },
     "4327rwlt": {
+      "routes": {},
       "lon": "-76.9400307",
       "title": "Graduate Gardens at 4327 Rowalt Dr",
       "shortTitle": "Graduate Gardens @ 4327 Rowalt Dr",
@@ -2438,6 +1535,7 @@
       "lat": "38.9782048"
     },
     "balthart_in": {
+      "routes": {},
       "lon": "-76.93783",
       "title": "Baltimore Ave and Hartwick Rd (Inbound)",
       "shortTitle": "Baltimore & Hartwick (Inbound)",
@@ -2446,6 +1544,7 @@
       "lat": "38.9794663"
     },
     "shoebuil": {
+      "routes": {},
       "lon": "-76.9421853",
       "title": "Shoemaker Building",
       "stopId": "37232",
@@ -2453,6 +1552,7 @@
       "lat": "38.9838654"
     },
     "loty": {
+      "routes": {},
       "lon": "-76.9417399",
       "title": "Lot Y and Chapel Dr",
       "shortTitle": "Lot Y & Chapel Dr",
@@ -2461,6 +1561,7 @@
       "lat": "38.9843599"
     },
     "painstad_r": {
+      "routes": {},
       "lon": "-76.9372506",
       "title": "Glenn L. Martin Wind Tunnel",
       "stopId": "30500",
@@ -2468,6 +1569,7 @@
       "lat": "38.9899585"
     },
     "avwill": {
+      "routes": {},
       "lon": "-76.93726",
       "title": "A.V. Williams Building",
       "stopId": "27863",
@@ -2475,6 +1577,7 @@
       "lat": "38.9909815"
     },
     "techpain": {
+      "routes": {},
       "lon": "-76.93727",
       "title": "Paint Branch Dr and Technology Dr",
       "shortTitle": "Paint Branch Dr & Technology Dr",
@@ -2483,6 +1586,7 @@
       "lat": "38.9925816"
     },
     "stamsu_m": {
+      "routes": {},
       "lon": "-76.9439438",
       "title": "Stamp Student Union - Slip",
       "stopId": "10001",
@@ -2490,6 +1594,7 @@
       "lat": "38.9876098"
     },
     "knoxyale": {
+      "routes": {},
       "lon": "-76.9368551",
       "title": "Knox Road and Yale Avenue",
       "shortTitle": "Knox & Yale",
@@ -2498,6 +1603,7 @@
       "lat": "38.9806089"
     },
     "prinknox": {
+      "routes": {},
       "lon": "-76.9353307",
       "title": "Knox Rd and Princeton Ave",
       "shortTitle": "Knox & Princeton",
@@ -2506,6 +1612,7 @@
       "lat": "38.9802601"
     },
     "hopkknox": {
+      "routes": {},
       "lon": "-76.9338359",
       "title": "Knox Rd and Hopkins Ave",
       "shortTitle": "Knox & Hopkins",
@@ -2514,6 +1621,7 @@
       "lat": "38.9799235"
     },
     "knoxrhod": {
+      "routes": {},
       "lon": "-76.9324227",
       "title": "Knox Rd and Rhode Island Ave",
       "shortTitle": "Knox & Rhode Island",
@@ -2522,6 +1630,7 @@
       "lat": "38.9796165"
     },
     "rhodcoll": {
+      "routes": {},
       "lon": "-76.9318659",
       "title": "Rhode Island Ave & College Ave",
       "shortTitle": "Rhode Island & College",
@@ -2530,6 +1639,7 @@
       "lat": "38.9807245"
     },
     "rhodnorw_s": {
+      "routes": {},
       "lon": "-76.9313952",
       "title": "Rhode Island Ave and Norwich Rd",
       "shortTitle": "Rhode Island & Norwich",
@@ -2538,6 +1648,7 @@
       "lat": "38.9818979"
     },
     "rossrhod": {
+      "routes": {},
       "lon": "-76.93131",
       "title": "Rossborough Ln and Rhode Island Ave",
       "shortTitle": "Rossborough Ln & Rhode Island",
@@ -2546,6 +1657,7 @@
       "lat": "38.9834008"
     },
     "5frat": {
+      "routes": {},
       "lon": "-76.9342719",
       "title": "Fraternity Row #5",
       "stopId": "27726",
@@ -2553,6 +1665,7 @@
       "lat": "38.9848022"
     },
     "leoncomm_out": {
+      "routes": {},
       "lon": "-76.9337999",
       "title": "Leonardtown Community Center",
       "stopId": "27364",
@@ -2560,6 +1673,7 @@
       "lat": "38.98371"
     },
     "11frat": {
+      "routes": {},
       "lon": "-76.9354865",
       "title": "Fraternity Row #11",
       "stopId": "27682",
@@ -2567,6 +1681,7 @@
       "lat": "38.983016"
     },
     "yalecoll": {
+      "routes": {},
       "lon": "-76.9364056",
       "title": "Yale Ave and Lehigh Rd",
       "shortTitle": "Yale & Lehigh",
@@ -2575,6 +1690,7 @@
       "lat": "38.9815053"
     },
     "yaleknox_ib": {
+      "routes": {},
       "lon": "-76.9368328",
       "title": "Yale Avenue and Knox Road",
       "shortTitle": "Yale & Knox",
@@ -2583,6 +1699,7 @@
       "lat": "38.9806721"
     },
     "collpksh_ib": {
+      "routes": {},
       "lon": "-76.9389541",
       "title": "College Park Shopping Center (Inbound)",
       "stopId": "50014",
@@ -2590,6 +1707,7 @@
       "lat": "38.9810063"
     },
     "scam34": {
+      "routes": {},
       "lon": "-76.9408182",
       "title": "South Campus Commons 3 and 4",
       "shortTitle": "South Campus Commons 3 & 4",
@@ -2598,6 +1716,7 @@
       "lat": "38.9811409"
     },
     "sccomm5_6": {
+      "routes": {},
       "lon": "-76.9448437",
       "title": "South Campus Commons 5 and 6",
       "shortTitle": "South Campus Commons 5 & 6",
@@ -2606,6 +1725,7 @@
       "lat": "38.9823229"
     },
     "lota": {
+      "routes": {},
       "lon": "-76.9451946",
       "title": "Preinkert Drive at Lot A",
       "shortTitle": "Preinkert Drive @ Lot A",
@@ -2614,6 +1734,7 @@
       "lat": "38.9842509"
     },
     "somehall": {
+      "routes": {},
       "lon": "-76.9458235",
       "title": "Somerset Hall",
       "stopId": "27412",
@@ -2621,6 +1742,7 @@
       "lat": "38.9847538"
     },
     "annearun": {
+      "routes": {},
       "lon": "-76.9469495",
       "title": "Anne Arundel Hall",
       "stopId": "27941",
@@ -2628,28 +1750,24 @@
       "lat": "38.9859448"
     },
     "dorchall": {
+      "routes": {},
       "lon": "-76.9465401",
       "title": "Dorchester Hall",
       "stopId": "48075",
       "tag": "dorchall",
       "lat": "38.9869691"
     },
-    "diviofit": {
-      "lon": "-76.923247",
-      "title": "Division of IT",
-      "stopId": "31571",
-      "tag": "diviofit",
-      "lat": "38.9691629"
-    },
     "univshad": {
-      "lon": "-77.199467",
+      "routes": {},
+      "lon": "-77.2018299",
       "title": "The Universities at Shady Grove",
       "shortTitle": "The Universities @ Shady Grove",
       "stopId": "34777",
       "tag": "univshad",
-      "lat": "39.0917039"
+      "lat": "39.0934528"
     },
     "univpkth": {
+      "routes": {},
       "lon": "-76.9380183",
       "title": "Baltimore Ave at University Park Town Hall",
       "shortTitle": "Baltimore @ University Park Town Hall",
@@ -2658,6 +1776,7 @@
       "lat": "38.9725018"
     },
     "baltrive_out": {
+      "routes": {},
       "lon": "-76.9383656",
       "title": "Baltimore Avenue at Riverdale Park Station (Outbound)",
       "shortTitle": "Baltimore @ Riverdale Park Station (Outbound)",
@@ -2666,6 +1785,7 @@
       "lat": "38.9699162"
     },
     "baltunde": {
+      "routes": {},
       "lon": "-76.9385684",
       "title": "Baltimore Ave and Underwood St",
       "shortTitle": "Baltimore & Underwood",
@@ -2674,6 +1794,7 @@
       "lat": "38.9686098"
     },
     "ewhwbeal": {
+      "routes": {},
       "lon": "-76.9379016",
       "title": "East-West Hwy and W Beale Cir",
       "shortTitle": "East-West Hwy & W Beale Cir",
@@ -2682,6 +1803,7 @@
       "lat": "38.9641206"
     },
     "ewhwtayl_out": {
+      "routes": {},
       "lon": "-76.9294593",
       "title": "East-West Hwy and Taylor Rd (Outbound)",
       "shortTitle": "East-West Hwy & Taylor (Outbound)",
@@ -2690,6 +1812,7 @@
       "lat": "38.9623242"
     },
     "rivd63rd": {
+      "routes": {},
       "lon": "-76.9100993",
       "title": "Riverdale Rd and 63rd Ave",
       "shortTitle": "Riverdale & 63rd",
@@ -2698,6 +1821,7 @@
       "lat": "38.9609676"
     },
     "riveeast": {
+      "routes": {},
       "lon": "-76.9067853",
       "title": "Riverdale Rd and Eastpine Dr",
       "shortTitle": "Riverdale & Eastpine Dr",
@@ -2706,6 +1830,7 @@
       "lat": "38.9610499"
     },
     "rive67th": {
+      "routes": {},
       "lon": "-76.9028455",
       "title": "Riverdale Rd and 67th Ave",
       "shortTitle": "Riverdale & 67th",
@@ -2714,6 +1839,7 @@
       "lat": "38.9613322"
     },
     "riveaubu": {
+      "routes": {},
       "lon": "-76.8971077",
       "title": "Riverdale Rd and Auburn Ave",
       "shortTitle": "Riverdale & Auburn",
@@ -2722,6 +1848,7 @@
       "lat": "38.9642799"
     },
     "rivemart": {
+      "routes": {},
       "lon": "-76.8893633",
       "title": "Riverdale Rd and Martins Ln",
       "shortTitle": "Riverdale & Martins Ln",
@@ -2730,6 +1857,7 @@
       "lat": "38.9634325"
     },
     "rivefinn": {
+      "routes": {},
       "lon": "-76.8867462",
       "title": "Riverdale Rd and Finns Ln",
       "shortTitle": "Riverdale & Finns Ln",
@@ -2738,6 +1866,7 @@
       "lat": "38.9620909"
     },
     "rivelamo": {
+      "routes": {},
       "lon": "-76.8826626",
       "title": "Riverdale Rd and Lamont Dr",
       "shortTitle": "Riverdale & Lamont Dr",
@@ -2746,6 +1875,7 @@
       "lat": "38.9613655"
     },
     "founclap": {
+      "routes": {},
       "lon": "-76.8795845",
       "title": "Riverdale Rd at Fountain Club Apartments",
       "shortTitle": "Riverdale @ Fountain Club Apartments",
@@ -2754,6 +1884,7 @@
       "lat": "38.9600285"
     },
     "rivemaho": {
+      "routes": {},
       "lon": "-76.8776599",
       "title": "Riverdale Rd and Mahoney Dr",
       "shortTitle": "Riverdale & Mahoney Dr",
@@ -2762,6 +1893,7 @@
       "lat": "38.9595921"
     },
     "herisqap": {
+      "routes": {},
       "lon": "-76.8752214",
       "title": "Riverdale Rd at Heritage Square Apartments",
       "shortTitle": "Riverdale @ Heritage Square Apartments",
@@ -2770,6 +1902,7 @@
       "lat": "38.9585214"
     },
     "annarive": {
+      "routes": {},
       "lon": "-76.8735862",
       "title": "Annapolis Rd and Riverdale Rd",
       "shortTitle": "Annapolis & Riverdale",
@@ -2778,6 +1911,7 @@
       "lat": "38.9554776"
     },
     "harkanna": {
+      "routes": {},
       "lon": "-76.8776441",
       "title": "Harkins Rd and Annapolis Rd",
       "shortTitle": "Harkins & Annapolis",
@@ -2786,6 +1920,7 @@
       "lat": "38.9523513"
     },
     "ncarmetr": {
+      "routes": {},
       "lon": "-76.872531",
       "title": "New Carrollton Metro Station",
       "stopId": "37071",
@@ -2793,6 +1928,7 @@
       "lat": "38.950275"
     },
     "lenocrap": {
+      "routes": {},
       "lon": "-76.86878",
       "title": "85th Ave at Lenox Court Apartments",
       "shortTitle": "85th @ Lenox Court Apartments",
@@ -2801,6 +1937,7 @@
       "lat": "38.9538912"
     },
     "carrmnap": {
+      "routes": {},
       "lon": "-76.8682799",
       "title": "85th Ave at Carrollton Manor Apartments",
       "shortTitle": "85th @ Carrollton Manor Apartments",
@@ -2809,6 +1946,7 @@
       "lat": "38.9560194"
     },
     "long85th": {
+      "routes": {},
       "lon": "-76.8697998",
       "title": "85th Ave and Longfellow St",
       "shortTitle": "85th & Longfellow",
@@ -2817,6 +1955,7 @@
       "lat": "38.9595984"
     },
     "lega85th": {
+      "routes": {},
       "lon": "-76.86988",
       "title": "85th Ave and Legation St",
       "shortTitle": "85th & Legation",
@@ -2825,6 +1964,7 @@
       "lat": "38.9607897"
     },
     "westmadi": {
+      "routes": {},
       "lon": "-76.8702329",
       "title": "Westbrook Dr and Madison St",
       "shortTitle": "Westbrook Dr & Madison",
@@ -2833,6 +1973,7 @@
       "lat": "38.9623382"
     },
     "westogle": {
+      "routes": {},
       "lon": "-76.8715631",
       "title": "Westbrook Dr and Oglethorpe St",
       "shortTitle": "Westbrook Dr & Oglethorpe",
@@ -2841,6 +1982,7 @@
       "lat": "38.9642507"
     },
     "westpowh": {
+      "routes": {},
       "lon": "-76.8730066",
       "title": "Westbrook Dr and Powhatan St",
       "shortTitle": "Westbrook Dr & Powhatan",
@@ -2849,6 +1991,7 @@
       "lat": "38.9655375"
     },
     "westlamo": {
+      "routes": {},
       "lon": "-76.8802797",
       "title": "Westbrook Dr and Lamont Dr",
       "shortTitle": "Westbrook Dr & Lamont Dr",
@@ -2857,6 +2000,7 @@
       "lat": "38.9658"
     },
     "lamolarc": {
+      "routes": {},
       "lon": "-76.8798726",
       "title": "Lamont Dr and Larchwood St",
       "shortTitle": "Lamont Dr & Larchwood",
@@ -2865,6 +2009,7 @@
       "lat": "38.9678768"
     },
     "lamocarr": {
+      "routes": {},
       "lon": "-76.8801133",
       "title": "Lamont Dr and Carrollton Pkwy",
       "shortTitle": "Lamont Dr & Carrollton Pkwy",
@@ -2873,6 +2018,7 @@
       "lat": "38.9693724"
     },
     "lamoquen": {
+      "routes": {},
       "lon": "-76.8807906",
       "title": "Lamont Dr and Quentin St",
       "shortTitle": "Lamont Dr & Quentin",
@@ -2881,6 +2027,7 @@
       "lat": "38.9718528"
     },
     "lamodono": {
+      "routes": {},
       "lon": "-76.8821712",
       "title": "Lamont Dr and Donoghue Dr",
       "shortTitle": "Lamont Dr & Donoghue Dr",
@@ -2889,6 +2036,7 @@
       "lat": "38.9746629"
     },
     "lamoelem": {
+      "routes": {},
       "lon": "-76.8838799",
       "title": "Good Luck Rd at Lamont Elementary School",
       "shortTitle": "Good Luck @ Lamont Elementary School",
@@ -2897,6 +2045,7 @@
       "lat": "38.97497"
     },
     "gdlknash": {
+      "routes": {},
       "lon": "-76.8864035",
       "title": "Good Luck Rd and Nashville Rd",
       "shortTitle": "Good Luck & Nashville",
@@ -2905,6 +2054,7 @@
       "lat": "38.9746889"
     },
     "gdlkian": {
+      "routes": {},
       "lon": "-76.8912732",
       "title": "Good Luck Rd and Ian St",
       "shortTitle": "Good Luck & Ian",
@@ -2913,6 +2063,7 @@
       "lat": "38.9725315"
     },
     "aubuches": {
+      "routes": {},
       "lon": "-76.893795",
       "title": "Auburn Ave and Chestnut Ave",
       "shortTitle": "Auburn & Chestnut",
@@ -2921,6 +2072,7 @@
       "lat": "38.9714872"
     },
     "aubu3rd": {
+      "routes": {},
       "lon": "-76.8948129",
       "title": "Auburn Ave and 3rd St",
       "shortTitle": "Auburn & 3rd",
@@ -2929,6 +2081,7 @@
       "lat": "38.9691259"
     },
     "aubu1st": {
+      "routes": {},
       "lon": "-76.8960399",
       "title": "Auburn Ave and 1st St",
       "shortTitle": "Auburn & 1st",
@@ -2937,6 +2090,7 @@
       "lat": "38.96631"
     },
     "auburive": {
+      "routes": {},
       "lon": "-76.8966299",
       "title": "Auburn Ave and Riverdale Rd",
       "shortTitle": "Auburn & Riverdale",
@@ -2945,6 +2099,7 @@
       "lat": "38.9650301"
     },
     "wildshop": {
+      "routes": {},
       "lon": "-76.8978744",
       "title": "Riverdale Rd at Wildercroft Shopping Center",
       "shortTitle": "Riverdale @ Wildercroft Shopping Center",
@@ -2953,6 +2108,7 @@
       "lat": "38.9644101"
     },
     "rive67ct": {
+      "routes": {},
       "lon": "-76.9023121",
       "title": "Riverdale Rd and 67th Ct",
       "shortTitle": "Riverdale & 67th Ct",
@@ -2961,6 +2117,7 @@
       "lat": "38.9618134"
     },
     "rive64th": {
+      "routes": {},
       "lon": "-76.907408",
       "title": "Riverdale Rd and 64th Ave",
       "shortTitle": "Riverdale & 64th",
@@ -2969,6 +2126,7 @@
       "lat": "38.9612295"
     },
     "rive62nd_in": {
+      "routes": {},
       "lon": "-76.9120177",
       "title": "Riverdale Rd and 62nd Place",
       "shortTitle": "Riverdale & 62nd Place",
@@ -2977,6 +2135,7 @@
       "lat": "38.9607608"
     },
     "rive58th": {
+      "routes": {},
       "lon": "-76.915671",
       "title": "Riverdale Rd at St Jude Lutheran Church",
       "shortTitle": "Riverdale @ Jude Lutheran Church",
@@ -2985,6 +2144,7 @@
       "lat": "38.9601372"
     },
     "ewhwtayl_in": {
+      "routes": {},
       "lon": "-76.9290223",
       "title": "East-West Hwy and Taylor Rd (Inbound)",
       "shortTitle": "East-West Hwy & Taylor (Inbound)",
@@ -2993,6 +2153,7 @@
       "lat": "38.9624905"
     },
     "baltsher": {
+      "routes": {},
       "lon": "-76.9388188",
       "title": "Baltimore Ave and Sheridan St",
       "shortTitle": "Baltimore & Sheridan",
@@ -3001,6 +2162,7 @@
       "lat": "38.9657284"
     },
     "ngarmo": {
+      "routes": {},
       "lon": "-76.9384612",
       "title": "Baltimore Ave at National Guard Armory",
       "shortTitle": "Baltimore @ National Guard Armory",
@@ -3009,6 +2171,7 @@
       "lat": "38.9683105"
     },
     "baltrive_in": {
+      "routes": {},
       "lon": "-76.9382695",
       "title": "Baltimore Avenue at Riverdale Park Station (Inbound)",
       "shortTitle": "Baltimore @ Riverdale Park Station (Inbound)",
@@ -3017,6 +2180,7 @@
       "lat": "38.9697021"
     },
     "baltamhe": {
+      "routes": {},
       "lon": "-76.937862",
       "title": "Baltimore Ave and Amherst Rd",
       "shortTitle": "Baltimore & Amherst",
@@ -3025,6 +2189,7 @@
       "lat": "38.9728518"
     },
     "campmath_m": {
+      "routes": {},
       "lon": "-76.9386064",
       "title": "Campus Dr at Math Slip",
       "shortTitle": "Campus Dr @ Math Slip",
@@ -3033,6 +2198,7 @@
       "lat": "38.9878607"
     },
     "baltmacd": {
+      "routes": {},
       "lon": "-76.9331919",
       "title": "Baltimore Avenue and Berwyn House Road",
       "shortTitle": "Baltimore & Berwyn House",
@@ -3041,6 +2207,7 @@
       "lat": "38.9923857"
     },
     "baltqueb_out": {
+      "routes": {},
       "lon": "-76.9322248",
       "title": "Baltimore Ave and Quebec St(Outbound)",
       "shortTitle": "Baltimore & Quebec St(Outbound)",
@@ -3048,15 +2215,17 @@
       "tag": "baltqueb_out",
       "lat": "38.9946079"
     },
-    "baltberw_out": {
-      "lon": "-76.9317454",
-      "title": "Baltimore Ave and Berwyn Rd (Outbound)",
-      "shortTitle": "Baltimore & Berwyn (Outbound)",
-      "stopId": "30351",
-      "tag": "baltberw_out",
-      "lat": "38.9961091"
+    "balttecu": {
+      "routes": {},
+      "lon": "-76.9315668",
+      "title": "Baltimore Avenue and Tecumseh Street",
+      "shortTitle": "Baltimore & Tecumseh",
+      "stopId": "55001",
+      "tag": "balttecu",
+      "lat": "38.9974284"
     },
     "rhoduniv": {
+      "routes": {},
       "lon": "-76.92481",
       "title": "Rhode Island Avenue and University Boulevard (Outbound)",
       "shortTitle": "Rhode Island & University (Outbound)",
@@ -3064,7 +2233,35 @@
       "tag": "rhoduniv",
       "lat": "39.0009848"
     },
+    "rhodcher": {
+      "routes": {},
+      "lon": "-76.9244429",
+      "title": "Rhode Island Avenue and Cherokee Street (Outbound)",
+      "shortTitle": "Rhode Island & Cherokee (Outbound)",
+      "stopId": "27372",
+      "tag": "rhodcher",
+      "lat": "39.0023911"
+    },
+    "rhodfox": {
+      "routes": {},
+      "lon": "-76.9235001",
+      "title": "Rhode Island Avenue and Fox Street (Outbound)",
+      "shortTitle": "Rhode Island & Fox (Outbound)",
+      "stopId": "27934",
+      "tag": "rhodfox",
+      "lat": "39.0059745"
+    },
+    "rhodholl": {
+      "routes": {},
+      "lon": "-76.9221691",
+      "title": "Rhode Island Avenue and Hollywood Road (Outbound)",
+      "shortTitle": "Rhode Island & Hollywood (Outbound)",
+      "stopId": "30366",
+      "tag": "rhodholl",
+      "lat": "39.0108965"
+    },
     "rhodshop": {
+      "routes": {},
       "lon": "-76.9213841",
       "title": "Rhode Island Avenue at Hollywood Shopping Center",
       "shortTitle": "Rhode Island @ Hollywood Shopping Center",
@@ -3072,7 +2269,26 @@
       "tag": "rhodshop",
       "lat": "39.0138375"
     },
+    "edgerhod": {
+      "routes": {},
+      "lon": "-76.9214156",
+      "title": "Edgewood Road and Rhode Island Avenue (Outbound)",
+      "shortTitle": "Edgewood & Rhode Island (Outbound)",
+      "stopId": "27703",
+      "tag": "edgerhod",
+      "lat": "39.0161019"
+    },
+    "edge49th": {
+      "routes": {},
+      "lon": "-76.924355",
+      "title": "Edgewood Road and 49th Avenue (Outbound)",
+      "shortTitle": "Edgewood & 49th (Outbound)",
+      "stopId": "31691",
+      "tag": "edge49th",
+      "lat": "39.0160649"
+    },
     "mazz": {
+      "routes": {},
       "lon": "-76.9300394",
       "title": "Mazza GrandMarc",
       "stopId": "37065",
@@ -3080,6 +2296,7 @@
       "lat": "39.0111215"
     },
     "baltberw_s": {
+      "routes": {},
       "lon": "-76.931829",
       "title": "Baltimore Ave and Berwyn Rd (Inbound)",
       "shortTitle": "Baltimore & Berwyn (Inbound)",
@@ -3088,6 +2305,7 @@
       "lat": "38.996407"
     },
     "baltqueb_in": {
+      "routes": {},
       "lon": "-76.932356",
       "title": "Baltimore Ave and Quebec St (Inbound)",
       "shortTitle": "Baltimore & Quebec (Inbound)",
@@ -3096,6 +2314,7 @@
       "lat": "38.9946243"
     },
     "varsfron": {
+      "routes": {},
       "lon": "-76.9340076",
       "title": "Baltimore Ave at The Varsity",
       "shortTitle": "Baltimore @ The Varsity",
@@ -3104,6 +2323,7 @@
       "lat": "38.9908311"
     },
     "dent_e": {
+      "routes": {},
       "lon": "-76.9500943",
       "title": "Denton Hall",
       "stopId": "36424",
@@ -3111,6 +2331,7 @@
       "lat": "38.9919412"
     },
     "enclave_s": {
+      "routes": {},
       "lon": "-76.93182",
       "title": "The Enclave",
       "stopId": "37121",
@@ -3118,6 +2339,7 @@
       "lat": "38.99782"
     },
     "vars": {
+      "routes": {},
       "lon": "-76.9340075",
       "title": "Baltimore Ave at The Varsity",
       "shortTitle": "Baltimore @ The Varsity",
@@ -3126,6 +2348,7 @@
       "lat": "38.9908313"
     },
     "camb_out": {
+      "routes": {},
       "lon": "-76.9438804",
       "title": "Cambridge Hall (Outbound)",
       "stopId": "48069",
@@ -3133,6 +2356,7 @@
       "lat": "38.9915013"
     },
     "laplat_out": {
+      "routes": {},
       "lon": "-76.945597",
       "title": "La Plata Hall (Outbound)",
       "stopId": "48070",
@@ -3140,6 +2364,7 @@
       "lat": "38.9928692"
     },
     "hage_out": {
+      "routes": {},
       "lon": "-76.9477048",
       "title": "Hagerstown Hall (Outbound)",
       "stopId": "48071",
@@ -3147,6 +2372,7 @@
       "lat": "38.9930112"
     },
     "elkton_out": {
+      "routes": {},
       "lon": "-76.9486289",
       "title": "Elkton Hall (Outbound)",
       "stopId": "48072",
@@ -3154,6 +2380,7 @@
       "lat": "38.992501"
     },
     "vallstad": {
+      "routes": {},
       "lon": "-76.949457",
       "title": "Valley Drive at Stadium Drive Garage (Outbound)",
       "shortTitle": "Valley Drive @ Stadium Drive Garage (Outbound)",
@@ -3162,6 +2389,7 @@
       "lat": "38.9902296"
     },
     "benj": {
+      "routes": {},
       "lon": "-76.9471001",
       "title": "Benjamin Building",
       "stopId": "48074",
@@ -3169,6 +2397,7 @@
       "lat": "38.987176"
     },
     "amersafe": {
+      "routes": {},
       "lon": "-76.9522059",
       "title": "America Boulevard at Safeway",
       "shortTitle": "America @ Safeway",
@@ -3177,6 +2406,7 @@
       "lat": "38.9674012"
     },
     "amerregal": {
+      "routes": {},
       "lon": "-76.952074",
       "title": "America Boulevard at Regal Cinemas Hyattsville",
       "shortTitle": "America @ Regal Cinemas Hyattsville",
@@ -3185,6 +2415,7 @@
       "lat": "38.9689218"
     },
     "guilrowa_in": {
+      "routes": {},
       "lon": "-76.9390836",
       "title": "Guilford Drive and Rowalt Drive (Inbound)",
       "shortTitle": "Guilford Drive & Rowalt Drive (Inbound)",
@@ -3193,6 +2424,7 @@
       "lat": "38.9781553"
     },
     "hage_in": {
+      "routes": {},
       "lon": "-76.9475987",
       "title": "Hagerstown Hall (Inbound)",
       "stopId": "27514",
@@ -3200,6 +2432,7 @@
       "lat": "38.99297"
     },
     "laplat_in": {
+      "routes": {},
       "lon": "-76.94563",
       "title": "La Plata Hall (Inbound)",
       "stopId": "27197",
@@ -3207,6 +2440,7 @@
       "lat": "38.9922184"
     },
     "camb_in": {
+      "routes": {},
       "lon": "-76.9430216",
       "title": "Cambridge Hall (Inbound)",
       "stopId": "36274",
@@ -3214,13 +2448,24 @@
       "lat": "38.9914204"
     },
     "painglen_ob": {
+      "routes": {},
       "lon": "-76.93725",
       "title": "Glenn L. Martin Wind Tunnel",
       "stopId": "30500",
       "tag": "painglen_ob",
       "lat": "38.98995"
     },
+    "baltpaca": {
+      "routes": {},
+      "lon": "-76.6223289",
+      "title": "Baltimore St & Paca St",
+      "shortTitle": "Baltimore & Paca",
+      "stopId": "47038",
+      "tag": "baltpaca",
+      "lat": "39.2897837"
+    },
     "painglen_ib": {
+      "routes": {},
       "lon": "-76.93725",
       "title": "Glenn L. Martin Wind Tunnel",
       "stopId": "30500",
@@ -3228,6 +2473,7 @@
       "lat": "38.98995"
     },
     "wdiapknr_d": {
+      "routes": {},
       "lon": "-77.211631",
       "title": "West Diamond Ave Park & Ride Lot",
       "shortTitle": "West Diamond Park & Ride Lot",
@@ -3236,6 +2482,7 @@
       "lat": "39.1411079"
     },
     "brokride": {
+      "routes": {},
       "lon": "-76.8494732",
       "title": "Broken Land Park & Ride East Lot",
       "stopId": "50040",
@@ -3243,6 +2490,7 @@
       "lat": "39.174232"
     },
     "greeseve_ob": {
+      "routes": {},
       "lon": "-76.9244527",
       "title": "Greenbelt Rd at Severn Building (Outbound)",
       "shortTitle": "Greenbelt @ Severn Building (Outbound)",
@@ -3251,6 +2499,7 @@
       "lat": "38.99809"
     },
     "greestat_ob": {
+      "routes": {},
       "lon": "-76.9183707",
       "title": "Greenbelt Road and Greenbelt Station Parkway (Outbound)",
       "shortTitle": "Greenbelt & Greenbelt Station Parkway (Outbound)",
@@ -3259,6 +2508,7 @@
       "lat": "38.9980441"
     },
     "gree60th_ob": {
+      "routes": {},
       "lon": "-76.9126796",
       "title": "Greenbelt Rd and 60th Ave",
       "shortTitle": "Greenbelt & 60th",
@@ -3267,6 +2517,7 @@
       "lat": "38.9979499"
     },
     "60thgree_ob": {
+      "routes": {},
       "lon": "-76.911988",
       "title": "60th Ave and Greenbelt Rd (Outbound)",
       "shortTitle": "60th & Greenbelt (Outbound)",
@@ -3275,6 +2526,7 @@
       "lat": "38.9973235"
     },
     "60thruat_ob": {
+      "routes": {},
       "lon": "-76.9115234",
       "title": "60th Ave and Ruatan St (Outbound)",
       "shortTitle": "60th & Ruatan (Outbound)",
@@ -3283,6 +2535,7 @@
       "lat": "38.9947933"
     },
     "cunnpont": {
+      "routes": {},
       "lon": "-76.9130547",
       "title": "Cunningham Dr and Pontiac St",
       "shortTitle": "Cunningham Dr & Pontiac",
@@ -3291,6 +2544,7 @@
       "lat": "38.9923653"
     },
     "pont63rd_ob": {
+      "routes": {},
       "lon": "-76.9080273",
       "title": "Pontiac St and 63rd Ave (Outbound)",
       "shortTitle": "Pontiac & 63rd (Outbound)",
@@ -3299,6 +2553,7 @@
       "lat": "38.9910682"
     },
     "westpark_ob": {
+      "routes": {},
       "lon": "-76.9043144",
       "title": "Westchester Park Circle",
       "stopId": "30091",
@@ -3306,6 +2561,7 @@
       "lat": "38.9899966"
     },
     "ridgivy_ob": {
+      "routes": {},
       "lon": "-76.8907826",
       "title": "Ridge Road and Ivy Lane",
       "shortTitle": "Ridge & Ivy Lane",
@@ -3314,6 +2570,7 @@
       "lat": "39.0076373"
     },
     "ivylast_ob": {
+      "routes": {},
       "lon": "-76.8889441",
       "title": "Ivy Lane and Lastner Lane",
       "shortTitle": "Ivy Lane & Lastner Lane",
@@ -3322,6 +2579,7 @@
       "lat": "39.0074111"
     },
     "lastjuli_ob": {
+      "routes": {},
       "lon": "-76.8855675",
       "title": "Lastner Lane and Julian Court (Outbound)",
       "shortTitle": "Lastner Lane & Julian Court (Outbound)",
@@ -3330,6 +2588,7 @@
       "lat": "39.009003"
     },
     "ridgrese_ob": {
+      "routes": {},
       "lon": "-76.8784344",
       "title": "Ridge Road and Research Road (Outbound)",
       "shortTitle": "Ridge & Research (Outbound)",
@@ -3338,6 +2597,7 @@
       "lat": "39.0113012"
     },
     "ridgplat_ob": {
+      "routes": {},
       "lon": "-76.8734108",
       "title": "Ridge Road and Plateau Place (Outbound)",
       "shortTitle": "Ridge & Plateau Place (Outbound)",
@@ -3346,6 +2606,7 @@
       "lat": "39.0090892"
     },
     "ridgeast_ob": {
+      "routes": {},
       "lon": "-76.8729771",
       "title": "Ridge Road and Eastway (Outbound)",
       "shortTitle": "Ridge & Eastway (Outbound)",
@@ -3354,6 +2615,7 @@
       "lat": "39.0050668"
     },
     "ridggard_ob": {
+      "routes": {},
       "lon": "-76.8729202",
       "title": "Ridge Road and Gardenway (Outbound)",
       "shortTitle": "Ridge & Gardenway (Outbound)",
@@ -3362,6 +2624,7 @@
       "lat": "39.0008081"
     },
     "ridggrid": {
+      "routes": {},
       "lon": "-76.874829",
       "title": "Ridge Road at Green Ridge House Apartments",
       "shortTitle": "Ridge @ Green Ridge House Apartments",
@@ -3370,6 +2633,7 @@
       "lat": "38.9992112"
     },
     "westridg_ob": {
+      "routes": {},
       "lon": "-76.8821864",
       "title": "Westway and Ridge Road (Outbound)",
       "shortTitle": "Westway & Ridge (Outbound)",
@@ -3378,6 +2642,7 @@
       "lat": "38.9994685"
     },
     "lakewest_ob": {
+      "routes": {},
       "lon": "-76.8850616",
       "title": "Lakeside Drive and Westway (Outbound)",
       "shortTitle": "Lakeside Drive & Westway (Outbound)",
@@ -3386,6 +2651,7 @@
       "lat": "38.9985222"
     },
     "lakegree_ob": {
+      "routes": {},
       "lon": "-76.886761",
       "title": "Lakecrest Drive and Greenbelt Road (Outbound)",
       "shortTitle": "Lakecrest Drive & Greenbelt (Outbound)",
@@ -3394,6 +2660,7 @@
       "lat": "38.9960411"
     },
     "greegree_ob": {
+      "routes": {},
       "lon": "-76.8775104",
       "title": "Greenbelt Rd at Greenway Center (Outbound)",
       "shortTitle": "Greenbelt @ Greenway Center (Outbound)",
@@ -3402,6 +2669,7 @@
       "lat": "38.9939788"
     },
     "oraghano_ob": {
+      "routes": {},
       "lon": "-76.8757162",
       "title": "Ora Glen Dr and Hanover Pkwy",
       "shortTitle": "Ora Glen Dr & Hanover Pkwy",
@@ -3410,6 +2678,7 @@
       "lat": "38.99108"
     },
     "oraggree_ob": {
+      "routes": {},
       "lon": "-76.870705",
       "title": "Ora Glen Dr and Greenbrook Dr",
       "shortTitle": "Ora Glen Dr & Greenbrook Dr",
@@ -3417,7 +2686,17 @@
       "tag": "oraggree_ob",
       "lat": "38.9902385"
     },
+    "oragmorr": {
+      "routes": {},
+      "lon": "-76.8672934",
+      "title": "Ora Glen Drive and Morrison Drive",
+      "shortTitle": "Ora Glen Drive & Morrison Drive",
+      "stopId": "55002",
+      "tag": "oragmorr",
+      "lat": "38.9892076"
+    },
     "mandcann_ob": {
+      "routes": {},
       "lon": "-76.8643979",
       "title": "Mandan Rd and Canning Terr",
       "shortTitle": "Mandan & Canning Terr",
@@ -3426,6 +2705,7 @@
       "lat": "38.9904441"
     },
     "mandgoak_d": {
+      "routes": {},
       "lon": "-76.864278",
       "title": "Mandan Rd at Glen Oaks Apartments",
       "shortTitle": "Mandan @ Glen Oaks Apartments",
@@ -3434,6 +2714,7 @@
       "lat": "38.992671"
     },
     "mandhano_ib": {
+      "routes": {},
       "lon": "-76.8654631",
       "title": "Mandan Rd and Hanover Pkwy",
       "shortTitle": "Mandan & Hanover Pkwy",
@@ -3442,6 +2723,7 @@
       "lat": "38.9979006"
     },
     "hanoelea_ib": {
+      "routes": {},
       "lon": "-76.8705396",
       "title": "Hanover Pkwy at Eleanor Roosevelt High School",
       "shortTitle": "Hanover Pkwy @ Eleanor Roosevelt High School",
@@ -3450,6 +2732,7 @@
       "lat": "38.9965594"
     },
     "hanogree_ib": {
+      "routes": {},
       "lon": "-76.8740241",
       "title": "Hanover Pkwy and Greenbelt Rd",
       "shortTitle": "Hanover Pkwy & Greenbelt",
@@ -3458,6 +2741,7 @@
       "lat": "38.9948379"
     },
     "greegreei_ib": {
+      "routes": {},
       "lon": "-76.8770008",
       "title": "Greenbelt Rd at Greenway Center (Inbound)",
       "shortTitle": "Greenbelt @ Greenway Center (Inbound)",
@@ -3466,6 +2750,7 @@
       "lat": "38.9942301"
     },
     "lakegree_ib": {
+      "routes": {},
       "lon": "-76.8866386",
       "title": "Lakecrest Drive and Greenbelt Road (Inbound)",
       "shortTitle": "Lakecrest Drive & Greenbelt (Inbound)",
@@ -3474,6 +2759,7 @@
       "lat": "38.9960957"
     },
     "lakelake_ib": {
+      "routes": {},
       "lon": "-76.886087",
       "title": "Lakecrest Dr and Lakeside Dr",
       "shortTitle": "Lakecrest Dr & Lakeside Dr",
@@ -3482,6 +2768,7 @@
       "lat": "38.9978001"
     },
     "lakewest_ib": {
+      "routes": {},
       "lon": "-76.8848814",
       "title": "Lakeside Dr and Westway (Inbound)",
       "shortTitle": "Lakeside Dr & Westway (Inbound)",
@@ -3490,6 +2777,7 @@
       "lat": "38.9986079"
     },
     "westridg_ib": {
+      "routes": {},
       "lon": "-76.8819761",
       "title": "Westway and Ridge Rd (Inbound)",
       "shortTitle": "Westway & Ridge (Inbound)",
@@ -3498,6 +2786,7 @@
       "lat": "38.9995338"
     },
     "ridgsout_ib": {
+      "routes": {},
       "lon": "-76.8767675",
       "title": "Ridge Rd and Southway",
       "shortTitle": "Ridge & Southway",
@@ -3506,6 +2795,7 @@
       "lat": "38.9986295"
     },
     "ridggard_ib": {
+      "routes": {},
       "lon": "-76.8729368",
       "title": "Ridge Rd and Gardenway (Inbound)",
       "shortTitle": "Ridge & Gardenway (Inbound)",
@@ -3514,6 +2804,7 @@
       "lat": "39.0006214"
     },
     "ridgeast_ib": {
+      "routes": {},
       "lon": "-76.8727822",
       "title": "Ridge Rd and Eastway (Inbound)",
       "shortTitle": "Ridge & Eastway (Inbound)",
@@ -3522,6 +2813,7 @@
       "lat": "39.0048962"
     },
     "ridgplat_ib": {
+      "routes": {},
       "lon": "-76.8733011",
       "title": "Ridge Rd and Plateau Pl (Inbound)",
       "shortTitle": "Ridge & Plateau Pl (Inbound)",
@@ -3530,6 +2822,7 @@
       "lat": "39.0092352"
     },
     "ridgrese_ib": {
+      "routes": {},
       "lon": "-76.8780186",
       "title": "Ridge Rd and Research Rd (Inbound)",
       "shortTitle": "Ridge & Research (Inbound)",
@@ -3538,6 +2831,7 @@
       "lat": "39.0113699"
     },
     "lastjuli_ib": {
+      "routes": {},
       "lon": "-76.8853262",
       "title": "Lastner Ln and Julian Ct (Inbound)",
       "shortTitle": "Lastner Ln & Julian Ct (Inbound)",
@@ -3546,6 +2840,7 @@
       "lat": "39.0090903"
     },
     "lastivy_ib": {
+      "routes": {},
       "lon": "-76.8887266",
       "title": "Lastner Ln and Ivy Ln",
       "shortTitle": "Lastner Ln & Ivy Ln",
@@ -3554,6 +2849,7 @@
       "lat": "39.0075078"
     },
     "ivyridg_ib": {
+      "routes": {},
       "lon": "-76.8906287",
       "title": "Ivy Ln and Ridge Rd",
       "shortTitle": "Ivy Ln & Ridge",
@@ -3562,6 +2858,7 @@
       "lat": "39.0077479"
     },
     "westpark_ib": {
+      "routes": {},
       "lon": "-76.9043145",
       "title": "Westchester Park Circle",
       "stopId": "30091",
@@ -3569,6 +2866,7 @@
       "lat": "38.9899967"
     },
     "pont63rd_ib": {
+      "routes": {},
       "lon": "-76.9076994",
       "title": "Pontiac St and 63rd Ave (Inbound)",
       "shortTitle": "Pontiac & 63rd (Inbound)",
@@ -3577,6 +2875,7 @@
       "lat": "38.9910473"
     },
     "pontcunn_ib": {
+      "routes": {},
       "lon": "-76.9129185",
       "title": "Pontiac St and Cunningham Dr",
       "shortTitle": "Pontiac & Cunningham Dr",
@@ -3585,6 +2884,7 @@
       "lat": "38.9922585"
     },
     "ruat60th_ib": {
+      "routes": {},
       "lon": "-76.9114003",
       "title": "60th Ave and Ruatan St (Inbound)",
       "shortTitle": "60th & Ruatan (Inbound)",
@@ -3593,6 +2893,7 @@
       "lat": "38.9946237"
     },
     "gree60th_ib": {
+      "routes": {},
       "lon": "-76.9119102",
       "title": "60th Ave and Greenbelt Rd (Inbound)",
       "shortTitle": "60th & Greenbelt (Inbound)",
@@ -3601,6 +2902,7 @@
       "lat": "38.9972712"
     },
     "greestat_ib": {
+      "routes": {},
       "lon": "-76.918404",
       "title": "Greenbelt Road and Greenbelt Station Parkway (Inbound)",
       "shortTitle": "Greenbelt & Greenbelt Station Parkway (Inbound)",
@@ -3609,6 +2911,7 @@
       "lat": "38.9981455"
     },
     "greerhod_ib": {
+      "routes": {},
       "lon": "-76.9254433",
       "title": "Greenbelt Rd at Severn Building (Inbound)",
       "shortTitle": "Greenbelt @ Severn Building (Inbound)",
@@ -3617,6 +2920,7 @@
       "lat": "38.9982133"
     },
     "enclave": {
+      "routes": {},
       "lon": "-76.93182",
       "title": "The Enclave",
       "stopId": "37121",
@@ -3624,6 +2928,7 @@
       "lat": "38.99782"
     },
     "bowiuniv": {
+      "routes": {},
       "lon": "-76.7613399",
       "title": "Bowie State University",
       "stopId": "50062",
@@ -3631,5 +2936,5 @@
       "lat": "39.0176137"
     }
   },
-  "copyright": "All data copyright University of Maryland 2018."
+  "copyright": "All data copyright University of Maryland 2019."
 }

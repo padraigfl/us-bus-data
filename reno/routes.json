@@ -7,14 +7,14 @@
       "oppositeColor": "ffffff",
       "max": [
         39.5302099,
-        -119.783
+        -119.78302
       ],
       "min": [
         39.4713,
         -119.81162
       ],
       "stops": {
-        "Meadowood_Mall": [
+        "Meadowood Mall": [
           "1977",
           "601",
           "1753",
@@ -36,7 +36,7 @@
           "1601",
           "3012"
         ],
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "3012",
           "506",
           "1411",
@@ -44,7 +44,6 @@
           "507",
           "509",
           "510",
-          "45",
           "46",
           "1951",
           "48",
@@ -69,15 +68,15 @@
       "tag": "2",
       "oppositeColor": "000000",
       "max": [
-        39.5530499,
+        39.5530599,
         -119.74811
       ],
       "min": [
-        39.5299399,
+        39.5297299,
         -119.81153
       ],
       "stops": {
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "1927",
           "1900",
           "857",
@@ -120,7 +119,7 @@
           "127",
           "1970"
         ],
-        "RTC_CENTENNIAL PLAZA STATION": [
+        "RTC CENTENNIAL PLAZA STATION": [
           "1970",
           "1985",
           "62",
@@ -161,7 +160,7 @@
           "887",
           "1081",
           "1898",
-          "1927"
+          "1921"
         ]
       }
     },
@@ -171,15 +170,15 @@
       "tag": "4",
       "oppositeColor": "ffffff",
       "max": [
-        39.5385699,
-        -119.81049
+        39.53857,
+        -119.8105
       ],
       "min": [
-        39.5184499,
+        39.51886,
         -119.89672
       ],
       "stops": {
-        "Sharlands_Avenue and Robb Drive": [
+        "Sharlands Avenue and Robb Drive": [
           "1966",
           "131",
           "132",
@@ -193,7 +192,6 @@
           "195",
           "196",
           "198",
-          "199",
           "200",
           "201",
           "202",
@@ -212,12 +210,11 @@
           "1533",
           "1534",
           "1535",
-          "1536",
-          "1674"
-        ],
-        "RTC_4th STREET STATION": [
-          "1674",
+          "2101",
           "1675",
+          "1676"
+        ],
+        "RTC 4th STREET STATION": [
           "1676",
           "1677",
           "980",
@@ -233,7 +230,6 @@
           "207",
           "208",
           "209",
-          "165",
           "210",
           "212",
           "214",
@@ -257,14 +253,14 @@
       "oppositeColor": "000000",
       "max": [
         39.60362,
-        -119.7710899
+        -119.7711299
       ],
       "min": [
-        39.5300599,
-        -119.81153
+        39.5300099,
+        -119.8115299
       ],
       "stops": {
-        "Sun_Valley Boulevard and 7th Street": [
+        "Sun Valley Boulevard and 7th Street": [
           "1969",
           "1985",
           "3006",
@@ -291,7 +287,7 @@
           "242",
           "243"
         ],
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "243",
           "1889",
           "1895",
@@ -342,7 +338,7 @@
         -119.8182099
       ],
       "stops": {
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "2020",
           "2021",
           "2022",
@@ -367,7 +363,7 @@
           "1293",
           "1964"
         ],
-        "Peckham_Lane and S Virginia Steet": [
+        "Peckham Lane and S Virginia Steet": [
           "1964",
           "1582",
           "1435",
@@ -400,14 +396,14 @@
       "oppositeColor": "ffffff",
       "max": [
         39.6547699,
-        -119.81049
+        -119.81052
       ],
       "min": [
         39.5295899,
         -119.8970099
       ],
       "stops": {
-        "Echo_Avenue and Moya Boulevard": [
+        "Echo Avenue and Moya Boulevard": [
           "1963",
           "338",
           "339",
@@ -452,7 +448,7 @@
           "1734",
           "1735"
         ],
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "1735",
           "1736",
           "1737",
@@ -494,7 +490,7 @@
           "407",
           "408",
           "409",
-          "1977"
+          "1978"
         ]
       }
     },
@@ -504,15 +500,15 @@
       "tag": "9",
       "oppositeColor": "000000",
       "max": [
-        39.5304299,
-        -119.783
+        39.5300599,
+        -119.78302
       ],
       "min": [
         39.4713,
-        -119.81131
+        -119.81143
       ],
       "stops": {
-        "Meadowood_Mall": [
+        "Meadowood Mall": [
           "1978",
           "601",
           "637",
@@ -539,7 +535,7 @@
           "1601",
           "30"
         ],
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "30",
           "1097",
           "1479",
@@ -578,11 +574,25 @@
         -119.76096
       ],
       "min": [
-        39.5297999,
-        -119.81062
+        39.5295899,
+        -119.81127
       ],
       "stops": {
-        "RTC_4th STREET STATION": [
+        "RTC CENTENNIAL PLAZA STATION": [
+          "1975",
+          "512",
+          "513",
+          "515",
+          "2076",
+          "519",
+          "2077",
+          "2078",
+          "523",
+          "525",
+          "2079",
+          "1925"
+        ],
+        "RTC 4th STREET STATION": [
           "1925",
           "2080",
           "558",
@@ -597,21 +607,6 @@
           "3005",
           "570",
           "1975"
-        ],
-        "RTC_CENTENNIAL PLAZA STATION": [
-          "1975",
-          "512",
-          "513",
-          "515",
-          "2076",
-          "518",
-          "519",
-          "2077",
-          "2078",
-          "523",
-          "525",
-          "2079",
-          "1925"
         ]
       }
     },
@@ -621,15 +616,15 @@
       "tag": "12",
       "oppositeColor": "000000",
       "max": [
-        39.5304799,
+        39.5300599,
         -119.77728
       ],
       "min": [
-        39.4719599,
-        -119.81131
+        39.4719499,
+        -119.81143
       ],
       "stops": {
-        "Meadowood_Mall": [
+        "Meadowood Mall": [
           "1973",
           "436",
           "437",
@@ -663,7 +658,7 @@
           "29",
           "30"
         ],
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "30",
           "31",
           "32",
@@ -714,11 +709,10 @@
         -119.8109
       ],
       "stops": {
-        "Grove_Street and Harvard Way": [
+        "Grove Street and Harvard Way": [
           "1976",
           "512",
           "513",
-          "514",
           "515",
           "1579",
           "1313",
@@ -740,7 +734,7 @@
           "451",
           "452"
         ],
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "452",
           "453",
           "619",
@@ -753,17 +747,13 @@
           "625",
           "627",
           "628",
-          "1755",
           "629",
           "630",
           "1572",
           "1573",
           "1574",
           "1578",
-          "568",
-          "569",
           "570",
-          "571",
           "1962"
         ]
       }
@@ -782,7 +772,7 @@
         -119.81082
       ],
       "stops": {
-        "Corporate_Boulevard and Capital Boulevard": [
+        "Corporate Boulevard and Capital Boulevard": [
           "1974",
           "601",
           "637",
@@ -803,7 +793,7 @@
           "658",
           "1612"
         ],
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "1612",
           "1106",
           "659",
@@ -838,14 +828,14 @@
       "oppositeColor": "ffffff",
       "max": [
         39.5727899,
-        -119.77366
+        -119.77361
       ],
       "min": [
-        39.5299399,
-        -119.81153
+        39.5299799,
+        -119.8115299
       ],
       "stops": {
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "737",
           "1330",
           "1352",
@@ -908,27 +898,14 @@
       "oppositeColor": "ffffff",
       "max": [
         39.5304799,
-        -119.81049
+        -119.81062
       ],
       "min": [
-        39.5103299,
+        39.51033,
         -119.83575
       ],
       "stops": {
-        "Mayberry_Drive and Hunter Lake Drive": [
-          "1962",
-          "1582",
-          "707",
-          "708",
-          "709",
-          "710",
-          "711",
-          "712",
-          "1504"
-        ],
-        "RTC_4th STREET STATION": [
-          "1504",
-          "1505",
+        "RTC 4th STREET STATION": [
           "721",
           "722",
           "723",
@@ -940,7 +917,20 @@
           "730",
           "1680",
           "1293",
-          "1973"
+          "1961"
+        ],
+        "Mayberry Drive and Hunter Lake Drive": [
+          "1962",
+          "1582",
+          "707",
+          "708",
+          "709",
+          "710",
+          "711",
+          "712",
+          "1504",
+          "1505",
+          "721"
         ]
       }
     },
@@ -951,14 +941,14 @@
       "oppositeColor": "000000",
       "max": [
         39.63932,
-        -119.80779
+        -119.80777
       ],
       "min": [
-        39.5295899,
+        39.5297299,
         -119.8558199
       ],
       "stops": {
-        "Lemmon_Drive and Limber Pine Drive": [
+        "Lemmon Drive and Limber Pine Drive": [
           "1961",
           "677",
           "678",
@@ -984,7 +974,6 @@
           "351",
           "1044",
           "1141",
-          "1067",
           "1045",
           "1046",
           "1047",
@@ -1004,7 +993,7 @@
           "428",
           "429"
         ],
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "429",
           "430",
           "431",
@@ -1020,7 +1009,6 @@
           "1052",
           "1053",
           "1054",
-          "1068",
           "1055",
           "396",
           "397",
@@ -1061,7 +1049,7 @@
         -119.8111
       ],
       "stops": {
-        "Meredith_Way and Kleppe Lane": [
+        "Meredith Way and Kleppe Lane": [
           "1979",
           "436",
           "437",
@@ -1088,7 +1076,7 @@
           "1767",
           "1769"
         ],
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "1769",
           "1859",
           "1771",
@@ -1130,7 +1118,7 @@
         -119.81074
       ],
       "stops": {
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "1944",
           "1945",
           "907",
@@ -1155,7 +1143,7 @@
           "636",
           "1983"
         ],
-        "Reno-Tahoe_International Airport": [
+        "Reno-Tahoe International Airport": [
           "1983",
           "601",
           "1753",
@@ -1189,7 +1177,7 @@
         -119.76195
       ],
       "stops": {
-        "Lillard_Drive and Prater Way": [
+        "Lillard Drive and Prater Way": [
           "1920",
           "528",
           "1958",
@@ -1203,7 +1191,7 @@
           "1209",
           "1324"
         ],
-        "RTC_CENTENNIAL PLAZA STATION": [
+        "RTC CENTENNIAL PLAZA STATION": [
           "1324",
           "1325",
           "1326",
@@ -1234,10 +1222,10 @@
       ],
       "min": [
         39.5342799,
-        -119.76141
+        -119.76195
       ],
       "stops": {
-        "RTC_CENTENNIAL PLAZA STATION": [
+        "RTC CENTENNIAL PLAZA STATION": [
           "843",
           "1286",
           "1513",
@@ -1254,7 +1242,7 @@
           "1898",
           "1925"
         ],
-        "Reed_High School": [
+        "Reed High School": [
           "1922",
           "1900",
           "574",
@@ -1288,7 +1276,7 @@
         -119.76195
       ],
       "stops": {
-        "Northern_Nevada Medical Center": [
+        "Northern Nevada Medical Center": [
           "1921",
           "1900",
           "574",
@@ -1308,7 +1296,7 @@
           "1295",
           "588"
         ],
-        "RTC_CENTENNIAL PLAZA STATION": [
+        "RTC CENTENNIAL PLAZA STATION": [
           "588",
           "1167",
           "1168",
@@ -1324,7 +1312,7 @@
           "598",
           "599",
           "1898",
-          "1921"
+          "1920"
         ]
       }
     },
@@ -1338,11 +1326,11 @@
         -119.7472
       ],
       "min": [
-        39.4719599,
-        -119.783
+        39.4719499,
+        -119.78302
       ],
       "stops": {
-        "Meadowood_Mall": [
+        "Meadowood Mall": [
           "1929",
           "556",
           "1882",
@@ -1372,7 +1360,7 @@
           "29",
           "30"
         ],
-        "RTC_CENTENNIAL PLAZA STATION": [
+        "RTC CENTENNIAL PLAZA STATION": [
           "30",
           "31",
           "32",
@@ -1409,7 +1397,7 @@
       "tag": "56",
       "oppositeColor": "000000",
       "max": [
-        39.47216,
+        39.4721599,
         -119.74619
       ],
       "min": [
@@ -1417,7 +1405,7 @@
         -119.78311
       ],
       "stops": {
-        "S_Virginia Street at Walmart": [
+        "S Virginia Street at Walmart": [
           "30",
           "31",
           "1150",
@@ -1455,7 +1443,7 @@
           "1644",
           "1645"
         ],
-        "Meadowood_Mall": [
+        "Meadowood Mall": [
           "1645",
           "1853",
           "2037",
@@ -1489,8 +1477,60 @@
         ]
       }
     },
+    "999": {
+      "title": "UNR-Midtown Direct",
+      "color": "ff0080",
+      "tag": "999",
+      "oppositeColor": "ffffff",
+      "max": [
+        39.54845,
+        -119.79815
+      ],
+      "min": [
+        39.5056,
+        -119.8205899
+      ],
+      "stops": {
+        "UNR": [
+          "3021",
+          "3016",
+          "3017",
+          "3018",
+          "3019",
+          "3023",
+          "3022",
+          "1797",
+          "1799",
+          "339",
+          "340",
+          "341",
+          "342",
+          "343",
+          "3004",
+          "2068"
+        ],
+        "Mid-Town": [
+          "2068",
+          "1862",
+          "406",
+          "407",
+          "2055",
+          "2093",
+          "2038",
+          "2047",
+          "1993",
+          "6",
+          "7",
+          "8",
+          "1998",
+          "1940",
+          "2050",
+          "3021"
+        ]
+      }
+    },
     "CRSN": {
-      "title": "Crsn",
+      "title": "Regional Connector-Carson",
       "color": "707fff",
       "tag": "CRSN",
       "oppositeColor": "000000",
@@ -1503,13 +1543,12 @@
         -119.8167999
       ],
       "stops": {
-        "Carson_City Downtown": [
+        "Carson City Downtown": [
           "3011",
           "1682",
           "30",
           "1632",
           "1633",
-          "1697",
           "1848",
           "1698",
           "1915",
@@ -1522,7 +1561,7 @@
           "1702",
           "1845"
         ],
-        "Reno_Downtown": [
+        "Reno Downtown": [
           "1845",
           "1708",
           "1954",
@@ -1535,7 +1574,6 @@
           "1645",
           "1853",
           "1646",
-          "1647",
           "1648",
           "30",
           "408",
@@ -1545,7 +1583,7 @@
       }
     },
     "LNCN": {
-      "title": "Lncn",
+      "title": "Lincoln Line-RAPID",
       "color": "d815a7",
       "tag": "LNCN",
       "oppositeColor": "ffffff",
@@ -1558,77 +1596,26 @@
         -119.81088
       ],
       "stops": {
-        "RTC_4th STREET STATION": [
-          "1931",
-          "2080",
-          "2081",
-          "2082",
-          "2083",
-          "1972"
-        ],
-        "RTC_CENTENNIAL PLAZA STATION": [
+        "RTC CENTENNIAL PLAZA STATION": [
           "1972",
           "2076",
           "2077",
           "2078",
           "2079",
-          "1918",
-          "1931"
-        ]
-      }
-    },
-    "SS": {
-      "title": "SS",
-      "color": "7b91f7",
-      "tag": "SS",
-      "oppositeColor": "000000",
-      "max": [
-        39.5484499,
-        -119.8092799
-      ],
-      "min": [
-        39.52179,
-        -119.82099
-      ],
-      "stops": {
-        "4th_STREET STATION": [
-          "3004",
-          "1862",
-          "406",
-          "1803",
-          "407",
-          "2055",
-          "1805",
-          "1806",
-          "1807",
-          "1808",
-          "2040",
-          "2038",
-          "2047",
-          "2039",
-          "57",
-          "1822",
-          "636",
-          "1980"
+          "1918"
         ],
-        "UNR_(via 17th, E. Stadium, & S. Stadium)": [
-          "1980",
-          "1797",
-          "1798",
-          "1799",
-          "339",
-          "340",
-          "341",
-          "342",
-          "343",
-          "1800",
-          "2065",
-          "3004"
+        "RTC 4th STREET STATION": [
+          "1918",
+          "2080",
+          "2081",
+          "2082",
+          "2083",
+          "1972"
         ]
       }
     },
     "VRGN": {
-      "title": "Vrgn",
+      "title": "Virginia Line-RAPID",
       "color": "2c8976",
       "tag": "VRGN",
       "oppositeColor": "ffffff",
@@ -1641,7 +1628,7 @@
         -119.81119
       ],
       "stops": {
-        "Meadowood_Mall": [
+        "Meadowood Mall": [
           "1971",
           "1993",
           "7",
@@ -1652,11 +1639,10 @@
           "1412",
           "3012"
         ],
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "3012",
           "1991",
           "1950",
-          "45",
           "46",
           "1951",
           "49",
@@ -1676,11 +1662,11 @@
         -119.7620899
       ],
       "min": [
-        39.5299399,
+        39.5298999,
         -119.81153
       ],
       "stops": {
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "929",
           "930",
           "1614",
@@ -1710,7 +1696,7 @@
           "127",
           "1970"
         ],
-        "Mechant_Street and Commerce Steet": [
+        "Mechant Street and Commerce Steet": [
           "1970",
           "1985",
           "62",
@@ -1747,7 +1733,7 @@
       "tag": "3CC",
       "oppositeColor": "000000",
       "max": [
-        39.5419799,
+        39.5416299,
         -119.81074
       ],
       "min": [
@@ -1755,11 +1741,10 @@
         -119.8872099
       ],
       "stops": {
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "1533",
           "1534",
           "1535",
-          "1536",
           "1537",
           "1538",
           "1539",
@@ -1783,7 +1768,7 @@
           "1293",
           "1965"
         ],
-        "Robb_Drive and Mae Anne Avenue": [
+        "Robb Drive and Mae Anne Avenue": [
           "1965",
           "188",
           "189",
@@ -1817,7 +1802,7 @@
       "tag": "3CL",
       "oppositeColor": "000000",
       "max": [
-        39.54207,
+        39.54204,
         -119.81015
       ],
       "min": [
@@ -1825,7 +1810,7 @@
         -119.88514
       ],
       "stops": {
-        "Robb_Drive and Mae Anne Avenue": [
+        "Robb Drive and Mae Anne Avenue": [
           "1965",
           "188",
           "189",
@@ -1854,7 +1839,7 @@
           "1558",
           "1559"
         ],
-        "RTC_4th STREET STATION": [
+        "RTC 4th STREET STATION": [
           "1559",
           "159",
           "160",
@@ -1882,5 +1867,5 @@
       }
     }
   },
-  "copyright": "All data copyright RTC RIDE, Reno 2018."
+  "copyright": "All data copyright RTC RIDE, Reno 2019."
 }

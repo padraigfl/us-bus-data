@@ -1,0 +1,608 @@
+{
+  "data": {
+    "trancent_d": {
+      "routes": {},
+      "lon": "-121.214751",
+      "title": "Transit Center",
+      "stopId": "00",
+      "tag": "trancent_d",
+      "lat": "37.794649"
+    },
+    "yosesher": {
+      "routes": {},
+      "lon": "-121.2122542",
+      "title": "E. Yosemite Ave @ N.Sherman Ave",
+      "shortTitle": "E. Yosemite @ N.Sherman",
+      "stopId": "01",
+      "tag": "yosesher",
+      "lat": "37.7973719"
+    },
+    "yosepowe": {
+      "routes": {},
+      "lon": "-121.2042161",
+      "title": "E. Yosemite Ave @ Powers Ave",
+      "shortTitle": "E. Yosemite @ Powers",
+      "stopId": "02",
+      "tag": "yosepowe",
+      "lat": "37.797375"
+    },
+    "yosespre": {
+      "routes": {},
+      "lon": "-121.1995714",
+      "title": "E. Yosemite Ave @ Spreckles Ave",
+      "shortTitle": "E. Yosemite @ Spreckles",
+      "stopId": "03",
+      "tag": "yosespre",
+      "lat": "37.797366"
+    },
+    "cottyose": {
+      "routes": {},
+      "lon": "-121.1980649",
+      "title": "Cottage Ave @ E. Yosemite Ave",
+      "shortTitle": "Cottage @ E. Yosemite",
+      "stopId": "04",
+      "tag": "cottyose",
+      "lat": "37.7981393"
+    },
+    "nortcott": {
+      "routes": {},
+      "lon": "-121.1974226",
+      "title": "E. North St. @ Cottage Ave",
+      "shortTitle": "E. North @ Cottage",
+      "stopId": "05",
+      "tag": "nortcott",
+      "lat": "37.8010309"
+    },
+    "nortyose": {
+      "routes": {},
+      "lon": "-121.1937669",
+      "title": "Northwoods Ave @ E. Yosemite Ave",
+      "shortTitle": "Northwoods @ E. Yosemite",
+      "stopId": "06",
+      "tag": "nortyose",
+      "lat": "37.7982067"
+    },
+    "yosepest": {
+      "routes": {},
+      "lon": "-121.1874551",
+      "title": "E. Yosemite Ave @ Pestana Ave",
+      "shortTitle": "E. Yosemite @ Pestana",
+      "stopId": "07",
+      "tag": "yosepest",
+      "lat": "37.7974609"
+    },
+    "vascnant": {
+      "routes": {},
+      "lon": "-121.1843859",
+      "title": "Vasconcellos Ave @ Nantucket Cir.",
+      "shortTitle": "Vasconcellos @ Nantucket Cir.",
+      "stopId": "08",
+      "tag": "vascnant",
+      "lat": "37.8007157"
+    },
+    "pestnehe": {
+      "routes": {},
+      "lon": "-121.189241",
+      "title": "Pestana Ave @ Nehemiah Dr.",
+      "shortTitle": "Pestana @ Nehemiah Dr.",
+      "stopId": "09",
+      "tag": "pestnehe",
+      "lat": "37.8045421"
+    },
+    "pestpenn": {
+      "routes": {},
+      "lon": "-121.1869302",
+      "title": "Pestana Ave @ Pennebaker Way",
+      "shortTitle": "Pestana @ Pennebaker Way",
+      "stopId": "10",
+      "tag": "pestpenn",
+      "lat": "37.8014128"
+    },
+    "pestyose": {
+      "routes": {},
+      "lon": "-121.186781",
+      "title": "Pestana Ave @ E. Yosemite Ave",
+      "shortTitle": "Pestana @ E. Yosemite",
+      "stopId": "11",
+      "tag": "pestyose",
+      "lat": "37.7982225"
+    },
+    "commhist": {
+      "routes": {},
+      "lon": "-121.194045",
+      "title": "Commerce Ave @ Historical Plaza Way",
+      "shortTitle": "Commerce @ Historical Plaza Way",
+      "stopId": "12",
+      "tag": "commhist",
+      "lat": "37.7951648"
+    },
+    "sprenorm": {
+      "routes": {},
+      "lon": "-121.1978599",
+      "title": "Spreckles Ave @ Norman Ave",
+      "shortTitle": "Spreckles @ Norman",
+      "stopId": "13",
+      "tag": "sprenorm",
+      "lat": "37.7946657"
+    },
+    "yosecott": {
+      "routes": {},
+      "lon": "-121.1995387",
+      "title": "E. Yosemite Ave @ Cottage Ave",
+      "shortTitle": "E. Yosemite @ Cottage",
+      "stopId": "14",
+      "tag": "yosecott",
+      "lat": "37.797521"
+    },
+    "yosepowe_i": {
+      "routes": {},
+      "lon": "-121.205554",
+      "title": "E. Yosemite @ Powers Ave",
+      "shortTitle": "E. Yosemite @ Powers",
+      "stopId": "15",
+      "tag": "yosepowe_i",
+      "lat": "37.7975099"
+    },
+    "yosesher_i": {
+      "routes": {},
+      "lon": "-121.212597",
+      "title": "E. Yosemite Ave @ Sherman Ave",
+      "shortTitle": "E. Yosemite @ Sherman",
+      "stopId": "16",
+      "tag": "yosesher_i",
+      "lat": "37.797468"
+    },
+    "yosewill": {
+      "routes": {},
+      "lon": "-121.220828",
+      "title": "W. Yosemite Ave @ S. Willow Ave",
+      "shortTitle": "W. Yosemite @ S. Willow",
+      "stopId": "17",
+      "tag": "yosewill",
+      "lat": "37.797426"
+    },
+    "yoseveac": {
+      "routes": {},
+      "lon": "-121.2245632",
+      "title": "W. Yosemite Ave @ N. Veach Ave",
+      "shortTitle": "W. Yosemite @ N. Veach",
+      "stopId": "18",
+      "tag": "yoseveac",
+      "lat": "37.797419"
+    },
+    "centmagn": {
+      "routes": {},
+      "lon": "-121.232634",
+      "title": "Center St. @ Magnolia Ave",
+      "shortTitle": "Center @ Magnolia",
+      "stopId": "19",
+      "tag": "centmagn",
+      "lat": "37.799174"
+    },
+    "yoseunio": {
+      "routes": {},
+      "lon": "-121.2373209",
+      "title": "W. Yosemite Ave @ Union Rd",
+      "shortTitle": "W. Yosemite @ Union",
+      "stopId": "20",
+      "tag": "yoseunio",
+      "lat": "37.7974449"
+    },
+    "yosedomi": {
+      "routes": {},
+      "lon": "-121.244226",
+      "title": "W. Yosemite Ave @ St. Dominics Dr.",
+      "shortTitle": "W. Yosemite @ Dominics Dr.",
+      "stopId": "21",
+      "tag": "yosedomi",
+      "lat": "37.797383"
+    },
+    "staddani": {
+      "routes": {},
+      "lon": "-121.2576574",
+      "title": "Stadium Center @ Daniels St.",
+      "shortTitle": "Stadium Center @ Daniels",
+      "stopId": "23",
+      "tag": "staddani",
+      "lat": "37.7862529"
+    },
+    "mantstat": {
+      "routes": {},
+      "lon": "-121.263609",
+      "title": "Lathrop/Manteca ACE Station",
+      "stopId": "24",
+      "tag": "mantstat",
+      "lat": "37.7983129"
+    },
+    "nairdani": {
+      "routes": {},
+      "lon": "-121.2520563",
+      "title": "Northbound Airport Way @ Daniels",
+      "stopId": "25",
+      "tag": "nairdani",
+      "lat": "37.7870685"
+    },
+    "yosewint": {
+      "routes": {},
+      "lon": "-121.2431221",
+      "title": "W. Yosemite Ave @ Winters Dr.",
+      "shortTitle": "W. Yosemite @ Winters Dr.",
+      "stopId": "26",
+      "tag": "yosewint",
+      "lat": "37.7972679"
+    },
+    "yoseunio_i": {
+      "routes": {},
+      "lon": "-121.2364691",
+      "title": "W. Yosemite Ave @ Union Rd",
+      "shortTitle": "W. Yosemite @ Union",
+      "stopId": "27",
+      "tag": "yoseunio_i",
+      "lat": "37.797287"
+    },
+    "yosewaln": {
+      "routes": {},
+      "lon": "-121.2281601",
+      "title": "W. Yosemite Ave @ Walnut Ave",
+      "shortTitle": "W. Yosemite @ Walnut",
+      "stopId": "28",
+      "tag": "yosewaln",
+      "lat": "37.7973529"
+    },
+    "yosesequ": {
+      "routes": {},
+      "lon": "-121.2236248",
+      "title": "W. Yosemite Ave @ Sequoia Ave",
+      "shortTitle": "W. Yosemite @ Sequoia",
+      "stopId": "29",
+      "tag": "yosesequ",
+      "lat": "37.7973489"
+    },
+    "yosepier": {
+      "routes": {},
+      "lon": "-121.220008",
+      "title": "W. Yosemite Ave @ Pierce Ave",
+      "shortTitle": "W. Yosemite @ Pierce",
+      "stopId": "30",
+      "tag": "yosepier",
+      "lat": "37.797344"
+    },
+    "mainwetm": {
+      "routes": {},
+      "lon": "-121.216335",
+      "title": "S. Main St. @ Wetmore St.",
+      "shortTitle": "S. Main @ Wetmore",
+      "stopId": "83",
+      "tag": "mainwetm",
+      "lat": "37.7935181"
+    },
+    "mainmiss": {
+      "routes": {},
+      "lon": "-121.2160989",
+      "title": "S. Main St. @ Mission Ridge Dr.",
+      "shortTitle": "S. Main @ Mission Ridge Dr.",
+      "stopId": "84",
+      "tag": "mainmiss",
+      "lat": "37.7869182"
+    },
+    "promshop": {
+      "routes": {},
+      "lon": "-121.230448",
+      "title": "Promenade @ In Shopping Center",
+      "stopId": "31",
+      "tag": "promshop",
+      "lat": "37.780069"
+    },
+    "daniroya": {
+      "routes": {},
+      "lon": "-121.2371768",
+      "title": "Daniels St. @ Royalle Pl.",
+      "shortTitle": "Daniels @ Royalle Pl.",
+      "stopId": "34",
+      "tag": "daniroya",
+      "lat": "37.78548"
+    },
+    "danijunc": {
+      "routes": {},
+      "lon": "-121.2452463",
+      "title": "Daniels St. @ Junction Dr.",
+      "shortTitle": "Daniels @ Junction Dr.",
+      "stopId": "35",
+      "tag": "danijunc",
+      "lat": "37.7846819"
+    },
+    "danifish": {
+      "routes": {},
+      "lon": "-121.250664",
+      "title": "Daniels St. @ Fishback Rd",
+      "shortTitle": "Daniels @ Fishback",
+      "stopId": "36",
+      "tag": "danifish",
+      "lat": "37.7865699"
+    },
+    "fishwawo": {
+      "routes": {},
+      "lon": "-121.247796",
+      "title": "Fishback Rd @ Wawona St.",
+      "shortTitle": "Fishback @ Wawona",
+      "stopId": "37",
+      "tag": "fishwawo",
+      "lat": "37.7896837"
+    },
+    "thomwint": {
+      "routes": {},
+      "lon": "-121.2438835",
+      "title": "Thomas St. @ Enrico",
+      "shortTitle": "Thomas @ Enrico",
+      "stopId": "38",
+      "tag": "thomwint",
+      "lat": "37.793593"
+    },
+    "wintwyos": {
+      "routes": {},
+      "lon": "-121.2423201",
+      "title": "Winters Dr. @ W. Yosemite Ave",
+      "shortTitle": "Winters Dr. @ W. Yosemite",
+      "stopId": "39",
+      "tag": "wintwyos",
+      "lat": "37.7960008"
+    },
+    "cherdavi": {
+      "routes": {},
+      "lon": "-121.230975",
+      "title": "Cherry Lane @ Davis St.",
+      "shortTitle": "Cherry Lane @ Davis",
+      "stopId": "40",
+      "tag": "cherdavi",
+      "lat": "37.8000097"
+    },
+    "cherunio": {
+      "routes": {},
+      "lon": "-121.2341015",
+      "title": "Cherry Lane @ N. Union Rd",
+      "shortTitle": "Cherry Lane @ N. Union",
+      "stopId": "41",
+      "tag": "cherunio",
+      "lat": "37.8046218"
+    },
+    "unioalam": {
+      "routes": {},
+      "lon": "-121.235096",
+      "title": "N. Union Rd @ W. Alameda St.",
+      "shortTitle": "N. Union @ W. Alameda",
+      "stopId": "42",
+      "tag": "unioalam",
+      "lat": "37.807577"
+    },
+    "unioloui": {
+      "routes": {},
+      "lon": "-121.2352299",
+      "title": "N. Union Rd @ W. Louise Ave",
+      "shortTitle": "N. Union @ W. Louise",
+      "stopId": "43",
+      "tag": "unioloui",
+      "lat": "37.8125548"
+    },
+    "nortchaf": {
+      "routes": {},
+      "lon": "-121.2366052",
+      "title": "Northgate Dr. @ Chaffin Pl.",
+      "stopId": "44",
+      "tag": "nortchaf",
+      "lat": "37.8200691"
+    },
+    "nortlond": {
+      "routes": {},
+      "lon": "-121.2436105",
+      "title": "Northgate Dr. @ London Ave",
+      "shortTitle": "Northgate Dr. @ London",
+      "stopId": "45",
+      "tag": "nortlond",
+      "lat": "37.82035"
+    },
+    "londpica": {
+      "routes": {},
+      "lon": "-121.2447869",
+      "title": "London @ Picadilly Way",
+      "stopId": "46",
+      "tag": "londpica",
+      "lat": "37.821976"
+    },
+    "uniolath": {
+      "routes": {},
+      "lon": "-121.235943",
+      "title": "N. Union Rd @ Lathrop Rd",
+      "shortTitle": "N. Union @ Lathrop",
+      "stopId": "47",
+      "tag": "uniolath",
+      "lat": "37.8254296"
+    },
+    "nortunio": {
+      "routes": {},
+      "lon": "-121.2347471",
+      "title": "Northgate Dr. @ N. Union Rd",
+      "shortTitle": "Northgate Dr. @ N. Union",
+      "stopId": "48",
+      "tag": "nortunio",
+      "lat": "37.8198229"
+    },
+    "nortpaja": {
+      "routes": {},
+      "lon": "-121.2279963",
+      "title": "Northgate Dr. @ Pajaro Ave",
+      "shortTitle": "Northgate Dr. @ Pajaro",
+      "stopId": "49",
+      "tag": "nortpaja",
+      "lat": "37.8192311"
+    },
+    "eastston": {
+      "routes": {},
+      "lon": "-121.2245187",
+      "title": "Stonewood  Dr. @ Eastwood Ave.",
+      "shortTitle": "Stonewood  Dr. @ Eastwood",
+      "stopId": "50",
+      "tag": "eastston",
+      "lat": "37.817712"
+    },
+    "nortcres": {
+      "routes": {},
+      "lon": "-121.2214941",
+      "title": "Northgate Dr. @ Crestwood Ave",
+      "shortTitle": "Northgate Dr. @ Crestwood",
+      "stopId": "51",
+      "tag": "nortcres",
+      "lat": "37.8190289"
+    },
+    "maingate": {
+      "routes": {},
+      "lon": "-121.217388",
+      "title": "N. Main St. @ Northgate Dr.",
+      "shortTitle": "N. Main @ Northgate Dr.",
+      "stopId": "52",
+      "tag": "maingate",
+      "lat": "37.818111"
+    },
+    "mainloui": {
+      "routes": {},
+      "lon": "-121.217147",
+      "title": "N. Main St. @ Louise Ave",
+      "shortTitle": "N. Main @ Louise",
+      "stopId": "53",
+      "tag": "mainloui",
+      "lat": "37.811583"
+    },
+    "mainalam": {
+      "routes": {},
+      "lon": "-121.216861",
+      "title": "N. Main St. @ Alameda St.",
+      "shortTitle": "N. Main @ Alameda",
+      "stopId": "54",
+      "tag": "mainalam",
+      "lat": "37.8050613"
+    },
+    "mainnort": {
+      "routes": {},
+      "lon": "-121.216676",
+      "title": "N. Main St. @ North St.",
+      "shortTitle": "N. Main @ North",
+      "stopId": "55",
+      "tag": "mainnort",
+      "lat": "37.800488"
+    },
+    "boysgirl": {
+      "routes": {},
+      "lon": "-121.2217621",
+      "title": "Boys & Girls Club",
+      "tag": "boysgirl",
+      "lat": "37.8047239"
+    },
+    "northoyt": {
+      "routes": {},
+      "lon": "-121.228118",
+      "title": "Northgate Dr. @ Hoyt Lane",
+      "stopId": "61",
+      "tag": "northoyt",
+      "lat": "37.819394"
+    },
+    "uniohigh": {
+      "routes": {},
+      "lon": "-121.2355649",
+      "title": "Northgate Dr. @ N. Union St.",
+      "shortTitle": "Northgate Dr. @ N. Union",
+      "stopId": "62",
+      "tag": "uniohigh",
+      "lat": "37.8201669"
+    },
+    "londcope": {
+      "routes": {},
+      "lon": "-121.2450331",
+      "title": "London Ave. @ Copeland Way",
+      "shortTitle": "London @ Copeland Way",
+      "stopId": "64",
+      "tag": "londcope",
+      "lat": "37.8245654"
+    },
+    "unionort": {
+      "routes": {},
+      "lon": "-121.2356999",
+      "title": "N. Union St @ Sand Castle Way",
+      "shortTitle": "N. Union @ Sand Castle Way",
+      "stopId": "66",
+      "tag": "unionort",
+      "lat": "37.8193408"
+    },
+    "chereuca": {
+      "routes": {},
+      "lon": "-121.231063",
+      "title": "Cherry Lane @ Davis St.",
+      "shortTitle": "Cherry Lane @ Davis",
+      "stopId": "70",
+      "tag": "chereuca",
+      "lat": "37.8005984"
+    },
+    "wintyose": {
+      "routes": {},
+      "lon": "-121.242522",
+      "title": "Winters Drive @ Yosemite Avenue",
+      "shortTitle": "Winters Drive @ Yosemite",
+      "stopId": "71",
+      "tag": "wintyose",
+      "lat": "37.796066"
+    },
+    "thomenri": {
+      "routes": {},
+      "lon": "-121.2435704",
+      "title": "Thomas St. @ Enrico Lane",
+      "shortTitle": "Thomas @ Enrico Lane",
+      "stopId": "72",
+      "tag": "thomenri",
+      "lat": "37.793715"
+    },
+    "danilaur": {
+      "routes": {},
+      "lon": "-121.2432729",
+      "title": "Daniels St. @ Laurel Park Cir.",
+      "shortTitle": "Daniels @ Laurel Park Cir.",
+      "stopId": "75",
+      "tag": "danilaur",
+      "lat": "37.784615"
+    },
+    "daniston": {
+      "routes": {},
+      "lon": "-121.239679",
+      "title": "Daniels St. @ Stonum Lane",
+      "shortTitle": "Daniels @ Stonum Lane",
+      "stopId": "76",
+      "tag": "daniston",
+      "lat": "37.7853459"
+    },
+    "danihunt": {
+      "routes": {},
+      "lon": "-121.2354671",
+      "title": "Daniels St @ Hunt Rd",
+      "shortTitle": "Daniels @ Hunt",
+      "stopId": "77",
+      "tag": "danihunt",
+      "lat": "37.7854959"
+    },
+    "athetinn": {
+      "routes": {},
+      "lon": "-121.2236868",
+      "title": "W. Atherton Dr. @ Tinnin Rd",
+      "shortTitle": "W. Atherton Dr. @ Tinnin",
+      "stopId": "78",
+      "tag": "athetinn",
+      "lat": "37.779137"
+    },
+    "mainpark": {
+      "routes": {},
+      "lon": "-121.2158739",
+      "title": "S. Main St. @ Industrial Park Dr.",
+      "shortTitle": "S. Main @ Industrial Park Dr.",
+      "stopId": "79",
+      "tag": "mainpark",
+      "lat": "37.7880712"
+    }
+  },
+  "copyright": "All data copyright Manteca Transit 2019."
+}

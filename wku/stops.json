@@ -1,196 +1,56 @@
 {
   "data": {
-    "cambpknr_d": {
-      "lon": "-86.469803",
-      "title": "CAMPBELL LANE PARK & RIDE",
-      "stopId": "0001",
-      "tag": "cambpknr_d",
-      "lat": "36.964266"
-    },
-    "evolvill_ob": {
-      "lon": "-86.4658982",
-      "title": "CAMPUS EVOLUTION VILLAGE (CEV)",
-      "stopId": "0021",
-      "tag": "evolvill_ob",
-      "lat": "36.978095"
-    },
-    "creapknr_ob": {
+    "creapknr_d": {
+      "routes": {},
       "lon": "-86.4637947",
       "title": "CREASON PARK & RIDE",
       "stopId": "0020",
-      "tag": "creapknr_ob",
+      "tag": "creapknr_d",
       "lat": "36.9808987"
     },
-    "univlot": {
-      "lon": "-86.4591",
-      "title": "UNIVERSITY LOT",
-      "stopId": "0048",
-      "tag": "univlot",
-      "lat": "36.9786799"
+    "13thkent": {
+      "routes": {},
+      "lon": "-86.4510285",
+      "title": "13TH & KENTUCKY STREET",
+      "shortTitle": "13TH & KENTUCKY",
+      "stopId": "0003",
+      "tag": "13thkent",
+      "lat": "36.9909806"
     },
-    "ranshall": {
-      "lon": "-86.45555",
-      "title": "RANSDELL HALL",
-      "stopId": "0029",
-      "tag": "ranshall",
-      "lat": "36.98314"
+    "ps1": {
+      "routes": {},
+      "lon": "-86.456649",
+      "title": "PS1",
+      "stopId": "0010",
+      "tag": "ps1",
+      "lat": "36.987774"
     },
-    "helmlib": {
-      "lon": "-86.452404",
-      "title": "HELM LIBRARY",
-      "stopId": "0032",
-      "tag": "helmlib",
-      "lat": "36.985196"
+    "sndrhall": {
+      "routes": {},
+      "lon": "-86.4547171",
+      "title": "SCHNEIDER HALL",
+      "stopId": "0011",
+      "tag": "sndrhall",
+      "lat": "36.9875638"
     },
-    "est": {
-      "lon": "-86.450313",
-      "title": "EST",
-      "stopId": "0018",
-      "tag": "est",
-      "lat": "36.986248"
-    },
-    "augualum": {
-      "lon": "-86.4508229",
-      "title": "AUGENSTEIN ALUMNI CENTER",
-      "stopId": "0047",
-      "tag": "augualum",
-      "lat": "36.989575"
-    },
-    "vall": {
-      "lon": "-86.4547612",
-      "title": "THE VALLEY",
-      "stopId": "0012",
-      "tag": "vall",
-      "lat": "36.987632"
-    },
-    "duc": {
-      "lon": "-86.4574387",
-      "title": "DSU",
-      "stopId": "0013",
-      "tag": "duc",
-      "lat": "36.9851993"
-    },
-    "keen": {
-      "lon": "-86.4603471",
-      "title": "KEEN HALL",
-      "stopId": "0014",
-      "tag": "keen",
-      "lat": "36.9827889"
-    },
-    "creapknr": {
-      "lon": "-86.4630288",
-      "title": "CREASON PARK & RIDE",
-      "stopId": "0031",
-      "tag": "creapknr",
-      "lat": "36.9805509"
-    },
-    "evolvill": {
-      "lon": "-86.4666879",
-      "title": "CAMPUS EVOLUTION VILLAGE (CEV)",
-      "stopId": "0049",
-      "tag": "evolvill",
-      "lat": "36.977701"
-    },
-    "scam": {
-      "lon": "-86.46741",
-      "title": "SOUTH CAMPUS",
-      "stopId": "0008",
-      "tag": "scam",
-      "lat": "36.96572"
-    },
-    "cambpknr": {
-      "lon": "-86.469803",
-      "title": "CAMPBELL LANE PARK & RIDE (GW MALL)",
-      "stopId": "0001",
-      "tag": "cambpknr",
-      "lat": "36.9642659"
-    },
-    "krog_gm": {
-      "lon": "-86.4653807",
-      "title": "KROGER",
-      "stopId": "0023",
-      "tag": "krog_gm",
-      "lat": "36.9599353"
-    },
-    "wmrt": {
-      "lon": "-86.4345589",
-      "title": "WAL-MART",
-      "stopId": "0024",
-      "tag": "wmrt",
-      "lat": "36.9490991"
-    },
-    "greemall": {
-      "lon": "-86.4300255",
-      "title": "GREENWOOD MALL",
-      "stopId": "0025",
-      "tag": "greemall",
-      "lat": "36.9491738"
-    },
-    "barnsnob": {
-      "lon": "-86.4352866",
-      "title": "BARNES & NOBLE",
-      "stopId": "0026",
-      "tag": "barnsnob",
-      "lat": "36.9520072"
-    },
-    "krog_pknr": {
-      "lon": "-86.4654799",
-      "title": "KROGER",
-      "stopId": "0023",
-      "tag": "krog_pknr",
-      "lat": "36.9600903"
-    },
-    "cambpknr_a": {
-      "lon": "-86.4700046",
-      "title": "CAMPBELL LANE PARK & RIDE (ARRIVAL)",
-      "stopId": "0001",
-      "tag": "cambpknr_a",
-      "lat": "36.9640042"
-    },
-    "russpknr": {
-      "lon": "-86.466864",
-      "title": "RUSSELLVILLE ROAD PARK & RIDE",
-      "shortTitle": "RUSSELLVILLE PARK & RIDE",
-      "stopId": "0009",
-      "tag": "russpknr",
-      "lat": "36.9807709"
-    },
-    "jagg": {
-      "lon": "-86.4608087",
-      "title": "JONES JAGGER",
-      "stopId": "0028",
-      "tag": "jagg",
-      "lat": "36.9797951"
-    },
-    "mimo": {
-      "lon": "-86.4555551",
-      "title": "RANSDELL HALL",
-      "stopId": "0029",
-      "tag": "mimo",
-      "lat": "36.983135"
-    },
-    "11thcoll": {
-      "lon": "-86.443358",
-      "title": "11TH & COLLEGE",
+    "wilshall": {
+      "routes": {},
+      "lon": "-86.4508958",
+      "title": "GORDON WILSON HALL",
       "stopId": "0015",
-      "tag": "11thcoll",
-      "lat": "36.991501"
-    },
-    "coluapts": {
-      "lon": "-86.446978",
-      "title": "COLUMNS APARTMENTS",
-      "stopId": "0051",
-      "tag": "coluapts",
-      "lat": "36.992078"
+      "tag": "wilshall",
+      "lat": "36.9878899"
     },
     "cohh": {
-      "lon": "-86.4503196",
+      "routes": {},
+      "lon": "-86.4503199",
       "title": "COHH",
       "stopId": "0005",
       "tag": "cohh",
-      "lat": "36.9863802"
+      "lat": "36.98638"
     },
     "gris": {
+      "routes": {},
       "lon": "-86.4534672",
       "title": "GRISE HALL",
       "stopId": "0034",
@@ -198,6 +58,7 @@
       "lat": "36.9850316"
     },
     "mmth": {
+      "routes": {},
       "lon": "-86.45634",
       "title": "JODY RICHARDS HALL",
       "stopId": "0006",
@@ -205,20 +66,252 @@
       "lat": "36.98252"
     },
     "pft": {
+      "routes": {},
       "lon": "-86.45837",
       "title": "PFT",
       "stopId": "0007",
       "tag": "pft",
       "lat": "36.98028"
     },
+    "merehall": {
+      "routes": {},
+      "lon": "-86.460674",
+      "title": "MEREDITH HALL",
+      "stopId": "0046",
+      "tag": "merehall",
+      "lat": "36.97977"
+    },
+    "creapknr": {
+      "routes": {},
+      "lon": "-86.4630287",
+      "title": "CREASON PARK & RIDE",
+      "stopId": "0031",
+      "tag": "creapknr",
+      "lat": "36.9805509"
+    },
+    "evolvill": {
+      "routes": {},
+      "lon": "-86.4666879",
+      "title": "CAMPUS EVOLUTION VILLAGE (CEV)",
+      "stopId": "0049",
+      "tag": "evolvill",
+      "lat": "36.977701"
+    },
+    "cambpknr": {
+      "routes": {},
+      "lon": "-86.469803",
+      "title": "CAMPBELL LANE PARK & RIDE (to GW MALL)",
+      "stopId": "0001",
+      "tag": "cambpknr",
+      "lat": "36.9642659"
+    },
+    "wmrt": {
+      "routes": {},
+      "lon": "-86.4345589",
+      "title": "WAL-MART",
+      "stopId": "0024",
+      "tag": "wmrt",
+      "lat": "36.9490991"
+    },
+    "greemall": {
+      "routes": {},
+      "lon": "-86.4300255",
+      "title": "GREENWOOD MALL",
+      "stopId": "0025",
+      "tag": "greemall",
+      "lat": "36.9491738"
+    },
+    "barnsnob": {
+      "routes": {},
+      "lon": "-86.4352866",
+      "title": "BARNES & NOBLE",
+      "stopId": "0026",
+      "tag": "barnsnob",
+      "lat": "36.9520072"
+    },
+    "cambpknr_d": {
+      "routes": {},
+      "lon": "-86.469803",
+      "title": "CAMPBELL LANE PARK & RIDE",
+      "stopId": "0001",
+      "tag": "cambpknr_d",
+      "lat": "36.964266"
+    },
+    "evolvill_ob": {
+      "routes": {},
+      "lon": "-86.4658982",
+      "title": "CAMPUS EVOLUTION VILLAGE (CEV)",
+      "stopId": "0021",
+      "tag": "evolvill_ob",
+      "lat": "36.978095"
+    },
+    "creapknrrd": {
+      "routes": {},
+      "lon": "-86.4638289",
+      "title": "CREASON PARK & RIDE",
+      "stopId": "0020",
+      "tag": "creapknrrd",
+      "lat": "36.9808479"
+    },
+    "soutches": {
+      "routes": {},
+      "lon": "-86.4540653",
+      "title": "SOUTH CHESTNUT",
+      "stopId": "0016",
+      "tag": "soutches",
+      "lat": "36.9810146"
+    },
+    "ogdepark": {
+      "routes": {},
+      "lon": "-86.4512102",
+      "title": "OGDEN & PARK",
+      "stopId": "0019",
+      "tag": "ogdepark",
+      "lat": "36.9837131"
+    },
+    "parklot": {
+      "routes": {},
+      "lon": "-86.4474988",
+      "title": "PARK ST. LOT",
+      "shortTitle": "PARK LOT",
+      "stopId": "0022",
+      "tag": "parklot",
+      "lat": "36.9844358"
+    },
+    "chesnort": {
+      "routes": {},
+      "lon": "-86.447884",
+      "title": "CHESTNUT ST. NORTH",
+      "shortTitle": "CHESTNUT NORTH",
+      "stopId": "0004",
+      "tag": "chesnort",
+      "lat": "36.9862139"
+    },
+    "chessout": {
+      "routes": {},
+      "lon": "-86.4541474",
+      "title": "SOUTH CHESTNUT",
+      "stopId": "0017",
+      "tag": "chessout",
+      "lat": "36.9810495"
+    },
+    "univlot": {
+      "routes": {},
+      "lon": "-86.4591",
+      "title": "UNIVERSITY LOT",
+      "stopId": "0048",
+      "tag": "univlot",
+      "lat": "36.9786798"
+    },
+    "mimo": {
+      "routes": {},
+      "lon": "-86.4555551",
+      "title": "RANSDELL HALL",
+      "stopId": "0029",
+      "tag": "mimo",
+      "lat": "36.983135"
+    },
+    "helmlib": {
+      "routes": {},
+      "lon": "-86.4524111",
+      "title": "HELM LIBRARY",
+      "stopId": "0032",
+      "tag": "helmlib",
+      "lat": "36.9851899"
+    },
+    "est": {
+      "routes": {},
+      "lon": "-86.45031",
+      "title": "EST",
+      "stopId": "0018",
+      "tag": "est",
+      "lat": "36.9862499"
+    },
     "cherhall": {
-      "lon": "-86.4505676",
+      "routes": {},
+      "lon": "-86.4505675",
       "title": "CHERRY HALL",
       "stopId": "0030",
       "tag": "cherhall",
       "lat": "36.9877076"
     },
+    "vall": {
+      "routes": {},
+      "lon": "-86.45478",
+      "title": "THE VALLEY",
+      "stopId": "0012",
+      "tag": "vall",
+      "lat": "36.9876099"
+    },
+    "duc": {
+      "routes": {},
+      "lon": "-86.4574387",
+      "title": "DSU",
+      "stopId": "0013",
+      "tag": "duc",
+      "lat": "36.9851993"
+    },
+    "keen": {
+      "routes": {},
+      "lon": "-86.4603471",
+      "title": "KEEN HALL",
+      "stopId": "0014",
+      "tag": "keen",
+      "lat": "36.9827889"
+    },
+    "walmart": {
+      "routes": {},
+      "lon": "-86.4838807",
+      "title": "MORGANTOWN RD. WAL-MART",
+      "shortTitle": "MORGANTOWN WAL-MART",
+      "stopId": "0053",
+      "tag": "walmart",
+      "lat": "36.987571"
+    },
+    "russpknr": {
+      "routes": {},
+      "lon": "-86.466864",
+      "title": "RUSSELLVILLE ROAD PARK & RIDE",
+      "shortTitle": "RUSSELLVILLE PARK & RIDE",
+      "stopId": "0009",
+      "tag": "russpknr",
+      "lat": "36.9807709"
+    },
+    "creapknr_ob": {
+      "routes": {},
+      "lon": "-86.463781",
+      "title": "CREASON PARK & RIDE",
+      "stopId": "0020",
+      "tag": "creapknr_ob",
+      "lat": "36.980882"
+    },
+    "jagg": {
+      "routes": {},
+      "lon": "-86.4608087",
+      "title": "JONES JAGGER",
+      "stopId": "0028",
+      "tag": "jagg",
+      "lat": "36.9797951"
+    },
+    "mccohall": {
+      "routes": {},
+      "lon": "-86.456436",
+      "title": "MCCORMACK HALL",
+      "stopId": "0033",
+      "tag": "mccohall",
+      "lat": "36.98746"
+    },
+    "12thcent": {
+      "routes": {},
+      "lon": "-86.447702",
+      "title": "12TH & CENTER STREET",
+      "shortTitle": "12TH & CENTER",
+      "stopId": "0052",
+      "tag": "12thcent",
+      "lat": "36.99174"
+    },
     "evolvill_ib": {
+      "routes": {},
       "lon": "-86.4666879",
       "title": "CAMPUS EVOLUTION VILLAGE (CEV)",
       "stopId": "0049",
@@ -226,12 +319,29 @@
       "lat": "36.977701"
     },
     "scamp_pknr": {
+      "routes": {},
       "lon": "-86.46741",
       "title": "SOUTH CAMPUS",
-      "stopId": "0008",
+      "stopId": "0002",
       "tag": "scamp_pknr",
       "lat": "36.96572"
+    },
+    "cambpknr_d2": {
+      "routes": {},
+      "lon": "-86.4698028",
+      "title": "CAMPBELL LANE PARK & RIDE",
+      "stopId": "0001",
+      "tag": "cambpknr_d2",
+      "lat": "36.9642662"
+    },
+    "kroger": {
+      "routes": {},
+      "lon": "-86.465407",
+      "title": "KROGER",
+      "stopId": "0023",
+      "tag": "kroger",
+      "lat": "36.960064"
     }
   },
-  "copyright": "All data copyright Western Kentucky University 2018."
+  "copyright": "All data copyright Western Kentucky University 2019."
 }

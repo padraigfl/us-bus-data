@@ -1,6 +1,7 @@
 {
   "data": {
     "weybterr_d": {
+      "routes": {},
       "lon": "-118.44995",
       "title": "Weyburn Terrace",
       "stopId": "25",
@@ -8,6 +9,7 @@
       "lat": "34.06185"
     },
     "lot36_n": {
+      "routes": {},
       "lon": "-118.447578",
       "title": "Lot 36",
       "stopId": "02",
@@ -15,6 +17,7 @@
       "lat": "34.059471"
     },
     "lindhamm": {
+      "routes": {},
       "lon": "-118.4441519",
       "title": "Lindbrook at Hammer",
       "shortTitle": "Lindbrook @ Hammer",
@@ -23,12 +26,15 @@
       "lat": "34.0596752"
     },
     "wytnsout": {
+      "routes": {},
       "lon": "-118.438205",
       "title": "Wyton South",
+      "stopId": "52",
       "tag": "wytnsout",
       "lat": "34.07363"
     },
     "murhall_s": {
+      "routes": {},
       "lon": "-118.4396599",
       "title": "Murphy Hall South",
       "stopId": "07",
@@ -36,6 +42,7 @@
       "lat": "34.071614"
     },
     "molsci_s": {
+      "routes": {},
       "lon": "-118.4404599",
       "title": "Molecular Science",
       "stopId": "08",
@@ -43,6 +50,7 @@
       "lat": "34.0679101"
     },
     "gonda_s": {
+      "routes": {},
       "lon": "-118.444303",
       "title": "Gonda Building",
       "stopId": "09",
@@ -50,6 +58,7 @@
       "lat": "34.06703"
     },
     "medplaz_s": {
+      "routes": {},
       "lon": "-118.4454499",
       "title": "Medical Plaza",
       "stopId": "10",
@@ -57,6 +66,7 @@
       "lat": "34.0654962"
     },
     "wilscent": {
+      "routes": {},
       "lon": "-118.4450899",
       "title": "Wilshire Center",
       "stopId": "55",
@@ -64,6 +74,7 @@
       "lat": "34.0575479"
     },
     "steiplaz": {
+      "routes": {},
       "lon": "-118.445217",
       "title": "Stein Plaza",
       "stopId": "03",
@@ -71,6 +82,7 @@
       "lat": "34.0656768"
     },
     "botany": {
+      "routes": {},
       "lon": "-118.4409911",
       "title": "Botany",
       "stopId": "43",
@@ -78,6 +90,7 @@
       "lat": "34.0670179"
     },
     "parkstru2": {
+      "routes": {},
       "lon": "-118.440219",
       "title": "Parking Structure 2",
       "stopId": "04",
@@ -85,6 +98,7 @@
       "lat": "34.0688628"
     },
     "murhall_n": {
+      "routes": {},
       "lon": "-118.439558",
       "title": "Murphy Hall North",
       "stopId": "05",
@@ -92,6 +106,7 @@
       "lat": "34.070589"
     },
     "wytnnort": {
+      "routes": {},
       "lon": "-118.4382105",
       "title": "Wyton North",
       "stopId": "51",
@@ -99,6 +114,7 @@
       "lat": "34.0737226"
     },
     "hilgwest": {
+      "routes": {},
       "lon": "-118.4390799",
       "title": "Hilgard & Westholme",
       "stopId": "47",
@@ -106,6 +122,7 @@
       "lat": "34.0692783"
     },
     "conttive": {
+      "routes": {},
       "lon": "-118.442925",
       "title": "Le Conte & Tiverton",
       "stopId": "48",
@@ -113,39 +130,13 @@
       "lat": "34.06377"
     },
     "westlind": {
+      "routes": {},
       "lon": "-118.4448354",
       "title": "Westwood & Lindbrook",
       "stopId": "53",
       "tag": "westlind",
       "lat": "34.0597695"
-    },
-    "steinpla": {
-      "lon": "-118.44522",
-      "title": "Stein Plaza",
-      "stopId": "03",
-      "tag": "steinpla",
-      "lat": "34.0654599"
-    },
-    "structure2_n": {
-      "lon": "-118.440219",
-      "title": "Parking Structure 2",
-      "stopId": "04",
-      "tag": "structure2_n",
-      "lat": "34.0688628"
-    },
-    "weybtive": {
-      "lon": "-118.4430173",
-      "title": "Weyburn/Tiverton",
-      "tag": "weybtive",
-      "lat": "34.0622067"
-    },
-    "venbarry": {
-      "lon": "-118.42609",
-      "title": "Venice/Barry",
-      "stopId": "19",
-      "tag": "venbarry",
-      "lat": "34.00795"
     }
   },
-  "copyright": "All data copyright UCLA 2018."
+  "copyright": "All data copyright UCLA 2019."
 }

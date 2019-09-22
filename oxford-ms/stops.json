@@ -1,6 +1,15 @@
 {
   "data": {
+    "140": {
+      "routes": {},
+      "lon": "-89.5106022",
+      "title": "Old Armory",
+      "stopId": "140",
+      "tag": "140",
+      "lat": "34.36385"
+    },
     "148": {
+      "routes": {},
       "lon": "-89.536504",
       "title": "Observatory",
       "stopId": "148",
@@ -8,6 +17,7 @@
       "lat": "34.36446"
     },
     "150": {
+      "routes": {},
       "lon": "-89.5309299",
       "title": "Yerby",
       "stopId": "150",
@@ -15,6 +25,7 @@
       "lat": "34.3655895"
     },
     "217": {
+      "routes": {},
       "lon": "-89.541253",
       "title": "Law School",
       "stopId": "217",
@@ -22,13 +33,16 @@
       "lat": "34.3624601"
     },
     "253": {
+      "routes": {},
       "lon": "-89.5421664",
-      "title": "Baxtor Hall",
+      "title": "Guyton at W. Dormitory",
+      "shortTitle": "Guyton @ W. Dormitory",
       "stopId": "253",
       "tag": "253",
       "lat": "34.3669087"
     },
     "254": {
+      "routes": {},
       "lon": "-89.5410489",
       "title": "Sam Gerard",
       "stopId": "254",
@@ -36,6 +50,7 @@
       "lat": "34.3673564"
     },
     "256": {
+      "routes": {},
       "lon": "-89.5390401",
       "title": "Minor Hall",
       "stopId": "256",
@@ -43,6 +58,7 @@
       "lat": "34.3671834"
     },
     "257": {
+      "routes": {},
       "lon": "-89.5370453",
       "title": "East Track",
       "stopId": "257",
@@ -50,6 +66,7 @@
       "lat": "34.3584844"
     },
     "258": {
+      "routes": {},
       "lon": "-89.5379426",
       "title": "Hill at Manning Way",
       "shortTitle": "Hill @ Manning Way",
@@ -58,6 +75,7 @@
       "lat": "34.3604739"
     },
     "260": {
+      "routes": {},
       "lon": "-89.5345683",
       "title": "Student Union",
       "stopId": "260",
@@ -65,6 +83,7 @@
       "lat": "34.3676931"
     },
     "261": {
+      "routes": {},
       "lon": "-89.5309499",
       "title": "All American at University",
       "shortTitle": "All American @ University",
@@ -73,6 +92,7 @@
       "lat": "34.3649104"
     },
     "262": {
+      "routes": {},
       "lon": "-89.5335577",
       "title": "Stem Building",
       "stopId": "262",
@@ -80,6 +100,7 @@
       "lat": "34.3636288"
     },
     "263": {
+      "routes": {},
       "lon": "-89.5394757",
       "title": "Hill at Phillips",
       "shortTitle": "Hill @ Phillips",
@@ -88,6 +109,7 @@
       "lat": "34.3598809"
     },
     "264": {
+      "routes": {},
       "lon": "-89.5379457",
       "title": "Howery Hall",
       "stopId": "264",
@@ -95,6 +117,7 @@
       "lat": "34.366495"
     },
     "265": {
+      "routes": {},
       "lon": "-89.5393433",
       "title": "Hill at Phillips",
       "shortTitle": "Hill @ Phillips",
@@ -103,6 +126,7 @@
       "lat": "34.3598002"
     },
     "266": {
+      "routes": {},
       "lon": "-89.5330142",
       "title": "Athletic Admin",
       "stopId": "266",
@@ -110,246 +134,15 @@
       "lat": "34.3636303"
     },
     "280": {
+      "routes": {},
       "lon": "-89.5444009",
       "title": "Gillom Bldg",
       "stopId": "280",
       "tag": "280",
       "lat": "34.358992"
     },
-    "oldarm_w_d": {
-      "lon": "-89.5112198",
-      "title": "Old Armory",
-      "stopId": "140",
-      "tag": "oldarm_w_d",
-      "lat": "34.3629499"
-    },
-    "univsoni": {
-      "lon": "-89.518085",
-      "title": "University at Sonic",
-      "shortTitle": "University @ Sonic",
-      "stopId": "141",
-      "tag": "univsoni",
-      "lat": "34.363921"
-    },
-    "cityhall_w_d": {
-      "lon": "-89.51839",
-      "title": "City Hall",
-      "stopId": "100",
-      "tag": "cityhall_w_d",
-      "lat": "34.3663599"
-    },
-    "jack9th": {
-      "lon": "-89.5216612",
-      "title": "Jackson at 9th",
-      "shortTitle": "Jackson @ 9th",
-      "stopId": "101",
-      "tag": "jack9th",
-      "lat": "34.3672801"
-    },
-    "jack6th": {
-      "lon": "-89.5241529",
-      "title": "Jackson at 6th",
-      "shortTitle": "Jackson @ 6th",
-      "stopId": "102",
-      "tag": "jack6th",
-      "lat": "34.3676104"
-    },
-    "jackmoll": {
-      "lon": "-89.5281488",
-      "title": "Jackson at Molly Barr",
-      "shortTitle": "Jackson @ Molly Barr",
-      "stopId": "126",
-      "tag": "jackmoll",
-      "lat": "34.3687596"
-    },
-    "soronort": {
-      "lon": "-89.5327046",
-      "title": "Sorority at Northgate",
-      "shortTitle": "Sorority @ Northgate",
-      "stopId": "103",
-      "tag": "soronort",
-      "lat": "34.3693944"
-    },
-    "studwome": {
-      "lon": "-89.53418",
-      "title": "Student Union - Women's Terrace",
-      "stopId": "104",
-      "tag": "studwome",
-      "lat": "34.367537"
-    },
-    "jackpric": {
-      "lon": "-89.549903",
-      "title": "Jackson at Price Hill",
-      "shortTitle": "Jackson @ Price Hill",
-      "stopId": "109",
-      "tag": "jackpric",
-      "lat": "34.3669589"
-    },
-    "jackente": {
-      "lon": "-89.5529079",
-      "title": "Jackson at Kiamies",
-      "shortTitle": "Jackson @ Kiamies",
-      "stopId": "110",
-      "tag": "jackente",
-      "lat": "34.3656009"
-    },
-    "jackmcdo": {
-      "lon": "-89.5552234",
-      "title": "Jackson at McDonalds",
-      "shortTitle": "Jackson @ McDonalds",
-      "stopId": "111",
-      "tag": "jackmcdo",
-      "lat": "34.3645929"
-    },
-    "jackheri": {
-      "lon": "-89.5583996",
-      "title": "Jackson at Heritage",
-      "shortTitle": "Jackson @ Heritage",
-      "stopId": "112",
-      "tag": "jackheri",
-      "lat": "34.3634301"
-    },
-    "jacksupe": {
-      "lon": "-89.5620749",
-      "title": "Jackson at Super 8",
-      "shortTitle": "Jackson @ Super 8",
-      "stopId": "113",
-      "tag": "jacksupe",
-      "lat": "34.3624993"
-    },
-    "belk": {
-      "lon": "-89.5648205",
-      "title": "Belk",
-      "stopId": "236",
-      "tag": "belk",
-      "lat": "34.36378"
-    },
-    "walmart": {
-      "lon": "-89.56335",
-      "title": "Walmart",
-      "stopId": "114",
-      "tag": "walmart",
-      "lat": "34.35987"
-    },
-    "jackrain": {
-      "lon": "-89.5581652",
-      "title": "Jackson at CVS",
-      "shortTitle": "Jackson @ CVS",
-      "stopId": "116",
-      "tag": "jackrain",
-      "lat": "34.3633779"
-    },
-    "jackburg": {
-      "lon": "-89.5542096",
-      "title": "Jackson at Burger King",
-      "shortTitle": "Jackson @ Burger King",
-      "stopId": "117",
-      "tag": "jackburg",
-      "lat": "34.3648901"
-    },
-    "jackpapa": {
-      "lon": "-89.5512494",
-      "title": "Jackson at Papa Johns",
-      "shortTitle": "Jackson @ Papa Johns",
-      "stopId": "118",
-      "tag": "jackpapa",
-      "lat": "34.3661902"
-    },
-    "studunio": {
-      "lon": "-89.5358643",
-      "title": "Student Union",
-      "stopId": "123",
-      "tag": "studunio",
-      "lat": "34.367651"
-    },
-    "jacks6th": {
-      "lon": "-89.5246499",
-      "title": "Jackson at S. 6th",
-      "shortTitle": "Jackson @ S. 6th",
-      "stopId": "125",
-      "tag": "jacks6th",
-      "lat": "34.3676299"
-    },
-    "cityhall_b_d": {
-      "lon": "-89.51839",
-      "title": "City Hall",
-      "stopId": "100",
-      "tag": "cityhall_b_d",
-      "lat": "34.3663599"
-    },
-    "sneehard": {
-      "lon": "-89.5173697",
-      "title": "Sneed Hardware",
-      "stopId": "128",
-      "tag": "sneehard",
-      "lat": "34.3637699"
-    },
-    "univ16th": {
-      "lon": "-89.5138328",
-      "title": "University at 16th",
-      "shortTitle": "University @ 16th",
-      "stopId": "129",
-      "tag": "univ16th",
-      "lat": "34.3632589"
-    },
-    "oldarm_b_d": {
-      "lon": "-89.51109",
-      "title": "Old Armory",
-      "stopId": "130",
-      "tag": "oldarm_b_d",
-      "lat": "34.36285"
-    },
-    "mcdo": {
-      "lon": "-89.5096204",
-      "title": "McDonalds East Bound",
-      "stopId": "131",
-      "tag": "mcdo",
-      "lat": "34.36263"
-    },
-    "bigstar": {
-      "lon": "-89.50852",
-      "title": "Cash Saver",
-      "stopId": "127",
-      "tag": "bigstar",
-      "lat": "34.3614605"
-    },
-    "catfish1": {
-      "lon": "-89.5009404",
-      "title": "Catfish #1",
-      "stopId": "132",
-      "tag": "catfish1",
-      "lat": "34.36138"
-    },
-    "britwood": {
-      "lon": "-89.4810339",
-      "title": "Brittney Woods",
-      "stopId": "133",
-      "tag": "britwood",
-      "lat": "34.3612403"
-    },
-    "univpeug": {
-      "lon": "-89.501245",
-      "title": "University at Peugse",
-      "shortTitle": "University @ Peugse",
-      "stopId": "137",
-      "tag": "univpeug",
-      "lat": "34.3614792"
-    },
-    "kroger": {
-      "lon": "-89.5032454",
-      "title": "Kroger",
-      "stopId": "138",
-      "tag": "kroger",
-      "lat": "34.3630878"
-    },
-    "univobys": {
-      "lon": "-89.5083773",
-      "title": "McDonalds West Bound",
-      "stopId": "139",
-      "tag": "univobys",
-      "lat": "34.3625196"
-    },
     "archive": {
+      "routes": {},
       "lon": "-89.5298448",
       "title": "Archive",
       "stopId": "281",
@@ -357,6 +150,7 @@
       "lat": "34.3409788"
     },
     "doma": {
+      "routes": {},
       "lon": "-89.540321",
       "title": "Domain",
       "stopId": "235",
@@ -364,6 +158,7 @@
       "lat": "34.3443343"
     },
     "exchapar_d": {
+      "routes": {},
       "lon": "-89.540448",
       "title": "Connection Apartments",
       "stopId": "143",
@@ -371,29 +166,73 @@
       "lat": "34.345132"
     },
     "oldtfleu_i": {
-      "lon": "-89.5438058",
+      "routes": {},
+      "lon": "-89.5423499",
       "title": "Old Taylor at Fleur De Lis",
       "shortTitle": "Old Taylor @ Fleur De Lis",
       "stopId": "144",
       "tag": "oldtfleu_i",
-      "lat": "34.3459448"
+      "lat": "34.34759"
     },
     "oldtshil_i": {
-      "lon": "-89.539395",
+      "routes": {},
+      "lon": "-89.5408852",
       "title": "Old Taylor at Taylor Bend",
       "shortTitle": "Old Taylor @ Taylor Bend",
       "stopId": "145",
       "tag": "oldtshil_i",
-      "lat": "34.34982"
+      "lat": "34.3497019"
+    },
+    "soutcamp_o": {
+      "routes": {},
+      "lon": "-89.5415249",
+      "title": "South Campus Rec.",
+      "stopId": "287",
+      "tag": "soutcamp_o",
+      "lat": "34.353901"
     },
     "obse": {
+      "routes": {},
       "lon": "-89.5364848",
       "title": "Observatory",
       "stopId": "154",
       "tag": "obse",
       "lat": "34.3645119"
     },
+    "soutcamp_i": {
+      "routes": {},
+      "lon": "-89.5415249",
+      "title": "South Campus Rec.",
+      "stopId": "287",
+      "tag": "soutcamp_i",
+      "lat": "34.353901"
+    },
+    "fleudlis": {
+      "routes": {},
+      "lon": "-89.5424075",
+      "title": "Fleur De Lis",
+      "stopId": "144",
+      "tag": "fleudlis",
+      "lat": "34.3476033"
+    },
+    "connapar": {
+      "routes": {},
+      "lon": "-89.540448",
+      "title": "Connection Apartments",
+      "stopId": "143",
+      "tag": "connapar",
+      "lat": "34.345132"
+    },
+    "doma_i": {
+      "routes": {},
+      "lon": "-89.5403221",
+      "title": "Domain",
+      "stopId": "235",
+      "tag": "doma_i",
+      "lat": "34.3443343"
+    },
     "studwome_d": {
+      "routes": {},
       "lon": "-89.5364848",
       "title": "Observatory",
       "stopId": "148",
@@ -401,348 +240,64 @@
       "lat": "34.3645119"
     },
     "links_d": {
+      "routes": {},
       "lon": "-89.5861318",
       "title": "Links",
       "stopId": "216",
       "tag": "links_d",
       "lat": "34.3572114"
     },
-    "oldarm_c_d": {
-      "lon": "-89.51043",
-      "title": "Old Armory (towards College Hill)",
-      "stopId": "207",
-      "tag": "oldarm_c_d",
-      "lat": "34.36381"
-    },
-    "bramlibr": {
-      "lon": "-89.5095791",
-      "title": "Bramlett Library",
-      "stopId": "208",
-      "tag": "bramlibr",
-      "lat": "34.3647106"
-    },
-    "jackeast": {
-      "lon": "-89.5101587",
-      "title": "Jackson East",
-      "stopId": "209",
-      "tag": "jackeast",
-      "lat": "34.3655712"
-    },
-    "cityhall": {
-      "lon": "-89.5192188",
-      "title": "City Hall",
-      "stopId": "100",
-      "tag": "cityhall",
-      "lat": "34.3665412"
-    },
-    "nlamadown": {
-      "lon": "-89.5180395",
-      "title": "Graduate",
-      "stopId": "160",
-      "tag": "nlamadown",
-      "lat": "34.3694823"
-    },
-    "nlamahaty": {
-      "lon": "-89.5155789",
-      "title": "N. Lamar at Handy Andy's",
-      "shortTitle": "N. Lamar @ Handy Andy's",
-      "stopId": "161",
-      "tag": "nlamahaty",
-      "lat": "34.3741806"
-    },
-    "nlamaplea": {
-      "lon": "-89.5128088",
-      "title": "N. Lamar at Pleasant Street",
-      "shortTitle": "N. Lamar @ Pleasant",
-      "stopId": "162",
-      "tag": "nlamaplea",
-      "lat": "34.3758809"
-    },
-    "nlamabeac": {
-      "lon": "-89.5113992",
-      "title": "N. Lamar at Beacon",
-      "shortTitle": "N. Lamar @ Beacon",
-      "stopId": "163",
-      "tag": "nlamabeac",
-      "lat": "34.3774514"
-    },
-    "nlammoll": {
-      "lon": "-89.508009",
-      "title": "N. Lamar at Molly Barr",
-      "shortTitle": "N. Lamar @ Molly Barr",
-      "stopId": "164",
-      "tag": "nlammoll",
-      "lat": "34.38411"
-    },
-    "mollchic": {
-      "lon": "-89.5105387",
-      "title": "Molly Barr at Chickasaw",
-      "shortTitle": "Molly Barr @ Chickasaw",
-      "stopId": "165",
-      "tag": "mollchic",
-      "lat": "34.3858949"
-    },
-    "groveapt": {
-      "lon": "-89.513216",
-      "title": "Highland Sq Apts",
-      "stopId": "169",
-      "tag": "groveapt",
-      "lat": "34.387052"
-    },
-    "mollpatt": {
-      "lon": "-89.518311",
-      "title": "Molly Barr at Patti Ln",
-      "shortTitle": "Molly Barr @ Patti Ln",
-      "stopId": "166",
-      "tag": "mollpatt",
-      "lat": "34.381867"
-    },
-    "molltrai": {
-      "lon": "-89.5212269",
-      "title": "Molly Barr Trails",
-      "stopId": "167",
-      "tag": "molltrai",
-      "lat": "34.381075"
-    },
-    "mollmcel": {
-      "lon": "-89.5270049",
-      "title": "Molly Barr at McElroy",
-      "shortTitle": "Molly Barr @ McElroy",
-      "stopId": "169",
-      "tag": "mollmcel",
-      "lat": "34.379146"
-    },
-    "postoffi": {
-      "lon": "-89.5324299",
-      "title": "Post Office",
-      "stopId": "172",
-      "tag": "postoffi",
-      "lat": "34.3799099"
-    },
-    "outfac": {
-      "lon": "-89.535343",
-      "title": "OUT Facility",
-      "stopId": "200",
-      "tag": "outfac",
-      "lat": "34.381335"
-    },
-    "airp": {
-      "lon": "-89.5390109",
-      "title": "Airport",
-      "stopId": "173",
-      "tag": "airp",
-      "lat": "34.38089"
-    },
-    "univarbo": {
-      "lon": "-89.54155",
-      "title": "University Arbors",
-      "stopId": "174",
-      "tag": "univarbo",
-      "lat": "34.378036"
-    },
-    "studcros": {
-      "lon": "-89.5358648",
-      "title": "Student Union Dr. at Cross",
-      "shortTitle": "Student Union Dr. @ Cross",
-      "stopId": "123",
-      "tag": "studcros",
-      "lat": "34.367651"
-    },
-    "mollpric": {
-      "lon": "-89.526821",
-      "title": "Molly Barr at Price",
-      "shortTitle": "Molly Barr @ Price",
-      "stopId": "177",
-      "tag": "mollpric",
-      "lat": "34.3754744"
-    },
-    "cbwebb": {
-      "lon": "-89.52661",
-      "title": "CB Webb",
-      "stopId": "171",
-      "tag": "cbwebb",
-      "lat": "34.3781929"
-    },
-    "nlamahill": {
-      "lon": "-89.5077789",
-      "title": "N. Lamar at Hilltop",
-      "shortTitle": "N. Lamar @ Hilltop",
-      "stopId": "181",
-      "tag": "nlamahill",
-      "lat": "34.384301"
-    },
-    "nlamaplea2": {
-      "lon": "-89.5130589",
-      "title": "N. Lamar at Pleasant Street",
-      "shortTitle": "N. Lamar @ Pleasant",
-      "stopId": "183",
-      "tag": "nlamaplea2",
-      "lat": "34.375762"
-    },
-    "nlama14": {
-      "lon": "-89.515492",
-      "title": "N. Lamar at 14th",
-      "shortTitle": "N. Lamar @ 14th",
-      "stopId": "184",
-      "tag": "nlama14",
-      "lat": "34.374279"
-    },
-    "nlamjeff": {
-      "lon": "-89.518246",
-      "title": "N. Lamar at Jefferson",
-      "shortTitle": "N. Lamar @ Jefferson",
-      "stopId": "185",
-      "tag": "nlamjeff",
-      "lat": "34.3687619"
-    },
-    "cityhall_2": {
-      "lon": "-89.519219",
-      "title": "City Hall",
-      "stopId": "100",
-      "tag": "cityhall_2",
-      "lat": "34.36654"
-    },
-    "oldarm_h_d": {
-      "lon": "-89.51043",
-      "title": "Old Armory (towards hospital)",
-      "stopId": "207",
-      "tag": "oldarm_h_d",
-      "lat": "34.36381"
-    },
-    "18garfo": {
-      "lon": "-89.512487",
-      "title": "18th at Garfield (outbound)",
-      "shortTitle": "18th @ Garfield (outbound)",
-      "stopId": "235",
-      "tag": "18garfo",
-      "lat": "34.3547167"
-    },
-    "belk18th": {
-      "lon": "-89.5152889",
-      "title": "Belk at S.18th St",
-      "shortTitle": "Belk @ S.18th",
-      "stopId": "168",
-      "tag": "belk18th",
-      "lat": "34.3473492"
-    },
-    "communi": {
-      "lon": "-89.5161107",
-      "title": "Communicare",
-      "stopId": "195",
-      "tag": "communi",
-      "lat": "34.3333087"
-    },
-    "vetehome": {
-      "lon": "-89.5194877",
-      "title": "Veterans Home",
-      "stopId": "196",
-      "tag": "vetehome",
-      "lat": "34.3296779"
-    },
-    "slamasadd": {
-      "lon": "-89.5203619",
-      "title": "S. Lamar at Saddle Creek",
-      "shortTitle": "S. Lamar @ Saddle Creek",
-      "stopId": "197",
-      "tag": "slamasadd",
-      "lat": "34.330867"
-    },
-    "hoopholl": {
-      "lon": "-89.519186",
-      "title": "Hooper Hollow",
-      "stopId": "251",
-      "tag": "hoopholl",
-      "lat": "34.334862"
-    },
-    "slamazal": {
-      "lon": "-89.5195521",
-      "title": "S. Lamar at Azalea Dr",
-      "shortTitle": "S. Lamar @ Azalea Dr",
-      "stopId": "199",
-      "tag": "slamazal",
-      "lat": "34.3371326"
-    },
-    "belkhosp": {
-      "lon": "-89.5288169",
-      "title": "Hospital",
-      "stopId": "190",
-      "tag": "belkhosp",
-      "lat": "34.3481269"
-    },
-    "belkmed": {
-      "lon": "-89.5186691",
-      "title": "Belk Medical Park",
-      "stopId": "191",
-      "tag": "belkmed",
-      "lat": "34.3472999"
-    },
-    "belknw": {
-      "lon": "-89.5171108",
-      "title": "Belk N.W. College",
-      "stopId": "192",
-      "tag": "belknw",
-      "lat": "34.34713"
-    },
-    "18garf": {
-      "lon": "-89.5124398",
-      "title": "S. 18th at Garfield",
-      "shortTitle": "S. 18th @ Garfield",
-      "stopId": "204",
-      "tag": "18garf",
-      "lat": "34.3546204"
-    },
-    "18ross": {
-      "lon": "-89.5115881",
-      "title": "S. 18th at Ross",
-      "shortTitle": "S. 18th @ Ross",
-      "stopId": "205",
-      "tag": "18ross",
-      "lat": "34.3597375"
-    },
-    "18univ": {
-      "lon": "-89.510867",
-      "title": "S. 18th at University",
-      "shortTitle": "S. 18th @ University",
-      "stopId": "206",
-      "tag": "18univ",
-      "lat": "34.3627477"
-    },
     "studunio_d": {
-      "lon": "-89.53418",
+      "routes": {},
+      "lon": "-89.5341799",
       "title": "Student Union",
       "stopId": "104",
       "tag": "studunio_d",
-      "lat": "34.367537"
+      "lat": "34.3675369"
     },
     "lafaplac": {
-      "lon": "-89.5531202",
+      "routes": {},
+      "lon": "-89.55312",
       "title": "Lafayette Place",
       "stopId": "220",
       "tag": "lafaplac",
-      "lat": "34.3666192"
+      "lat": "34.366619"
     },
     "thehub": {
-      "lon": "-89.5637317",
+      "routes": {},
+      "lon": "-89.5637316",
       "title": "The HUB",
       "stopId": "187",
       "tag": "thehub",
-      "lat": "34.3691203"
+      "lat": "34.3691205"
     },
     "retreat": {
+      "routes": {},
       "lon": "-89.5681312",
       "title": "The Retreat",
       "stopId": "188",
       "tag": "retreat",
-      "lat": "34.3691514"
+      "lat": "34.3691516"
     },
     "oxfloop": {
+      "routes": {},
       "lon": "-89.5709401",
       "title": "Oxford Loop & Anderson",
       "stopId": "189",
       "tag": "oxfloop",
       "lat": "34.3683536"
     },
+    "jackpapa": {
+      "routes": {},
+      "lon": "-89.5512511",
+      "title": "Jackson at Papa Johns",
+      "shortTitle": "Jackson @ Papa Johns",
+      "stopId": "223",
+      "tag": "jackpapa",
+      "lat": "34.3661894"
+    },
     "jac_d": {
+      "routes": {},
       "lon": "-89.5459899",
       "title": "JAC East",
       "stopId": "119",
@@ -750,6 +305,7 @@
       "lat": "34.3699324"
     },
     "jac_w": {
+      "routes": {},
       "lon": "-89.5489",
       "title": "JAC West",
       "stopId": "282",
@@ -757,6 +313,7 @@
       "lat": "34.36949"
     },
     "fratwest": {
+      "routes": {},
       "lon": "-89.5433431",
       "title": "Fraternity at West Rd",
       "shortTitle": "Fraternity @ West",
@@ -765,6 +322,7 @@
       "lat": "34.3656755"
     },
     "chap": {
+      "routes": {},
       "lon": "-89.5400081",
       "title": "Chapel",
       "stopId": "153",
@@ -772,6 +330,7 @@
       "lat": "34.3653762"
     },
     "guytdorm": {
+      "routes": {},
       "lon": "-89.5422601",
       "title": "Baxtor Hall",
       "stopId": "253",
@@ -779,6 +338,7 @@
       "lat": "34.3667953"
     },
     "rotc": {
+      "routes": {},
       "lon": "-89.5355391",
       "title": "ROTC",
       "stopId": "180",
@@ -786,12 +346,14 @@
       "lat": "34.367507"
     },
     "chiomega": {
+      "routes": {},
       "lon": "-89.5357168",
       "title": "Chi Omega",
       "tag": "chiomega",
       "lat": "34.3706862"
     },
     "soutplot": {
+      "routes": {},
       "lon": "-89.5329336",
       "title": "S. Parking Lot",
       "stopId": "148",
@@ -799,6 +361,7 @@
       "lat": "34.3568818"
     },
     "obsvthub": {
+      "routes": {},
       "lon": "-89.5364848",
       "title": "Observatory Transit Hub",
       "stopId": "115",
@@ -806,6 +369,7 @@
       "lat": "34.3645119"
     },
     "faukflat": {
+      "routes": {},
       "lon": "-89.547183",
       "title": "Faulkner Flats",
       "stopId": "170",
@@ -813,6 +377,7 @@
       "lat": "34.3424249"
     },
     "connapts": {
+      "routes": {},
       "lon": "-89.540448",
       "title": "Connection Apartments",
       "stopId": "143",
@@ -820,20 +385,39 @@
       "lat": "34.345132"
     },
     "univtrai_o": {
-      "lon": "-89.538079",
+      "routes": {},
+      "lon": "-89.5380789",
       "title": "The Flatts",
       "stopId": "146",
       "tag": "univtrai_o",
       "lat": "34.351632"
     },
+    "observ_o": {
+      "routes": {},
+      "lon": "-89.5364861",
+      "title": "Observatory",
+      "stopId": "115",
+      "tag": "observ_o",
+      "lat": "34.364512"
+    },
     "campcrck_o": {
-      "lon": "-89.5497881",
+      "routes": {},
+      "lon": "-89.5497884",
       "title": "Campus Creek (outbound)",
       "stopId": "219",
       "tag": "campcrck_o",
-      "lat": "34.3616099"
+      "lat": "34.3616114"
+    },
+    "walmart": {
+      "routes": {},
+      "lon": "-89.563351",
+      "title": "Walmart",
+      "stopId": "114",
+      "tag": "walmart",
+      "lat": "34.359869"
     },
     "retreat_i": {
+      "routes": {},
       "lon": "-89.5681312",
       "title": "The Retreat (inbound)",
       "stopId": "188",
@@ -841,34 +425,39 @@
       "lat": "34.3691516"
     },
     "thehub_i": {
-      "lon": "-89.563728",
+      "routes": {},
+      "lon": "-89.5637279",
       "title": "The HUB (inbound)",
       "stopId": "187",
       "tag": "thehub_i",
       "lat": "34.36913"
     },
     "campcrck_i": {
+      "routes": {},
       "lon": "-89.54984",
       "title": "Campus Creek (inbound)",
       "stopId": "219",
       "tag": "campcrck_i",
       "lat": "34.36157"
     },
+    "observ_i": {
+      "routes": {},
+      "lon": "-89.5364843",
+      "title": "Observatory",
+      "stopId": "115",
+      "tag": "observ_i",
+      "lat": "34.3645118"
+    },
     "univtrail_i": {
-      "lon": "-89.5380788",
+      "routes": {},
+      "lon": "-89.538079",
       "title": "The Flatts (inbound)",
       "stopId": "146",
       "tag": "univtrail_i",
-      "lat": "34.3516323"
-    },
-    "faukflat_a": {
-      "lon": "-89.547074",
-      "title": "Faulkner Flats (Arrival)",
-      "stopId": "170",
-      "tag": "faukflat_a",
-      "lat": "34.342729"
+      "lat": "34.351632"
     },
     "campwalk": {
+      "routes": {},
       "lon": "-89.547712",
       "title": "Campus Walk",
       "stopId": "228",
@@ -876,6 +465,7 @@
       "lat": "34.362932"
     },
     "campcrk": {
+      "routes": {},
       "lon": "-89.54984",
       "title": "Campus Creek",
       "stopId": "218",
@@ -883,6 +473,7 @@
       "lat": "34.36157"
     },
     "fedbuild": {
+      "routes": {},
       "lon": "-89.5207565",
       "title": "Federal Building",
       "stopId": "225",
@@ -890,13 +481,24 @@
       "lat": "34.3671478"
     },
     "resicoll_d": {
+      "routes": {},
       "lon": "-89.5300459",
       "title": "Residential College",
       "stopId": "108",
       "tag": "resicoll_d",
       "lat": "34.3673316"
     },
+    "soronort": {
+      "routes": {},
+      "lon": "-89.5326999",
+      "title": "Sorority at Northgate",
+      "shortTitle": "Sorority @ Northgate",
+      "stopId": "103",
+      "tag": "soronort",
+      "lat": "34.3690845"
+    },
     "croshall": {
+      "routes": {},
       "lon": "-89.5349444",
       "title": "Crosby Hall",
       "stopId": "226",
@@ -904,6 +506,7 @@
       "lat": "34.3694255"
     },
     "minrhall": {
+      "routes": {},
       "lon": "-89.5389152",
       "title": "Minor Hall",
       "stopId": "227",
@@ -911,6 +514,7 @@
       "lat": "34.3672409"
     },
     "kappalph": {
+      "routes": {},
       "lon": "-89.5440337",
       "title": "Kappa Alpha",
       "stopId": "270",
@@ -918,6 +522,7 @@
       "lat": "34.3669581"
     },
     "kappsigm": {
+      "routes": {},
       "lon": "-89.5430639",
       "title": "Kappa Sigma",
       "stopId": "271",
@@ -925,6 +530,7 @@
       "lat": "34.3641759"
     },
     "betathet": {
+      "routes": {},
       "lon": "-89.5402471",
       "title": "Beta Theta",
       "stopId": "272",
@@ -932,19 +538,95 @@
       "lat": "34.363524"
     },
     "cityhall_d": {
-      "lon": "-89.51839",
-      "title": "City Hall",
+      "routes": {},
+      "lon": "-89.5192189",
+      "title": "Square",
       "stopId": "100",
       "tag": "cityhall_d",
-      "lat": "34.36636"
+      "lat": "34.3665412"
+    },
+    "bramlib": {
+      "routes": {},
+      "lon": "-89.5095799",
+      "title": "Bramlett Library",
+      "stopId": "208",
+      "tag": "bramlib",
+      "lat": "34.36471"
+    },
+    "oxfomsch": {
+      "routes": {},
+      "lon": "-89.5076499",
+      "title": "Oxford Middle School",
+      "stopId": "231",
+      "tag": "oxfomsch",
+      "lat": "34.3681197"
+    },
+    "convcent": {
+      "routes": {},
+      "lon": "-89.4988768",
+      "title": "Convention Center",
+      "stopId": "240",
+      "tag": "convcent",
+      "lat": "34.3717206"
+    },
+    "blake": {
+      "routes": {},
+      "lon": "-89.4966223",
+      "title": "The Blake",
+      "stopId": "284",
+      "tag": "blake",
+      "lat": "34.3700284"
+    },
+    "delldavi": {
+      "routes": {},
+      "lon": "-89.4956992",
+      "title": "Della Davis Elem",
+      "stopId": "241",
+      "tag": "delldavi",
+      "lat": "34.3711891"
+    },
+    "oxfohsch": {
+      "routes": {},
+      "lon": "-89.4878362",
+      "title": "Oxford High School",
+      "stopId": "242",
+      "tag": "oxfohsch",
+      "lat": "34.3725961"
+    },
+    "thotel": {
+      "routes": {},
+      "lon": "-89.4989271",
+      "title": "TRU Hotel",
+      "stopId": "284",
+      "tag": "thotel",
+      "lat": "34.3738747"
+    },
+    "oxfothea": {
+      "routes": {},
+      "lon": "-89.497274",
+      "title": "Malco Oxford Theater",
+      "stopId": "286",
+      "tag": "oxfothea",
+      "lat": "34.374769"
+    },
+    "140_ib": {
+      "routes": {},
+      "lon": "-89.5106973",
+      "title": "Old Armory",
+      "stopId": "140",
+      "tag": "140_ib",
+      "lat": "34.3638542"
     },
     "lyce_d": {
+      "routes": {},
       "lon": "-89.535858",
       "title": "The Lyceum",
+      "stopId": "283",
       "tag": "lyce_d",
       "lat": "34.36533"
     },
     "fleudeli": {
+      "routes": {},
       "lon": "-89.5437931",
       "title": "Fleur De Lis",
       "stopId": "144",
@@ -952,13 +634,15 @@
       "lat": "34.3459378"
     },
     "taylbend": {
+      "routes": {},
       "lon": "-89.539395",
       "title": "Taylor Bend",
       "stopId": "145",
       "tag": "taylbend",
-      "lat": "34.34982"
+      "lat": "34.3498199"
     },
     "flat": {
+      "routes": {},
       "lon": "-89.538079",
       "title": "Flatts",
       "stopId": "146",
@@ -966,6 +650,7 @@
       "lat": "34.3516318"
     },
     "mullotay_ob": {
+      "routes": {},
       "lon": "-89.5354475",
       "title": "Mullins-Old Taylor Road",
       "shortTitle": "Mullins-Old Taylor",
@@ -973,13 +658,590 @@
       "tag": "mullotay_ob",
       "lat": "34.3512033"
     },
+    "soucamp_o": {
+      "routes": {},
+      "lon": "-89.5415249",
+      "title": "South Campus Rec.",
+      "stopId": "287",
+      "tag": "soucamp_o",
+      "lat": "34.353901"
+    },
+    "soucamp_i": {
+      "routes": {},
+      "lon": "-89.5415249",
+      "title": "South Campus Rec.",
+      "stopId": "287",
+      "tag": "soucamp_i",
+      "lat": "34.353901"
+    },
     "mullotay_ib": {
-      "lon": "-89.5354467",
+      "routes": {},
+      "lon": "-89.535448",
       "title": "Mullins-Old Taylor Road",
       "shortTitle": "Mullins-Old Taylor",
+      "stopId": "147",
       "tag": "mullotay_ib",
-      "lat": "34.3512028"
+      "lat": "34.351203"
+    },
+    "jack9th": {
+      "routes": {},
+      "lon": "-89.5216612",
+      "title": "Jackson at 9th",
+      "shortTitle": "Jackson @ 9th",
+      "stopId": "101",
+      "tag": "jack9th",
+      "lat": "34.3672801"
+    },
+    "jack6th": {
+      "routes": {},
+      "lon": "-89.5241529",
+      "title": "Jackson at 6th",
+      "shortTitle": "Jackson @ 6th",
+      "stopId": "102",
+      "tag": "jack6th",
+      "lat": "34.3676104"
+    },
+    "jackmoll": {
+      "routes": {},
+      "lon": "-89.5281488",
+      "title": "Jackson at Molly Barr",
+      "shortTitle": "Jackson @ Molly Barr",
+      "stopId": "126",
+      "tag": "jackmoll",
+      "lat": "34.3687596"
+    },
+    "studwome": {
+      "routes": {},
+      "lon": "-89.53418",
+      "title": "Student Union - Women's Terrace",
+      "stopId": "104",
+      "tag": "studwome",
+      "lat": "34.367537"
+    },
+    "jackpric": {
+      "routes": {},
+      "lon": "-89.549903",
+      "title": "Jackson at Price Hill",
+      "shortTitle": "Jackson @ Price Hill",
+      "stopId": "109",
+      "tag": "jackpric",
+      "lat": "34.3669589"
+    },
+    "jackente": {
+      "routes": {},
+      "lon": "-89.5529079",
+      "title": "Jackson at Kiamies",
+      "shortTitle": "Jackson @ Kiamies",
+      "stopId": "110",
+      "tag": "jackente",
+      "lat": "34.3656009"
+    },
+    "jackmcdo": {
+      "routes": {},
+      "lon": "-89.5552234",
+      "title": "Jackson at McDonalds",
+      "shortTitle": "Jackson @ McDonalds",
+      "stopId": "111",
+      "tag": "jackmcdo",
+      "lat": "34.3645929"
+    },
+    "jackheri": {
+      "routes": {},
+      "lon": "-89.5583996",
+      "title": "Jackson at Heritage",
+      "shortTitle": "Jackson @ Heritage",
+      "stopId": "112",
+      "tag": "jackheri",
+      "lat": "34.3634301"
+    },
+    "jacksupe": {
+      "routes": {},
+      "lon": "-89.5620749",
+      "title": "Jackson at Super 8",
+      "shortTitle": "Jackson @ Super 8",
+      "stopId": "113",
+      "tag": "jacksupe",
+      "lat": "34.3624993"
+    },
+    "belk": {
+      "routes": {},
+      "lon": "-89.5648205",
+      "title": "Belk",
+      "stopId": "236",
+      "tag": "belk",
+      "lat": "34.36378"
+    },
+    "jackrain": {
+      "routes": {},
+      "lon": "-89.5581652",
+      "title": "Jackson at CVS",
+      "shortTitle": "Jackson @ CVS",
+      "stopId": "116",
+      "tag": "jackrain",
+      "lat": "34.3633779"
+    },
+    "jackburg": {
+      "routes": {},
+      "lon": "-89.5542096",
+      "title": "Jackson at Burger King",
+      "shortTitle": "Jackson @ Burger King",
+      "stopId": "117",
+      "tag": "jackburg",
+      "lat": "34.3648901"
+    },
+    "studunio": {
+      "routes": {},
+      "lon": "-89.5358643",
+      "title": "Student Union",
+      "stopId": "123",
+      "tag": "studunio",
+      "lat": "34.367651"
+    },
+    "jacks6th": {
+      "routes": {},
+      "lon": "-89.5246499",
+      "title": "Jackson at S. 6th",
+      "shortTitle": "Jackson @ S. 6th",
+      "stopId": "125",
+      "tag": "jacks6th",
+      "lat": "34.3676299"
+    },
+    "square_d": {
+      "routes": {},
+      "lon": "-89.51922",
+      "title": "Square",
+      "stopId": "100",
+      "tag": "square_d",
+      "lat": "34.36644"
+    },
+    "sneehard": {
+      "routes": {},
+      "lon": "-89.5173697",
+      "title": "Sneed Hardware",
+      "stopId": "128",
+      "tag": "sneehard",
+      "lat": "34.3637699"
+    },
+    "univ16th": {
+      "routes": {},
+      "lon": "-89.5138328",
+      "title": "University at 16th",
+      "shortTitle": "University @ 16th",
+      "stopId": "129",
+      "tag": "univ16th",
+      "lat": "34.3632589"
+    },
+    "oldarmor_o": {
+      "routes": {},
+      "lon": "-89.51109",
+      "title": "Old Armory",
+      "stopId": "140",
+      "tag": "oldarmor_o",
+      "lat": "34.36285"
+    },
+    "mcdonal_o": {
+      "routes": {},
+      "lon": "-89.5096204",
+      "title": "McDonalds East Bound",
+      "stopId": "131",
+      "tag": "mcdonal_o",
+      "lat": "34.36263"
+    },
+    "cashsave": {
+      "routes": {},
+      "lon": "-89.50852",
+      "title": "Cash Saver",
+      "stopId": "127",
+      "tag": "cashsave",
+      "lat": "34.3614605"
+    },
+    "counbuil": {
+      "routes": {},
+      "lon": "-89.488514",
+      "title": "County Buildings",
+      "stopId": "289",
+      "tag": "counbuil",
+      "lat": "34.355728"
+    },
+    "britwood": {
+      "routes": {},
+      "lon": "-89.4810339",
+      "title": "Brittney Woods",
+      "stopId": "133",
+      "tag": "britwood",
+      "lat": "34.3612402"
+    },
+    "univpeug": {
+      "routes": {},
+      "lon": "-89.501245",
+      "title": "University at Peugse",
+      "shortTitle": "University @ Peugse",
+      "stopId": "137",
+      "tag": "univpeug",
+      "lat": "34.3614792"
+    },
+    "kroger": {
+      "routes": {},
+      "lon": "-89.5032454",
+      "title": "Kroger",
+      "stopId": "138",
+      "tag": "kroger",
+      "lat": "34.3630878"
+    },
+    "mcdonal_i": {
+      "routes": {},
+      "lon": "-89.5083772",
+      "title": "McDonalds West Bound",
+      "stopId": "139",
+      "tag": "mcdonal_i",
+      "lat": "34.36252"
+    },
+    "oldarmor_i": {
+      "routes": {},
+      "lon": "-89.5110459",
+      "title": "Old Armory",
+      "stopId": "140",
+      "tag": "oldarmor_i",
+      "lat": "34.362927"
+    },
+    "observ_d": {
+      "routes": {},
+      "lon": "-89.5364848",
+      "title": "Observatory",
+      "stopId": "154",
+      "tag": "observ_d",
+      "lat": "34.3645119"
+    },
+    "soutcamp": {
+      "routes": {},
+      "lon": "-89.5415249",
+      "title": "South Campus Rec.",
+      "stopId": "287",
+      "tag": "soutcamp",
+      "lat": "34.353901"
+    },
+    "southoxf_d": {
+      "routes": {},
+      "lon": "-89.520267",
+      "title": "South Oxford Center",
+      "stopId": "283",
+      "tag": "southoxf_d",
+      "lat": "34.347914"
+    },
+    "oldarm_d": {
+      "routes": {},
+      "lon": "-89.51043",
+      "title": "Old Armory (towards College Hill)",
+      "stopId": "207",
+      "tag": "oldarm_d",
+      "lat": "34.36381"
+    },
+    "bramlibr": {
+      "routes": {},
+      "lon": "-89.5095791",
+      "title": "Bramlett Library",
+      "stopId": "208",
+      "tag": "bramlibr",
+      "lat": "34.3647106"
+    },
+    "cityhall_ob": {
+      "routes": {},
+      "lon": "-89.5192189",
+      "title": "City Hall",
+      "stopId": "100",
+      "tag": "cityhall_ob",
+      "lat": "34.3665412"
+    },
+    "nlamadown": {
+      "routes": {},
+      "lon": "-89.5180395",
+      "title": "Graduate",
+      "stopId": "160",
+      "tag": "nlamadown",
+      "lat": "34.3694825"
+    },
+    "nlamahaty": {
+      "routes": {},
+      "lon": "-89.5155786",
+      "title": "N. Lamar at Handy Andy's",
+      "shortTitle": "N. Lamar @ Handy Andy's",
+      "stopId": "161",
+      "tag": "nlamahaty",
+      "lat": "34.3741807"
+    },
+    "nlamaplea": {
+      "routes": {},
+      "lon": "-89.5128086",
+      "title": "N. Lamar at Pleasant Street",
+      "shortTitle": "N. Lamar @ Pleasant",
+      "stopId": "162",
+      "tag": "nlamaplea",
+      "lat": "34.3758811"
+    },
+    "nlamabeac": {
+      "routes": {},
+      "lon": "-89.511399",
+      "title": "N. Lamar at Beacon",
+      "shortTitle": "N. Lamar @ Beacon",
+      "stopId": "163",
+      "tag": "nlamabeac",
+      "lat": "34.3774517"
+    },
+    "nlammoll": {
+      "routes": {},
+      "lon": "-89.5080087",
+      "title": "N. Lamar at Molly Barr",
+      "shortTitle": "N. Lamar @ Molly Barr",
+      "stopId": "164",
+      "tag": "nlammoll",
+      "lat": "34.3841101"
+    },
+    "groveapt": {
+      "routes": {},
+      "lon": "-89.513216",
+      "title": "Highland Sq Apts",
+      "stopId": "165",
+      "tag": "groveapt",
+      "lat": "34.387052"
+    },
+    "mollpatt": {
+      "routes": {},
+      "lon": "-89.518311",
+      "title": "Molly Barr at Patti Ln",
+      "shortTitle": "Molly Barr @ Patti Ln",
+      "stopId": "166",
+      "tag": "mollpatt",
+      "lat": "34.3818669"
+    },
+    "molltrai": {
+      "routes": {},
+      "lon": "-89.5212269",
+      "title": "Molly Barr Trails",
+      "stopId": "167",
+      "tag": "molltrai",
+      "lat": "34.381075"
+    },
+    "mollmcel": {
+      "routes": {},
+      "lon": "-89.5270048",
+      "title": "Molly Barr at McElroy",
+      "shortTitle": "Molly Barr @ McElroy",
+      "stopId": "169",
+      "tag": "mollmcel",
+      "lat": "34.3791459"
+    },
+    "postoffi": {
+      "routes": {},
+      "lon": "-89.5324299",
+      "title": "Post Office",
+      "stopId": "172",
+      "tag": "postoffi",
+      "lat": "34.3799099"
+    },
+    "outfac_d": {
+      "routes": {},
+      "lon": "-89.535343",
+      "title": "OUT Facility",
+      "stopId": "200",
+      "tag": "outfac_d",
+      "lat": "34.381335"
+    },
+    "airp": {
+      "routes": {},
+      "lon": "-89.5390109",
+      "title": "Airport",
+      "stopId": "173",
+      "tag": "airp",
+      "lat": "34.38089"
+    },
+    "univarbo": {
+      "routes": {},
+      "lon": "-89.54155",
+      "title": "800 Park",
+      "stopId": "174",
+      "tag": "univarbo",
+      "lat": "34.378036"
+    },
+    "studcros": {
+      "routes": {},
+      "lon": "-89.535865",
+      "title": "Student Union Dr. at Cross",
+      "shortTitle": "Student Union Dr. @ Cross",
+      "stopId": "123",
+      "tag": "studcros",
+      "lat": "34.367651"
+    },
+    "cbwebb": {
+      "routes": {},
+      "lon": "-89.52661",
+      "title": "CB Webb",
+      "stopId": "171",
+      "tag": "cbwebb",
+      "lat": "34.3781927"
+    },
+    "nlamahill": {
+      "routes": {},
+      "lon": "-89.5077786",
+      "title": "N. Lamar at Hilltop",
+      "shortTitle": "N. Lamar @ Hilltop",
+      "stopId": "181",
+      "tag": "nlamahill",
+      "lat": "34.3843006"
+    },
+    "nlamaplea2": {
+      "routes": {},
+      "lon": "-89.5130586",
+      "title": "N. Lamar at Pleasant Street",
+      "shortTitle": "N. Lamar @ Pleasant",
+      "stopId": "183",
+      "tag": "nlamaplea2",
+      "lat": "34.3757616"
+    },
+    "nlama14": {
+      "routes": {},
+      "lon": "-89.5154916",
+      "title": "N. Lamar at 14th",
+      "shortTitle": "N. Lamar @ 14th",
+      "stopId": "184",
+      "tag": "nlama14",
+      "lat": "34.3742786"
+    },
+    "nlamjeff": {
+      "routes": {},
+      "lon": "-89.518246",
+      "title": "N. Lamar at Jefferson",
+      "shortTitle": "N. Lamar @ Jefferson",
+      "stopId": "185",
+      "tag": "nlamjeff",
+      "lat": "34.3687619"
+    },
+    "cityhall_ib": {
+      "routes": {},
+      "lon": "-89.519219",
+      "title": "City Hall",
+      "stopId": "100",
+      "tag": "cityhall_ib",
+      "lat": "34.36654"
+    },
+    "18garfo": {
+      "routes": {},
+      "lon": "-89.512487",
+      "title": "18th at Garfield (outbound)",
+      "shortTitle": "18th @ Garfield (outbound)",
+      "stopId": "235",
+      "tag": "18garfo",
+      "lat": "34.3547167"
+    },
+    "belk18th": {
+      "routes": {},
+      "lon": "-89.5152889",
+      "title": "Belk at S.18th St",
+      "shortTitle": "Belk @ S.18th",
+      "stopId": "168",
+      "tag": "belk18th",
+      "lat": "34.3473492"
+    },
+    "communi": {
+      "routes": {},
+      "lon": "-89.5161109",
+      "title": "Communicare",
+      "stopId": "195",
+      "tag": "communi",
+      "lat": "34.333309"
+    },
+    "coleman_d": {
+      "routes": {},
+      "lon": "-89.5192809",
+      "title": "Colemans",
+      "stopId": "288",
+      "tag": "coleman_d",
+      "lat": "34.298584"
+    },
+    "vetehome": {
+      "routes": {},
+      "lon": "-89.519488",
+      "title": "Veterans Home",
+      "stopId": "196",
+      "tag": "vetehome",
+      "lat": "34.3296769"
+    },
+    "slamasadd": {
+      "routes": {},
+      "lon": "-89.5203619",
+      "title": "S. Lamar at Saddle Creek",
+      "shortTitle": "S. Lamar @ Saddle Creek",
+      "stopId": "197",
+      "tag": "slamasadd",
+      "lat": "34.3308671"
+    },
+    "hoopholl": {
+      "routes": {},
+      "lon": "-89.519186",
+      "title": "Hooper Hollow",
+      "stopId": "251",
+      "tag": "hoopholl",
+      "lat": "34.334862"
+    },
+    "slamazal": {
+      "routes": {},
+      "lon": "-89.519552",
+      "title": "S. Lamar at Azalea Dr",
+      "shortTitle": "S. Lamar @ Azalea Dr",
+      "stopId": "199",
+      "tag": "slamazal",
+      "lat": "34.3371319"
+    },
+    "belkhosp": {
+      "routes": {},
+      "lon": "-89.528817",
+      "title": "Hospital",
+      "stopId": "190",
+      "tag": "belkhosp",
+      "lat": "34.348127"
+    },
+    "belkmed": {
+      "routes": {},
+      "lon": "-89.5186702",
+      "title": "Belk Medical Park",
+      "stopId": "191",
+      "tag": "belkmed",
+      "lat": "34.3472999"
+    },
+    "belknw": {
+      "routes": {},
+      "lon": "-89.5171119",
+      "title": "Belk N.W. College",
+      "stopId": "192",
+      "tag": "belknw",
+      "lat": "34.34713"
+    },
+    "18garf": {
+      "routes": {},
+      "lon": "-89.5124401",
+      "title": "S. 18th at Garfield",
+      "shortTitle": "S. 18th @ Garfield",
+      "stopId": "204",
+      "tag": "18garf",
+      "lat": "34.3546194"
+    },
+    "18ross": {
+      "routes": {},
+      "lon": "-89.511588",
+      "title": "S. 18th at Ross",
+      "shortTitle": "S. 18th @ Ross",
+      "stopId": "205",
+      "tag": "18ross",
+      "lat": "34.3597379"
+    },
+    "18univ": {
+      "routes": {},
+      "lon": "-89.5108669",
+      "title": "S. 18th at University",
+      "shortTitle": "S. 18th @ University",
+      "stopId": "206",
+      "tag": "18univ",
+      "lat": "34.3627482"
     }
   },
-  "copyright": "All data copyright City of Oxford 2018."
+  "copyright": "All data copyright City of Oxford 2019."
 }

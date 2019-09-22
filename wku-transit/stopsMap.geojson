@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Example Stop Test",
+        "tag": "ExampleStop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43459,
+          37.7626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Another Example Stop Test",
+        "tag": "AnotherStop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.394623,
+          37.7946487
+        ]
+      }
+    }
+  ],
+  "copyright": "All data copyright Western Kentucky University Transit 2019."
+}

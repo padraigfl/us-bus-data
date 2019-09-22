@@ -54,57 +54,6 @@
         ]
       }
     },
-    "blue": {
-      "title": "Blue",
-      "color": "3300ff",
-      "tag": "blue",
-      "oppositeColor": "ffffff",
-      "max": [
-        34.3693944,
-        -89.4810339
-      ],
-      "min": [
-        34.35987,
-        -89.5648205
-      ],
-      "stops": {
-        "Brittany_Woods": [
-          "jackrain",
-          "jackburg",
-          "jackpapa",
-          "studunio",
-          "jacks6th",
-          "cityhall_b_d",
-          "sneehard",
-          "univ16th",
-          "oldarm_b_d",
-          "mcdo",
-          "bigstar",
-          "catfish1"
-        ],
-        "Wal-Mart": [
-          "oldarm_w_d",
-          "univsoni",
-          "cityhall_w_d",
-          "jack9th",
-          "jack6th",
-          "jackmoll",
-          "soronort",
-          "studwome",
-          "jackpric",
-          "jackente",
-          "jackmcdo",
-          "jackheri",
-          "jacksupe",
-          "belk",
-          "walmart",
-          "britwood",
-          "univpeug",
-          "kroger",
-          "univobys"
-        ]
-      }
-    },
     "green": {
       "title": "Green",
       "color": "33cc00",
@@ -115,8 +64,8 @@
         -89.5298448
       ],
       "min": [
-        34.3409788,
-        -89.5438058
+        34.3407266,
+        -89.5424075
       ],
       "stops": {
         "Observatory": [
@@ -124,16 +73,21 @@
           "doma",
           "exchapar_d",
           "oldtfleu_i",
-          "oldtshil_i"
+          "oldtshil_i",
+          "soutcamp_o"
         ],
-        "Faulkner_Flats": [
-          "obse"
+        "Archive": [
+          "obse",
+          "soutcamp_i",
+          "fleudlis",
+          "connapar",
+          "doma_i"
         ]
       }
     },
     "orange": {
       "title": "Orange Connector",
-      "color": "ff6633",
+      "color": "ff6699",
       "tag": "orange",
       "oppositeColor": "000000",
       "max": [
@@ -151,73 +105,13 @@
         ]
       }
     },
-    "red": {
-      "title": "Red",
-      "color": "ff0000",
-      "tag": "red",
-      "oppositeColor": "ffffff",
-      "max": [
-        34.387052,
-        -89.5077789
-      ],
-      "min": [
-        34.3296779,
-        -89.54155
-      ],
-      "stops": {
-        "S_Lamar - Baptist Hospital": [
-          "cbwebb",
-          "nlamahill",
-          "nlamaplea2",
-          "nlama14",
-          "nlamjeff",
-          "cityhall_2",
-          "oldarm_h_d",
-          "18garfo",
-          "belk18th"
-        ],
-        "N_Lamar- College Hill Dr": [
-          "oldarm_c_d",
-          "bramlibr",
-          "jackeast",
-          "cityhall",
-          "nlamadown",
-          "nlamahaty",
-          "nlamaplea",
-          "nlamabeac",
-          "nlammoll",
-          "mollchic",
-          "groveapt",
-          "mollpatt",
-          "molltrai",
-          "mollmcel",
-          "postoffi",
-          "outfac",
-          "airp",
-          "univarbo",
-          "studcros",
-          "mollpric",
-          "communi",
-          "vetehome",
-          "slamasadd",
-          "hoopholl",
-          "slamazal",
-          "belkhosp",
-          "belkmed",
-          "belknw",
-          "18garf",
-          "18ross",
-          "18univ"
-        ]
-      }
-    },
     "yellow": {
       "title": "Yellow",
       "color": "ffff33",
       "tag": "yellow",
       "oppositeColor": "000000",
       "max": [
-        34.3691514,
+        34.3691516,
         -89.5337629
       ],
       "min": [
@@ -225,12 +119,12 @@
         -89.5709401
       ],
       "stops": {
-        "To_Student Union": [
+        "To Student Union": [
           "retreat",
           "oxfloop",
           "jackpapa"
         ],
-        "To_Retreat": [
+        "To Retreat": [
           "studunio_d",
           "lafaplac",
           "thehub"
@@ -285,7 +179,7 @@
           "257",
           "258"
         ],
-        "S._Lot": [
+        "S. Lot": [
           "obsvthub"
         ]
       }
@@ -304,20 +198,23 @@
         -89.5681312
       ],
       "stops": {
-        "Faulkner_Flats": [
+        "Faulkner Flats": [
           "walmart",
           "retreat_i",
           "thehub_i",
           "campcrck_i",
-          "univtrail_i",
-          "faukflat_a"
+          "observ_i",
+          "soutcamp_i",
+          "univtrail_i"
         ],
-        "Wal_Mart": [
+        "Wal Mart": [
           "faukflat",
           "archive",
           "doma",
           "connapts",
           "univtrai_o",
+          "soutcamp_o",
+          "observ_o",
           "campcrck_o",
           "lafaplac",
           "thehub",
@@ -343,7 +240,7 @@
           "campwalk",
           "campcrk"
         ],
-        "To_Campus Creek": [
+        "To Campus Creek": [
           "obse"
         ]
       }
@@ -362,10 +259,10 @@
         -89.5440337
       ],
       "stops": {
-        "Federal_Building": [
+        "Federal Building": [
           "chiomega"
         ],
-        "Beta_Theta": [
+        "Beta Theta": [
           "fedbuild",
           "resicoll_d",
           "soronort",
@@ -374,6 +271,37 @@
           "kappalph",
           "kappsigm",
           "betathet"
+        ]
+      }
+    },
+    "grey": {
+      "title": "Grey",
+      "color": "a8a8a8",
+      "tag": "grey",
+      "oppositeColor": "000000",
+      "max": [
+        34.374769,
+        -89.4878362
+      ],
+      "min": [
+        34.36385,
+        -89.5192189
+      ],
+      "stops": {
+        "Oxford High School": [
+          "cityhall_d",
+          "140",
+          "bramlib",
+          "oxfomsch",
+          "convcent",
+          "blake",
+          "delldavi"
+        ],
+        "Square": [
+          "oxfohsch",
+          "thotel",
+          "oxfothea",
+          "140_ib"
         ]
       }
     },
@@ -392,25 +320,25 @@
         -89.535858
       ],
       "stops": {
-        "City_Hall": [
+        "Square": [
           "lyce_d"
         ],
-        "The_Lyceum": [
+        "The Lyceum": [
           "cityhall_d"
         ]
       }
     },
     "otayexpr": {
       "title": "OTR Express",
-      "color": "000000",
+      "color": "00e600",
       "tag": "otayexpr",
-      "oppositeColor": "ffffff",
+      "oppositeColor": "000000",
       "max": [
         34.3645119,
-        -89.5354467
+        -89.5354475
       ],
       "min": [
-        34.342425,
+        34.3424249,
         -89.547183
       ],
       "stops": {
@@ -419,14 +347,207 @@
           "fleudeli",
           "taylbend",
           "flat",
-          "mullotay_ob"
+          "mullotay_ob",
+          "soucamp_o"
         ],
-        "Faulkner_Flats": [
+        "Faulkner Flats": [
           "obse",
+          "soucamp_i",
           "mullotay_ib"
+        ]
+      }
+    },
+    "bluewest": {
+      "title": "Blue West",
+      "color": "3300ff",
+      "tag": "bluewest",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.3707949,
+        -89.51839
+      ],
+      "min": [
+        34.35987,
+        -89.5648205
+      ],
+      "stops": {
+        "Square": [
+          "jackrain",
+          "jackburg",
+          "jackpapa",
+          "studunio",
+          "jacks6th"
+        ],
+        "Wal-Mart": [
+          "cityhall_d",
+          "jack9th",
+          "jack6th",
+          "jackmoll",
+          "soronort",
+          "studwome",
+          "chiomega",
+          "jackpric",
+          "jackente",
+          "jackmcdo",
+          "jackheri",
+          "jacksupe",
+          "belk",
+          "walmart"
+        ]
+      }
+    },
+    "blueeast": {
+      "title": "Blue East",
+      "color": "3300ff",
+      "tag": "blueeast",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.36651,
+        -89.4810339
+      ],
+      "min": [
+        34.355728,
+        -89.5192299
+      ],
+      "stops": {
+        "Square": [
+          "britwood",
+          "univpeug",
+          "kroger",
+          "mcdonal_i",
+          "oldarmor_i"
+        ],
+        "Brittney Woods": [
+          "square_d",
+          "sneehard",
+          "univ16th",
+          "oldarmor_o",
+          "mcdonal_o",
+          "cashsave",
+          "counbuil"
+        ]
+      }
+    },
+    "silverexp": {
+      "title": "Silver",
+      "color": "bfbfbf",
+      "tag": "silverexp",
+      "oppositeColor": "000000",
+      "max": [
+        34.3645119,
+        -89.536222
+      ],
+      "min": [
+        34.353901,
+        -89.5415249
+      ],
+      "stops": {
+        "South Campus Rec": [
+          "observ_d",
+          "soutcamp"
+        ]
+      }
+    },
+    "soc": {
+      "title": "SOC",
+      "color": "b12f30",
+      "tag": "soc",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.3645119,
+        -89.520267
+      ],
+      "min": [
+        34.34774,
+        -89.5364848
+      ],
+      "stops": {
+        "Observatory": [
+          "southoxf_d"
+        ],
+        "South Oxford Center": [
+          "observ_d"
+        ]
+      }
+    },
+    "rednorth": {
+      "title": "Red North",
+      "color": "ff0000",
+      "tag": "rednorth",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.387052,
+        -89.5077786
+      ],
+      "min": [
+        34.3634097,
+        -89.54155
+      ],
+      "stops": {
+        "OUT Facility": [
+          "oldarm_d",
+          "bramlibr",
+          "cityhall_ob",
+          "nlamadown",
+          "nlamahaty",
+          "nlamaplea",
+          "nlamabeac",
+          "nlammoll",
+          "groveapt",
+          "mollpatt",
+          "molltrai",
+          "mollmcel",
+          "postoffi"
+        ],
+        "Old Armory": [
+          "outfac_d",
+          "airp",
+          "univarbo",
+          "studcros",
+          "cbwebb",
+          "nlamahill",
+          "nlamaplea2",
+          "nlama14",
+          "nlamjeff",
+          "cityhall_ib"
+        ]
+      }
+    },
+    "redsouth": {
+      "title": "Red South",
+      "color": "ff0000",
+      "tag": "redsouth",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.3638099,
+        -89.51043
+      ],
+      "min": [
+        34.2983849,
+        -89.528817
+      ],
+      "stops": {
+        "Old Armory": [
+          "vetehome",
+          "slamasadd",
+          "hoopholl",
+          "slamazal",
+          "belkhosp",
+          "belkmed",
+          "belknw",
+          "18garf",
+          "18ross",
+          "18univ"
+        ],
+        "Colemans": [
+          "oldarm_d",
+          "18garfo",
+          "belk18th",
+          "communi",
+          "coleman_d"
         ]
       }
     }
   },
-  "copyright": "All data copyright City of Oxford 2018."
+  "copyright": "All data copyright City of Oxford 2019."
 }

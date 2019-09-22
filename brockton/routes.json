@@ -15,7 +15,7 @@
         -71.0395873
       ],
       "stops": {
-        "Bat_Center": [
+        "Bat Centre": [
           "walmart",
           "wmaisout",
           "wmaiglen",
@@ -96,7 +96,7 @@
         -71.0201684
       ],
       "stops": {
-        "Bat_Centre": [
+        "Bat Centre": [
           "shawss",
           "mainauto",
           "mainwend",
@@ -167,7 +167,7 @@
         -71.0549129
       ],
       "stops": {
-        "Veterans_Hospital": [
+        "Veterans Hospital": [
           "batctr",
           "legimain",
           "legiwarr",
@@ -194,7 +194,7 @@
           "belmlorr_o",
           "belmedin_o"
         ],
-        "Bat_Center": [
+        "Bat Centre": [
           "vethosp",
           "belmvaen",
           "belmedin",
@@ -234,7 +234,7 @@
         -71.0660308
       ],
       "stops": {
-        "Bat_Center": [
+        "Bat Centre": [
           "goodsamh",
           "oakxrese",
           "oakxpear",
@@ -267,7 +267,7 @@
           "legimain",
           "centmont"
         ],
-        "Good_Samaritan Hospital": [
+        "Good Samaritan Hospital": [
           "batctr",
           "pleamain",
           "pleahere",
@@ -311,7 +311,7 @@
         -71.0155151
       ],
       "stops": {
-        "Bat_Centre": [
+        "Bat Centre": [
           "walmart",
           "brocline",
           "centbate",
@@ -367,7 +367,7 @@
         -71.015576
       ],
       "stops": {
-        "Bat_Center": [
+        "Bat Centre": [
           "masscsu",
           "creschri",
           "creseast",
@@ -385,7 +385,7 @@
           "perkmidd",
           "perkcres"
         ],
-        "Massasoit_College Student Union": [
+        "Massasoit College Student Union": [
           "batctr",
           "perkcres_o",
           "perklawr",
@@ -423,7 +423,7 @@
         -71.023003
       ],
       "stops": {
-        "Bat_Center": [
+        "Bat Centre": [
           "eastbuck",
           "edsoeast",
           "edsowall",
@@ -444,7 +444,7 @@
           "warrbelm",
           "mainvfwp"
         ],
-        "East_St and Backlund Dr": [
+        "East St and Backlund Dr": [
           "batctr",
           "legimain",
           "legiwarr",
@@ -503,7 +503,7 @@
         -71.0766429
       ],
       "stops": {
-        "Bat_Center": [
+        "Bat Centre": [
           "110libers",
           "pearbelm",
           "pearwest",
@@ -526,7 +526,7 @@
           "welmwarr",
           "mainchur"
         ],
-        "110_Liberty Street Shelter": [
+        "110 Liberty Street Shelter": [
           "batctr",
           "welmgodd",
           "welmnewb",
@@ -578,7 +578,7 @@
         -71.0232747
       ],
       "stops": {
-        "Bat_Center": [
+        "Bat Centre": [
           "howaeise",
           "lisaboyl",
           "lisasull",
@@ -611,7 +611,7 @@
           "courpeck",
           "courputn"
         ],
-        "Howard_St at Eisenhower Estates": [
+        "Howard St at Eisenhower Estates": [
           "batctr",
           "courhunt",
           "courmanc",
@@ -674,7 +674,7 @@
         -71.0256754
       ],
       "stops": {
-        "North_Cary St on Amark Rd": [
+        "North Cary St on Amark Rd": [
           "batctr",
           "nmonlind",
           "nmonchar_o",
@@ -710,7 +710,7 @@
           "wintbalt",
           "wintncar"
         ],
-        "Bat_Center": [
+        "Bat Centre": [
           "ncaramar",
           "amarcynt",
           "coeupto",
@@ -749,7 +749,7 @@
         -71.0811759
       ],
       "stops": {
-        "Ashmont_Station": [
+        "Ashmont Station": [
           "batctr",
           "wmaibows",
           "wmaimapl",
@@ -830,7 +830,7 @@
           "dorcvanw",
           "dorcbeal"
         ],
-        "Bat_Center": [
+        "Bat Centre": [
           "ashmont",
           "dorcfull",
           "dorcmerc",
@@ -986,8 +986,26 @@
       "stops": {
         "WGM": [
           "batctr_d",
-          "westlane",
-          "davi99we",
+          "pleamain",
+          "pleaglen",
+          "pleacter",
+          "pleaelli",
+          "pleaaugu",
+          "pleanash",
+          "bela711",
+          "belabell",
+          "belarise",
+          "belaearl",
+          "belacove",
+          "belaanne",
+          "belatuck",
+          "oakgolf",
+          "oakart",
+          "oakorth",
+          "oakchat",
+          "camppole",
+          "campjob",
+          "westdial",
           "cobbcorn_d",
           "washosco",
           "sharfrie",
@@ -1026,38 +1044,52 @@
           "parknocr",
           "parkpark",
           "parkpapl",
-          "pleadoct",
-          "pleawesa",
-          "sear"
+          "parkcant_i",
+          "goodpear_i",
+          "goodsamh_i",
+          "goodoak_i",
+          "oakpine_i",
+          "oakwalm_i",
+          "oakwend",
+          "camppole_i",
+          "campjob_i",
+          "westdial_i"
         ],
-        "Bat_Center": [
+        "Bat Centre": [
           "cobbcorn",
-          "pleawestI_ib",
-          "plealenn",
-          "546pleas",
-          "pleawhee_ib",
-          "pleaash",
-          "pleaglen_ib",
+          "markbask_i",
+          "campjob_2",
+          "campwork_i",
+          "oakchat_i",
+          "oaklane_i",
+          "oakart_i",
+          "oakgolf_i",
+          "belatuck_i",
+          "belaanne_i",
+          "belacove_i",
+          "belaearl_i",
+          "belarise_i",
+          "belabell_i",
+          "bela711_i",
+          "pleanash_i",
+          "pleaaugu_i",
+          "pleaelli_i",
+          "246plea",
+          "pleaglen_i",
+          "pleavinc",
           "pleahere"
         ],
-        "Cobbs_Corner": [
+        "Cobbs Corner": [
           "batctr",
-          "pleamain",
-          "pleaglen",
-          "pleacter",
-          "pleaelli",
-          "pleaaugu",
-          "pleanash",
-          "pleawhee",
-          "plea555",
-          "pleawlen",
-          "pleawest",
-          "westgate_d",
+          "markbask_d",
           "camptoys_cobb",
+          "campwork",
+          "oakmadr",
+          "oakwalm",
           "oakpine",
+          "gsh2pole",
           "goodsamh",
-          "oakxchri_o",
-          "oakxkind_o",
+          "goodpear",
           "npeacant",
           "parkbrst",
           "parkolrc",
@@ -1114,7 +1146,7 @@
         -71.0549987
       ],
       "stops": {
-        "Bat_Center": [
+        "Bat Centre": [
           "searmacy",
           "oakoakri",
           "oakvilla",
@@ -1129,7 +1161,7 @@
           "warrwyma",
           "warrspri"
         ],
-        "Westgate_Mall": [
+        "Westgate Mall": [
           "batctr",
           "nmaicour",
           "sprinmai",
@@ -1173,10 +1205,10 @@
         -71.0645169
       ],
       "stops": {
-        "Ashmont_Station": [
+        "Ashmont Station": [
           "batctr"
         ],
-        "Bat_Center": [
+        "Bat Centre": [
           "ashmont"
         ]
       }
@@ -1195,7 +1227,7 @@
         -71.015576
       ],
       "stops": {
-        "Bat_Center": [
+        "Bat Centre": [
           "walmart",
           "centbate",
           "centquin",
@@ -1253,7 +1285,7 @@
         -71.0224801
       ],
       "stops": {
-        "North_Cary St on Amark Rd": [
+        "North Cary St on Amark Rd": [
           "batctr",
           "courhunt",
           "courmanc",
@@ -1304,7 +1336,7 @@
           "wintbalt",
           "wintncar"
         ],
-        "Bat_Center": [
+        "Bat Centre": [
           "ncaramar",
           "amarcynt",
           "coeupto",
@@ -1342,13 +1374,13 @@
         -70.9747299
       ],
       "stops": {
-        "Harrington_Hall": [
+        "Harrington Hall": [
           "parkgrea",
           "studburr",
           "moakburr_i",
           "commhoop"
         ],
-        "Parking_Garage at Great Hill Dr": [
+        "Weygand Hall/Parking Garage": [
           "harrgrov",
           "artbscho",
           "moakburr_o",
@@ -1363,23 +1395,26 @@
       "tag": "bsu_2",
       "oppositeColor": "ffffff",
       "max": [
-        41.9916115,
-        -70.962056
+        41.9916088,
+        -70.9620563
       ],
       "min": [
-        41.9845927,
+        41.9842292,
         -70.9747299
       ],
       "stops": {
-        "Harrington_Hall": [
+        "Harrington Hall": [
+          "parkgrea",
           "tinscent",
           "swenpark",
-          "parkgrea",
           "commwend"
         ],
-        "Tinsley_Centerl": [
+        "Weygand Hall/Parking Garage": [
           "harrgrov",
-          "artbscho"
+          "artbscho",
+          "unipark",
+          "clocktow",
+          "shedurg"
         ]
       }
     },
@@ -1397,7 +1432,7 @@
         -70.9747299
       ],
       "stops": {
-        "Harrington_Hall": [
+        "Harrington Hall": [
           "parkgrea",
           "towlot",
           "studburr",
@@ -1408,7 +1443,7 @@
           "commwend",
           "summst"
         ],
-        "Parking_Garage at Great Hill Dr": [
+        "Weygand Hall/Parking Garage": [
           "harrgrov",
           "artbscho",
           "moakburr_o",
@@ -1431,7 +1466,7 @@
         -70.9747299
       ],
       "stops": {
-        "Harrington_Hall": [
+        "Harrington Hall": [
           "parkgrea",
           "studburr",
           "moakburr_i",
@@ -1440,7 +1475,7 @@
           "swenpark",
           "commwend"
         ],
-        "Parking_Garage at Great Hill Dr": [
+        "Weygand Hall/Parking Garage": [
           "harrgrov",
           "artbscho",
           "moakburr_o",
@@ -1455,23 +1490,27 @@
       "tag": "bsu_28",
       "oppositeColor": "ffffff",
       "max": [
-        42.0429679,
-        -70.9741408
+        42.085418,
+        -70.9741402
       ],
       "min": [
-        41.98704,
-        -71.0093169
+        41.9869259,
+        -71.01544
       ],
       "stops": {
-        "Harrington_Hall": [
-          "shawss"
-        ],
-        "Kmart": [
-          "harrgrov",
+        "Harrington Hall": [
+          "shawss",
+          "cityline_s",
+          "kingvill_i",
           "artbscho"
+        ],
+        "BAT Centre": [
+          "harrgrov",
+          "kingvill_o",
+          "cityline_n"
         ]
       }
     }
   },
-  "copyright": "All data copyright Brockton Area Transit Authority 2018."
+  "copyright": "All data copyright Brockton Area Transit Authority 2019."
 }

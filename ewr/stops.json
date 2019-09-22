@@ -1,6 +1,7 @@
 {
   "data": {
     "termapic": {
+      "routes": {},
       "lon": "-74.1821163",
       "title": "Term A/Pickup",
       "stopId": "100",
@@ -8,6 +9,7 @@
       "lat": "40.688186"
     },
     "termbpic": {
+      "routes": {},
       "lon": "-74.1783609",
       "title": "Term B/Pickup",
       "stopId": "200",
@@ -15,6 +17,7 @@
       "lat": "40.690856"
     },
     "termcpic": {
+      "routes": {},
       "lon": "-74.1781811",
       "title": "Term C/Pickup",
       "stopId": "300",
@@ -22,6 +25,7 @@
       "lat": "40.694773"
     },
     "stop1": {
+      "routes": {},
       "lon": "-74.1592964",
       "title": "P6 Bus Stop 1",
       "stopId": "001",
@@ -29,6 +33,7 @@
       "lat": "40.7061473"
     },
     "stop2": {
+      "routes": {},
       "lon": "-74.1606607",
       "title": "P6 Bus Stop 2",
       "stopId": "002",
@@ -36,6 +41,7 @@
       "lat": "40.7069919"
     },
     "stop3": {
+      "routes": {},
       "lon": "-74.162371",
       "title": "P6 Bus Stop 3",
       "stopId": "003",
@@ -43,6 +49,7 @@
       "lat": "40.7071598"
     },
     "stop4": {
+      "routes": {},
       "lon": "-74.162531",
       "title": "P6 Bus Stop 4",
       "stopId": "004",
@@ -50,6 +57,7 @@
       "lat": "40.7060947"
     },
     "stop5": {
+      "routes": {},
       "lon": "-74.1616131",
       "title": "P6 Bus Stop 5",
       "stopId": "005",
@@ -57,6 +65,7 @@
       "lat": "40.705633"
     },
     "stop6": {
+      "routes": {},
       "lon": "-74.1586684",
       "title": "P6 Bus Stop 6",
       "stopId": "006",
@@ -64,6 +73,7 @@
       "lat": "40.7050523"
     },
     "stop7": {
+      "routes": {},
       "lon": "-74.1575729",
       "title": "P6 Bus Stop 7",
       "stopId": "007",
@@ -71,6 +81,7 @@
       "lat": "40.7051715"
     },
     "stop8": {
+      "routes": {},
       "lon": "-74.1552945",
       "title": "P6 Bus Stop 8",
       "stopId": "008",
@@ -78,6 +89,7 @@
       "lat": "40.7044765"
     },
     "stop9": {
+      "routes": {},
       "lon": "-74.1551278",
       "title": "P6 Bus Stop 9",
       "stopId": "009",
@@ -85,6 +97,7 @@
       "lat": "40.7051308"
     },
     "stop10": {
+      "routes": {},
       "lon": "-74.1565623",
       "title": "P6 Bus Stop 10",
       "stopId": "010",
@@ -92,6 +105,7 @@
       "lat": "40.7056171"
     },
     "termadro": {
+      "routes": {},
       "lon": "-74.1825813",
       "title": "Term A/Dropoff",
       "stopId": "101",
@@ -99,6 +113,7 @@
       "lat": "40.6877793"
     },
     "termbdro": {
+      "routes": {},
       "lon": "-74.1776009",
       "title": "Term B/Dropoff",
       "stopId": "201",
@@ -106,6 +121,7 @@
       "lat": "40.6906629"
     },
     "termcdro": {
+      "routes": {},
       "lon": "-74.1777234",
       "title": "Term C/Dropoff",
       "stopId": "301",
@@ -113,5 +129,5 @@
       "lat": "40.6953451"
     }
   },
-  "copyright": "All data copyright Newark Liberty International Airport 2018."
+  "copyright": "All data copyright Newark Liberty International Airport 2019."
 }

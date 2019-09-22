@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "title": "Employee Curb",
-        "tag": "econcurb"
+        "tag": "econcurb",
+        "stopId": "0010"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "title": "GTC Exit",
-        "tag": "gtc_exit"
+        "tag": "gtc_exit",
+        "stopId": "0011"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +35,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 10",
-        "tag": "busshelt_10"
+        "tag": "busshelt_10",
+        "stopId": "0012"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +50,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 11",
-        "tag": "busshelt_11"
+        "tag": "busshelt_11",
+        "stopId": "0013"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +65,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 12",
-        "tag": "busshelt_12"
+        "tag": "busshelt_12",
+        "stopId": "0014"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +80,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 13",
-        "tag": "busshelt_13"
+        "tag": "busshelt_13",
+        "stopId": "0015"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +95,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 14",
-        "tag": "busshelt_14"
+        "tag": "busshelt_14",
+        "stopId": "0016"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +110,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 15",
-        "tag": "busshelt_15"
+        "tag": "busshelt_15",
+        "stopId": "0017"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +125,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 16",
-        "tag": "busshelt_16"
+        "tag": "busshelt_16",
+        "stopId": "0018"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +140,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 17",
-        "tag": "busshelt_17"
+        "tag": "busshelt_17",
+        "stopId": "0019"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +155,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 18",
-        "tag": "busshelt_18"
+        "tag": "busshelt_18",
+        "stopId": "0020"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +170,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 19",
-        "tag": "busshelt_19"
+        "tag": "busshelt_19",
+        "stopId": "0021"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +185,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 20",
-        "tag": "busshelt_20"
+        "tag": "busshelt_20",
+        "stopId": "0022"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +200,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 21",
-        "tag": "busshelt_21"
+        "tag": "busshelt_21",
+        "stopId": "0023"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +215,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 22",
-        "tag": "busshelt_22"
+        "tag": "busshelt_22",
+        "stopId": "0024"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +230,8 @@
       "type": "Feature",
       "properties": {
         "title": "GTC Entrance",
-        "tag": "gtc_entr"
+        "tag": "gtc_entr",
+        "stopId": "0025"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +245,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 1",
-        "tag": "busshelt_01"
+        "tag": "busshelt_01",
+        "stopId": "0026"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +260,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 4",
-        "tag": "busshelt_04"
+        "tag": "busshelt_04",
+        "stopId": "0027"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +275,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 3",
-        "tag": "busshelt_03"
+        "tag": "busshelt_03",
+        "stopId": "0028"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +290,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 2",
-        "tag": "busshelt_02"
+        "tag": "busshelt_02",
+        "stopId": "0029"
       },
       "geometry": {
         "type": "Point",
@@ -285,7 +305,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bus Shelter 9",
-        "tag": "busshelt_09"
+        "tag": "busshelt_09",
+        "stopId": "0030"
       },
       "geometry": {
         "type": "Point",
@@ -296,5 +317,5 @@
       }
     }
   ],
-  "copyright": "All data copyright Indianapolis International Airport 2018."
+  "copyright": "All data copyright Indianapolis International Airport 2019."
 }

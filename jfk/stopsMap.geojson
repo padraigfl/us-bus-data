@@ -485,7 +485,7 @@
       "properties": {
         "title": "Employee Lot 1",
         "tag": "stop1",
-        "stopId": "801"
+        "stopId": "001"
       },
       "geometry": {
         "type": "Point",
@@ -500,7 +500,7 @@
       "properties": {
         "title": "Employee Lot 2",
         "tag": "stop2",
-        "stopId": "802"
+        "stopId": "002"
       },
       "geometry": {
         "type": "Point",
@@ -515,7 +515,7 @@
       "properties": {
         "title": "Employee Lot 3",
         "tag": "stop3",
-        "stopId": "803"
+        "stopId": "003"
       },
       "geometry": {
         "type": "Point",
@@ -530,7 +530,7 @@
       "properties": {
         "title": "Employee Lot 4",
         "tag": "stop4a",
-        "stopId": "804"
+        "stopId": "004"
       },
       "geometry": {
         "type": "Point",
@@ -545,13 +545,28 @@
       "properties": {
         "title": "Employee Lot 5",
         "tag": "stop5",
-        "stopId": "805"
+        "stopId": "005"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.8231767,
           40.6622196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Howard Beach AirTrain Station",
+        "tag": "howabeac",
+        "stopId": "910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8297409,
+          40.6611396
         ]
       }
     },
@@ -689,22 +704,7 @@
           40.6624571
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Howard Beach AirTrain Station",
-        "tag": "howabeac",
-        "stopId": "910"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8297409,
-          40.6611396
-        ]
-      }
     }
   ],
-  "copyright": "All data copyright JFK International Airport 2018."
+  "copyright": "All data copyright JFK International Airport 2019."
 }

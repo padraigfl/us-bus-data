@@ -10,7 +10,7 @@
         -73.94482
       ],
       "min": [
-        40.810272,
+        40.8102719,
         -73.952902
       ],
       "stops": {
@@ -18,10 +18,33 @@
           "marshak_d",
           "145th",
           "marshak",
+          "125th",
+          "spitzer"
+        ]
+      }
+    },
+    "tloop": {
+      "title": "Towers Loop",
+      "color": "ff8c00",
+      "tag": "tloop",
+      "oppositeColor": "000000",
+      "max": [
+        40.8238901,
+        -73.9448548
+      ],
+      "min": [
+        40.8102649,
+        -73.952907
+      ],
+      "stops": {
+        "Loop": [
+          "130th_d",
+          "marshak_d",
+          "145thnich",
           "125th"
         ]
       }
     }
   },
-  "copyright": "All data copyright City College NYC 2018."
+  "copyright": "All data copyright City College NYC 2019."
 }

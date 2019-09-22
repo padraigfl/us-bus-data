@@ -4,15 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "S Jackson St & Occidental Ave S",
-        "tag": "1552",
-        "stopId": "1552"
+        "title": "S Jackson St & Occidental Ave Walk",
+        "tag": "1551",
+        "stopId": "1551"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33326,
-          47.5991399
+          -122.33328,
+          47.5992699
         ]
       }
     },
@@ -72,7 +72,7 @@
         "type": "Point",
         "coordinates": [
           -122.32334,
-          47.5992599
+          47.5992699
         ]
       }
     },
@@ -117,7 +117,7 @@
         "type": "Point",
         "coordinates": [
           -122.31553,
-          47.5991299
+          47.5991399
         ]
       }
     },
@@ -154,14 +154,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Broadway & E Denny Way",
-        "tag": "11062",
-        "stopId": "11062"
+        "title": "Broadway & E Howell St",
+        "tag": "11175",
+        "stopId": "11175"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.32095,
+          -122.32075,
           47.6181599
         ]
       }
@@ -341,8 +341,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.32062,
-          47.6017699
+          -122.3203,
+          47.6017599
         ]
       }
     },
@@ -356,8 +356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.32008,
-          47.6016299
+          -122.31983,
+          47.6016199
         ]
       }
     },
@@ -522,5 +522,5 @@
       }
     }
   ],
-  "copyright": "All data copyright Seattle Streetcar 2018."
+  "copyright": "All data copyright Seattle Streetcar 2019."
 }

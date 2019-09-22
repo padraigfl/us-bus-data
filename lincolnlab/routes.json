@@ -1,0 +1,54 @@
+{
+  "data": {
+    "lb": {
+      "title": "Campus Shuttle",
+      "color": "800000",
+      "tag": "lb",
+      "oppositeColor": "ffffff",
+      "max": [
+        42.4587144,
+        -71.0859569
+      ],
+      "min": [
+        42.3615631,
+        -71.2674827
+      ],
+      "stops": {
+        "Outbound": [
+          "325main_d",
+          "60vass_ob",
+          "200tech_ob",
+          "linclab_a"
+        ],
+        "Inbound": [
+          "linclab",
+          "200tech_ib",
+          "60vass_ib"
+        ]
+      }
+    },
+    "fs": {
+      "title": "Forbes Road",
+      "color": "aa00ff",
+      "tag": "fs",
+      "oppositeColor": "ffffff",
+      "max": [
+        42.4587149,
+        -71.262608
+      ],
+      "min": [
+        42.441487,
+        -71.2674824
+      ],
+      "stops": {
+        "Forbes Rd": [
+          "linclab"
+        ],
+        "Lincoln Lab": [
+          "5forb"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright MIT Lincoln Lab Shuttle 2019."
+}

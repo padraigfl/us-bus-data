@@ -4,6 +4,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "State Gym on Sheldon [Temporary]",
+        "tag": "1500",
+        "stopId": "1500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.65417,
+          42.02487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sheldon Ave. at West St. [Temporary]",
+        "tag": "1501",
+        "stopId": "1501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6543999,
+          42.0248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Lincoln Way at Beach Ave.",
         "tag": "2000",
         "stopId": "2000"
@@ -71,7 +101,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6457299,
+          -93.64573,
           42.02263
         ]
       }
@@ -131,68 +161,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6498899,
+          -93.64989,
           42.0235599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Upper Friley",
-        "tag": "2050",
-        "stopId": "2050"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.6505399,
-          42.02495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Student Services",
-        "tag": "2051",
-        "stopId": "2051"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.6506999,
-          42.0252399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "State Gym",
-        "tag": "2060",
-        "stopId": "2060"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.65269,
-          42.0252899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beyer Hall",
-        "tag": "2061",
-        "stopId": "2061"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.65296,
-          42.0254699
         ]
       }
     },
@@ -207,7 +177,7 @@
         "type": "Point",
         "coordinates": [
           -93.65523,
-          42.02528
+          42.0252799
         ]
       }
     },
@@ -221,7 +191,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6554299,
+          -93.65543,
           42.0254199
         ]
       }
@@ -251,8 +221,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6467599,
-          42.02374
+          -93.64676,
+          42.0237399
         ]
       }
     },
@@ -297,7 +267,7 @@
         "type": "Point",
         "coordinates": [
           -93.6395599,
-          42.02323
+          42.0232299
         ]
       }
     },
@@ -312,7 +282,7 @@
         "type": "Point",
         "coordinates": [
           -93.63888,
-          42.0264299
+          42.02643
         ]
       }
     },
@@ -327,21 +297,21 @@
         "type": "Point",
         "coordinates": [
           -93.6390699,
-          42.0261499
+          42.02615
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "General Serivces South",
+        "title": "General Services South",
         "tag": "2221",
         "stopId": "2221"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6406799,
+          -93.64068,
           42.0273399
         ]
       }
@@ -349,7 +319,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "General Serivces West",
+        "title": "General Services West",
         "tag": "2230",
         "stopId": "2230"
       },
@@ -357,7 +327,7 @@
         "type": "Point",
         "coordinates": [
           -93.6414,
-          42.0281699
+          42.02817
         ]
       }
     },
@@ -387,7 +357,7 @@
         "type": "Point",
         "coordinates": [
           -93.6481099,
-          42.02791
+          42.0279099
         ]
       }
     },
@@ -410,21 +380,6 @@
       "type": "Feature",
       "properties": {
         "title": "Memorial Union",
-        "tag": "2260",
-        "stopId": "2260"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.64618,
-          42.0246799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Memorial Union",
         "tag": "2261",
         "stopId": "2261"
       },
@@ -433,81 +388,6 @@
         "coordinates": [
           -93.64597,
           42.0245
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Wallace Rd. at Gerdin Hall",
-        "tag": "2270",
-        "stopId": "2270"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.6438199,
-          42.0252499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Wallace Rd. at Gerdin Hall",
-        "tag": "2271",
-        "stopId": "2271"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.6434099,
-          42.0254
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Food Science",
-        "tag": "2280",
-        "stopId": "2280"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.6422999,
-          42.0264699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Wallace Rd. at Forker Hall",
-        "tag": "2281",
-        "stopId": "2281"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.64194,
-          42.02662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Ave. at Lincoln Way",
-        "tag": "2301",
-        "stopId": "2301"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.63958,
-          42.0223199
         ]
       }
     },
@@ -596,7 +476,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.64687,
+          -93.6468699,
           42.0289499
         ]
       }
@@ -611,7 +491,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.64855,
+          -93.6485499,
           42.02882
         ]
       }
@@ -626,7 +506,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6488799,
+          -93.64888,
           42.0289699
         ]
       }
@@ -641,7 +521,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6508199,
+          -93.65082,
           42.02881
         ]
       }
@@ -664,36 +544,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sweeney Hall",
-        "tag": "2540",
-        "stopId": "2540"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.65176,
-          42.0276599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Howe Hall",
-        "tag": "2541",
-        "stopId": "2541"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.6520699,
-          42.02747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Mortensen Rd. at West Bus Turnaround",
         "tag": "3261",
         "stopId": "3261"
@@ -703,6 +553,36 @@
         "coordinates": [
           -93.69577,
           42.0154999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mortensen Rd. at Lawrence Ave.",
+        "tag": "3264",
+        "stopId": "3264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.69226,
+          42.0141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mortensen Rd. at Lawrence Ave.",
+        "tag": "3265",
+        "stopId": "3265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.69243,
+          42.0143899
         ]
       }
     },
@@ -761,7 +641,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.68721,
+          -93.6872099,
           42.0138399
         ]
       }
@@ -844,36 +724,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mortensen Rd. at Seagrave Blvd.",
-        "tag": "3320",
-        "stopId": "3320"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.6708199,
-          42.01193
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Mortensen Rd. at Seagrave Blvd.",
-        "tag": "3321",
-        "stopId": "3321"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.67202,
-          42.0121399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Ames Middle School",
         "tag": "3333",
         "stopId": "3333"
@@ -934,45 +784,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Dickenson Ave. at Mortensen Rd.",
-        "tag": "3470",
-        "stopId": "3470"
+        "title": "S. Dakota Ave. at Steinbeck St.",
+        "tag": "3494",
+        "stopId": "3494"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.68155,
-          42.0126399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dickenson Ave. at Steinbeck St.",
-        "tag": "3480",
-        "stopId": "3480"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.68101,
-          42.01401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Steinbeck St. at S. Dakota Ave.",
-        "tag": "3490",
-        "stopId": "3490"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.67916,
-          42.01445
+          -93.6787599,
+          42.0143299
         ]
       }
     },
@@ -1002,7 +822,7 @@
         "type": "Point",
         "coordinates": [
           -93.6787999,
-          42.0176499
+          42.01765
         ]
       }
     },
@@ -1031,8 +851,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6788499,
-          42.0211199
+          -93.67885,
+          42.02112
         ]
       }
     },
@@ -1046,8 +866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.67885,
-          42.0222099
+          -93.6788499,
+          42.02221
         ]
       }
     },
@@ -1151,7 +971,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.66429,
+          -93.6642899,
           42.02272
         ]
       }
@@ -1166,7 +986,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.66559,
+          -93.6655899,
           42.0229099
         ]
       }
@@ -1181,7 +1001,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6613399,
+          -93.66134,
           42.02267
         ]
       }
@@ -1271,7 +1091,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6532699,
+          -93.65327,
           42.02266
         ]
       }
@@ -1302,7 +1122,7 @@
         "type": "Point",
         "coordinates": [
           -93.6558099,
-          42.0284399
+          42.02844
         ]
       }
     },
@@ -1332,7 +1152,7 @@
         "type": "Point",
         "coordinates": [
           -93.6557799,
-          42.0310099
+          42.03101
         ]
       }
     },
@@ -1362,7 +1182,7 @@
         "type": "Point",
         "coordinates": [
           -93.6557299,
-          42.03407
+          42.0340699
         ]
       }
     },
@@ -1511,7 +1331,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.67192,
+          -93.6719199,
           42.03441
         ]
       }
@@ -1616,7 +1436,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.68223,
+          -93.6822299,
           42.03444
         ]
       }
@@ -1631,7 +1451,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6829599,
+          -93.68296,
           42.0346299
         ]
       }
@@ -1691,7 +1511,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6882399,
+          -93.68824,
           42.0345599
         ]
       }
@@ -1796,7 +1616,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6226199,
+          -93.62262,
           42.05589
         ]
       }
@@ -1826,7 +1646,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6299199,
+          -93.62992,
           42.05578
         ]
       }
@@ -1841,7 +1661,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6306499,
+          -93.63065,
           42.0559899
         ]
       }
@@ -1931,7 +1751,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6416,
+          -93.6415999,
           42.0563999
         ]
       }
@@ -1962,7 +1782,7 @@
         "type": "Point",
         "coordinates": [
           -93.6452399,
-          42.0559399
+          42.05594
         ]
       }
     },
@@ -2164,6 +1984,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Northern Lights Center",
+        "tag": "4185",
+        "stopId": "4185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.62245,
+          42.0539999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Roy Key Ave. at Wheeler St.",
+        "tag": "4187",
+        "stopId": "4187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6234999,
+          42.05322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "30th St. at Regency Ct.",
         "tag": "4200",
         "stopId": "4200"
@@ -2186,7 +2036,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.62603,
+          -93.6260299,
           42.0512099
         ]
       }
@@ -2277,7 +2127,7 @@
         "type": "Point",
         "coordinates": [
           -93.6259899,
-          42.04717
+          42.0471699
         ]
       }
     },
@@ -2336,7 +2186,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.63084,
+          -93.6308399,
           42.0456499
         ]
       }
@@ -2381,7 +2231,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6357999,
+          -93.6358,
           42.04541
         ]
       }
@@ -2411,7 +2261,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6387799,
+          -93.63878,
           42.04539
         ]
       }
@@ -2539,81 +2389,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "#42 Frederiksen",
-        "tag": "4400",
-        "stopId": "4400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.64156,
-          42.0335999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "#33 Frederiksen",
-        "tag": "4411",
-        "stopId": "4411"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.6405099,
-          42.0342099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "#31 Frederiksen",
-        "tag": "4421",
-        "stopId": "4421"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.6417599,
-          42.0341799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Frederiksen at #22",
-        "tag": "4430",
-        "stopId": "4430"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.64379,
-          42.03374
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "#11 Frederiksen",
-        "tag": "4431",
-        "stopId": "4431"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.6440399,
-          42.0339999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Stange Rd. at Frederiksen",
         "tag": "4500",
         "stopId": "4500"
@@ -2681,7 +2456,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6217,
+          -93.6216999,
           42.0512599
         ]
       }
@@ -2727,7 +2502,7 @@
         "type": "Point",
         "coordinates": [
           -93.61404,
-          42.04857
+          42.0485699
         ]
       }
     },
@@ -2742,7 +2517,7 @@
         "type": "Point",
         "coordinates": [
           -93.6142999,
-          42.0483999
+          42.0484
         ]
       }
     },
@@ -2801,7 +2576,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6128499,
+          -93.61285,
           42.04396
         ]
       }
@@ -2832,7 +2607,7 @@
         "type": "Point",
         "coordinates": [
           -93.6108299,
-          42.04175
+          42.0417499
         ]
       }
     },
@@ -2846,8 +2621,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6105899,
-          42.0404699
+          -93.61059,
+          42.04047
         ]
       }
     },
@@ -2891,8 +2666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6107999,
-          42.0380499
+          -93.6108,
+          42.03805
         ]
       }
     },
@@ -2922,7 +2697,7 @@
         "type": "Point",
         "coordinates": [
           -93.6107999,
-          42.0354399
+          42.03544
         ]
       }
     },
@@ -3162,7 +2937,7 @@
         "type": "Point",
         "coordinates": [
           -93.6207199,
-          42.0449799
+          42.04498
         ]
       }
     },
@@ -3206,7 +2981,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.62082,
+          -93.6208199,
           42.0421599
         ]
       }
@@ -3221,7 +2996,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6225699,
+          -93.62257,
           42.04198
         ]
       }
@@ -3236,7 +3011,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.62297,
+          -93.6229699,
           42.0421299
         ]
       }
@@ -3252,7 +3027,7 @@
         "type": "Point",
         "coordinates": [
           -93.62559,
-          42.04195
+          42.0419499
         ]
       }
     },
@@ -3296,7 +3071,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6254199,
+          -93.62542,
           42.0383599
         ]
       }
@@ -3311,7 +3086,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.62221,
+          -93.6222099,
           42.03824
         ]
       }
@@ -3326,7 +3101,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6228399,
+          -93.62284,
           42.0383899
         ]
       }
@@ -3341,7 +3116,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.62102,
+          -93.6210199,
           42.03823
         ]
       }
@@ -3387,7 +3162,7 @@
         "type": "Point",
         "coordinates": [
           -93.6205199,
-          42.0341899
+          42.03419
         ]
       }
     },
@@ -3477,7 +3252,7 @@
         "type": "Point",
         "coordinates": [
           -93.6171199,
-          42.0295499
+          42.02955
         ]
       }
     },
@@ -3507,7 +3282,7 @@
         "type": "Point",
         "coordinates": [
           -93.6170499,
-          42.0271199
+          42.02712
         ]
       }
     },
@@ -3626,7 +3401,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.62723,
+          -93.6272299,
           42.0229299
         ]
       }
@@ -3701,7 +3476,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6197499,
+          -93.61975,
           42.02574
         ]
       }
@@ -3717,7 +3492,7 @@
         "type": "Point",
         "coordinates": [
           -93.62191,
-          42.02598
+          42.0259799
         ]
       }
     },
@@ -3732,7 +3507,7 @@
         "type": "Point",
         "coordinates": [
           -93.6225799,
-          42.02654
+          42.0265399
         ]
       }
     },
@@ -3746,7 +3521,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.62335,
+          -93.6233499,
           42.0268699
         ]
       }
@@ -3791,8 +3566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6299499,
-          42.0282399
+          -93.62995,
+          42.02824
         ]
       }
     },
@@ -3821,7 +3596,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6334999,
+          -93.6335,
           42.0277999
         ]
       }
@@ -3851,7 +3626,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.63839,
+          -93.6383899,
           42.02975
         ]
       }
@@ -3897,7 +3672,7 @@
         "type": "Point",
         "coordinates": [
           -93.63939,
-          42.02069
+          42.0206899
         ]
       }
     },
@@ -3912,7 +3687,7 @@
         "type": "Point",
         "coordinates": [
           -93.6395899,
-          42.02079
+          42.0207899
         ]
       }
     },
@@ -3956,8 +3731,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6356599,
-          42.01614
+          -93.63566,
+          42.0161399
         ]
       }
     },
@@ -3971,7 +3746,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6355899,
+          -93.63559,
           42.0163299
         ]
       }
@@ -3986,7 +3761,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6310799,
+          -93.63108,
           42.01626
         ]
       }
@@ -4031,7 +3806,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6270399,
+          -93.62704,
           42.0192799
         ]
       }
@@ -4061,7 +3836,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6213,
+          -93.6212999,
           42.0193799
         ]
       }
@@ -4091,7 +3866,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6189699,
+          -93.61897,
           42.0196699
         ]
       }
@@ -4107,7 +3882,7 @@
         "type": "Point",
         "coordinates": [
           -93.61681,
-          42.0199099
+          42.01991
         ]
       }
     },
@@ -4122,7 +3897,7 @@
         "type": "Point",
         "coordinates": [
           -93.61669,
-          42.0178699
+          42.01787
         ]
       }
     },
@@ -4339,7 +4114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "S. Duff Ave. at S. 5th Ave.",
+        "title": "S. Duff Ave. at S. 5th St.",
         "tag": "6740",
         "stopId": "6740"
       },
@@ -4354,7 +4129,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "S. Duff Ave. at S. 5th Ave.",
+        "title": "S. Duff Ave. at S. 5th St.",
         "tag": "6741",
         "stopId": "6741"
       },
@@ -4363,66 +4138,6 @@
         "coordinates": [
           -93.6105,
           42.0171799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stadium Parking at North Stop",
-        "tag": "7710",
-        "stopId": "7710"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.63263,
-          42.01436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stadium Parking at North Stop",
-        "tag": "7711",
-        "stopId": "7711"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.6328699,
-          42.01432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stadium Parking at South Stop",
-        "tag": "7720",
-        "stopId": "7720"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.63371,
-          42.01219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stadium Parking at South Stop",
-        "tag": "7721",
-        "stopId": "7721"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.6341199,
-          42.0121499
         ]
       }
     },
@@ -4556,7 +4271,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.62342,
+          -93.6234199,
           42.00829
         ]
       }
@@ -4631,7 +4346,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.61659,
+          -93.6165899,
           42.0084599
         ]
       }
@@ -4677,7 +4392,7 @@
         "type": "Point",
         "coordinates": [
           -93.61143,
-          42.0087399
+          42.00874
         ]
       }
     },
@@ -4692,7 +4407,7 @@
         "type": "Point",
         "coordinates": [
           -93.61145,
-          42.01018
+          42.0101799
         ]
       }
     },
@@ -4864,36 +4579,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Welch Ave. at Chamberlain St.",
-        "tag": "8790",
-        "stopId": "8790"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.65001,
-          42.0213499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Welch Ave. at Chamberlain St.",
-        "tag": "8791",
-        "stopId": "8791"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.6502099,
-          42.02105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Lynn Ave. at Lincoln Way",
         "tag": "8800",
         "stopId": "8800"
@@ -4962,22 +4647,7 @@
         "type": "Point",
         "coordinates": [
           -93.6496,
-          42.01905
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Welch Ave. at Knapp St.",
-        "tag": "8850",
-        "stopId": "8850"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.64999,
-          42.0193399
+          42.0190499
         ]
       }
     },
@@ -4999,21 +4669,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Towers Welch Turnaround",
-        "tag": "8860",
-        "stopId": "8860"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.64999,
-          42.0159899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Storm St. at Welch Ave.",
         "tag": "8870",
         "stopId": "8870"
@@ -5021,7 +4676,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6502799,
+          -93.65028,
           42.01606
         ]
       }
@@ -5067,7 +4722,7 @@
         "type": "Point",
         "coordinates": [
           -93.6517499,
-          42.01374
+          42.0137399
         ]
       }
     },
@@ -5156,7 +4811,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6468399,
+          -93.64684,
           42.0115799
         ]
       }
@@ -5216,7 +4871,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.64341,
+          -93.6434099,
           42.0090799
         ]
       }
@@ -5232,7 +4887,7 @@
         "type": "Point",
         "coordinates": [
           -93.63923,
-          42.0068699
+          42.00687
         ]
       }
     },
@@ -5247,7 +4902,7 @@
         "type": "Point",
         "coordinates": [
           -93.6395499,
-          42.0072799
+          42.00728
         ]
       }
     },
@@ -5262,7 +4917,7 @@
         "type": "Point",
         "coordinates": [
           -93.63932,
-          42.0007099
+          42.00071
         ]
       }
     },
@@ -5277,7 +4932,7 @@
         "type": "Point",
         "coordinates": [
           -93.6396099,
-          42.0008999
+          42.0009
         ]
       }
     },
@@ -5307,7 +4962,7 @@
         "type": "Point",
         "coordinates": [
           -93.6395499,
-          41.99913
+          41.9991299
         ]
       }
     },
@@ -5322,7 +4977,7 @@
         "type": "Point",
         "coordinates": [
           -93.63921,
-          41.9951699
+          41.99517
         ]
       }
     },
@@ -5337,7 +4992,7 @@
         "type": "Point",
         "coordinates": [
           -93.6394899,
-          41.99568
+          41.9956799
         ]
       }
     },
@@ -5352,7 +5007,7 @@
         "type": "Point",
         "coordinates": [
           -93.6391,
-          41.9924599
+          41.99246
         ]
       }
     },
@@ -5367,7 +5022,37 @@
         "type": "Point",
         "coordinates": [
           -93.6394599,
-          41.9925799
+          41.99258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Collaboration Place at University Blvd.",
+        "tag": "8983",
+        "stopId": "8983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6378999,
+          41.9907099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Collaboration Place at University Blvd.",
+        "tag": "8984",
+        "stopId": "8984"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.63782,
+          41.99052
         ]
       }
     },
@@ -5396,7 +5081,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.65058,
+          -93.6505799,
           42.0229199
         ]
       }
@@ -5404,123 +5089,78 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Pammel Dr. at Winlock Rd.",
-        "tag": "9021",
-        "stopId": "9021"
+        "title": "Aquatics Center",
+        "tag": "9100",
+        "stopId": "9100"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.64642,
-          42.0305799
+          -93.63196,
+          42.0355599
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Pammel Dr. at Molecular Biology",
-        "tag": "9031",
-        "stopId": "9031"
+        "title": "13th St. at Northwestern Ave.",
+        "tag": "9110",
+        "stopId": "9110"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.64962,
-          42.0305899
+          -93.62538,
+          42.03446
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Lincoln Way at Campus Ave.",
-        "tag": "9041",
-        "stopId": "9041"
+        "title": "13th St. at Northwestern Ave.",
+        "tag": "9111",
+        "stopId": "9111"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6573599,
-          42.0228099
+          -93.6262099,
+          42.0346399
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Hayward Ave. at Chamberlain St.",
-        "tag": "9050",
-        "stopId": "9050"
+        "title": "13th St. at Roosevelt Ave.",
+        "tag": "9120",
+        "stopId": "9120"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.65168,
-          42.0217299
+          -93.62219,
+          42.03446
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Hayward Ave. at Chamberlain St.",
-        "tag": "9051",
-        "stopId": "9051"
+        "title": "13th St. at Roosevelt Ave.",
+        "tag": "9121",
+        "stopId": "9121"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.6518499,
-          42.02156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "6th St. at Grand Ave.",
-        "tag": "9061",
-        "stopId": "9061"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.61864,
-          42.0267799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "6th St. at Douglas Ave.",
-        "tag": "9071",
-        "stopId": "9071"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.61085,
-          42.02686
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Duff Ave. at 5th St.",
-        "tag": "9081",
-        "stopId": "9081"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.6105699,
-          42.0263
+          -93.62281,
+          42.0346499
         ]
       }
     }
   ],
-  "copyright": "All data copyright CyRide 2018."
+  "copyright": "All data copyright CyRide 2019."
 }

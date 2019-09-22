@@ -11,8 +11,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6168399,
-          30.2971199
+          -81.61684,
+          30.29712
         ]
       }
     },
@@ -41,8 +41,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6192299,
-          30.2982499
+          -81.61923,
+          30.29825
         ]
       }
     },
@@ -86,8 +86,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.62786,
-          30.30228
+          -81.6278599,
+          30.3022799
         ]
       }
     },
@@ -101,8 +101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6236,
-          30.30029
+          -81.6235999,
+          30.3002899
         ]
       }
     },
@@ -132,7 +132,7 @@
         "type": "Point",
         "coordinates": [
           -81.6305599,
-          30.30356
+          30.3035599
         ]
       }
     },
@@ -146,8 +146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6339999,
-          30.3046699
+          -81.634,
+          30.30467
         ]
       }
     },
@@ -161,8 +161,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6362099,
-          30.3052899
+          -81.63621,
+          30.30529
         ]
       }
     },
@@ -206,8 +206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6426599,
-          30.3073699
+          -81.64266,
+          30.30737
         ]
       }
     },
@@ -229,21 +229,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2108 Atlantic Blvd.",
-        "tag": "1026",
-        "stopId": "1026"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.64488,
-          30.3081
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Spring Park Rd. & Walton St.",
         "tag": "1029",
         "stopId": "1029"
@@ -253,6 +238,21 @@
         "coordinates": [
           -81.6349,
           30.3033199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spring Park Rd. & Walton St.",
+        "tag": "1030",
+        "stopId": "1030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63522,
+          30.30363
         ]
       }
     },
@@ -394,21 +394,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Spring Park Rd. & Stillman St.",
-        "tag": "1040",
-        "stopId": "1040"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.63138,
-          30.29823
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "2598 Spring Park Rd.",
         "tag": "1041",
         "stopId": "1041"
@@ -461,8 +446,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6214199,
-          30.2862099
+          -81.62142,
+          30.28621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "3937 Spring Park Rd.",
+        "tag": "1045",
+        "stopId": "1045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6212,
+          30.28618
         ]
       }
     },
@@ -476,23 +476,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.62373,
-          30.28749
+          -81.6237299,
+          30.2874899
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Spring Park Rd. & Pampas Dr.",
-        "tag": "1048",
-        "stopId": "1048"
+        "title": "Spring Park Rd. & Cascade Rd.",
+        "tag": "1047",
+        "stopId": "1047"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.62495,
-          30.28859
+          -81.62341,
+          30.2874399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spring Park Rd. & Zion Rd.",
+        "tag": "1049",
+        "stopId": "1049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62532,
+          30.2899
         ]
       }
     },
@@ -522,7 +537,22 @@
         "type": "Point",
         "coordinates": [
           -81.61988,
-          30.28321
+          30.28315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spring Park Rd. & Durham Pl.",
+        "tag": "1053",
+        "stopId": "1053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61971,
+          30.28315
         ]
       }
     },
@@ -551,8 +581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.61021,
-          30.2706999
+          -81.6102099,
+          30.2707
         ]
       }
     },
@@ -581,8 +611,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6087299,
-          30.27216
+          -81.60873,
+          30.2721599
         ]
       }
     },
@@ -611,8 +641,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6041899,
-          30.2703499
+          -81.60419,
+          30.27035
         ]
       }
     },
@@ -626,8 +656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.60233,
-          30.2703
+          -81.6023299,
+          30.2702999
         ]
       }
     },
@@ -641,8 +671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6006699,
-          30.2701999
+          -81.60067,
+          30.2702
         ]
       }
     },
@@ -656,7 +686,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.59787,
+          -81.5978699,
           30.27013
         ]
       }
@@ -934,15 +964,30 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Philips Hwy. & Pearson St.",
-        "tag": "1125",
-        "stopId": "1125"
+        "title": "Philips Hwy. & Philips Industrial Blvd.",
+        "tag": "1123",
+        "stopId": "1123"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6442599,
-          30.3039799
+          -81.5361199,
+          30.1625199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "11777 Phillips Hwy.",
+        "tag": "1124",
+        "stopId": "1124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5358999,
+          30.1628499
         ]
       }
     },
@@ -971,8 +1016,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6430819,
-          30.3019334
+          -81.6430821,
+          30.3019335
         ]
       }
     },
@@ -1144,21 +1189,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Phillips Hwy. & Emerson St.",
-        "tag": "1143",
-        "stopId": "1143"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.63235,
-          30.28638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Phillips Hwy. & Emerson St. fs",
         "tag": "1144",
         "stopId": "1144"
@@ -1168,21 +1198,6 @@
         "coordinates": [
           -81.63326,
           30.28681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Emerson St. & Copper cir.",
-        "tag": "1146",
-        "stopId": "1146"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.6321,
-          30.28847
         ]
       }
     },
@@ -1549,21 +1564,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "6940 Philips Hwy.",
-        "tag": "1180",
-        "stopId": "1180"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.60235,
-          30.24649
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Financial Way & Cypress Plaza Dr nb fs",
         "tag": "1183",
         "stopId": "1183"
@@ -1692,7 +1692,7 @@
         "type": "Point",
         "coordinates": [
           -81.58544,
-          30.23393
+          30.2339299
         ]
       }
     },
@@ -1751,8 +1751,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.57881,
-          30.22547
+          -81.5802799,
+          30.2266199
         ]
       }
     },
@@ -1811,7 +1811,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5738999,
+          -81.5739,
           30.22073
         ]
       }
@@ -2036,8 +2036,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5790099,
-          30.2094099
+          -81.57901,
+          30.20941
         ]
       }
     },
@@ -2111,8 +2111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.57222,
-          30.1998
+          -81.5722199,
+          30.1997999
         ]
       }
     },
@@ -2456,8 +2456,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.61748,
-          30.2144
+          -81.6174799,
+          30.2143999
         ]
       }
     },
@@ -2591,8 +2591,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.59427,
-          30.22559
+          -81.5942699,
+          30.2255899
         ]
       }
     },
@@ -2681,8 +2681,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.59751,
-          30.23088
+          -81.5975099,
+          30.2308799
         ]
       }
     },
@@ -2862,7 +2862,7 @@
         "type": "Point",
         "coordinates": [
           -81.60793,
-          30.23998
+          30.2399799
         ]
       }
     },
@@ -2966,8 +2966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.61145,
-          30.24714
+          -81.61167,
+          30.24742
         ]
       }
     },
@@ -5255,21 +5255,6 @@
       "type": "Feature",
       "properties": {
         "title": "Atlantic Blvd. & Kings Ave.",
-        "tag": "1554",
-        "stopId": "1554"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.6469799,
-          30.3080199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Atlantic Blvd. & Kings Ave.",
         "tag": "1555",
         "stopId": "1555"
       },
@@ -5367,7 +5352,7 @@
         "type": "Point",
         "coordinates": [
           -81.65365,
-          30.3136299
+          30.31363
         ]
       }
     },
@@ -5921,8 +5906,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6677199,
-          30.3270499
+          -81.66951,
+          30.32756
         ]
       }
     },
@@ -6139,6 +6124,51 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Baptist South",
+        "tag": "1681",
+        "stopId": "1681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.53448,
+          30.1383999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Citicards Way",
+        "tag": "1689",
+        "stopId": "1689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51584,
+          30.1249799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nest Egrets Way & Citicards Way",
+        "tag": "1690",
+        "stopId": "1690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51385,
+          30.12651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Forsyth St. & Ocean St.",
         "tag": "1693",
         "stopId": "1693"
@@ -6282,7 +6312,7 @@
         "type": "Point",
         "coordinates": [
           -81.6324699,
-          30.32482
+          30.3248199
         ]
       }
     },
@@ -6454,6 +6484,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Beaver St. & Laura St.",
+        "tag": "1743",
+        "stopId": "1743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6577699,
+          30.3318299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Beaver St. & Clay St.",
         "tag": "1746",
         "stopId": "1746"
@@ -6476,8 +6521,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6629,
-          30.33283
+          -81.6628999,
+          30.3328299
         ]
       }
     },
@@ -6551,7 +6596,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6677,
+          -81.6676999,
           30.33386
         ]
       }
@@ -7046,8 +7091,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.67363,
-          30.3248199
+          -81.6736299,
+          30.32482
         ]
       }
     },
@@ -7076,8 +7121,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.67611,
-          30.3232999
+          -81.6761099,
+          30.3233
         ]
       }
     },
@@ -7091,8 +7136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6770099,
-          30.32273
+          -81.67701,
+          30.3227299
         ]
       }
     },
@@ -7106,8 +7151,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.67772,
-          30.3216599
+          -81.6777199,
+          30.32166
         ]
       }
     },
@@ -7166,8 +7211,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6798099,
-          30.31707
+          -81.67981,
+          30.3170699
         ]
       }
     },
@@ -7196,38 +7241,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.68042,
-          30.3156699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Post St. & Park St.",
-        "tag": "1817",
-        "stopId": "1817"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.6803499,
-          30.3153199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Post St. & May St.",
-        "tag": "1819",
-        "stopId": "1819"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.67839,
-          30.31464
+          -81.6804199,
+          30.31567
         ]
       }
     },
@@ -7243,21 +7258,6 @@
         "coordinates": [
           -81.6814999,
           30.31373
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Post St. & Margaret St.",
-        "tag": "1827",
-        "stopId": "1827"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.68198,
-          30.3155099
         ]
       }
     },
@@ -7286,8 +7286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6828999,
-          30.31353
+          -81.6829,
+          30.3135299
         ]
       }
     },
@@ -7316,23 +7316,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6847,
-          30.3131499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Post St. & Copeland St.",
-        "tag": "1839",
-        "stopId": "1839"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.6855999,
-          30.31473
+          -81.6846999,
+          30.31315
         ]
       }
     },
@@ -7346,8 +7331,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.68561,
-          30.3157499
+          -81.6856099,
+          30.31575
         ]
       }
     },
@@ -7406,8 +7391,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6891099,
-          30.31498
+          -81.68911,
+          30.3149799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stockton St. & Post St.",
+        "tag": "1855",
+        "stopId": "1855"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68891,
+          30.3138699
         ]
       }
     },
@@ -7451,8 +7451,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6880999,
-          30.31238
+          -81.6881,
+          30.3123799
         ]
       }
     },
@@ -7481,8 +7481,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6897999,
-          30.31202
+          -81.6898,
+          30.3120199
         ]
       }
     },
@@ -7496,7 +7496,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.69298,
+          -81.6929799,
           30.3142499
         ]
       }
@@ -7511,8 +7511,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6960999,
-          30.3142
+          -81.6961,
+          30.3141999
         ]
       }
     },
@@ -7526,7 +7526,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.692,
+          -81.6919999,
           30.3115399
         ]
       }
@@ -7601,8 +7601,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6988599,
-          30.31417
+          -81.69886,
+          30.3141699
         ]
       }
     },
@@ -7661,7 +7661,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6782,
+          -81.6781999,
           30.3229099
         ]
       }
@@ -9191,7 +9191,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.70592,
+          -81.7059199,
           30.3133299
         ]
       }
@@ -9236,8 +9236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.70931,
-          30.3133199
+          -81.7093099,
+          30.31332
         ]
       }
     },
@@ -9266,8 +9266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.71356,
-          30.3132499
+          -81.7135599,
+          30.31325
         ]
       }
     },
@@ -9296,8 +9296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.71802,
-          30.3125399
+          -81.7180199,
+          30.31254
         ]
       }
     },
@@ -9326,8 +9326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.71909,
-          30.3116599
+          -81.7190899,
+          30.31166
         ]
       }
     },
@@ -9356,8 +9356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.72077,
-          30.3101899
+          -81.7207699,
+          30.31019
         ]
       }
     },
@@ -9641,8 +9641,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.72626,
-          30.30911
+          -81.7262599,
+          30.3091099
         ]
       }
     },
@@ -9716,8 +9716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7348299,
-          30.30903
+          -81.73483,
+          30.3090299
         ]
       }
     },
@@ -9731,7 +9731,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7374199,
+          -81.73742,
           30.30897
         ]
       }
@@ -10226,8 +10226,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7316,
-          30.2749499
+          -81.73136,
+          30.2752499
         ]
       }
     },
@@ -10406,7 +10406,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7401199,
+          -81.74012,
           30.30884
         ]
       }
@@ -10609,6 +10609,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Normandy Blvd. & opp. Verna Blvd.",
+        "tag": "2286",
+        "stopId": "2286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.74781,
+          30.30739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Normandy Blvd. & Verna Blvd.",
+        "tag": "2287",
+        "stopId": "2287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7473599,
+          30.30769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Normandy Blvd. & Lane Ave.",
         "tag": "2288",
         "stopId": "2288"
@@ -10736,8 +10766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.75974,
-          30.3030699
+          -81.7597399,
+          30.30307
         ]
       }
     },
@@ -13826,8 +13856,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.63184,
-          30.3289599
+          -81.6318399,
+          30.32896
         ]
       }
     },
@@ -13856,8 +13886,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6315899,
-          30.33141
+          -81.63159,
+          30.3314099
         ]
       }
     },
@@ -13916,8 +13946,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6305399,
-          30.3378
+          -81.63049,
+          30.3377999
         ]
       }
     },
@@ -13931,8 +13961,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6307699,
-          30.33743
+          -81.6306399,
+          30.33806
         ]
       }
     },
@@ -13962,7 +13992,7 @@
         "type": "Point",
         "coordinates": [
           -81.62806,
-          30.34397
+          30.3439699
         ]
       }
     },
@@ -14006,8 +14036,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.62962,
-          30.34534
+          -81.6296199,
+          30.3453399
         ]
       }
     },
@@ -14036,7 +14066,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6326999,
+          -81.6327,
           30.3453699
         ]
       }
@@ -14764,6 +14794,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "150 1st St.",
+        "tag": "2791",
+        "stopId": "2791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65275,
+          30.3358099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Main St. & 1st St.",
         "tag": "2802",
         "stopId": "2802"
@@ -15311,8 +15356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6553599,
-          30.3845799
+          -81.65536,
+          30.38458
         ]
       }
     },
@@ -15341,8 +15386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6611099,
-          30.3890199
+          -81.66111,
+          30.38902
         ]
       }
     },
@@ -15371,8 +15416,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.65849,
-          30.38698
+          -81.6584899,
+          30.3869799
         ]
       }
     },
@@ -15596,8 +15641,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.66441,
-          30.39158
+          -81.6644099,
+          30.3915799
         ]
       }
     },
@@ -16114,6 +16159,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "761 Village Center Dr.",
+        "tag": "3009",
+        "stopId": "3009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6646099,
+          30.3599899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Jefferson St. & 6th St. sb ns",
         "tag": "3010",
         "stopId": "3010"
@@ -16213,6 +16273,36 @@
         "coordinates": [
           -81.66296,
           30.3416299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Davis St. & 4th St. ns",
+        "tag": "3027",
+        "stopId": "3027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.66682,
+          30.3415899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1091 Davis St.",
+        "tag": "3029",
+        "stopId": "3029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6669199,
+          30.33843
         ]
       }
     },
@@ -17231,8 +17321,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6739999,
-          30.43096
+          -81.6738,
+          30.43116
         ]
       }
     },
@@ -17389,6 +17479,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Busch Dr. & Yeager Rd. fs nb",
+        "tag": "3166",
+        "stopId": "3166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63736,
+          30.4292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Busch Dr. & Yeager Rd. ns sb",
+        "tag": "3167",
+        "stopId": "3167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6375099,
+          30.4290599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "F.S.C.J. North Campus",
         "tag": "3173",
         "stopId": "3173"
@@ -17509,6 +17629,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Harts Rd. and Northpoint Cir. nb",
+        "tag": "3183",
+        "stopId": "3183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6583599,
+          30.44297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harts Rd. & Turtle Creek Dr. S",
+        "tag": "3184",
+        "stopId": "3184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6603599,
+          30.4394199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "J.I.A.",
         "tag": "3185",
         "stopId": "3185"
@@ -17593,6 +17743,21 @@
         "coordinates": [
           -81.64065,
           30.4780699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "104 Imeson Park Blvd. (Supervisor of Elections)",
+        "tag": "3212",
+        "stopId": "3212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64212,
+          30.4219199
         ]
       }
     },
@@ -17831,8 +17996,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.68358,
-          30.32281
+          -81.6835799,
+          30.3228099
         ]
       }
     },
@@ -17861,8 +18026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6867799,
-          30.3229099
+          -81.68678,
+          30.32291
         ]
       }
     },
@@ -17936,7 +18101,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.69315,
+          -81.6931499,
           30.3230599
         ]
       }
@@ -18551,8 +18716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6788899,
-          30.33612
+          -81.67889,
+          30.3361199
         ]
       }
     },
@@ -18776,8 +18941,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7051,
-          30.3258499
+          -81.7050999,
+          30.32585
         ]
       }
     },
@@ -18791,7 +18956,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7031999,
+          -81.7032,
           30.3258799
         ]
       }
@@ -18851,7 +19016,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.701,
+          -81.7009999,
           30.3259299
         ]
       }
@@ -18866,8 +19031,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6962999,
-          30.32665
+          -81.6963,
+          30.3266499
         ]
       }
     },
@@ -18964,21 +19129,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Forest St. & Margaret St.",
-        "tag": "3391",
-        "stopId": "3391"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.6818,
-          30.32402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Stockton St. & Forest St.",
         "tag": "3394",
         "stopId": "3394"
@@ -19031,8 +19181,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6914499,
-          30.32436
+          -81.69145,
+          30.3243599
         ]
       }
     },
@@ -19549,21 +19699,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Commonwealth Ave. & St. Claire St.",
-        "tag": "3457",
-        "stopId": "3457"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.71618,
-          30.3365499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Commonwealth Ave. & Edgewood Ave.",
         "tag": "3458",
         "stopId": "3458"
@@ -19646,8 +19781,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7151199,
-          30.3365399
+          -81.71512,
+          30.33654
         ]
       }
     },
@@ -19661,8 +19796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7184499,
-          30.3481699
+          -81.71845,
+          30.34817
         ]
       }
     },
@@ -19677,22 +19812,7 @@
         "type": "Point",
         "coordinates": [
           -81.71845,
-          30.35099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Detroit St. & 1st St.",
-        "tag": "3476",
-        "stopId": "3476"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.71829,
-          30.33993
+          30.3509899
         ]
       }
     },
@@ -19706,8 +19826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7183799,
-          30.3416199
+          -81.71838,
+          30.34162
         ]
       }
     },
@@ -19722,7 +19842,7 @@
         "type": "Point",
         "coordinates": [
           -81.71838,
-          30.3435799
+          30.34358
         ]
       }
     },
@@ -19736,8 +19856,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7184399,
-          30.3464599
+          -81.71844,
+          30.34646
         ]
       }
     },
@@ -19796,7 +19916,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7225999,
+          -81.7226,
           30.3511299
         ]
       }
@@ -20081,8 +20201,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.72286,
-          30.3713499
+          -81.7228599,
+          30.37135
         ]
       }
     },
@@ -20096,8 +20216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7189999,
-          30.37288
+          -81.719,
+          30.3728799
         ]
       }
     },
@@ -20396,8 +20516,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7214299,
-          30.3663799
+          -81.72143,
+          30.36638
         ]
       }
     },
@@ -20546,8 +20666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7073,
-          30.3712099
+          -81.7072999,
+          30.37121
         ]
       }
     },
@@ -20606,7 +20726,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.70461,
+          -81.7046099,
           30.3714999
         ]
       }
@@ -20651,8 +20771,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.69369,
-          30.3716499
+          -81.6936899,
+          30.37165
         ]
       }
     },
@@ -20711,8 +20831,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6876199,
-          30.37163
+          -81.68787,
+          30.37166
         ]
       }
     },
@@ -21312,7 +21432,7 @@
         "type": "Point",
         "coordinates": [
           -81.68639,
-          30.3534199
+          30.35342
         ]
       }
     },
@@ -21701,7 +21821,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6880899,
+          -81.68809,
           30.3513699
         ]
       }
@@ -22511,8 +22631,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.71616,
-          30.3811899
+          -81.7161599,
+          30.38119
         ]
       }
     },
@@ -22601,8 +22721,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6723899,
-          30.3546899
+          -81.67239,
+          30.35469
         ]
       }
     },
@@ -22646,8 +22766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6711299,
-          30.3527799
+          -81.67113,
+          30.35278
         ]
       }
     },
@@ -22676,8 +22796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.67403,
-          30.35701
+          -81.6737899,
+          30.3566499
         ]
       }
     },
@@ -22886,8 +23006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.69041,
-          30.37527
+          -81.6904099,
+          30.3752699
         ]
       }
     },
@@ -22961,8 +23081,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7246999,
-          30.3897199
+          -81.7239099,
+          30.3896099
         ]
       }
     },
@@ -23719,6 +23839,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Soutel Dr. & Moncrief Rd.",
+        "tag": "4136",
+        "stopId": "4136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7315599,
+          30.3923199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "5001 Soutel Dr.",
         "tag": "4137",
         "stopId": "4137"
@@ -23726,8 +23861,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.728,
-          30.3947199
+          -81.7271099,
+          30.39575
         ]
       }
     },
@@ -23756,8 +23891,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7259099,
-          30.39734
+          -81.72591,
+          30.3973399
         ]
       }
     },
@@ -23771,8 +23906,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7244899,
-          30.39905
+          -81.72449,
+          30.3990499
         ]
       }
     },
@@ -23816,8 +23951,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7229599,
-          30.40096
+          -81.72296,
+          30.4009599
         ]
       }
     },
@@ -23831,8 +23966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.72152,
-          30.4027199
+          -81.7215199,
+          30.40272
         ]
       }
     },
@@ -23861,7 +23996,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7163,
+          -81.7162999,
           30.40419
         ]
       }
@@ -23906,8 +24041,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7126999,
-          30.40427
+          -81.7127,
+          30.4042699
         ]
       }
     },
@@ -23921,8 +24056,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.71119,
-          30.4043399
+          -81.7111899,
+          30.40434
         ]
       }
     },
@@ -23936,8 +24071,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7088799,
-          30.40437
+          -81.70888,
+          30.4043699
         ]
       }
     },
@@ -23966,8 +24101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7065299,
-          30.40442
+          -81.70653,
+          30.4044199
         ]
       }
     },
@@ -23996,8 +24131,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7039,
-          30.4044699
+          -81.7038999,
+          30.40447
         ]
       }
     },
@@ -24011,8 +24146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.70218,
-          30.4045399
+          -81.7021799,
+          30.40454
         ]
       }
     },
@@ -24041,8 +24176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.69942,
-          30.4048499
+          -81.6994199,
+          30.40485
         ]
       }
     },
@@ -24071,8 +24206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6975199,
-          30.40556
+          -81.69752,
+          30.4055599
         ]
       }
     },
@@ -24101,8 +24236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.69488,
-          30.4066999
+          -81.6948799,
+          30.4067
         ]
       }
     },
@@ -24116,8 +24251,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6922199,
-          30.40782
+          -81.69222,
+          30.4078199
         ]
       }
     },
@@ -24251,8 +24386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.39084,
-          30.2854599
+          -81.39053,
+          30.2854499
         ]
       }
     },
@@ -24282,7 +24417,7 @@
         "type": "Point",
         "coordinates": [
           -81.6035799,
-          30.3267
+          30.3266999
         ]
       }
     },
@@ -24461,8 +24596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.60702,
-          30.3646399
+          -81.60635,
+          30.3629699
         ]
       }
     },
@@ -24491,8 +24626,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.58862,
-          30.3516599
+          -81.5886199,
+          30.35166
         ]
       }
     },
@@ -24641,8 +24776,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.82845,
-          30.1958699
+          -81.8275599,
+          30.1958799
         ]
       }
     },
@@ -24731,8 +24866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6574999,
-          30.3185799
+          -81.6561499,
+          30.3186199
         ]
       }
     },
@@ -24821,8 +24956,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6811799,
-          30.31407
+          -81.68118,
+          30.3140699
         ]
       }
     },
@@ -24973,21 +25108,6 @@
         "coordinates": [
           -81.6645099,
           30.3349099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "2nd St. & 2nd Ave",
-        "tag": "4740",
-        "stopId": "4740"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.39028,
-          30.28652
         ]
       }
     },
@@ -25151,53 +25271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5236099,
-          30.28679
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd & Highland Glen Way",
-        "tag": "4771",
-        "stopId": "4771"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.47394,
-          30.2873399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd & opp. Brougham Ave",
-        "tag": "4772",
-        "stopId": "4772"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4653299,
-          30.28745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd & Discovery Way",
-        "tag": "4773",
-        "stopId": "4773"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4538099,
-          30.28757
+          -81.52689,
+          30.2867899
         ]
       }
     },
@@ -25211,68 +25286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.4422299,
-          30.28769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd & 8th St",
-        "tag": "4775",
-        "stopId": "4775"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.39758,
-          30.2882199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "2nd St. & 1st Ave. sb fs",
-        "tag": "4776",
-        "stopId": "4776"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.3908699,
-          30.2892699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & Penman wb",
-        "tag": "4777",
-        "stopId": "4777"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.40332,
-          30.2883099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd west of San Pablo Rd",
-        "tag": "4778",
-        "stopId": "4778"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4423499,
-          30.28805
+          -81.44223,
+          30.2876899
         ]
       }
     },
@@ -25526,7 +25541,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.82638,
+          -81.8263799,
           30.19559
         ]
       }
@@ -25541,8 +25556,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.62127,
-          30.2499799
+          -81.6212699,
+          30.24998
         ]
       }
     },
@@ -25796,7 +25811,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6919599,
+          -81.69196,
           30.37692
         ]
       }
@@ -25916,7 +25931,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6988899,
+          -81.69889,
           30.37157
         ]
       }
@@ -25947,7 +25962,7 @@
         "type": "Point",
         "coordinates": [
           -81.5579499,
-          30.27508
+          30.2750799
         ]
       }
     },
@@ -26066,8 +26081,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6884799,
-          30.33438
+          -81.68872,
+          30.33427
         ]
       }
     },
@@ -26232,7 +26247,7 @@
         "type": "Point",
         "coordinates": [
           -81.41318,
-          30.34062
+          30.3406199
         ]
       }
     },
@@ -26307,7 +26322,7 @@
         "type": "Point",
         "coordinates": [
           -81.41354,
-          30.3517899
+          30.35179
         ]
       }
     },
@@ -26861,8 +26876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.69046,
-          30.3716899
+          -81.69016,
+          30.3717199
         ]
       }
     },
@@ -26951,7 +26966,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.4179899,
+          -81.41799,
           30.3678399
         ]
       }
@@ -26998,6 +27013,21 @@
         "coordinates": [
           -81.84046,
           30.2472499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Center Dr N. & Brentwood Ave.",
+        "tag": "5022",
+        "stopId": "5022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.66462,
+          30.35991
         ]
       }
     },
@@ -27071,8 +27101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6120899,
-          30.2713599
+          -81.61209,
+          30.27136
         ]
       }
     },
@@ -27086,8 +27116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.61936,
-          30.3034299
+          -81.6193599,
+          30.30343
         ]
       }
     },
@@ -27162,7 +27192,7 @@
         "type": "Point",
         "coordinates": [
           -81.64786,
-          30.3086399
+          30.30864
         ]
       }
     },
@@ -27176,8 +27206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.65224,
-          30.31106
+          -81.6522399,
+          30.3110599
         ]
       }
     },
@@ -27252,7 +27282,7 @@
         "type": "Point",
         "coordinates": [
           -81.5442499,
-          30.28651
+          30.2865099
         ]
       }
     },
@@ -27266,8 +27296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5441599,
-          30.2826599
+          -81.54416,
+          30.28266
         ]
       }
     },
@@ -27312,7 +27342,7 @@
         "type": "Point",
         "coordinates": [
           -81.50503,
-          30.30191
+          30.3019099
         ]
       }
     },
@@ -27356,8 +27386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5063999,
-          30.30191
+          -81.5064,
+          30.3019099
         ]
       }
     },
@@ -27371,7 +27401,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5162699,
+          -81.51627,
           30.3015799
         ]
       }
@@ -27386,7 +27416,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.51533,
+          -81.5153299,
           30.30139
         ]
       }
@@ -27416,8 +27446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5240799,
-          30.30131
+          -81.52408,
+          30.3013099
         ]
       }
     },
@@ -27581,7 +27611,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.59661,
+          -81.5966099,
           30.35165
         ]
       }
@@ -28017,7 +28047,7 @@
         "type": "Point",
         "coordinates": [
           -81.66996,
-          30.39236
+          30.3923599
         ]
       }
     },
@@ -28031,8 +28061,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.68664,
-          30.3599
+          -81.6866999,
+          30.35999
         ]
       }
     },
@@ -28286,8 +28316,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.69888,
-          30.38228
+          -81.6988799,
+          30.3822799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jacksonville Zoo (Onsite)",
+        "tag": "5143",
+        "stopId": "5143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64299,
+          30.4041099
         ]
       }
     },
@@ -28459,6 +28504,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Airport Center Dr. & Revel Dr. wb fs",
+        "tag": "5159",
+        "stopId": "5159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63736,
+          30.4810699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "8th St. & Tilden St. ns wb",
         "tag": "5160",
         "stopId": "5160"
@@ -28466,8 +28526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.63595,
-          30.3453499
+          -81.6359499,
+          30.34535
         ]
       }
     },
@@ -28498,36 +28558,6 @@
         "coordinates": [
           -81.5970499,
           30.32775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Post St. & Copeland St.  ns wb",
-        "tag": "5163",
-        "stopId": "5163"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.6853799,
-          30.31489
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Post St. & Stockton St. ns wb",
-        "tag": "5164",
-        "stopId": "5164"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.68893,
-          30.3140999
         ]
       }
     },
@@ -28812,7 +28842,7 @@
         "type": "Point",
         "coordinates": [
           -81.6901199,
-          30.3599099
+          30.35991
         ]
       }
     },
@@ -28939,6 +28969,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "11291 Harts Rd. (River Oaks Apts.) nb",
+        "tag": "5203",
+        "stopId": "5203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6596199,
+          30.44061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "13949 Alvarez Rd. nb",
+        "tag": "5204",
+        "stopId": "5204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65964,
+          30.47191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Boulevard & MLK Pkwy. sb",
         "tag": "5205",
         "stopId": "5205"
@@ -29036,7 +29096,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6600999,
+          -81.6601,
           30.3185799
         ]
       }
@@ -29059,6 +29119,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Hart Rd. & Turtle Creek Dr. N",
+        "tag": "5213",
+        "stopId": "5213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6572199,
+          30.44548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Philips Hwy. & Baymeadows Rd. fs nb",
         "tag": "5214",
         "stopId": "5214"
@@ -29066,8 +29141,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5862,
-          30.22191
+          -81.5861999,
+          30.2219099
         ]
       }
     },
@@ -29171,8 +29246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.67657,
-          30.4666999
+          -81.67871,
+          30.4655999
         ]
       }
     },
@@ -29186,8 +29261,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5291599,
-          30.2576399
+          -81.5293899,
+          30.2595499
         ]
       }
     },
@@ -29307,7 +29382,7 @@
         "type": "Point",
         "coordinates": [
           -81.5346999,
-          30.24437
+          30.2443699
         ]
       }
     },
@@ -29336,8 +29411,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.52943,
-          30.2453099
+          -81.5294299,
+          30.24531
         ]
       }
     },
@@ -29366,7 +29441,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.52503,
+          -81.5250299,
           30.24773
         ]
       }
@@ -29397,7 +29472,7 @@
         "type": "Point",
         "coordinates": [
           -81.5200599,
-          30.2416299
+          30.24163
         ]
       }
     },
@@ -29457,7 +29532,7 @@
         "type": "Point",
         "coordinates": [
           -81.51006,
-          30.23242
+          30.2324199
         ]
       }
     },
@@ -29501,7 +29576,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5119599,
+          -81.51196,
           30.2362399
         ]
       }
@@ -29516,8 +29591,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5102699,
-          30.21691
+          -81.51027,
+          30.2169099
         ]
       }
     },
@@ -29531,8 +29606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5093,
-          30.2176
+          -81.50874,
+          30.2212999
         ]
       }
     },
@@ -29546,8 +29621,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5092099,
-          30.22126
+          -81.50913,
+          30.2212599
         ]
       }
     },
@@ -29561,8 +29636,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5082499,
-          30.22168
+          -81.50593,
+          30.22487
         ]
       }
     },
@@ -29591,8 +29666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.50972,
-          30.22925
+          -81.50768,
+          30.22732
         ]
       }
     },
@@ -29621,8 +29696,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.50598,
-          30.2255399
+          -81.50746,
+          30.22726
         ]
       }
     },
@@ -29651,8 +29726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.52041,
-          30.2160099
+          -81.5204099,
+          30.21601
         ]
       }
     },
@@ -29741,8 +29816,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.54557,
-          30.21641
+          -81.5455699,
+          30.2164099
         ]
       }
     },
@@ -29756,7 +29831,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5501699,
+          -81.55017,
           30.2185999
         ]
       }
@@ -30049,6 +30124,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Beaches Hub",
+        "tag": "5283",
+        "stopId": "5283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3914499,
+          30.2922399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Crown Point and Arrowhead EB FS",
         "tag": "5284",
         "stopId": "5284"
@@ -30079,15 +30169,45 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "8335 Freedom Crossing Trail",
-        "tag": "5288",
-        "stopId": "5288"
+        "title": "Merchants Gate & Crosshill Blvd SB FS",
+        "tag": "5286",
+        "stopId": "5286"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.58154,
-          30.2140499
+          -81.83202,
+          30.1970699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alvarez Rd & Transport Ct SB NS",
+        "tag": "5287",
+        "stopId": "5287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6598799,
+          30.47192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Prominence Pkwy and Liberty Ridge NB NS",
+        "tag": "5289",
+        "stopId": "5289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57052,
+          30.21368
         ]
       }
     },
@@ -30117,7 +30237,292 @@
         "type": "Point",
         "coordinates": [
           -81.77898,
-          30.19524
+          30.1952399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harts Rd & Harts Apts NB NS",
+        "tag": "5292",
+        "stopId": "5292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6582,
+          30.43281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harts Rd & OPP Harts Apts SB NS",
+        "tag": "5293",
+        "stopId": "5293"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6588099,
+          30.4333999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "FSCJ Campus South (New BRT Stop)",
+        "tag": "5294",
+        "stopId": "5294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.50551,
+          30.2913899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harts Rd & OPP Bertha St NB NS",
+        "tag": "5295",
+        "stopId": "5295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.66016,
+          30.43742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harts Rd & Bertha St SB NS",
+        "tag": "5296",
+        "stopId": "5296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6603699,
+          30.43742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Duval Rd & Courtyard Marriot NB NS",
+        "tag": "5297",
+        "stopId": "5297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6485299,
+          30.47999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Duval Rd & Plaza Hotel SB NS",
+        "tag": "5298",
+        "stopId": "5298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6486099,
+          30.48002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Egrets Nest Dr & Citicards Way EB NS",
+        "tag": "5299",
+        "stopId": "5299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5213599,
+          30.12861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gran Bay Pkwy & Corklan Dr SB FS",
+        "tag": "5300",
+        "stopId": "5300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5256799,
+          30.13167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Flagler Center Dr & OPP Corklan Dr NB NS",
+        "tag": "5301",
+        "stopId": "5301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51694,
+          30.1358499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old St Aug Rd & Flagler Center Blvd EB NS",
+        "tag": "5302",
+        "stopId": "5302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5217199,
+          30.14076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5540 Moncrief Rd W",
+        "tag": "5303",
+        "stopId": "5303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7332899,
+          30.3933099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old St Aug Rd & Flagler Center Blvd WB FS",
+        "tag": "5304",
+        "stopId": "5304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5213299,
+          30.14122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spring Park & De Kalb NB NS",
+        "tag": "5305",
+        "stopId": "5305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6179299,
+          30.2800099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "New Kings Rd & Patterson Ave",
+        "tag": "5306",
+        "stopId": "5306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73705,
+          30.39326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "New Kings & Soutel SB NS",
+        "tag": "5307",
+        "stopId": "5307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7337099,
+          30.3872399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beach Blvd and FSCJ Rd WB FS",
+        "tag": "5308",
+        "stopId": "5308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51121,
+          30.2872699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yulee Park & Ride (Lofton Square)",
+        "tag": "5310",
+        "stopId": "5310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.54551,
+          30.6247599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Richardson Rd & Singleton Park",
+        "tag": "5311",
+        "stopId": "5311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72755,
+          30.3829499
         ]
       }
     },
@@ -30496,20 +30901,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rosa Parks Station Bay M",
-        "tag": "8015_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.65865,
-          30.3328299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Rosa Parks Station Bay J",
         "tag": "8012_ar"
       },
@@ -30727,8 +31118,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6135,
-          30.29588
+          -81.6134999,
+          30.2958799
         ]
       }
     },
@@ -30742,8 +31133,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6093099,
-          30.2946299
+          -81.60931,
+          30.29463
         ]
       }
     },
@@ -30757,8 +31148,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6062999,
-          30.2937499
+          -81.6063,
+          30.29375
         ]
       }
     },
@@ -30922,8 +31313,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.55446,
-          30.28643
+          -81.5552999,
+          30.28644
         ]
       }
     },
@@ -30937,8 +31328,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5488099,
-          30.2865
+          -81.54881,
+          30.2864999
         ]
       }
     },
@@ -30997,8 +31388,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5338,
-          30.2866599
+          -81.5337999,
+          30.28666
         ]
       }
     },
@@ -31012,8 +31403,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.52943,
-          30.2867099
+          -81.5294299,
+          30.28671
         ]
       }
     },
@@ -31027,38 +31418,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5166999,
-          30.28686
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "FSCJ Southside Campus",
-        "tag": "0362",
-        "stopId": "0362"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.5076,
-          30.2916599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Central Pkwy. & Beach Blvd.",
-        "tag": "0364",
-        "stopId": "0364"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.5105699,
-          30.28824
+          -81.5167,
+          30.2868599
         ]
       }
     },
@@ -31102,8 +31463,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.49603,
-          30.2871099
+          -81.4960299,
+          30.28711
         ]
       }
     },
@@ -31356,8 +31717,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.53694,
-          30.25515
+          -81.5389599,
+          30.2567099
         ]
       }
     },
@@ -31402,7 +31763,7 @@
         "type": "Point",
         "coordinates": [
           -81.52792,
-          30.2644
+          30.2643999
         ]
       }
     },
@@ -31492,7 +31853,7 @@
         "type": "Point",
         "coordinates": [
           -81.54348,
-          30.25783
+          30.2578299
         ]
       }
     },
@@ -31985,7 +32346,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5157999,
+          -81.5158,
           30.2871799
         ]
       }
@@ -32000,8 +32361,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.51899,
-          30.2871499
+          -81.5189899,
+          30.28715
         ]
       }
     },
@@ -32015,8 +32376,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5288399,
-          30.28704
+          -81.52852,
+          30.287
         ]
       }
     },
@@ -32030,8 +32391,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5322099,
-          30.28701
+          -81.53221,
+          30.2870099
         ]
       }
     },
@@ -32045,8 +32406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.53601,
-          30.2869499
+          -81.5360099,
+          30.28695
         ]
       }
     },
@@ -32060,8 +32421,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5386999,
-          30.28692
+          -81.5387,
+          30.2869199
         ]
       }
     },
@@ -32075,8 +32436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5438999,
-          30.28687
+          -81.5439,
+          30.2868699
         ]
       }
     },
@@ -32090,8 +32451,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5478999,
-          30.2868
+          -81.5479,
+          30.2867999
         ]
       }
     },
@@ -32105,8 +32466,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5539499,
-          30.28674
+          -81.5554399,
+          30.28669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rosa Parks Station Bay R",
+        "tag": "8016_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6584,
+          30.3332499
         ]
       }
     },
@@ -32173,9 +32548,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Arlington Expwy. & Larkin Rd.",
-        "tag": "0728",
-        "stopId": "0728"
+        "title": "Arlington Expwy. & Arlington Rd.",
+        "tag": "0730",
+        "stopId": "0730"
       },
       "geometry": {
         "type": "Point",
@@ -32188,9 +32563,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Arlington Expwy. & Arlington Rd.",
-        "tag": "0730",
-        "stopId": "0730"
+        "title": "Arlington Expwy. & Larkin Rd.",
+        "tag": "0728",
+        "stopId": "0728"
       },
       "geometry": {
         "type": "Point",
@@ -32212,693 +32587,6 @@
         "coordinates": [
           -81.55243,
           30.3219099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "9439 Atlantic Blvd.",
-        "tag": "0407",
-        "stopId": "0407"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.5533,
-          30.3197899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "9341 Atlantic Blvd.",
-        "tag": "0553",
-        "stopId": "0553"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.55637,
-          30.3180699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & Kernan Blvd.",
-        "tag": "0320",
-        "stopId": "0320"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.48785,
-          30.2871999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & Station Creek Rd. eb",
-        "tag": "0318",
-        "stopId": "0318"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.48341,
-          30.28717
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & Hodges Blvd. ns eb",
-        "tag": "0315",
-        "stopId": "0315"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.46025,
-          30.2874999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & Hodges Blvd. fs eb",
-        "tag": "0312",
-        "stopId": "0312"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.45667,
-          30.2875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "13924 Beach Blvd.",
-        "tag": "0306",
-        "stopId": "0306"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4497899,
-          30.28758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & Thalia Rd.",
-        "tag": "0310",
-        "stopId": "0310"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4442499,
-          30.28767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & San Pablo Rd.",
-        "tag": "0302",
-        "stopId": "0302"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4368999,
-          30.2878199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & Queen Palm Dr.",
-        "tag": "0300",
-        "stopId": "0300"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4321199,
-          30.28781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & Silver Palm Dr.",
-        "tag": "0295",
-        "stopId": "0295"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4290899,
-          30.28783
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & N. 20th St.",
-        "tag": "0114",
-        "stopId": "0114"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4123599,
-          30.28798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & N. 17th St.",
-        "tag": "0112",
-        "stopId": "0112"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.40979,
-          30.28794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & Penman Rd.",
-        "tag": "0108",
-        "stopId": "0108"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.405,
-          30.2879599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & S. 12th St.",
-        "tag": "0116",
-        "stopId": "0116"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4017199,
-          30.28818
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & S. 9th St.",
-        "tag": "0117",
-        "stopId": "0117"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.39897,
-          30.2882099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & S. 6th St.",
-        "tag": "0179",
-        "stopId": "0179"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.39502,
-          30.2882299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N. 3rd St. & N. 1st. Ave.",
-        "tag": "0180",
-        "stopId": "0180"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.39194,
-          30.28987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "3rd  Ave. S. & 3rd St.",
-        "tag": "4186_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.39084,
-          30.2854599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Regency Square Hub",
-        "tag": "0406_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.55243,
-          30.3219099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & S. 6th St.",
-        "tag": "0178",
-        "stopId": "0178"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.3951199,
-          30.2883799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & N. 8th St.",
-        "tag": "0118",
-        "stopId": "0118"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.39738,
-          30.28832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & S. 12th St.",
-        "tag": "0115",
-        "stopId": "0115"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.40172,
-          30.2883299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & Penman Rd. fs wb",
-        "tag": "0109",
-        "stopId": "0109"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4068,
-          30.2882699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & N. 17th St.",
-        "tag": "0111",
-        "stopId": "0111"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4111099,
-          30.2882699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & N. 20th St.",
-        "tag": "0113",
-        "stopId": "0113"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.41388,
-          30.2882799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & opp Queen Palm Dr",
-        "tag": "0296",
-        "stopId": "0296"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4299,
-          30.2881299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & Queen Palm Dr.",
-        "tag": "0299",
-        "stopId": "0299"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4322999,
-          30.28807
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & Palm Island Rd.",
-        "tag": "0301",
-        "stopId": "0301"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.43507,
-          30.2880999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & San Pablo Rd.",
-        "tag": "0303",
-        "stopId": "0303"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.43961,
-          30.2880899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "14054 Beach Blvd.",
-        "tag": "0305",
-        "stopId": "0305"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4469399,
-          30.288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & Suni Pines Blvd.",
-        "tag": "0309",
-        "stopId": "0309"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.44881,
-          30.28787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "13949 Beach Blvd.",
-        "tag": "0307",
-        "stopId": "0307"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.45292,
-          30.2879099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "13725 Beach Blvd.",
-        "tag": "0313",
-        "stopId": "0313"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.45634,
-          30.2878899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & Hodges Blvd. fs wb",
-        "tag": "0316",
-        "stopId": "0316"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.46147,
-          30.2878699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "13421 Beach Blvd.",
-        "tag": "0314",
-        "stopId": "0314"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4657399,
-          30.28784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "13081 Beach Blvd.",
-        "tag": "0317",
-        "stopId": "0317"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4731899,
-          30.28768
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beach Blvd. & Kernan Blvd. ns",
-        "tag": "0319",
-        "stopId": "0319"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.48434,
-          30.2875799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Swelo Rd. & Arlington Expy.",
-        "tag": "0408",
-        "stopId": "0408"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.5584,
-          30.31971
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S. Arlington Expwy. & Bert Rd.",
-        "tag": "0734",
-        "stopId": "0734"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.5841999,
-          30.3278199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "6845 Arlington Expwy.",
-        "tag": "0733",
-        "stopId": "0733"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.5868199,
-          30.32777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Arlington Expwy. & Rogero Rd.",
-        "tag": "0729",
-        "stopId": "0729"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.58889,
-          30.3278099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Arlington Expwy. & Underhill Dr.",
-        "tag": "0727",
-        "stopId": "0727"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.59134,
-          30.3277899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Arlington Expwy. & Cesery Blvd.",
-        "tag": "0724",
-        "stopId": "0724"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.59673,
-          30.3276999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "5865 Arlington Expwy.",
-        "tag": "0718",
-        "stopId": "0718"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.6001,
-          30.3276799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rosa Parks Station Bay R",
-        "tag": "8016_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.6584,
-          30.3332499
         ]
       }
     },
@@ -33699,21 +33387,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Florida Blvd. & Atlantic Blvd.",
-        "tag": "0071",
-        "stopId": "0071"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.41918,
-          30.3248799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Mayport Rd. & S. Saratoga Cir.",
         "tag": "0070",
         "stopId": "0070"
@@ -33721,8 +33394,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.4176899,
-          30.32848
+          -81.41769,
+          30.3284799
         ]
       }
     },
@@ -33736,8 +33409,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.41704,
-          30.3300099
+          -81.41708,
+          30.32986
         ]
       }
     },
@@ -33917,6 +33590,21 @@
         "coordinates": [
           -81.3913,
           30.2869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N. 3rd St. & N. 1st. Ave.",
+        "tag": "0180",
+        "stopId": "0180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3919399,
+          30.2898699
         ]
       }
     },
@@ -34478,6 +34166,96 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "S. Arlington Expwy. & Bert Rd.",
+        "tag": "0734",
+        "stopId": "0734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5841999,
+          30.3278199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "6845 Arlington Expwy.",
+        "tag": "0733",
+        "stopId": "0733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5868199,
+          30.32777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Arlington Expwy. & Rogero Rd.",
+        "tag": "0729",
+        "stopId": "0729"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.58889,
+          30.3278099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Arlington Expwy. & Underhill Dr.",
+        "tag": "0727",
+        "stopId": "0727"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59134,
+          30.3277899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Arlington Expwy. & Cesery Blvd.",
+        "tag": "0724",
+        "stopId": "0724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59673,
+          30.3276999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5865 Arlington Expwy.",
+        "tag": "0718",
+        "stopId": "0718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6001,
+          30.3276799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Rosa Parks Station Bay B",
         "tag": "8002_ar"
       },
@@ -34486,6 +34264,20 @@
         "coordinates": [
           -81.65904,
           30.3332899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Regency Square Hub",
+        "tag": "0406_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55243,
+          30.3219099
         ]
       }
     },
@@ -34653,8 +34445,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.61653,
-          30.3086099
+          -81.6165299,
+          30.30861
         ]
       }
     },
@@ -34698,7 +34490,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.60548,
+          -81.6054799,
           30.3118699
         ]
       }
@@ -34713,8 +34505,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.60315,
-          30.3128699
+          -81.6031499,
+          30.31287
         ]
       }
     },
@@ -34850,21 +34642,6 @@
         "coordinates": [
           -81.57229,
           30.3145299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Acme St. & Berry Ave.",
-        "tag": "0793",
-        "stopId": "0793"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.57234,
-          30.31539
         ]
       }
     },
@@ -35021,6 +34798,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Swelo Rd. & Arlington Expy.",
+        "tag": "0408",
+        "stopId": "0408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5584,
+          30.31971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "237 Monument Rd.",
         "tag": "0423",
         "stopId": "0423"
@@ -35171,7 +34963,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "1700 Monument Rd.",
+        "title": "Monument Rd. Park-n-Ride Lot",
         "tag": "0241",
         "stopId": "0241"
       },
@@ -35449,6 +35241,36 @@
         "coordinates": [
           -81.54704,
           30.32661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "9439 Atlantic Blvd.",
+        "tag": "0407",
+        "stopId": "0407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5533,
+          30.3197899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "9341 Atlantic Blvd.",
+        "tag": "0553",
+        "stopId": "0553"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55637,
+          30.3180699
         ]
       }
     },
@@ -36512,7 +36334,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5627599,
+          -81.5626399,
           30.3524199
         ]
       }
@@ -36857,8 +36679,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.59949,
-          30.35396
+          -81.5994899,
+          30.3539599
         ]
       }
     },
@@ -36887,8 +36709,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6027599,
-          30.35077
+          -81.60276,
+          30.3507699
         ]
       }
     },
@@ -36903,7 +36725,7 @@
         "type": "Point",
         "coordinates": [
           -81.6028799,
-          30.34829
+          30.3482899
         ]
       }
     },
@@ -36918,7 +36740,7 @@
         "type": "Point",
         "coordinates": [
           -81.6028099,
-          30.34521
+          30.3452099
         ]
       }
     },
@@ -36932,8 +36754,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.60274,
-          30.34177
+          -81.6027399,
+          30.3417699
         ]
       }
     },
@@ -36947,8 +36769,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6026499,
-          30.3387899
+          -81.60265,
+          30.33879
         ]
       }
     },
@@ -36977,8 +36799,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6029499,
-          30.33392
+          -81.60295,
+          30.3339199
         ]
       }
     },
@@ -37042,6 +36864,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Avenues Walk Park-n-Ride",
+        "tag": "0946",
+        "stopId": "0946"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.55239,
+          30.1764099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "9930 Deercreek Club Blvd.",
+        "tag": "0941",
+        "stopId": "0941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5530799,
+          30.19012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Avenues Mall",
         "tag": "0944",
         "stopId": "0944"
@@ -37049,7 +36901,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.55515,
+          -81.5551499,
           30.1879699
         ]
       }
@@ -37154,8 +37006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.52583,
-          30.30421
+          -81.5258299,
+          30.3042099
         ]
       }
     },
@@ -37169,8 +37021,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5252299,
-          30.31068
+          -81.52523,
+          30.3106799
         ]
       }
     },
@@ -37184,8 +37036,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5230399,
-          30.32151
+          -81.52304,
+          30.3215099
         ]
       }
     },
@@ -37372,21 +37224,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Arlington Expwy. & Townsend Blvd.",
-        "tag": "0627",
-        "stopId": "0627"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.5731399,
-          30.32778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Townsend Blvd. & S. Arlington Expwy.",
         "tag": "0625",
         "stopId": "0625"
@@ -37455,7 +37292,7 @@
         "type": "Point",
         "coordinates": [
           -81.57398,
-          30.3374399
+          30.33744
         ]
       }
     },
@@ -37469,8 +37306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5759699,
-          30.3400999
+          -81.57597,
+          30.3401
         ]
       }
     },
@@ -37500,7 +37337,7 @@
         "type": "Point",
         "coordinates": [
           -81.5774299,
-          30.34506
+          30.3450599
         ]
       }
     },
@@ -37851,21 +37688,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "St. Johns Bluff Rd. & Beckham Ln.",
-        "tag": "0292",
-        "stopId": "0292"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.5232399,
-          30.32276
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "St. Johns Bluff Rd. & Theresa Dr.",
         "tag": "0293",
         "stopId": "0293"
@@ -37933,7 +37755,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5447499,
+          -81.54475,
           30.2781399
         ]
       }
@@ -37948,8 +37770,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.55093,
-          30.2780799
+          -81.5509299,
+          30.27808
         ]
       }
     },
@@ -37963,8 +37785,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.55504,
-          30.2780199
+          -81.5550399,
+          30.27802
         ]
       }
     },
@@ -37993,7 +37815,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5583899,
+          -81.55839,
           30.2741899
         ]
       }
@@ -38008,8 +37830,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5361799,
-          30.2528399
+          -81.53618,
+          30.25284
         ]
       }
     },
@@ -38053,8 +37875,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.55678,
-          30.2208
+          -81.5567799,
+          30.2207999
         ]
       }
     },
@@ -38076,29 +37898,29 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "9930 Deercreek Club Blvd.",
-        "tag": "0941",
-        "stopId": "0941"
+        "title": "Avenues Walk Park-n-Ride",
+        "tag": "0946_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5530799,
-          30.19012
+          -81.55239,
+          30.1764099
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Avenues Mall",
-        "tag": "0944_ar"
+        "title": "Florida Blvd. & Atlantic Blvd.",
+        "tag": "0071",
+        "stopId": "0071"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.55515,
-          30.1879699
+          -81.41918,
+          30.3248799
         ]
       }
     },
@@ -38142,8 +37964,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.41332,
-          30.34633
+          -81.4133199,
+          30.3463299
         ]
       }
     },
@@ -38158,7 +37980,7 @@
         "type": "Point",
         "coordinates": [
           -81.4135499,
-          30.35116
+          30.3511599
         ]
       }
     },
@@ -38188,7 +38010,7 @@
         "type": "Point",
         "coordinates": [
           -81.4127,
-          30.3596299
+          30.35963
         ]
       }
     },
@@ -38202,8 +38024,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.4122799,
-          30.36145
+          -81.41228,
+          30.3614499
         ]
       }
     },
@@ -38217,8 +38039,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.41175,
-          30.3640299
+          -81.4117499,
+          30.36403
         ]
       }
     },
@@ -38232,8 +38054,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.4115499,
-          30.36553
+          -81.41155,
+          30.3655299
         ]
       }
     },
@@ -38247,8 +38069,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.41117,
-          30.3673099
+          -81.4111699,
+          30.36731
         ]
       }
     },
@@ -38277,8 +38099,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.41306,
-          30.3698699
+          -81.4130599,
+          30.36987
         ]
       }
     },
@@ -39031,14 +38853,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Argyle Forest Blvd & Merchants Gate Dr WB FS",
-        "tag": "4686_ar"
+        "title": "Merchants Gate & Crosshill Blvd SB FS",
+        "tag": "5286_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.82845,
-          30.1958699
+          -81.83202,
+          30.1970699
         ]
       }
     },
@@ -39081,7 +38903,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5666099,
+          -81.56661,
           30.2207599
         ]
       }
@@ -39096,7 +38918,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5645,
+          -81.5644999,
           30.22075
         ]
       }
@@ -39111,7 +38933,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5624999,
+          -81.5625,
           30.2208299
         ]
       }
@@ -39230,8 +39052,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.539,
-          30.2477899
+          -81.5389999,
+          30.24779
         ]
       }
     },
@@ -39350,8 +39172,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.5523499,
-          30.2245699
+          -81.55235,
+          30.22457
         ]
       }
     },
@@ -39459,28 +39281,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Pearl St. & Water St.",
-        "tag": "1650_ar"
+        "title": "Rosa Parks Station Bay T",
+        "tag": "8019_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.66343,
-          30.3259999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pearl St. & Bay St.",
-        "tag": "1652_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.66302,
-          30.3271899
+          -81.65838,
+          30.3330299
         ]
       }
     },
@@ -39495,20 +39303,6 @@
         "coordinates": [
           -81.72293,
           30.3442799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Art Museum Dr. & Keystone Dr.",
-        "tag": "0931_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.61287,
-          30.2985999
         ]
       }
     },
@@ -39545,21 +39339,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Art Museum Dr. & Pinedale Ave.",
-        "tag": "0930",
-        "stopId": "0930"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.61508,
-          30.30213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Art Museum Dr. & opp. Carmichael Ave.",
         "tag": "0936",
         "stopId": "0936"
@@ -39567,8 +39346,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.6175399,
+          -81.61754,
           30.3045999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Art Museum Dr. & Atlantic Blvd.",
+        "tag": "0934",
+        "stopId": "0934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62006,
+          30.30703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1706 Art Museum Dr.",
+        "tag": "0935",
+        "stopId": "0935"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61913,
+          30.30587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Art Museum Dr. & Woodcock Dr.",
+        "tag": "0927",
+        "stopId": "0927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.61777,
+          30.3046499
         ]
       }
     },
@@ -39759,8 +39583,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.60702,
-          30.3646399
+          -81.60635,
+          30.3629699
         ]
       }
     },
@@ -40171,8 +39995,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.67657,
-          30.4666999
+          -81.67871,
+          30.4655999
         ]
       }
     },
@@ -40207,6 +40031,90 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Citicards Way",
+        "tag": "1689_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51584,
+          30.1249799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "River City Marketplace",
+        "tag": "3200_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64065,
+          30.4780699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dunn Ave. & Regency Dr. ns eb",
+        "tag": "3153_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.66079,
+          30.4298999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "104 Imeson Park Blvd. (Supervisor of Elections)",
+        "tag": "3212_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64212,
+          30.4219199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jacksonville Zoo (Onsite)",
+        "tag": "5143_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64299,
+          30.4041099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lem Turner Rd. & Edgewood Ave.",
+        "tag": "3061_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.67944,
+          30.3910499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Rosa Parks Station Bay D",
         "tag": "8004_ar"
       },
@@ -40235,14 +40143,178 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rosa Parks Station Bay T",
-        "tag": "8019_ar"
+        "title": "Beach Blvd. & Kernan Blvd.",
+        "tag": "0320",
+        "stopId": "0320"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.65838,
-          30.3330299
+          -81.48738,
+          30.2872299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beach Blvd. & Hodges Blvd. ns eb",
+        "tag": "0315",
+        "stopId": "0315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4609199,
+          30.28752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "13924 Beach Blvd.",
+        "tag": "0306",
+        "stopId": "0306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.45002,
+          30.2876599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beach Blvd. & San Pablo Rd.",
+        "tag": "0302",
+        "stopId": "0302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.43678,
+          30.2877799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beach Blvd. & Penman Rd.",
+        "tag": "0108",
+        "stopId": "0108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4050199,
+          30.28803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "3rd  Ave. S. & 3rd St.",
+        "tag": "4186_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39053,
+          30.2854499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beach Blvd. & Penman Rd. fs wb",
+        "tag": "0109",
+        "stopId": "0109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4062499,
+          30.28825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beach Blvd. & San Pablo Rd.",
+        "tag": "0303",
+        "stopId": "0303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4396099,
+          30.28809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beach Blvd. & Suni Pines Blvd.",
+        "tag": "0309",
+        "stopId": "0309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4496199,
+          30.28789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beach Blvd. & Hodges Blvd. fs wb",
+        "tag": "0316",
+        "stopId": "0316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4610399,
+          30.28777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beach Blvd. & Kernan Blvd. ns",
+        "tag": "0319",
+        "stopId": "0319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4848199,
+          30.2875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rosa Parks Station Bay M",
+        "tag": "8015_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65865,
+          30.3328299
         ]
       }
     },
@@ -40330,8 +40402,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.4796199,
-          30.3589599
+          -81.47962,
+          30.35896
         ]
       }
     },
@@ -40727,6 +40799,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Beach Blvd. & Hodges Blvd. fs eb",
+        "tag": "0312",
+        "stopId": "0312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.45667,
+          30.2874999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "13725 Beach Blvd.",
+        "tag": "0313",
+        "stopId": "0313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4563399,
+          30.28789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Fort George Ferry Landing",
         "tag": "6001_ar"
       },
@@ -40751,7 +40853,21 @@
           30.3956799
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yulee Park & Ride (Lofton Square)",
+        "tag": "5310_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.54551,
+          30.6247599
+        ]
+      }
     }
   ],
-  "copyright": "All data copyright Jacksonville Transportation Authority 2018."
+  "copyright": "All data copyright Jacksonville Transportation Authority 2019."
 }

@@ -6,25 +6,25 @@
       "tag": "301",
       "oppositeColor": "000000",
       "max": [
-        35.6078442,
-        -77.36191
+        35.6081425,
+        -77.3630888
       ],
       "min": [
-        35.5898861,
-        -77.371977
+        35.589919,
+        -77.3703833
       ],
       "stops": {
-        "Main_Campus Student Center": [
+        "Main Campus Student Center": [
           "currcour",
           "charfick",
           "fick",
           "collhill_e",
           "brew10th"
         ],
-        "Curry_Court": [
+        "Curry Court": [
           "mainstud",
-          "cota8th",
-          "chil0th",
+          "mendwend_d",
+          "chrisgym",
           "collhill_w",
           "stratford"
         ]
@@ -36,21 +36,22 @@
       "tag": "302",
       "oppositeColor": "ffffff",
       "max": [
-        35.6130095,
-        -77.3679036
+        35.6130093,
+        -77.3679029
       ],
       "min": [
-        35.6056408,
-        -77.405489
+        35.6056405,
+        -77.4054597
       ],
       "stops": {
-        "Main_Campus Student Center": [
+        "Main Campus Student Center": [
           "healscib",
           "lwileast",
           "zetahous_i"
         ],
-        "Health_Sciences": [
+        "Health Sciences": [
           "mainstud",
+          "westend",
           "zetahous_o",
           "lwilwest",
           "brod",
@@ -64,23 +65,23 @@
       "tag": "303",
       "oppositeColor": "ffffff",
       "max": [
-        35.6078442,
+        35.6081659,
         -77.363208
       ],
       "min": [
-        35.574505,
-        -77.384389
+        35.57416,
+        -77.3844869
       ],
       "stops": {
-        "Lynncroft_Shopping Center": [
+        "Lynncroft Shopping Center": [
           "mainstud",
-          "cota8th",
+          "westend",
           "collhill_ob",
           "greenmall",
           "publix",
           "univcomm"
         ],
-        "Main_Campus Student Center": [
+        "Main Campus Student Center": [
           "bbuy",
           "oldn",
           "greemall",
@@ -94,27 +95,28 @@
       "tag": "304",
       "oppositeColor": "ffffff",
       "max": [
-        35.615928,
-        -77.3612924
+        35.6159278,
+        -77.3612922
       ],
       "min": [
         35.6044281,
-        -77.3752611
+        -77.3752603
       ],
       "stops": {
-        "Main_Campus Student Center": [
+        "Main Campus Student Center": [
           "firsplac",
-          "cota4th",
-          "univbook",
-          "readchic_i",
+          "cota3rd",
+          "4thcota_i",
+          "4threade",
           "summ5th",
           "foun5th",
           "spei",
           "chrisgym"
         ],
-        "First_St Place": [
+        "First St Place": [
           "mainstud",
-          "readchic",
+          "westend",
+          "4thcota_o",
           "finhub",
           "wash2nd"
         ]
@@ -126,15 +128,15 @@
       "tag": "307",
       "oppositeColor": "000000",
       "max": [
-        35.6078442,
+        35.608163,
         -77.308982
       ],
       "min": [
         35.580958,
-        -77.371977
+        -77.370388
       ],
       "stops": {
-        "Main_Campus Student Center": [
+        "Main Campus Student Center": [
           "walmart_d",
           "tenuvman",
           "ten33est",
@@ -143,7 +145,7 @@
         ],
         "Walmart": [
           "mainstud",
-          "cota8th",
+          "westend",
           "collhill_ob",
           "east10th",
           "tencopp",
@@ -157,15 +159,15 @@
       "tag": "401",
       "oppositeColor": "ffffff",
       "max": [
-        35.6044283,
-        -77.3318989
+        35.6044267,
+        -77.331899
       ],
       "min": [
         35.5953406,
-        -77.3632586
+        -77.3631755
       ],
       "stops": {
-        "Christenbury_Gym": [
+        "Christenbury Gym": [
           "canncour",
           "eastbkap",
           "camppt",
@@ -174,7 +176,7 @@
           "east10th_i",
           "cyprgard"
         ],
-        "Cannon_Court": [
+        "Cannon Court": [
           "chrisgym",
           "univpkap",
           "collpkap",
@@ -193,14 +195,14 @@
       "oppositeColor": "ffffff",
       "max": [
         35.6128562,
-        -77.3419499
+        -77.3419498
       ],
       "min": [
         35.6066214,
-        -77.36125
+        -77.361495
       ],
       "stops": {
-        "River_Walk": [
+        "River Walk": [
           "spei",
           "vgrn5th",
           "beachvil"
@@ -236,7 +238,7 @@
           "pirtcove_offc",
           "pirtcove_phs2"
         ],
-        "33_East": [
+        "33 East": [
           "spei"
         ]
       }
@@ -255,7 +257,7 @@
         -77.3617302
       ],
       "stops": {
-        "The_Davis": [
+        "The Davis": [
           "spei",
           "univmanb"
         ],
@@ -270,19 +272,19 @@
       "tag": "503",
       "oppositeColor": "000000",
       "max": [
-        35.6066999,
+        35.60689,
         -77.33382
       ],
       "min": [
         35.6029836,
-        -77.36125
+        -77.36173
       ],
       "stops": {
         "Speight": [
           "sunfront",
           "sunback"
         ],
-        "Sunchase:_Front": [
+        "Sunchase: Front": [
           "spei"
         ]
       }
@@ -301,10 +303,10 @@
         -77.3636961
       ],
       "stops": {
-        "Christenbury_Gym": [
+        "Christenbury Gym": [
           "land"
         ],
-        "The_Landing": [
+        "The Landing": [
           "chrisgym",
           "greecent",
           "hyde"
@@ -328,30 +330,29 @@
         "Speight": [
           "ncamcros"
         ],
-        "Paramount_3800": [
+        "Paramount 3800": [
           "spei"
         ]
       }
     },
     "506": {
-      "title": "506 University Suites",
+      "title": "506 Carolina Creek",
       "color": "086038",
       "tag": "506",
-      "shortTitle": "506 Univ Suites",
       "oppositeColor": "ffffff",
       "max": [
         35.6044277,
-        -77.363255
+        -77.36168
       ],
       "min": [
         35.590877,
         -77.3820659
       ],
       "stops": {
-        "Univ_Suites": [
+        "Univ Suites": [
           "chrisgym"
         ],
-        "University_Suites": [
+        "University Suites": [
           "univsuit"
         ]
       }
@@ -362,7 +363,7 @@
       "tag": "507",
       "oppositeColor": "ffffff",
       "max": [
-        35.6044277,
+        35.604428,
         -77.3272112
       ],
       "min": [
@@ -370,12 +371,12 @@
         -77.363255
       ],
       "stops": {
-        "Christenbury_Gym": [
+        "Christenbury Gym": [
           "copbphs2",
           "copbback",
           "copbclub"
         ],
-        "Copper_Beech": [
+        "Copper Beech": [
           "chrisgym"
         ]
       }
@@ -390,15 +391,15 @@
         -77.3482375
       ],
       "min": [
-        35.5591889,
+        35.5590819,
         -77.3632566
       ],
       "stops": {
-        "Christenbury_Gym": [
+        "Christenbury Gym": [
           "bell",
           "signatur"
         ],
-        "The_Bellamy": [
+        "The Bellamy": [
           "chrisgym"
         ]
       }
@@ -423,7 +424,7 @@
           "pirtcove_offc",
           "pirtcove_phs2"
         ],
-        "The_Davis: Back": [
+        "The Davis: Back": [
           "spei"
         ]
       }
@@ -447,7 +448,7 @@
           "nrecboat",
           "ncamcros"
         ],
-        "N_Rec Complex": [
+        "N Rec Complex": [
           "spei"
         ]
       }
@@ -466,11 +467,11 @@
         -77.369553
       ],
       "stops": {
-        "Christenbury_Gym": [
+        "Christenbury Gym": [
           "charfick",
           "fick"
         ],
-        "Minges_- Bottom Lot": [
+        "Minges - Bottom Lot": [
           "chrisgym_d"
         ]
       }
@@ -489,7 +490,7 @@
         -77.3632586
       ],
       "stops": {
-        "Christenbury_Gym": [
+        "Christenbury Gym": [
           "canncour",
           "eastbkap",
           "camppt",
@@ -498,7 +499,7 @@
           "east10th_i",
           "cyprgard"
         ],
-        "Cannon_Court": [
+        "Cannon Court": [
           "chrisgym",
           "univpkap",
           "collpkap",
@@ -524,7 +525,7 @@
         -77.3632567
       ],
       "stops": {
-        "Christenbury_Gym": [
+        "Christenbury Gym": [
           "browwynd",
           "wyndwill",
           "ashwill",
@@ -532,7 +533,7 @@
           "oakwill",
           "willelm"
         ],
-        "Brownlea_Drive & Wyndham Circle": [
+        "Brownlea Drive & Wyndham Circle": [
           "chrisgym",
           "sunfront",
           "sunback",
@@ -558,13 +559,13 @@
         -77.3632567
       ],
       "stops": {
-        "Christenbury_Gym": [
+        "Christenbury Gym": [
           "univmanb",
           "univmanf",
           "pirtcove_offc",
           "pirtcove_phs2"
         ],
-        "The_Davis: Back": [
+        "The Davis: Back": [
           "chrisgym",
           "10thceda",
           "copbphs2",
@@ -587,12 +588,12 @@
         -77.3659523
       ],
       "stops": {
-        "Christenbury_Gym": [
+        "Christenbury Gym": [
           "land",
           "bell",
           "signatur"
         ],
-        "The_Landing": [
+        "The Landing": [
           "chrisgym",
           "charmush",
           "greecent",
@@ -610,38 +611,38 @@
         -77.3198642
       ],
       "min": [
-        35.6044279,
+        35.60407,
         -77.3632568
       ],
       "stops": {
-        "N_Rec Complex": [
+        "N Rec Complex": [
           "chrisgym",
           "nrecfield",
           "nrecboat"
         ],
-        "Christenbury_Gym": [
+        "Christenbury Gym": [
           "ncamcros"
         ]
       }
     },
     "806": {
-      "title": "806 University Suites",
+      "title": "806 Carolina Creek",
       "color": "086038",
       "tag": "806",
       "oppositeColor": "ffffff",
       "max": [
         35.6044279,
-        -77.3632549
+        -77.36185
       ],
       "min": [
         35.590877,
         -77.3820659
       ],
       "stops": {
-        "Christenbury_Gym": [
+        "Christenbury Gym": [
           "univsuit"
         ],
-        "University_Suites": [
+        "University Suites": [
           "chrisgym"
         ]
       }
@@ -652,25 +653,24 @@
       "tag": "850",
       "oppositeColor": "ffffff",
       "max": [
-        35.6078442,
-        -77.36191
+        35.60815,
+        -77.3631756
       ],
       "min": [
-        35.589882,
-        -77.371977
+        35.589919,
+        -77.3707535
       ],
       "stops": {
-        "Main_Campus Student Center": [
+        "Main Campus Student Center": [
           "currcour",
           "charfick",
           "fick",
-          "collhill_e",
-          "chrisgym"
+          "collhill_e"
         ],
-        "Curry_Court": [
+        "Curry Court": [
           "mainstud",
-          "cota8th",
-          "chil0th",
+          "mendwest",
+          "chrisgym",
           "collhill_w",
           "piratplc",
           "stratford"
@@ -683,22 +683,22 @@
       "tag": "901",
       "oppositeColor": "ffffff",
       "max": [
-        35.6126074,
-        -77.319152
+        35.608143,
+        -77.3191487
       ],
       "min": [
         35.5937761,
-        -77.3703781
+        -77.3705871
       ],
       "stops": {
-        "Downtown": [
+        "The Davis: Back": [
+          "mendwest"
+        ],
+        "Mendenhall / West End Bus Terminal": [
           "univmanb",
           "univmanf",
           "pirtcove_offc",
           "pirtcove_phs2"
-        ],
-        "The_Davis: Back": [
-          "downtown"
         ]
       }
     },
@@ -709,33 +709,29 @@
       "shortTitle": "902 PE - Grid",
       "oppositeColor": "ffffff",
       "max": [
-        35.6138008,
-        -77.3432894
+        35.6155932,
+        -77.343351
       ],
       "min": [
-        35.6067049,
-        -77.3704352
+        35.6066728,
+        -77.3752064
       ],
       "stops": {
-        "Riverwalk": [
-          "downtown",
-          "firstsum",
-          "firstwoo",
-          "firsthar",
-          "firstmea",
-          "firstoak",
-          "bronwynd",
-          "brow3rd",
-          "univterr"
-        ],
-        "Downtown": [
-          "riverwal",
+        "The District Clubhouse": [
+          "mendwest",
           "villgree",
-          "fifthash",
-          "fifthmea",
-          "fifthhar",
-          "fifthbil",
-          "fifthsum"
+          "riverwal",
+          "univterr",
+          "brow3rd",
+          "bronwynd"
+        ],
+        "Mendenhall / West End Bus Terminal": [
+          "distclub",
+          "firstmea",
+          "firsthar",
+          "firstwoo",
+          "firstsum",
+          "firstpitt"
         ]
       }
     },
@@ -745,20 +741,20 @@
       "tag": "903",
       "oppositeColor": "000000",
       "max": [
-        35.6126074,
-        -77.33383
+        35.608143,
+        -77.333581
       ],
       "min": [
-        35.6029849,
-        -77.3703781
+        35.602985,
+        -77.3705872
       ],
       "stops": {
-        "Downtown": [
+        "Sunchase: Front": [
+          "mendwest"
+        ],
+        "Mendenhall / West End Bus Terminal": [
           "sunfront",
           "sunback"
-        ],
-        "Sunchase:_Front": [
-          "downtown"
         ]
       }
     },
@@ -768,19 +764,19 @@
       "tag": "904",
       "oppositeColor": "ffffff",
       "max": [
-        35.6126074,
-        -77.3554919
+        35.608143,
+        -77.355397
       ],
       "min": [
         35.572974,
-        -77.3703781
+        -77.3705874
       ],
       "stops": {
-        "The_Landing": [
-          "downtown"
+        "To the Landing": [
+          "mendwest"
         ],
-        "Downtown": [
-          "land"
+        "Mendenhall / West End Bus Terminal": [
+          "landing"
         ]
       }
     },
@@ -790,41 +786,41 @@
       "tag": "905",
       "oppositeColor": "ffffff",
       "max": [
-        35.62895,
+        35.6289502,
         -77.32647
       ],
       "min": [
-        35.6126074,
-        -77.3703781
+        35.6080308,
+        -77.3705125
       ],
       "stops": {
-        "Paramount_3800": [
-          "downtown"
-        ],
-        "Downtown": [
+        "West End Bus Terminal": [
           "ncamcros"
+        ],
+        "Paramount 3800": [
+          "westend"
         ]
       }
     },
     "906": {
-      "title": "906 Pirate Express - University Suites ",
+      "title": "906 Pirate Express - Carolina Creek",
       "color": "086038",
       "tag": "906",
       "oppositeColor": "ffffff",
       "max": [
-        35.6126074,
-        -77.3703781
+        35.608143,
+        -77.370383
       ],
       "min": [
-        35.590877,
-        -77.3820659
+        35.5909059,
+        -77.382062
       ],
       "stops": {
-        "Downtown": [
-          "univsuit"
+        "To Carolina Creek": [
+          "mendwest"
         ],
-        "University_Suites": [
-          "downtown"
+        "Mendenhall / West End Bus Terminal": [
+          "carocreek"
         ]
       }
     },
@@ -834,20 +830,20 @@
       "tag": "907",
       "oppositeColor": "ffffff",
       "max": [
-        35.6126074,
+        35.608166,
         -77.3272059
       ],
       "min": [
         35.5952986,
-        -77.3703781
+        -77.3705128
       ],
       "stops": {
-        "Downtown": [
+        "West End Bus Terminal": [
           "copbback",
           "copbclub"
         ],
-        "Copper_Beech: Back": [
-          "downtown",
+        "Copper Beech: Back": [
+          "westend",
           "copbphs2"
         ]
       }
@@ -858,22 +854,22 @@
       "tag": "908",
       "oppositeColor": "ffffff",
       "max": [
-        35.6126074,
-        -77.3495859
+        35.608163,
+        -77.3495858
       ],
       "min": [
         35.5591889,
-        -77.3703781
+        -77.3705128
       ],
       "stops": {
-        "The_Bellamy": [
-          "downtown"
-        ],
-        "Downtown": [
+        "West End Bus Terminal": [
           "bell"
+        ],
+        "The Bellamy": [
+          "westend_o"
         ]
       }
     }
   },
-  "copyright": "All data copyright East Carolina University 2018."
+  "copyright": "All data copyright East Carolina University 2019."
 }

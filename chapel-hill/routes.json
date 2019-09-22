@@ -14,49 +14,9 @@
         -79.06492
       ],
       "stops": {
-        "To_Martin Luther King Jr Blvd": [
-          "weinseve_d",
-          "severi224",
-          "sevebard",
-          "bradwill_s",
-          "bradread_s",
-          "pritlong",
-          "colulong_s",
-          "coluisle",
-          "colutown",
-          "colufank",
-          "colufrat",
-          "pittnewm",
-          "pittcred",
-          "pittuniv",
-          "mannhosp",
-          "mannhibb_e",
-          "manncrai",
-          "ridgehri",
-          "ridgstad",
-          "stadcarm",
-          "soutfetz",
-          "raleconn",
-          "raleilewi",
-          "raleialder",
-          "hillrose_n",
-          "hilldelt",
-          "hillboli",
-          "hillmlkb_n",
-          "mlkbboli",
-          "mlkbbarc_n",
-          "mlkbymca_n",
-          "mlkbshad_n",
-          "airptimb_n",
-          "mlkbashl",
-          "mlkbtayl_d",
-          "homemlkb_n",
-          "homeseym",
-          "oransoci",
+        "Weiner St at Severin St": [
           "homesout",
-          "homemlkb_s"
-        ],
-        "To_Northside": [
+          "homemlkb_s",
           "airpbroo",
           "mlknort",
           "airptimb_s",
@@ -101,6 +61,46 @@
           "barcwill",
           "barcwyri",
           "barchart"
+        ],
+        "Homestead Rd at Southern Human Services": [
+          "weinseve_d",
+          "severi224",
+          "sevebard",
+          "bradwill_s",
+          "bradread_s",
+          "pritlong",
+          "colulong_s",
+          "coluisle",
+          "colutown",
+          "colufank",
+          "colufrat",
+          "pittnewm",
+          "pittcred",
+          "pittuniv",
+          "mannhosp",
+          "mannhibb_e",
+          "manncrai",
+          "ridgehri",
+          "ridgstad",
+          "stadcarm",
+          "soutfetz",
+          "raleconn",
+          "raleilewi",
+          "raleialder",
+          "hillrose_n",
+          "hilldelt",
+          "hillboli",
+          "hillmlkb_n",
+          "mlkbboli",
+          "mlkbbarc_n",
+          "mlkbymca_n",
+          "mlkbshad_n",
+          "airptimb_n",
+          "mlkbashl",
+          "mlkbtayl_d",
+          "homemlkb_n",
+          "homeseym",
+          "oransoci"
         ]
       }
     },
@@ -118,7 +118,7 @@
         -79.0534682
       ],
       "stops": {
-        "To_Fetzer Gym": [
+        "To Fetzer Gym": [
           "masobait_d",
           "masootey",
           "eastjack",
@@ -127,7 +127,7 @@
           "colucarr",
           "soutcoke"
         ],
-        "To_Baity Hill": [
+        "To Baity Hill": [
           "soutfetz",
           "soutwoll",
           "soutcoun_n"
@@ -148,7 +148,7 @@
         -79.0847031
       ],
       "stops": {
-        "To_UNC Campus": [
+        "To UNC Campus": [
           "chatpr",
           "masoambu_n",
           "scolheal",
@@ -159,7 +159,7 @@
           "ridgrams",
           "mannpubl"
         ],
-        "To_Chatham Park and Ride": [
+        "To Chatham Park and Ride": [
           "mannunch",
           "mannhosp",
           "manncrai",
@@ -186,7 +186,7 @@
         -79.0559485
       ],
       "stops": {
-        "To_UNC Hospital": [
+        "To UNC Hospital": [
           "colewald",
           "prescole",
           "sageerwi_s",
@@ -230,7 +230,7 @@
           "masoodum",
           "eastjack"
         ],
-        "To_Colony Lake - Sage Rd": [
+        "To Colony Lake - Sage Rd": [
           "mannunch_d",
           "coluheal",
           "colucarr",
@@ -284,7 +284,7 @@
         -79.0933797
       ],
       "stops": {
-        "To_Jones Ferry Park and Ride": [
+        "To Jones Ferry Park and Ride": [
           "fparfami_d",
           "fparmidd",
           "bowlflotd_w",
@@ -312,7 +312,7 @@
           "poplcaro",
           "ofaypopl_w"
         ],
-        "To_Family Practice Building": [
+        "To Family Practice Building": [
           "jonespr_d",
           "ofaypopl",
           "autoldf_n",
@@ -356,7 +356,7 @@
         -79.0986696
       ],
       "stops": {
-        "To_Carrboro Plaza": [
+        "To Carrboro Plaza": [
           "scolsitt",
           "pittnewm",
           "pittcred",
@@ -371,7 +371,7 @@
           "oldfberk",
           "carrpark_d"
         ],
-        "To_UNC Campus": [
+        "To UNC Campus": [
           "oldfnc54",
           "nc54carr",
           "nc54berk",
@@ -396,7 +396,7 @@
         -79.0936029
       ],
       "stops": {
-        "To_Pittsboro St": [
+        "To Pittsboro St": [
           "jonespr_d",
           "ofaypopl",
           "jonewill",
@@ -430,7 +430,7 @@
           "colufrat",
           "pittnewm"
         ],
-        "To_Jones Ferry Park and Ride": [
+        "To Jones Ferry Park and Ride": [
           "pittcred_d",
           "pittuniv",
           "coluheal",
@@ -478,17 +478,19 @@
         -79.0019519
       ],
       "min": [
-        35.8918488,
-        -79.0762714
+        35.9015609,
+        -79.0557103
       ],
       "stops": {
-        "To_Smith Level and BPW Club": [
+        "Manning Dr at UNC Hospitals": [
+          "oldseast",
           "oldsnott",
           "oldsbibl",
           "colepres",
           "colewald_d",
           "sagelowe_s",
           "dobbdobb",
+          "dobberw",
           "dobbsumm",
           "dobbfoxc",
           "dobbfrank",
@@ -510,30 +512,11 @@
           "pittnewm",
           "pittcred",
           "pittuniv",
-          "mannhosp",
-          "masoambu_s",
-          "scolwest",
-          "scolpure_s",
-          "us15culb",
-          "culbchan",
-          "culbculb",
-          "culbsout",
-          "culbadam",
-          "culbweye",
-          "culbcove",
-          "smitbpwc_a"
-        ],
-        "To_Eastowne": [
-          "smitbpwc_d",
-          "smitwill",
-          "smitfpgs",
-          "nc54king",
-          "scolpure_n",
-          "scolcool",
-          "scolchas",
           "masoambu_n",
           "masoodum",
-          "eastjack",
+          "eastjack"
+        ],
+        "Old Sterling Rd at Eastowne Rd": [
           "mannunch_d",
           "coluheal",
           "colucarr",
@@ -568,8 +551,7 @@
           "olddblue",
           "elakoldd",
           "elakwlak",
-          "eastpine",
-          "oldseast"
+          "eastpine"
         ]
       }
     },
@@ -587,7 +569,7 @@
         -79.06527
       ],
       "stops": {
-        "To_Greenbridge": [
+        "To Greenbridge": [
           "oldsnott_d",
           "oldsbibl",
           "colepres",
@@ -623,7 +605,7 @@
           "wfrauncb",
           "wfrangra"
         ],
-        "To_Eastowne": [
+        "To Eastowne": [
           "rosegren_d",
           "wfrachap",
           "wframuni",
@@ -675,7 +657,7 @@
         -79.101531
       ],
       "stops": {
-        "To_Colony Woods": [
+        "To Colony Woods": [
           "coloover",
           "mcdomidd_d",
           "oldftrai",
@@ -729,7 +711,7 @@
           "epheshar",
           "colowhit"
         ],
-        "To_McDougle School": [
+        "To McDougle School": [
           "colofoun_d",
           "founhigh",
           "founover",
@@ -800,7 +782,7 @@
         -79.0534681
       ],
       "stops": {
-        "To_UNC Hospital": [
+        "To UNC Hospital": [
           "fridpark_d",
           "fridpark",
           "fridnc54",
@@ -811,7 +793,7 @@
           "mannhibb",
           "manngrav_u"
         ],
-        "To_Friday Center Parking Lot": [
+        "To Friday Center Parking Lot": [
           "mannunch",
           "coluheal",
           "colucarr",
@@ -842,7 +824,7 @@
         -79.0550287
       ],
       "stops": {
-        "To_Colony Woods": [
+        "To Colony Woods": [
           "franvars_d",
           "colufrat",
           "ralemang",
@@ -874,7 +856,7 @@
           "epheshar",
           "colowhit"
         ],
-        "To_Varsity Theater": [
+        "To Varsity Theater": [
           "coloover",
           "colofoun_d",
           "founhigh",
@@ -931,7 +913,7 @@
         -79.0568203
       ],
       "stops": {
-        "To_University Mall": [
+        "To University Mall": [
           "bookapar_d",
           "foxwhone",
           "foxwsedg",
@@ -988,7 +970,7 @@
           "esteford",
           "univmall_a"
         ],
-        "To_Booker Creek": [
+        "To Booker Creek": [
           "univmall_w",
           "willeste_w",
           "estecame_w",
@@ -1052,14 +1034,14 @@
       "oppositeColor": "000000",
       "max": [
         35.96644,
-        -79.0566399
+        -79.0466793
       ],
       "min": [
-        35.9304299,
+        35.8918493,
         -79.1013299
       ],
       "stops": {
-        "To_Martin Luther King Jr Blvd": [
+        "Smith Level Rd. at BPW Club": [
           "morrgrove_d",
           "rogemead_s",
           "rogepure_s",
@@ -1068,18 +1050,73 @@
           "rogeclay_s",
           "homester_s",
           "homecamd_s",
-          "chaphigh_d",
-          "sewesava",
-          "sewekove",
+          "chaphigh",
+          "highsea",
+          "homheart",
+          "homgreen",
           "homeshum",
+          "home2510",
+          "hommlk",
           "mlkchapv",
           "mlknortf",
           "mlktimh",
           "mlkshadw",
-          "seawwood",
-          "smitscho_n"
+          "mlkymca_o",
+          "mlkairp",
+          "mlkbarc_o",
+          "airpgard",
+          "hillbrook",
+          "hilltown",
+          "hillnorth",
+          "hillrose",
+          "ralespen",
+          "ralemang",
+          "raledave",
+          "soutstud",
+          "soutkena",
+          "mccawhit",
+          "pittcred",
+          "pittuni",
+          "coluwest",
+          "colupure_o",
+          "soutculb",
+          "culbchan",
+          "culbpark",
+          "culbsout",
+          "culbadam",
+          "culbweye",
+          "culbcove",
+          "smitbpw"
         ],
-        "To_Morris Grove Elementary": [
+        "Morris Grove Elementary": [
+          "smitwill",
+          "smitfbg",
+          "eastking",
+          "colupure_i",
+          "soutcool",
+          "soutchas",
+          "soutmas",
+          "southealt",
+          "soutcarr",
+          "soutcoke",
+          "soutfetz",
+          "raleconn",
+          "ralelewis",
+          "ralealder",
+          "hillsrose",
+          "hillsdeltz",
+          "hillsbolin",
+          "mlkbolin",
+          "mlkbarc",
+          "mlkymca_i",
+          "mlkshad",
+          "mlktimber",
+          "mlkash",
+          "mlktayl",
+          "homesmlk",
+          "homeshum_i",
+          "homesgre",
+          "homeshea",
           "highcelt",
           "homecamd_n",
           "homester_n",
@@ -1087,8 +1124,7 @@
           "rogetall_n",
           "rogerusc_n",
           "rogepure_n",
-          "rogemead_n",
-          "morrgrove_a"
+          "rogemead_n"
         ]
       }
     },
@@ -1106,7 +1142,7 @@
         -79.0559509
       ],
       "stops": {
-        "To_UNC Hospital": [
+        "To UNC Hospital": [
           "fridhedr",
           "nc54park",
           "fridfinl",
@@ -1118,7 +1154,7 @@
           "mannhibb",
           "manngrav_u"
         ],
-        "To_Hedrick Building": [
+        "To Hedrick Building": [
           "mannunch",
           "masoambu",
           "eastjack_h",
@@ -1144,7 +1180,7 @@
         -79.1084007
       ],
       "stops": {
-        "To_Hillsborough": [
+        "To Hillsborough": [
           "unch_d",
           "coluheal",
           "colucarr",
@@ -1157,7 +1193,7 @@
           "churton_h",
           "maxway_a"
         ],
-        "To_Chapel Hill": [
+        "To Chapel Hill": [
           "maxway_d",
           "hw70rain_c",
           "churton_c",
@@ -1186,10 +1222,37 @@
       ],
       "min": [
         35.89182,
-        -79.0858105
+        -79.085811
       ],
       "stops": {
-        "To_Rock Haven Rd": [
+        "Jones Ferry at Davie Road": [
+          "hightarh_n",
+          "tighwelc_n",
+          "bpwcthev_n",
+          "bpwcsmit_n",
+          "smitbpwc",
+          "smitwill_n",
+          "smitfpgs",
+          "nc54king",
+          "scolpure_n",
+          "scolcool",
+          "scolmaso",
+          "coluheal",
+          "colucarr",
+          "scolsitt",
+          "scolaber",
+          "wfracari",
+          "wfrachur",
+          "wfrahams",
+          "wfrauncb",
+          "wfrangra",
+          "mainlloy",
+          "emaijade",
+          "greetrai",
+          "nc54royal",
+          "nc54caro"
+        ],
+        "To Rock Haven Rd": [
           "joneabbe",
           "jonebarn",
           "jonebims",
@@ -1219,35 +1282,11 @@
           "tarhbpwc_s",
           "rocksmit"
         ],
-        "To_Jones Ferry": [
+        "To Jones Ferry": [
           "rockrock_d",
           "rockrock_od",
           "carrhs_n",
-          "highturn_n",
-          "hightarh_n",
-          "tighwelc_n",
-          "bpwcthev_n",
-          "bpwcsmit_n",
-          "smitbpwc",
-          "smitwill_n",
-          "smitfpgs",
-          "nc54king",
-          "scolpure_n",
-          "scolcool",
-          "scolmaso",
-          "coluheal",
-          "colucarr",
-          "scolsitt",
-          "scolaber",
-          "wfracari",
-          "wfrachur",
-          "wfrahams",
-          "wfrauncb",
-          "wfrangra",
-          "mainlloy",
-          "emaijade",
-          "nc54royal",
-          "nc54caro"
+          "highturn_n"
         ]
       }
     },
@@ -1265,7 +1304,7 @@
         -79.0968399
       ],
       "stops": {
-        "To_UNC Campus": [
+        "To UNC Campus": [
           "jonespr_d",
           "ofaypopl",
           "jonewill_o",
@@ -1281,7 +1320,7 @@
           "oldfberk",
           "carrpark_d"
         ],
-        "To_Jones Ferry Park and Ride": [
+        "To Jones Ferry Park and Ride": [
           "scolsitt",
           "pittnewm",
           "pittcred",
@@ -1303,10 +1342,10 @@
       ],
       "min": [
         35.8918899,
-        -79.0858105
+        -79.085811
       ],
       "stops": {
-        "To_Estes Park": [
+        "To Estes Park": [
           "rockrock_d",
           "carrhs",
           "highturn_n",
@@ -1324,7 +1363,6 @@
           "scolmaso",
           "coluheal",
           "colucarr",
-          "scolsitt",
           "scolaber",
           "scolrose",
           "roseprit",
@@ -1332,7 +1370,7 @@
           "mitcrose",
           "mitclind",
           "mitcmcda",
-          "mitccald_n",
+          "mitccald",
           "caldhous",
           "caldchur",
           "caldcolu",
@@ -1342,12 +1380,12 @@
           "umstprit_n",
           "umstpark_n",
           "umstboli_n",
-          "villwind",
-          "villfern",
-          "villoakl",
-          "villeste"
+          "villwind_n",
+          "villfern_n",
+          "villoakl_n",
+          "villeste_n"
         ],
-        "To_Rock Haven Rd": [
+        "To Rock Haven Rd": [
           "estepark_d",
           "villeste_s",
           "villoakl_s",
@@ -1395,7 +1433,7 @@
         -79.0711139
       ],
       "stops": {
-        "To_Estes Park": [
+        "To Estes Park": [
           "fparfami_d",
           "fparmidd",
           "bowlflotd_w",
@@ -1421,7 +1459,7 @@
           "villoakl_n",
           "villeste_n"
         ],
-        "To_Family Practice Building": [
+        "To Family Practice Building": [
           "estepark_a",
           "estepark",
           "villeste",
@@ -1546,7 +1584,7 @@
         -79.0648985
       ],
       "stops": {
-        "To_RR Lot": [
+        "To RR Lot": [
           "mannunch_e",
           "scolheal",
           "scolcarr",
@@ -1562,7 +1600,7 @@
           "airpairp_e",
           "airpesext"
         ],
-        "To_UNC Hospital": [
+        "To UNC Hospital": [
           "railrlot_d",
           "airpesext_w",
           "airpairp_w",
@@ -1598,7 +1636,7 @@
         -79.05514
       ],
       "stops": {
-        "To_Family Practice Building": [
+        "To Family Practice Building": [
           "cameswai",
           "pittnewm",
           "pittcred",
@@ -1610,7 +1648,7 @@
           "bowlkena",
           "bowlsmit_e"
         ],
-        "To_Cameron Ave": [
+        "To Cameron Ave": [
           "fparfami_d",
           "fparmidd",
           "bowlflotd_w",
@@ -1641,7 +1679,7 @@
         -79.0534681
       ],
       "stops": {
-        "To_UNC Hospital": [
+        "To UNC Hospital": [
           "nc54park_d",
           "fridfinl",
           "fridnc54",
@@ -1653,7 +1691,7 @@
           "mannhibb_w",
           "manngrav_u"
         ],
-        "To_NC 54 Park & Ride Lot": [
+        "To NC 54 Park & Ride Lot": [
           "mannunch",
           "coluheal",
           "colucarr",
@@ -1685,7 +1723,7 @@
         -79.0550309
       ],
       "stops": {
-        "To_Meadowmont": [
+        "To Meadowmont": [
           "franvars_d",
           "colufrat",
           "pittnewm",
@@ -1703,7 +1741,7 @@
           "brookber",
           "brookberr"
         ],
-        "To_Varsity Theater": [
+        "To Varsity Theater": [
           "harrmead",
           "wbarweav",
           "wbaroldb",
@@ -1741,7 +1779,7 @@
         -79.0858105
       ],
       "stops": {
-        "To_Rock Haven Rd": [
+        "To Rock Haven Rd": [
           "franvars",
           "wfracari",
           "wfrachur",
@@ -1763,7 +1801,7 @@
           "bpwcthev_s",
           "bpwcsmit_s"
         ],
-        "To_Varsity Theater": [
+        "To Varsity Theater": [
           "smitbpwc",
           "smitwill_n",
           "smitfpgs",
@@ -1794,7 +1832,7 @@
         -79.05869
       ],
       "stops": {
-        "To_Westminster Circle": [
+        "To Westminster Circle": [
           "franvars",
           "scolrose",
           "airpnorst",
@@ -1813,7 +1851,7 @@
           "aiprrigg_n",
           "westairp_n"
         ],
-        "To_Varsity Theater": [
+        "To Varsity Theater": [
           "bankfood",
           "westtraf_n",
           "airpwest_s",
@@ -1852,7 +1890,7 @@
         -79.05869
       ],
       "stops": {
-        "To_ East Chapel Hill High School": [
+        "To  East Chapel Hill High School": [
           "mannunch",
           "coluheal",
           "colucarr",
@@ -1885,7 +1923,7 @@
           "weavstee",
           "eastchap_a"
         ],
-        "To_UNC Hospital": [
+        "To UNC Hospital": [
           "eastchap_d",
           "weavsunr",
           "carowoo_s",
@@ -1936,7 +1974,7 @@
         -79.06341
       ],
       "stops": {
-        "To_ East Chapel Hill High School": [
+        "To  East Chapel Hill High School": [
           "franvars",
           "colufrat_s",
           "raleialder",
@@ -1969,7 +2007,7 @@
           "weavstee",
           "eastchap_a"
         ],
-        "To_UNC Hospital": [
+        "To UNC Hospital": [
           "eastchap_d",
           "weavsunr",
           "carowoo_s",
@@ -2023,7 +2061,7 @@
         -79.054689
       ],
       "stops": {
-        "To_Bowles Drive": [
+        "To Bowles Drive": [
           "francoffe",
           "franplan_n",
           "ralespen",
@@ -2034,7 +2072,7 @@
           "ridgrams",
           "mannhint"
         ],
-        "To_East Franklin Street": [
+        "To East Franklin Street": [
           "bowlflotd_w",
           "bowlsmit_w",
           "bowlhint",
@@ -2063,7 +2101,7 @@
         -79.0706801
       ],
       "stops": {
-        "To_Southern Village": [
+        "To Southern Village": [
           "wbarmead",
           "wbarweav",
           "wbaroldb",
@@ -2098,7 +2136,7 @@
           "broomark",
           "kildmark"
         ],
-        "To_Meadowmont": [
+        "To Meadowmont": [
           "soutpark_d",
           "us15benn",
           "scolpure_n",
@@ -2140,7 +2178,7 @@
         -79.0663101
       ],
       "stops": {
-        "To_Southern Village": [
+        "To Southern Village": [
           "wbarmead",
           "wbarweav",
           "wbaroldb",
@@ -2165,7 +2203,7 @@
           "bennus15",
           "markkild"
         ],
-        "To_Meadowmont": [
+        "To Meadowmont": [
           "soutpark_d",
           "us15benn",
           "scolpure_n",
@@ -2199,5 +2237,5 @@
       }
     }
   },
-  "copyright": "All data copyright Chapel Hill Transit 2018."
+  "copyright": "All data copyright Chapel Hill Transit 2019."
 }

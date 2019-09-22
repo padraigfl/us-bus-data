@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Old Armory",
+        "tag": "140",
+        "stopId": "140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5106022,
+          34.36385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Observatory",
         "tag": "148",
         "stopId": "148"
@@ -49,7 +64,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Baxtor Hall",
+        "title": "Guyton at W. Dormitory",
         "tag": "253",
         "stopId": "253"
       },
@@ -244,471 +259,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Old Armory",
-        "tag": "oldarm_w_d",
-        "stopId": "140"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5112198,
-          34.3629499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "University at Sonic",
-        "tag": "univsoni",
-        "stopId": "141"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.518085,
-          34.363921
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "City Hall",
-        "tag": "cityhall_w_d",
-        "stopId": "100"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.51839,
-          34.3663599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Jackson at 9th",
-        "tag": "jack9th",
-        "stopId": "101"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5216612,
-          34.3672801
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Jackson at 6th",
-        "tag": "jack6th",
-        "stopId": "102"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5241529,
-          34.3676104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Jackson at Molly Barr",
-        "tag": "jackmoll",
-        "stopId": "126"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5281488,
-          34.3687596
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sorority at Northgate",
-        "tag": "soronort",
-        "stopId": "103"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5327046,
-          34.3693944
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Student Union - Women's Terrace",
-        "tag": "studwome",
-        "stopId": "104"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.53418,
-          34.367537
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Jackson at Price Hill",
-        "tag": "jackpric",
-        "stopId": "109"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.549903,
-          34.3669589
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Jackson at Kiamies",
-        "tag": "jackente",
-        "stopId": "110"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5529079,
-          34.3656009
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Jackson at McDonalds",
-        "tag": "jackmcdo",
-        "stopId": "111"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5552234,
-          34.3645929
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Jackson at Heritage",
-        "tag": "jackheri",
-        "stopId": "112"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5583996,
-          34.3634301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Jackson at Super 8",
-        "tag": "jacksupe",
-        "stopId": "113"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5620749,
-          34.3624993
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Belk",
-        "tag": "belk",
-        "stopId": "236"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5648205,
-          34.36378
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Walmart",
-        "tag": "walmart",
-        "stopId": "114"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.56335,
-          34.35987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Jackson at CVS",
-        "tag": "jackrain",
-        "stopId": "116"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5581652,
-          34.3633779
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Jackson at Burger King",
-        "tag": "jackburg",
-        "stopId": "117"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5542096,
-          34.3648901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Jackson at Papa Johns",
-        "tag": "jackpapa",
-        "stopId": "118"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5512494,
-          34.3661902
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Student Union",
-        "tag": "studunio",
-        "stopId": "123"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5358643,
-          34.367651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Jackson at S. 6th",
-        "tag": "jacks6th",
-        "stopId": "125"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5246499,
-          34.3676299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "City Hall",
-        "tag": "cityhall_b_d",
-        "stopId": "100"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.51839,
-          34.3663599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sneed Hardware",
-        "tag": "sneehard",
-        "stopId": "128"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5173697,
-          34.3637699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "University at 16th",
-        "tag": "univ16th",
-        "stopId": "129"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5138328,
-          34.3632589
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Old Armory",
-        "tag": "oldarm_b_d",
-        "stopId": "130"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.51109,
-          34.36285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "McDonalds East Bound",
-        "tag": "mcdo",
-        "stopId": "131"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5096204,
-          34.36263
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cash Saver",
-        "tag": "bigstar",
-        "stopId": "127"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.50852,
-          34.3614605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Catfish #1",
-        "tag": "catfish1",
-        "stopId": "132"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5009404,
-          34.36138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brittney Woods",
-        "tag": "britwood",
-        "stopId": "133"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.4810339,
-          34.3612403
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "University at Peugse",
-        "tag": "univpeug",
-        "stopId": "137"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.501245,
-          34.3614792
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Kroger",
-        "tag": "kroger",
-        "stopId": "138"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5032454,
-          34.3630878
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "McDonalds West Bound",
-        "tag": "univobys",
-        "stopId": "139"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5083773,
-          34.3625196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Archive",
         "tag": "archive",
         "stopId": "281"
@@ -761,8 +311,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.5438058,
-          34.3459448
+          -89.5423499,
+          34.34759
         ]
       }
     },
@@ -776,8 +326,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.539395,
-          34.34982
+          -89.5408852,
+          34.3497019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Campus Rec.",
+        "tag": "soutcamp_o",
+        "stopId": "287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5415249,
+          34.353901
         ]
       }
     },
@@ -793,6 +358,66 @@
         "coordinates": [
           -89.5364848,
           34.3645119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Campus Rec.",
+        "tag": "soutcamp_i",
+        "stopId": "287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5415249,
+          34.353901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fleur De Lis",
+        "tag": "fleudlis",
+        "stopId": "144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5424075,
+          34.3476033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Connection Apartments",
+        "tag": "connapar",
+        "stopId": "143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.540448,
+          34.345132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Domain",
+        "tag": "doma_i",
+        "stopId": "235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5403221,
+          34.3443343
         ]
       }
     },
@@ -829,606 +454,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Old Armory (towards College Hill)",
-        "tag": "oldarm_c_d",
-        "stopId": "207"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.51043,
-          34.36381
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bramlett Library",
-        "tag": "bramlibr",
-        "stopId": "208"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5095791,
-          34.3647106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Jackson East",
-        "tag": "jackeast",
-        "stopId": "209"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5101587,
-          34.3655712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "City Hall",
-        "tag": "cityhall",
-        "stopId": "100"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5192188,
-          34.3665412
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Graduate",
-        "tag": "nlamadown",
-        "stopId": "160"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5180395,
-          34.3694823
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N. Lamar at Handy Andy's",
-        "tag": "nlamahaty",
-        "stopId": "161"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5155789,
-          34.3741806
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N. Lamar at Pleasant Street",
-        "tag": "nlamaplea",
-        "stopId": "162"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5128088,
-          34.3758809
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N. Lamar at Beacon",
-        "tag": "nlamabeac",
-        "stopId": "163"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5113992,
-          34.3774514
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N. Lamar at Molly Barr",
-        "tag": "nlammoll",
-        "stopId": "164"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.508009,
-          34.38411
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Molly Barr at Chickasaw",
-        "tag": "mollchic",
-        "stopId": "165"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5105387,
-          34.3858949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Highland Sq Apts",
-        "tag": "groveapt",
-        "stopId": "169"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.513216,
-          34.387052
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Molly Barr at Patti Ln",
-        "tag": "mollpatt",
-        "stopId": "166"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.518311,
-          34.381867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Molly Barr Trails",
-        "tag": "molltrai",
-        "stopId": "167"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5212269,
-          34.381075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Molly Barr at McElroy",
-        "tag": "mollmcel",
-        "stopId": "169"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5270049,
-          34.379146
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Post Office",
-        "tag": "postoffi",
-        "stopId": "172"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5324299,
-          34.3799099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "OUT Facility",
-        "tag": "outfac",
-        "stopId": "200"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.535343,
-          34.381335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Airport",
-        "tag": "airp",
-        "stopId": "173"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5390109,
-          34.38089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "University Arbors",
-        "tag": "univarbo",
-        "stopId": "174"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.54155,
-          34.378036
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Student Union Dr. at Cross",
-        "tag": "studcros",
-        "stopId": "123"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5358648,
-          34.367651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Molly Barr at Price",
-        "tag": "mollpric",
-        "stopId": "177"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.526821,
-          34.3754744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "CB Webb",
-        "tag": "cbwebb",
-        "stopId": "171"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.52661,
-          34.3781929
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N. Lamar at Hilltop",
-        "tag": "nlamahill",
-        "stopId": "181"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5077789,
-          34.384301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N. Lamar at Pleasant Street",
-        "tag": "nlamaplea2",
-        "stopId": "183"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5130589,
-          34.375762
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N. Lamar at 14th",
-        "tag": "nlama14",
-        "stopId": "184"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.515492,
-          34.374279
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N. Lamar at Jefferson",
-        "tag": "nlamjeff",
-        "stopId": "185"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.518246,
-          34.3687619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "City Hall",
-        "tag": "cityhall_2",
-        "stopId": "100"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.519219,
-          34.36654
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Old Armory (towards hospital)",
-        "tag": "oldarm_h_d",
-        "stopId": "207"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.51043,
-          34.36381
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "18th at Garfield (outbound)",
-        "tag": "18garfo",
-        "stopId": "235"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.512487,
-          34.3547167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Belk at S.18th St",
-        "tag": "belk18th",
-        "stopId": "168"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5152889,
-          34.3473492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Communicare",
-        "tag": "communi",
-        "stopId": "195"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5161107,
-          34.3333087
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Veterans Home",
-        "tag": "vetehome",
-        "stopId": "196"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5194877,
-          34.3296779
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S. Lamar at Saddle Creek",
-        "tag": "slamasadd",
-        "stopId": "197"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5203619,
-          34.330867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hooper Hollow",
-        "tag": "hoopholl",
-        "stopId": "251"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.519186,
-          34.334862
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S. Lamar at Azalea Dr",
-        "tag": "slamazal",
-        "stopId": "199"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5195521,
-          34.3371326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hospital",
-        "tag": "belkhosp",
-        "stopId": "190"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5288169,
-          34.3481269
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Belk Medical Park",
-        "tag": "belkmed",
-        "stopId": "191"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5186691,
-          34.3472999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Belk N.W. College",
-        "tag": "belknw",
-        "stopId": "192"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5171108,
-          34.34713
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S. 18th at Garfield",
-        "tag": "18garf",
-        "stopId": "204"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5124398,
-          34.3546204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S. 18th at Ross",
-        "tag": "18ross",
-        "stopId": "205"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.5115881,
-          34.3597375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S. 18th at University",
-        "tag": "18univ",
-        "stopId": "206"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.510867,
-          34.3627477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Student Union",
         "tag": "studunio_d",
         "stopId": "104"
@@ -1436,8 +461,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.53418,
-          34.367537
+          -89.5341799,
+          34.3675369
         ]
       }
     },
@@ -1451,8 +476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.5531202,
-          34.3666192
+          -89.55312,
+          34.366619
         ]
       }
     },
@@ -1466,8 +491,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.5637317,
-          34.3691203
+          -89.5637316,
+          34.3691205
         ]
       }
     },
@@ -1482,7 +507,7 @@
         "type": "Point",
         "coordinates": [
           -89.5681312,
-          34.3691514
+          34.3691516
         ]
       }
     },
@@ -1498,6 +523,21 @@
         "coordinates": [
           -89.5709401,
           34.3683536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jackson at Papa Johns",
+        "tag": "jackpapa",
+        "stopId": "223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5512511,
+          34.3661894
         ]
       }
     },
@@ -1675,8 +715,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.538079,
+          -89.5380789,
           34.351632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Observatory",
+        "tag": "observ_o",
+        "stopId": "115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5364861,
+          34.364512
         ]
       }
     },
@@ -1690,8 +745,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.5497881,
-          34.3616099
+          -89.5497884,
+          34.3616114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Walmart",
+        "tag": "walmart",
+        "stopId": "114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.563351,
+          34.359869
         ]
       }
     },
@@ -1720,7 +790,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.563728,
+          -89.5637279,
           34.36913
         ]
       }
@@ -1743,6 +813,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Observatory",
+        "tag": "observ_i",
+        "stopId": "115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5364843,
+          34.3645118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "The Flatts (inbound)",
         "tag": "univtrail_i",
         "stopId": "146"
@@ -1750,23 +835,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.5380788,
-          34.3516323
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Faulkner Flats (Arrival)",
-        "tag": "faukflat_a",
-        "stopId": "170"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.547074,
-          34.342729
+          -89.538079,
+          34.351632
         ]
       }
     },
@@ -1827,6 +897,21 @@
         "coordinates": [
           -89.5300459,
           34.3673316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sorority at Northgate",
+        "tag": "soronort",
+        "stopId": "103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5326999,
+          34.3690845
         ]
       }
     },
@@ -1908,15 +993,150 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "City Hall",
+        "title": "Square",
         "tag": "cityhall_d",
         "stopId": "100"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.51839,
-          34.36636
+          -89.5192189,
+          34.3665412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bramlett Library",
+        "tag": "bramlib",
+        "stopId": "208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5095799,
+          34.36471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxford Middle School",
+        "tag": "oxfomsch",
+        "stopId": "231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5076499,
+          34.3681197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Convention Center",
+        "tag": "convcent",
+        "stopId": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4988768,
+          34.3717206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Blake",
+        "tag": "blake",
+        "stopId": "284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4966223,
+          34.3700284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Della Davis Elem",
+        "tag": "delldavi",
+        "stopId": "241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4956992,
+          34.3711891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oxford High School",
+        "tag": "oxfohsch",
+        "stopId": "242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4878362,
+          34.3725961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "TRU Hotel",
+        "tag": "thotel",
+        "stopId": "284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4989271,
+          34.3738747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Malco Oxford Theater",
+        "tag": "oxfothea",
+        "stopId": "286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.497274,
+          34.374769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Armory",
+        "tag": "140_ib",
+        "stopId": "140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5106973,
+          34.3638542
         ]
       }
     },
@@ -1924,7 +1144,8 @@
       "type": "Feature",
       "properties": {
         "title": "The Lyceum",
-        "tag": "lyce_d"
+        "tag": "lyce_d",
+        "stopId": "283"
       },
       "geometry": {
         "type": "Point",
@@ -1960,7 +1181,7 @@
         "type": "Point",
         "coordinates": [
           -89.539395,
-          34.34982
+          34.3498199
         ]
       }
     },
@@ -1997,17 +1218,1038 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mullins-Old Taylor Road",
-        "tag": "mullotay_ib"
+        "title": "South Campus Rec.",
+        "tag": "soucamp_o",
+        "stopId": "287"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.5354467,
-          34.3512028
+          -89.5415249,
+          34.353901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Campus Rec.",
+        "tag": "soucamp_i",
+        "stopId": "287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5415249,
+          34.353901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mullins-Old Taylor Road",
+        "tag": "mullotay_ib",
+        "stopId": "147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.535448,
+          34.351203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jackson at 9th",
+        "tag": "jack9th",
+        "stopId": "101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5216612,
+          34.3672801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jackson at 6th",
+        "tag": "jack6th",
+        "stopId": "102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5241529,
+          34.3676104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jackson at Molly Barr",
+        "tag": "jackmoll",
+        "stopId": "126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5281488,
+          34.3687596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Student Union - Women's Terrace",
+        "tag": "studwome",
+        "stopId": "104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.53418,
+          34.367537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jackson at Price Hill",
+        "tag": "jackpric",
+        "stopId": "109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.549903,
+          34.3669589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jackson at Kiamies",
+        "tag": "jackente",
+        "stopId": "110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5529079,
+          34.3656009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jackson at McDonalds",
+        "tag": "jackmcdo",
+        "stopId": "111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5552234,
+          34.3645929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jackson at Heritage",
+        "tag": "jackheri",
+        "stopId": "112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5583996,
+          34.3634301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jackson at Super 8",
+        "tag": "jacksupe",
+        "stopId": "113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5620749,
+          34.3624993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Belk",
+        "tag": "belk",
+        "stopId": "236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5648205,
+          34.36378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jackson at CVS",
+        "tag": "jackrain",
+        "stopId": "116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5581652,
+          34.3633779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jackson at Burger King",
+        "tag": "jackburg",
+        "stopId": "117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5542096,
+          34.3648901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Student Union",
+        "tag": "studunio",
+        "stopId": "123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5358643,
+          34.367651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jackson at S. 6th",
+        "tag": "jacks6th",
+        "stopId": "125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5246499,
+          34.3676299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Square",
+        "tag": "square_d",
+        "stopId": "100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.51922,
+          34.36644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sneed Hardware",
+        "tag": "sneehard",
+        "stopId": "128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5173697,
+          34.3637699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University at 16th",
+        "tag": "univ16th",
+        "stopId": "129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5138328,
+          34.3632589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Armory",
+        "tag": "oldarmor_o",
+        "stopId": "140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.51109,
+          34.36285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "McDonalds East Bound",
+        "tag": "mcdonal_o",
+        "stopId": "131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5096204,
+          34.36263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cash Saver",
+        "tag": "cashsave",
+        "stopId": "127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.50852,
+          34.3614605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "County Buildings",
+        "tag": "counbuil",
+        "stopId": "289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.488514,
+          34.355728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brittney Woods",
+        "tag": "britwood",
+        "stopId": "133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4810339,
+          34.3612402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University at Peugse",
+        "tag": "univpeug",
+        "stopId": "137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.501245,
+          34.3614792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kroger",
+        "tag": "kroger",
+        "stopId": "138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5032454,
+          34.3630878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "McDonalds West Bound",
+        "tag": "mcdonal_i",
+        "stopId": "139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5083772,
+          34.36252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Armory",
+        "tag": "oldarmor_i",
+        "stopId": "140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5110459,
+          34.362927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Observatory",
+        "tag": "observ_d",
+        "stopId": "154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5364848,
+          34.3645119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Campus Rec.",
+        "tag": "soutcamp",
+        "stopId": "287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5415249,
+          34.353901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Oxford Center",
+        "tag": "southoxf_d",
+        "stopId": "283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.520267,
+          34.347914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Armory (towards College Hill)",
+        "tag": "oldarm_d",
+        "stopId": "207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.51043,
+          34.36381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bramlett Library",
+        "tag": "bramlibr",
+        "stopId": "208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5095791,
+          34.3647106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "City Hall",
+        "tag": "cityhall_ob",
+        "stopId": "100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5192189,
+          34.3665412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Graduate",
+        "tag": "nlamadown",
+        "stopId": "160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5180395,
+          34.3694825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N. Lamar at Handy Andy's",
+        "tag": "nlamahaty",
+        "stopId": "161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5155786,
+          34.3741807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N. Lamar at Pleasant Street",
+        "tag": "nlamaplea",
+        "stopId": "162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5128086,
+          34.3758811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N. Lamar at Beacon",
+        "tag": "nlamabeac",
+        "stopId": "163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.511399,
+          34.3774517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N. Lamar at Molly Barr",
+        "tag": "nlammoll",
+        "stopId": "164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5080087,
+          34.3841101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Highland Sq Apts",
+        "tag": "groveapt",
+        "stopId": "165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.513216,
+          34.387052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Molly Barr at Patti Ln",
+        "tag": "mollpatt",
+        "stopId": "166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.518311,
+          34.3818669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Molly Barr Trails",
+        "tag": "molltrai",
+        "stopId": "167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5212269,
+          34.381075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Molly Barr at McElroy",
+        "tag": "mollmcel",
+        "stopId": "169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5270048,
+          34.3791459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Post Office",
+        "tag": "postoffi",
+        "stopId": "172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5324299,
+          34.3799099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "OUT Facility",
+        "tag": "outfac_d",
+        "stopId": "200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.535343,
+          34.381335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Airport",
+        "tag": "airp",
+        "stopId": "173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5390109,
+          34.38089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "800 Park",
+        "tag": "univarbo",
+        "stopId": "174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.54155,
+          34.378036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Student Union Dr. at Cross",
+        "tag": "studcros",
+        "stopId": "123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.535865,
+          34.367651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CB Webb",
+        "tag": "cbwebb",
+        "stopId": "171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.52661,
+          34.3781927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N. Lamar at Hilltop",
+        "tag": "nlamahill",
+        "stopId": "181"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5077786,
+          34.3843006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N. Lamar at Pleasant Street",
+        "tag": "nlamaplea2",
+        "stopId": "183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5130586,
+          34.3757616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N. Lamar at 14th",
+        "tag": "nlama14",
+        "stopId": "184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5154916,
+          34.3742786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N. Lamar at Jefferson",
+        "tag": "nlamjeff",
+        "stopId": "185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.518246,
+          34.3687619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "City Hall",
+        "tag": "cityhall_ib",
+        "stopId": "100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.519219,
+          34.36654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "18th at Garfield (outbound)",
+        "tag": "18garfo",
+        "stopId": "235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.512487,
+          34.3547167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Belk at S.18th St",
+        "tag": "belk18th",
+        "stopId": "168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5152889,
+          34.3473492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Communicare",
+        "tag": "communi",
+        "stopId": "195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5161109,
+          34.333309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Colemans",
+        "tag": "coleman_d",
+        "stopId": "288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5192809,
+          34.298584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Veterans Home",
+        "tag": "vetehome",
+        "stopId": "196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.519488,
+          34.3296769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S. Lamar at Saddle Creek",
+        "tag": "slamasadd",
+        "stopId": "197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5203619,
+          34.3308671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hooper Hollow",
+        "tag": "hoopholl",
+        "stopId": "251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.519186,
+          34.334862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S. Lamar at Azalea Dr",
+        "tag": "slamazal",
+        "stopId": "199"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.519552,
+          34.3371319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hospital",
+        "tag": "belkhosp",
+        "stopId": "190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.528817,
+          34.348127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Belk Medical Park",
+        "tag": "belkmed",
+        "stopId": "191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5186702,
+          34.3472999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Belk N.W. College",
+        "tag": "belknw",
+        "stopId": "192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5171119,
+          34.34713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S. 18th at Garfield",
+        "tag": "18garf",
+        "stopId": "204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5124401,
+          34.3546194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S. 18th at Ross",
+        "tag": "18ross",
+        "stopId": "205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.511588,
+          34.3597379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S. 18th at University",
+        "tag": "18univ",
+        "stopId": "206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5108669,
+          34.3627482
         ]
       }
     }
   ],
-  "copyright": "All data copyright City of Oxford 2018."
+  "copyright": "All data copyright City of Oxford 2019."
 }

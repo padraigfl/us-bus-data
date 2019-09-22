@@ -1,8 +1,8 @@
 {
   "data": {
     "2E": {
-      "title": "2 Direction Terminus Henri-Bourassa",
-      "color": "ff6600",
+      "title": "2 Direction M&#233;tro Henri-Bourassa",
+      "color": "767676",
       "tag": "2E",
       "oppositeColor": "000000",
       "max": [
@@ -40,7 +40,7 @@
     },
     "2O": {
       "title": "2 Direction M&#233;tro Montmorency",
-      "color": "ff9900",
+      "color": "767676",
       "tag": "2O",
       "oppositeColor": "000000",
       "max": [
@@ -78,16 +78,16 @@
     },
     "12E": {
       "title": "12 Direction Pont-Viau",
-      "color": "cc9900",
+      "color": "282e6b",
       "tag": "12E",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.5651399,
         -73.672
       ],
       "min": [
-        45.55946,
-        -73.68208
+        45.5594599,
+        -73.6824
       ],
       "stops": {
         "0": [
@@ -100,9 +100,9 @@
     },
     "12O": {
       "title": "12 Direction M&#233;tro Cartier",
-      "color": "ffcc33",
+      "color": "282e6b",
       "tag": "12O",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.5651399,
         -73.67199
@@ -128,9 +128,9 @@
     },
     "17N": {
       "title": "17 Direction Auteuil",
-      "color": "cc6633",
+      "color": "282e6b",
       "tag": "17N",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6578399,
         -73.68204
@@ -197,9 +197,9 @@
     },
     "17S": {
       "title": "17 Direction M&#233;tro Cartier",
-      "color": "ff9966",
+      "color": "282e6b",
       "tag": "17S",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6578499,
         -73.68239
@@ -267,7 +267,7 @@
     },
     "20E": {
       "title": "20 Direction M&#233;tro Cartier",
-      "color": "663333",
+      "color": "282e6b",
       "tag": "20E",
       "oppositeColor": "ffffff",
       "max": [
@@ -281,6 +281,7 @@
       "stops": {
         "0": [
           "CP46383",
+          "46648",
           "42509",
           "42507",
           "42505",
@@ -339,7 +340,7 @@
     },
     "20O": {
       "title": "20 Direction Chomedey",
-      "color": "330000",
+      "color": "282e6b",
       "tag": "20O",
       "oppositeColor": "ffffff",
       "max": [
@@ -413,7 +414,7 @@
     },
     "22E": {
       "title": "22 Direction Saint-Fran&#231;ois",
-      "color": "333366",
+      "color": "282e6b",
       "tag": "22E",
       "oppositeColor": "ffffff",
       "max": [
@@ -504,7 +505,7 @@
     },
     "22O": {
       "title": "22 Direction M&#233;tro Cartier",
-      "color": "339933",
+      "color": "282e6b",
       "tag": "22O",
       "oppositeColor": "ffffff",
       "max": [
@@ -595,7 +596,7 @@
     },
     "24E": {
       "title": "24 Direction M&#233;tro Cartier",
-      "color": "993333",
+      "color": "282e6b",
       "tag": "24E",
       "oppositeColor": "ffffff",
       "max": [
@@ -661,7 +662,7 @@
     },
     "24O": {
       "title": "24 Direction Sainte-Doroth&#233;e",
-      "color": "660000",
+      "color": "282e6b",
       "tag": "24O",
       "oppositeColor": "ffffff",
       "max": [
@@ -727,7 +728,7 @@
     },
     "26E": {
       "title": "26 Direction M&#233;tro Montmorency",
-      "color": "336600",
+      "color": "282e6b",
       "tag": "26E",
       "oppositeColor": "ffffff",
       "max": [
@@ -776,6 +777,7 @@
           "43432",
           "43433",
           "43434",
+          "46648",
           "CP42509",
           "42507",
           "42505",
@@ -805,7 +807,7 @@
     },
     "26O": {
       "title": "26 Direction Gare Sainte-Doroth&#233;e",
-      "color": "333300",
+      "color": "282e6b",
       "tag": "26O",
       "oppositeColor": "ffffff",
       "max": [
@@ -884,8 +886,8 @@
       }
     },
     "27N": {
-      "title": "27 Direction Vimont",
-      "color": "666600",
+      "title": "27 Direction Gare Vimont",
+      "color": "282e6b",
       "tag": "27N",
       "oppositeColor": "ffffff",
       "max": [
@@ -894,7 +896,7 @@
       ],
       "min": [
         45.5597299,
-        -73.74607
+        -73.7460699
       ],
       "stops": {
         "1": [
@@ -961,7 +963,7 @@
     },
     "27S": {
       "title": "27 Direction M&#233;tro Cartier",
-      "color": "668833",
+      "color": "282e6b",
       "tag": "27S",
       "oppositeColor": "ffffff",
       "max": [
@@ -1036,9 +1038,9 @@
     },
     "31N": {
       "title": "31 Direction Auteuil",
-      "color": "ffff00",
+      "color": "282e6b",
       "tag": "31N",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6495699,
         -73.66993
@@ -1119,10 +1121,10 @@
       }
     },
     "31S": {
-      "title": "31 Direction Terminus Henri-Bourassa",
-      "color": "cccc00",
+      "title": "31 Direction M&#233;tro Henri-Bourassa",
+      "color": "282e6b",
       "tag": "31S",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6495699,
         -73.66993
@@ -1201,7 +1203,7 @@
     },
     "33N": {
       "title": "33 Direction M&#233;tro Montmorency",
-      "color": "003300",
+      "color": "282e6b",
       "tag": "33N",
       "oppositeColor": "ffffff",
       "max": [
@@ -1271,7 +1273,7 @@
     },
     "33S": {
       "title": "33 Direction M&#233;tro Cartier",
-      "color": "336633",
+      "color": "282e6b",
       "tag": "33S",
       "oppositeColor": "ffffff",
       "max": [
@@ -1339,7 +1341,7 @@
     },
     "36E": {
       "title": "36 Direction M&#233;tro Montmorency",
-      "color": "339933",
+      "color": "282e6b",
       "tag": "36E",
       "oppositeColor": "ffffff",
       "max": [
@@ -1395,9 +1397,9 @@
     },
     "36O": {
       "title": "36 Direction Chomedey",
-      "color": "339999",
+      "color": "282e6b",
       "tag": "36O",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.5584699,
         -73.71986
@@ -1452,7 +1454,7 @@
     },
     "37N": {
       "title": "37 Direction Sainte-Rose",
-      "color": "006600",
+      "color": "282e6b",
       "tag": "37N",
       "oppositeColor": "ffffff",
       "max": [
@@ -1518,11 +1520,11 @@
     },
     "37S": {
       "title": "37 Direction M&#233;tro Cartier",
-      "color": "339933",
+      "color": "282e6b",
       "tag": "37S",
       "oppositeColor": "ffffff",
       "max": [
-        45.6011999,
+        45.6011699,
         -73.68242
       ],
       "min": [
@@ -1585,9 +1587,9 @@
     },
     "39N": {
       "title": "39 Direction Auteuil",
-      "color": "669966",
+      "color": "282e6b",
       "tag": "39N",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6578299,
         -73.70612
@@ -1677,9 +1679,9 @@
     },
     "39S": {
       "title": "39 Direction Terminus Le Carrefour",
-      "color": "66cc66",
+      "color": "282e6b",
       "tag": "39S",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6578499,
         -73.70617
@@ -1757,7 +1759,6 @@
           "CP41957",
           "41952",
           "41942",
-          "41938",
           "41965",
           "41932",
           "CP44039"
@@ -1766,7 +1767,7 @@
     },
     "40E": {
       "title": "40 Direction M&#233;tro Montmorency",
-      "color": "009999",
+      "color": "282e6b",
       "tag": "40E",
       "oppositeColor": "ffffff",
       "max": [
@@ -1774,12 +1775,13 @@
         -73.7207999
       ],
       "min": [
-        45.5325999,
+        45.53184,
         -73.78099
       ],
       "stops": {
         "0": [
           "CP45001",
+          "46648",
           "41312",
           "43127",
           "43150",
@@ -1812,7 +1814,7 @@
     },
     "40O": {
       "title": "40 Direction Chomedey",
-      "color": "003333",
+      "color": "282e6b",
       "tag": "40O",
       "oppositeColor": "ffffff",
       "max": [
@@ -1867,7 +1869,7 @@
     },
     "41N": {
       "title": "41 Direction Auteuil",
-      "color": "006666",
+      "color": "282e6b",
       "tag": "41N",
       "oppositeColor": "ffffff",
       "max": [
@@ -1938,7 +1940,7 @@
     },
     "41S": {
       "title": "41 Direction M&#233;tro Cartier",
-      "color": "336666",
+      "color": "282e6b",
       "tag": "41S",
       "oppositeColor": "ffffff",
       "max": [
@@ -2008,9 +2010,9 @@
     },
     "42E": {
       "title": "42 Direction Saint-Fran&#231;ois",
-      "color": "339999",
+      "color": "282e6b",
       "tag": "42E",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6770499,
         -73.5743199
@@ -2127,16 +2129,16 @@
     },
     "42O": {
       "title": "42 Direction Terminus Le Carrefour",
-      "color": "669999",
+      "color": "282e6b",
       "tag": "42O",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6770399,
         -73.57222
       ],
       "min": [
         45.55787,
-        -73.7526599
+        -73.75286
       ],
       "stops": {
         "1": [
@@ -2250,7 +2252,7 @@
     },
     "43N": {
       "title": "43 Direction Auteuil",
-      "color": "0066ff",
+      "color": "282e6b",
       "tag": "43N",
       "oppositeColor": "ffffff",
       "max": [
@@ -2305,9 +2307,9 @@
     },
     "43S": {
       "title": "43 Direction M&#233;tro Cartier",
-      "color": "00ccff",
+      "color": "282e6b",
       "tag": "43S",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6312599,
         -73.6824
@@ -2360,7 +2362,7 @@
     },
     "45N": {
       "title": "45 Direction Auteuil",
-      "color": "0033ff",
+      "color": "282e6b",
       "tag": "45N",
       "oppositeColor": "ffffff",
       "max": [
@@ -2430,9 +2432,9 @@
     },
     "45S": {
       "title": "45 Direction M&#233;tro Montmorency",
-      "color": "0099ff",
+      "color": "282e6b",
       "tag": "45S",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6578499,
         -73.7207999
@@ -2502,7 +2504,7 @@
     },
     "46N": {
       "title": "46 Direction Laval-Ouest",
-      "color": "003399",
+      "color": "282e6b",
       "tag": "46N",
       "oppositeColor": "ffffff",
       "max": [
@@ -2586,7 +2588,7 @@
     },
     "46S": {
       "title": "46 Direction M&#233;tro Montmorency",
-      "color": "3366cc",
+      "color": "282e6b",
       "tag": "46S",
       "oppositeColor": "ffffff",
       "max": [
@@ -2672,9 +2674,9 @@
     },
     "48E": {
       "title": "48 Direction Duvernay",
-      "color": "3399cc",
+      "color": "282e6b",
       "tag": "48E",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6269699,
         -73.65106
@@ -2720,6 +2722,7 @@
           "43233",
           "43235",
           "43236",
+          "41279",
           "42880",
           "46112",
           "46113",
@@ -2747,9 +2750,9 @@
     },
     "48O": {
       "title": "48 Direction M&#233;tro Cartier",
-      "color": "66ccff",
+      "color": "282e6b",
       "tag": "48O",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6268299,
         -73.65137
@@ -2821,7 +2824,7 @@
     },
     "50E": {
       "title": "50 Direction Saint-Vincent-De-Paul",
-      "color": "000033",
+      "color": "282e6b",
       "tag": "50E",
       "oppositeColor": "ffffff",
       "max": [
@@ -2889,7 +2892,7 @@
     },
     "50O": {
       "title": "50 Direction Terminus Le Carrefour",
-      "color": "000099",
+      "color": "282e6b",
       "tag": "50O",
       "oppositeColor": "ffffff",
       "max": [
@@ -2945,7 +2948,6 @@
           "CP41957",
           "41952",
           "41942",
-          "41938",
           "41965",
           "41932",
           "CP44150"
@@ -2954,7 +2956,7 @@
     },
     "52E": {
       "title": "52 Direction Saint-Fran&#231;ois",
-      "color": "000066",
+      "color": "282e6b",
       "tag": "52E",
       "oppositeColor": "ffffff",
       "max": [
@@ -2973,6 +2975,7 @@
           "46384",
           "43302",
           "CP42584",
+          "46629",
           "CP41393",
           "42101",
           "42103",
@@ -3077,8 +3080,8 @@
       }
     },
     "52O": {
-      "title": "52 Direction Terminus Henri-Bourassa",
-      "color": "333366",
+      "title": "52 Direction M&#233;tro Henri-Bourassa",
+      "color": "282e6b",
       "tag": "52O",
       "oppositeColor": "ffffff",
       "max": [
@@ -3192,6 +3195,7 @@
           "42102",
           "41394",
           "CP41392",
+          "46628",
           "CP42170",
           "43303",
           "46385",
@@ -3203,7 +3207,7 @@
     },
     "55N": {
       "title": "55 Direction Laval-Ouest",
-      "color": "333300",
+      "color": "282e6b",
       "tag": "55N",
       "oppositeColor": "ffffff",
       "max": [
@@ -3294,8 +3298,8 @@
       }
     },
     "55S": {
-      "title": "55 Direction Terminus Henri-Bourassa",
-      "color": "6666cc",
+      "title": "55 Direction M&#233;tro Henri-Bourassa",
+      "color": "282e6b",
       "tag": "55S",
       "oppositeColor": "ffffff",
       "max": [
@@ -3385,9 +3389,9 @@
     },
     "56E": {
       "title": "56 Direction M&#233;tro Montmorency",
-      "color": "9999ff",
+      "color": "282e6b",
       "tag": "56E",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.57547,
         -73.7175699
@@ -3421,7 +3425,6 @@
           "42878",
           "42883",
           "42801",
-          "42803",
           "46139",
           "46140",
           "41617",
@@ -3464,7 +3467,7 @@
     },
     "56O": {
       "title": "56 Direction Sainte-Doroth&#233;e",
-      "color": "0000ff",
+      "color": "282e6b",
       "tag": "56O",
       "oppositeColor": "ffffff",
       "max": [
@@ -3537,7 +3540,7 @@
     },
     "58E": {
       "title": "58 Direction Saint-Vincent-De-Paul",
-      "color": "9900ff",
+      "color": "282e6b",
       "tag": "58E",
       "oppositeColor": "ffffff",
       "max": [
@@ -3591,6 +3594,7 @@
           "42561",
           "42568",
           "42566",
+          "46636",
           "41386",
           "41388",
           "CP41390",
@@ -3611,7 +3615,7 @@
     },
     "58O": {
       "title": "58 Direction M&#233;tro Cartier",
-      "color": "cc00ff",
+      "color": "282e6b",
       "tag": "58O",
       "oppositeColor": "ffffff",
       "max": [
@@ -3640,6 +3644,7 @@
           "CP41392",
           "41389",
           "41387",
+          "46637",
           "42565",
           "42567",
           "42569",
@@ -3685,9 +3690,9 @@
     },
     "60E": {
       "title": "60 Direction M&#233;tro Cartier",
-      "color": "cc33ff",
+      "color": "282e6b",
       "tag": "60E",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.5811299,
         -73.68249
@@ -3764,7 +3769,7 @@
     },
     "60O": {
       "title": "60 Direction Chomedey",
-      "color": "9900cc",
+      "color": "282e6b",
       "tag": "60O",
       "oppositeColor": "ffffff",
       "max": [
@@ -3806,7 +3811,6 @@
           "CP41957",
           "41952",
           "41942",
-          "41938",
           "41965",
           "41932",
           "CP44060",
@@ -3839,7 +3843,7 @@
     },
     "61N": {
       "title": "61 Direction Fabreville",
-      "color": "660099",
+      "color": "282e6b",
       "tag": "61N",
       "oppositeColor": "ffffff",
       "max": [
@@ -3915,7 +3919,7 @@
     },
     "61S": {
       "title": "61 Direction M&#233;tro Montmorency",
-      "color": "9933cc",
+      "color": "282e6b",
       "tag": "61S",
       "oppositeColor": "ffffff",
       "max": [
@@ -3956,6 +3960,7 @@
           "41673",
           "41675",
           "41677",
+          "46649",
           "43389",
           "41451",
           "41449",
@@ -3991,8 +3996,8 @@
       }
     },
     "63N": {
-      "title": "63 Direction Sainte-Rose",
-      "color": "330099",
+      "title": "63 Direction Gare Sainte-Rose",
+      "color": "282e6b",
       "tag": "63N",
       "oppositeColor": "ffffff",
       "max": [
@@ -4034,7 +4039,6 @@
           "CP41957",
           "41952",
           "41942",
-          "41938",
           "41965",
           "41018",
           "CP44063",
@@ -4083,7 +4087,7 @@
     },
     "63S": {
       "title": "63 Direction M&#233;tro Cartier",
-      "color": "6633cc",
+      "color": "282e6b",
       "tag": "63S",
       "oppositeColor": "ffffff",
       "max": [
@@ -4176,10 +4180,10 @@
       }
     },
     "65N": {
-      "title": "65 Direction Sainte-Rose",
-      "color": "9966ff",
+      "title": "65 Direction Gare Sainte-Rose",
+      "color": "282e6b",
       "tag": "65N",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6256299,
         -73.72013
@@ -4196,7 +4200,6 @@
           "CP41957",
           "41952",
           "41942",
-          "41938",
           "41965",
           "46268",
           "41963",
@@ -4262,9 +4265,9 @@
     },
     "65S": {
       "title": "65 Direction M&#233;tro Montmorency",
-      "color": "cc66ff",
+      "color": "282e6b",
       "tag": "65S",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6256399,
         -73.7207999
@@ -4349,7 +4352,7 @@
     },
     "66E": {
       "title": "66 Direction Terminus Le Carrefour",
-      "color": "990099",
+      "color": "282e6b",
       "tag": "66E",
       "oppositeColor": "ffffff",
       "max": [
@@ -4423,7 +4426,7 @@
     },
     "66O": {
       "title": "66 Direction Sainte-Doroth&#233;e",
-      "color": "330033",
+      "color": "282e6b",
       "tag": "66O",
       "oppositeColor": "ffffff",
       "max": [
@@ -4493,7 +4496,7 @@
     },
     "70E": {
       "title": "70 Direction M&#233;tro Cartier",
-      "color": "663366",
+      "color": "282e6b",
       "tag": "70E",
       "oppositeColor": "ffffff",
       "max": [
@@ -4596,7 +4599,7 @@
     },
     "70O": {
       "title": "70 Direction M&#233;tro Montmorency",
-      "color": "660066",
+      "color": "282e6b",
       "tag": "70O",
       "oppositeColor": "ffffff",
       "max": [
@@ -4605,7 +4608,7 @@
       ],
       "min": [
         45.5582799,
-        -73.7685899
+        -73.76859
       ],
       "stops": {
         "1": [
@@ -4705,7 +4708,7 @@
     },
     "73N": {
       "title": "73 Direction Fabreville",
-      "color": "993300",
+      "color": "282e6b",
       "tag": "73N",
       "oppositeColor": "ffffff",
       "max": [
@@ -4802,9 +4805,9 @@
     },
     "73S": {
       "title": "73 Direction M&#233;tro Cartier",
-      "color": "996699",
+      "color": "282e6b",
       "tag": "73S",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.63015,
         -73.68249
@@ -4900,7 +4903,7 @@
     },
     "74E": {
       "title": "74 Direction Saint-Fran&#231;ois",
-      "color": "ff00ff",
+      "color": "282e6b",
       "tag": "74E",
       "oppositeColor": "ffffff",
       "max": [
@@ -5011,9 +5014,9 @@
     },
     "74O": {
       "title": "74 Direction M&#233;tro Cartier",
-      "color": "ff66ff",
+      "color": "282e6b",
       "tag": "74O",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6875699,
         -73.63605
@@ -5122,9 +5125,9 @@
     },
     "76E": {
       "title": "76 Direction M&#233;tro Montmorency",
-      "color": "cc99cc",
+      "color": "282e6b",
       "tag": "76E",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.5916099,
         -73.7208
@@ -5147,6 +5150,7 @@
           "41591",
           "45004",
           "45005",
+          "46638",
           "CP42920",
           "42940",
           "42964",
@@ -5227,9 +5231,9 @@
     },
     "76O": {
       "title": "76 Direction Gare Sainte-Doroth&#233;e",
-      "color": "cc66cc",
+      "color": "282e6b",
       "tag": "76O",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.5918399,
         -73.71991
@@ -5246,7 +5250,6 @@
           "CP41957",
           "41952",
           "41942",
-          "41938",
           "41965",
           "46268",
           "41963",
@@ -5314,6 +5317,7 @@
           "42953",
           "42931",
           "CP42884",
+          "46639",
           "42583",
           "41592",
           "41589",
@@ -5332,7 +5336,7 @@
     },
     "144E": {
       "title": "144 Direction M&#233;tro C&#244;te-Vertu",
-      "color": "990000",
+      "color": "282e6b",
       "tag": "144E",
       "oppositeColor": "ffffff",
       "max": [
@@ -5392,7 +5396,7 @@
     },
     "144O": {
       "title": "144 Direction Sainte-Doroth&#233;e",
-      "color": "330000",
+      "color": "282e6b",
       "tag": "144O",
       "oppositeColor": "ffffff",
       "max": [
@@ -5453,7 +5457,7 @@
     },
     "151N": {
       "title": "151 Direction Sainte-Rose",
-      "color": "660000",
+      "color": "282e6b",
       "tag": "151N",
       "oppositeColor": "ffffff",
       "max": [
@@ -5525,7 +5529,7 @@
     },
     "151S": {
       "title": "151 Direction M&#233;tro C&#244;te-Vertu",
-      "color": "993333",
+      "color": "282e6b",
       "tag": "151S",
       "oppositeColor": "ffffff",
       "max": [
@@ -5598,12 +5602,12 @@
     },
     "222E": {
       "title": "222 Direction Saint-Vincent-De-Paul",
-      "color": "333366",
+      "color": "282e6b",
       "tag": "222E",
       "oppositeColor": "ffffff",
       "max": [
         45.63685,
-        -73.64117
+        -73.6411699
       ],
       "min": [
         45.5598399,
@@ -5662,7 +5666,7 @@
           "46339",
           "46032",
           "46350",
-          "46033",
+          "CP46033",
           "46483",
           "46484",
           "46485",
@@ -5679,7 +5683,7 @@
     },
     "222O": {
       "title": "222 Direction M&#233;tro Cartier",
-      "color": "336666",
+      "color": "282e6b",
       "tag": "222O",
       "oppositeColor": "ffffff",
       "max": [
@@ -5702,7 +5706,7 @@
           "42229",
           "46496",
           "46497",
-          "46498",
+          "CP46498",
           "45068",
           "46333",
           "46334",
@@ -5759,7 +5763,7 @@
     },
     "252E": {
       "title": "252 Direction Saint-Fran&#231;ois",
-      "color": "cc0000",
+      "color": "282e6b",
       "tag": "252E",
       "oppositeColor": "ffffff",
       "max": [
@@ -5778,6 +5782,7 @@
           "46384",
           "43302",
           "CP42584",
+          "46629",
           "CP41393",
           "42101",
           "42103",
@@ -5829,8 +5834,8 @@
       }
     },
     "252O": {
-      "title": "252 Direction Terminus Henri-Bourassa",
-      "color": "cc3333",
+      "title": "252 Direction M&#233;tro Henri-Bourassa",
+      "color": "282e6b",
       "tag": "252O",
       "oppositeColor": "ffffff",
       "max": [
@@ -5896,6 +5901,7 @@
           "42102",
           "41394",
           "CP41392",
+          "46628",
           "CP42170",
           "43303",
           "46385",
@@ -5905,18 +5911,64 @@
         ]
       }
     },
+    "313N": {
+      "title": "313 Direction Chomedey",
+      "color": "282e6b",
+      "tag": "313N",
+      "oppositeColor": "ffffff",
+      "max": [
+        45.5461499,
+        -73.68225
+      ],
+      "min": [
+        45.5136099,
+        -73.80323
+      ],
+      "stops": {
+        "1": [
+          "CP40902",
+          "CP43420",
+          "CP46643",
+          "46644",
+          "CP46645"
+        ]
+      }
+    },
+    "313S": {
+      "title": "313 Direction M&#233;tro C&#244;te-Vertu",
+      "color": "282e6b",
+      "tag": "313S",
+      "oppositeColor": "ffffff",
+      "max": [
+        45.54593,
+        -73.68225
+      ],
+      "min": [
+        45.5135999,
+        -73.80313
+      ],
+      "stops": {
+        "0": [
+          "CP46646",
+          "46647",
+          "CP42430",
+          "CP45001",
+          "CP40802"
+        ]
+      }
+    },
     "360N": {
       "title": "360 Direction Chomedey",
-      "color": "0000ff",
+      "color": "02b4df",
       "tag": "360N",
-      "oppositeColor": "ffffff",
+      "oppositeColor": "000000",
       "max": [
         45.57219,
         -73.72004
       ],
       "min": [
         45.5581499,
-        -73.75266
+        -73.7528599
       ],
       "stops": {
         "1": [
@@ -5926,7 +5978,6 @@
           "41957",
           "41952",
           "41942",
-          "41938",
           "41965",
           "41932",
           "CP44360",
@@ -5959,16 +6010,16 @@
     },
     "402E": {
       "title": "402 Direction Fabreville",
-      "color": "cc6666",
+      "color": "282e6b",
       "tag": "402E",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.5989999,
         -73.80694
       ],
       "min": [
         45.52275,
-        -73.87777
+        -73.8779999
       ],
       "stops": {
         "0": [
@@ -5989,6 +6040,7 @@
           "46287",
           "46288",
           "46289",
+          "46640",
           "CP42920",
           "42940",
           "42964",
@@ -6035,9 +6087,9 @@
     },
     "402O": {
       "title": "402 Direction Gare Sainte-Doroth&#233;e",
-      "color": "cc9999",
+      "color": "282e6b",
       "tag": "402O",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.5989699,
         -73.80728
@@ -6088,6 +6140,7 @@
           "42953",
           "42931",
           "CP42884",
+          "46641",
           "46290",
           "46291",
           "46292",
@@ -6110,7 +6163,7 @@
     },
     "404E": {
       "title": "404 Direction Sainte-Doroth&#233;e",
-      "color": "ff0000",
+      "color": "282e6b",
       "tag": "404E",
       "oppositeColor": "ffffff",
       "max": [
@@ -6165,7 +6218,7 @@
     },
     "901N": {
       "title": "901 Direction Saint-Fran&#231;ois",
-      "color": "cc0066",
+      "color": "d22630",
       "tag": "901N",
       "oppositeColor": "ffffff",
       "max": [
@@ -6202,9 +6255,9 @@
     },
     "901S": {
       "title": "901 Direction M&#233;tro Cartier",
-      "color": "ff3399",
+      "color": "d22630",
       "tag": "901S",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6770499,
         -73.57432
@@ -6238,7 +6291,7 @@
     },
     "902N": {
       "title": "902 Direction Terminus Le Carrefour",
-      "color": "660033",
+      "color": "d22630",
       "tag": "902N",
       "oppositeColor": "ffffff",
       "max": [
@@ -6282,7 +6335,7 @@
     },
     "902S": {
       "title": "902 Direction M&#233;tro C&#244;te-Vertu",
-      "color": "993366",
+      "color": "d22630",
       "tag": "902S",
       "oppositeColor": "ffffff",
       "max": [
@@ -6324,7 +6377,7 @@
     },
     "903N": {
       "title": "903 Direction Gare Sainte-Doroth&#233;e",
-      "color": "cc0033",
+      "color": "d22630",
       "tag": "903N",
       "oppositeColor": "ffffff",
       "max": [
@@ -6375,6 +6428,7 @@
           "42953",
           "42931",
           "CP42884",
+          "46641",
           "46290",
           "46291",
           "46292",
@@ -6397,16 +6451,16 @@
     },
     "903S": {
       "title": "903 Direction M&#233;tro Montmorency",
-      "color": "ff3366",
+      "color": "d22630",
       "tag": "903S",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.5691199,
         -73.7208
       ],
       "min": [
         45.52275,
-        -73.87777
+        -73.8779999
       ],
       "stops": {
         "0": [
@@ -6427,6 +6481,7 @@
           "46287",
           "46288",
           "46289",
+          "46640",
           "CP42920",
           "42940",
           "42964",
@@ -6471,7 +6526,7 @@
     },
     "925N": {
       "title": "925 Direction Saint-Fran&#231;ois",
-      "color": "ff0000",
+      "color": "d22630",
       "tag": "925N",
       "oppositeColor": "ffffff",
       "max": [
@@ -6528,9 +6583,9 @@
     },
     "925S": {
       "title": "925 Direction M&#233;tro Radisson",
-      "color": "ff6666",
+      "color": "d22630",
       "tag": "925S",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6733399,
         -73.53935
@@ -6591,7 +6646,7 @@
     },
     "942E": {
       "title": "942 Direction Saint-Fran&#231;ois",
-      "color": "336633",
+      "color": "d22630",
       "tag": "942E",
       "oppositeColor": "ffffff",
       "max": [
@@ -6643,9 +6698,9 @@
     },
     "942O": {
       "title": "942 Direction M&#233;tro Montmorency",
-      "color": "996699",
+      "color": "d22630",
       "tag": "942O",
-      "oppositeColor": "000000",
+      "oppositeColor": "ffffff",
       "max": [
         45.6733399,
         -73.5722199
@@ -6699,5 +6754,5 @@
       }
     }
   },
-  "copyright": "All data copyright Societe de transport de Laval 2018."
+  "copyright": "All data copyright Societe de transport de Laval 2019."
 }

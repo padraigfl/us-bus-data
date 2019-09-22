@@ -1,164 +1,158 @@
 {
   "data": {
     "CLEB": {
-      "title": "Cityline Eastbound Orange Route",
+      "title": "Cityline Local-East",
       "color": "ff8000",
       "tag": "CLEB",
       "oppositeColor": "000000",
       "max": [
-        34.09442,
-        -118.3441
+        34.09437,
+        -118.3442
       ],
       "min": [
         34.0752299,
-        -118.38641
+        -118.38662
       ],
       "stops": {
-        "La_Brea": [
-          "SE5",
-          "SE6",
-          "SE7",
-          "SE8",
-          "SE9",
-          "SE10",
-          "SE11",
-          "SE12",
-          "SE47",
-          "SE1",
-          "SE14",
-          "SE15",
-          "SE16",
-          "SE17",
-          "SE18",
-          "SE19",
-          "SE20",
-          "SE21",
-          "SE22",
-          "SE48",
-          "SE24",
-          "SE25",
-          "SE26",
-          "SE27",
-          "SE28",
-          "SE29",
-          "SE30",
-          "SE31",
-          "SE32",
-          "SE33",
-          "SE34",
-          "SE35",
-          "SE36",
-          "SE37",
-          "SE38",
-          "SE39",
-          "SE40",
-          "SE41",
-          "SE42",
-          "SE43",
-          "SE44_ar"
+        "Eastbound": [
+          "S62",
+          "S1",
+          "S2",
+          "S56",
+          "S3",
+          "S58",
+          "S59",
+          "S60",
+          "S46",
+          "S61",
+          "S66",
+          "S54",
+          "S55",
+          "S67",
+          "S68",
+          "S4",
+          "S5",
+          "S6",
+          "S7",
+          "S65",
+          "S8",
+          "S9",
+          "S10",
+          "S11",
+          "S12",
+          "S13",
+          "S14",
+          "S15",
+          "S16",
+          "S69",
+          "S51",
+          "S52",
+          "S53",
+          "S17",
+          "S18",
+          "S19",
+          "S20",
+          "S21",
+          "S22",
+          "S23",
+          "S50_ar"
         ]
       }
     },
     "CLWB": {
-      "title": "Cityline Westbound Blue Route",
+      "title": "Cityline Local-West",
       "color": "0000ff",
       "tag": "CLWB",
       "oppositeColor": "ffffff",
       "max": [
-        34.09445,
-        -118.3440999
+        34.0945299,
+        -118.3442
       ],
       "min": [
         34.0752299,
-        -118.38641
+        -118.38662
       ],
       "stops": {
-        "Cedars_Sinai": [
-          "SE44",
-          "SW2",
-          "SW3",
-          "SW4",
-          "SW5",
-          "SW6",
-          "SW7",
-          "SW8",
-          "SW9",
-          "SE33",
-          "SE34",
-          "SE35",
-          "SE36",
-          "SW14",
-          "SW15",
-          "SW16",
-          "SW17",
-          "SW18",
-          "SW19",
-          "SW20",
-          "SW21",
-          "SW47",
-          "SW48",
-          "SW24",
-          "SW25",
-          "SW26",
-          "SW27",
-          "SW28",
-          "SW29",
-          "SW30",
-          "SE15",
-          "SE16",
-          "SW33",
-          "SW45",
-          "SE1",
-          "SE8",
-          "SE9",
-          "SE10",
-          "SE11",
-          "SE12",
-          "SE13",
-          "SE2",
-          "SE3",
-          "SE4",
-          "SE5_ar"
+        "Westbound": [
+          "S50",
+          "S79",
+          "S24",
+          "S25",
+          "S26",
+          "S27",
+          "S28",
+          "S29",
+          "S30",
+          "S69",
+          "S51",
+          "S52",
+          "S53",
+          "S31",
+          "S32",
+          "S33",
+          "S34",
+          "S35",
+          "S36",
+          "S37",
+          "S38",
+          "S63",
+          "S64",
+          "S39",
+          "S40",
+          "S41",
+          "S42",
+          "S43",
+          "S70",
+          "S44",
+          "S54",
+          "S55",
+          "S45",
+          "S46",
+          "S61",
+          "S56",
+          "S3",
+          "S58",
+          "S59",
+          "S60",
+          "S57",
+          "S47",
+          "S48",
+          "S49",
+          "S62_ar"
         ]
       }
     },
     "HHL": {
-      "title": "Cityline X",
-      "color": "007700",
+      "title": "Cityline Commuter",
+      "color": "31f23a",
       "tag": "HHL",
-      "oppositeColor": "ffffff",
+      "oppositeColor": "000000",
       "max": [
-        34.1013199,
-        -118.33875
+        34.1011699,
+        -118.33882
       ],
       "min": [
-        34.0815399,
+        34.0820499,
         -118.38392
       ],
       "stops": {
-        "West_Hollywood": [
-          "HH4",
-          "PU1",
-          "PU4",
-          "SW17",
-          "PU8",
-          "PU10",
-          "PU12",
-          "PU14",
-          "SE2",
-          "SE3_ar"
+        "Westbound": [
+          "S80",
+          "S50_ar"
         ],
-        "Hollywood/Highland": [
-          "SE3",
-          "PU19",
-          "PU21",
-          "PU22",
-          "PU24",
-          "PU26",
-          "PU27",
-          "PU29",
-          "HH7",
-          "HH4_ar"
+        "Eastbound": [
+          "S48",
+          "S66",
+          "S67",
+          "S68",
+          "S76",
+          "S77",
+          "S78",
+          "S69",
+          "S22",
+          "S86",
+          "S71",
+          "S80_ar"
         ]
       }
     },
@@ -168,56 +162,82 @@
       "tag": "PU",
       "oppositeColor": "ffffff",
       "max": [
-        34.0909299,
-        -118.34457
+        34.0910799,
+        -118.3443
       ],
       "min": [
-        34.0832799,
+        34.0831199,
         -118.38662
       ],
       "stops": {
-        "To_La Brea": [
-          "PU18",
-          "PU19",
-          "PU20",
-          "PU21",
-          "PU22",
-          "PU23",
-          "PU24",
-          "PU25",
-          "PU26",
-          "PU27",
-          "PU28",
-          "PU29",
-          "PU30",
-          "PU31_ar"
+        "Westbound": [
+          "S79",
+          "S23",
+          "S87",
+          "S72",
+          "S31",
+          "S32",
+          "S34",
+          "S73",
+          "S63",
+          "S74",
+          "S43",
+          "S70",
+          "S44",
+          "S75",
+          "S45",
+          "S46",
+          "S61_ar"
         ],
-        "To_Robertson": [
-          "PU1",
-          "PU2",
-          "PU3",
-          "PU4",
-          "PU5",
-          "PU6",
-          "PU7",
-          "PU8",
-          "PU9",
-          "PU10",
-          "PU11",
-          "PU12",
-          "PU13",
-          "PU14",
-          "PU15",
-          "PU16",
-          "PU17_ar"
+        "Eastbound": [
+          "S81",
+          "S66",
+          "S82",
+          "S67",
+          "S68",
+          "S83",
+          "S76",
+          "S9",
+          "S77",
+          "S78",
+          "S16",
+          "S69",
+          "S84",
+          "S22",
+          "S85",
+          "S86_ar"
+        ]
+      }
+    },
+    "SHL": {
+      "title": "Shortline",
+      "color": "e73dda",
+      "tag": "SHL",
+      "oppositeColor": "000000",
+      "max": [
+        34.1011699,
+        -118.33882
+      ],
+      "min": [
+        34.0906499,
+        -118.36559
+      ],
+      "stops": {
+        "Westbound": [
+          "S80",
+          "S77_ar"
+        ],
+        "Eastbound": [
+          "S77",
+          "S80_ar"
         ]
       }
     },
     "SNST": {
       "title": "Sunset Trip",
-      "color": "ff0000",
+      "color": "00d9d9",
       "tag": "SNST",
-      "oppositeColor": "ffffff",
+      "oppositeColor": "000000",
       "max": [
         34.0981799,
         -118.36132
@@ -240,12 +260,12 @@
           "SUN10",
           "SUN11",
           "SUN12",
-          "SE7_ar"
+          "S2_ar"
         ],
         "Eastbound": [
-          "SUN14",
-          "SUN15",
-          "SUN16",
+          "S56",
+          "S3",
+          "S58",
           "SUN17",
           "SUN18",
           "SUN19",
@@ -253,11 +273,11 @@
           "SUN21",
           "SUN22",
           "SUN23",
-          "PU26",
+          "S77",
           "SUN25_ar"
         ]
       }
     }
   },
-  "copyright": "All data copyright City of West Hollywood 2018."
+  "copyright": "All data copyright City of West Hollywood 2019."
 }

@@ -275,8 +275,7 @@
       "type": "Feature",
       "properties": {
         "title": "Tri-Rail Ft Lauderdale Airport - Arrival",
-        "tag": "airp_a",
-        "stopId": "41"
+        "tag": "airp_a"
       },
       "geometry": {
         "type": "Point",
@@ -349,7 +348,8 @@
       "type": "Feature",
       "properties": {
         "title": "Galleria Mall",
-        "tag": "gallmall"
+        "tag": "gallmall",
+        "stopId": "43"
       },
       "geometry": {
         "type": "Point",
@@ -363,7 +363,8 @@
       "type": "Feature",
       "properties": {
         "title": "Beach Place A1A",
-        "tag": "bct"
+        "tag": "bct",
+        "stopId": "42"
       },
       "geometry": {
         "type": "Point",
@@ -377,7 +378,8 @@
       "type": "Feature",
       "properties": {
         "title": "Las Olas",
-        "tag": "lasolas"
+        "tag": "lasolas",
+        "stopId": "44"
       },
       "geometry": {
         "type": "Point",
@@ -391,7 +393,8 @@
       "type": "Feature",
       "properties": {
         "title": "Museum Of Science and Discovery",
-        "tag": "musescie"
+        "tag": "musescie",
+        "stopId": "45"
       },
       "geometry": {
         "type": "Point",
@@ -411,8 +414,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2497,
-          26.08095
+          -80.2497001,
+          26.0809497
         ]
       }
     },
@@ -420,7 +423,8 @@
       "type": "Feature",
       "properties": {
         "title": "Publix",
-        "tag": "publix"
+        "tag": "publix",
+        "stopId": "46"
       },
       "geometry": {
         "type": "Point",
@@ -431,5 +435,5 @@
       }
     }
   ],
-  "copyright": "All data copyright Nova Southeastern University 2018."
+  "copyright": "All data copyright Nova Southeastern University 2019."
 }

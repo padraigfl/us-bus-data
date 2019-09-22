@@ -45,7 +45,22 @@
           47.6316458
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Economy Parking Lot",
+        "tag": "econpark2",
+        "stopId": "3264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5397464,
+          47.6298741
+        ]
+      }
     }
   ],
-  "copyright": "All data copyright Spokane International Airport 2018."
+  "copyright": "All data copyright Spokane International Airport 2019."
 }

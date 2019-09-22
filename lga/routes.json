@@ -29,7 +29,7 @@
       "oppositeColor": "ffffff",
       "max": [
         40.7743729,
-        -73.8623862
+        -73.8625335
       ],
       "min": [
         40.768464,
@@ -52,22 +52,87 @@
       "oppositeColor": "ffffff",
       "max": [
         40.773269,
-        -73.8645755
+        -73.8623947
       ],
       "min": [
-        40.769606,
-        -73.8868074
+        40.7684468,
+        -73.8868075
       ],
       "stops": {
         "Loop": [
           "trma",
           "hng7",
+          "102nd_i",
           "trmd",
           "trmc",
+          "102nd_o",
           "stop15"
+        ]
+      }
+    },
+    "tx1": {
+      "title": "Taxi Shuttle B",
+      "color": "ff7216",
+      "tag": "tx1",
+      "shortTitle": "Taxi B",
+      "oppositeColor": "000000",
+      "max": [
+        40.7740346,
+        -73.8745263
+      ],
+      "min": [
+        40.7702647,
+        -73.8868681
+      ],
+      "stops": {
+        "Loop": [
+          "trmb2",
+          "pickup"
+        ]
+      }
+    },
+    "tx2": {
+      "title": "Taxi Shuttle C",
+      "color": "aa6600",
+      "tag": "tx2",
+      "shortTitle": "Taxi C",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.770265,
+        -73.864853
+      ],
+      "min": [
+        40.770124,
+        -73.886868
+      ],
+      "stops": {
+        "Loop": [
+          "trmc2",
+          "pickup2"
+        ]
+      }
+    },
+    "tx3": {
+      "title": "Taxi Shuttle D",
+      "color": "000000",
+      "tag": "tx3",
+      "shortTitle": "Taxi D",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.770265,
+        -73.8625335
+      ],
+      "min": [
+        40.7685436,
+        -73.886868
+      ],
+      "stops": {
+        "Loop": [
+          "trmd2",
+          "pickup2"
         ]
       }
     }
   },
-  "copyright": "All data copyright LaGuardia Airport Shuttle 2018."
+  "copyright": "All data copyright LaGuardia Airport Shuttle 2019."
 }

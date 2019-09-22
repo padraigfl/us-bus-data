@@ -1,13 +1,15 @@
 {
   "data": {
     "marshak_d": {
+      "routes": {},
       "lon": "-73.9497415",
-      "title": "Marshak North",
+      "title": "Marshak Building",
       "stopId": "0627",
       "tag": "marshak_d",
       "lat": "40.8197902"
     },
     "145th": {
+      "routes": {},
       "lon": "-73.94482",
       "title": "145th Street",
       "shortTitle": "145th",
@@ -16,6 +18,7 @@
       "lat": "40.82405"
     },
     "marshak": {
+      "routes": {},
       "lon": "-73.950055",
       "title": "Marshak South",
       "stopId": "0627",
@@ -23,13 +26,39 @@
       "lat": "40.819476"
     },
     "125th": {
+      "routes": {},
       "lon": "-73.952902",
-      "title": "125th Street",
-      "shortTitle": "125th",
+      "title": "Chuckie Cheese",
       "stopId": "0125",
       "tag": "125th",
-      "lat": "40.810272"
+      "lat": "40.8102719"
+    },
+    "spitzer": {
+      "routes": {},
+      "lon": "-73.95064",
+      "title": "Spitzer",
+      "stopId": "0772",
+      "tag": "spitzer",
+      "lat": "40.8185427"
+    },
+    "130th_d": {
+      "routes": {},
+      "lon": "-73.950604",
+      "title": "401 West 130th Street",
+      "shortTitle": "401 West 130th",
+      "stopId": "0126",
+      "tag": "130th_d",
+      "lat": "40.814579"
+    },
+    "145thnich": {
+      "routes": {},
+      "lon": "-73.9448548",
+      "title": "145th and St. Nicholas Ave",
+      "shortTitle": "145th & Nicholas",
+      "stopId": "0145",
+      "tag": "145thnich",
+      "lat": "40.8238901"
     }
   },
-  "copyright": "All data copyright City College NYC 2018."
+  "copyright": "All data copyright City College NYC 2019."
 }

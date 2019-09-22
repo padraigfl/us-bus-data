@@ -275,7 +275,8 @@
       "type": "Feature",
       "properties": {
         "title": "Wisconsin Ave NW And P Street NW",
-        "tag": "wiscp_w"
+        "tag": "wiscp_w",
+        "stopId": "0029"
       },
       "geometry": {
         "type": "Point",
@@ -394,7 +395,8 @@
       "type": "Feature",
       "properties": {
         "title": "Wisconsin Avenue, NW And P Street NW",
-        "tag": "wiscp_e"
+        "tag": "wiscp_e",
+        "stopId": "0029"
       },
       "geometry": {
         "type": "Point",
@@ -932,6 +934,156 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Pennsylvania Avenue SE And 8th St",
+        "tag": "penn8th_s",
+        "stopId": "0113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99505,
+          38.88397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th Street SE And G Street SE",
+        "tag": "8thg_s",
+        "stopId": "0114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99503,
+          38.8813713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th Street SE And L Street SE",
+        "tag": "8thl_s",
+        "stopId": "0115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99505,
+          38.8772268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "600 M Street SE (Washington Navy Yard entrance)",
+        "tag": "600m_s",
+        "stopId": "0116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9976163,
+          38.8765271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street SE And 4th Street SE",
+        "tag": "m3rd_s",
+        "stopId": "0117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0003887,
+          38.87653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street and New Jersey Ave SE",
+        "tag": "mstnewj_w",
+        "stopId": "1003148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0048373,
+          38.8765372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street and Half Street SE",
+        "tag": "msthalf_w",
+        "stopId": "1003032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0084241,
+          38.87652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street and Delaware Ave SW",
+        "tag": "mstdela_w",
+        "stopId": "1000517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.013561,
+          38.876536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "M Street and 4th Street SW",
+        "tag": "mst4th_w",
+        "stopId": "1003690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0180229,
+          38.8765519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "7th Street and I Street SW",
+        "tag": "7thist_w",
+        "stopId": "1003903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021787,
+          38.879685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "D Street and 7th Street SW",
         "tag": "dst7th_s",
         "stopId": "1003665"
@@ -1091,185 +1243,6 @@
         "coordinates": [
           -76.99494,
           38.8810841
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pennsylvania Avenue SE And 7th Street SE",
-        "tag": "penn7th_n",
-        "stopId": "0124"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9959696,
-          38.8847557
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pennsylvania Avenue SE And 8th St (Arrival)",
-        "tag": "penn8th_a"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9950429,
-          38.884097
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pennsylvania Avenue SE And 8th St",
-        "tag": "penn8th_s",
-        "stopId": "0113"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.99505,
-          38.88397
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "8th Street SE And G Street SE",
-        "tag": "8thg_s",
-        "stopId": "0114"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.99503,
-          38.8813713
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "8th Street SE And L Street SE",
-        "tag": "8thl_s",
-        "stopId": "0115"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.99505,
-          38.8772268
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "600 M Street SE (Washington Navy Yard entrance)",
-        "tag": "600m_s",
-        "stopId": "0116"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9976163,
-          38.8765271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "M Street SE And 4th Street SE",
-        "tag": "m3rd_s",
-        "stopId": "0117"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0003887,
-          38.87653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "M Street and New Jersey Ave SE",
-        "tag": "mstnewj_w",
-        "stopId": "1003148"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0048373,
-          38.8765372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "M Street and Half Street SE",
-        "tag": "msthalf_w",
-        "stopId": "1003032"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0084241,
-          38.87652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "M Street and Delaware Ave SW",
-        "tag": "mstdela_w",
-        "stopId": "1000517"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.013561,
-          38.876536
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "M Street and 4th Street SW",
-        "tag": "mst4th_w",
-        "stopId": "1003690"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0180229,
-          38.8765519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "7th Street and I Street SW",
-        "tag": "7thist_w",
-        "stopId": "1003903"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.021787,
-          38.879685
         ]
       }
     },
@@ -1517,7 +1490,8 @@
       "type": "Feature",
       "properties": {
         "title": "8th Street and E Capitol NE",
-        "tag": "8thcapi_s"
+        "tag": "8thcapi_s",
+        "stopId": "1000822"
       },
       "geometry": {
         "type": "Point",
@@ -2231,5 +2205,5 @@
       }
     }
   ],
-  "copyright": "All data copyright DC Circulator 2018."
+  "copyright": "All data copyright DC Circulator 2019."
 }

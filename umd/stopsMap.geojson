@@ -4,1761 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "State Center (Metro)",
-        "tag": "stcent",
-        "stopId": "39001"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6228338,
-          39.3017091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Meyerhoff Symphony Hall",
-        "tag": "meysymp",
-        "stopId": "39004"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6190986,
-          39.303462
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Maryland Avenue Garage(To Campus)",
-        "tag": "marygar",
-        "stopId": "39005"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6176602,
-          39.3033375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Chase St & Maryland Av",
-        "tag": "charmary",
-        "stopId": "39012"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6181275,
-          39.302314
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fitzgerald Garage",
-        "tag": "fitzgar",
-        "stopId": "39008"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.619297,
-          39.30785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Robert L. Bogomolny Library",
-        "tag": "langlib",
-        "stopId": "39009"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6176374,
-          39.306237
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Student Center",
-        "tag": "acadcen",
-        "stopId": "39013"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6169892,
-          39.3054029
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Preston St. and Charles St.",
-        "tag": "charpres",
-        "stopId": "39014"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6159296,
-          39.3044976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Preston St. and Maryland Ave.",
-        "tag": "anncath",
-        "stopId": "39015"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6173261,
-          39.3044466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pearl St Garage",
-        "tag": "peargara_d",
-        "stopId": "47000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6245549,
-          39.2907856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Green St & Fayette St",
-        "tag": "greefaye",
-        "stopId": "47004"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6238161,
-          39.2906036
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Green St & Baltimore St",
-        "tag": "greebalt",
-        "stopId": "47005"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6237402,
-          39.2893638
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Greene St & Lombard St",
-        "tag": "greelomb",
-        "stopId": "47006"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6236502,
-          39.2878134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Green St & Pratt St",
-        "tag": "greeprat",
-        "stopId": "47011"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6235606,
-          39.2858834
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Washington Blvd & Emory St",
-        "tag": "washemor",
-        "stopId": "47012"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6243629,
-          39.2845546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Washington Blvd & Barre St",
-        "tag": "washbarr",
-        "stopId": "47014"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6271531,
-          39.2831817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Washington Blvd & Scott St",
-        "tag": "washscot",
-        "stopId": "47015"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6286709,
-          39.28301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Ramsay St Apartments",
-        "tag": "ramsapts",
-        "stopId": "47022"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.62881,
-          39.2837202
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Scott St & Roundhouse Ct",
-        "tag": "scotroun",
-        "stopId": "47023"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.628899,
-          39.2852842
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Scott St & Lemmon St",
-        "tag": "scotlemm",
-        "stopId": "47024"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6289693,
-          39.2865555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lombard St & Parkin St",
-        "tag": "lombpark",
-        "stopId": "47025"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6304041,
-          39.2869202
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Poppleton St & Lombard St",
-        "tag": "popplomb",
-        "stopId": "47026"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.63202,
-          39.28729
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Poppleton St & Booth St",
-        "tag": "poppboot",
-        "stopId": "47027"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6320545,
-          39.2887338
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "BioPark",
-        "tag": "biopark",
-        "stopId": "47089"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6295243,
-          39.2888703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore St & Martin Luther King Jr Blvd",
-        "tag": "baltfrem",
-        "stopId": "47028"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.62859,
-          39.28893
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore & Pine St",
-        "tag": "baltpine",
-        "stopId": "47029"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6265298,
-          39.28902
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "UMB Transit Center",
-        "tag": "umbtrans",
-        "stopId": "47030"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6242882,
-          39.28912
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Paca St & Fayette St",
-        "tag": "pacafaye",
-        "stopId": "47035"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6223157,
-          39.2905826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Paca St & Saratoga St",
-        "tag": "pacasara",
-        "stopId": "47036"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6224692,
-          39.292951
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pennsylvania Ave & St Mary St",
-        "tag": "pennstmr",
-        "stopId": "47112"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6249557,
-          39.2957178
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "UMMC: Midtown Campus",
-        "tag": "ummccamp",
-        "stopId": "47113"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.620848,
-          39.2995236
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eutaw St & Druid Hill Ave",
-        "tag": "eutadrui",
-        "stopId": "47115"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6214416,
-          39.2969422
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eutaw St & Franklin St",
-        "tag": "eutafran",
-        "stopId": "47031"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6213496,
-          39.2954642
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eutaw St & Mulberry St",
-        "tag": "eutamulb",
-        "stopId": "47032"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6212903,
-          39.2940418
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eutaw St & Saratoga St",
-        "tag": "eutasara",
-        "stopId": "47033"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.621231,
-          39.2930023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lexington Market",
-        "tag": "lexmmetr",
-        "stopId": "47034"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6210983,
-          39.2912536
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fayette St & Paca St",
-        "tag": "fayepaca",
-        "stopId": "47062"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6220613,
-          39.2903802
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore St & Paca St",
-        "tag": "baltpaca",
-        "stopId": "47038"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6225509,
-          39.2891899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore St & Eutaw St",
-        "tag": "balteuta",
-        "stopId": "47116"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6205898,
-          39.289276
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore St & Hopkins Pl",
-        "tag": "balthopk",
-        "stopId": "47039"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6183291,
-          39.2893089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles Center Metro",
-        "tag": "charcent",
-        "stopId": "47040"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.61508,
-          39.2897761
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles St & Saratoga St",
-        "tag": "charsara",
-        "stopId": "47041"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.615243,
-          39.2921701
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles St & Hamilton St",
-        "tag": "charhami",
-        "stopId": "47054"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.615487,
-          39.2955011
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles St and Mt Vernon Pl",
-        "tag": "charvern",
-        "stopId": "47042"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6153277,
-          39.2976365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles St and Read St",
-        "tag": "charread",
-        "stopId": "47043"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.61575,
-          39.2994611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles St and Eager St",
-        "tag": "chareage",
-        "stopId": "47044"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.61584,
-          39.3008213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles St and Chase St",
-        "tag": "charchas",
-        "stopId": "47045"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6159385,
-          39.3022109
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles St and Biddle St",
-        "tag": "charbidd",
-        "stopId": "47046"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6160107,
-          39.3033104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles St & Penn Station",
-        "tag": "charpenn",
-        "stopId": "47055"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6162718,
-          39.3075428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "St Paul St & Penn Station",
-        "tag": "paulpenn",
-        "stopId": "47056"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.614732,
-          39.306938
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "St Paul and Preston St",
-        "tag": "paulpres",
-        "stopId": "47049"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.614551,
-          39.3042325
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "St Paul and Biddle St",
-        "tag": "paulbidd",
-        "stopId": "47050"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6144795,
-          39.3031046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "St Paul and Chase St",
-        "tag": "paulchas",
-        "stopId": "47051"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6143794,
-          39.301753
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "St Paul and Read St",
-        "tag": "paulread",
-        "stopId": "47052"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6142601,
-          39.2999427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "St Paul St and Madison St",
-        "tag": "paulmadi",
-        "stopId": "47053"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6141909,
-          39.2988525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "St Paul St & Centre St",
-        "tag": "paulcent",
-        "stopId": "47063"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.614023,
-          39.2967031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "St Paul & Mulberry St",
-        "tag": "paulmulb",
-        "stopId": "47057"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6142719,
-          39.294306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "St Paul & Lexington St",
-        "tag": "paullexi",
-        "stopId": "47059"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.614017,
-          39.2912234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fayette St Plaza",
-        "tag": "fayeplaz",
-        "stopId": "47060"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6162306,
-          39.290347
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fayette St & Howard St",
-        "tag": "fayehowa",
-        "stopId": "47061"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6192767,
-          39.2905268
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Martin Luther King Jr Blvd & Baltimore St",
-        "tag": "mlkbalt",
-        "stopId": "47064"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6281499,
-          39.2887912
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pratt St & Penn St",
-        "tag": "pratpenn",
-        "stopId": "47009"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6255869,
-          39.28607
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pratt St & Green St",
-        "tag": "pratgree",
-        "stopId": "47010"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6238817,
-          39.2861103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pratt St & Howard St",
-        "tag": "prathowa",
-        "stopId": "47065"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6194926,
-          39.2862103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pratt St & Sharp St",
-        "tag": "pratshar",
-        "stopId": "47089"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6173584,
-          39.2863099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pratt St & Light St",
-        "tag": "pratligh",
-        "stopId": "47090"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6141229,
-          39.2865153
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Light St & Conway St",
-        "tag": "lightcon",
-        "stopId": "47091"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6133083,
-          39.2837048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Light St & Lee St",
-        "tag": "lightlee",
-        "stopId": "47092"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6131541,
-          39.2819927
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Light St & Montgomery St",
-        "tag": "lightmon",
-        "stopId": "47093"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6127727,
-          39.2802116
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Light St & Henrietta St",
-        "tag": "lighthen",
-        "stopId": "47094"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6126964,
-          39.2792919
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Light St & Cross St",
-        "tag": "lightcro",
-        "stopId": "47095"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6124475,
-          39.2773539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Light St & West St",
-        "tag": "lightwes",
-        "stopId": "47096"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.612207,
-          39.2757218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Light St & Ostend St",
-        "tag": "lightost",
-        "stopId": "47097"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6120535,
-          39.2745604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Light St & Fort Ave",
-        "tag": "fortligh",
-        "stopId": "47075"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6119228,
-          39.2727731
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fort Ave & Charles St",
-        "tag": "fortchar",
-        "stopId": "47098"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6137297,
-          39.2727096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles St & Ostend St",
-        "tag": "charoste",
-        "stopId": "47099"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6141639,
-          39.2743985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles St & West St",
-        "tag": "charwest",
-        "stopId": "47100"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6142309,
-          39.2755392
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles St & Cross St",
-        "tag": "charcros",
-        "stopId": "47101"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6143033,
-          39.2766487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles St & Henrietta St",
-        "tag": "charhenr",
-        "stopId": "47102"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6144337,
-          39.2787792
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles St & Lee St",
-        "tag": "charlee",
-        "stopId": "47103"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6146352,
-          39.2816895
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles St & Conway St",
-        "tag": "charlcon",
-        "stopId": "47082"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6145997,
-          39.2839958
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles St & Pratt St",
-        "tag": "charlcam",
-        "stopId": "47083"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6147196,
-          39.2852959
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lombard St & Charles St",
-        "tag": "lombchar",
-        "stopId": "47084"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6156787,
-          39.2877502
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lombard St & Hopkins Pl",
-        "tag": "lombhopk",
-        "stopId": "47085"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6172374,
-          39.2877
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lombard St & Howard St",
-        "tag": "lombhowa",
-        "stopId": "47086"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6188174,
-          39.2876409
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lombard St & Eutaw St",
-        "tag": "lombeuta",
-        "stopId": "47087"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6212782,
-          39.2875332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lombard St & Green St",
-        "tag": "lombgree",
-        "stopId": "47088"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6232024,
-          39.287457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lombard St & Martin Luther King Jr Blvd",
-        "tag": "lombmlk",
-        "stopId": "47008"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6274602,
-          39.2872977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "UMB Transit Center",
-        "tag": "utrans",
-        "stopId": "47030"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6242893,
-          39.28912
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore St & Charles St",
-        "tag": "baltchar",
-        "stopId": "48009"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6155374,
-          39.289445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore St & South St",
-        "tag": "baltsout",
-        "stopId": "48010"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6115772,
-          39.2896642
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore St & Frederick St",
-        "tag": "baltfred",
-        "stopId": "48011"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6087141,
-          39.2897715
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore St & President St",
-        "tag": "baltpres",
-        "stopId": "48012"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6055346,
-          39.2899958
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore St & Exeter St",
-        "tag": "baltexet",
-        "stopId": "48013"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.603515,
-          39.2903675
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore St & Lloyd St",
-        "tag": "baltlloy",
-        "stopId": "48014"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6011101,
-          39.2909846
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Broadway & Lombard St",
-        "tag": "broalomb",
-        "stopId": "48015"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5938908,
-          39.2902974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Broadway & Gough St (Outbound)",
-        "tag": "broagoug",
-        "stopId": "48016"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5937327,
-          39.2877104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eastern Ave & Wolfe St (Outbound)",
-        "tag": "eastwolf",
-        "stopId": "48017"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5904616,
-          39.2857177
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eastern Ave & Washington St",
-        "tag": "eastwash",
-        "stopId": "48018"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5891411,
-          39.285773
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eastern Ave & Milton Ave",
-        "tag": "eastmilt",
-        "stopId": "48019"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5818639,
-          39.2860229
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eastern Ave & Lakewood Ave",
-        "tag": "eastlake",
-        "stopId": "48020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5789169,
-          39.2861368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eastern Ave & Ellwood Ave",
-        "tag": "eastellw",
-        "stopId": "48021"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5732904,
-          39.2863601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "East Ave & Fait Ave",
-        "tag": "eastfait",
-        "stopId": "48022"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5713796,
-          39.2835957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "East Ave & O'Donnell St",
-        "tag": "eastodon",
-        "stopId": "48023"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5711916,
-          39.2806543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Boston St & Ellwood Ave",
-        "tag": "bostellw",
-        "stopId": "48024"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5720309,
-          39.2775588
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Boston St & Kenwood Ave",
-        "tag": "bostkenw",
-        "stopId": "48025"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5763548,
-          39.2785257
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Boston St at The Can Company Shopping Center",
-        "tag": "bostcomp",
-        "stopId": "48026"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5804715,
-          39.2807324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eastern Ave & Chester St",
-        "tag": "eastches",
-        "stopId": "48027"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5874086,
-          39.285839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eastern Ave & Wolfe St (Inbound)",
-        "tag": "eastwolf_ib",
-        "stopId": "48028"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5897164,
-          39.2857801
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eastern Ave & Broadway",
-        "tag": "eastbroa",
-        "stopId": "48029"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5930536,
-          39.2856173
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Broadway & Gough St (Inbound)",
-        "tag": "broagoug_ib",
-        "stopId": "48030"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5934864,
-          39.2873238
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lombard St & Central Ave",
-        "tag": "lombcent",
-        "stopId": "48031"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.5991104,
-          39.290228
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lombard St & Albemarle St",
-        "tag": "lombalbe",
-        "stopId": "48032"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6036025,
-          39.2888062
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lombard St & Market Place",
-        "tag": "lombmark",
-        "stopId": "48033"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6074336,
-          39.2878913
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lombard St & Commence St",
-        "tag": "lombcomm",
-        "stopId": "48034"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6096469,
-          39.2877532
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lombard St & Calvert St",
-        "tag": "lombcalv",
-        "stopId": "48035"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6116617,
-          39.2878404
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lombard St & Light St",
-        "tag": "lombligh",
-        "stopId": "48036"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6132361,
-          39.2878014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Regents Drive Garage",
         "tag": "regdrgar_d",
         "stopId": "10003"
@@ -1766,8 +11,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.940772,
-          38.989521
+          -76.9407719,
+          38.9895211
         ]
       }
     },
@@ -1811,8 +56,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9313263,
-          38.9836054
+          -76.9313264,
+          38.9836051
         ]
       }
     },
@@ -1826,8 +71,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9275778,
-          38.9781498
+          -76.9279988,
+          38.9755375
         ]
       }
     },
@@ -1841,8 +86,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9266479,
-          38.978934
+          -76.9266478,
+          38.9789339
         ]
       }
     },
@@ -1856,7 +101,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9309582,
+          -76.930958,
           38.9835717
         ]
       }
@@ -1872,7 +117,7 @@
         "type": "Point",
         "coordinates": [
           -76.9372499,
-          38.9899499
+          38.9899498
         ]
       }
     },
@@ -2681,8 +926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9271071,
-          38.9699561
+          -76.927107,
+          38.969956
         ]
       }
     },
@@ -2696,8 +941,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9301381,
-          38.9718216
+          -76.9301382,
+          38.9718215
         ]
       }
     },
@@ -2713,6 +958,36 @@
         "coordinates": [
           -76.9283283,
           38.9683562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "College Park Academy",
+        "tag": "collpark",
+        "stopId": "31570"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9279223,
+          38.9682907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Division of IT",
+        "tag": "diviofit",
+        "stopId": "31571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9232474,
+          38.9691729
         ]
       }
     },
@@ -2757,314 +1032,14 @@
         "type": "Point",
         "coordinates": [
           -76.9283434,
-          38.9722045
+          38.9722046
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Campus Dr at Lot 3",
-        "tag": "camplot3",
-        "stopId": "34422"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9515395,
-          38.9847421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rhode Island Ave and University Blvd (Outbound)",
-        "tag": "rhoduni",
-        "stopId": "55000"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9248359,
-          39.0009914
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rhode Island Avenue and Cherokee Street (Outbound)",
-        "tag": "rhodcher",
-        "stopId": "27372"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9244471,
-          39.0023874
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rhode Island Ave and Fox St (Outbound)",
-        "tag": "rhodindi",
-        "stopId": "27934"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.92349,
-          39.0059699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rhode Island Avenue and Hollywood Road (Outbound)",
-        "tag": "rhodholl",
-        "stopId": "30366"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9221711,
-          39.0108829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rhode Island Ave and Hollywood Shopping Ctr",
-        "tag": "hollshop",
-        "stopId": "30350"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.921375,
-          39.0138309
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Edgewood Road and Rhode Island Avenue (Outbound)",
-        "tag": "edgerhod",
-        "stopId": "27703"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9214099,
-          39.0161096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Edgewood Road and 49th Avenue (Outbound)",
-        "tag": "edge49th",
-        "stopId": "31691"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9243329,
-          39.016061
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cherry Hill Rd at College Park Marketplace",
-        "tag": "cpmark",
-        "stopId": "36476"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9301971,
-          39.0160182
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Seven Springs Apts at 9348 Cherry Hill Rd",
-        "tag": "cher9348",
-        "stopId": "27800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9393951,
-          39.0169461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Seven Springs Apts at 9310 Cherry Hill Rd",
-        "tag": "ssvill",
-        "stopId": "27420"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9394283,
-          39.0159991
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Seven Springs Apts at 9308 Cherry Hill Rd",
-        "tag": "cher9308",
-        "stopId": "27816"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9376829,
-          39.0178782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cherry Hill Rd and 47th Ave",
-        "tag": "cher47th",
-        "stopId": "36154"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9321727,
-          39.0165878
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Edgewood Rd and 49th Ave (Inbound)",
-        "tag": "edge49th_in",
-        "stopId": "36448"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.924331,
-          39.015949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Edgewood Rd and Rhode Island Ave (Inbound)",
-        "tag": "edgerhod_in",
-        "stopId": "27243"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9211996,
-          39.01597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rhode Island Avenue and Muskogee Street",
-        "tag": "rhodmusk",
-        "stopId": "37324"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9215202,
-          39.0136129
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rhode Island Ave and Hollywood Rd (Inbound)",
-        "tag": "rhodholl_in",
-        "stopId": "30378"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9223553,
-          39.0105519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rhode Island Avenue and Fox Street (Outbound)",
-        "tag": "rhodfox",
-        "stopId": "30983"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9234763,
-          39.0064427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rhode Island Ave and Cherokee St (Inbound)",
-        "tag": "rhodcher_in",
-        "stopId": "30965"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9244616,
-          39.0027034
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rhode Island Ave and University Blvd (Inbound)",
-        "tag": "rhoduni_in",
-        "stopId": "37078"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9252728,
-          38.9997597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stamp Student Union - Lot HH",
+        "title": "Stamp Student Union - Slip",
         "tag": "stamsuhh_d",
         "stopId": "10002"
       },
@@ -3358,21 +1333,6 @@
         "coordinates": [
           -77.0235453,
           38.9959666
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bonifant Street and Dixon Avenue",
-        "tag": "bonidix",
-        "stopId": "27431"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0277056,
-          38.9934477
         ]
       }
     },
@@ -5074,21 +3034,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Division of IT",
-        "tag": "diviofit",
-        "stopId": "31571"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.923247,
-          38.9691629
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "The Universities at Shady Grove",
         "tag": "univshad",
         "stopId": "34777"
@@ -5096,8 +3041,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.199467,
-          39.0917039
+          -77.2018299,
+          39.0934528
         ]
       }
     },
@@ -5854,15 +3799,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Baltimore Ave and Berwyn Rd (Outbound)",
-        "tag": "baltberw_out",
-        "stopId": "30351"
+        "title": "Baltimore Avenue and Tecumseh Street",
+        "tag": "balttecu",
+        "stopId": "55001"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9317454,
-          38.9961091
+          -76.9315668,
+          38.9974284
         ]
       }
     },
@@ -5884,6 +3829,51 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Rhode Island Avenue and Cherokee Street (Outbound)",
+        "tag": "rhodcher",
+        "stopId": "27372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9244429,
+          39.0023911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rhode Island Avenue and Fox Street (Outbound)",
+        "tag": "rhodfox",
+        "stopId": "27934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9235001,
+          39.0059745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rhode Island Avenue and Hollywood Road (Outbound)",
+        "tag": "rhodholl",
+        "stopId": "30366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9221691,
+          39.0108965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Rhode Island Avenue at Hollywood Shopping Center",
         "tag": "rhodshop",
         "stopId": "30350"
@@ -5893,6 +3883,36 @@
         "coordinates": [
           -76.9213841,
           39.0138375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Edgewood Road and Rhode Island Avenue (Outbound)",
+        "tag": "edgerhod",
+        "stopId": "27703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9214156,
+          39.0161019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Edgewood Road and 49th Avenue (Outbound)",
+        "tag": "edge49th",
+        "stopId": "31691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.924355,
+          39.0160649
         ]
       }
     },
@@ -6193,6 +4213,21 @@
         "coordinates": [
           -76.93725,
           38.98995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Baltimore St & Paca St",
+        "tag": "baltpaca",
+        "stopId": "47038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6223289,
+          39.2897837
         ]
       }
     },
@@ -6568,6 +4603,21 @@
         "coordinates": [
           -76.870705,
           38.9902385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ora Glen Drive and Morrison Drive",
+        "tag": "oragmorr",
+        "stopId": "55002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8672934,
+          38.9892076
         ]
       }
     },
@@ -6977,5 +5027,5 @@
       }
     }
   ],
-  "copyright": "All data copyright University of Maryland 2018."
+  "copyright": "All data copyright University of Maryland 2019."
 }

@@ -14,8 +14,8 @@
         -122.33328
       ],
       "stops": {
-        "PIONEER_SQUARE VIA S JACKSON ST": [
-          "11062",
+        "Pioneer Square Via S Jackson St": [
+          "11175",
           "41980",
           "41986",
           "41988",
@@ -26,8 +26,8 @@
           "1651",
           "1551_ar"
         ],
-        "CAPITOL_HILL VIA BROADWAY": [
-          "1552",
+        "Capitol Hill Via Broadway": [
+          "1551",
           "1652",
           "1662",
           "1672",
@@ -41,7 +41,7 @@
       }
     },
     "SLU": {
-      "title": "Stcr SLU",
+      "title": "Strc SLU",
       "color": "992ac5",
       "tag": "SLU",
       "oppositeColor": "ffffff",
@@ -54,16 +54,7 @@
         -122.33857
       ],
       "stops": {
-        "DOWNTOWN_SEATTLE PACIFIC PLACE STATION": [
-          "26700",
-          "26702",
-          "26641",
-          "26645",
-          "26665",
-          "1619",
-          "1630_ar"
-        ],
-        "LAKE_UNION FRED HUTCHISON CANCER CENTER": [
+        "Lake Union Fred Hutchison Cancer Center": [
           "26680",
           "26689",
           "26690",
@@ -71,9 +62,18 @@
           "26698",
           "26701",
           "26705_ar"
+        ],
+        "Downtown Seattle Pacific Place Station": [
+          "26700",
+          "26702",
+          "26641",
+          "26645",
+          "26665",
+          "1619",
+          "1630_ar"
         ]
       }
     }
   },
-  "copyright": "All data copyright Seattle Streetcar 2018."
+  "copyright": "All data copyright Seattle Streetcar 2019."
 }

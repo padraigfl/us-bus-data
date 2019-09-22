@@ -50,7 +50,8 @@
       "type": "Feature",
       "properties": {
         "title": "Wyton South",
-        "tag": "wytnsout"
+        "tag": "wytnsout",
+        "stopId": "52"
       },
       "geometry": {
         "type": "Point",
@@ -254,66 +255,7 @@
           34.0597695
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stein Plaza",
-        "tag": "steinpla",
-        "stopId": "03"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.44522,
-          34.0654599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Parking Structure 2",
-        "tag": "structure2_n",
-        "stopId": "04"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.440219,
-          34.0688628
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Weyburn/Tiverton",
-        "tag": "weybtive"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4430173,
-          34.0622067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Venice/Barry",
-        "tag": "venbarry",
-        "stopId": "19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.42609,
-          34.00795
-        ]
-      }
     }
   ],
-  "copyright": "All data copyright UCLA 2018."
+  "copyright": "All data copyright UCLA 2019."
 }

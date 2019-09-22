@@ -11,38 +11,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.368061,
-          35.605668
+          -77.3680006,
+          35.6057459
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Cotanche & 8th",
-        "tag": "cota8th",
-        "stopId": "21026"
+        "title": "Mendenhall/ West End Bus Terminal",
+        "tag": "mendwend_d",
+        "stopId": "21010"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.371977,
-          35.6078442
+          -77.3703833,
+          35.6081425
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "College Hill Dr & 10th St",
-        "tag": "chil0th",
-        "stopId": "23130"
+        "title": "Christenbury Gym Bus Terminal",
+        "tag": "chrisgym",
+        "stopId": "21005"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.36191,
-          35.6034398
+          -77.3631751,
+          35.6044265
         ]
       }
     },
@@ -56,8 +56,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3634114,
-          35.6010845
+          -77.363437,
+          35.6010859
         ]
       }
     },
@@ -71,8 +71,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3686041,
-          35.592097
+          -77.3686208,
+          35.5920897
         ]
       }
     },
@@ -86,8 +86,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3693792,
-          35.5898861
+          -77.3693749,
+          35.589919
         ]
       }
     },
@@ -101,8 +101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3695339,
-          35.5986783
+          -77.3696329,
+          35.598671
         ]
       }
     },
@@ -116,8 +116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3650151,
-          35.5984911
+          -77.3650192,
+          35.598455
         ]
       }
     },
@@ -131,8 +131,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.363215,
-          35.6011899
+          -77.3632072,
+          35.6011477
         ]
       }
     },
@@ -146,8 +146,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3631892,
-          35.6041998
+          -77.3630888,
+          35.6042109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "West End Bus Terminal",
+        "tag": "westend",
+        "stopId": "21010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.370387,
+          35.6081659
         ]
       }
     },
@@ -161,8 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3794896,
-          35.6123199
+          -77.3794887,
+          35.6123197
         ]
       }
     },
@@ -176,8 +191,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3861767,
-          35.6130095
+          -77.3861758,
+          35.6130093
         ]
       }
     },
@@ -185,7 +200,8 @@
       "type": "Feature",
       "properties": {
         "title": "Brody School of Medicine",
-        "tag": "brod"
+        "tag": "brod",
+        "stopId": "29103"
       },
       "geometry": {
         "type": "Point",
@@ -205,8 +221,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.405489,
-          35.61088
+          -77.4054597,
+          35.6109233
         ]
       }
     },
@@ -220,8 +236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4054509,
-          35.6128089
+          -77.405451,
+          35.612809
         ]
       }
     },
@@ -235,8 +251,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3825213,
-          35.6123401
+          -77.386191,
+          35.612893
         ]
       }
     },
@@ -250,7 +266,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3795267,
+          -77.3795271,
           35.612242
         ]
       }
@@ -265,8 +281,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.36341,
-          35.601087
+          -77.3634092,
+          35.601088
         ]
       }
     },
@@ -325,8 +341,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.384389,
-          35.574505
+          -77.3844869,
+          35.57416
         ]
       }
     },
@@ -378,30 +394,30 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Reade Street & Chico's (Outbound)",
-        "tag": "readchic",
-        "stopId": "23060"
+        "title": "4th & Cotanche",
+        "tag": "4thcota_o",
+        "stopId": "23064"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3714599,
-          35.60978
+          -77.3713971,
+          35.611931
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "GREAT Bus Hub",
+        "title": "Reade Street Bus Terminal",
         "tag": "finhub",
         "stopId": "10005"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.370376,
-          35.6126132
+          -77.3703756,
+          35.6126127
         ]
       }
     },
@@ -415,8 +431,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3702515,
-          35.6139264
+          -77.3702509,
+          35.6139263
         ]
       }
     },
@@ -430,8 +446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3752611,
-          35.615928
+          -77.3752603,
+          35.6159278
         ]
       }
     },
@@ -439,44 +455,44 @@
       "type": "Feature",
       "properties": {
         "title": "Cotanche & 3rd",
-        "tag": "cota4th",
+        "tag": "cota3rd",
         "stopId": "23075"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3713647,
-          35.6133801
+          -77.3713804,
+          35.61324
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "University Book Exchange (UBE)",
-        "tag": "univbook",
-        "stopId": "23080"
+        "title": "4th & Cotanche",
+        "tag": "4thcota_i",
+        "stopId": "23064"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3721499,
-          35.6105802
+          -77.3713982,
+          35.6119304
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Reade Street & Chico's (Inbound)",
-        "tag": "readchic_i",
-        "stopId": "23060"
+        "title": "4th and Reade",
+        "tag": "4threade",
+        "stopId": "23063"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3714597,
-          35.6097801
+          -77.3702647,
+          35.6117241
         ]
       }
     },
@@ -490,8 +506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3675071,
-          35.6094868
+          -77.3675047,
+          35.6094956
         ]
       }
     },
@@ -505,7 +521,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3648083,
+          -77.3648081,
           35.6083933
         ]
       }
@@ -513,30 +529,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Speight",
+        "title": "Speight Bus Terminal",
         "tag": "spei",
         "stopId": "21015"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3612924,
+          -77.3612922,
           35.6067167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Christenbury Gym",
-        "tag": "chrisgym",
-        "stopId": "21005"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3632576,
-          35.6044281
         ]
       }
     },
@@ -655,7 +656,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3567422,
+          -77.3567419,
           35.6030972
         ]
       }
@@ -670,8 +671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3523581,
-          35.6024626
+          -77.3523578,
+          35.6024625
         ]
       }
     },
@@ -685,8 +686,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3507805,
-          35.6023795
+          -77.3507802,
+          35.6023796
         ]
       }
     },
@@ -700,7 +701,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3454115,
+          -77.3454112,
           35.6032013
         ]
       }
@@ -715,8 +716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3376317,
-          35.6016458
+          -77.3376315,
+          35.6016457
         ]
       }
     },
@@ -730,7 +731,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3318989,
+          -77.331899,
           35.59738
         ]
       }
@@ -835,7 +836,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3450087,
+          -77.3450086,
           35.6066214
         ]
       }
@@ -850,23 +851,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3419499,
-          35.6086204
+          -77.3419498,
+          35.6086205
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Riverwalk",
+        "title": "Riverwalk Apartments",
         "tag": "rivrwalk",
         "stopId": "24070"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3433988,
-          35.6093299
+          -77.34314,
+          35.60925
         ]
       }
     },
@@ -881,14 +882,14 @@
         "type": "Point",
         "coordinates": [
           -77.3503898,
-          35.6089563
+          35.6089562
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "The Gables at Wesley South",
+        "title": "The Gables at Brownlea",
         "tag": "gablbrow",
         "stopId": "10040"
       },
@@ -910,8 +911,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.35365,
-          35.6107299
+          -77.3536499,
+          35.61073
         ]
       }
     },
@@ -933,7 +934,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ash Street & Willow Street",
+        "title": "Willow Street & N Ash Street",
         "tag": "ashwill",
         "stopId": "24095"
       },
@@ -948,7 +949,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ash Street & 1st Street",
+        "title": "The District: Club House",
         "tag": "ash1st",
         "stopId": "24100"
       },
@@ -963,7 +964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Oak Street & Willow Street",
+        "title": "N Oak Street & Willow Street",
         "tag": "oakwill",
         "stopId": "24105"
       },
@@ -978,7 +979,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Willow Street & Elm Street",
+        "title": "Willow Street & N Elm Street",
         "tag": "willelm",
         "stopId": "24110"
       },
@@ -1165,8 +1166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3291577,
-          35.596746
+          -77.3291576,
+          35.5967461
         ]
       }
     },
@@ -1210,8 +1211,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3495859,
-          35.5591889
+          -77.34944,
+          35.5590819
         ]
       }
     },
@@ -1308,6 +1309,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Mendenhall / West End Bus Terminal",
+        "tag": "mendwest",
+        "stopId": "21010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.370385,
+          35.60815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "The Bower",
         "tag": "piratplc",
         "stopId": "28010"
@@ -1315,143 +1331,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3707199,
-          35.5997199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hub: Downtown",
-        "tag": "downtown",
-        "stopId": "10005"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3703781,
-          35.6126074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "1st and Summit",
-        "tag": "firstsum",
-        "stopId": "29005"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3659384,
-          35.6138008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "1st and woodlawn",
-        "tag": "firstwoo",
-        "stopId": "29010"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3639233,
-          35.6130081
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "1st and Harding",
-        "tag": "firsthar",
-        "stopId": "29015"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3623578,
-          35.6123469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "1st and Meade",
-        "tag": "firstmea",
-        "stopId": "29020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3592429,
-          35.6114479
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "1st and Oak",
-        "tag": "firstoak",
-        "stopId": "29025"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3566497,
-          35.6108809
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brownlea and Wyndham",
-        "tag": "bronwynd",
-        "stopId": "24080"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.354066,
-          35.6106179
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brownlea and 3rd",
-        "tag": "brow3rd",
-        "stopId": "29030"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3515668,
-          35.6103188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Riverwalk",
-        "tag": "riverwal",
-        "stopId": "24070"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3432894,
-          35.6093028
+          -77.3707535,
+          35.5996871
         ]
       }
     },
@@ -1465,85 +1346,191 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3452236,
-          35.6067376
+          -77.3452274,
+          35.6066728
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "5th and Ash",
-        "tag": "fifthash"
+        "title": "Riverwalk",
+        "tag": "riverwal",
+        "stopId": "24070"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3559328,
-          35.6067049
+          -77.343351,
+          35.6093382
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "5th and Meade",
-        "tag": "fifthmea",
-        "stopId": "29050"
+        "title": "The Gables at Brownlea",
+        "tag": "brow3rd",
+        "stopId": "29030"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3608312,
-          35.6068946
+          -77.3514041,
+          35.6103186
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "5th and Harding",
-        "tag": "fifthhar",
-        "stopId": "29055"
+        "title": "Brownlea and Wyndham",
+        "tag": "bronwynd",
+        "stopId": "24080"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3640972,
-          35.6081997
+          -77.3539777,
+          35.610688
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "5th and Biltmore",
-        "tag": "fifthbil",
-        "stopId": "29060"
+        "title": "The District Clubhouse",
+        "tag": "distclub",
+        "stopId": "24100"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3657222,
-          35.6088746
+          -77.3560382,
+          35.6108042
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "5th and Summit",
-        "tag": "fifthsum",
-        "stopId": "29065"
+        "title": "1st St & Meade St",
+        "tag": "firstmea",
+        "stopId": "29020"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3681782,
-          35.6098816
+          -77.3591914,
+          35.6114802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1st St & Harding St",
+        "tag": "firsthar",
+        "stopId": "29015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3622501,
+          35.612357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1st St & Woodlawn St",
+        "tag": "firstwoo",
+        "stopId": "29010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.363908,
+          35.6130429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1st St & Summit St",
+        "tag": "firstsum",
+        "stopId": "29005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3658841,
+          35.613849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pitt St & 1st St",
+        "tag": "firstpitt",
+        "stopId": "29004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3752064,
+          35.6155932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Landing",
+        "tag": "landing",
+        "stopId": "25045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.355492,
+          35.572974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carolina Creek",
+        "tag": "carocreek",
+        "stopId": "25065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.382062,
+          35.5909059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "West End Bus Terminal",
+        "tag": "westend_o",
+        "stopId": "21010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.370388,
+          35.608163
         ]
       }
     }
   ],
-  "copyright": "All data copyright East Carolina University 2018."
+  "copyright": "All data copyright East Carolina University 2019."
 }

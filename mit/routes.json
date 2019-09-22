@@ -7,21 +7,21 @@
       "oppositeColor": "ffffff",
       "max": [
         42.3601699,
-        -71.0894076
+        -71.089408
       ],
       "min": [
         42.3488099,
-        -71.1007408
+        -71.1007411
       ],
       "stops": {
-        "To_84 Mass Ave": [
-          "commsher",
+        "To 84 Mass Ave": [
+          "commsilb_d",
           "comm478",
           "beacmass",
           "mass77",
           "edge"
         ],
-        "To_Boston": [
+        "To Boston": [
           "mass84_d",
           "massbeac",
           "comm487"
@@ -40,44 +40,15 @@
       ],
       "min": [
         42.361272,
-        -71.0862
+        -71.087995
       ],
       "stops": {
-        "To_Kendall Square": [
+        "To Kendall Square": [
           "charprk"
         ],
-        "To_Charles Park": [
+        "To Charles Park": [
           "kendsq",
           "wadse40"
-        ]
-      }
-    },
-    "northwest": {
-      "title": "Northwest Shuttle",
-      "color": "33cccc",
-      "tag": "northwest",
-      "oppositeColor": "000000",
-      "max": [
-        42.3624099,
-        -71.0843897
-      ],
-      "min": [
-        42.3590333,
-        -71.1023
-      ],
-      "stops": {
-        "To_Kendall Square": [
-          "paci70",
-          "whou",
-          "edge",
-          "vassmass",
-          "statct"
-        ],
-        "to_Northwest Campus": [
-          "kendsq_d",
-          "amhewads",
-          "mass77",
-          "mitmus"
         ]
       }
     },
@@ -87,7 +58,75 @@
       "tag": "tech",
       "oppositeColor": "ffffff",
       "max": [
-        42.362641,
+        42.3626409,
+        -71.0846492
+      ],
+      "min": [
+        42.3541989,
+        -71.106936
+      ],
+      "stops": {
+        "To Kendall Square": [
+          "w98vass",
+          "w92ames",
+          "simmhall",
+          "vassmass",
+          "mainvass"
+        ],
+        "To West Campus": [
+          "amesmain",
+          "kendsq",
+          "wadsamhe",
+          "medilab",
+          "amesamhe",
+          "kres",
+          "burtho",
+          "tangwest"
+        ]
+      }
+    },
+    "saferidesomerville": {
+      "title": "Saferide Somerville",
+      "color": "faf602",
+      "tag": "saferidesomerville",
+      "shortTitle": "SR Somerville",
+      "oppositeColor": "000000",
+      "max": [
+        42.378976,
+        -71.077116
+      ],
+      "min": [
+        42.359272,
+        -71.098872
+      ],
+      "stops": {
+        "To 84 Mass Ave": [
+          "prossom",
+          "someshop",
+          "lammed",
+          "cam6th",
+          "1stotis",
+          "1stchar",
+          "bin3rd",
+          "amesmain",
+          "mass77"
+        ],
+        "To Somerville": [
+          "mass84_d",
+          "browin",
+          "bronor",
+          "proscam"
+        ]
+      }
+    },
+    "saferidecampshut": {
+      "title": "Saferide Campus Shuttle",
+      "color": "a2c93a",
+      "tag": "saferidecampshut",
+      "shortTitle": "SR Camp Shuttle",
+      "oppositeColor": "000000",
+      "max": [
+        42.3631649,
         -71.0846492
       ],
       "min": [
@@ -95,59 +134,28 @@
         -71.1066941
       ],
       "stops": {
-        "To_Kendall Square": [
-          "w92ames",
+        "To Kendall Square": [
           "w98vass",
-          "simmhl",
-          "vassmass",
+          "simmhall",
+          "zcent",
+          "edge",
+          "albapaci",
+          "paci70",
+          "masssydn",
+          "mainwinds",
           "mainvass"
         ],
-        "To_West Campus": [
-          "amesmain",
+        "To 84 Mass Ave": [
           "kendsq",
-          "wadsamhe",
+          "amhewads",
           "medilab",
-          "amesamhe",
-          "kres",
+          "mass77"
+        ],
+        "To West Campus": [
+          "mass84_d",
+          "amhekres",
+          "burthous",
           "tangwest"
-        ]
-      }
-    },
-    "traderjwf": {
-      "title": "Trader Joe's - Whole Foods",
-      "color": "668b8b",
-      "tag": "traderjwf",
-      "shortTitle": "TJs-W Foods",
-      "oppositeColor": "000000",
-      "max": [
-        42.3644554,
-        -71.0843899
-      ],
-      "min": [
-        42.354791,
-        -71.114391
-      ],
-      "stops": {
-        "To_Trader Joe's": [
-          "paci70",
-          "whou",
-          "edge",
-          "kendsq",
-          "wadse40",
-          "medilab",
-          "mccrmk",
-          "kappasgm",
-          "macgreg",
-          "tangwest",
-          "simmhl",
-          "rivfrank",
-          "randhl"
-        ],
-        "To_Whole Foods": [
-          "tradjoe"
-        ],
-        "to_Campus": [
-          "wholfood"
         ]
       }
     },
@@ -158,14 +166,14 @@
       "oppositeColor": "000000",
       "max": [
         42.3631649,
-        -71.084632
+        -71.0846493
       ],
       "min": [
         42.348309,
-        -71.1025997
+        -71.1039919
       ],
       "stops": {
-        "To_Kendall Square": [
+        "To Kendall Square": [
           "simmhall",
           "zcent",
           "edge",
@@ -173,16 +181,16 @@
           "paci70",
           "masssydn",
           "mainwinds",
-          "mainkoch"
+          "mainvass"
         ],
-        "To_Boston": [
+        "To Boston": [
           "mass84",
           "massbeac",
           "massnewb",
           "comm487",
           "silb"
         ],
-        "To_84 Mass Ave": [
+        "To 84 Mass Ave": [
           "kendsq",
           "amhewads",
           "medilab",
@@ -190,7 +198,7 @@
           "comm478",
           "beacmass"
         ],
-        "To_West Campus": [
+        "To West Campus": [
           "mass84_d",
           "amhekres",
           "burthous",
@@ -212,11 +220,11 @@
         -71.1007408
       ],
       "stops": {
-        "To_84 Mass Ave": [
+        "To 84 Mass Ave": [
           "beacmass",
           "mass77"
         ],
-        "To_Boston": [
+        "To Boston": [
           "mass84_d",
           "massbeac",
           "massnewb",
@@ -227,7 +235,7 @@
       }
     },
     "saferidebostonw": {
-      "title": "Saferide Boston West",
+      "title": "Saferide Brookline-Cambridge West",
       "color": "5599cc",
       "tag": "saferidebostonw",
       "oppositeColor": "000000",
@@ -240,7 +248,7 @@
         -71.1238864
       ],
       "stops": {
-        "To_84 Mass Ave": [
+        "To 84 Mass Ave": [
           "manc58",
           "stpaul259",
           "broo350",
@@ -249,7 +257,7 @@
           "broogree",
           "mass84_a"
         ],
-        "To_Brookline": [
+        "To Brookline": [
           "mitmus",
           "adp",
           "pearfrank",
@@ -266,31 +274,32 @@
       "tag": "saferidecamball",
       "oppositeColor": "000000",
       "max": [
-        42.378954,
+        42.3789759,
         -71.077116
       ],
       "min": [
-        42.3465555,
+        42.346556,
         -71.1238864
       ],
       "stops": {
-        "To_Brookline": [
+        "To Brookline": [
           "mass84",
           "mitmus",
           "adp",
           "pearfrank",
           "pearlawr",
           "pearalls",
-          "granbroo"
+          "granbroo",
+          "stpaul"
         ],
-        "To_Somerville": [
+        "To Somerville": [
           "mass84_d",
           "browin",
           "bronor",
           "proscam",
           "prossom"
         ],
-        "To_84 Mass Ave": [
+        "To 84 Mass Ave": [
           "someshop",
           "lammed",
           "cam6th",
@@ -299,13 +308,12 @@
           "bin3rd",
           "amesmain",
           "mass77",
+          "manc58",
+          "stpaul259",
           "broo350",
           "brooputn",
           "brootudo",
           "broogree",
-          "stpaul259",
-          "stpaul",
-          "manc58",
           "mass84_a"
         ]
       }
@@ -324,7 +332,7 @@
         -71.1022784
       ],
       "stops": {
-        "from_Campus": [
+        "from Campus": [
           "mass84_d",
           "nw10",
           "nw30",
@@ -335,7 +343,7 @@
           "camb638",
           "camb5th"
         ],
-        "to_Campus": [
+        "to Campus": [
           "6thcharl",
           "elotmain",
           "amesbld66",
@@ -346,121 +354,6 @@
         ]
       }
     },
-    "saferidecambwest": {
-      "title": "Saferide Cambridge West",
-      "color": "cc66ff",
-      "tag": "saferidecambwest",
-      "oppositeColor": "000000",
-      "max": [
-        42.364801,
-        -71.0843897
-      ],
-      "min": [
-        42.3547905,
-        -71.1124847
-      ],
-      "stops": {
-        "from_Campus": [
-          "mass84_d",
-          "mccrmk",
-          "burtho",
-          "newho",
-          "tangwest",
-          "simmhl",
-          "ww15",
-          "brookchest",
-          "putmag",
-          "rivfair",
-          "rivpleas"
-        ],
-        "to_Campus": [
-          "rivfrank",
-          "sydgreen",
-          "paci70",
-          "whou",
-          "edge",
-          "kendsq",
-          "wadse40",
-          "mass77"
-        ]
-      }
-    },
-    "saferidesomerville": {
-      "title": "Saferide Somerville",
-      "color": "faf602",
-      "tag": "saferidesomerville",
-      "shortTitle": "SR Somerville",
-      "oppositeColor": "000000",
-      "max": [
-        42.378954,
-        -71.077116
-      ],
-      "min": [
-        42.359272,
-        -71.098872
-      ],
-      "stops": {
-        "to_Campus": [
-          "prossom",
-          "someshop",
-          "lammed",
-          "cam6th",
-          "1stotis",
-          "1stchar",
-          "bin3rd",
-          "amesmain"
-        ],
-        "To_84 Mass Ave": [
-          "mass77"
-        ],
-        "from_Campus": [
-          "mass84_d",
-          "browin",
-          "bronor",
-          "proscam"
-        ]
-      }
-    },
-    "saferidecampshut": {
-      "title": "Saferide Campus Shuttle",
-      "color": "ffdab9",
-      "tag": "saferidecampshut",
-      "shortTitle": "SR Camp Shuttle",
-      "oppositeColor": "000000",
-      "max": [
-        42.3631649,
-        -71.0846492
-      ],
-      "min": [
-        42.3543184,
-        -71.1066941
-      ],
-      "stops": {
-        "To_Kendall Square": [
-          "w98vass",
-          "simmhall",
-          "zcent",
-          "edge",
-          "albapaci",
-          "paci70",
-          "masssydn",
-          "mainwinds",
-          "mainkoch"
-        ],
-        "To_84 Mass Ave": [
-          "kendsq",
-          "amhewads",
-          "medilab",
-          "mass77"
-        ],
-        "To_West Campus": [
-          "mass84_d",
-          "amhekres",
-          "burthous",
-          "tangwest"
-        ]
-      }
-    },
     "costtarg": {
       "title": "Costco Target Shuttle",
       "color": "000000",
@@ -468,32 +361,67 @@
       "shortTitle": "Costco Targ Shut",
       "oppositeColor": "ffffff",
       "max": [
-        42.398743,
-        -71.0713849
+        42.3990412,
+        -71.071932
       ],
       "min": [
-        42.35486,
-        -71.10265
+        42.354467,
+        -71.103992
       ],
       "stops": {
-        "To_MIT Campus": [
+        "To MIT Campus": [
           "costco",
           "targ"
         ],
-        "To_Costco": [
+        "To Costco": [
           "masehall",
           "burtconn",
-          "macgreg",
+          "burthous",
           "tangwest",
-          "simmhl",
+          "simmhall",
           "randhmit",
-          "paci70",
+          "nw86pc70",
           "nw30ware",
           "wadse40",
           "medilab"
         ]
       }
+    },
+    "traderjwf": {
+      "title": "Trader Joe's - Whole Foods",
+      "color": "668b8b",
+      "tag": "traderjwf",
+      "shortTitle": "TJs-W Foods",
+      "oppositeColor": "000000",
+      "max": [
+        42.364801,
+        -71.0846499
+      ],
+      "min": [
+        42.354467,
+        -71.1143951
+      ],
+      "stops": {
+        "To Trader Joe's": [
+          "nw86pc70",
+          "nw30ware",
+          "edge",
+          "kendsq",
+          "wadse40",
+          "medilab",
+          "mccrmk",
+          "burthous",
+          "tangwest",
+          "simmhall"
+        ],
+        "NW86/70 Pacific St": [
+          "tradjoe",
+          "wholfood",
+          "rivfrank",
+          "randhl"
+        ]
+      }
     }
   },
-  "copyright": "All data copyright Massachusetts Institute of Technology 2018."
+  "copyright": "All data copyright Massachusetts Institute of Technology 2019."
 }

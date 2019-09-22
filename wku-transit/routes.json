@@ -1,0 +1,27 @@
+{
+  "data": {
+    "ExampleRoute": {
+      "title": "Example Route Test",
+      "color": "ff9900",
+      "tag": "ExampleRoute",
+      "oppositeColor": "000000",
+      "max": [
+        37.7946487,
+        -122.394623
+      ],
+      "min": [
+        37.7626,
+        -122.43459
+      ],
+      "stops": {
+        "Southbound": [
+          "AnotherStop"
+        ],
+        "Northbound": [
+          "ExampleStop"
+        ]
+      }
+    }
+  },
+  "copyright": "All data copyright Western Kentucky University Transit 2019."
+}
