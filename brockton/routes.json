@@ -79,6 +79,11 @@
           "emailamb",
           "emaimemo"
         ]
+      },
+      "scheduledStops": {},
+      "scheduledTimeRange": {
+        "batctr": {},
+        "walmart": {}
       }
     },
     "2": {
@@ -150,6 +155,11 @@
           "maincvs",
           "kmart"
         ]
+      },
+      "scheduledStops": {},
+      "scheduledTimeRange": {
+        "kmart": {},
+        "montscho": {}
       }
     },
     "3": {
@@ -217,6 +227,11 @@
           "commscho",
           "commcent"
         ]
+      },
+      "scheduledStops": {},
+      "scheduledTimeRange": {
+        "batctr": {},
+        "vethosp": {}
       }
     },
     "4": {
@@ -294,6 +309,11 @@
           "oakpine",
           "oakrese"
         ]
+      },
+      "scheduledStops": {},
+      "scheduledTimeRange": {
+        "batctr": {},
+        "goodsamh": {}
       }
     },
     "5": {
@@ -350,6 +370,11 @@
           "centhasa",
           "centedwa"
         ]
+      },
+      "scheduledStops": {},
+      "scheduledTimeRange": {
+        "cresotis": {},
+        "walmart": {}
       }
     },
     "6": {
@@ -406,6 +431,11 @@
           "massplaz",
           "massthat"
         ]
+      },
+      "scheduledStops": {},
+      "scheduledTimeRange": {
+        "batctr": {},
+        "masscsu": {}
       }
     },
     "8": {
@@ -486,6 +516,11 @@
           "eastsout",
           "easthopk"
         ]
+      },
+      "scheduledStops": {},
+      "scheduledTimeRange": {
+        "batctr": {},
+        "eastbuck": {}
       }
     },
     "9": {
@@ -561,6 +596,11 @@
           "wchepear",
           "wchelibe"
         ]
+      },
+      "scheduledStops": {},
+      "scheduledTimeRange": {
+        "110libers": {},
+        "batctr": {}
       }
     },
     "10": {
@@ -657,6 +697,11 @@
           "howachis",
           "449howa"
         ]
+      },
+      "scheduledStops": {},
+      "scheduledTimeRange": {
+        "batctr": {},
+        "howaeise": {}
       }
     },
     "11": {
@@ -732,6 +777,11 @@
           "nmonelli",
           "nmonchar"
         ]
+      },
+      "scheduledStops": {},
+      "scheduledTimeRange": {
+        "batctr": {},
+        "ncaramar": {}
       }
     },
     "12": {
@@ -902,6 +952,51 @@
           "wmaiklon",
           "wmainich"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "batctr",
+          "avonsq_o",
+          "randosq_o",
+          "milthos_o"
+        ],
+        "outbound": [
+          "ashmont",
+          "milthos_i",
+          "randosq_i",
+          "avonsq_i",
+          "batctr_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "ashmont": {
+          "wkd": {
+            "first": "05:00:00",
+            "last": "22:45:00"
+          },
+          "sat": {
+            "first": "05:20:00",
+            "last": "22:05:00"
+          },
+          "sun": {
+            "first": "10:20:00",
+            "last": "17:40:00"
+          }
+        },
+        "batctr": {
+          "wkd": {
+            "first": "05:45:00",
+            "last": "23:30:00"
+          },
+          "sat": {
+            "first": "06:20:00",
+            "last": "22:50:00"
+          },
+          "sun": {
+            "first": "11:20:00",
+            "last": "18:30:00"
+          }
+        }
       }
     },
     "13": {
@@ -967,6 +1062,28 @@
           "unos",
           "searmacy"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "westgate_d",
+          "westgate_a"
+        ],
+        "outbound": [
+          "westgate_d",
+          "westgate_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "09:45:00",
+            "last": "16:30:00"
+          },
+          "sat": {
+            "first": "10:45:00",
+            "last": "17:30:00"
+          }
+        }
       }
     },
     "14": {
@@ -1129,6 +1246,35 @@
           "sharwsto",
           "shar128"
         ]
+      },
+      "scheduledStops": {
+        "outbound": [
+          "batctr",
+          "markbask_d"
+        ]
+      },
+      "scheduledTimeRange": {
+        "batctr": {},
+        "cobbcorn": {
+          "wkd": {
+            "first": "06:50:00",
+            "last": "17:15:00"
+          },
+          "sat": {
+            "first": "06:00:00",
+            "last": "17:00:00"
+          }
+        },
+        "westgate": {
+          "wkd": {
+            "first": "06:40:00",
+            "last": "16:50:00"
+          },
+          "sat": {
+            "first": "06:40:00",
+            "last": "16:45:00"
+          }
+        }
       }
     },
     "4A": {
@@ -1188,6 +1334,11 @@
           "campauto",
           "westdent"
         ]
+      },
+      "scheduledStops": {},
+      "scheduledTimeRange": {
+        "batctr": {},
+        "westdent": {}
       }
     },
     "12expr": {
@@ -1211,6 +1362,21 @@
         "Bat Centre": [
           "ashmont"
         ]
+      },
+      "scheduledStops": {
+        "outbound": [
+          "ashmont",
+          "batctr_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "ashmont": {},
+        "batctr": {
+          "wkd": {
+            "first": "05:45:00",
+            "last": "18:25:00"
+          }
+        }
       }
     },
     "sun56": {
@@ -1269,6 +1435,11 @@
           "centhasa",
           "centedwa"
         ]
+      },
+      "scheduledStops": {},
+      "scheduledTimeRange": {
+        "batctr": {},
+        "walmart": {}
       }
     },
     "sun1011": {
@@ -1358,6 +1529,11 @@
           "nmonelli",
           "nmonchar"
         ]
+      },
+      "scheduledStops": {},
+      "scheduledTimeRange": {
+        "batctr": {},
+        "ncaramar": {}
       }
     },
     "bsu_1": {
@@ -1387,7 +1563,8 @@
           "clocburr",
           "sheacirc"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "bsu_2": {
       "title": "Blue Line",
@@ -1416,7 +1593,8 @@
           "clocktow",
           "shedurg"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "bsu_3": {
       "title": "Gold Line",
@@ -1450,7 +1628,8 @@
           "clocburr",
           "sheacirc"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "bsu_12": {
       "title": "Red Line",
@@ -1482,7 +1661,8 @@
           "clocburr",
           "sheacirc"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "bsu_28": {
       "title": "BSU 28",
@@ -1509,7 +1689,8 @@
           "kingvill_o",
           "cityline_n"
         ]
-      }
+      },
+      "scheduledStops": {}
     }
   },
   "copyright": "All data copyright Brockton Area Transit Authority 2019."

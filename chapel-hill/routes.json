@@ -102,6 +102,45 @@
           "homeseym",
           "oransoci"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "weinseve_d",
+          "colufank",
+          "mannhosp",
+          "hillboli",
+          "homesout_a"
+        ],
+        "outbound": [
+          "homesout",
+          "mlkbgard",
+          "mannunch",
+          "scolrose",
+          "mitccald",
+          "weinseve_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "homesout": {
+          "mtw": {
+            "first": "07:15:00",
+            "last": "18:45:00"
+          },
+          "thfr": {
+            "first": "07:15:00",
+            "last": "18:45:00"
+          }
+        },
+        "weinseve": {
+          "mtw": {
+            "first": "06:26:00",
+            "last": "18:26:00"
+          },
+          "thfr": {
+            "first": "06:26:00",
+            "last": "18:26:00"
+          }
+        }
       }
     },
     "B": {
@@ -132,6 +171,38 @@
           "soutwoll",
           "soutcoun_n"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "soutfetz",
+          "masobait_a"
+        ],
+        "outbound": [
+          "masobait_d",
+          "mannunch"
+        ]
+      },
+      "scheduledTimeRange": {
+        "masobait": {
+          "mtw": {
+            "first": "07:50:00",
+            "last": "18:27:00"
+          },
+          "thfr": {
+            "first": "07:50:00",
+            "last": "18:27:00"
+          }
+        },
+        "soutfetz": {
+          "mtw": {
+            "first": "07:40:00",
+            "last": "18:15:00"
+          },
+          "thfr": {
+            "first": "07:40:00",
+            "last": "18:15:00"
+          }
+        }
       }
     },
     "CCX": {
@@ -170,6 +241,40 @@
           "pittcred",
           "scolwest"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mannhosp",
+          "soutstud",
+          "chatpr_a",
+          "mannunch"
+        ],
+        "outbound": [
+          "chatpr",
+          "soutfetz"
+        ]
+      },
+      "scheduledTimeRange": {
+        "chatpr": {
+          "mtw": {
+            "first": "06:12:00",
+            "last": "19:58:00"
+          },
+          "thfr": {
+            "first": "06:12:00",
+            "last": "19:58:00"
+          }
+        },
+        "tounccampu": {
+          "mtw": {
+            "first": "06:00:00",
+            "last": "19:20:00"
+          },
+          "thfr": {
+            "first": "06:00:00",
+            "last": "19:20:00"
+          }
+        }
       }
     },
     "CL": {
@@ -268,6 +373,48 @@
           "sageerwi_n",
           "colepres"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "eurduck",
+          "standurh_n",
+          "francoffe",
+          "franeste_n",
+          "dobbsumm"
+        ],
+        "outbound": [
+          "colewald",
+          "dobbfoxc",
+          "franeste_s",
+          "franvars",
+          "ejack_a",
+          "eastjack",
+          "colewald_d",
+          "standurh_s",
+          "eurhote"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2colosage": {
+          "mtw": {
+            "first": "07:02:00",
+            "last": "17:59:00"
+          },
+          "thfr": {
+            "first": "07:02:00",
+            "last": "17:59:00"
+          }
+        },
+        "2unc": {
+          "mtw": {
+            "first": "07:10:00",
+            "last": "17:29:00"
+          },
+          "thfr": {
+            "first": "07:10:00",
+            "last": "17:29:00"
+          }
+        }
       }
     },
     "CM": {
@@ -340,6 +487,50 @@
           "bowlkena",
           "bowlsmit_e"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "jonespr_d",
+          "popldomi_n",
+          "nc54domi",
+          "camerobe_e",
+          "pittcred"
+        ],
+        "outbound": [
+          "camerail",
+          "jonespr_a",
+          "fparfami_d"
+        ]
+      },
+      "scheduledTimeRange": {
+        "tofamily": {
+          "mtw": {
+            "first": "06:10:00",
+            "last": "21:20:00"
+          },
+          "sat": {
+            "first": "08:00:00",
+            "last": "18:40:00"
+          },
+          "thfr": {
+            "first": "06:10:00",
+            "last": "21:20:00"
+          }
+        },
+        "tojonesfpr": {
+          "mtw": {
+            "first": "06:40:00",
+            "last": "20:40:00"
+          },
+          "sat": {
+            "first": "08:14:00",
+            "last": "19:07:00"
+          },
+          "thfr": {
+            "first": "06:40:00",
+            "last": "20:40:00"
+          }
+        }
       }
     },
     "CPX": {
@@ -380,6 +571,40 @@
           "coluheal",
           "colucarr"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "pittcred",
+          "autoldf",
+          "oldfnc54_a"
+        ],
+        "outbound": [
+          "oldfnc54",
+          "nc54domi",
+          "coluheal"
+        ]
+      },
+      "scheduledTimeRange": {
+        "tocarrboro": {
+          "mtw": {
+            "first": "06:31:00",
+            "last": "18:48:00"
+          },
+          "thfr": {
+            "first": "06:31:00",
+            "last": "18:48:00"
+          }
+        },
+        "tounccampus": {
+          "mtw": {
+            "first": "06:15:00",
+            "last": "18:26:00"
+          },
+          "thfr": {
+            "first": "06:15:00",
+            "last": "18:26:00"
+          }
+        }
       }
     },
     "CW": {
@@ -466,6 +691,52 @@
           "jonewill_w",
           "ofaypopl_w"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "jonespr_d",
+          "mainjame",
+          "weavcarr",
+          "wfraunib",
+          "pittcred_a"
+        ],
+        "outbound": [
+          "pittcred_d",
+          "wfracarb",
+          "weavweav",
+          "maincarr2",
+          "jonespr_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2pittsboro": {
+          "mtw": {
+            "first": "07:20:00",
+            "last": "20:20:00"
+          },
+          "sat": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          },
+          "thfr": {
+            "first": "07:20:00",
+            "last": "20:20:00"
+          }
+        },
+        "tojonesfpr": {
+          "mtw": {
+            "first": "07:46:00",
+            "last": "20:50:00"
+          },
+          "sat": {
+            "first": "08:24:00",
+            "last": "18:24:00"
+          },
+          "thfr": {
+            "first": "07:46:00",
+            "last": "20:50:00"
+          }
+        }
       }
     },
     "D": {
@@ -553,6 +824,41 @@
           "elakwlak",
           "eastpine"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "oldseast",
+          "colewald_d",
+          "franvars",
+          "mannpark"
+        ],
+        "outbound": [
+          "mannunch_d",
+          "francoffe",
+          "eurduck"
+        ]
+      },
+      "scheduledTimeRange": {
+        "mannunch": {
+          "mtw": {
+            "first": "06:27:00",
+            "last": "20:27:00"
+          },
+          "thfr": {
+            "first": "06:27:00",
+            "last": "20:27:00"
+          }
+        },
+        "oldseast": {
+          "mtw": {
+            "first": "06:55:00",
+            "last": "20:55:00"
+          },
+          "thfr": {
+            "first": "06:55:00",
+            "last": "20:55:00"
+          }
+        }
       }
     },
     "DM": {
@@ -641,6 +947,34 @@
           "elakwlak",
           "oldseast"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "rosegren_d",
+          "francoffe",
+          "univmall_n",
+          "oldsnott_a"
+        ],
+        "outbound": [
+          "oldsnott_d",
+          "univmall_s",
+          "franvars",
+          "rosegren_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2eastowne": {
+          "sat": {
+            "first": "08:30:00",
+            "last": "18:15:00"
+          }
+        },
+        "2greenbrg": {
+          "sat": {
+            "first": "08:00:00",
+            "last": "17:45:00"
+          }
+        }
       }
     },
     "F": {
@@ -766,6 +1100,48 @@
           "hillbari",
           "hilloldf"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mcdomidd_d",
+          "oldftrai",
+          "weavcarr",
+          "francoffe",
+          "univmall_n",
+          "elliburg_n",
+          "coloover_a",
+          "coloover"
+        ],
+        "outbound": [
+          "elliburg_s",
+          "univmall_s",
+          "franvars_a",
+          "franvars",
+          "weavweav",
+          "mcdomidd_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "tocolonywd": {
+          "mtw": {
+            "first": "06:50:00",
+            "last": "21:38:00"
+          },
+          "thfr": {
+            "first": "06:50:00",
+            "last": "21:38:00"
+          }
+        },
+        "tomcdougle": {
+          "mtw": {
+            "first": "07:29:00",
+            "last": "20:54:00"
+          },
+          "thfr": {
+            "first": "07:29:00",
+            "last": "20:54:00"
+          }
+        }
       }
     },
     "FCX": {
@@ -808,6 +1184,26 @@
           "ralebest",
           "firdnc54"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mannunch",
+          "soutfetz",
+          "fridpark_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2friday": {
+          "mtw": {
+            "first": "05:28:00",
+            "last": "20:10:00"
+          },
+          "thfr": {
+            "first": "05:28:00",
+            "last": "20:10:00"
+          }
+        },
+        "2unc": {}
       }
     },
     "FG": {
@@ -897,6 +1293,36 @@
           "franplan_s",
           "franhend"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "franvars_d",
+          "soutwoll",
+          "univmall_n",
+          "elliburg_n",
+          "coloover_a"
+        ],
+        "outbound": [
+          "coloover",
+          "elliburg_s",
+          "univmall_s",
+          "raleglen",
+          "franvars_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "tocolonywd": {
+          "sat": {
+            "first": "08:00:00",
+            "last": "18:30:00"
+          }
+        },
+        "tovarsity": {
+          "sat": {
+            "first": "08:36:00",
+            "last": "17:56:00"
+          }
+        }
       }
     },
     "G": {
@@ -1025,6 +1451,45 @@
           "honebook",
           "booklake"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "univmall_w",
+          "hamirale",
+          "mannunch_e",
+          "scolrose",
+          "bookapar_a"
+        ],
+        "outbound": [
+          "bookapar_d",
+          "curtslak_w",
+          "colufank",
+          "mannunch_w",
+          "hamimaxw1_w",
+          "univmall_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2booker": {
+          "mtw": {
+            "first": "06:23:00",
+            "last": "19:43:00"
+          },
+          "thfr": {
+            "first": "06:23:00",
+            "last": "19:43:00"
+          }
+        },
+        "2univmall": {
+          "mtw": {
+            "first": "07:10:00",
+            "last": "19:50:00"
+          },
+          "thfr": {
+            "first": "07:10:00",
+            "last": "19:50:00"
+          }
+        }
       }
     },
     "HS": {
@@ -1126,6 +1591,44 @@
           "rogepure_n",
           "rogemead_n"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "soutfetz",
+          "homeshum_i",
+          "highcelt",
+          "morrgrove_a"
+        ],
+        "outbound": [
+          "morrgrove_d",
+          "rogepure_s",
+          "chaphigh",
+          "homeshum",
+          "soutstud",
+          "smitbpw"
+        ]
+      },
+      "scheduledTimeRange": {
+        "morrgrove": {
+          "mtw": {
+            "first": "05:58:00",
+            "last": "19:28:00"
+          },
+          "thfr": {
+            "first": "05:58:00",
+            "last": "19:28:00"
+          }
+        },
+        "smitbpw": {
+          "mtw": {
+            "first": "05:15:00",
+            "last": "18:45:00"
+          },
+          "thfr": {
+            "first": "05:15:00",
+            "last": "18:45:00"
+          }
+        }
       }
     },
     "HU": {
@@ -1164,6 +1667,39 @@
           "firdnc54",
           "fridfrid"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mannunch",
+          "ronhou",
+          "hedrickb_a"
+        ],
+        "outbound": [
+          "fridhedr",
+          "ronhou_u"
+        ]
+      },
+      "scheduledTimeRange": {
+        "tohedrick": {
+          "mtw": {
+            "first": "05:39:00",
+            "last": "22:25:00"
+          },
+          "thfr": {
+            "first": "05:39:00",
+            "last": "22:25:00"
+          }
+        },
+        "tounc": {
+          "mtw": {
+            "first": "05:20:00",
+            "last": "22:05:00"
+          },
+          "thfr": {
+            "first": "05:20:00",
+            "last": "22:05:00"
+          }
+        }
       }
     },
     "HX": {
@@ -1209,6 +1745,44 @@
           "masoodum",
           "eastjack"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "maxway_d",
+          "churton_c",
+          "dtcc_c",
+          "colufrank",
+          "unch_a"
+        ],
+        "outbound": [
+          "unch_d",
+          "scolrose",
+          "dtcc_h",
+          "churton_h",
+          "maxway_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2chill": {
+          "mtw": {
+            "first": "06:00:00",
+            "last": "17:25:00"
+          },
+          "thfr": {
+            "first": "06:00:00",
+            "last": "17:25:00"
+          }
+        },
+        "2hillsb": {
+          "mtw": {
+            "first": "06:50:00",
+            "last": "18:15:00"
+          },
+          "thfr": {
+            "first": "06:50:00",
+            "last": "18:15:00"
+          }
+        }
       }
     },
     "J": {
@@ -1288,6 +1862,49 @@
           "carrhs_n",
           "highturn_n"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "rockrock_d",
+          "rockrock_od"
+        ],
+        "outbound": [
+          "nc54king",
+          "coluheal",
+          "wfracari"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2jonesferr": {
+          "mtw": {
+            "first": "06:30:00",
+            "last": "23:00:00"
+          },
+          "thfr": {
+            "first": "06:30:00",
+            "last": "23:00:00"
+          }
+        },
+        "joneabbe": {
+          "mtw": {
+            "first": "06:38:00",
+            "last": "23:11:00"
+          },
+          "thfr": {
+            "first": "06:38:00",
+            "last": "23:11:00"
+          }
+        },
+        "rockrock": {
+          "mtw": {
+            "first": "06:25:00",
+            "last": "23:32:00"
+          },
+          "thfr": {
+            "first": "06:25:00",
+            "last": "23:32:00"
+          }
+        }
       }
     },
     "JFX": {
@@ -1329,6 +1946,40 @@
           "jonewill",
           "ofaypopl_w"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "pittcred",
+          "jonespr_a"
+        ],
+        "outbound": [
+          "jonespr_d",
+          "carrpark_a",
+          "carrpark_d",
+          "coluheal"
+        ]
+      },
+      "scheduledTimeRange": {
+        "tojonesfpr": {
+          "mtw": {
+            "first": "05:45:00",
+            "last": "19:50:00"
+          },
+          "thfr": {
+            "first": "05:45:00",
+            "last": "19:50:00"
+          }
+        },
+        "tounccampu": {
+          "mtw": {
+            "first": "05:30:00",
+            "last": "20:00:00"
+          },
+          "thfr": {
+            "first": "05:30:00",
+            "last": "20:00:00"
+          }
+        }
       }
     },
     "JN": {
@@ -1417,6 +2068,35 @@
           "smitwill_s",
           "rocksmit"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "rockrock_d",
+          "coluheal",
+          "scolrose",
+          "estepark_a"
+        ],
+        "outbound": [
+          "estepark_d",
+          "mitccald_s",
+          "colufank",
+          "pittcred",
+          "rockrock_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2estespark": {
+          "sat": {
+            "first": "08:35:00",
+            "last": "18:35:00"
+          }
+        },
+        "2rockhaven": {
+          "sat": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "N": {
@@ -1487,6 +2167,42 @@
           "bowlkena",
           "bowlsmit_e"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "fparfami_d",
+          "mannunch",
+          "scolrose"
+        ],
+        "outbound": [
+          "estepark",
+          "colufank",
+          "masoambu_n",
+          "fparfami_a",
+          "estepark_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2estespark": {
+          "mtw": {
+            "first": "06:55:00",
+            "last": "18:55:00"
+          },
+          "thfr": {
+            "first": "06:55:00",
+            "last": "18:55:00"
+          }
+        },
+        "tofamily": {
+          "mtw": {
+            "first": "06:25:00",
+            "last": "18:25:00"
+          },
+          "thfr": {
+            "first": "06:25:00",
+            "last": "18:25:00"
+          }
+        }
       }
     },
     "NS": {
@@ -1568,6 +2284,44 @@
           "airpchap_n",
           "eubanort_n"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "soutpark",
+          "mannunch",
+          "scolrose",
+          "mlkbhome",
+          "eubapark_a"
+        ],
+        "outbound": [
+          "eubapark_d",
+          "airpbroo",
+          "colufank",
+          "mannhosp",
+          "soutpark_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "N": {
+          "mtw": {
+            "first": "05:35:00",
+            "last": "22:50:00"
+          },
+          "thfr": {
+            "first": "05:35:00",
+            "last": "22:50:00"
+          }
+        },
+        "S": {
+          "mtw": {
+            "first": "05:30:00",
+            "last": "22:20:00"
+          },
+          "thfr": {
+            "first": "05:30:00",
+            "last": "22:20:00"
+          }
+        }
       }
     },
     "NU": {
@@ -1620,6 +2374,56 @@
           "mannpubl",
           "mannhibb_w"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mannunch_e",
+          "scolrose",
+          "airpmill",
+          "railrlot_a"
+        ],
+        "outbound": [
+          "railrlot_d",
+          "soutstud"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2prlot": {
+          "mtw": {
+            "first": "07:27:00",
+            "last": "22:27:00"
+          },
+          "sat": {
+            "first": "11:50:00",
+            "last": "23:05:00"
+          },
+          "sun": {
+            "first": "11:50:00",
+            "last": "23:05:00"
+          },
+          "thfr": {
+            "first": "07:27:00",
+            "last": "22:27:00"
+          }
+        },
+        "2unchosp": {
+          "mtw": {
+            "first": "07:05:00",
+            "last": "22:05:00"
+          },
+          "sat": {
+            "first": "11:30:00",
+            "last": "22:45:00"
+          },
+          "sun": {
+            "first": "11:30:00",
+            "last": "22:45:00"
+          },
+          "thfr": {
+            "first": "07:05:00",
+            "last": "22:05:00"
+          }
+        }
       }
     },
     "RU": {
@@ -1663,6 +2467,39 @@
           "raleilewi",
           "camenewe"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "fparfami_d",
+          "soutrale"
+        ],
+        "outbound": [
+          "cameswai",
+          "mannhosp",
+          "fparfami_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2cameron": {
+          "mtw": {
+            "first": "07:00:00",
+            "last": "20:00:00"
+          },
+          "thfr": {
+            "first": "07:00:00",
+            "last": "20:00:00"
+          }
+        },
+        "tofamily": {
+          "mtw": {
+            "first": "07:14:00",
+            "last": "20:14:00"
+          },
+          "thfr": {
+            "first": "07:14:00",
+            "last": "20:14:00"
+          }
+        }
       }
     },
     "S": {
@@ -1707,6 +2544,39 @@
           "firdnc54",
           "fridfrid"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mannunch",
+          "soutfetz",
+          "nc54park"
+        ],
+        "outbound": [
+          "nc54park_d",
+          "mannunch_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2nc54": {
+          "mtw": {
+            "first": "06:36:00",
+            "last": "19:23:00"
+          },
+          "thfr": {
+            "first": "06:36:00",
+            "last": "19:23:00"
+          }
+        },
+        "2unc": {
+          "mtw": {
+            "first": "06:20:00",
+            "last": "19:00:00"
+          },
+          "thfr": {
+            "first": "06:20:00",
+            "last": "19:00:00"
+          }
+        }
       }
     },
     "SRG": {
@@ -1763,6 +2633,39 @@
           "franhend",
           "franvars_a"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "franvars_d",
+          "finlfore"
+        ],
+        "outbound": [
+          "harrmead",
+          "glenleno",
+          "franvars_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2meadow": {
+          "sat": {
+            "first": "23:00:00",
+            "last": "02:00:00"
+          },
+          "thfr": {
+            "first": "23:00:00",
+            "last": "02:00:00"
+          }
+        },
+        "tovarsity": {
+          "sat": {
+            "first": "23:15:00",
+            "last": "02:15:00"
+          },
+          "thfr": {
+            "first": "23:15:00",
+            "last": "02:15:00"
+          }
+        }
       }
     },
     "SRJ": {
@@ -1816,6 +2719,26 @@
           "franplan_n",
           "franhend"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "franvars",
+          "rockrock_d",
+          "hightarh_s"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2rockhaven": {
+          "sat": {
+            "first": "23:15:00",
+            "last": "02:15:00"
+          },
+          "thfr": {
+            "first": "23:15:00",
+            "last": "02:15:00"
+          }
+        },
+        "tovarsity": {}
       }
     },
     "SRT": {
@@ -1874,6 +2797,27 @@
           "franhend",
           "franvars_a"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "westtraf_n",
+          "airpbroo",
+          "hillmlkb_s",
+          "franvars_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "tovarsity": {
+          "sat": {
+            "first": "23:15:00",
+            "last": "02:15:00"
+          },
+          "thfr": {
+            "first": "23:15:00",
+            "last": "02:15:00"
+          }
+        },
+        "towestmin": {}
       }
     },
     "T": {
@@ -1958,6 +2902,43 @@
           "masoodum",
           "eastjack"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mannunch",
+          "scolrose",
+          "mlkbhome",
+          "westtraf_n",
+          "eastchap_a"
+        ],
+        "outbound": [
+          "eastchap_d",
+          "westtraf_s",
+          "airpbroo",
+          "colufank"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2echillhs": {
+          "mtw": {
+            "first": "07:23:00",
+            "last": "18:15:00"
+          },
+          "thfr": {
+            "first": "07:23:00",
+            "last": "18:15:00"
+          }
+        },
+        "2unchosp": {
+          "mtw": {
+            "first": "06:50:00",
+            "last": "17:45:00"
+          },
+          "thfr": {
+            "first": "06:50:00",
+            "last": "17:45:00"
+          }
+        }
       }
     },
     "TWkend": {
@@ -2045,6 +3026,34 @@
           "franhend",
           "franvars_a"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "franvars",
+          "weinebarc",
+          "westtraf_n",
+          "eastchap_a"
+        ],
+        "outbound": [
+          "eastchap_d",
+          "westtraf_s",
+          "weinseve_d",
+          "franvars_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2echillhs": {
+          "sat": {
+            "first": "08:30:00",
+            "last": "18:25:00"
+          }
+        },
+        "2unchosp": {
+          "sat": {
+            "first": "08:00:00",
+            "last": "17:50:00"
+          }
+        }
       }
     },
     "U": {
@@ -2085,6 +3094,55 @@
           "scolsitt",
           "scolaber"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "francoffe",
+          "soutstud"
+        ],
+        "outbound": [
+          "bowlflotd_w",
+          "scolheal",
+          "francoffe_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2bowlesdr": {
+          "mtw": {
+            "first": "07:00:00",
+            "last": "19:30:00"
+          },
+          "sat": {
+            "first": "10:30:00",
+            "last": "18:50:00"
+          },
+          "sun": {
+            "first": "10:30:00",
+            "last": "18:50:00"
+          },
+          "thfr": {
+            "first": "07:00:00",
+            "last": "19:30:00"
+          }
+        },
+        "2efranklin": {
+          "mtw": {
+            "first": "07:11:00",
+            "last": "19:41:00"
+          },
+          "sat": {
+            "first": "10:38:00",
+            "last": "18:58:00"
+          },
+          "sun": {
+            "first": "10:38:00",
+            "last": "18:58:00"
+          },
+          "thfr": {
+            "first": "07:11:00",
+            "last": "19:41:00"
+          }
+        }
       }
     },
     "V": {
@@ -2162,6 +3220,43 @@
           "fridnc54",
           "meadvill"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "soutpark_d",
+          "mannunch",
+          "soutfetz",
+          "fridpark",
+          "wbarmead_a"
+        ],
+        "outbound": [
+          "wbarmead",
+          "soutstud",
+          "mannhosp",
+          "soutpark_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2meadow": {
+          "mtw": {
+            "first": "06:59:00",
+            "last": "18:50:00"
+          },
+          "thfr": {
+            "first": "06:59:00",
+            "last": "18:50:00"
+          }
+        },
+        "2southern": {
+          "mtw": {
+            "first": "06:23:00",
+            "last": "19:31:00"
+          },
+          "thfr": {
+            "first": "06:23:00",
+            "last": "19:31:00"
+          }
+        }
       }
     },
     "Vsat": {
@@ -2234,6 +3329,34 @@
           "fridnc54",
           "meadvill"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "soutpark_d",
+          "mannunch",
+          "francoffe",
+          "wbarmead_a"
+        ],
+        "outbound": [
+          "wbarmead",
+          "franvars",
+          "mannhosp",
+          "soutpark_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2meadow": {
+          "sat": {
+            "first": "08:30:00",
+            "last": "17:50:00"
+          }
+        },
+        "2southern": {
+          "sat": {
+            "first": "08:00:00",
+            "last": "18:30:00"
+          }
+        }
       }
     }
   },

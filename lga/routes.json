@@ -20,7 +20,8 @@
           "trmb",
           "stop15"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "purple": {
       "title": "Purple",
@@ -43,7 +44,8 @@
           "102st",
           "mangpark"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "red": {
       "title": "Red",
@@ -68,7 +70,8 @@
           "102nd_o",
           "stop15"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "tx1": {
       "title": "Taxi Shuttle B",
@@ -89,7 +92,8 @@
           "trmb2",
           "pickup"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "tx2": {
       "title": "Taxi Shuttle C",
@@ -110,7 +114,8 @@
           "trmc2",
           "pickup2"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "tx3": {
       "title": "Taxi Shuttle D",
@@ -131,7 +136,8 @@
           "trmd2",
           "pickup2"
         ]
-      }
+      },
+      "scheduledStops": {}
     }
   },
   "copyright": "All data copyright LaGuardia Airport Shuttle 2019."

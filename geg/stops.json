@@ -1,7 +1,11 @@
 {
   "data": {
     "ccon_d": {
-      "routes": {},
+      "routes": {
+        "es": {
+          "": true
+        }
+      },
       "lon": "-117.5380774",
       "title": "Economy C",
       "stopId": "3261",
@@ -9,7 +13,11 @@
       "lat": "47.6247977"
     },
     "abcon": {
-      "routes": {},
+      "routes": {
+        "es": {
+          "": true
+        }
+      },
       "lon": "-117.536934",
       "title": "Economy A/B",
       "stopId": "3262",
@@ -17,7 +25,11 @@
       "lat": "47.626803"
     },
     "econpark": {
-      "routes": {},
+      "routes": {
+        "es": {
+          "": true
+        }
+      },
       "lon": "-117.5346994",
       "title": "Economy Parking Lot",
       "stopId": "3263",
@@ -25,7 +37,11 @@
       "lat": "47.6316458"
     },
     "econpark2": {
-      "routes": {},
+      "routes": {
+        "es": {
+          "": true
+        }
+      },
       "lon": "-117.5397464",
       "title": "Economy Parking Lot",
       "stopId": "3264",

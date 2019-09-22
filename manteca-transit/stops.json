@@ -1,15 +1,120 @@
 {
   "data": {
     "trancent_d": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        },
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        },
+        "4": {
+          "": true
+        }
+      },
       "lon": "-121.214751",
       "title": "Transit Center",
       "stopId": "00",
       "tag": "trancent_d",
-      "lat": "37.794649"
+      "lat": "37.794649",
+      "scheduleRoutes": {
+        "1": {
+          "loop": {
+            "wkd": [
+              "06:00:00",
+              "07:00:00",
+              "08:00:00",
+              "09:00:00",
+              "10:00:00",
+              "11:00:00",
+              "12:00:00",
+              "13:00:00",
+              "14:00:00",
+              "15:00:00",
+              "16:00:00",
+              "17:00:00",
+              "18:00:00"
+            ],
+            "sat": [
+              "09:00:00",
+              "10:00:00",
+              "11:00:00",
+              "12:00:00",
+              "13:00:00",
+              "14:00:00",
+              "15:00:00"
+            ]
+          }
+        },
+        "2": {
+          "loop": {
+            "wkd": [
+              "06:00:00",
+              "07:00:00",
+              "08:00:00",
+              "09:00:00",
+              "10:00:00",
+              "11:00:00",
+              "12:00:00",
+              "13:00:00",
+              "14:00:00",
+              "15:00:00",
+              "16:00:00",
+              "17:00:00",
+              "18:00:00"
+            ],
+            "sat": [
+              "09:00:00",
+              "10:00:00",
+              "11:00:00",
+              "12:00:00",
+              "13:00:00",
+              "14:00:00",
+              "15:00:00"
+            ]
+          }
+        },
+        "3": {
+          "loop": {
+            "wkd": [
+              "06:00:00",
+              "07:00:00",
+              "08:00:00",
+              "09:00:00",
+              "10:00:00",
+              "11:00:00",
+              "12:00:00",
+              "13:00:00",
+              "14:00:00",
+              "15:00:00",
+              "16:00:00",
+              "17:00:00",
+              "18:00:00"
+            ]
+          }
+        },
+        "4": {
+          "loop": {
+            "wkd": [
+              "06:35:00",
+              "07:05:00",
+              "17:05:00",
+              "18:05:00",
+              "19:05:00"
+            ]
+          }
+        }
+      }
     },
     "yosesher": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.2122542",
       "title": "E. Yosemite Ave @ N.Sherman Ave",
       "shortTitle": "E. Yosemite @ N.Sherman",
@@ -18,7 +123,11 @@
       "lat": "37.7973719"
     },
     "yosepowe": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.2042161",
       "title": "E. Yosemite Ave @ Powers Ave",
       "shortTitle": "E. Yosemite @ Powers",
@@ -27,7 +136,11 @@
       "lat": "37.797375"
     },
     "yosespre": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.1995714",
       "title": "E. Yosemite Ave @ Spreckles Ave",
       "shortTitle": "E. Yosemite @ Spreckles",
@@ -36,7 +149,11 @@
       "lat": "37.797366"
     },
     "cottyose": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.1980649",
       "title": "Cottage Ave @ E. Yosemite Ave",
       "shortTitle": "Cottage @ E. Yosemite",
@@ -45,16 +162,54 @@
       "lat": "37.7981393"
     },
     "nortcott": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.1974226",
       "title": "E. North St. @ Cottage Ave",
       "shortTitle": "E. North @ Cottage",
       "stopId": "05",
       "tag": "nortcott",
-      "lat": "37.8010309"
+      "lat": "37.8010309",
+      "scheduleRoutes": {
+        "1": {
+          "loop": {
+            "wkd": [
+              "06:05:00",
+              "07:05:00",
+              "08:05:00",
+              "09:05:00",
+              "10:05:00",
+              "11:05:00",
+              "12:05:00",
+              "13:05:00",
+              "14:05:00",
+              "15:05:00",
+              "16:05:00",
+              "17:05:00",
+              "18:05:00"
+            ],
+            "sat": [
+              "09:05:00",
+              "10:05:00",
+              "11:05:00",
+              "12:05:00",
+              "13:05:00",
+              "14:05:00",
+              "15:05:00"
+            ]
+          }
+        }
+      }
     },
     "nortyose": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.1937669",
       "title": "Northwoods Ave @ E. Yosemite Ave",
       "shortTitle": "Northwoods @ E. Yosemite",
@@ -63,16 +218,54 @@
       "lat": "37.7982067"
     },
     "yosepest": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.1874551",
       "title": "E. Yosemite Ave @ Pestana Ave",
       "shortTitle": "E. Yosemite @ Pestana",
       "stopId": "07",
       "tag": "yosepest",
-      "lat": "37.7974609"
+      "lat": "37.7974609",
+      "scheduleRoutes": {
+        "1": {
+          "loop": {
+            "wkd": [
+              "06:10:00",
+              "07:10:00",
+              "08:10:00",
+              "09:10:00",
+              "10:10:00",
+              "11:10:00",
+              "12:10:00",
+              "13:10:00",
+              "14:10:00",
+              "15:10:00",
+              "16:10:00",
+              "17:10:00",
+              "18:10:00"
+            ],
+            "sat": [
+              "09:10:00",
+              "10:10:00",
+              "11:10:00",
+              "12:10:00",
+              "13:10:00",
+              "14:10:00",
+              "15:10:00"
+            ]
+          }
+        }
+      }
     },
     "vascnant": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.1843859",
       "title": "Vasconcellos Ave @ Nantucket Cir.",
       "shortTitle": "Vasconcellos @ Nantucket Cir.",
@@ -81,7 +274,11 @@
       "lat": "37.8007157"
     },
     "pestnehe": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.189241",
       "title": "Pestana Ave @ Nehemiah Dr.",
       "shortTitle": "Pestana @ Nehemiah Dr.",
@@ -90,7 +287,11 @@
       "lat": "37.8045421"
     },
     "pestpenn": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.1869302",
       "title": "Pestana Ave @ Pennebaker Way",
       "shortTitle": "Pestana @ Pennebaker Way",
@@ -99,16 +300,54 @@
       "lat": "37.8014128"
     },
     "pestyose": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.186781",
       "title": "Pestana Ave @ E. Yosemite Ave",
       "shortTitle": "Pestana @ E. Yosemite",
       "stopId": "11",
       "tag": "pestyose",
-      "lat": "37.7982225"
+      "lat": "37.7982225",
+      "scheduleRoutes": {
+        "1": {
+          "loop": {
+            "wkd": [
+              "06:14:00",
+              "07:14:00",
+              "08:14:00",
+              "09:14:00",
+              "10:14:00",
+              "11:14:00",
+              "12:14:00",
+              "13:14:00",
+              "14:14:00",
+              "15:14:00",
+              "16:14:00",
+              "17:14:00",
+              "18:14:00"
+            ],
+            "sat": [
+              "09:14:00",
+              "10:14:00",
+              "11:14:00",
+              "12:14:00",
+              "13:14:00",
+              "14:14:00",
+              "15:14:00"
+            ]
+          }
+        }
+      }
     },
     "commhist": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.194045",
       "title": "Commerce Ave @ Historical Plaza Way",
       "shortTitle": "Commerce @ Historical Plaza Way",
@@ -117,16 +356,54 @@
       "lat": "37.7951648"
     },
     "sprenorm": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.1978599",
       "title": "Spreckles Ave @ Norman Ave",
       "shortTitle": "Spreckles @ Norman",
       "stopId": "13",
       "tag": "sprenorm",
-      "lat": "37.7946657"
+      "lat": "37.7946657",
+      "scheduleRoutes": {
+        "1": {
+          "loop": {
+            "wkd": [
+              "06:19:00",
+              "07:19:00",
+              "08:19:00",
+              "09:19:00",
+              "10:19:00",
+              "11:19:00",
+              "12:19:00",
+              "13:19:00",
+              "14:19:00",
+              "15:19:00",
+              "16:19:00",
+              "17:19:00",
+              "18:19:00"
+            ],
+            "sat": [
+              "09:19:00",
+              "10:19:00",
+              "11:19:00",
+              "12:19:00",
+              "13:19:00",
+              "14:19:00",
+              "15:19:00"
+            ]
+          }
+        }
+      }
     },
     "yosecott": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.1995387",
       "title": "E. Yosemite Ave @ Cottage Ave",
       "shortTitle": "E. Yosemite @ Cottage",
@@ -135,7 +412,11 @@
       "lat": "37.797521"
     },
     "yosepowe_i": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.205554",
       "title": "E. Yosemite @ Powers Ave",
       "shortTitle": "E. Yosemite @ Powers",
@@ -144,16 +425,54 @@
       "lat": "37.7975099"
     },
     "yosesher_i": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.212597",
       "title": "E. Yosemite Ave @ Sherman Ave",
       "shortTitle": "E. Yosemite @ Sherman",
       "stopId": "16",
       "tag": "yosesher_i",
-      "lat": "37.797468"
+      "lat": "37.797468",
+      "scheduleRoutes": {
+        "1": {
+          "loop": {
+            "wkd": [
+              "06:23:00",
+              "07:23:00",
+              "08:23:00",
+              "09:23:00",
+              "10:23:00",
+              "11:23:00",
+              "12:23:00",
+              "13:23:00",
+              "14:23:00",
+              "15:23:00",
+              "16:23:00",
+              "17:23:00",
+              "18:23:00"
+            ],
+            "sat": [
+              "09:23:00",
+              "10:23:00",
+              "11:23:00",
+              "12:23:00",
+              "13:23:00",
+              "14:23:00",
+              "15:23:00"
+            ]
+          }
+        }
+      }
     },
     "yosewill": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.220828",
       "title": "W. Yosemite Ave @ S. Willow Ave",
       "shortTitle": "W. Yosemite @ S. Willow",
@@ -162,7 +481,14 @@
       "lat": "37.797426"
     },
     "yoseveac": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        },
+        "4": {
+          "": true
+        }
+      },
       "lon": "-121.2245632",
       "title": "W. Yosemite Ave @ N. Veach Ave",
       "shortTitle": "W. Yosemite @ N. Veach",
@@ -171,25 +497,131 @@
       "lat": "37.797419"
     },
     "centmagn": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        },
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.232634",
       "title": "Center St. @ Magnolia Ave",
       "shortTitle": "Center @ Magnolia",
       "stopId": "19",
       "tag": "centmagn",
-      "lat": "37.799174"
+      "lat": "37.799174",
+      "scheduleRoutes": {
+        "1": {
+          "loop": {
+            "wkd": [
+              "06:29:00",
+              "07:29:00",
+              "08:29:00",
+              "09:29:00",
+              "10:29:00",
+              "11:29:00",
+              "12:29:00",
+              "13:29:00",
+              "14:29:00",
+              "15:29:00",
+              "16:29:00",
+              "17:29:00",
+              "18:29:00"
+            ],
+            "sat": [
+              "09:29:00",
+              "10:29:00",
+              "11:29:00",
+              "12:29:00",
+              "13:29:00",
+              "14:29:00",
+              "15:29:00"
+            ]
+          }
+        },
+        "3": {
+          "loop": {
+            "wkd": [
+              "06:29:00",
+              "07:29:00",
+              "08:29:00",
+              "09:29:00",
+              "10:29:00",
+              "11:29:00",
+              "12:29:00",
+              "13:29:00",
+              "14:29:00",
+              "15:29:00",
+              "16:29:00",
+              "17:29:00",
+              "18:29:00"
+            ]
+          }
+        }
+      }
     },
     "yoseunio": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        },
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        },
+        "4": {
+          "": true
+        }
+      },
       "lon": "-121.2373209",
       "title": "W. Yosemite Ave @ Union Rd",
       "shortTitle": "W. Yosemite @ Union",
       "stopId": "20",
       "tag": "yoseunio",
-      "lat": "37.7974449"
+      "lat": "37.7974449",
+      "scheduleRoutes": {
+        "2": {
+          "loop": {
+            "wkd": [
+              "06:32:00",
+              "07:32:00",
+              "08:27:00",
+              "09:27:00",
+              "10:27:00",
+              "11:27:00",
+              "12:27:00",
+              "13:27:00",
+              "14:27:00",
+              "15:27:00",
+              "16:27:00",
+              "17:32:00",
+              "18:32:00"
+            ],
+            "sat": [
+              "09:27:00",
+              "10:27:00",
+              "11:27:00",
+              "12:27:00",
+              "13:27:00",
+              "14:27:00",
+              "15:27:00"
+            ]
+          }
+        }
+      }
     },
     "yosedomi": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        },
+        "4": {
+          "": true
+        }
+      },
       "lon": "-121.244226",
       "title": "W. Yosemite Ave @ St. Dominics Dr.",
       "shortTitle": "W. Yosemite @ Dominics Dr.",
@@ -198,24 +630,167 @@
       "lat": "37.797383"
     },
     "staddani": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        },
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.2576574",
       "title": "Stadium Center @ Daniels St.",
       "shortTitle": "Stadium Center @ Daniels",
       "stopId": "23",
       "tag": "staddani",
-      "lat": "37.7862529"
+      "lat": "37.7862529",
+      "scheduleRoutes": {
+        "1": {
+          "loop": {
+            "wkd": [
+              "08:37:00",
+              "09:37:00",
+              "10:37:00",
+              "11:37:00",
+              "12:37:00",
+              "13:37:00",
+              "14:37:00",
+              "15:37:00",
+              "16:37:00"
+            ],
+            "sat": [
+              "09:37:00",
+              "10:37:00",
+              "11:37:00",
+              "12:37:00",
+              "13:37:00",
+              "14:37:00",
+              "15:37:00"
+            ]
+          }
+        },
+        "2": {
+          "loop": {
+            "wkd": [
+              "06:19:00",
+              "07:19:00",
+              "08:19:00",
+              "09:19:00",
+              "10:19:00",
+              "11:19:00",
+              "12:19:00",
+              "13:19:00",
+              "14:19:00",
+              "15:19:00",
+              "16:19:00",
+              "17:19:00",
+              "18:19:00"
+            ],
+            "sat": [
+              "09:19:00",
+              "10:19:00",
+              "11:19:00",
+              "12:19:00",
+              "13:19:00",
+              "14:19:00",
+              "15:19:00"
+            ]
+          }
+        },
+        "3": {
+          "loop": {
+            "wkd": [
+              "06:42:00",
+              "07:42:00",
+              "08:40:00",
+              "09:40:00",
+              "10:40:00",
+              "11:40:00",
+              "12:40:00",
+              "13:40:00",
+              "14:40:00",
+              "15:40:00",
+              "16:40:00",
+              "17:42:00",
+              "18:42:00"
+            ]
+          }
+        }
+      }
     },
     "mantstat": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        },
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        },
+        "4": {
+          "": true
+        }
+      },
       "lon": "-121.263609",
       "title": "Lathrop/Manteca ACE Station",
       "stopId": "24",
       "tag": "mantstat",
-      "lat": "37.7983129"
+      "lat": "37.7983129",
+      "scheduleRoutes": {
+        "1": {
+          "loop": {
+            "wkd": [
+              "06:37:00",
+              "07:37:00",
+              "17:37:00",
+              "18:37:00"
+            ]
+          }
+        },
+        "2": {
+          "loop": {
+            "wkd": [
+              "06:25:00",
+              "07:25:00",
+              "17:25:00",
+              "18:25:00"
+            ]
+          }
+        },
+        "3": {
+          "loop": {
+            "wkd": [
+              "06:32:00",
+              "07:32:00",
+              "17:32:00",
+              "18:32:00"
+            ]
+          }
+        },
+        "4": {
+          "loop": {
+            "wkd": [
+              "06:50:00",
+              "07:20:00",
+              "17:23:00",
+              "18:23:00",
+              "19:23:00"
+            ]
+          }
+        }
+      }
     },
     "nairdani": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        }
+      },
       "lon": "-121.2520563",
       "title": "Northbound Airport Way @ Daniels",
       "stopId": "25",
@@ -223,7 +798,14 @@
       "lat": "37.7870685"
     },
     "yosewint": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        },
+        "4": {
+          "": true
+        }
+      },
       "lon": "-121.2431221",
       "title": "W. Yosemite Ave @ Winters Dr.",
       "shortTitle": "W. Yosemite @ Winters Dr.",
@@ -232,16 +814,71 @@
       "lat": "37.7972679"
     },
     "yoseunio_i": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        },
+        "4": {
+          "": true
+        }
+      },
       "lon": "-121.2364691",
       "title": "W. Yosemite Ave @ Union Rd",
       "shortTitle": "W. Yosemite @ Union",
       "stopId": "27",
       "tag": "yoseunio_i",
-      "lat": "37.797287"
+      "lat": "37.797287",
+      "scheduleRoutes": {
+        "1": {
+          "loop": {
+            "wkd": [
+              "06:48:00",
+              "07:48:00",
+              "08:48:00",
+              "09:48:00",
+              "10:48:00",
+              "11:48:00",
+              "12:48:00",
+              "13:48:00",
+              "14:48:00",
+              "15:48:00",
+              "16:48:00",
+              "17:48:00",
+              "18:48:00"
+            ],
+            "sat": [
+              "09:48:00",
+              "10:48:00",
+              "11:48:00",
+              "12:48:00",
+              "13:48:00",
+              "14:48:00",
+              "15:48:00"
+            ]
+          }
+        },
+        "4": {
+          "loop": {
+            "wkd": [
+              "06:55:00",
+              "07:25:00",
+              "17:34:00",
+              "18:34:00",
+              "19:34:00"
+            ]
+          }
+        }
+      }
     },
     "yosewaln": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        },
+        "4": {
+          "": true
+        }
+      },
       "lon": "-121.2281601",
       "title": "W. Yosemite Ave @ Walnut Ave",
       "shortTitle": "W. Yosemite @ Walnut",
@@ -250,7 +887,14 @@
       "lat": "37.7973529"
     },
     "yosesequ": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        },
+        "4": {
+          "": true
+        }
+      },
       "lon": "-121.2236248",
       "title": "W. Yosemite Ave @ Sequoia Ave",
       "shortTitle": "W. Yosemite @ Sequoia",
@@ -259,7 +903,14 @@
       "lat": "37.7973489"
     },
     "yosepier": {
-      "routes": {},
+      "routes": {
+        "1": {
+          "": true
+        },
+        "4": {
+          "": true
+        }
+      },
       "lon": "-121.220008",
       "title": "W. Yosemite Ave @ Pierce Ave",
       "shortTitle": "W. Yosemite @ Pierce",
@@ -268,7 +919,14 @@
       "lat": "37.797344"
     },
     "mainwetm": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.216335",
       "title": "S. Main St. @ Wetmore St.",
       "shortTitle": "S. Main @ Wetmore",
@@ -277,24 +935,118 @@
       "lat": "37.7935181"
     },
     "mainmiss": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        }
+      },
       "lon": "-121.2160989",
       "title": "S. Main St. @ Mission Ridge Dr.",
       "shortTitle": "S. Main @ Mission Ridge Dr.",
       "stopId": "84",
       "tag": "mainmiss",
-      "lat": "37.7869182"
+      "lat": "37.7869182",
+      "scheduleRoutes": {
+        "2": {
+          "loop": {
+            "wkd": [
+              "06:04:00",
+              "07:04:00",
+              "08:04:00",
+              "09:04:00",
+              "10:04:00",
+              "11:04:00",
+              "12:04:00",
+              "13:04:00",
+              "14:04:00",
+              "15:04:00",
+              "16:04:00",
+              "17:04:00",
+              "18:04:00"
+            ],
+            "sat": [
+              "09:04:00",
+              "10:04:00",
+              "11:04:00",
+              "12:04:00",
+              "13:04:00",
+              "14:04:00",
+              "15:04:00"
+            ]
+          }
+        }
+      }
     },
     "promshop": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.230448",
       "title": "Promenade @ In Shopping Center",
       "stopId": "31",
       "tag": "promshop",
-      "lat": "37.780069"
+      "lat": "37.780069",
+      "scheduleRoutes": {
+        "2": {
+          "loop": {
+            "wkd": [
+              "06:09:00",
+              "07:09:00",
+              "08:09:00",
+              "09:09:00",
+              "10:09:00",
+              "11:09:00",
+              "12:09:00",
+              "13:09:00",
+              "14:09:00",
+              "15:09:00",
+              "16:09:00",
+              "17:09:00",
+              "18:09:00"
+            ],
+            "sat": [
+              "09:09:00",
+              "10:09:00",
+              "11:09:00",
+              "12:09:00",
+              "13:09:00",
+              "14:09:00",
+              "15:09:00"
+            ]
+          }
+        },
+        "3": {
+          "loop": {
+            "wkd": [
+              "06:50:00",
+              "07:50:00",
+              "08:48:00",
+              "09:48:00",
+              "10:48:00",
+              "11:48:00",
+              "12:48:00",
+              "13:48:00",
+              "14:48:00",
+              "15:48:00",
+              "16:48:00",
+              "17:50:00",
+              "18:50:00"
+            ]
+          }
+        }
+      }
     },
     "daniroya": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        }
+      },
       "lon": "-121.2371768",
       "title": "Daniels St. @ Royalle Pl.",
       "shortTitle": "Daniels @ Royalle Pl.",
@@ -303,7 +1055,11 @@
       "lat": "37.78548"
     },
     "danijunc": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        }
+      },
       "lon": "-121.2452463",
       "title": "Daniels St. @ Junction Dr.",
       "shortTitle": "Daniels @ Junction Dr.",
@@ -312,7 +1068,14 @@
       "lat": "37.7846819"
     },
     "danifish": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.250664",
       "title": "Daniels St. @ Fishback Rd",
       "shortTitle": "Daniels @ Fishback",
@@ -321,7 +1084,11 @@
       "lat": "37.7865699"
     },
     "fishwawo": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        }
+      },
       "lon": "-121.247796",
       "title": "Fishback Rd @ Wawona St.",
       "shortTitle": "Fishback @ Wawona",
@@ -330,7 +1097,11 @@
       "lat": "37.7896837"
     },
     "thomwint": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        }
+      },
       "lon": "-121.2438835",
       "title": "Thomas St. @ Enrico",
       "shortTitle": "Thomas @ Enrico",
@@ -339,7 +1110,11 @@
       "lat": "37.793593"
     },
     "wintwyos": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        }
+      },
       "lon": "-121.2423201",
       "title": "Winters Dr. @ W. Yosemite Ave",
       "shortTitle": "Winters Dr. @ W. Yosemite",
@@ -348,16 +1123,57 @@
       "lat": "37.7960008"
     },
     "cherdavi": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        }
+      },
       "lon": "-121.230975",
       "title": "Cherry Lane @ Davis St.",
       "shortTitle": "Cherry Lane @ Davis",
       "stopId": "40",
       "tag": "cherdavi",
-      "lat": "37.8000097"
+      "lat": "37.8000097",
+      "scheduleRoutes": {
+        "2": {
+          "loop": {
+            "wkd": [
+              "06:36:00",
+              "07:36:00",
+              "08:31:00",
+              "09:31:00",
+              "10:31:00",
+              "11:31:00",
+              "12:31:00",
+              "13:31:00",
+              "14:31:00",
+              "15:31:00",
+              "16:31:00",
+              "17:36:00",
+              "18:36:00"
+            ],
+            "sat": [
+              "09:31:00",
+              "10:31:00",
+              "11:31:00",
+              "12:31:00",
+              "13:31:00",
+              "14:31:00",
+              "15:31:00"
+            ]
+          }
+        }
+      }
     },
     "cherunio": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.2341015",
       "title": "Cherry Lane @ N. Union Rd",
       "shortTitle": "Cherry Lane @ N. Union",
@@ -366,7 +1182,14 @@
       "lat": "37.8046218"
     },
     "unioalam": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.235096",
       "title": "N. Union Rd @ W. Alameda St.",
       "shortTitle": "N. Union @ W. Alameda",
@@ -375,16 +1198,76 @@
       "lat": "37.807577"
     },
     "unioloui": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.2352299",
       "title": "N. Union Rd @ W. Louise Ave",
       "shortTitle": "N. Union @ W. Louise",
       "stopId": "43",
       "tag": "unioloui",
-      "lat": "37.8125548"
+      "lat": "37.8125548",
+      "scheduleRoutes": {
+        "2": {
+          "loop": {
+            "wkd": [
+              "06:38:00",
+              "07:38:00",
+              "08:33:00",
+              "09:33:00",
+              "10:33:00",
+              "11:33:00",
+              "12:33:00",
+              "13:33:00",
+              "14:33:00",
+              "15:33:00",
+              "16:33:00",
+              "17:38:00",
+              "18:38:00"
+            ],
+            "sat": [
+              "09:33:00",
+              "10:33:00",
+              "11:33:00",
+              "12:33:00",
+              "13:33:00",
+              "14:33:00",
+              "15:33:00"
+            ]
+          }
+        },
+        "3": {
+          "loop": {
+            "wkd": [
+              "06:21:00",
+              "07:21:00",
+              "08:21:00",
+              "09:21:00",
+              "10:21:00",
+              "11:21:00",
+              "12:21:00",
+              "13:21:00",
+              "14:21:00",
+              "15:21:00",
+              "16:21:00",
+              "17:21:00",
+              "18:21:00"
+            ]
+          }
+        }
+      }
     },
     "nortchaf": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        }
+      },
       "lon": "-121.2366052",
       "title": "Northgate Dr. @ Chaffin Pl.",
       "stopId": "44",
@@ -392,7 +1275,14 @@
       "lat": "37.8200691"
     },
     "nortlond": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.2436105",
       "title": "Northgate Dr. @ London Ave",
       "shortTitle": "Northgate Dr. @ London",
@@ -401,7 +1291,11 @@
       "lat": "37.82035"
     },
     "londpica": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        }
+      },
       "lon": "-121.2447869",
       "title": "London @ Picadilly Way",
       "stopId": "46",
@@ -409,25 +1303,91 @@
       "lat": "37.821976"
     },
     "uniolath": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.235943",
       "title": "N. Union Rd @ Lathrop Rd",
       "shortTitle": "N. Union @ Lathrop",
       "stopId": "47",
       "tag": "uniolath",
-      "lat": "37.8254296"
+      "lat": "37.8254296",
+      "scheduleRoutes": {
+        "3": {
+          "loop": {
+            "wkd": [
+              "06:14:00",
+              "07:14:00",
+              "08:14:00",
+              "09:14:00",
+              "10:14:00",
+              "11:14:00",
+              "12:14:00",
+              "13:14:00",
+              "14:14:00",
+              "15:14:00",
+              "16:14:00",
+              "17:14:00",
+              "18:14:00"
+            ]
+          }
+        }
+      }
     },
     "nortunio": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        }
+      },
       "lon": "-121.2347471",
       "title": "Northgate Dr. @ N. Union Rd",
       "shortTitle": "Northgate Dr. @ N. Union",
       "stopId": "48",
       "tag": "nortunio",
-      "lat": "37.8198229"
+      "lat": "37.8198229",
+      "scheduleRoutes": {
+        "2": {
+          "loop": {
+            "wkd": [
+              "06:47:00",
+              "07:47:00",
+              "08:42:00",
+              "09:42:00",
+              "10:42:00",
+              "11:42:00",
+              "12:42:00",
+              "13:42:00",
+              "14:42:00",
+              "15:42:00",
+              "16:42:00",
+              "17:47:00",
+              "18:47:00"
+            ],
+            "sat": [
+              "09:42:00",
+              "10:42:00",
+              "11:42:00",
+              "12:42:00",
+              "13:42:00",
+              "14:42:00",
+              "15:42:00"
+            ]
+          }
+        }
+      }
     },
     "nortpaja": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        }
+      },
       "lon": "-121.2279963",
       "title": "Northgate Dr. @ Pajaro Ave",
       "shortTitle": "Northgate Dr. @ Pajaro",
@@ -436,16 +1396,51 @@
       "lat": "37.8192311"
     },
     "eastston": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.2245187",
       "title": "Stonewood  Dr. @ Eastwood Ave.",
       "shortTitle": "Stonewood  Dr. @ Eastwood",
       "stopId": "50",
       "tag": "eastston",
-      "lat": "37.817712"
+      "lat": "37.817712",
+      "scheduleRoutes": {
+        "3": {
+          "loop": {
+            "wkd": [
+              "06:09:00",
+              "07:09:00",
+              "08:09:00",
+              "09:09:00",
+              "10:09:00",
+              "11:09:00",
+              "12:09:00",
+              "13:09:00",
+              "14:09:00",
+              "15:09:00",
+              "16:09:00",
+              "17:09:00",
+              "18:09:00"
+            ]
+          }
+        }
+      }
     },
     "nortcres": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.2214941",
       "title": "Northgate Dr. @ Crestwood Ave",
       "shortTitle": "Northgate Dr. @ Crestwood",
@@ -454,7 +1449,11 @@
       "lat": "37.8190289"
     },
     "maingate": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        }
+      },
       "lon": "-121.217388",
       "title": "N. Main St. @ Northgate Dr.",
       "shortTitle": "N. Main @ Northgate Dr.",
@@ -463,16 +1462,79 @@
       "lat": "37.818111"
     },
     "mainloui": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.217147",
       "title": "N. Main St. @ Louise Ave",
       "shortTitle": "N. Main @ Louise",
       "stopId": "53",
       "tag": "mainloui",
-      "lat": "37.811583"
+      "lat": "37.811583",
+      "scheduleRoutes": {
+        "2": {
+          "loop": {
+            "wkd": [
+              "06:53:00",
+              "07:53:00",
+              "08:48:00",
+              "09:48:00",
+              "10:48:00",
+              "11:48:00",
+              "12:48:00",
+              "13:48:00",
+              "14:48:00",
+              "15:48:00",
+              "16:48:00",
+              "17:53:00",
+              "18:53:00"
+            ],
+            "sat": [
+              "09:48:00",
+              "10:48:00",
+              "11:48:00",
+              "12:48:00",
+              "13:48:00",
+              "14:48:00",
+              "15:48:00"
+            ]
+          }
+        },
+        "3": {
+          "loop": {
+            "wkd": [
+              "06:06:00",
+              "07:06:00",
+              "08:06:00",
+              "09:06:00",
+              "10:06:00",
+              "11:06:00",
+              "12:06:00",
+              "13:06:00",
+              "14:06:00",
+              "15:06:00",
+              "16:06:00",
+              "17:06:00",
+              "18:06:00"
+            ]
+          }
+        }
+      }
     },
     "mainalam": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.216861",
       "title": "N. Main St. @ Alameda St.",
       "shortTitle": "N. Main @ Alameda",
@@ -481,7 +1543,14 @@
       "lat": "37.8050613"
     },
     "mainnort": {
-      "routes": {},
+      "routes": {
+        "2": {
+          "": true
+        },
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.216676",
       "title": "N. Main St. @ North St.",
       "shortTitle": "N. Main @ North",
@@ -490,14 +1559,22 @@
       "lat": "37.800488"
     },
     "boysgirl": {
-      "routes": {},
+      "routes": {
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.2217621",
       "title": "Boys & Girls Club",
       "tag": "boysgirl",
       "lat": "37.8047239"
     },
     "northoyt": {
-      "routes": {},
+      "routes": {
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.228118",
       "title": "Northgate Dr. @ Hoyt Lane",
       "stopId": "61",
@@ -505,7 +1582,11 @@
       "lat": "37.819394"
     },
     "uniohigh": {
-      "routes": {},
+      "routes": {
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.2355649",
       "title": "Northgate Dr. @ N. Union St.",
       "shortTitle": "Northgate Dr. @ N. Union",
@@ -514,7 +1595,11 @@
       "lat": "37.8201669"
     },
     "londcope": {
-      "routes": {},
+      "routes": {
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.2450331",
       "title": "London Ave. @ Copeland Way",
       "shortTitle": "London @ Copeland Way",
@@ -523,7 +1608,11 @@
       "lat": "37.8245654"
     },
     "unionort": {
-      "routes": {},
+      "routes": {
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.2356999",
       "title": "N. Union St @ Sand Castle Way",
       "shortTitle": "N. Union @ Sand Castle Way",
@@ -532,7 +1621,11 @@
       "lat": "37.8193408"
     },
     "chereuca": {
-      "routes": {},
+      "routes": {
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.231063",
       "title": "Cherry Lane @ Davis St.",
       "shortTitle": "Cherry Lane @ Davis",
@@ -541,7 +1634,11 @@
       "lat": "37.8005984"
     },
     "wintyose": {
-      "routes": {},
+      "routes": {
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.242522",
       "title": "Winters Drive @ Yosemite Avenue",
       "shortTitle": "Winters Drive @ Yosemite",
@@ -550,16 +1647,45 @@
       "lat": "37.796066"
     },
     "thomenri": {
-      "routes": {},
+      "routes": {
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.2435704",
       "title": "Thomas St. @ Enrico Lane",
       "shortTitle": "Thomas @ Enrico Lane",
       "stopId": "72",
       "tag": "thomenri",
-      "lat": "37.793715"
+      "lat": "37.793715",
+      "scheduleRoutes": {
+        "3": {
+          "loop": {
+            "wkd": [
+              "06:38:00",
+              "07:38:00",
+              "08:32:00",
+              "09:32:00",
+              "10:32:00",
+              "11:32:00",
+              "12:32:00",
+              "13:32:00",
+              "14:32:00",
+              "15:32:00",
+              "16:32:00",
+              "17:38:00",
+              "18:38:00"
+            ]
+          }
+        }
+      }
     },
     "danilaur": {
-      "routes": {},
+      "routes": {
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.2432729",
       "title": "Daniels St. @ Laurel Park Cir.",
       "shortTitle": "Daniels @ Laurel Park Cir.",
@@ -568,7 +1694,11 @@
       "lat": "37.784615"
     },
     "daniston": {
-      "routes": {},
+      "routes": {
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.239679",
       "title": "Daniels St. @ Stonum Lane",
       "shortTitle": "Daniels @ Stonum Lane",
@@ -577,7 +1707,11 @@
       "lat": "37.7853459"
     },
     "danihunt": {
-      "routes": {},
+      "routes": {
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.2354671",
       "title": "Daniels St @ Hunt Rd",
       "shortTitle": "Daniels @ Hunt",
@@ -586,7 +1720,11 @@
       "lat": "37.7854959"
     },
     "athetinn": {
-      "routes": {},
+      "routes": {
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.2236868",
       "title": "W. Atherton Dr. @ Tinnin Rd",
       "shortTitle": "W. Atherton Dr. @ Tinnin",
@@ -595,13 +1733,38 @@
       "lat": "37.779137"
     },
     "mainpark": {
-      "routes": {},
+      "routes": {
+        "3": {
+          "": true
+        }
+      },
       "lon": "-121.2158739",
       "title": "S. Main St. @ Industrial Park Dr.",
       "shortTitle": "S. Main @ Industrial Park Dr.",
       "stopId": "79",
       "tag": "mainpark",
-      "lat": "37.7880712"
+      "lat": "37.7880712",
+      "scheduleRoutes": {
+        "3": {
+          "loop": {
+            "wkd": [
+              "06:54:00",
+              "07:54:00",
+              "08:53:00",
+              "09:53:00",
+              "10:53:00",
+              "11:53:00",
+              "12:53:00",
+              "13:53:00",
+              "14:53:00",
+              "15:53:00",
+              "16:53:00",
+              "17:54:00",
+              "18:54:00"
+            ]
+          }
+        }
+      }
     }
   },
   "copyright": "All data copyright Manteca Transit 2019."

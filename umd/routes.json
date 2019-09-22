@@ -27,6 +27,48 @@
           "painrhod_in",
           "painglen"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "regdrgar_d"
+        ],
+        "outbound": [
+          "cpmetro_d",
+          "regdrgar_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "cpmetro": {},
+        "regdrgar": {
+          "f": {
+            "first": "05:50:00",
+            "last": "01:40:00"
+          },
+          "mtw": {
+            "first": "05:50:00",
+            "last": "00:20:00"
+          },
+          "sat": {
+            "first": "07:00:00",
+            "last": "01:40:00"
+          },
+          "special": {
+            "first": "06:02:00",
+            "last": "00:20:00"
+          },
+          "special_fri": {
+            "first": "06:02:00",
+            "last": "01:40:00"
+          },
+          "sun": {
+            "first": "07:40:00",
+            "last": "23:40:00"
+          },
+          "th": {
+            "first": "05:50:00",
+            "last": "00:20:00"
+          }
+        }
       }
     },
     "105": {
@@ -73,6 +115,33 @@
           "metzgree",
           "gree_out"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "guilrowa"
+        ],
+        "outbound": [
+          "stamsu_d",
+          "cour500",
+          "stamsu_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "cour500": {},
+        "guilrowa": {
+          "f": {
+            "first": "07:12:00",
+            "last": "17:14:00"
+          },
+          "mtw": {
+            "first": "07:12:00",
+            "last": "17:14:00"
+          },
+          "th": {
+            "first": "07:12:00",
+            "last": "17:14:00"
+          }
+        }
       }
     },
     "108": {
@@ -125,6 +194,32 @@
           "painrege_bus",
           "painstad"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "regegara_d"
+        ],
+        "outbound": [
+          "chateau_r",
+          "regegara_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "chateau": {},
+        "regegara": {
+          "f": {
+            "first": "07:23:00",
+            "last": "21:00:00"
+          },
+          "mtw": {
+            "first": "07:23:00",
+            "last": "22:38:00"
+          },
+          "th": {
+            "first": "07:23:00",
+            "last": "22:38:00"
+          }
+        }
       }
     },
     "109": {
@@ -152,6 +247,40 @@
           "usda",
           "rrmshel"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "cpmetro_d",
+          "acphys_elli",
+          "rayt",
+          "msqua",
+          "usda",
+          "cpmetro_a"
+        ],
+        "outbound": [
+          "cpmetro_d",
+          "acphys_elli",
+          "rayt",
+          "msqua",
+          "usda",
+          "cpmetro_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "f": {
+            "first": "06:00:00",
+            "last": "17:45:00"
+          },
+          "mtw": {
+            "first": "06:00:00",
+            "last": "17:45:00"
+          },
+          "th": {
+            "first": "06:00:00",
+            "last": "17:45:00"
+          }
+        }
       }
     },
     "111": {
@@ -219,6 +348,47 @@
           "stadvtho",
           "regegara_d"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "stamsuhh_d",
+          "merrilock"
+        ],
+        "outbound": [
+          "ssmetro",
+          "univhamp",
+          "stamsuhh_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "ssmetro": {
+          "f": {
+            "first": "06:20:00",
+            "last": "20:50:00"
+          },
+          "mtw": {
+            "first": "06:20:00",
+            "last": "22:15:00"
+          },
+          "th": {
+            "first": "06:20:00",
+            "last": "22:15:00"
+          }
+        },
+        "stamsuhh": {
+          "f": {
+            "first": "07:02:00",
+            "last": "21:27:00"
+          },
+          "mtw": {
+            "first": "07:02:00",
+            "last": "22:42:00"
+          },
+          "th": {
+            "first": "07:02:00",
+            "last": "22:42:00"
+          }
+        }
       }
     },
     "113": {
@@ -274,6 +444,46 @@
           "targ",
           "pgmetro_out"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "regegara_d",
+          "targ"
+        ],
+        "outbound": [
+          "pgcc",
+          "regegara_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "42ndquee": {
+          "f": {
+            "first": "06:55:00",
+            "last": "20:30:00"
+          },
+          "mtw": {
+            "first": "06:55:00",
+            "last": "22:10:00"
+          },
+          "th": {
+            "first": "06:55:00",
+            "last": "22:10:00"
+          }
+        },
+        "regegara": {
+          "f": {
+            "first": "07:30:00",
+            "last": "21:01:00"
+          },
+          "mtw": {
+            "first": "07:30:00",
+            "last": "22:38:00"
+          },
+          "th": {
+            "first": "07:30:00",
+            "last": "22:38:00"
+          }
+        }
       }
     },
     "114": {
@@ -302,6 +512,34 @@
           "baltvars",
           "mcirc"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "stamsuhh_d",
+          "univview",
+          "stamsuhh_a"
+        ],
+        "outbound": [
+          "stamsuhh_d",
+          "univview",
+          "stamsuhh_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "f": {
+            "first": "07:17:00",
+            "last": "17:16:00"
+          },
+          "mtw": {
+            "first": "07:17:00",
+            "last": "17:16:00"
+          },
+          "th": {
+            "first": "07:17:00",
+            "last": "17:16:00"
+          }
+        }
       }
     },
     "115": {
@@ -333,6 +571,42 @@
           "baltritc_s",
           "mcirc_s"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "stamsu_d",
+          "regegara_d",
+          "stamsu_a"
+        ],
+        "outbound": [
+          "stamsu_d",
+          "regegara_d",
+          "stamsu_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "f": {
+            "first": "17:30:00",
+            "last": "02:46:00"
+          },
+          "mtw": {
+            "first": "17:30:00",
+            "last": "02:44:00"
+          },
+          "sat": {
+            "first": "17:30:00",
+            "last": "02:46:00"
+          },
+          "sun": {
+            "first": "17:30:00",
+            "last": "02:44:00"
+          },
+          "th": {
+            "first": "17:30:00",
+            "last": "02:44:00"
+          }
+        }
       }
     },
     "116": {
@@ -377,6 +651,44 @@
           "baltritc_s",
           "mcirc_s"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "stamsuhh_d",
+          "cour500",
+          "regegara_d",
+          "stamsuhh_a"
+        ],
+        "outbound": [
+          "stamsuhh_d",
+          "cour500",
+          "regegara_d",
+          "stamsuhh_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "f": {
+            "first": "17:25:00",
+            "last": "02:36:00"
+          },
+          "mtw": {
+            "first": "17:25:00",
+            "last": "02:36:00"
+          },
+          "sat": {
+            "first": "10:05:00",
+            "last": "02:36:00"
+          },
+          "sun": {
+            "first": "10:05:00",
+            "last": "02:36:00"
+          },
+          "th": {
+            "first": "17:25:00",
+            "last": "02:36:00"
+          }
+        }
       }
     },
     "117": {
@@ -407,6 +719,42 @@
           "varsity",
           "mcirc"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "stamsuhh_d",
+          "univclub",
+          "stamsuhh_a"
+        ],
+        "outbound": [
+          "stamsuhh_d",
+          "univclub",
+          "stamsuhh_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "f": {
+            "first": "17:30:00",
+            "last": "02:46:00"
+          },
+          "mtw": {
+            "first": "17:30:00",
+            "last": "02:47:00"
+          },
+          "sat": {
+            "first": "09:59:00",
+            "last": "02:46:00"
+          },
+          "sun": {
+            "first": "09:59:00",
+            "last": "02:47:00"
+          },
+          "th": {
+            "first": "17:30:00",
+            "last": "02:47:00"
+          }
+        }
       }
     },
     "118": {
@@ -454,6 +802,44 @@
           "regefarm_in",
           "regegara_d"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "stamsu_d",
+          "tula3424",
+          "4315rwlt",
+          "stamsu_a"
+        ],
+        "outbound": [
+          "stamsu_d",
+          "tula3424",
+          "4315rwlt",
+          "stamsu_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "f": {
+            "first": "17:35:00",
+            "last": "02:25:00"
+          },
+          "mtw": {
+            "first": "17:35:00",
+            "last": "02:25:00"
+          },
+          "sat": {
+            "first": "10:08:00",
+            "last": "03:01:00"
+          },
+          "sun": {
+            "first": "10:08:00",
+            "last": "03:01:00"
+          },
+          "th": {
+            "first": "17:35:00",
+            "last": "02:25:00"
+          }
+        }
       }
     },
     "122": {
@@ -503,6 +889,46 @@
           "camb",
           "regegara_d"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "stamsu_m",
+          "leoncomm_out",
+          "stamsu_a"
+        ],
+        "outbound": [
+          "stamsu_m",
+          "leoncomm_out",
+          "stamsu_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "f": {
+            "first": "17:25:00",
+            "last": "02:32:00"
+          },
+          "mtw": {
+            "first": "17:25:00",
+            "last": "02:36:00"
+          },
+          "sat": {
+            "first": "10:05:00",
+            "last": "02:32:00"
+          },
+          "special": {
+            "first": "09:53:00",
+            "last": "17:07:00"
+          },
+          "sun": {
+            "first": "09:53:00",
+            "last": "02:36:00"
+          },
+          "th": {
+            "first": "17:25:00",
+            "last": "02:36:00"
+          }
+        }
       }
     },
     "123": {
@@ -524,6 +950,34 @@
           "regegara_d",
           "diviofit"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "regegara_d",
+          "diviofit",
+          "regegara_a"
+        ],
+        "outbound": [
+          "regegara_d",
+          "diviofit",
+          "regegara_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "f": {
+            "first": "07:30:00",
+            "last": "17:16:00"
+          },
+          "mtw": {
+            "first": "07:30:00",
+            "last": "17:16:00"
+          },
+          "th": {
+            "first": "07:30:00",
+            "last": "17:16:00"
+          }
+        }
       }
     },
     "124": {
@@ -545,6 +999,32 @@
           "stamsu_d",
           "univshad"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "stamsu_a"
+        ],
+        "outbound": [
+          "stamsu_d",
+          "univshad"
+        ]
+      },
+      "scheduledTimeRange": {
+        "stamsu": {},
+        "univshad": {
+          "mtw": {
+            "first": "06:50:00",
+            "last": "20:25:00"
+          },
+          "special": {
+            "first": "06:50:00",
+            "last": "09:25:00"
+          },
+          "th": {
+            "first": "06:50:00",
+            "last": "20:25:00"
+          }
+        }
       }
     },
     "126": {
@@ -622,6 +1102,33 @@
           "memo_in",
           "mitc_in"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "stamsuhh_d"
+        ],
+        "outbound": [
+          "ncarmetr",
+          "auburive",
+          "stamsuhh_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "ncarmetr": {},
+        "stamsu": {
+          "f": {
+            "first": "07:08:00",
+            "last": "20:31:00"
+          },
+          "mtw": {
+            "first": "07:08:00",
+            "last": "22:46:00"
+          },
+          "th": {
+            "first": "07:08:00",
+            "last": "22:46:00"
+          }
+        }
       }
     },
     "127": {
@@ -660,6 +1167,32 @@
           "edge49th",
           "mazz"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "regegara_d",
+          "mazz"
+        ],
+        "outbound": [
+          "regegara_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "mazz": {
+          "f": {
+            "first": "06:45:00",
+            "last": "20:59:00"
+          },
+          "mtw": {
+            "first": "06:45:00",
+            "last": "22:05:00"
+          },
+          "th": {
+            "first": "06:45:00",
+            "last": "22:05:00"
+          }
+        },
+        "regegara": {}
       }
     },
     "128": {
@@ -690,6 +1223,32 @@
           "dent_e",
           "enclave_s"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "stamsuhh_d",
+          "enclave_s"
+        ],
+        "outbound": [
+          "stamsuhh_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "enclave": {
+          "f": {
+            "first": "07:20:00",
+            "last": "20:50:00"
+          },
+          "mtw": {
+            "first": "07:20:00",
+            "last": "22:30:00"
+          },
+          "th": {
+            "first": "07:20:00",
+            "last": "22:30:00"
+          }
+        },
+        "stamsu": {}
       }
     },
     "131": {
@@ -735,6 +1294,54 @@
           "edge49th",
           "mazz"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "stamsuhh_d",
+          "mazz"
+        ],
+        "outbound": [
+          "enclave_s",
+          "stamsuhh_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "mazz": {
+          "f": {
+            "first": "21:25:00",
+            "last": "00:25:00"
+          },
+          "mtw": {
+            "first": "22:55:00",
+            "last": "00:25:00"
+          },
+          "sat": {
+            "first": "17:32:00",
+            "last": "02:41:00"
+          },
+          "th": {
+            "first": "22:55:00",
+            "last": "00:25:00"
+          }
+        },
+        "stamsu": {
+          "f": {
+            "first": "22:00:00",
+            "last": "01:00:00"
+          },
+          "mtw": {
+            "first": "23:30:00",
+            "last": "01:00:00"
+          },
+          "sat": {
+            "first": "18:06:00",
+            "last": "03:13:00"
+          },
+          "th": {
+            "first": "23:30:00",
+            "last": "01:00:00"
+          }
+        }
       }
     },
     "132": {
@@ -763,6 +1370,34 @@
           "baltvars",
           "mcirc"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "stamsuhh_d",
+          "univclub",
+          "stamsuhh_a"
+        ],
+        "outbound": [
+          "stamsuhh_d",
+          "univclub",
+          "stamsuhh_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "f": {
+            "first": "07:12:00",
+            "last": "17:02:00"
+          },
+          "mtw": {
+            "first": "07:12:00",
+            "last": "17:02:00"
+          },
+          "th": {
+            "first": "07:12:00",
+            "last": "17:02:00"
+          }
+        }
       }
     },
     "133": {
@@ -820,6 +1455,24 @@
           "tolebelc",
           "targ"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "regegara_a"
+        ],
+        "outbound": [
+          "regegara_d",
+          "targ"
+        ]
+      },
+      "scheduledTimeRange": {
+        "regegara": {},
+        "targ": {
+          "sat": {
+            "first": "10:00:00",
+            "last": "22:00:00"
+          }
+        }
       }
     },
     "140": {
@@ -844,6 +1497,28 @@
         "Stamp Student Union": [
           "painglen_ib"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "stamsuhh_d",
+          "baltpaca"
+        ],
+        "outbound": [
+          "stamsuhh_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "balt": {
+          "mtw": {
+            "first": "15:00:00",
+            "last": "21:10:00"
+          },
+          "th": {
+            "first": "15:00:00",
+            "last": "21:10:00"
+          }
+        },
+        "stamsu": {}
       }
     },
     "141": {
@@ -867,6 +1542,32 @@
         "Stamp Student Union": [
           "wdiapknr_d"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "wdiapknr_d",
+          "stamsu_a"
+        ],
+        "outbound": [
+          "stamsu_d"
+        ]
+      },
+      "scheduledTimeRange": {
+        "stamsu": {
+          "f": {
+            "first": "06:45:00",
+            "last": "21:25:00"
+          },
+          "mtw": {
+            "first": "06:45:00",
+            "last": "22:55:00"
+          },
+          "th": {
+            "first": "06:45:00",
+            "last": "22:55:00"
+          }
+        },
+        "wdiapknr": {}
       }
     },
     "142": {
@@ -889,6 +1590,32 @@
         "Broken Land Park & Ride East Lot": [
           "regegara_d"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "regegara_d"
+        ],
+        "outbound": [
+          "brokride",
+          "regegara_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "brokride": {},
+        "regegara": {
+          "f": {
+            "first": "07:00:00",
+            "last": "19:15:00"
+          },
+          "mtw": {
+            "first": "07:00:00",
+            "last": "19:15:00"
+          },
+          "th": {
+            "first": "07:00:00",
+            "last": "19:15:00"
+          }
+        }
       }
     },
     "143": {
@@ -965,6 +1692,47 @@
           "hanoelea_ib",
           "hanogree_ib"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "regegara_d",
+          "westpark_ob",
+          "mandgoak_d"
+        ],
+        "outbound": [
+          "westpark_ib",
+          "regegara_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "greegree_ob": {
+          "f": {
+            "first": "06:05:00",
+            "last": "20:30:00"
+          },
+          "mtw": {
+            "first": "06:05:00",
+            "last": "22:05:00"
+          },
+          "th": {
+            "first": "06:05:00",
+            "last": "22:05:00"
+          }
+        },
+        "regegara": {
+          "f": {
+            "first": "07:18:00",
+            "last": "21:41:00"
+          },
+          "mtw": {
+            "first": "07:18:00",
+            "last": "23:11:00"
+          },
+          "th": {
+            "first": "07:18:00",
+            "last": "23:11:00"
+          }
+        }
       }
     },
     "bse": {
@@ -987,6 +1755,40 @@
         "Enclave": [
           "bowiuniv"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "enclave"
+        ],
+        "outbound": [
+          "bowiuniv",
+          "enclave_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "bowiuniv": {},
+        "enclave": {
+          "f": {
+            "first": "07:45:00",
+            "last": "22:15:00"
+          },
+          "mtw": {
+            "first": "07:45:00",
+            "last": "22:15:00"
+          },
+          "sat": {
+            "first": "08:45:00",
+            "last": "18:05:00"
+          },
+          "sun": {
+            "first": "08:45:00",
+            "last": "18:05:00"
+          },
+          "th": {
+            "first": "07:45:00",
+            "last": "22:15:00"
+          }
+        }
       }
     }
   },

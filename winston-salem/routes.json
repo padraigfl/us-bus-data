@@ -77,6 +77,46 @@
           "47201",
           "47685_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "47685",
+          "10231_ar"
+        ],
+        "outbound": [
+          "10231",
+          "47685_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Hanes Mall": {
+          "MoTuWeThFr": {
+            "first": "08:00:00",
+            "last": "20:30:00"
+          },
+          "Saturday": {
+            "first": "08:00:00",
+            "last": "20:30:00"
+          },
+          "Sunday": {
+            "first": "10:00:00",
+            "last": "17:30:00"
+          }
+        },
+        "Union Station": {
+          "MoTuWeThFr": {
+            "first": "08:45:00",
+            "last": "21:15:00"
+          },
+          "Saturday": {
+            "first": "08:45:00",
+            "last": "21:15:00"
+          },
+          "Sunday": {
+            "first": "10:45:00",
+            "last": "18:15:00"
+          }
+        }
       }
     },
     "1857": {
@@ -162,6 +202,46 @@
           "47444",
           "47507_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "47507",
+          "13713_ar"
+        ],
+        "outbound": [
+          "13713",
+          "47507_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Walmart At Peters Creek Parkway": {
+          "MoTuWeThFr": {
+            "first": "06:30:00",
+            "last": "23:30:00"
+          },
+          "Saturday": {
+            "first": "07:30:00",
+            "last": "23:30:00"
+          },
+          "Sunday": {
+            "first": "07:30:00",
+            "last": "18:30:00"
+          }
+        },
+        "Waughtown Street & Broadbay Drive": {
+          "MoTuWeThFr": {
+            "first": "07:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "08:00:00",
+            "last": "23:00:00"
+          },
+          "Sunday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "1858": {
@@ -196,6 +276,30 @@
           "47454",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "10224_ar"
+        ],
+        "outbound": [
+          "10224",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Empire Drive & Westpoint Boulevard": {
+          "MoTuWeThFr": {
+            "first": "06:30:00",
+            "last": "16:30:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "07:00:00",
+            "last": "17:00:00"
+          }
+        }
       }
     },
     "1859": {
@@ -263,6 +367,46 @@
           "47463",
           "47747_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "47747",
+          "10154_ar"
+        ],
+        "outbound": [
+          "10154",
+          "47747_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "06:25:00",
+            "last": "23:25:00"
+          },
+          "Saturday": {
+            "first": "07:25:00",
+            "last": "23:25:00"
+          },
+          "Sunday": {
+            "first": "07:25:00",
+            "last": "18:25:00"
+          }
+        },
+        "Westgate Center Drive & Hanes Mall Boulevard": {
+          "MoTuWeThFr": {
+            "first": "06:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "23:00:00"
+          },
+          "Sunday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "1860": {
@@ -322,6 +466,46 @@
           "47496",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "47487_ar"
+        ],
+        "outbound": [
+          "47487",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Marta Road & Teague Road": {
+          "MoTuWeThFr": {
+            "first": "06:30:00",
+            "last": "23:30:00"
+          },
+          "Saturday": {
+            "first": "07:30:00",
+            "last": "23:30:00"
+          },
+          "Sunday": {
+            "first": "07:30:00",
+            "last": "18:30:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "06:00:00",
+            "last": "00:00:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "00:00:00"
+          },
+          "Sunday": {
+            "first": "08:00:00",
+            "last": "19:00:00"
+          }
+        }
       }
     },
     "1861": {
@@ -410,6 +594,46 @@
           "47508",
           "47507_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "47507",
+          "10154_ar"
+        ],
+        "outbound": [
+          "10154",
+          "47507_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "05:25:00",
+            "last": "23:25:00"
+          },
+          "Saturday": {
+            "first": "07:25:00",
+            "last": "23:25:00"
+          },
+          "Sunday": {
+            "first": "07:25:00",
+            "last": "18:25:00"
+          }
+        },
+        "Waughtown Street & Broadbay Drive": {
+          "MoTuWeThFr": {
+            "first": "06:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "08:00:00",
+            "last": "23:00:00"
+          },
+          "Sunday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "1862": {
@@ -468,6 +692,46 @@
           "13477",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "47265",
+          "10154_ar"
+        ],
+        "outbound": [
+          "10154",
+          "47265_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "06:25:00",
+            "last": "23:25:00"
+          },
+          "Saturday": {
+            "first": "07:25:00",
+            "last": "23:25:00"
+          },
+          "Sunday": {
+            "first": "07:25:00",
+            "last": "18:25:00"
+          }
+        },
+        "University Parkway  & Goodwill Shelter": {
+          "MoTuWeThFr": {
+            "first": "06:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "23:00:00"
+          },
+          "Sunday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "1863": {
@@ -543,6 +807,46 @@
           "47918",
           "10231_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "10231_ar"
+        ],
+        "outbound": [
+          "10231",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Hanes Mall": {
+          "MoTuWeThFr": {
+            "first": "06:15:00",
+            "last": "23:15:00"
+          },
+          "Saturday": {
+            "first": "07:15:00",
+            "last": "23:15:00"
+          },
+          "Sunday": {
+            "first": "08:15:00",
+            "last": "18:15:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "06:42:00",
+            "last": "23:42:00"
+          },
+          "Saturday": {
+            "first": "07:42:00",
+            "last": "23:42:00"
+          },
+          "Sunday": {
+            "first": "07:42:00",
+            "last": "18:42:00"
+          }
+        }
       }
     },
     "1864": {
@@ -626,6 +930,46 @@
           "47587",
           "47487_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "47580",
+          "47487_ar"
+        ],
+        "outbound": [
+          "47487",
+          "47580_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Marta Road & Teague Road": {
+          "MoTuWeThFr": {
+            "first": "06:27:00",
+            "last": "23:27:00"
+          },
+          "Saturday": {
+            "first": "07:27:00",
+            "last": "23:27:00"
+          },
+          "Sunday": {
+            "first": "07:27:00",
+            "last": "18:27:00"
+          }
+        },
+        "Plaza Hollow Apartments": {
+          "MoTuWeThFr": {
+            "first": "06:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "23:00:00"
+          },
+          "Sunday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "1865": {
@@ -720,6 +1064,38 @@
           "10553",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "47620_ar"
+        ],
+        "outbound": [
+          "47620",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Reynolda Road & Shattalon Drive": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "23:15:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "23:15:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "06:20:00",
+            "last": "23:50:00"
+          },
+          "Saturday": {
+            "first": "07:35:00",
+            "last": "23:50:00"
+          }
+        }
       }
     },
     "1866": {
@@ -763,6 +1139,30 @@
           "47185",
           "47635_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "47635_ar"
+        ],
+        "outbound": [
+          "47635",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Lowery Street Facility": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "16:45:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "06:00:00",
+            "last": "16:30:00"
+          }
+        }
       }
     },
     "1867": {
@@ -829,6 +1229,46 @@
           "13720",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "10231_ar"
+        ],
+        "outbound": [
+          "10231",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Hanes Mall": {
+          "MoTuWeThFr": {
+            "first": "06:15:00",
+            "last": "23:45:00"
+          },
+          "Saturday": {
+            "first": "07:45:00",
+            "last": "23:45:00"
+          },
+          "Sunday": {
+            "first": "08:30:00",
+            "last": "18:30:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "06:40:00",
+            "last": "00:10:00"
+          },
+          "Saturday": {
+            "first": "08:10:00",
+            "last": "00:10:00"
+          },
+          "Sunday": {
+            "first": "07:55:00",
+            "last": "18:55:00"
+          }
+        }
       }
     },
     "1868": {
@@ -867,6 +1307,38 @@
           "47896",
           "47652_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "47652",
+          "10231_ar"
+        ],
+        "outbound": [
+          "10231",
+          "47652_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Hanes Mall": {
+          "MoTuWeThFr": {
+            "first": "06:30:00",
+            "last": "23:30:00"
+          },
+          "Saturday": {
+            "first": "07:30:00",
+            "last": "23:30:00"
+          }
+        },
+        "Kester Mill Walmart": {
+          "MoTuWeThFr": {
+            "first": "06:15:00",
+            "last": "23:15:00"
+          },
+          "Saturday": {
+            "first": "07:15:00",
+            "last": "23:15:00"
+          }
+        }
       }
     },
     "1869": {
@@ -900,6 +1372,38 @@
           "47804",
           "10231_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10231",
+          "47804_ar"
+        ],
+        "outbound": [
+          "47804",
+          "10231_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Burke Mill & Burke Plaza Court": {
+          "MoTuWeThFr": {
+            "first": "07:45:00",
+            "last": "22:45:00"
+          },
+          "Saturday": {
+            "first": "07:45:00",
+            "last": "22:45:00"
+          }
+        },
+        "Hanes Mall": {
+          "MoTuWeThFr": {
+            "first": "07:01:00",
+            "last": "23:01:00"
+          },
+          "Saturday": {
+            "first": "08:01:00",
+            "last": "23:01:00"
+          }
+        }
       }
     },
     "1870": {
@@ -958,6 +1462,46 @@
           "13716",
           "13713_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "13713",
+          "10154_ar"
+        ],
+        "outbound": [
+          "10154",
+          "13713_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "06:25:00",
+            "last": "23:25:00"
+          },
+          "Saturday": {
+            "first": "08:25:00",
+            "last": "23:25:00"
+          },
+          "Sunday": {
+            "first": "07:25:00",
+            "last": "18:25:00"
+          }
+        },
+        "Walmart At Peters Creek Parkway": {
+          "MoTuWeThFr": {
+            "first": "06:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "08:00:00",
+            "last": "23:00:00"
+          },
+          "Sunday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "1871": {
@@ -1014,6 +1558,38 @@
           "13720",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "10231_ar"
+        ],
+        "outbound": [
+          "10231",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Hanes Mall": {
+          "MoTuWeThFr": {
+            "first": "06:30:00",
+            "last": "23:30:00"
+          },
+          "Saturday": {
+            "first": "08:30:00",
+            "last": "23:30:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "06:55:00",
+            "last": "22:55:00"
+          },
+          "Saturday": {
+            "first": "08:55:00",
+            "last": "22:55:00"
+          }
+        }
       }
     },
     "1872": {
@@ -1078,6 +1654,38 @@
           "10803",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "13175_ar"
+        ],
+        "outbound": [
+          "13175",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Salem Crest Apartments": {
+          "MoTuWeThFr": {
+            "first": "05:30:00",
+            "last": "23:30:00"
+          },
+          "Saturday": {
+            "first": "08:30:00",
+            "last": "23:30:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "05:55:00",
+            "last": "22:55:00"
+          },
+          "Saturday": {
+            "first": "08:55:00",
+            "last": "23:55:00"
+          }
+        }
       }
     },
     "1873": {
@@ -1138,6 +1746,46 @@
           "13730",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "47686_ar"
+        ],
+        "outbound": [
+          "47686",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Louise Road & Thomasville Road": {
+          "MoTuWeThFr": {
+            "first": "06:30:00",
+            "last": "23:30:00"
+          },
+          "Saturday": {
+            "first": "07:30:00",
+            "last": "23:30:00"
+          },
+          "Sunday": {
+            "first": "08:30:00",
+            "last": "18:30:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "05:55:00",
+            "last": "22:55:00"
+          },
+          "Saturday": {
+            "first": "06:55:00",
+            "last": "22:55:00"
+          },
+          "Sunday": {
+            "first": "07:55:00",
+            "last": "17:55:00"
+          }
+        }
       }
     },
     "1874": {
@@ -1220,6 +1868,46 @@
           "13730",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "10134_ar"
+        ],
+        "outbound": [
+          "10134",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Hanes Mill Road & K&w": {
+          "MoTuWeThFr": {
+            "first": "06:15:00",
+            "last": "18:00:00"
+          },
+          "Saturday": {
+            "first": "08:00:00",
+            "last": "23:00:00"
+          },
+          "Sunday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "05:34:00",
+            "last": "18:34:00"
+          },
+          "Saturday": {
+            "first": "07:25:00",
+            "last": "23:25:00"
+          },
+          "Sunday": {
+            "first": "07:25:00",
+            "last": "18:25:00"
+          }
+        }
       }
     },
     "1875": {
@@ -1281,6 +1969,30 @@
           "47744",
           "47249_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "47249_ar"
+        ],
+        "outbound": [
+          "47249",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Industries for the Blind": {
+          "MoTuWeThFr": {
+            "first": "06:30:00",
+            "last": "18:30:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "05:55:00",
+            "last": "17:55:00"
+          }
+        }
       }
     },
     "1876": {
@@ -1342,6 +2054,46 @@
           "47283",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "47253_ar"
+        ],
+        "outbound": [
+          "47253",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Sturmer Park": {
+          "MoTuWeThFr": {
+            "first": "06:30:00",
+            "last": "23:30:00"
+          },
+          "Saturday": {
+            "first": "08:30:00",
+            "last": "23:30:00"
+          },
+          "Sunday": {
+            "first": "07:30:00",
+            "last": "18:30:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "06:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "08:00:00",
+            "last": "23:00:00"
+          },
+          "Sunday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "1877": {
@@ -1404,6 +2156,46 @@
           "10553",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "47833",
+          "10154_ar"
+        ],
+        "outbound": [
+          "10154",
+          "47833_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "05:55:00",
+            "last": "22:55:00"
+          },
+          "Saturday": {
+            "first": "06:55:00",
+            "last": "22:55:00"
+          },
+          "Sunday": {
+            "first": "07:55:00",
+            "last": "17:55:00"
+          }
+        },
+        "Wake Forest University": {
+          "MoTuWeThFr": {
+            "first": "05:30:00",
+            "last": "23:30:00"
+          },
+          "Saturday": {
+            "first": "06:30:00",
+            "last": "23:30:00"
+          },
+          "Sunday": {
+            "first": "07:30:00",
+            "last": "18:30:00"
+          }
+        }
       }
     },
     "1878": {
@@ -1473,6 +2265,38 @@
           "10979",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "47253_ar"
+        ],
+        "outbound": [
+          "47253",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Sturmer Park": {
+          "MoTuWeThFr": {
+            "first": "06:30:00",
+            "last": "23:30:00"
+          },
+          "Saturday": {
+            "first": "07:30:00",
+            "last": "23:30:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "06:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "23:00:00"
+          }
+        }
       }
     },
     "1879": {
@@ -1551,6 +2375,38 @@
           "11488",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "47393_ar"
+        ],
+        "outbound": [
+          "47393",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Oak Summit Avenue & Old Rural Hall Road": {
+          "MoTuWeThFr": {
+            "first": "06:30:00",
+            "last": "23:30:00"
+          },
+          "Saturday": {
+            "first": "07:30:00",
+            "last": "23:30:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "05:55:00",
+            "last": "22:55:00"
+          },
+          "Saturday": {
+            "first": "06:55:00",
+            "last": "22:55:00"
+          }
+        }
       }
     },
     "1880": {
@@ -1615,6 +2471,46 @@
           "13730",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "47523_ar"
+        ],
+        "outbound": [
+          "47523",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Attucks Street & Bowen Boulevard": {
+          "MoTuWeThFr": {
+            "first": "07:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "23:00:00"
+          },
+          "Sunday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "06:25:00",
+            "last": "23:25:00"
+          },
+          "Saturday": {
+            "first": "06:25:00",
+            "last": "23:25:00"
+          },
+          "Sunday": {
+            "first": "07:25:00",
+            "last": "18:25:00"
+          }
+        }
       }
     },
     "1881": {
@@ -1689,6 +2585,46 @@
           "13730",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "13637_ar"
+        ],
+        "outbound": [
+          "13637",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East Forsyth High School": {
+          "MoTuWeThFr": {
+            "first": "06:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "08:00:00",
+            "last": "23:00:00"
+          },
+          "Sunday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "05:25:00",
+            "last": "23:25:00"
+          },
+          "Saturday": {
+            "first": "07:25:00",
+            "last": "23:25:00"
+          },
+          "Sunday": {
+            "first": "07:25:00",
+            "last": "18:25:00"
+          }
+        }
       }
     },
     "1882": {
@@ -1768,6 +2704,30 @@
           "10180",
           "47317_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "47317",
+          "10154_ar"
+        ],
+        "outbound": [
+          "10154",
+          "47317_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "06:10:00",
+            "last": "18:40:00"
+          }
+        },
+        "Vinegar Hill Road & Briarhurst Road": {
+          "MoTuWeThFr": {
+            "first": "06:15:00",
+            "last": "18:15:00"
+          }
+        }
       }
     },
     "1883": {
@@ -1858,6 +2818,46 @@
           "13730",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "12942_ar"
+        ],
+        "outbound": [
+          "12942",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Oak Ridge Drive & Butterfield Drive": {
+          "MoTuWeThFr": {
+            "first": "06:15:00",
+            "last": "23:15:00"
+          },
+          "Saturday": {
+            "first": "07:15:00",
+            "last": "23:15:00"
+          },
+          "Sunday": {
+            "first": "07:30:00",
+            "last": "18:30:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "05:40:00",
+            "last": "22:40:00"
+          },
+          "Saturday": {
+            "first": "06:40:00",
+            "last": "22:40:00"
+          },
+          "Sunday": {
+            "first": "07:55:00",
+            "last": "17:55:00"
+          }
+        }
       }
     },
     "1884": {
@@ -1913,6 +2913,38 @@
           "12507",
           "13710_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10137",
+          "13710_ar"
+        ],
+        "outbound": [
+          "47358",
+          "10137_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Shattalon Drive & Bethabra Road": {
+          "MoTuWeThFr": {
+            "first": "06:45:00",
+            "last": "22:45:00"
+          },
+          "Saturday": {
+            "first": "07:45:00",
+            "last": "22:45:00"
+          }
+        },
+        "Walmart Hanes Mill Road": {
+          "MoTuWeThFr": {
+            "first": "07:20:00",
+            "last": "23:20:00"
+          },
+          "Saturday": {
+            "first": "07:20:00",
+            "last": "23:20:00"
+          }
+        }
       }
     },
     "1885": {
@@ -1992,6 +3024,30 @@
           "13730",
           "10154_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "10154",
+          "12942_ar"
+        ],
+        "outbound": [
+          "12942",
+          "10154_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Oak Ridge Drive & Butterfield Drive": {
+          "MoTuWeThFr": {
+            "first": "06:45:00",
+            "last": "18:45:00"
+          }
+        },
+        "Transit Center": {
+          "MoTuWeThFr": {
+            "first": "06:10:00",
+            "last": "18:10:00"
+          }
+        }
       }
     },
     "1886": {
@@ -2053,6 +3109,30 @@
           "46973",
           "47253_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "47253",
+          "47164_ar"
+        ],
+        "outbound": [
+          "47164",
+          "47253_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Forsyth Tech Main Campus": {
+          "MoTuWeThFr": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        },
+        "Sturmer Park": {
+          "MoTuWeThFr": {
+            "first": "07:25:00",
+            "last": "18:25:00"
+          }
+        }
       }
     },
     "41976": {
@@ -2098,6 +3178,30 @@
           "47150",
           "13713_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "13713",
+          "47930_ar"
+        ],
+        "outbound": [
+          "47930",
+          "13713_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "7th Street & Research Parkway": {
+          "MoTuWeThFr": {
+            "first": "06:55:00",
+            "last": "23:55:00"
+          }
+        },
+        "Peters Creek Walmart": {
+          "MoTuWeThFr": {
+            "first": "07:20:00",
+            "last": "23:20:00"
+          }
+        }
       }
     }
   },

@@ -134,6 +134,68 @@
           "5012",
           "8017_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "8012",
+          "2761",
+          "2840",
+          "3241",
+          "3200",
+          "3185_ar"
+        ],
+        "outbound": [
+          "8012",
+          "2761",
+          "2840",
+          "3241",
+          "4900",
+          "3173_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "A - To Airport": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "00:00:00"
+          },
+          "Saturday": {
+            "first": "05:30:00",
+            "last": "00:15:00"
+          },
+          "Sunday": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          }
+        },
+        "B - To Fscj North": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "23:00:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "22:00:00"
+          }
+        },
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:10:00",
+            "last": "22:58:00"
+          },
+          "Saturday": {
+            "first": "04:35:00",
+            "last": "23:15:00"
+          },
+          "Sunday": {
+            "first": "04:55:00",
+            "last": "21:04:00"
+          }
+        }
       }
     },
     "3": {
@@ -295,6 +357,67 @@
           "5012",
           "8018_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "8011",
+          "2787",
+          "3968",
+          "3569_ar"
+        ],
+        "outbound": [
+          "8011",
+          "2787",
+          "3968",
+          "4135",
+          "4173",
+          "3099",
+          "5158_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "A - To Amtrak": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "00:00:00"
+          },
+          "Saturday": {
+            "first": "06:15:00",
+            "last": "00:15:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "22:00:00"
+          }
+        },
+        "B - To Dunn Ave.": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "06:45:00",
+            "last": "22:45:00"
+          },
+          "Sunday": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          }
+        },
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:37:00",
+            "last": "23:09:00"
+          },
+          "Saturday": {
+            "first": "05:50:00",
+            "last": "22:52:00"
+          },
+          "Sunday": {
+            "first": "04:50:00",
+            "last": "21:20:00"
+          }
+        }
       }
     },
     "4": {
@@ -443,6 +566,56 @@
           "4131",
           "5212_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "8008",
+          "3619",
+          "3879",
+          "3616",
+          "5212_ar"
+        ],
+        "outbound": [
+          "8008",
+          "3619",
+          "3750_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "A - To Soutel": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "00:00:00"
+          },
+          "Saturday": {
+            "first": "05:50:00",
+            "last": "00:00:00"
+          },
+          "Sunday": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          }
+        },
+        "B - To Edward Waters College": {
+          "MoTuWeThFr": {
+            "first": "06:25:00",
+            "last": "17:25:00"
+          }
+        },
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:22:00",
+            "last": "23:16:00"
+          },
+          "Saturday": {
+            "first": "05:21:00",
+            "last": "23:16:00"
+          },
+          "Sunday": {
+            "first": "05:06:00",
+            "last": "20:16:00"
+          }
+        }
       }
     },
     "5": {
@@ -638,6 +811,69 @@
           "1730",
           "8018_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "8018",
+          "1650",
+          "1875",
+          "2091",
+          "2456",
+          "2500",
+          "2514_ar"
+        ],
+        "outbound": [
+          "8018",
+          "1650",
+          "1875",
+          "2091",
+          "2456",
+          "5169_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "A - To Orange Park Mall": {
+          "MoTuWeThFr": {
+            "first": "04:05:00",
+            "last": "00:00:00"
+          },
+          "Saturday": {
+            "first": "06:25:00",
+            "last": "23:25:00"
+          },
+          "Sunday": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          }
+        },
+        "B - To 103rd St.": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "06:55:00",
+            "last": "22:55:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "22:00:00"
+          }
+        },
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:00:00",
+            "last": "22:45:00"
+          },
+          "Saturday": {
+            "first": "04:58:00",
+            "last": "22:58:00"
+          },
+          "Sunday": {
+            "first": "04:43:00",
+            "last": "20:59:00"
+          }
+        }
       }
     },
     "8": {
@@ -870,6 +1106,84 @@
           "4857",
           "0342_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "0342",
+          "0480",
+          "0500",
+          "0862",
+          "0885",
+          "1559",
+          "8008_ar"
+        ],
+        "outbound": [
+          "8001",
+          "1561",
+          "0886",
+          "0856",
+          "0501",
+          "0484",
+          "0342_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "A - To Town Center/Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:11:00",
+            "last": "22:51:00"
+          },
+          "Saturday": {
+            "first": "05:05:00",
+            "last": "22:56:00"
+          },
+          "Sunday": {
+            "first": "04:41:00",
+            "last": "19:13:00"
+          }
+        },
+        "A - To Town Center/Unf": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "22:59:00"
+          },
+          "Saturday": {
+            "first": "06:20:00",
+            "last": "22:20:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "22:00:00"
+          }
+        },
+        "B - To Fscj South/Downtown": {
+          "MoTuWeThFr": {
+            "first": "05:27:00",
+            "last": "22:05:00"
+          },
+          "Saturday": {
+            "first": "05:45:00",
+            "last": "22:29:00"
+          },
+          "Sunday": {
+            "first": "05:58:00",
+            "last": "20:56:00"
+          }
+        },
+        "B - To Fscj South/Unf": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "23:59:00"
+          },
+          "Saturday": {
+            "first": "05:50:00",
+            "last": "23:35:00"
+          },
+          "Sunday": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          }
+        }
       }
     },
     "10": {
@@ -1017,6 +1331,64 @@
           "4702",
           "4703_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "8017",
+          "0723",
+          "0406",
+          "0280",
+          "4865_ar"
+        ],
+        "outbound": [
+          "8017",
+          "0723",
+          "0406",
+          "0280",
+          "4932",
+          "0172",
+          "4703_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "A - To Atlantic Village": {
+          "MoTuWeThFr": {
+            "first": "06:20:00",
+            "last": "17:20:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        },
+        "B - To South Beach": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "00:00:00"
+          },
+          "Saturday": {
+            "first": "05:50:00",
+            "last": "00:10:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "22:00:00"
+          }
+        },
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:02:00",
+            "last": "23:52:00"
+          },
+          "Saturday": {
+            "first": "04:14:00",
+            "last": "23:55:00"
+          },
+          "Sunday": {
+            "first": "05:50:00",
+            "last": "20:33:00"
+          }
+        }
       }
     },
     "11": {
@@ -1097,6 +1469,50 @@
           "1730",
           "8006_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "2709",
+          "2724",
+          "1626",
+          "8016_ar"
+        ],
+        "outbound": [
+          "8010",
+          "1627",
+          "2725",
+          "2709_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "05:17:00",
+            "last": "22:22:00"
+          },
+          "Saturday": {
+            "first": "05:47:00",
+            "last": "21:37:00"
+          },
+          "Sunday": {
+            "first": "06:35:00",
+            "last": "21:35:00"
+          }
+        },
+        "To Phoenix Ave.": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "06:20:00",
+            "last": "23:00:00"
+          },
+          "Sunday": {
+            "first": "07:05:00",
+            "last": "22:05:00"
+          }
+        }
       }
     },
     "12": {
@@ -1197,6 +1613,52 @@
           "3083",
           "5220_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "5220",
+          "2950",
+          "3785",
+          "3354",
+          "8002_ar"
+        ],
+        "outbound": [
+          "8009",
+          "5193",
+          "3784",
+          "2950",
+          "5220_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:28:00",
+            "last": "23:08:00"
+          },
+          "Saturday": {
+            "first": "05:03:00",
+            "last": "22:53:00"
+          },
+          "Sunday": {
+            "first": "06:19:00",
+            "last": "21:19:00"
+          }
+        },
+        "To Soutel": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "00:00:00"
+          },
+          "Saturday": {
+            "first": "06:20:00",
+            "last": "00:05:00"
+          },
+          "Sunday": {
+            "first": "07:05:00",
+            "last": "22:00:00"
+          }
+        }
       }
     },
     "13": {
@@ -1355,6 +1817,54 @@
           "1747",
           "8009_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "8002",
+          "3423",
+          "3406",
+          "2294",
+          "2396",
+          "2472_ar"
+        ],
+        "outbound": [
+          "2472",
+          "2397",
+          "2293",
+          "3407",
+          "3424",
+          "8009_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To 103rd Wal-Mart": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "00:00:00"
+          },
+          "Saturday": {
+            "first": "05:35:00",
+            "last": "00:10:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "22:00:00"
+          }
+        },
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:15:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "04:53:00",
+            "last": "23:13:00"
+          },
+          "Sunday": {
+            "first": "06:02:00",
+            "last": "21:02:00"
+          }
+        }
       }
     },
     "14": {
@@ -1460,6 +1970,52 @@
           "1730",
           "8010_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "2295",
+          "2177",
+          "3251",
+          "1652",
+          "8010_ar"
+        ],
+        "outbound": [
+          "8016",
+          "1650",
+          "3254",
+          "2176",
+          "2295_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "05:04:00",
+            "last": "22:21:00"
+          },
+          "Saturday": {
+            "first": "05:32:00",
+            "last": "21:37:00"
+          },
+          "Sunday": {
+            "first": "06:17:00",
+            "last": "21:17:00"
+          }
+        },
+        "To Normandy Wal-Mart": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "05:50:00",
+            "last": "23:45:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "22:00:00"
+          }
+        }
       }
     },
     "15": {
@@ -1597,6 +2153,69 @@
           "2649",
           "2648_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "2662",
+          "2663",
+          "2648",
+          "2291",
+          "2177",
+          "1652",
+          "8014_ar"
+        ],
+        "outbound": [
+          "8017",
+          "1650",
+          "2176",
+          "2289",
+          "2663",
+          "2648_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:13:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "04:34:00",
+            "last": "23:21:00"
+          },
+          "Sunday": {
+            "first": "05:01:00",
+            "last": "19:58:00"
+          }
+        },
+        "To Fouraker Rd.": {
+          "MoTuWeThFr": {
+            "first": "00:00:00",
+            "last": "20:45:00"
+          },
+          "Saturday": {
+            "first": "00:20:00",
+            "last": "17:35:00"
+          },
+          "Sunday": {
+            "first": "15:55:00",
+            "last": "21:00:00"
+          }
+        },
+        "To Herlong Rd.": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "22:00:00"
+          },
+          "Saturday": {
+            "first": "05:40:00",
+            "last": "22:25:00"
+          },
+          "Sunday": {
+            "first": "06:00:00",
+            "last": "18:55:00"
+          }
+        }
       }
     },
     "16": {
@@ -1749,6 +2368,52 @@
           "1724",
           "8003_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "8003",
+          "1879",
+          "1967",
+          "2344",
+          "2629_ar"
+        ],
+        "outbound": [
+          "5169",
+          "2335",
+          "2230",
+          "1800",
+          "8003_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To 103rd St.": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "22:00:00"
+          },
+          "Saturday": {
+            "first": "06:50:00",
+            "last": "22:50:00"
+          },
+          "Sunday": {
+            "first": "07:22:00",
+            "last": "21:22:00"
+          }
+        },
+        "To Downtown/Rosa Parks": {
+          "MoTuWeThFr": {
+            "first": "04:49:00",
+            "last": "21:09:00"
+          },
+          "Saturday": {
+            "first": "05:49:00",
+            "last": "21:49:00"
+          },
+          "Sunday": {
+            "first": "06:24:00",
+            "last": "20:24:00"
+          }
+        }
       }
     },
     "17": {
@@ -1887,6 +2552,52 @@
           "1724",
           "8017_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1451",
+          "1481",
+          "1405",
+          "1134",
+          "8002_ar"
+        ],
+        "outbound": [
+          "8005",
+          "1131",
+          "1404",
+          "1480",
+          "1451_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:50:00",
+            "last": "21:58:00"
+          },
+          "Saturday": {
+            "first": "05:50:00",
+            "last": "21:50:00"
+          },
+          "Sunday": {
+            "first": "05:05:00",
+            "last": "20:05:00"
+          }
+        },
+        "To Marbon Park & Ride": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "06:45:00",
+            "last": "22:45:00"
+          },
+          "Sunday": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          }
+        }
       }
     },
     "18": {
@@ -2017,6 +2728,55 @@
           "1730",
           "8018_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "0241",
+          "4904",
+          "4185",
+          "0406",
+          "0784",
+          "0811",
+          "8011_ar"
+        ],
+        "outbound": [
+          "8013",
+          "0812",
+          "4909",
+          "0406",
+          "0409",
+          "4904_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:48:00",
+            "last": "22:07:00"
+          },
+          "Saturday": {
+            "first": "04:42:00",
+            "last": "22:56:00"
+          },
+          "Sunday": {
+            "first": "04:51:00",
+            "last": "19:55:00"
+          }
+        },
+        "To McCormick Rd.": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "06:15:00",
+            "last": "00:00:00"
+          },
+          "Sunday": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          }
+        }
       }
     },
     "19": {
@@ -2144,6 +2904,54 @@
           "0433",
           "0406_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "0406",
+          "4185",
+          "0572",
+          "0716",
+          "5149",
+          "8017_ar"
+        ],
+        "outbound": [
+          "8014",
+          "5150",
+          "0717",
+          "0571",
+          "0409",
+          "0406_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:10:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "05:10:00",
+            "last": "22:40:00"
+          },
+          "Sunday": {
+            "first": "05:25:00",
+            "last": "20:55:00"
+          }
+        },
+        "To Regency Square": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "00:00:00"
+          },
+          "Saturday": {
+            "first": "06:15:00",
+            "last": "00:00:00"
+          },
+          "Sunday": {
+            "first": "06:30:00",
+            "last": "22:00:00"
+          }
+        }
       }
     },
     "21": {
@@ -2215,6 +3023,50 @@
           "4734",
           "8006_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "2950",
+          "2907",
+          "2960",
+          "8006_ar"
+        ],
+        "outbound": [
+          "8006",
+          "4948",
+          "2908",
+          "2950_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:55:00",
+            "last": "20:40:00"
+          },
+          "Saturday": {
+            "first": "06:00:00",
+            "last": "20:30:00"
+          },
+          "Sunday": {
+            "first": "06:30:00",
+            "last": "18:30:00"
+          }
+        },
+        "To Gateway": {
+          "MoTuWeThFr": {
+            "first": "06:15:00",
+            "last": "21:15:00"
+          },
+          "Saturday": {
+            "first": "07:05:00",
+            "last": "21:05:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "19:00:00"
+          }
+        }
       }
     },
     "22": {
@@ -2352,6 +3204,55 @@
           "4113",
           "4112_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "4096",
+          "4112",
+          "4074",
+          "3850",
+          "3618",
+          "8001_ar"
+        ],
+        "outbound": [
+          "8008",
+          "3619",
+          "3849",
+          "4069",
+          "4096_ar",
+          "4096",
+          "4112_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:50:00",
+            "last": "22:08:00"
+          },
+          "Saturday": {
+            "first": "05:51:00",
+            "last": "21:51:00"
+          },
+          "Sunday": {
+            "first": "06:04:00",
+            "last": "20:19:00"
+          }
+        },
+        "To Sherwood": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "23:00:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "22:00:00"
+          }
+        }
       }
     },
     "23": {
@@ -2561,6 +3462,60 @@
           "0682",
           "0683_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "0946",
+          "0953",
+          "5241",
+          "0500",
+          "5294",
+          "0406",
+          "0736",
+          "4599",
+          "0683_ar"
+        ],
+        "outbound": [
+          "0683",
+          "4590",
+          "0732",
+          "0406",
+          "5294",
+          "0501",
+          "5242",
+          "0955",
+          "0946_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Arlington/Merrill Rd.": {
+          "MoTuWeThFr": {
+            "first": "06:30:00",
+            "last": "21:30:00"
+          },
+          "Saturday": {
+            "first": "07:30:00",
+            "last": "21:30:00"
+          },
+          "Sunday": {
+            "first": "07:30:00",
+            "last": "19:30:00"
+          }
+        },
+        "To Southside/Avenue Mall": {
+          "MoTuWeThFr": {
+            "first": "04:30:00",
+            "last": "19:30:00"
+          },
+          "Saturday": {
+            "first": "05:31:00",
+            "last": "19:31:00"
+          },
+          "Sunday": {
+            "first": "05:31:00",
+            "last": "17:31:00"
+          }
+        }
       }
     },
     "24": {
@@ -2634,6 +3589,48 @@
           "0062",
           "4865_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "0006",
+          "0045",
+          "4865_ar"
+        ],
+        "outbound": [
+          "4865",
+          "0046",
+          "0006_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Atlantic Village": {
+          "MoTuWeThFr": {
+            "first": "06:39:00",
+            "last": "20:44:00"
+          },
+          "Saturday": {
+            "first": "06:25:00",
+            "last": "19:25:00"
+          },
+          "Sunday": {
+            "first": "07:15:00",
+            "last": "17:15:00"
+          }
+        },
+        "To Mayport Village": {
+          "MoTuWeThFr": {
+            "first": "06:11:00",
+            "last": "20:16:00"
+          },
+          "Saturday": {
+            "first": "06:50:00",
+            "last": "20:00:00"
+          },
+          "Sunday": {
+            "first": "07:40:00",
+            "last": "17:40:00"
+          }
+        }
       }
     },
     "25": {
@@ -2763,6 +3760,52 @@
           "1724",
           "8006_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "4694",
+          "0976",
+          "1400",
+          "1536",
+          "8006_ar"
+        ],
+        "outbound": [
+          "8006",
+          "5011",
+          "1402",
+          "0977",
+          "4694_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "05:20:00",
+            "last": "22:00:00"
+          },
+          "Saturday": {
+            "first": "05:25:00",
+            "last": "22:05:00"
+          },
+          "Sunday": {
+            "first": "06:05:00",
+            "last": "21:05:00"
+          }
+        },
+        "To Southpoint": {
+          "MoTuWeThFr": {
+            "first": "05:25:00",
+            "last": "21:10:00"
+          },
+          "Saturday": {
+            "first": "06:15:00",
+            "last": "22:05:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "22:00:00"
+          }
+        }
       }
     },
     "26": {
@@ -2811,6 +3854,50 @@
           "4686",
           "5286_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "5286",
+          "5229",
+          "4689",
+          "1469_ar"
+        ],
+        "outbound": [
+          "1468",
+          "4690",
+          "4687",
+          "5286_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Mandarin": {
+          "MoTuWeThFr": {
+            "first": "05:30:00",
+            "last": "19:30:00"
+          },
+          "Saturday": {
+            "first": "06:30:00",
+            "last": "19:30:00"
+          },
+          "Sunday": {
+            "first": "07:30:00",
+            "last": "18:30:00"
+          }
+        },
+        "To Oakleaf": {
+          "MoTuWeThFr": {
+            "first": "06:40:00",
+            "last": "20:40:00"
+          },
+          "Saturday": {
+            "first": "07:40:00",
+            "last": "20:40:00"
+          },
+          "Sunday": {
+            "first": "07:40:00",
+            "last": "19:40:00"
+          }
+        }
       }
     },
     "27": {
@@ -2920,6 +4007,55 @@
           "1672",
           "8005_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "8005",
+          "1672",
+          "1161",
+          "1185",
+          "1228",
+          "0946_ar"
+        ],
+        "outbound": [
+          "0946",
+          "1229",
+          "1186",
+          "1162",
+          "1672_ar",
+          "1672",
+          "8005_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "A - To Avenues Walk": {
+          "MoTuWeThFr": {
+            "first": "05:49:00",
+            "last": "20:30:00"
+          },
+          "Saturday": {
+            "first": "07:30:00",
+            "last": "20:30:00"
+          },
+          "Sunday": {
+            "first": "07:30:00",
+            "last": "18:30:00"
+          }
+        },
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "06:33:00",
+            "last": "21:33:00"
+          },
+          "Saturday": {
+            "first": "07:30:00",
+            "last": "21:30:00"
+          },
+          "Sunday": {
+            "first": "07:30:00",
+            "last": "19:30:00"
+          }
+        }
       }
     },
     "28": {
@@ -3015,6 +4151,52 @@
           "0512",
           "0484_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "0484",
+          "0953",
+          "1251",
+          "1302",
+          "1468_ar"
+        ],
+        "outbound": [
+          "1469",
+          "1286",
+          "1250",
+          "0955",
+          "0484_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Mandarin": {
+          "MoTuWeThFr": {
+            "first": "06:30:00",
+            "last": "20:30:00"
+          },
+          "Saturday": {
+            "first": "07:30:00",
+            "last": "20:30:00"
+          },
+          "Sunday": {
+            "first": "07:30:00",
+            "last": "20:30:00"
+          }
+        },
+        "To St. Johns Town Center": {
+          "MoTuWeThFr": {
+            "first": "06:25:00",
+            "last": "20:25:00"
+          },
+          "Saturday": {
+            "first": "07:25:00",
+            "last": "20:25:00"
+          },
+          "Sunday": {
+            "first": "08:25:00",
+            "last": "19:25:00"
+          }
+        }
       }
     },
     "30": {
@@ -3078,6 +4260,41 @@
           "2608",
           "2622_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "2622",
+          "2578",
+          "2569_ar"
+        ],
+        "outbound": [
+          "2569",
+          "2558",
+          "2577",
+          "2622_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Cecil Field": {
+          "MoTuWeThFr": {
+            "first": "05:58:00",
+            "last": "18:58:00"
+          },
+          "Saturday": {
+            "first": "06:26:00",
+            "last": "17:26:00"
+          }
+        },
+        "To Ricker Rd.": {
+          "MoTuWeThFr": {
+            "first": "06:25:00",
+            "last": "19:25:00"
+          },
+          "Saturday": {
+            "first": "06:57:00",
+            "last": "17:57:00"
+          }
+        }
       }
     },
     "31": {
@@ -3138,6 +4355,40 @@
           "5160",
           "2685_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "2685",
+          "1625",
+          "8019_ar"
+        ],
+        "outbound": [
+          "8019",
+          "1623",
+          "2685_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "06:32:00",
+            "last": "17:32:00"
+          },
+          "Saturday": {
+            "first": "06:32:00",
+            "last": "17:32:00"
+          }
+        },
+        "To Talleyrand": {
+          "MoTuWeThFr": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "32": {
@@ -3238,6 +4489,42 @@
           "1724",
           "8016_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "4188",
+          "3441",
+          "1851",
+          "8016_ar"
+        ],
+        "outbound": [
+          "8003",
+          "1855",
+          "3442",
+          "4188_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "18:15:00"
+          },
+          "Saturday": {
+            "first": "06:25:00",
+            "last": "18:25:00"
+          }
+        },
+        "To Paxon School": {
+          "MoTuWeThFr": {
+            "first": "06:55:00",
+            "last": "19:25:00"
+          },
+          "Saturday": {
+            "first": "07:05:00",
+            "last": "19:05:00"
+          }
+        }
       }
     },
     "33": {
@@ -3326,6 +4613,42 @@
           "1089",
           "1091_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1091",
+          "1034",
+          "0936",
+          "8003_ar"
+        ],
+        "outbound": [
+          "8016",
+          "0927",
+          "1033",
+          "1091_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "06:10:00",
+            "last": "18:40:00"
+          },
+          "Saturday": {
+            "first": "06:25:00",
+            "last": "18:25:00"
+          }
+        },
+        "To Parental Home Rd.": {
+          "MoTuWeThFr": {
+            "first": "06:25:00",
+            "last": "18:55:00"
+          },
+          "Saturday": {
+            "first": "07:05:00",
+            "last": "19:05:00"
+          }
+        }
       }
     },
     "50": {
@@ -3541,6 +4864,78 @@
           "4193",
           "4592_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "4592",
+          "0719",
+          "0825",
+          "1389_ar"
+        ],
+        "outbound": [
+          "1389",
+          "0884",
+          "0718",
+          "4592_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "A - To St. Augustine Rd.": {
+          "MoTuWeThFr": {
+            "first": "05:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "06:24:00",
+            "last": "21:34:00"
+          },
+          "Sunday": {
+            "first": "05:21:00",
+            "last": "19:20:00"
+          }
+        },
+        "A - To University Club Estates": {
+          "MoTuWeThFr": {
+            "first": "05:50:00",
+            "last": "23:50:00"
+          },
+          "Saturday": {
+            "first": "07:09:00",
+            "last": "22:24:00"
+          },
+          "Sunday": {
+            "first": "06:04:00",
+            "last": "20:07:00"
+          }
+        },
+        "B - To Baymeadows Rd.": {
+          "MoTuWeThFr": {
+            "first": "05:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "07:06:00",
+            "last": "23:06:00"
+          },
+          "Sunday": {
+            "first": "06:46:00",
+            "last": "20:46:00"
+          }
+        },
+        "B - To Town and Country": {
+          "MoTuWeThFr": {
+            "first": "04:12:00",
+            "last": "22:09:00"
+          },
+          "Saturday": {
+            "first": "06:15:00",
+            "last": "22:15:00"
+          },
+          "Sunday": {
+            "first": "05:55:00",
+            "last": "19:55:00"
+          }
+        }
       }
     },
     "51": {
@@ -3664,6 +5059,56 @@
           "3038",
           "2950_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "2950",
+          "2847",
+          "4972",
+          "3534",
+          "3511",
+          "2166",
+          "2091_ar"
+        ],
+        "outbound": [
+          "2091",
+          "2165",
+          "3510",
+          "3533",
+          "5120",
+          "2854",
+          "2950_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Fscj Kent": {
+          "MoTuWeThFr": {
+            "first": "04:50:00",
+            "last": "21:50:00"
+          },
+          "Saturday": {
+            "first": "06:02:00",
+            "last": "22:02:00"
+          },
+          "Sunday": {
+            "first": "05:47:00",
+            "last": "20:47:00"
+          }
+        },
+        "To Gateway Mall": {
+          "MoTuWeThFr": {
+            "first": "05:47:00",
+            "last": "22:17:00"
+          },
+          "Saturday": {
+            "first": "06:59:00",
+            "last": "22:59:00"
+          },
+          "Sunday": {
+            "first": "06:44:00",
+            "last": "21:44:00"
+          }
+        }
       }
     },
     "53": {
@@ -3836,6 +5281,57 @@
           "1747",
           "8006_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "8002",
+          "3423",
+          "3511",
+          "2166",
+          "2230",
+          "2455",
+          "2612_ar"
+        ],
+        "outbound": [
+          "2620",
+          "2612",
+          "2466",
+          "2232",
+          "2165",
+          "3510",
+          "3424",
+          "8005_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To 103rd Street": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "06:30:00",
+            "last": "23:10:00"
+          },
+          "Sunday": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          }
+        },
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:35:00",
+            "last": "21:59:00"
+          },
+          "Saturday": {
+            "first": "05:56:00",
+            "last": "22:05:00"
+          },
+          "Sunday": {
+            "first": "04:46:00",
+            "last": "18:45:00"
+          }
+        }
       }
     },
     "80": {
@@ -3925,6 +5421,35 @@
           "1975",
           "2091_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "2041",
+          "2067",
+          "2054",
+          "2091_ar"
+        ],
+        "outbound": [
+          "8006",
+          "2091",
+          "2041",
+          "2067",
+          "2054_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Fscj Kent": {
+          "MoTuWeThFr": {
+            "first": "15:15:00",
+            "last": "16:15:00"
+          }
+        },
+        "To Nas Jacksonville": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "06:30:00"
+          }
+        }
       }
     },
     "81": {
@@ -3958,6 +5483,38 @@
           "3125",
           "4900_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "3112",
+          "4900_ar"
+        ],
+        "outbound": [
+          "4900",
+          "3112_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Dunn Ave.": {
+          "MoTuWeThFr": {
+            "first": "05:00:00",
+            "last": "18:40:00"
+          },
+          "Saturday": {
+            "first": "05:40:00",
+            "last": "16:45:00"
+          }
+        },
+        "To Old Kings Rd.": {
+          "MoTuWeThFr": {
+            "first": "07:50:00",
+            "last": "19:05:00"
+          },
+          "Saturday": {
+            "first": "07:50:00",
+            "last": "18:30:00"
+          }
+        }
       }
     },
     "82": {
@@ -3982,6 +5539,46 @@
           "5221",
           "5190_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "5190",
+          "5221_ar"
+        ],
+        "outbound": [
+          "5221",
+          "5190_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Amazon": {
+          "MoTuWeThFr": {
+            "first": "04:36:00",
+            "last": "18:51:00"
+          },
+          "Saturday": {
+            "first": "06:28:00",
+            "last": "18:51:00"
+          },
+          "Sunday": {
+            "first": "06:28:00",
+            "last": "18:51:00"
+          }
+        },
+        "To Armsdale": {
+          "MoTuWeThFr": {
+            "first": "04:30:00",
+            "last": "19:00:00"
+          },
+          "Saturday": {
+            "first": "06:30:00",
+            "last": "19:00:00"
+          },
+          "Sunday": {
+            "first": "06:30:00",
+            "last": "19:00:00"
+          }
+        }
       }
     },
     "83": {
@@ -4013,6 +5610,38 @@
           "4137",
           "5212_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "5212",
+          "5224_ar"
+        ],
+        "outbound": [
+          "5224",
+          "5212_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Presidents Court": {
+          "MoTuWeThFr": {
+            "first": "09:00:00",
+            "last": "18:15:00"
+          },
+          "Saturday": {
+            "first": "09:00:00",
+            "last": "18:15:00"
+          }
+        },
+        "To Soutel Hub": {
+          "MoTuWeThFr": {
+            "first": "09:30:00",
+            "last": "18:45:00"
+          },
+          "Saturday": {
+            "first": "09:30:00",
+            "last": "18:45:00"
+          }
+        }
       }
     },
     "84": {
@@ -4047,6 +5676,32 @@
           "1124",
           "0946_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1689",
+          "1681",
+          "0946_ar"
+        ],
+        "outbound": [
+          "0946",
+          "1681",
+          "1689_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Avenues Walk": {
+          "MoTuWeThFr": {
+            "first": "06:32:00",
+            "last": "17:32:00"
+          }
+        },
+        "To Flagler Center": {
+          "MoTuWeThFr": {
+            "first": "06:10:00",
+            "last": "17:05:00"
+          }
+        }
       }
     },
     "85": {
@@ -4092,6 +5747,54 @@
           "3212",
           "5143_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "3200",
+          "3153",
+          "3212_ar",
+          "3212",
+          "5143_ar"
+        ],
+        "outbound": [
+          "5143",
+          "3212",
+          "3153_ar",
+          "3153",
+          "3200_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Imeson": {
+          "MoTuWeThFr": {
+            "first": "06:25:00",
+            "last": "17:10:00"
+          },
+          "Saturday": {
+            "first": "06:25:00",
+            "last": "17:10:00"
+          }
+        },
+        "To River City Marketplace": {
+          "MoTuWeThFr": {
+            "first": "06:30:00",
+            "last": "18:00:00"
+          },
+          "Saturday": {
+            "first": "06:30:00",
+            "last": "18:00:00"
+          }
+        },
+        "To Zoo": {
+          "MoTuWeThFr": {
+            "first": "08:40:00",
+            "last": "15:40:00"
+          },
+          "Saturday": {
+            "first": "08:40:00",
+            "last": "15:40:00"
+          }
+        }
       }
     },
     "86": {
@@ -4175,6 +5878,43 @@
           "4972",
           "3061_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "3061",
+          "2950",
+          "2787",
+          "2791",
+          "8020_ar"
+        ],
+        "outbound": [
+          "8020",
+          "2787",
+          "2950",
+          "3061_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "10:30:00",
+            "last": "13:30:00"
+          },
+          "Saturday": {
+            "first": "10:30:00",
+            "last": "13:30:00"
+          }
+        },
+        "To Edgewood": {
+          "MoTuWeThFr": {
+            "first": "11:15:00",
+            "last": "14:15:00"
+          },
+          "Saturday": {
+            "first": "11:15:00",
+            "last": "14:15:00"
+          }
+        }
       }
     },
     "102": {
@@ -4221,6 +5961,48 @@
           "1764",
           "8004_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "8007",
+          "2950",
+          "5190_ar"
+        ],
+        "outbound": [
+          "5190",
+          "2950",
+          "8004_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Armsdale Park & Ride": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "00:00:00"
+          },
+          "Saturday": {
+            "first": "06:15:00",
+            "last": "00:00:00"
+          },
+          "Sunday": {
+            "first": "06:15:00",
+            "last": "22:00:00"
+          }
+        },
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:30:00",
+            "last": "23:15:00"
+          },
+          "Saturday": {
+            "first": "05:30:00",
+            "last": "23:15:00"
+          },
+          "Sunday": {
+            "first": "05:30:00",
+            "last": "21:15:00"
+          }
+        }
       }
     },
     "107": {
@@ -4273,6 +6055,81 @@
           "1724",
           "8007_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "8004",
+          "1672",
+          "5188",
+          "0944",
+          "0946_ar"
+        ],
+        "outbound": [
+          "8004",
+          "1659",
+          "1672",
+          "5188",
+          "0944",
+          "0946_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Avenues Walk": {
+          "MoTuWeThFr": {
+            "first": "06:15:00",
+            "last": "00:00:00"
+          },
+          "Saturday": {
+            "first": "13:15:00",
+            "last": "00:00:00"
+          },
+          "Sunday": {
+            "first": "13:15:00",
+            "last": "22:00:00"
+          }
+        },
+        "To Convention Ctr/Avenues Walk": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "12:45:00"
+          },
+          "Saturday": {
+            "first": "06:15:00",
+            "last": "12:45:00"
+          },
+          "Sunday": {
+            "first": "06:15:00",
+            "last": "12:45:00"
+          }
+        },
+        "To Convention Ctr/Downtown": {
+          "MoTuWeThFr": {
+            "first": "08:45:00",
+            "last": "20:15:00"
+          },
+          "Saturday": {
+            "first": "14:15:00",
+            "last": "23:00:00"
+          },
+          "Sunday": {
+            "first": "14:15:00",
+            "last": "21:00:00"
+          }
+        },
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:15:00",
+            "last": "23:05:00"
+          },
+          "Saturday": {
+            "first": "05:20:00",
+            "last": "13:50:00"
+          },
+          "Sunday": {
+            "first": "05:20:00",
+            "last": "13:50:00"
+          }
+        }
       }
     },
     "109": {
@@ -4322,6 +6179,51 @@
           "5283",
           "4186_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "4186",
+          "5283",
+          "5294",
+          "0406",
+          "8015_ar"
+        ],
+        "outbound": [
+          "8015",
+          "0406",
+          "5294",
+          "4186_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "04:10:00",
+            "last": "22:55:00"
+          },
+          "Saturday": {
+            "first": "05:00:00",
+            "last": "22:50:00"
+          },
+          "Sunday": {
+            "first": "05:00:00",
+            "last": "20:50:00"
+          }
+        },
+        "To Jacksonville Beach": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "00:00:00"
+          },
+          "Saturday": {
+            "first": "06:15:00",
+            "last": "00:00:00"
+          },
+          "Sunday": {
+            "first": "06:15:00",
+            "last": "22:00:00"
+          }
+        }
       }
     },
     "200": {
@@ -4373,6 +6275,35 @@
           "1459",
           "1451_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1451",
+          "1286",
+          "1517",
+          "8020_ar"
+        ],
+        "outbound": [
+          "8020",
+          "1650",
+          "1518",
+          "1479",
+          "1451_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "07:00:00",
+            "last": "07:30:00"
+          }
+        },
+        "To Marbon Park & Ride": {
+          "MoTuWeThFr": {
+            "first": "16:30:00",
+            "last": "18:05:00"
+          }
+        }
       }
     },
     "201": {
@@ -4431,6 +6362,33 @@
           "1730",
           "8019_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "8019",
+          "1662",
+          "4712",
+          "4711_ar"
+        ],
+        "outbound": [
+          "4711",
+          "2530",
+          "8019_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Black Creek Park & Ride": {
+          "MoTuWeThFr": {
+            "first": "05:22:00",
+            "last": "17:10:00"
+          }
+        },
+        "To Downtown": {
+          "MoTuWeThFr": {
+            "first": "06:27:00",
+            "last": "18:35:00"
+          }
+        }
       }
     },
     "202": {
@@ -4521,6 +6479,42 @@
           "4994",
           "0001_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "0406",
+          "0243",
+          "0044",
+          "0001_ar"
+        ],
+        "outbound": [
+          "0001",
+          "0043",
+          "0244",
+          "0406_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Mayport Naval Station": {
+          "MoTuWeThFr": {
+            "first": "04:50:00",
+            "last": "16:18:00"
+          },
+          "Saturday": {
+            "first": "06:25:00",
+            "last": "15:38:00"
+          }
+        },
+        "To Regency Square": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "17:15:00"
+          },
+          "Saturday": {
+            "first": "07:25:00",
+            "last": "16:35:00"
+          }
+        }
       }
     },
     "205": {
@@ -4597,6 +6591,24 @@
           "1724",
           "8006_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "4703",
+          "4704",
+          "0170",
+          "8006_ar"
+        ],
+        "outbound": [
+          "8006",
+          "1698",
+          "0172",
+          "4703_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Downtown": {},
+        "To South Beach": {}
       }
     },
     "500": {
@@ -4621,6 +6633,46 @@
           "6001",
           "6000_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "6000",
+          "6001_ar"
+        ],
+        "outbound": [
+          "6001",
+          "6000_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Fort George": {
+          "MoTuWeThFr": {
+            "first": "06:00:00",
+            "last": "19:00:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "20:30:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "20:30:00"
+          }
+        },
+        "To Mayport": {
+          "MoTuWeThFr": {
+            "first": "06:15:00",
+            "last": "19:15:00"
+          },
+          "Saturday": {
+            "first": "07:15:00",
+            "last": "20:45:00"
+          },
+          "Sunday": {
+            "first": "07:15:00",
+            "last": "20:45:00"
+          }
+        }
       }
     },
     "800": {
@@ -4658,6 +6710,36 @@
           "5310",
           "5190_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "5310",
+          "5190_ar"
+        ],
+        "outbound": [
+          "5310",
+          "8020_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "To Armsdale P&r": {
+          "MoTuWeThFr": {
+            "first": "18:00:00",
+            "last": "19:00:00"
+          }
+        },
+        "To Downtown Jacksonville": {
+          "MoTuWeThFr": {
+            "first": "06:40:00",
+            "last": "17:30:00"
+          }
+        },
+        "To Nassau County": {
+          "MoTuWeThFr": {
+            "first": "06:10:00",
+            "last": "18:15:00"
+          }
+        }
       }
     }
   },

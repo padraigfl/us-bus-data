@@ -147,6 +147,103 @@
           "02225",
           "01170"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "01170",
+          "00989",
+          "01979",
+          "02656",
+          "00555",
+          "02084",
+          "02832",
+          "02199"
+        ],
+        "outbound": [
+          "01170",
+          "00989",
+          "01979",
+          "02831",
+          "02656",
+          "00555",
+          "02084",
+          "02832",
+          "02199"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Puente Hills Mall": {
+          "Friday": {
+            "first": "05:00:00",
+            "last": "21:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:00:00",
+            "last": "21:00:00"
+          },
+          "Saturday": {
+            "first": "06:00:00",
+            "last": "22:13:00"
+          },
+          "Sunday": {
+            "first": "06:00:00",
+            "last": "22:13:00"
+          }
+        },
+        "East: Puente Hills Mall via Baldwin": {
+          "Friday": {
+            "first": "06:00:00",
+            "last": "18:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "06:00:00",
+            "last": "18:30:00"
+          },
+          "Saturday": {
+            "first": "08:30:00",
+            "last": "19:13:00"
+          },
+          "Sunday": {
+            "first": "08:30:00",
+            "last": "19:13:00"
+          }
+        },
+        "West: El Monte Station": {
+          "Friday": {
+            "first": "05:00:00",
+            "last": "21:35:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:00:00",
+            "last": "21:35:00"
+          },
+          "Saturday": {
+            "first": "06:20:00",
+            "last": "22:20:00"
+          },
+          "Sunday": {
+            "first": "06:20:00",
+            "last": "22:20:00"
+          }
+        },
+        "West: El Monte Station via Baldwin": {
+          "Friday": {
+            "first": "05:30:00",
+            "last": "18:05:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:30:00",
+            "last": "18:05:00"
+          },
+          "Saturday": {
+            "first": "08:20:00",
+            "last": "18:20:00"
+          },
+          "Sunday": {
+            "first": "08:20:00",
+            "last": "18:20:00"
+          }
+        }
       }
     },
     "185": {
@@ -284,6 +381,66 @@
           "01020",
           "02199"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "02199",
+          "01659",
+          "01666",
+          "02479",
+          "01657",
+          "02924",
+          "01870",
+          "02386"
+        ],
+        "outbound": [
+          "02386",
+          "01871",
+          "02656",
+          "01658",
+          "02481",
+          "01667",
+          "01660",
+          "02199"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: Azusa": {
+          "Friday": {
+            "first": "05:45:00",
+            "last": "21:55:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:45:00",
+            "last": "21:55:00"
+          },
+          "Saturday": {
+            "first": "06:25:00",
+            "last": "18:55:00"
+          },
+          "Sunday": {
+            "first": "06:25:00",
+            "last": "18:55:00"
+          }
+        },
+        "South: Puente Hills Mall": {
+          "Friday": {
+            "first": "05:20:00",
+            "last": "22:15:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:20:00",
+            "last": "22:15:00"
+          },
+          "Saturday": {
+            "first": "05:55:00",
+            "last": "18:55:00"
+          },
+          "Sunday": {
+            "first": "05:55:00",
+            "last": "18:55:00"
+          }
+        }
       }
     },
     "187": {
@@ -412,6 +569,60 @@
           "01301",
           "00177"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "02240",
+          "01068",
+          "01812",
+          "01777",
+          "00177"
+        ],
+        "outbound": [
+          "00177",
+          "01780",
+          "01813",
+          "01069",
+          "02240"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Azusa": {
+          "Friday": {
+            "first": "03:55:00",
+            "last": "22:35:00"
+          },
+          "MoTuWeTh": {
+            "first": "03:55:00",
+            "last": "22:35:00"
+          },
+          "Saturday": {
+            "first": "05:00:00",
+            "last": "22:05:00"
+          },
+          "Sunday": {
+            "first": "05:00:00",
+            "last": "22:05:00"
+          }
+        },
+        "West: Pasadena": {
+          "Friday": {
+            "first": "04:35:00",
+            "last": "23:05:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:35:00",
+            "last": "23:05:00"
+          },
+          "Saturday": {
+            "first": "06:10:00",
+            "last": "23:10:00"
+          },
+          "Sunday": {
+            "first": "06:10:00",
+            "last": "23:10:00"
+          }
+        }
       }
     },
     "188": {
@@ -521,6 +732,60 @@
           "00644",
           "02028"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "00177",
+          "02276",
+          "01296",
+          "00981",
+          "02028"
+        ],
+        "outbound": [
+          "02028",
+          "00982",
+          "01297",
+          "02289",
+          "00177"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Montclair": {
+          "Friday": {
+            "first": "05:00:00",
+            "last": "23:38:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:00:00",
+            "last": "23:38:00"
+          },
+          "Saturday": {
+            "first": "06:07:00",
+            "last": "23:07:00"
+          },
+          "Sunday": {
+            "first": "06:07:00",
+            "last": "23:07:00"
+          }
+        },
+        "West: Azusa": {
+          "Friday": {
+            "first": "04:00:00",
+            "last": "22:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:00:00",
+            "last": "22:30:00"
+          },
+          "Saturday": {
+            "first": "05:09:00",
+            "last": "22:08:00"
+          },
+          "Sunday": {
+            "first": "05:09:00",
+            "last": "22:08:00"
+          }
+        }
       }
     },
     "190": {
@@ -643,6 +908,77 @@
           "02562",
           "03242"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "03314",
+          "03202",
+          "03201",
+          "03191",
+          "03242"
+        ],
+        "outbound": [
+          "03314",
+          "03202",
+          "03201",
+          "03191"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Cal Poly Pomona": {
+          "Friday": {
+            "first": "05:10:00",
+            "last": "22:10:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:10:00",
+            "last": "22:10:00"
+          },
+          "Saturday": {
+            "first": "05:29:00",
+            "last": "22:10:00"
+          },
+          "Sunday": {
+            "first": "06:15:00",
+            "last": "22:10:00"
+          }
+        },
+        "East: Eastland Center": {
+          "Friday": {
+            "first": "00:10:00",
+            "last": "23:10:00"
+          },
+          "MoTuWeTh": {
+            "first": "00:10:00",
+            "last": "23:10:00"
+          },
+          "Saturday": {
+            "first": "00:10:00",
+            "last": "23:10:00"
+          },
+          "Sunday": {
+            "first": "00:10:00",
+            "last": "23:10:00"
+          }
+        },
+        "West: El Monte Station": {
+          "Friday": {
+            "first": "00:00:00",
+            "last": "23:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "00:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "05:55:00",
+            "last": "23:05:00"
+          },
+          "Sunday": {
+            "first": "06:09:00",
+            "last": "23:05:00"
+          }
+        }
       }
     },
     "194": {
@@ -768,6 +1104,73 @@
           "03313",
           "03242"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "03314",
+          "03344",
+          "03339",
+          "03356",
+          "03242"
+        ],
+        "outbound": [
+          "03314",
+          "03344",
+          "03339",
+          "03356"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Cal Poly Pomona": {
+          "Friday": {
+            "first": "04:25:00",
+            "last": "01:10:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:25:00",
+            "last": "01:10:00"
+          },
+          "Saturday": {
+            "first": "04:50:00",
+            "last": "01:10:00"
+          },
+          "Sunday": {
+            "first": "00:10:00",
+            "last": "01:10:00"
+          }
+        },
+        "East: Valley Blvd and Lemon Ave": {
+          "Friday": {
+            "first": "05:20:00",
+            "last": "20:20:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:20:00",
+            "last": "20:20:00"
+          },
+          "Saturday": {
+            "first": "07:20:00",
+            "last": "17:25:00"
+          }
+        },
+        "West: El Monte Station": {
+          "Friday": {
+            "first": "01:05:00",
+            "last": "00:05:00"
+          },
+          "MoTuWeTh": {
+            "first": "01:05:00",
+            "last": "00:05:00"
+          },
+          "Saturday": {
+            "first": "00:05:00",
+            "last": "01:05:00"
+          },
+          "Sunday": {
+            "first": "01:05:00",
+            "last": "00:05:00"
+          }
+        }
       }
     },
     "195": {
@@ -858,6 +1261,62 @@
           "01718",
           "03030"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "02251",
+          "02562",
+          "00001",
+          "03007",
+          "03058",
+          "03030"
+        ],
+        "outbound": [
+          "03030",
+          "02021",
+          "02145",
+          "02548",
+          "02473",
+          "02826"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Pomona Transit Center": {
+          "Friday": {
+            "first": "05:30:00",
+            "last": "19:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:30:00",
+            "last": "19:30:00"
+          },
+          "Saturday": {
+            "first": "06:14:00",
+            "last": "18:14:00"
+          },
+          "Sunday": {
+            "first": "06:14:00",
+            "last": "18:14:00"
+          }
+        },
+        "West: Pomona Ridgeway/ Valley": {
+          "Friday": {
+            "first": "05:35:00",
+            "last": "19:35:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:35:00",
+            "last": "19:35:00"
+          },
+          "Saturday": {
+            "first": "06:20:00",
+            "last": "18:20:00"
+          },
+          "Sunday": {
+            "first": "06:20:00",
+            "last": "18:20:00"
+          }
+        }
       }
     },
     "197": {
@@ -942,6 +1401,64 @@
           "00644",
           "03041"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "02158",
+          "02124",
+          "03043",
+          "02670",
+          "00704",
+          "00981",
+          "03041"
+        ],
+        "outbound": [
+          "03041",
+          "00982",
+          "00705",
+          "02676",
+          "03042",
+          "02680",
+          "02158"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: Montclair Transit Center": {
+          "Friday": {
+            "first": "05:25:00",
+            "last": "20:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:25:00",
+            "last": "20:00:00"
+          },
+          "Saturday": {
+            "first": "06:03:00",
+            "last": "19:00:00"
+          },
+          "Sunday": {
+            "first": "06:03:00",
+            "last": "19:00:00"
+          }
+        },
+        "South: Pomona Transit Center": {
+          "Friday": {
+            "first": "05:30:00",
+            "last": "20:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:30:00",
+            "last": "20:00:00"
+          },
+          "Saturday": {
+            "first": "07:15:00",
+            "last": "19:15:00"
+          },
+          "Sunday": {
+            "first": "07:15:00",
+            "last": "19:15:00"
+          }
+        }
       }
     },
     "269": {
@@ -988,6 +1505,58 @@
           "02401",
           "02859"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "02859",
+          "02400",
+          "02409",
+          "01170"
+        ],
+        "outbound": [
+          "01170",
+          "02408",
+          "02401",
+          "02859"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: El Monte Station": {
+          "Friday": {
+            "first": "05:55:00",
+            "last": "21:55:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:55:00",
+            "last": "21:55:00"
+          },
+          "Saturday": {
+            "first": "06:30:00",
+            "last": "19:30:00"
+          },
+          "Sunday": {
+            "first": "06:30:00",
+            "last": "19:30:00"
+          }
+        },
+        "South: Shops at Montebello": {
+          "Friday": {
+            "first": "06:00:00",
+            "last": "21:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "06:00:00",
+            "last": "21:30:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "20:00:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "20:00:00"
+          }
+        }
       }
     },
     "270": {
@@ -1067,6 +1636,60 @@
           "03506",
           "03467"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "03314",
+          "03461",
+          "03463",
+          "03465",
+          "03467"
+        ],
+        "outbound": [
+          "03467",
+          "03466",
+          "03464",
+          "03462",
+          "03314"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: Monrovia": {
+          "Friday": {
+            "first": "04:58:00",
+            "last": "20:46:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:58:00",
+            "last": "20:46:00"
+          },
+          "Saturday": {
+            "first": "05:54:00",
+            "last": "18:39:00"
+          },
+          "Sunday": {
+            "first": "05:54:00",
+            "last": "18:39:00"
+          }
+        },
+        "South: El Monte Station": {
+          "Friday": {
+            "first": "04:46:00",
+            "last": "19:32:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:46:00",
+            "last": "19:32:00"
+          },
+          "Saturday": {
+            "first": "06:31:00",
+            "last": "17:23:00"
+          },
+          "Sunday": {
+            "first": "06:31:00",
+            "last": "17:23:00"
+          }
+        }
       }
     },
     "272": {
@@ -1140,6 +1763,60 @@
           "02660",
           "02656"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "02924",
+          "01984",
+          "00810",
+          "01161",
+          "01780"
+        ],
+        "outbound": [
+          "01780",
+          "00891",
+          "00811",
+          "02968",
+          "02656"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: Duarte": {
+          "Friday": {
+            "first": "05:30:00",
+            "last": "20:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:30:00",
+            "last": "20:30:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "19:00:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "19:00:00"
+          }
+        },
+        "South: West Covina": {
+          "Friday": {
+            "first": "05:40:00",
+            "last": "20:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:40:00",
+            "last": "20:30:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "19:00:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "19:00:00"
+          }
+        }
       }
     },
     "274": {
@@ -1223,6 +1900,60 @@
           "02228",
           "02831"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "00847",
+          "02758",
+          "02762",
+          "02163",
+          "02831"
+        ],
+        "outbound": [
+          "02831",
+          "02164",
+          "02752",
+          "02767",
+          "00847"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: Baldwin Park": {
+          "Friday": {
+            "first": "05:00:00",
+            "last": "20:55:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:00:00",
+            "last": "20:55:00"
+          },
+          "Saturday": {
+            "first": "06:00:00",
+            "last": "18:00:00"
+          },
+          "Sunday": {
+            "first": "06:00:00",
+            "last": "18:00:00"
+          }
+        },
+        "South: Whittier": {
+          "Friday": {
+            "first": "05:00:00",
+            "last": "20:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:00:00",
+            "last": "20:00:00"
+          },
+          "Saturday": {
+            "first": "06:43:00",
+            "last": "17:13:00"
+          },
+          "Sunday": {
+            "first": "06:43:00",
+            "last": "17:13:00"
+          }
+        }
       }
     },
     "280": {
@@ -1312,6 +2043,64 @@
           "00760",
           "02199"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "02199",
+          "00738",
+          "00744",
+          "00782",
+          "00775",
+          "00733",
+          "00177"
+        ],
+        "outbound": [
+          "00177",
+          "02384",
+          "00741",
+          "00783",
+          "00745",
+          "00739",
+          "02199"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: Azusa": {
+          "Friday": {
+            "first": "05:20:00",
+            "last": "23:10:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:20:00",
+            "last": "23:10:00"
+          },
+          "Saturday": {
+            "first": "06:18:00",
+            "last": "21:48:00"
+          },
+          "Sunday": {
+            "first": "06:18:00",
+            "last": "21:48:00"
+          }
+        },
+        "South: Puente Hills Mall": {
+          "Friday": {
+            "first": "05:00:00",
+            "last": "23:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "06:10:00",
+            "last": "21:40:00"
+          },
+          "Sunday": {
+            "first": "06:10:00",
+            "last": "21:40:00"
+          }
+        }
       }
     },
     "281": {
@@ -1457,6 +2246,66 @@
           "00178",
           "01239"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "02199",
+          "03022",
+          "02494",
+          "02656",
+          "00899",
+          "02744",
+          "01374",
+          "01239"
+        ],
+        "outbound": [
+          "01239",
+          "01375",
+          "02744",
+          "00900",
+          "02657",
+          "02495",
+          "03035",
+          "02199"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: Glendora": {
+          "Friday": {
+            "first": "05:00:00",
+            "last": "20:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:00:00",
+            "last": "20:30:00"
+          },
+          "Saturday": {
+            "first": "06:18:00",
+            "last": "18:18:00"
+          },
+          "Sunday": {
+            "first": "06:18:00",
+            "last": "18:18:00"
+          }
+        },
+        "South: Puente Hills Mall": {
+          "Friday": {
+            "first": "05:15:00",
+            "last": "21:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:15:00",
+            "last": "21:30:00"
+          },
+          "Saturday": {
+            "first": "05:45:00",
+            "last": "17:45:00"
+          },
+          "Sunday": {
+            "first": "05:45:00",
+            "last": "17:45:00"
+          }
+        }
       }
     },
     "282": {
@@ -1541,6 +2390,58 @@
           "02960",
           "01171"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "01172",
+          "02627",
+          "03025",
+          "02199"
+        ],
+        "outbound": [
+          "02199",
+          "03022",
+          "01740",
+          "01171"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Puente Hills Mall": {
+          "Friday": {
+            "first": "05:25:00",
+            "last": "23:05:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:25:00",
+            "last": "23:05:00"
+          },
+          "Saturday": {
+            "first": "06:10:00",
+            "last": "22:40:00"
+          },
+          "Sunday": {
+            "first": "06:10:00",
+            "last": "22:40:00"
+          }
+        },
+        "West: El Monte Station": {
+          "Friday": {
+            "first": "05:00:00",
+            "last": "23:50:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:00:00",
+            "last": "23:50:00"
+          },
+          "Saturday": {
+            "first": "06:20:00",
+            "last": "23:45:00"
+          },
+          "Sunday": {
+            "first": "06:20:00",
+            "last": "23:45:00"
+          }
+        }
       }
     },
     "284": {
@@ -1651,6 +2552,64 @@
           "00178",
           "01239"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "02744",
+          "03111",
+          "01948",
+          "01960",
+          "01327",
+          "02273",
+          "01239"
+        ],
+        "outbound": [
+          "01239",
+          "01498",
+          "01325",
+          "01959",
+          "03119",
+          "01123",
+          "02745"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: Glendora Citrus College": {
+          "Friday": {
+            "first": "06:00:00",
+            "last": "19:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "06:00:00",
+            "last": "19:00:00"
+          },
+          "Saturday": {
+            "first": "06:15:00",
+            "last": "17:30:00"
+          },
+          "Sunday": {
+            "first": "06:15:00",
+            "last": "17:30:00"
+          }
+        },
+        "South: West Covina": {
+          "Friday": {
+            "first": "06:50:00",
+            "last": "19:51:00"
+          },
+          "MoTuWeTh": {
+            "first": "06:50:00",
+            "last": "19:51:00"
+          },
+          "Saturday": {
+            "first": "06:56:00",
+            "last": "16:35:00"
+          },
+          "Sunday": {
+            "first": "06:56:00",
+            "last": "16:35:00"
+          }
+        }
       }
     },
     "285": {
@@ -1730,6 +2689,60 @@
           "00838",
           "01893"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "00839",
+          "01045",
+          "01659",
+          "03035",
+          "02199"
+        ],
+        "outbound": [
+          "02199",
+          "03025",
+          "01011",
+          "02685",
+          "01893"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: Puente Hills Mall": {
+          "Friday": {
+            "first": "05:35:00",
+            "last": "20:35:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:35:00",
+            "last": "20:35:00"
+          },
+          "Saturday": {
+            "first": "08:13:00",
+            "last": "19:10:00"
+          },
+          "Sunday": {
+            "first": "08:13:00",
+            "last": "19:10:00"
+          }
+        },
+        "South: La Habra": {
+          "Friday": {
+            "first": "05:35:00",
+            "last": "20:35:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:35:00",
+            "last": "20:35:00"
+          },
+          "Saturday": {
+            "first": "07:16:00",
+            "last": "20:18:00"
+          },
+          "Sunday": {
+            "first": "07:16:00",
+            "last": "20:18:00"
+          }
+        }
       }
     },
     "286": {
@@ -1812,6 +2825,62 @@
           "01416",
           "02158"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "03060",
+          "03068",
+          "03088",
+          "01142",
+          "00012",
+          "02158"
+        ],
+        "outbound": [
+          "02158",
+          "00020",
+          "01143",
+          "03067",
+          "03082",
+          "03060"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: Pomona Transit Center": {
+          "Friday": {
+            "first": "06:05:00",
+            "last": "22:05:00"
+          },
+          "MoTuWeTh": {
+            "first": "06:05:00",
+            "last": "22:05:00"
+          },
+          "Saturday": {
+            "first": "07:35:00",
+            "last": "19:35:00"
+          },
+          "Sunday": {
+            "first": "07:35:00",
+            "last": "19:35:00"
+          }
+        },
+        "South: Brea Mall": {
+          "Friday": {
+            "first": "06:00:00",
+            "last": "22:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "06:00:00",
+            "last": "22:00:00"
+          },
+          "Saturday": {
+            "first": "07:30:00",
+            "last": "19:30:00"
+          },
+          "Sunday": {
+            "first": "07:30:00",
+            "last": "19:30:00"
+          }
+        }
       }
     },
     "289": {
@@ -1894,6 +2963,60 @@
           "02564",
           "02322"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "02199",
+          "02827",
+          "01908",
+          "02544",
+          "02322"
+        ],
+        "outbound": [
+          "02563",
+          "01650",
+          "02084",
+          "02832",
+          "02199"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Pomona MtSac/CalPoly Pomona": {
+          "Friday": {
+            "first": "06:25:00",
+            "last": "19:25:00"
+          },
+          "MoTuWeTh": {
+            "first": "06:25:00",
+            "last": "19:25:00"
+          },
+          "Saturday": {
+            "first": "07:05:00",
+            "last": "17:05:00"
+          },
+          "Sunday": {
+            "first": "07:05:00",
+            "last": "17:05:00"
+          }
+        },
+        "West: Puente Hills Mall": {
+          "Friday": {
+            "first": "06:25:00",
+            "last": "19:25:00"
+          },
+          "MoTuWeTh": {
+            "first": "06:25:00",
+            "last": "19:25:00"
+          },
+          "Saturday": {
+            "first": "06:20:00",
+            "last": "18:20:00"
+          },
+          "Sunday": {
+            "first": "06:20:00",
+            "last": "18:20:00"
+          }
+        }
       }
     },
     "291": {
@@ -2010,6 +3133,71 @@
           "02858",
           "01163"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "02581",
+          "01460",
+          "02159",
+          "01427",
+          "01163"
+        ],
+        "outbound": [
+          "02581",
+          "01460",
+          "02159",
+          "01427",
+          "03616",
+          "01163"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: La Verne": {
+          "Friday": {
+            "first": "04:00:00",
+            "last": "21:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:00:00",
+            "last": "21:30:00"
+          },
+          "Saturday": {
+            "first": "05:00:00",
+            "last": "21:30:00"
+          },
+          "Sunday": {
+            "first": "05:00:00",
+            "last": "21:30:00"
+          }
+        },
+        "North: La Verne via Baseline": {
+          "Friday": {
+            "first": "06:00:00",
+            "last": "15:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "06:00:00",
+            "last": "15:30:00"
+          }
+        },
+        "South: Pomona": {
+          "Friday": {
+            "first": "04:00:00",
+            "last": "22:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:00:00",
+            "last": "22:00:00"
+          },
+          "Saturday": {
+            "first": "05:05:00",
+            "last": "21:35:00"
+          },
+          "Sunday": {
+            "first": "05:05:00",
+            "last": "21:35:00"
+          }
+        }
       }
     },
     "292": {
@@ -2098,6 +3286,46 @@
           "02043",
           "02045"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "02158",
+          "01737",
+          "02338",
+          "01316",
+          "01250",
+          "02045",
+          "03038",
+          "00981"
+        ],
+        "outbound": [
+          "00981",
+          "06123",
+          "02045"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: Claremont Transit Center": {
+          "Friday": {
+            "first": "06:00:00",
+            "last": "16:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "06:00:00",
+            "last": "16:00:00"
+          }
+        },
+        "South: Pomona": {},
+        "South: Pomona Transit Center": {
+          "Friday": {
+            "first": "05:35:00",
+            "last": "15:35:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:35:00",
+            "last": "15:35:00"
+          }
+        }
       }
     },
     "480": {
@@ -2231,6 +3459,64 @@
           "02247",
           "02029"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "02656",
+          "01169",
+          "02562",
+          "02158",
+          "01845",
+          "00981",
+          "02029"
+        ],
+        "outbound": [
+          "02029",
+          "00982",
+          "01722",
+          "02158",
+          "02563",
+          "01169",
+          "02924"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Montclair Transit Cente": {
+          "Friday": {
+            "first": "05:00:00",
+            "last": "23:07:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:00:00",
+            "last": "23:07:00"
+          },
+          "Saturday": {
+            "first": "05:00:00",
+            "last": "22:10:00"
+          },
+          "Sunday": {
+            "first": "05:00:00",
+            "last": "22:10:00"
+          }
+        },
+        "West: West Covina Mall": {
+          "Friday": {
+            "first": "05:00:00",
+            "last": "23:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "05:00:00",
+            "last": "22:00:00"
+          },
+          "Sunday": {
+            "first": "05:00:00",
+            "last": "22:00:00"
+          }
+        }
       }
     },
     "482": {
@@ -2361,6 +3647,123 @@
           "00991",
           "02199"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "02199",
+          "01027",
+          "03142",
+          "01098",
+          "01142",
+          "02548",
+          "02473",
+          "02619",
+          "02158"
+        ],
+        "outbound": [
+          "02199",
+          "01027",
+          "01098",
+          "01142",
+          "02548",
+          "02473",
+          "02619",
+          "02158"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Pomona Transit Center": {
+          "Friday": {
+            "first": "05:40:00",
+            "last": "18:45:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:40:00",
+            "last": "18:45:00"
+          }
+        },
+        "East: Pomona via Diamond Bar": {
+          "Friday": {
+            "first": "19:45:00",
+            "last": "23:55:00"
+          },
+          "MoTuWeTh": {
+            "first": "19:45:00",
+            "last": "23:55:00"
+          },
+          "Saturday": {
+            "first": "06:30:00",
+            "last": "22:10:00"
+          },
+          "Sunday": {
+            "first": "06:30:00",
+            "last": "22:10:00"
+          }
+        },
+        "East: Pomona via Golden Springs": {
+          "Friday": {
+            "first": "05:05:00",
+            "last": "21:45:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:05:00",
+            "last": "21:45:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "23:40:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "23:40:00"
+          }
+        },
+        "West: Puente Hills Mall": {
+          "Friday": {
+            "first": "04:30:00",
+            "last": "18:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:30:00",
+            "last": "18:00:00"
+          }
+        },
+        "West: Puente Hills via Diamond Bar": {
+          "Friday": {
+            "first": "19:00:00",
+            "last": "22:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "19:00:00",
+            "last": "22:30:00"
+          },
+          "Saturday": {
+            "first": "05:30:00",
+            "last": "21:00:00"
+          },
+          "Sunday": {
+            "first": "05:30:00",
+            "last": "21:00:00"
+          }
+        },
+        "West: Puente Hills via Golden Springs": {
+          "Friday": {
+            "first": "04:00:00",
+            "last": "21:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:00:00",
+            "last": "21:30:00"
+          },
+          "Saturday": {
+            "first": "06:00:00",
+            "last": "22:30:00"
+          },
+          "Sunday": {
+            "first": "06:00:00",
+            "last": "22:30:00"
+          }
+        }
       }
     },
     "486": {
@@ -2469,6 +3872,64 @@
           "02423",
           "01171"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "01172",
+          "01481",
+          "00595",
+          "00579",
+          "00555",
+          "02544",
+          "02322"
+        ],
+        "outbound": [
+          "02563",
+          "00576",
+          "00556",
+          "00580",
+          "00596",
+          "01482",
+          "01171"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Pomona MtSac/ CalPoly Pomona": {
+          "Friday": {
+            "first": "05:05:00",
+            "last": "22:10:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:05:00",
+            "last": "22:10:00"
+          },
+          "Saturday": {
+            "first": "05:45:00",
+            "last": "22:45:00"
+          },
+          "Sunday": {
+            "first": "05:45:00",
+            "last": "22:45:00"
+          }
+        },
+        "West: El Monte Station": {
+          "Friday": {
+            "first": "04:45:00",
+            "last": "22:55:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:45:00",
+            "last": "22:55:00"
+          },
+          "Saturday": {
+            "first": "05:30:00",
+            "last": "22:30:00"
+          },
+          "Sunday": {
+            "first": "05:30:00",
+            "last": "22:30:00"
+          }
+        }
       }
     },
     "488": {
@@ -2601,6 +4062,60 @@
           "00964",
           "00178"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "01172",
+          "02215",
+          "02642",
+          "02300",
+          "01169",
+          "01606",
+          "00178"
+        ],
+        "outbound": [
+          "00178",
+          "01607",
+          "01169",
+          "02301",
+          "02643",
+          "02216",
+          "01171"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Glendora Citrus College": {
+          "Friday": {
+            "first": "05:45:00",
+            "last": "21:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:45:00",
+            "last": "21:00:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "22:00:00"
+          }
+        },
+        "West: El Monte Station": {
+          "Friday": {
+            "first": "04:10:00",
+            "last": "20:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:10:00",
+            "last": "20:30:00"
+          },
+          "Saturday": {
+            "first": "06:50:00",
+            "last": "21:50:00"
+          },
+          "Sunday": {
+            "first": "17:00:00",
+            "last": "17:50:00"
+          }
+        }
       }
     },
     "492": {
@@ -2764,6 +4279,70 @@
           "02247",
           "02028"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "01172",
+          "01941",
+          "01939",
+          "00678",
+          "00626",
+          "00670",
+          "00875",
+          "02873",
+          "00981",
+          "02028"
+        ],
+        "outbound": [
+          "02028",
+          "00982",
+          "00871",
+          "00876",
+          "00671",
+          "00627",
+          "00679",
+          "01940",
+          "02416",
+          "01171"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Montclair Transit Center": {
+          "Friday": {
+            "first": "05:30:00",
+            "last": "21:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:30:00",
+            "last": "21:30:00"
+          },
+          "Saturday": {
+            "first": "06:45:00",
+            "last": "21:00:00"
+          },
+          "Sunday": {
+            "first": "06:45:00",
+            "last": "21:00:00"
+          }
+        },
+        "West: El Monte Station": {
+          "Friday": {
+            "first": "04:25:00",
+            "last": "21:45:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:25:00",
+            "last": "21:45:00"
+          },
+          "Saturday": {
+            "first": "06:05:00",
+            "last": "21:05:00"
+          },
+          "Sunday": {
+            "first": "06:05:00",
+            "last": "21:05:00"
+          }
+        }
       }
     },
     "493": {
@@ -2827,6 +4406,49 @@
           "01573",
           "03142"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "01188",
+          "01187",
+          "02474",
+          "02593",
+          "00896",
+          "02199",
+          "01027",
+          "03142"
+        ],
+        "outbound": [
+          "03142",
+          "02832",
+          "02199",
+          "00897",
+          "02594",
+          "02475",
+          "01751"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Industry Park and Ride": {
+          "Friday": {
+            "first": "14:20:00",
+            "last": "18:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "14:20:00",
+            "last": "18:30:00"
+          }
+        },
+        "West: Downtown Los Angeles": {
+          "Friday": {
+            "first": "04:35:00",
+            "last": "08:07:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:35:00",
+            "last": "08:07:00"
+          }
+        }
       }
     },
     "495": {
@@ -2874,6 +4496,45 @@
           "00896",
           "03142"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "01188",
+          "01187",
+          "02474",
+          "02593",
+          "00896",
+          "03142"
+        ],
+        "outbound": [
+          "03142",
+          "00897",
+          "02594",
+          "02475",
+          "01751"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Industry Park and Ride": {
+          "Friday": {
+            "first": "14:33:00",
+            "last": "18:33:00"
+          },
+          "MoTuWeTh": {
+            "first": "14:33:00",
+            "last": "18:33:00"
+          }
+        },
+        "West: Downtown Los Angeles": {
+          "Friday": {
+            "first": "04:45:00",
+            "last": "08:40:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:45:00",
+            "last": "08:40:00"
+          }
+        }
       }
     },
     "497": {
@@ -2923,6 +4584,52 @@
           "01869",
           "00927"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "01188",
+          "01187",
+          "02474",
+          "02593",
+          "00896",
+          "01869",
+          "00927"
+        ],
+        "outbound": [
+          "01188",
+          "01187",
+          "02474",
+          "02593",
+          "00896",
+          "00927",
+          "01869",
+          "00897",
+          "02594",
+          "02475",
+          "01751"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Chino Hills Park and Ride": {
+          "Friday": {
+            "first": "14:40:00",
+            "last": "18:22:00"
+          },
+          "MoTuWeTh": {
+            "first": "14:40:00",
+            "last": "18:22:00"
+          }
+        },
+        "West: Downtown Los Angeles": {
+          "Friday": {
+            "first": "04:55:00",
+            "last": "18:38:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:55:00",
+            "last": "18:38:00"
+          }
+        }
       }
     },
     "498": {
@@ -2992,6 +4699,49 @@
           "01750",
           "01751"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "01188",
+          "01187",
+          "02474",
+          "02593",
+          "00896",
+          "02526",
+          "01606",
+          "00831"
+        ],
+        "outbound": [
+          "00830",
+          "01607",
+          "02501",
+          "00897",
+          "02594",
+          "02475",
+          "01751"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Citrus College Glendora": {
+          "Friday": {
+            "first": "14:08:00",
+            "last": "18:45:00"
+          },
+          "MoTuWeTh": {
+            "first": "14:08:00",
+            "last": "18:45:00"
+          }
+        },
+        "West: Downtown Los Angeles": {
+          "Friday": {
+            "first": "04:44:00",
+            "last": "08:18:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:44:00",
+            "last": "08:18:00"
+          }
+        }
       }
     },
     "499": {
@@ -3041,6 +4791,47 @@
           "02633",
           "02373"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "01188",
+          "01187",
+          "02474",
+          "02593",
+          "00896",
+          "02633",
+          "02373"
+        ],
+        "outbound": [
+          "02373",
+          "02634",
+          "00897",
+          "02594",
+          "02475",
+          "01751"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: San Dimas Park and Ride": {
+          "Friday": {
+            "first": "14:48:00",
+            "last": "18:43:00"
+          },
+          "MoTuWeTh": {
+            "first": "14:48:00",
+            "last": "18:43:00"
+          }
+        },
+        "West: Downtown Los Angeles": {
+          "Friday": {
+            "first": "05:11:00",
+            "last": "08:06:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:11:00",
+            "last": "08:06:00"
+          }
+        }
       }
     },
     "690": {
@@ -3091,6 +4882,42 @@
           "00981",
           "02028"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "01208",
+          "01962",
+          "00981",
+          "02028"
+        ],
+        "outbound": [
+          "02029",
+          "00982",
+          "01965",
+          "01208"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Montclair Transit Center": {
+          "Friday": {
+            "first": "16:08:00",
+            "last": "20:15:00"
+          },
+          "MoTuWeTh": {
+            "first": "16:08:00",
+            "last": "20:15:00"
+          }
+        },
+        "West: Glendora": {
+          "Friday": {
+            "first": "05:00:00",
+            "last": "09:02:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:00:00",
+            "last": "09:02:00"
+          }
+        }
       }
     },
     "699": {
@@ -3141,6 +4968,49 @@
           "03049",
           "02028"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "01188",
+          "01187",
+          "02474",
+          "02129",
+          "02593",
+          "00896",
+          "03049",
+          "02028"
+        ],
+        "outbound": [
+          "02028",
+          "03040",
+          "00897",
+          "02594",
+          "02129",
+          "02475",
+          "01751"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Montclair Transit Center": {
+          "Friday": {
+            "first": "14:05:00",
+            "last": "18:35:00"
+          },
+          "MoTuWeTh": {
+            "first": "14:05:00",
+            "last": "18:35:00"
+          }
+        },
+        "West: Downtown Los Angeles": {
+          "Friday": {
+            "first": "04:00:00",
+            "last": "08:22:00"
+          },
+          "MoTuWeTh": {
+            "first": "04:00:00",
+            "last": "08:22:00"
+          }
+        }
       }
     },
     "707": {
@@ -3198,6 +5068,67 @@
           "02994",
           "03622"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "03623",
+          "02474",
+          "02591",
+          "02593",
+          "00896",
+          "01172",
+          "02656",
+          "02158",
+          "02028"
+        ],
+        "outbound": [
+          "02028",
+          "02158",
+          "02924",
+          "01171",
+          "00897",
+          "02594",
+          "02818",
+          "03622"
+        ]
+      },
+      "scheduledTimeRange": {
+        "East: Montclair": {
+          "Friday": {
+            "first": "01:10:00",
+            "last": "00:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "01:10:00",
+            "last": "00:00:00"
+          },
+          "Saturday": {
+            "first": "00:00:00",
+            "last": "23:00:00"
+          },
+          "Sunday": {
+            "first": "00:00:00",
+            "last": "23:00:00"
+          }
+        },
+        "West: Los Angeles": {
+          "Friday": {
+            "first": "01:00:00",
+            "last": "00:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "01:00:00",
+            "last": "00:00:00"
+          },
+          "Saturday": {
+            "first": "01:00:00",
+            "last": "00:00:00"
+          },
+          "Sunday": {
+            "first": "01:00:00",
+            "last": "00:00:00"
+          }
+        }
       }
     },
     "851": {
@@ -3305,6 +5236,48 @@
           "00965",
           "01169"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "01169",
+          "01533",
+          "01510",
+          "01496",
+          "01535",
+          "01646",
+          "01327"
+        ],
+        "outbound": [
+          "01327",
+          "01647",
+          "01536",
+          "01493",
+          "01122",
+          "01534",
+          "01169"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: Glendora": {
+          "Friday": {
+            "first": "07:00:00",
+            "last": "16:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "07:00:00",
+            "last": "16:30:00"
+          }
+        },
+        "South: Eastland Center": {
+          "Friday": {
+            "first": "06:30:00",
+            "last": "15:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "06:30:00",
+            "last": "15:30:00"
+          }
+        }
       }
     },
     "853": {
@@ -3365,6 +5338,44 @@
           "01098",
           "01099"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "01484",
+          "01568",
+          "01556",
+          "00725",
+          "01156"
+        ],
+        "outbound": [
+          "01156",
+          "01550",
+          "01557",
+          "01569",
+          "01099"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: Diamond Ranch High School": {
+          "Friday": {
+            "first": "08:05:00",
+            "last": "14:25:00"
+          },
+          "MoTuWeTh": {
+            "first": "06:45:00",
+            "last": "14:25:00"
+          }
+        },
+        "South: Diamond Bar via Golden Springs": {
+          "Friday": {
+            "first": "08:20:00",
+            "last": "15:15:00"
+          },
+          "MoTuWeTh": {
+            "first": "07:20:00",
+            "last": "15:15:00"
+          }
+        }
       }
     },
     "854": {
@@ -3425,6 +5436,46 @@
           "01098",
           "01099"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "01484",
+          "01568",
+          "01142",
+          "00001",
+          "00725",
+          "01156"
+        ],
+        "outbound": [
+          "01156",
+          "02555",
+          "02539",
+          "01143",
+          "01569",
+          "01099"
+        ]
+      },
+      "scheduledTimeRange": {
+        "North: Diamond Ranch Hig School": {
+          "Friday": {
+            "first": "08:00:00",
+            "last": "08:10:00"
+          },
+          "MoTuWeTh": {
+            "first": "07:15:00",
+            "last": "07:20:00"
+          }
+        },
+        "South: Copley and Golden Springs": {
+          "Friday": {
+            "first": "15:10:00",
+            "last": "15:15:00"
+          },
+          "MoTuWeTh": {
+            "first": "15:10:00",
+            "last": "15:15:00"
+          }
+        }
       }
     },
     "860": {
@@ -3490,6 +5541,35 @@
           "03663",
           "03664"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "03625",
+          "03637",
+          "03644",
+          "01780",
+          "03110",
+          "03625"
+        ],
+        "outbound": [
+          "03625",
+          "03637",
+          "03644",
+          "01780",
+          "03110"
+        ]
+      },
+      "scheduledTimeRange": {
+        "860 Duarte Blue": {
+          "Friday": {
+            "first": "06:25:00",
+            "last": "18:15:00"
+          },
+          "MoTuWeTh": {
+            "first": "06:25:00",
+            "last": "18:15:00"
+          }
+        }
       }
     },
     "861": {
@@ -3545,6 +5625,39 @@
           "03110",
           "01768"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "03625",
+          "03671",
+          "01777",
+          "03674",
+          "03684",
+          "03625"
+        ],
+        "outbound": [
+          "03625",
+          "03671",
+          "01777",
+          "03674",
+          "03684"
+        ]
+      },
+      "scheduledTimeRange": {
+        "861 Duarte Green": {
+          "Friday": {
+            "first": "05:40:00",
+            "last": "20:30:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:40:00",
+            "last": "20:30:00"
+          },
+          "Saturday": {
+            "first": "07:40:00",
+            "last": "19:30:00"
+          }
+        }
       }
     }
   },

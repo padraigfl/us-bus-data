@@ -1,7 +1,14 @@
 {
   "data": {
     "marshak_d": {
-      "routes": {},
+      "routes": {
+        "campus": {
+          "": true
+        },
+        "tloop": {
+          "": true
+        }
+      },
       "lon": "-73.9497415",
       "title": "Marshak Building",
       "stopId": "0627",
@@ -9,7 +16,11 @@
       "lat": "40.8197902"
     },
     "145th": {
-      "routes": {},
+      "routes": {
+        "campus": {
+          "": true
+        }
+      },
       "lon": "-73.94482",
       "title": "145th Street",
       "shortTitle": "145th",
@@ -18,7 +29,11 @@
       "lat": "40.82405"
     },
     "marshak": {
-      "routes": {},
+      "routes": {
+        "campus": {
+          "": true
+        }
+      },
       "lon": "-73.950055",
       "title": "Marshak South",
       "stopId": "0627",
@@ -26,7 +41,14 @@
       "lat": "40.819476"
     },
     "125th": {
-      "routes": {},
+      "routes": {
+        "campus": {
+          "": true
+        },
+        "tloop": {
+          "": true
+        }
+      },
       "lon": "-73.952902",
       "title": "Chuckie Cheese",
       "stopId": "0125",
@@ -34,7 +56,11 @@
       "lat": "40.8102719"
     },
     "spitzer": {
-      "routes": {},
+      "routes": {
+        "campus": {
+          "": true
+        }
+      },
       "lon": "-73.95064",
       "title": "Spitzer",
       "stopId": "0772",
@@ -42,7 +68,11 @@
       "lat": "40.8185427"
     },
     "130th_d": {
-      "routes": {},
+      "routes": {
+        "tloop": {
+          "": true
+        }
+      },
       "lon": "-73.950604",
       "title": "401 West 130th Street",
       "shortTitle": "401 West 130th",
@@ -51,7 +81,11 @@
       "lat": "40.814579"
     },
     "145thnich": {
-      "routes": {},
+      "routes": {
+        "tloop": {
+          "": true
+        }
+      },
       "lon": "-73.9448548",
       "title": "145th and St. Nicholas Ave",
       "shortTitle": "145th & Nicholas",

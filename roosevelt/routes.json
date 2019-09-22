@@ -36,6 +36,56 @@
           "riverwalk",
           "trameast"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "southpnt",
+          "tramwest_n",
+          "octagon_a"
+        ],
+        "outbound": [
+          "octagon",
+          "570main",
+          "trameast"
+        ]
+      },
+      "scheduledTimeRange": {
+        "n": {
+          "f": {
+            "first": "00:12:00",
+            "last": "03:27:00"
+          },
+          "mtwth": {
+            "first": "00:12:00",
+            "last": "02:27:00"
+          },
+          "sat": {
+            "first": "05:57:00",
+            "last": "03:57:00"
+          },
+          "sun": {
+            "first": "05:57:00",
+            "last": "03:57:00"
+          }
+        },
+        "s": {
+          "f": {
+            "first": "00:00:00",
+            "last": "03:15:00"
+          },
+          "mtwth": {
+            "first": "00:00:00",
+            "last": "02:15:00"
+          },
+          "sat": {
+            "first": "05:45:00",
+            "last": "03:45:00"
+          },
+          "sun": {
+            "first": "05:45:00",
+            "last": "03:45:00"
+          }
+        }
       }
     },
     "express": {
@@ -61,7 +111,8 @@
           "riverwalk",
           "trameast"
         ]
-      }
+      },
+      "scheduledStops": {}
     }
   },
   "copyright": "All data copyright Roosevelt Island 2019."

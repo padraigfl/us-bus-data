@@ -1,7 +1,14 @@
 {
   "data": {
     "lobby7": {
-      "routes": {},
+      "routes": {
+        "fullservice": {
+          "": true
+        },
+        "express": {
+          "": true
+        }
+      },
       "lon": "-76.896591",
       "title": "Lobby 7",
       "stopId": "007",
@@ -9,7 +16,17 @@
       "lat": "39.1640697"
     },
     "lobby1": {
-      "routes": {},
+      "routes": {
+        "fullservice": {
+          "": true
+        },
+        "express": {
+          "": true
+        },
+        "southcampus": {
+          "": true
+        }
+      },
       "lon": "-76.8995059",
       "title": "Lobby 1",
       "stopId": "001",
@@ -17,7 +34,11 @@
       "lat": "39.162819"
     },
     "mp3": {
-      "routes": {},
+      "routes": {
+        "fullservice": {
+          "": true
+        }
+      },
       "lon": "-76.8902459",
       "title": "MP3",
       "stopId": "903",
@@ -25,7 +46,11 @@
       "lat": "39.1651929"
     },
     "mp5": {
-      "routes": {},
+      "routes": {
+        "fullservice": {
+          "": true
+        }
+      },
       "lon": "-76.8909145",
       "title": "MP5",
       "stopId": "905",
@@ -33,7 +58,11 @@
       "lat": "39.1652261"
     },
     "mp2": {
-      "routes": {},
+      "routes": {
+        "fullservice": {
+          "": true
+        }
+      },
       "lon": "-76.889921",
       "title": "MP2",
       "stopId": "902",
@@ -41,7 +70,11 @@
       "lat": "39.1643758"
     },
     "mp4": {
-      "routes": {},
+      "routes": {
+        "fullservice": {
+          "": true
+        }
+      },
       "lon": "-76.8919957",
       "title": "MP4",
       "stopId": "904",
@@ -49,7 +82,14 @@
       "lat": "39.1643484"
     },
     "mp6": {
-      "routes": {},
+      "routes": {
+        "fullservice": {
+          "": true
+        },
+        "express": {
+          "": true
+        }
+      },
       "lon": "-76.8914862",
       "title": "MP6",
       "stopId": "906",
@@ -57,7 +97,14 @@
       "lat": "39.1628168"
     },
     "b200": {
-      "routes": {},
+      "routes": {
+        "express": {
+          "": true
+        },
+        "southcampus": {
+          "": true
+        }
+      },
       "lon": "-76.8993608",
       "title": "B200",
       "stopId": "200",
@@ -65,7 +112,11 @@
       "lat": "39.1593566"
     },
     "mp1": {
-      "routes": {},
+      "routes": {
+        "express": {
+          "": true
+        }
+      },
       "lon": "-76.8888183",
       "title": "MP1",
       "stopId": "901",
@@ -73,7 +124,11 @@
       "lat": "39.1640511"
     },
     "b26": {
-      "routes": {},
+      "routes": {
+        "southcampus": {
+          "": true
+        }
+      },
       "lon": "-76.900313",
       "title": "B26",
       "stopId": "026",
@@ -81,7 +136,11 @@
       "lat": "39.1644807"
     },
     "b23": {
-      "routes": {},
+      "routes": {
+        "southcampus": {
+          "": true
+        }
+      },
       "lon": "-76.8987046",
       "title": "B23",
       "stopId": "023",
@@ -89,7 +148,11 @@
       "lat": "39.1682461"
     },
     "southend": {
-      "routes": {},
+      "routes": {
+        "internal": {
+          "": true
+        }
+      },
       "lon": "-76.898883",
       "title": "Building 1",
       "stopId": "002",
@@ -97,7 +160,11 @@
       "lat": "39.163673"
     },
     "bldg29n": {
-      "routes": {},
+      "routes": {
+        "internal": {
+          "": true
+        }
+      },
       "lon": "-76.8973003",
       "title": "B29 North",
       "stopId": "129",
@@ -105,7 +172,11 @@
       "lat": "39.1698541"
     },
     "bldg48": {
-      "routes": {},
+      "routes": {
+        "internal": {
+          "": true
+        }
+      },
       "lon": "-76.8926674",
       "title": "Building 48",
       "stopId": "048",
@@ -113,7 +184,11 @@
       "lat": "39.1707364"
     },
     "bldg29s": {
-      "routes": {},
+      "routes": {
+        "internal": {
+          "": true
+        }
+      },
       "lon": "-76.8973248",
       "title": "B29 South",
       "stopId": "229",

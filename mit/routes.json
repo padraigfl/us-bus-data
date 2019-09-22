@@ -26,6 +26,51 @@
           "massbeac",
           "comm487"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mass84_d",
+          "massbeac",
+          "comm487"
+        ],
+        "outbound": [
+          "commsilb_d",
+          "comm478",
+          "beacmass",
+          "mass77",
+          "edge",
+          "mass84_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "boston": {
+          "wkd": {
+            "first": "08:00:00",
+            "last": "17:30:00"
+          },
+          "sat": {
+            "first": "08:00:00",
+            "last": "17:30:00"
+          },
+          "wkend": {
+            "first": "08:00:00",
+            "last": "17:30:00"
+          }
+        },
+        "mass84": {
+          "wkd": {
+            "first": "08:10:00",
+            "last": "17:40:00"
+          },
+          "sat": {
+            "first": "08:10:00",
+            "last": "17:40:00"
+          },
+          "wkend": {
+            "first": "08:10:00",
+            "last": "17:40:00"
+          }
+        }
       }
     },
     "kendchar": {
@@ -50,6 +95,25 @@
           "kendsq",
           "wadse40"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "kendsq",
+          "wadse40"
+        ]
+      },
+      "scheduledTimeRange": {
+        "charprk": {
+          "wkd": {
+            "first": "10:20:00",
+            "last": "15:20:00"
+          },
+          "wkend": {
+            "first": "10:20:00",
+            "last": "15:20:00"
+          }
+        },
+        "kendsq": {}
       }
     },
     "tech": {
@@ -83,6 +147,48 @@
           "burtho",
           "tangwest"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "w98vass",
+          "w92ames",
+          "simmhall",
+          "vassmass",
+          "kochmain_a",
+          "mainvass"
+        ],
+        "outbound": [
+          "kendsq",
+          "wadsamhe",
+          "medilab",
+          "kres",
+          "burtho",
+          "tangwest",
+          "amesmain",
+          "amesamhe"
+        ]
+      },
+      "scheduledTimeRange": {
+        "kendsq": {
+          "wkd": {
+            "first": "06:24:00",
+            "last": "22:54:00"
+          },
+          "wkend": {
+            "first": "06:24:00",
+            "last": "22:54:00"
+          }
+        },
+        "wcamp": {
+          "wkd": {
+            "first": "06:15:00",
+            "last": "22:51:00"
+          },
+          "wkend": {
+            "first": "06:15:00",
+            "last": "22:51:00"
+          }
+        }
       }
     },
     "saferidesomerville": {
@@ -117,6 +223,56 @@
           "bronor",
           "proscam"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "prossom",
+          "cam6th",
+          "1stchar",
+          "mass84_a"
+        ],
+        "outbound": [
+          "mass84_d",
+          "bronor"
+        ]
+      },
+      "scheduledTimeRange": {
+        "mass84": {
+          "wkd": {
+            "first": "18:17:00",
+            "last": "02:17:00"
+          },
+          "sat": {
+            "first": "18:17:00",
+            "last": "03:17:00"
+          },
+          "sun": {
+            "first": "18:17:00",
+            "last": "02:17:00"
+          },
+          "wkend": {
+            "first": "18:17:00",
+            "last": "03:17:00"
+          }
+        },
+        "some": {
+          "wkd": {
+            "first": "18:05:00",
+            "last": "02:05:00"
+          },
+          "sat": {
+            "first": "18:05:00",
+            "last": "03:05:00"
+          },
+          "sun": {
+            "first": "18:05:00",
+            "last": "02:05:00"
+          },
+          "wkend": {
+            "first": "18:05:00",
+            "last": "03:05:00"
+          }
+        }
       }
     },
     "saferidecampshut": {
@@ -157,6 +313,73 @@
           "burthous",
           "tangwest"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "edge",
+          "paci70"
+        ],
+        "outbound": [
+          "kendsq",
+          "mass77",
+          "mass84_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "kendsq": {
+          "wkd": {
+            "first": "18:07:00",
+            "last": "02:27:00"
+          },
+          "sat": {
+            "first": "18:07:00",
+            "last": "03:27:00"
+          },
+          "sun": {
+            "first": "18:07:00",
+            "last": "03:27:00"
+          },
+          "wkend": {
+            "first": "18:07:00",
+            "last": "03:27:00"
+          }
+        },
+        "mass84": {
+          "wkd": {
+            "first": "18:14:00",
+            "last": "02:34:00"
+          },
+          "sat": {
+            "first": "18:14:00",
+            "last": "03:34:00"
+          },
+          "sun": {
+            "first": "18:14:00",
+            "last": "03:34:00"
+          },
+          "wkend": {
+            "first": "18:14:00",
+            "last": "03:34:00"
+          }
+        },
+        "wcamp": {
+          "wkd": {
+            "first": "18:00:00",
+            "last": "02:20:00"
+          },
+          "sat": {
+            "first": "18:00:00",
+            "last": "03:20:00"
+          },
+          "sun": {
+            "first": "18:00:00",
+            "last": "03:20:00"
+          },
+          "wkend": {
+            "first": "18:00:00",
+            "last": "03:20:00"
+          }
+        }
       }
     },
     "saferidebostonall": {
@@ -204,6 +427,92 @@
           "burthous",
           "tangwest"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mass84",
+          "massbeac",
+          "comm487",
+          "silb"
+        ],
+        "outbound": [
+          "edge",
+          "paci70"
+        ]
+      },
+      "scheduledTimeRange": {
+        "boston": {
+          "wkd": {
+            "first": "18:20:00",
+            "last": "22:20:00"
+          },
+          "sat": {
+            "first": "18:20:00",
+            "last": "22:20:00"
+          },
+          "sun": {
+            "first": "18:20:00",
+            "last": "22:20:00"
+          },
+          "wkend": {
+            "first": "18:20:00",
+            "last": "22:20:00"
+          }
+        },
+        "kendsq": {
+          "wkd": {
+            "first": "18:07:00",
+            "last": "22:07:00"
+          },
+          "sat": {
+            "first": "18:07:00",
+            "last": "22:07:00"
+          },
+          "sun": {
+            "first": "18:07:00",
+            "last": "22:07:00"
+          },
+          "wkend": {
+            "first": "18:07:00",
+            "last": "22:07:00"
+          }
+        },
+        "mass84": {
+          "wkd": {
+            "first": "18:14:00",
+            "last": "22:47:00"
+          },
+          "sat": {
+            "first": "18:14:00",
+            "last": "22:47:00"
+          },
+          "sun": {
+            "first": "18:14:00",
+            "last": "22:47:00"
+          },
+          "wkend": {
+            "first": "18:14:00",
+            "last": "22:47:00"
+          }
+        },
+        "wcamp": {
+          "wkd": {
+            "first": "18:00:00",
+            "last": "22:00:00"
+          },
+          "sat": {
+            "first": "18:00:00",
+            "last": "22:00:00"
+          },
+          "sun": {
+            "first": "18:00:00",
+            "last": "22:00:00"
+          },
+          "wkend": {
+            "first": "18:00:00",
+            "last": "22:00:00"
+          }
+        }
       }
     },
     "saferidebostone": {
@@ -232,6 +541,59 @@
           "silb",
           "comm478"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mass84_d",
+          "massbeac",
+          "massnewb",
+          "comm487",
+          "silb",
+          "comm478"
+        ],
+        "outbound": [
+          "beacmass",
+          "mass77",
+          "mass84_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "boston": {
+          "wkd": {
+            "first": "18:00:00",
+            "last": "02:00:00"
+          },
+          "sat": {
+            "first": "18:00:00",
+            "last": "03:00:00"
+          },
+          "sun": {
+            "first": "18:00:00",
+            "last": "02:00:00"
+          },
+          "wkend": {
+            "first": "18:00:00",
+            "last": "03:00:00"
+          }
+        },
+        "mass84": {
+          "wkd": {
+            "first": "18:35:00",
+            "last": "02:24:00"
+          },
+          "sat": {
+            "first": "18:24:00",
+            "last": "03:24:00"
+          },
+          "sun": {
+            "first": "18:35:00",
+            "last": "02:24:00"
+          },
+          "wkend": {
+            "first": "18:24:00",
+            "last": "03:24:00"
+          }
+        }
       }
     },
     "saferidebostonw": {
@@ -266,6 +628,67 @@
           "granbroo",
           "stpaul"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mass84_d",
+          "adp",
+          "pearalls",
+          "granbroo",
+          "stpaul"
+        ],
+        "outbound": [
+          "manc58",
+          "stpaul259",
+          "brooputn",
+          "mass84_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "brookline": {
+          "wkd": {
+            "first": "18:05:00",
+            "last": "22:35:00"
+          },
+          "sat": {
+            "first": "18:05:00",
+            "last": "22:35:00"
+          },
+          "special": {
+            "first": "18:05:00",
+            "last": "03:05:00"
+          },
+          "sun": {
+            "first": "18:05:00",
+            "last": "22:35:00"
+          },
+          "wkend": {
+            "first": "18:05:00",
+            "last": "22:35:00"
+          }
+        },
+        "mass84": {
+          "wkd": {
+            "first": "18:25:00",
+            "last": "22:51:00"
+          },
+          "sat": {
+            "first": "18:21:00",
+            "last": "22:51:00"
+          },
+          "special": {
+            "first": "18:21:00",
+            "last": "03:21:00"
+          },
+          "sun": {
+            "first": "18:21:00",
+            "last": "22:51:00"
+          },
+          "wkend": {
+            "first": "18:25:00",
+            "last": "22:51:00"
+          }
+        }
       }
     },
     "saferidecamball": {
@@ -316,6 +739,82 @@
           "broogree",
           "mass84_a"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mass84",
+          "adp",
+          "pearalls",
+          "granbroo",
+          "stpaul"
+        ],
+        "outbound": [
+          "lammed",
+          "cam6th",
+          "1stchar",
+          "mass77",
+          "mass84_b",
+          "manc58",
+          "stpaul259",
+          "brooputn",
+          "mass84_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "brookline": {
+          "wkd": {
+            "first": "18:35:00",
+            "last": "01:35:00"
+          },
+          "sat": {
+            "first": "18:35:00",
+            "last": "02:35:00"
+          },
+          "sun": {
+            "first": "18:35:00",
+            "last": "01:35:00"
+          },
+          "wkend": {
+            "first": "18:35:00",
+            "last": "02:35:00"
+          }
+        },
+        "mass84": {
+          "wkd": {
+            "first": "18:21:00",
+            "last": "01:24:00"
+          },
+          "sat": {
+            "first": "18:21:00",
+            "last": "02:21:00"
+          },
+          "sun": {
+            "first": "18:21:00",
+            "last": "01:24:00"
+          },
+          "wkend": {
+            "first": "18:21:00",
+            "last": "02:21:00"
+          }
+        },
+        "some": {
+          "wkd": {
+            "first": "18:05:00",
+            "last": "01:05:00"
+          },
+          "sat": {
+            "first": "18:05:00",
+            "last": "02:05:00"
+          },
+          "sun": {
+            "first": "18:05:00",
+            "last": "01:05:00"
+          },
+          "wkend": {
+            "first": "18:05:00",
+            "last": "02:05:00"
+          }
+        }
       }
     },
     "saferidecambeast": {
@@ -352,6 +851,57 @@
           "wadse40",
           "mass77"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mass84_d",
+          "nw86",
+          "porthamp"
+        ],
+        "outbound": [
+          "6thcharl",
+          "mitmed",
+          "mass77",
+          "mass84_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "frcamp": {
+          "wkd": {
+            "first": "18:00:00",
+            "last": "22:30:00"
+          },
+          "sat": {
+            "first": "18:00:00",
+            "last": "22:30:00"
+          },
+          "sun": {
+            "first": "18:00:00",
+            "last": "22:30:00"
+          },
+          "wkend": {
+            "first": "18:00:00",
+            "last": "22:30:00"
+          }
+        },
+        "tocamp": {
+          "wkd": {
+            "first": "18:15:00",
+            "last": "22:45:00"
+          },
+          "sat": {
+            "first": "18:15:00",
+            "last": "22:45:00"
+          },
+          "sun": {
+            "first": "18:15:00",
+            "last": "22:45:00"
+          },
+          "wkend": {
+            "first": "18:15:00",
+            "last": "22:45:00"
+          }
+        }
       }
     },
     "costtarg": {
@@ -385,6 +935,37 @@
           "wadse40",
           "medilab"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "masehall",
+          "burthous",
+          "tangwest",
+          "simmhall",
+          "randhmit",
+          "nw86pc70",
+          "nw30ware",
+          "wadse40",
+          "medilab"
+        ],
+        "outbound": [
+          "costco",
+          "targ"
+        ]
+      },
+      "scheduledTimeRange": {
+        "costco": {
+          "sun": {
+            "first": "11:00:00",
+            "last": "14:45:00"
+          }
+        },
+        "mitcamps": {
+          "sun": {
+            "first": "11:45:00",
+            "last": "15:30:00"
+          }
+        }
       }
     },
     "traderjwf": {
@@ -420,6 +1001,37 @@
           "rivfrank",
           "randhl"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "tradjoe",
+          "wholfood",
+          "randhl",
+          "paci70_a"
+        ],
+        "outbound": [
+          "nw86pc70",
+          "kendsq",
+          "medilab",
+          "mccrmk",
+          "burthous",
+          "tangwest",
+          "simmhall"
+        ]
+      },
+      "scheduledTimeRange": {
+        "paci70": {
+          "sun": {
+            "first": "11:59:00",
+            "last": "16:17:00"
+          }
+        },
+        "totj": {
+          "sun": {
+            "first": "11:30:00",
+            "last": "15:48:00"
+          }
+        }
       }
     }
   },

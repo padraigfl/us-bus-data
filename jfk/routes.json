@@ -38,6 +38,32 @@
           "150a148s_ib",
           "stop903"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "fedcirc",
+          "fedcirc_a"
+        ],
+        "outbound": [
+          "fedcirc",
+          "fedcirc_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "00:00:00",
+            "last": "23:50:00"
+          },
+          "sat": {
+            "first": "00:00:00",
+            "last": "23:50:00"
+          },
+          "sun": {
+            "first": "00:00:00",
+            "last": "23:50:00"
+          }
+        }
       }
     },
     "s": {
@@ -67,6 +93,32 @@
           "nextstop2",
           "stop22"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "fedcirc",
+          "fedcirc_a"
+        ],
+        "outbound": [
+          "fedcirc",
+          "fedcirc_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "00:00:00",
+            "last": "23:48:00"
+          },
+          "sat": {
+            "first": "00:00:00",
+            "last": "23:48:00"
+          },
+          "sun": {
+            "first": "00:00:00",
+            "last": "23:48:00"
+          }
+        }
       }
     },
     "e": {
@@ -91,6 +143,32 @@
           "stop4a",
           "stop5"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "stop1",
+          "stop1_a"
+        ],
+        "outbound": [
+          "stop1",
+          "stop1_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "00:00:00",
+            "last": "23:48:00"
+          },
+          "sat": {
+            "first": "00:00:00",
+            "last": "23:48:00"
+          },
+          "sun": {
+            "first": "00:00:00",
+            "last": "23:48:00"
+          }
+        }
       }
     },
     "l": {
@@ -119,6 +197,32 @@
           "noname1",
           "noname2"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "howabeac",
+          "howabeac_a"
+        ],
+        "outbound": [
+          "howabeac",
+          "howabeac_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "00:00:00",
+            "last": "23:52:00"
+          },
+          "sat": {
+            "first": "00:00:00",
+            "last": "23:52:00"
+          },
+          "sun": {
+            "first": "00:00:00",
+            "last": "23:52:00"
+          }
+        }
       }
     }
   },

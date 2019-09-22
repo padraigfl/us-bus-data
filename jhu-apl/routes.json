@@ -23,7 +23,8 @@
           "mp4",
           "mp6"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "express": {
       "title": "Green Line",
@@ -46,7 +47,8 @@
           "b200",
           "mp1"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "southcampus": {
       "title": "Red Line",
@@ -68,7 +70,8 @@
           "b23",
           "b200"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "internal": {
       "title": "Blue Line",
@@ -90,7 +93,8 @@
           "bldg48",
           "bldg29s"
         ]
-      }
+      },
+      "scheduledStops": {}
     }
   },
   "copyright": "All data copyright APL 2019."

@@ -55,6 +55,28 @@
           "pearfult",
           "soutpeck"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "watful_a"
+        ],
+        "outbound": [
+          "neavwar_d",
+          "watful_d"
+        ]
+      },
+      "scheduledTimeRange": {
+        "east": {},
+        "west": {
+          "wkd": {
+            "first": "10:00:00",
+            "last": "19:40:00"
+          },
+          "wkend": {
+            "first": "10:00:00",
+            "last": "19:50:00"
+          }
+        }
       }
     }
   },

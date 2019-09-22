@@ -43,6 +43,48 @@
           "184sango",
           "185sango"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "111rosea",
+          "12oxnar",
+          "197garfi",
+          "182multi"
+        ],
+        "outbound": [
+          "199santa",
+          "12oxnar_h"
+        ]
+      },
+      "scheduledTimeRange": {
+        "eas": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "20:00:00"
+          },
+          "sat": {
+            "first": "06:00:00",
+            "last": "20:00:00"
+          },
+          "sun": {
+            "first": "06:00:00",
+            "last": "20:00:00"
+          }
+        },
+        "wes": {
+          "wkd": {
+            "first": "05:30:00",
+            "last": "20:15:00"
+          },
+          "sat": {
+            "first": "05:30:00",
+            "last": "20:15:00"
+          },
+          "sun": {
+            "first": "05:30:00",
+            "last": "20:15:00"
+          }
+        }
       }
     },
     "3": {
@@ -96,6 +138,49 @@
           "166jstat",
           "177cstat"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "12oxnar",
+          "172hobso"
+        ],
+        "outbound": [
+          "1cstte",
+          "163chann",
+          "1cstte_2",
+          "172hobso_otc",
+          "12oxnar_h"
+        ]
+      },
+      "scheduledTimeRange": {
+        "cpm": {
+          "wkd": {
+            "first": "05:46:00",
+            "last": "19:57:00"
+          },
+          "sat": {
+            "first": "05:46:00",
+            "last": "19:07:00"
+          },
+          "sun": {
+            "first": "05:46:00",
+            "last": "19:07:00"
+          }
+        },
+        "otc": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "20:11:00"
+          },
+          "sat": {
+            "first": "06:00:00",
+            "last": "19:21:00"
+          },
+          "sun": {
+            "first": "06:00:00",
+            "last": "19:21:00"
+          }
+        }
       }
     },
     "5": {
@@ -148,6 +233,48 @@
           "89mclou",
           "92hemlo"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "woolvict",
+          "5thvent_otc",
+          "otc_a"
+        ],
+        "outbound": [
+          "otc_d",
+          "vent5th",
+          "hemlpatt_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "otc": {
+          "wkd": {
+            "first": "05:50:00",
+            "last": "20:20:00"
+          },
+          "sat": {
+            "first": "06:30:00",
+            "last": "20:20:00"
+          },
+          "sun": {
+            "first": "07:17:00",
+            "last": "20:20:00"
+          }
+        },
+        "pw": {
+          "wkd": {
+            "first": "05:30:00",
+            "last": "20:00:00"
+          },
+          "sat": {
+            "first": "06:10:00",
+            "last": "20:00:00"
+          },
+          "sun": {
+            "first": "06:55:00",
+            "last": "20:00:00"
+          }
+        }
       }
     },
     "6": {
@@ -304,6 +431,64 @@
           "ventsene_n",
           "ventwill_n"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "ventwill_s",
+          "mainvent",
+          "mainseaw",
+          "venttrans_a",
+          "venttrans_d",
+          "telegeste",
+          "victtelep",
+          "bristhill",
+          "espl_sb",
+          "ccitrus",
+          "otc_a"
+        ],
+        "outbound": [
+          "otc_d",
+          "cgonz",
+          "espl_nb",
+          "bristhill_n",
+          "victtelep_n",
+          "telegeste_n",
+          "vtc_a",
+          "vtc_d",
+          "mainseaw_n",
+          "ventmain",
+          "ventwill_n"
+        ]
+      },
+      "scheduledTimeRange": {
+        "otc": {
+          "wkd": {
+            "first": "04:45:00",
+            "last": "21:08:00"
+          },
+          "sat": {
+            "first": "05:15:00",
+            "last": "20:45:00"
+          },
+          "sun": {
+            "first": "05:15:00",
+            "last": "20:45:00"
+          }
+        },
+        "ventdako": {
+          "wkd": {
+            "first": "04:50:00",
+            "last": "21:00:00"
+          },
+          "sat": {
+            "first": "05:25:00",
+            "last": "20:00:00"
+          },
+          "sun": {
+            "first": "05:25:00",
+            "last": "20:00:00"
+          }
+        }
       }
     },
     "7": {
@@ -357,6 +542,49 @@
           "55butle",
           "78butle"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "56butle",
+          "bardsim",
+          "63savie",
+          "155cstte_h"
+        ],
+        "outbound": [
+          "155cstte",
+          "pleasav",
+          "bardsim_ob"
+        ]
+      },
+      "scheduledTimeRange": {
+        "cst": {
+          "wkd": {
+            "first": "06:29:00",
+            "last": "19:26:00"
+          },
+          "sat": {
+            "first": "06:29:00",
+            "last": "19:26:00"
+          },
+          "sun": {
+            "first": "06:29:00",
+            "last": "19:26:00"
+          }
+        },
+        "pval": {
+          "wkd": {
+            "first": "06:50:00",
+            "last": "19:11:00"
+          },
+          "sat": {
+            "first": "06:50:00",
+            "last": "19:11:00"
+          },
+          "sun": {
+            "first": "06:50:00",
+            "last": "19:11:00"
+          }
+        }
       }
     },
     "8": {
@@ -430,6 +658,52 @@
           "savibryc_cpm",
           "chanc"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "otc_d",
+          "westrose_cpm",
+          "oxnacoll_cpm",
+          "savibard_cpm",
+          "cmallind_a"
+        ],
+        "outbound": [
+          "cmallind_d",
+          "savibard_otc",
+          "oxnacoll_otc",
+          "westrose_otc",
+          "otc_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "cpm": {
+          "wkd": {
+            "first": "05:45:00",
+            "last": "20:17:00"
+          },
+          "sat": {
+            "first": "06:27:00",
+            "last": "19:36:00"
+          },
+          "sun": {
+            "first": "06:27:00",
+            "last": "19:36:00"
+          }
+        },
+        "otc": {
+          "wkd": {
+            "first": "06:24:00",
+            "last": "20:58:00"
+          },
+          "sat": {
+            "first": "07:09:00",
+            "last": "20:18:00"
+          },
+          "sun": {
+            "first": "07:09:00",
+            "last": "20:18:00"
+          }
+        }
       }
     },
     "9": {
@@ -479,6 +753,50 @@
           "chansan",
           "chanc"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "39cente_d",
+          "oxndate"
+        ],
+        "outbound": [
+          "iveschur",
+          "26eldor",
+          "chanrose",
+          "39cente_h",
+          "39cente",
+          "rosechan"
+        ]
+      },
+      "scheduledTimeRange": {
+        "agl": {
+          "wkd": {
+            "first": "06:51:00",
+            "last": "18:37:00"
+          },
+          "sat": {
+            "first": "06:51:00",
+            "last": "18:37:00"
+          },
+          "sun": {
+            "first": "06:51:00",
+            "last": "18:37:00"
+          }
+        },
+        "lem": {
+          "wkd": {
+            "first": "06:19:00",
+            "last": "19:00:00"
+          },
+          "sat": {
+            "first": "07:04:00",
+            "last": "18:50:00"
+          },
+          "sun": {
+            "first": "07:04:00",
+            "last": "18:50:00"
+          }
+        }
       }
     },
     "10": {
@@ -552,6 +870,54 @@
           "353tele_eb",
           "wells_d"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "vtc_d",
+          "315tele_eb",
+          "348tele_eb",
+          "wells_a",
+          "wells_d"
+        ],
+        "outbound": [
+          "darljonq_wb",
+          "372viol_wb",
+          "wells",
+          "wells_wb",
+          "341tele_wb",
+          "315tele_wb",
+          "vtc_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "eas": {
+          "wkd": {
+            "first": "06:46:00",
+            "last": "20:36:00"
+          },
+          "sat": {
+            "first": "06:46:00",
+            "last": "20:36:00"
+          },
+          "sun": {
+            "first": "06:46:00",
+            "last": "20:36:00"
+          }
+        },
+        "wes": {
+          "wkd": {
+            "first": "05:20:00",
+            "last": "21:07:00"
+          },
+          "sat": {
+            "first": "06:04:00",
+            "last": "21:07:00"
+          },
+          "sun": {
+            "first": "06:04:00",
+            "last": "21:07:00"
+          }
+        }
       }
     },
     "11": {
@@ -627,6 +993,52 @@
           "televet",
           "telewell_eb"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "vtc_d",
+          "telemark_eb",
+          "televict_eb",
+          "telepetit_eb",
+          "wells_a"
+        ],
+        "outbound": [
+          "wells_d",
+          "telepeti_wb",
+          "televict_wb",
+          "telemark_wb",
+          "vtc_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "eas": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "21:30:00"
+          },
+          "sat": {
+            "first": "06:40:00",
+            "last": "21:14:00"
+          },
+          "sun": {
+            "first": "06:40:00",
+            "last": "21:14:00"
+          }
+        },
+        "wes": {
+          "wkd": {
+            "first": "05:20:00",
+            "last": "20:15:00"
+          },
+          "sat": {
+            "first": "06:00:00",
+            "last": "19:20:00"
+          },
+          "sun": {
+            "first": "06:00:00",
+            "last": "19:20:00"
+          }
+        }
       }
     },
     "15": {
@@ -683,6 +1095,50 @@
           "424rosea",
           "115gonza"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "413stjoh",
+          "pasemerc",
+          "simo_viney",
+          "espl_e_a"
+        ],
+        "outbound": [
+          "espl_w_d",
+          "403viney",
+          "pasemerc_ob",
+          "413stjoh_h"
+        ]
+      },
+      "scheduledTimeRange": {
+        "espl": {
+          "wkd": {
+            "first": "06:39:00",
+            "last": "19:14:00"
+          },
+          "sat": {
+            "first": "07:44:00",
+            "last": "20:29:00"
+          },
+          "sun": {
+            "first": "07:44:00",
+            "last": "20:29:00"
+          }
+        },
+        "hospital": {
+          "wkd": {
+            "first": "06:46:00",
+            "last": "19:25:00"
+          },
+          "sat": {
+            "first": "07:11:00",
+            "last": "19:54:00"
+          },
+          "sun": {
+            "first": "07:11:00",
+            "last": "19:54:00"
+          }
+        }
       }
     },
     "16": {
@@ -807,6 +1263,58 @@
           "thombor_sb",
           "teleemma_sb"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "hwy33casi_nb",
+          "hwy33sant",
+          "hwy33ojai_n",
+          "ojaifox_a",
+          "vtc_d",
+          "thomsea_nb",
+          "ventmain_n",
+          "ventcope"
+        ],
+        "outbound": [
+          "ojaifox_d",
+          "hwy33ojai_s",
+          "hwy33santa",
+          "hwy33casi",
+          "ventdako_sb",
+          "ventmain_s",
+          "thomsea_sb",
+          "vtc_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "nor": {
+          "wkd": {
+            "first": "06:05:00",
+            "last": "20:42:00"
+          },
+          "sat": {
+            "first": "06:05:00",
+            "last": "19:42:00"
+          },
+          "sun": {
+            "first": "06:05:00",
+            "last": "19:05:00"
+          }
+        },
+        "sou": {
+          "wkd": {
+            "first": "05:37:00",
+            "last": "21:17:00"
+          },
+          "sat": {
+            "first": "06:17:00",
+            "last": "20:10:00"
+          },
+          "sun": {
+            "first": "07:17:00",
+            "last": "20:10:00"
+          }
+        }
       }
     },
     "17": {
@@ -870,6 +1378,52 @@
           "29rosea",
           "rosecam_o"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "espl_e_d",
+          "oxnclyde_o",
+          "115gonza",
+          "rosewest",
+          "oxcol_o"
+        ],
+        "outbound": [
+          "oxcol_e",
+          "westrose",
+          "rosehosp_e",
+          "oxnclyde_e",
+          "espl_w_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "coll": {
+          "wkd": {
+            "first": "06:39:00",
+            "last": "19:48:00"
+          },
+          "sat": {
+            "first": "07:27:00",
+            "last": "19:19:00"
+          },
+          "sun": {
+            "first": "07:27:00",
+            "last": "19:19:00"
+          }
+        },
+        "espl": {
+          "wkd": {
+            "first": "06:05:00",
+            "last": "20:24:00"
+          },
+          "sat": {
+            "first": "07:13:00",
+            "last": "19:38:00"
+          },
+          "sun": {
+            "first": "07:13:00",
+            "last": "19:38:00"
+          }
+        }
       }
     },
     "19": {
@@ -922,6 +1476,25 @@
           "3rdast",
           "4thb_s"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "12oxnar",
+          "fifthvic",
+          "gonzvic_d",
+          "150gonza",
+          "116gonza_w",
+          "sturlomb",
+          "otc_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:55:00"
+          }
+        }
       }
     },
     "20": {
@@ -974,6 +1547,42 @@
           "90cstat",
           "4thb_s"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "otc_d",
+          "sturlomb",
+          "rosegonz",
+          "gonzc",
+          "victgonz",
+          "vict5th",
+          "otc_a"
+        ],
+        "outbound": [
+          "otc_d",
+          "sturlomb",
+          "rosegonz",
+          "gonzc",
+          "victgonz",
+          "vict5th",
+          "otc_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "05:40:00",
+            "last": "19:20:00"
+          },
+          "sat": {
+            "first": "06:33:00",
+            "last": "18:05:00"
+          },
+          "sun": {
+            "first": "06:33:00",
+            "last": "18:05:00"
+          }
+        }
       }
     },
     "21": {
@@ -1051,6 +1660,52 @@
           "telegash_n",
           "telegpalo_n"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "vtc_d",
+          "telegeste_s",
+          "victtelep_w",
+          "victwool_w",
+          "ctrans_a"
+        ],
+        "outbound": [
+          "ctrans",
+          "victwool_e",
+          "telegvict_n",
+          "telegeste_n",
+          "vtc_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "ctc": {
+          "wkd": {
+            "first": "06:40:00",
+            "last": "19:55:00"
+          },
+          "sat": {
+            "first": "07:10:00",
+            "last": "20:05:00"
+          },
+          "sun": {
+            "first": "07:10:00",
+            "last": "20:05:00"
+          }
+        },
+        "vtc": {
+          "wkd": {
+            "first": "05:40:00",
+            "last": "19:00:00"
+          },
+          "sat": {
+            "first": "06:15:00",
+            "last": "19:10:00"
+          },
+          "sun": {
+            "first": "06:15:00",
+            "last": "19:10:00"
+          }
+        }
       }
     },
     "22": {
@@ -1099,6 +1754,32 @@
           "411gonza",
           "nyelvent_d"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "wells_d",
+          "vineyjuv",
+          "413stjoh",
+          "nyelvent_d",
+          "413stjoh_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "nyeacre": {
+          "wkd": {
+            "first": "06:25:00",
+            "last": "19:10:00"
+          },
+          "sat": {
+            "first": "06:50:00",
+            "last": "20:15:00"
+          },
+          "sun": {
+            "first": "06:50:00",
+            "last": "20:05:00"
+          }
+        },
+        "wells": {}
       }
     },
     "1a": {
@@ -1175,6 +1856,49 @@
           "surfvent",
           "ventseav"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "huenvent_d",
+          "savibard_otc",
+          "ctrans",
+          "otc_a"
+        ],
+        "outbound": [
+          "otc_d",
+          "cterm",
+          "savipleas"
+        ]
+      },
+      "scheduledTimeRange": {
+        "otc": {
+          "wkd": {
+            "first": "05:13:00",
+            "last": "21:07:00"
+          },
+          "sat": {
+            "first": "06:47:00",
+            "last": "20:48:00"
+          },
+          "sun": {
+            "first": "06:47:00",
+            "last": "20:48:00"
+          }
+        },
+        "ph": {
+          "wkd": {
+            "first": "04:45:00",
+            "last": "20:39:00"
+          },
+          "sat": {
+            "first": "06:20:00",
+            "last": "20:20:00"
+          },
+          "sun": {
+            "first": "06:20:00",
+            "last": "20:20:00"
+          }
+        }
       }
     },
     "1b": {
@@ -1250,6 +1974,49 @@
           "scotseco",
           "huenmark"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "huenvent_d",
+          "savibard",
+          "ctrans_otc",
+          "otc_a"
+        ],
+        "outbound": [
+          "otc_d",
+          "ctrans_ph",
+          "bardsavi_ph"
+        ]
+      },
+      "scheduledTimeRange": {
+        "otc": {
+          "wkd": {
+            "first": "05:30:00",
+            "last": "21:31:00"
+          },
+          "sat": {
+            "first": "06:24:00",
+            "last": "21:26:00"
+          },
+          "sun": {
+            "first": "06:24:00",
+            "last": "21:26:00"
+          }
+        },
+        "ph": {
+          "wkd": {
+            "first": "05:05:00",
+            "last": "21:05:00"
+          },
+          "sat": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          },
+          "sun": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          }
+        }
       }
     },
     "4a": {
@@ -1304,6 +2071,47 @@
           "122lanta",
           "147lanta"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "12oxnar",
+          "142doris"
+        ],
+        "outbound": [
+          "115gonza",
+          "12oxnar_h",
+          "150gonza"
+        ]
+      },
+      "scheduledTimeRange": {
+        "gon": {
+          "wkd": {
+            "first": "06:20:00",
+            "last": "20:08:00"
+          },
+          "sat": {
+            "first": "06:20:00",
+            "last": "19:47:00"
+          },
+          "sun": {
+            "first": "06:20:00",
+            "last": "19:47:00"
+          }
+        },
+        "otc": {
+          "wkd": {
+            "first": "06:10:00",
+            "last": "20:36:00"
+          },
+          "sat": {
+            "first": "06:10:00",
+            "last": "20:15:00"
+          },
+          "sun": {
+            "first": "06:10:00",
+            "last": "20:15:00"
+          }
+        }
       }
     },
     "4b": {
@@ -1358,6 +2166,47 @@
           "118gonza",
           "119gonza"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "12oxnar",
+          "114rosea",
+          "118gonza"
+        ],
+        "outbound": [
+          "133doris",
+          "12oxnar_h"
+        ]
+      },
+      "scheduledTimeRange": {
+        "gon": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "20:38:00"
+          },
+          "sat": {
+            "first": "06:05:00",
+            "last": "20:29:00"
+          },
+          "sun": {
+            "first": "06:05:00",
+            "last": "20:29:00"
+          }
+        },
+        "otc": {
+          "wkd": {
+            "first": "06:37:00",
+            "last": "20:31:00"
+          },
+          "sat": {
+            "first": "06:41:00",
+            "last": "20:22:00"
+          },
+          "sun": {
+            "first": "06:41:00",
+            "last": "20:22:00"
+          }
+        }
       }
     },
     "18a": {
@@ -1421,6 +2270,33 @@
           "ckama_ct",
           "ctrans_a"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "oxnahigh",
+          "dorim_ct",
+          "otc_ct",
+          "ctrans_a"
+        ],
+        "outbound": [
+          "ctrans_d",
+          "otc_ox",
+          "dorim_ox"
+        ]
+      },
+      "scheduledTimeRange": {
+        "cst": {
+          "wkd": {
+            "first": "07:50:00",
+            "last": "15:15:00"
+          }
+        },
+        "oxhs": {
+          "wkd": {
+            "first": "07:15:00",
+            "last": "08:15:00"
+          }
+        }
       }
     },
     "18c": {
@@ -1495,6 +2371,24 @@
           "260doris",
           "261oxnar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "103fifth",
+          "246jstat",
+          "256ventu",
+          "261oxnar"
+        ],
+        "outbound": [
+          "oxhigh_pm",
+          "265viney",
+          "100woole",
+          "venfifth_pm"
+        ]
+      },
+      "scheduledTimeRange": {
+        "hs": {},
+        "ven5": {}
       }
     },
     "18f": {
@@ -1588,6 +2482,32 @@
           "lomamill",
           "milltele"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "maincata",
+          "mainfig1",
+          "ventnorw"
+        ],
+        "outbound": [
+          "ventnorw_vtc",
+          "maincata_vtc",
+          "vtc_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "ventnorw": {
+          "wkd": {
+            "first": "14:25:00",
+            "last": "15:45:00"
+          }
+        },
+        "vtc": {
+          "wkd": {
+            "first": "06:47:00",
+            "last": "07:47:00"
+          }
+        }
       }
     },
     "18g": {
@@ -1632,6 +2552,22 @@
           "403viney_r",
           "centrmhs_r"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "centrmhs_o",
+          "vineespl",
+          "126ventu_o"
+        ],
+        "outbound": [
+          "126ventu_r",
+          "vineystm",
+          "centrmhs_r"
+        ]
+      },
+      "scheduledTimeRange": {
+        "oxnard": {},
+        "rio": {}
       }
     }
   },

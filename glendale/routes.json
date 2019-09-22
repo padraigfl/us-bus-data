@@ -37,6 +37,38 @@
           "colojack_n",
           "colobran_n"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "gtc_n",
+          "brancolo_n",
+          "montbran_n",
+          "wilsglen_n",
+          "colojack_n",
+          "gtc_n_a"
+        ],
+        "outbound": [
+          "montbran_s",
+          "wilsmary_s",
+          "wilsglen_s",
+          "colojack_s",
+          "gtc_s_a",
+          "gtc_s"
+        ]
+      },
+      "scheduledTimeRange": {
+        "NBgtc": {
+          "wkd": {
+            "first": "06:05:00",
+            "last": "09:10:00"
+          }
+        },
+        "SBgtc": {
+          "wkd": {
+            "first": "14:51:00",
+            "last": "18:22:00"
+          }
+        }
       }
     },
     "12": {
@@ -94,6 +126,38 @@
           "floala",
           "flover"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "gtc_d",
+          "sanchev",
+          "sanbro",
+          "graair",
+          "floala",
+          "britc_a"
+        ],
+        "outbound": [
+          "britc_d",
+          "alaflo",
+          "airgra",
+          "brosan",
+          "chevsan",
+          "gtc_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2britc_d": {
+          "wkd": {
+            "first": "06:05:00",
+            "last": "18:23:00"
+          }
+        },
+        "2gtc_d": {
+          "wkd": {
+            "first": "05:58:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "31": {
@@ -174,6 +238,42 @@
           "montpenn_n",
           "montram_n"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "harlou_d",
+          "gcc",
+          "honoview",
+          "lacmont_a"
+        ],
+        "outbound": [
+          "lacmont",
+          "verhon",
+          "gcc_s",
+          "harlou_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "NB": {
+          "sat": {
+            "first": "09:12:00",
+            "last": "16:52:00"
+          },
+          "sun": {
+            "first": "09:12:00",
+            "last": "16:52:00"
+          }
+        },
+        "SBgall": {
+          "sat": {
+            "first": "09:48:00",
+            "last": "17:28:00"
+          },
+          "sun": {
+            "first": "09:48:00",
+            "last": "17:28:00"
+          }
+        }
       }
     },
     "32": {
@@ -222,6 +322,31 @@
           "vercal",
           "gcc"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "harlou_d",
+          "gcc_a"
+        ],
+        "outbound": [
+          "gcc_d",
+          "gcc_s",
+          "harlou_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "NBgcc": {
+          "wkd": {
+            "first": "08:56:00",
+            "last": "18:09:00"
+          }
+        },
+        "SBgall": {
+          "wkd": {
+            "first": "09:13:00",
+            "last": "18:27:00"
+          }
+        }
       }
     },
     "33": {
@@ -278,6 +403,32 @@
           "ocnhono_w",
           "verdhono_w"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "montocn_e",
+          "foocor_e",
+          "jpl_a"
+        ],
+        "outbound": [
+          "jpl_d",
+          "foocor",
+          "verdhono_w"
+        ]
+      },
+      "scheduledTimeRange": {
+        "EBjpl": {
+          "wkd": {
+            "first": "06:30:00",
+            "last": "17:48:00"
+          }
+        },
+        "WBmont": {
+          "wkd": {
+            "first": "06:44:00",
+            "last": "18:05:00"
+          }
+        }
       }
     },
     "34": {
@@ -332,6 +483,32 @@
           "ocnhono_w",
           "verdhono_w"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "montocn_e",
+          "foocor_e",
+          "lchs_a"
+        ],
+        "outbound": [
+          "lchs_w",
+          "foocor",
+          "verdhono_w"
+        ]
+      },
+      "scheduledTimeRange": {
+        "EBlchs": {
+          "wkd": {
+            "first": "14:04:00",
+            "last": "16:16:00"
+          }
+        },
+        "WBmont": {
+          "wkd": {
+            "first": "14:28:00",
+            "last": "16:33:00"
+          }
+        }
       }
     },
     "01": {
@@ -388,6 +565,47 @@
           "CenDry",
           "CenSto"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "GTC_d",
+          "CenBro"
+        ],
+        "outbound": [
+          "StoBra",
+          "BraBro",
+          "GTC_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "NBcentsto": {
+          "wkd": {
+            "first": "05:57:00",
+            "last": "19:05:00"
+          },
+          "sat": {
+            "first": "09:10:00",
+            "last": "17:40:00"
+          },
+          "sun": {
+            "first": "09:10:00",
+            "last": "16:25:00"
+          }
+        },
+        "SBgtc": {
+          "wkd": {
+            "first": "06:14:00",
+            "last": "19:26:00"
+          },
+          "sat": {
+            "first": "09:27:00",
+            "last": "18:01:00"
+          },
+          "sun": {
+            "first": "09:27:00",
+            "last": "16:49:00"
+          }
+        }
       }
     },
     "02": {
@@ -443,6 +661,47 @@
           "StoBra",
           "BraCol"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "GTC_d",
+          "BraBro",
+          "StoBra"
+        ],
+        "outbound": [
+          "CenHar",
+          "GTC_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "NBstobra": {
+          "wkd": {
+            "first": "05:50:00",
+            "last": "18:53:00"
+          },
+          "sat": {
+            "first": "09:00:00",
+            "last": "17:30:00"
+          },
+          "sun": {
+            "first": "09:00:00",
+            "last": "17:40:00"
+          }
+        },
+        "SBgtc": {
+          "wkd": {
+            "first": "06:17:00",
+            "last": "19:25:00"
+          },
+          "sat": {
+            "first": "09:27:00",
+            "last": "18:02:00"
+          },
+          "sun": {
+            "first": "09:27:00",
+            "last": "18:12:00"
+          }
+        }
       }
     },
     "03": {
@@ -568,6 +827,36 @@
           "brojac",
           "harlou_a"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "harlou_d",
+          "gcc",
+          "honoview",
+          "foocor_n",
+          "jpl_a"
+        ],
+        "outbound": [
+          "jpl_d",
+          "foocor",
+          "verhon",
+          "gcc_s",
+          "harlou_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "NBjpl": {
+          "wkd": {
+            "first": "05:15:00",
+            "last": "19:30:00"
+          }
+        },
+        "SBgall": {
+          "wkd": {
+            "first": "05:19:00",
+            "last": "20:20:00"
+          }
+        }
       }
     },
     "04": {
@@ -623,6 +912,49 @@
           "centbroa",
           "centharv"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "chevbran_d",
+          "chevgarf",
+          "glenbroa"
+        ],
+        "outbound": [
+          "colcent_d",
+          "broaglen",
+          "garfchev",
+          "chevbran_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "gga": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "17:52:00"
+          },
+          "sat": {
+            "first": "09:00:00",
+            "last": "16:25:00"
+          },
+          "sun": {
+            "first": "09:00:00",
+            "last": "16:25:00"
+          }
+        },
+        "rms": {
+          "wkd": {
+            "first": "06:26:00",
+            "last": "18:18:00"
+          },
+          "sat": {
+            "first": "09:23:00",
+            "last": "16:48:00"
+          },
+          "sun": {
+            "first": "09:23:00",
+            "last": "16:48:00"
+          }
+        }
       }
     },
     "05": {
@@ -669,6 +1001,40 @@
           "pacard_n",
           "pacpal"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "rivpac_d",
+          "pacdor_n",
+          "glecon_a"
+        ],
+        "outbound": [
+          "glecon_d",
+          "pacdor",
+          "rivpac_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "NBhoo": {
+          "wkd": {
+            "first": "06:27:00",
+            "last": "17:58:00"
+          },
+          "sat": {
+            "first": "09:00:00",
+            "last": "16:36:00"
+          }
+        },
+        "SBrivpac": {
+          "wkd": {
+            "first": "06:38:00",
+            "last": "18:09:00"
+          },
+          "sat": {
+            "first": "09:10:00",
+            "last": "16:46:00"
+          }
+        }
       }
     },
     "06": {
@@ -719,6 +1085,40 @@
           "colcol",
           "paccol"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "rivepaci_d",
+          "colgle_e",
+          "broasin_a"
+        ],
+        "outbound": [
+          "brosin_d",
+          "colgle",
+          "rivepaci_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "EBbroasin": {
+          "wkd": {
+            "first": "06:14:00",
+            "last": "17:49:00"
+          },
+          "sat": {
+            "first": "09:00:00",
+            "last": "16:30:00"
+          }
+        },
+        "WBpacriv": {
+          "wkd": {
+            "first": "06:29:00",
+            "last": "18:09:00"
+          },
+          "sat": {
+            "first": "09:17:00",
+            "last": "16:47:00"
+          }
+        }
       }
     },
     "07": {
@@ -806,6 +1206,45 @@
           "verdgcc_d",
           "canaverd_d"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "vicwes_d",
+          "glenwest",
+          "glenwconc",
+          "glenmont",
+          "canaverd_a",
+          "canaverd_d"
+        ],
+        "outbound": [
+          "verdtown",
+          "montglen",
+          "concglenw",
+          "glenowest",
+          "vicwes_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "2gcc": {
+          "wkd": {
+            "first": "06:18:00",
+            "last": "17:48:00"
+          },
+          "sat": {
+            "first": "09:00:00",
+            "last": "15:55:00"
+          }
+        },
+        "2vicwest": {
+          "wkd": {
+            "first": "07:01:00",
+            "last": "18:03:00"
+          },
+          "sat": {
+            "first": "09:38:00",
+            "last": "16:33:00"
+          }
+        }
       }
     }
   },

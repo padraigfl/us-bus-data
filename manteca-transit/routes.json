@@ -46,6 +46,45 @@
           "yosesequ",
           "yosepier"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "trancent_d",
+          "nortcott",
+          "yosepest",
+          "pestyose",
+          "sprenorm",
+          "yosesher_i",
+          "centmagn",
+          "staddani",
+          "mantstat",
+          "yoseunio_i",
+          "trancent_a"
+        ],
+        "outbound": [
+          "trancent_d",
+          "nortcott",
+          "yosepest",
+          "pestyose",
+          "sprenorm",
+          "yosesher_i",
+          "centmagn",
+          "staddani",
+          "yoseunio_i",
+          "trancent_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:00:00"
+          },
+          "sat": {
+            "first": "09:00:00",
+            "last": "15:00:00"
+          }
+        }
       }
     },
     "2": {
@@ -93,6 +132,45 @@
           "mainalam",
           "mainnort"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "trancent_d",
+          "mainmiss",
+          "promshop",
+          "staddani",
+          "mantstat",
+          "yoseunio",
+          "cherdavi",
+          "unioloui",
+          "nortunio",
+          "mainloui",
+          "trancent_a"
+        ],
+        "outbound": [
+          "trancent_d",
+          "mainmiss",
+          "promshop",
+          "staddani",
+          "yoseunio",
+          "cherdavi",
+          "unioloui",
+          "nortunio",
+          "mainloui",
+          "trancent_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:00:00"
+          },
+          "sat": {
+            "first": "09:00:00",
+            "last": "15:00:00"
+          }
+        }
       }
     },
     "3": {
@@ -142,6 +220,30 @@
           "mainpark",
           "mainwetm"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "trancent_d",
+          "mainloui",
+          "eastston",
+          "uniolath",
+          "unioloui",
+          "centmagn",
+          "mantstat",
+          "thomenri",
+          "staddani",
+          "promshop",
+          "mainpark",
+          "trancent_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "4": {
@@ -170,6 +272,22 @@
           "yosesequ",
           "yosepier"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "trancent_d",
+          "mantstat",
+          "yoseunio_i",
+          "trancent_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "06:35:00",
+            "last": "19:05:00"
+          }
+        }
       }
     }
   },

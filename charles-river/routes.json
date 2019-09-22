@@ -46,6 +46,56 @@
           "pacialba",
           "paciland"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "nstat_d",
+          "amesmain",
+          "erie_a"
+        ],
+        "outbound": [
+          "erie_d",
+          "vassstat",
+          "nstat_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "erie": {
+          "wkd": {
+            "first": "15:02:00",
+            "last": "18:58:00"
+          },
+          "earlyrelease": {
+            "first": "14:00:00",
+            "last": "18:00:00"
+          },
+          "holiday": {
+            "first": "15:08:00",
+            "last": "19:00:00"
+          },
+          "holidayearly": {
+            "first": "14:08:00",
+            "last": "18:00:00"
+          }
+        },
+        "nstat": {
+          "wkd": {
+            "first": "14:55:00",
+            "last": "19:28:00"
+          },
+          "earlyrelease": {
+            "first": "14:00:00",
+            "last": "18:30:00"
+          },
+          "holiday": {
+            "first": "15:00:00",
+            "last": "19:30:00"
+          },
+          "holidayearly": {
+            "first": "14:00:00",
+            "last": "18:30:00"
+          }
+        }
       }
     },
     "midday": {
@@ -75,6 +125,18 @@
           "mass77",
           "massland"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "paciland_ib"
+        ],
+        "outbound": [
+          "amesmain"
+        ]
+      },
+      "scheduledTimeRange": {
+        "amesmain": {},
+        "paciland": {}
       }
     },
     "morning": {
@@ -123,6 +185,56 @@
           "univland",
           "paciland"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "nstat_d",
+          "amesmain",
+          "erie_a"
+        ],
+        "outbound": [
+          "erie_d",
+          "vassstat",
+          "nstat_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "erie": {
+          "wkd": {
+            "first": "06:20:00",
+            "last": "10:30:00"
+          },
+          "earlyrelease": {
+            "first": "06:20:00",
+            "last": "10:20:00"
+          },
+          "holiday": {
+            "first": "06:20:00",
+            "last": "10:20:00"
+          },
+          "holidayearly": {
+            "first": "06:20:00",
+            "last": "10:20:00"
+          }
+        },
+        "nstat": {
+          "wkd": {
+            "first": "06:48:00",
+            "last": "10:44:00"
+          },
+          "earlyrelease": {
+            "first": "06:50:00",
+            "last": "10:40:00"
+          },
+          "holiday": {
+            "first": "06:50:00",
+            "last": "10:30:00"
+          },
+          "holidayearly": {
+            "first": "06:50:00",
+            "last": "10:30:00"
+          }
+        }
       }
     }
   },

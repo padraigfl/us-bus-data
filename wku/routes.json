@@ -38,6 +38,53 @@
           "cambpknr_d",
           "evolvill_ob"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "wmrt",
+          "greemall",
+          "cambpknr_d",
+          "evolvill_ob",
+          "creapknr_a"
+        ],
+        "outbound": [
+          "creapknr_d",
+          "13thkent",
+          "ps1",
+          "sndrhall"
+        ]
+      },
+      "scheduledTimeRange": {
+        "creapknr": {
+          "all": {
+            "first": "16:36:00",
+            "last": "19:36:00"
+          },
+          "sat": {
+            "first": "16:36:00",
+            "last": "19:36:00"
+          }
+        },
+        "wilshall": {
+          "all": {
+            "first": "16:00:00",
+            "last": "20:00:00"
+          },
+          "sat": {
+            "first": "16:00:00",
+            "last": "20:00:00"
+          }
+        },
+        "wmrt": {
+          "all": {
+            "first": "16:12:00",
+            "last": "20:12:00"
+          },
+          "sat": {
+            "first": "16:12:00",
+            "last": "20:12:00"
+          }
+        }
       }
     },
     "red": {
@@ -80,6 +127,49 @@
           "walmart",
           "russpknr"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "russpknr",
+          "creapknrrd_a",
+          "parklot",
+          "chesnort",
+          "chessout",
+          "univlot",
+          "mimo",
+          "helmlib",
+          "est",
+          "cherhall",
+          "vall",
+          "duc",
+          "keen",
+          "walmart"
+        ],
+        "outbound": [
+          "creapknrrd",
+          "ps1",
+          "sndrhall",
+          "wilshall",
+          "cohh",
+          "gris",
+          "mmth",
+          "soutches",
+          "ogdepark"
+        ]
+      },
+      "scheduledTimeRange": {
+        "creapknrrd": {
+          "all": {
+            "first": "07:18:00",
+            "last": "21:01:00"
+          }
+        },
+        "parklot": {
+          "all": {
+            "first": "07:18:00",
+            "last": "20:16:00"
+          }
+        }
       }
     },
     "white": {
@@ -125,6 +215,50 @@
         "Kroger": [
           "cambpknr_d2"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "cherhall",
+          "vall",
+          "mccohall",
+          "13thkent",
+          "12thcent",
+          "cohh",
+          "gris",
+          "mmth",
+          "pft",
+          "merehall",
+          "creapknr",
+          "evolvill_ib",
+          "scamp_pknr",
+          "kroger",
+          "cambpknr_a"
+        ],
+        "outbound": [
+          "cambpknr_d",
+          "evolvill_ob",
+          "creapknr_ob",
+          "jagg",
+          "univlot",
+          "mimo",
+          "helmlib",
+          "est"
+        ]
+      },
+      "scheduledTimeRange": {
+        "cambpknr": {
+          "all": {
+            "first": "07:22:00",
+            "last": "20:16:00"
+          }
+        },
+        "cherhall": {
+          "all": {
+            "first": "07:15:00",
+            "last": "20:04:00"
+          }
+        },
+        "kroger": {}
       }
     }
   },

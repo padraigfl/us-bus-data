@@ -70,6 +70,34 @@
           "cherivy_wb",
           "greecher_nb"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mandhano",
+          "cresgard_eb",
+          "chergree_wb",
+          "gms_a"
+        ],
+        "outbound": [
+          "gms_d",
+          "chergree",
+          "cresgard",
+          "hanogree_o"
+        ]
+      },
+      "scheduledTimeRange": {
+        "gms": {
+          "wkd": {
+            "first": "05:54:00",
+            "last": "20:24:00"
+          }
+        },
+        "mand": {
+          "wkd": {
+            "first": "05:28:00",
+            "last": "19:58:00"
+          }
+        }
       }
     },
     "12": {
@@ -146,6 +174,34 @@
           "hami35",
           "hami31"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "whs_d2",
+          "12_3",
+          "12_21",
+          "gwenbritt",
+          "38hami",
+          "whs_a"
+        ],
+        "outbound": [
+          "whs_d1",
+          "12_43"
+        ]
+      },
+      "scheduledTimeRange": {
+        "eloop": {
+          "wkd": {
+            "first": "05:49:00",
+            "last": "19:02:00"
+          }
+        },
+        "sloop": {
+          "wkd": {
+            "first": "05:30:00",
+            "last": "18:42:00"
+          }
+        }
       }
     },
     "13": {
@@ -230,6 +286,50 @@
           "easttole_nb",
           "westmetr"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "whyatt_nb",
+          "agernich_nb",
+          "whs_d_sb",
+          "hami38th",
+          "rhodcoun_e",
+          "42ndogle"
+        ],
+        "outbound": [
+          "belcrpgsta",
+          "pgplaza_13_sb",
+          "agernich",
+          "whs_a_sb",
+          "pgplaza_nb",
+          "belc6505",
+          "42ndogle_nb",
+          "rhodcoun_w",
+          "hami38th_nb",
+          "whs_a_nb"
+        ]
+      },
+      "scheduledTimeRange": {
+        "pgplaza": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:40:00"
+          },
+          "holiday": {
+            "first": "07:13:00",
+            "last": "18:00:00"
+          }
+        },
+        "whs": {
+          "wkd": {
+            "first": "06:09:00",
+            "last": "19:01:00"
+          },
+          "holiday": {
+            "first": "07:33:00",
+            "last": "18:10:00"
+          }
+        }
       }
     },
     "14": {
@@ -331,6 +431,47 @@
           "toledort_o",
           "belcresd_o"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "pgpl_d",
+          "14_56",
+          "14_39",
+          "14_8",
+          "14_36",
+          "cps_a"
+        ],
+        "outbound": [
+          "cps_d",
+          "14_36_o",
+          "14_8_o",
+          "14_39_o",
+          "14_50",
+          "belcresd_o",
+          "pgpl_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "cps": {
+          "wkd": {
+            "first": "05:25:00",
+            "last": "19:40:00"
+          },
+          "holiday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        },
+        "pgplaza": {
+          "wkd": {
+            "first": "05:25:00",
+            "last": "19:40:00"
+          },
+          "holiday": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "16": {
@@ -452,6 +593,50 @@
           "16_2",
           "16_1"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "ncs_d",
+          "rivecarr",
+          "lamontdt_n",
+          "docthosp_n",
+          "hanoorag_n",
+          "57thberw_n",
+          "beltshop_n",
+          "gms_a"
+        ],
+        "outbound": [
+          "gms_d",
+          "beltshop_s",
+          "57thberw",
+          "hanoverp",
+          "16_9",
+          "lamontdt",
+          "rivcmall",
+          "ncs_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "nb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "19:30:00"
+          },
+          "holiday": {
+            "first": "08:00:00",
+            "last": "18:01:00"
+          }
+        },
+        "sb": {
+          "wkd": {
+            "first": "05:30:00",
+            "last": "19:30:00"
+          },
+          "holiday": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "17": {
@@ -551,6 +736,46 @@
           "rhod37pl",
           "mtraterm_a"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mtraterm_d",
+          "cosvbldg_n",
+          "balteawe_n",
+          "baltpain",
+          "cps_n",
+          "ikea_a"
+        ],
+        "outbound": [
+          "ikea_d",
+          "cps_s",
+          "baltcamp",
+          "balteawe",
+          "cosvbldg",
+          "mtraterm_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "nb": {
+          "wkd": {
+            "first": "05:45:00",
+            "last": "19:15:00"
+          },
+          "holiday": {
+            "first": "08:00:00",
+            "last": "18:01:00"
+          }
+        },
+        "sb": {
+          "wkd": {
+            "first": "05:30:00",
+            "last": "19:30:00"
+          },
+          "holiday": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "18": {
@@ -755,6 +980,50 @@
           "18_31",
           "18_30"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "ars_d",
+          "18_69_n",
+          "18_63_n",
+          "18_47_n",
+          "hamiltoa_n",
+          "18_45_n",
+          "23rdavea_n",
+          "edwanewh_a"
+        ],
+        "outbound": [
+          "edwanewh_d",
+          "23rdavea",
+          "18_45",
+          "hamiltoa",
+          "18_47",
+          "18_63",
+          "18_69",
+          "ars_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "nb": {
+          "wkd": {
+            "first": "05:30:00",
+            "last": "19:30:00"
+          },
+          "holiday": {
+            "first": "08:30:00",
+            "last": "17:30:00"
+          }
+        },
+        "sb": {
+          "wkd": {
+            "first": "05:30:00",
+            "last": "19:30:00"
+          },
+          "holiday": {
+            "first": "07:00:00",
+            "last": "18:30:00"
+          }
+        }
       }
     },
     "20": {
@@ -871,6 +1140,50 @@
           "courthou_e",
           "elmstatg"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "ars_d",
+          "pennmars_e",
+          "20_40_e",
+          "20_18_e",
+          "20_32_e",
+          "oldmarlb_e",
+          "courthou_e",
+          "cab_a"
+        ],
+        "outbound": [
+          "cab_d",
+          "courthou",
+          "oldmarlb",
+          "20_32",
+          "20_18",
+          "20_40",
+          "pennmars",
+          "ars_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "eb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "19:00:00"
+          },
+          "holiday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        },
+        "wb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:40:00"
+          },
+          "holiday": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "21": {
@@ -1006,6 +1319,43 @@
           "equestri_s",
           "equestrn_a"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "ncs_d",
+          "brightse_s",
+          "21_12_s",
+          "larstation_s",
+          "campuswa_s",
+          "21_65_s",
+          "courthou_a"
+        ],
+        "outbound": [
+          "equestrn_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "courthou": {
+          "wkd": {
+            "first": "05:55:00",
+            "last": "19:09:00"
+          },
+          "holiday": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        },
+        "eque": {},
+        "ncs": {
+          "wkd": {
+            "first": "06:08:00",
+            "last": "18:02:00"
+          },
+          "holiday": {
+            "first": "08:30:00",
+            "last": "18:30:00"
+          }
+        }
       }
     },
     "22": {
@@ -1094,6 +1444,42 @@
           "garrhart",
           "garrmorg_i2"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "morstation_d",
+          "22_46_o",
+          "22_35_o",
+          "22_37_o",
+          "22_12_o",
+          "22_17_o",
+          "pgsports_o",
+          "brstmprg_a"
+        ],
+        "outbound": [
+          "brstevar_d",
+          "pgsports",
+          "22_17",
+          "22_12",
+          "22_37",
+          "22_46",
+          "22_35",
+          "morstation_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "landover": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:40:00"
+          }
+        },
+        "morgan": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:40:00"
+          }
+        }
       }
     },
     "23": {
@@ -1226,6 +1612,50 @@
           "colp5700",
           "columbia_o"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "chevms_d",
+          "23_67_s",
+          "shermlk",
+          "pgsports",
+          "23_47",
+          "23_35",
+          "posswalk",
+          "ars_a"
+        ],
+        "outbound": [
+          "ars_d",
+          "posswalk_o",
+          "23_76",
+          "23_47_o",
+          "pgsports_o",
+          "shermlk_o",
+          "sherwill2_nb",
+          "chevms_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "ars": {
+          "wkd": {
+            "first": "06:07:00",
+            "last": "20:10:00"
+          },
+          "holiday": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        },
+        "cheverly": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "19:50:00"
+          },
+          "holiday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "24": {
@@ -1378,6 +1808,50 @@
           "ritctruc_eb",
           "ritccent_i"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "morstation_d",
+          "24_52_o",
+          "24_17_o",
+          "24_12",
+          "silverhi_o",
+          "24_4_o",
+          "24_15_o",
+          "capitolh_a"
+        ],
+        "outbound": [
+          "captiolh_d",
+          "24_15",
+          "walkmarl_i",
+          "silverhi",
+          "kipcoun",
+          "24_17",
+          "24_52",
+          "morstation_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "capitolh": {
+          "wkd": {
+            "first": "05:25:00",
+            "last": "19:30:00"
+          },
+          "holiday": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        },
+        "morgan": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "19:30:00"
+          },
+          "holiday": {
+            "first": "08:01:00",
+            "last": "18:01:00"
+          }
+        }
       }
     },
     "25": {
@@ -1468,6 +1942,40 @@
           "25_14",
           "25_9"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "capitolh_de",
+          "25_27_o",
+          "25_36_o",
+          "25_42_o",
+          "25_2_o",
+          "25_43_o",
+          "capitolh_ae"
+        ],
+        "outbound": [
+          "capitolh_dw",
+          "25_43",
+          "25_2",
+          "25_42",
+          "25_36",
+          "25_27",
+          "capitolh_aw"
+        ]
+      },
+      "scheduledTimeRange": {
+        "ebloop": {
+          "wkd": {
+            "first": "06:15:00",
+            "last": "18:55:00"
+          }
+        },
+        "wbloop": {
+          "wkd": {
+            "first": "06:05:00",
+            "last": "18:25:00"
+          }
+        }
       }
     },
     "26": {
@@ -1542,6 +2050,44 @@
           "22_27",
           "22_24"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "morgstat_d",
+          "hampstee_eb",
+          "campuswa",
+          "motorveh_d",
+          "largo_a"
+        ],
+        "outbound": [
+          "largo_d",
+          "motorveh_d_wb",
+          "campuswa_wb",
+          "hampstee_wb",
+          "morstation_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "largo": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "19:20:00"
+          },
+          "holiday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        },
+        "morgan": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "19:20:00"
+          },
+          "holiday": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "27": {
@@ -1596,6 +2142,36 @@
           "penn3300_sb",
           "penn3133_sb"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "lms_d_nb",
+          "27_8",
+          "27_3",
+          "27_6",
+          "lms_a_nb"
+        ],
+        "outbound": [
+          "lms_d",
+          "hubbmlk",
+          "dodgland",
+          "penns75th",
+          "lms_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "nb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:30:00"
+          }
+        },
+        "sb": {
+          "wkd": {
+            "first": "06:15:00",
+            "last": "18:45:00"
+          }
+        }
       }
     },
     "28": {
@@ -1677,6 +2253,42 @@
           "camgrey_d",
           "9617lott"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "largoe_d",
+          "arenshop_n",
+          "jeriresi_n",
+          "1400mer_n",
+          "9400pep_n",
+          "rubycam_n",
+          "camgrey_d",
+          "largoe_a2"
+        ],
+        "outbound": [
+          "largoe_d2",
+          "camgrey_d2",
+          "rubycam_s",
+          "9400pep",
+          "1400mer",
+          "jeriresi_s",
+          "arenshop_lg",
+          "largoe_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "campgrey": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:45:00"
+          }
+        },
+        "largo": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:45:00"
+          }
+        }
       }
     },
     "30": {
@@ -1776,6 +2388,50 @@
           "30_21_o",
           "30_46"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "maryhosp_d",
+          "clintonf_d",
+          "30_32_o",
+          "30_40_o",
+          "padgetts_o",
+          "oldbranc_o",
+          "30_25",
+          "bas_a"
+        ],
+        "outbound": [
+          "bas_d",
+          "30_27",
+          "oldbranc",
+          "padgetts",
+          "30_40",
+          "30_32",
+          "clintonf_a",
+          "maryhosp_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "bas": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:45:00"
+          },
+          "holiday": {
+            "first": "08:01:00",
+            "last": "18:01:00"
+          }
+        },
+        "maryhosp": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:45:00"
+          },
+          "holiday": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "32": {
@@ -1909,6 +2565,52 @@
           "32_22",
           "woodwood"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "naylor_d",
+          "32_26",
+          "templehd",
+          "manvp",
+          "brinkley",
+          "oldbranc",
+          "32_41",
+          "32_11",
+          "clintonf_a"
+        ],
+        "outbound": [
+          "clintonf_d",
+          "32_11_o",
+          "32_41_o",
+          "oldbranc_o",
+          "brinkley_o",
+          "manvp_o",
+          "templehd_o",
+          "32_26_o",
+          "naylor_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "clintonf": {
+          "wkd": {
+            "first": "05:30:00",
+            "last": "19:30:00"
+          },
+          "holiday": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        },
+        "naylor": {
+          "wkd": {
+            "first": "05:30:00",
+            "last": "19:30:00"
+          },
+          "holiday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "33": {
@@ -2040,6 +2742,48 @@
           "allentol",
           "5846alle"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "soutave_d",
+          "owenirvi_sb",
+          "owenwhee_sb",
+          "templehd_n",
+          "33_35_s",
+          "padgetts_s",
+          "oldballe_a"
+        ],
+        "outbound": [
+          "oldbranc_d",
+          "padgetts_n",
+          "33_35_n",
+          "templehd_s",
+          "33_52_e",
+          "owenirvi",
+          "soutave_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "oldballe": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "20:00:00"
+          },
+          "holiday": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        },
+        "soutave": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "19:20:00"
+          },
+          "holiday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "34": {
@@ -2116,6 +2860,26 @@
           "silvmetr_i",
           "metrgat7_i"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "suitmsta_d"
+        ],
+        "outbound": [
+          "cpcrapts_d",
+          "34_5_n",
+          "suitmsta_a",
+          "34_5"
+        ]
+      },
+      "scheduledTimeRange": {
+        "cap": {},
+        "suitms": {
+          "wkd": {
+            "first": "05:50:00",
+            "last": "19:44:00"
+          }
+        }
       }
     },
     "35": {
@@ -2241,6 +3005,40 @@
           "sout13th",
           "soutfore"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "smetsta_d",
+          "oxonpark",
+          "gaylhote",
+          "oxon6192",
+          "padgetts",
+          "oxonrive",
+          "oxonpark_i",
+          "smetsta_a"
+        ],
+        "outbound": [
+          "smetsta_d",
+          "oxonpark",
+          "gaylhote",
+          "oxon6192",
+          "padgetts",
+          "oxonrive",
+          "oxonpark_i",
+          "smetsta_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "05:55:00",
+            "last": "18:10:00"
+          },
+          "holiday": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "36": {
@@ -2294,6 +3092,40 @@
           "8924wood",
           "woodwood"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mtapnr_d",
+          "mattbean",
+          "brancros",
+          "gwynnhs",
+          "brangrov",
+          "bransurr",
+          "clinton_a"
+        ],
+        "outbound": [
+          "clinton_d",
+          "bransurr_o",
+          "brangrov_o",
+          "gwynnhs_o",
+          "brancros_o",
+          "mattbean_o",
+          "mtapnr_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "northbound": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "19:30:00"
+          }
+        },
+        "southbound": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "19:30:00"
+          }
+        }
       }
     },
     "37": {
@@ -2415,6 +3247,38 @@
           "savfore",
           "soumetro_a"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "oldbrall",
+          "allentem_n",
+          "tuckarun_n",
+          "wilbrg",
+          "indsav_n",
+          "soumetro_a"
+        ],
+        "outbound": [
+          "soumetro",
+          "indsav_s",
+          "wilbrg_s",
+          "tuckarun_s",
+          "allentem_s",
+          "allenold"
+        ]
+      },
+      "scheduledTimeRange": {
+        "north": {
+          "wkd": {
+            "first": "05:15:00",
+            "last": "07:59:00"
+          }
+        },
+        "south": {
+          "wkd": {
+            "first": "16:00:00",
+            "last": "18:35:00"
+          }
+        }
       }
     },
     "51": {
@@ -2445,6 +3309,31 @@
           "accewest",
           "odenelm"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "eque1",
+          "courthou_n"
+        ],
+        "outbound": [
+          "countyad",
+          "courthou_s",
+          "eque1_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "cab": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:45:00"
+          }
+        },
+        "equ": {
+          "wkd": {
+            "first": "06:06:00",
+            "last": "18:51:00"
+          }
+        }
       }
     },
     "53": {
@@ -2505,6 +3394,32 @@
           "dillbrow",
           "dillecorr"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "countyad",
+          "villclai_a"
+        ],
+        "outbound": [
+          "villclai_d",
+          "marlm_d",
+          "courthou",
+          "rogefarn"
+        ]
+      },
+      "scheduledTimeRange": {
+        "clair": {
+          "wkd": {
+            "first": "06:58:00",
+            "last": "19:22:00"
+          }
+        },
+        "dwi": {
+          "wkd": {
+            "first": "06:30:00",
+            "last": "18:30:00"
+          }
+        }
       }
     },
     "15x": {
@@ -2546,6 +3461,34 @@
           "nasagate_sb",
           "ciprbrae_sb"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "ncarr_d",
+          "goddgate_nb",
+          "gms_a",
+          "gmscomm_nb"
+        ],
+        "outbound": [
+          "gms_d",
+          "gmscomm_sb",
+          "goddgate_sb",
+          "ncarr_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "nb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "19:40:00"
+          }
+        },
+        "sb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "19:00:00"
+          }
+        }
       }
     },
     "21x": {
@@ -2581,6 +3524,34 @@
           "pgccbick_s",
           "pgccperi_s"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "motorveh_d",
+          "campuswa_n",
+          "landover_n",
+          "newcarro_a"
+        ],
+        "outbound": [
+          "newcarro_d",
+          "landover_s",
+          "campuswa_s",
+          "motorveh_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "nb": {
+          "wkd": {
+            "first": "09:02:00",
+            "last": "20:00:00"
+          }
+        },
+        "sb": {
+          "wkd": {
+            "first": "06:55:00",
+            "last": "19:30:00"
+          }
+        }
       }
     },
     "35s": {
@@ -2630,6 +3601,26 @@
           "livmedc",
           "swanhead"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "oxhfprlt_a"
+        ],
+        "outbound": [
+          "oxhfprlt",
+          "gaylord",
+          "indhwash",
+          "livmedc"
+        ]
+      },
+      "scheduledTimeRange": {
+        "nb": {},
+        "sb": {
+          "wkd": {
+            "first": "09:00:00",
+            "last": "15:20:00"
+          }
+        }
       }
     }
   },

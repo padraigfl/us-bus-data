@@ -1,7 +1,14 @@
 {
   "data": {
     "longpark": {
-      "routes": {},
+      "routes": {
+        "east": {
+          "": true
+        },
+        "short": {
+          "": true
+        }
+      },
       "lon": "-73.883375",
       "title": "Long Term Parking 1",
       "stopId": "0131",
@@ -9,7 +16,14 @@
       "lat": "40.776221"
     },
     "longpark2": {
-      "routes": {},
+      "routes": {
+        "east": {
+          "": true
+        },
+        "short": {
+          "": true
+        }
+      },
       "lon": "-73.882594",
       "title": "Long Term Parking 2",
       "stopId": "0132",
@@ -17,7 +31,14 @@
       "lat": "40.7777961"
     },
     "longpark3": {
-      "routes": {},
+      "routes": {
+        "east": {
+          "": true
+        },
+        "short": {
+          "": true
+        }
+      },
       "lon": "-73.8838933",
       "title": "Long Term Parking 3",
       "stopId": "0133",
@@ -25,7 +46,14 @@
       "lat": "40.7789029"
     },
     "longpark4": {
-      "routes": {},
+      "routes": {
+        "east": {
+          "": true
+        },
+        "short": {
+          "": true
+        }
+      },
       "lon": "-73.883714",
       "title": "Long Term Parking 4",
       "stopId": "0134",
@@ -33,7 +61,11 @@
       "lat": "40.777566"
     },
     "trma": {
-      "routes": {},
+      "routes": {
+        "east": {
+          "": true
+        }
+      },
       "lon": "-73.8862536",
       "title": "Terminal A",
       "stopId": "0110",
@@ -41,28 +73,44 @@
       "lat": "40.7732683"
     },
     "termd": {
-      "routes": {},
+      "routes": {
+        "east": {
+          "": true
+        }
+      },
       "lon": "-73.8617758",
       "title": "Terminal D",
       "tag": "termd",
       "lat": "40.768033"
     },
     "termc": {
-      "routes": {},
+      "routes": {
+        "east": {
+          "": true
+        }
+      },
       "lon": "-73.8643363",
       "title": "Terminal C",
       "tag": "termc",
       "lat": "40.7700142"
     },
     "hang3bus": {
-      "routes": {},
+      "routes": {
+        "short": {
+          "": true
+        }
+      },
       "lon": "-73.872797",
       "title": "Terminal B Bus Stop",
       "tag": "hang3bus",
       "lat": "40.774011"
     },
     "fuelfarm": {
-      "routes": {},
+      "routes": {
+        "short": {
+          "": true
+        }
+      },
       "lon": "-73.8875639",
       "title": "Fuel Farm",
       "tag": "fuelfarm",

@@ -1,56 +1,91 @@
 {
   "data": {
     "linclab": {
-      "routes": {},
+      "routes": {
+        "lb": {
+          "": true
+        },
+        "fs": {
+          "": true
+        }
+      },
       "lon": "-71.267467",
       "title": "MIT Lincoln Laboratory",
       "tag": "linclab",
       "lat": "42.4586261"
     },
     "200tech_ib": {
-      "routes": {},
+      "routes": {
+        "lb": {
+          "": true
+        }
+      },
       "lon": "-71.091289",
       "title": "Beaverworks",
       "tag": "200tech_ib",
       "lat": "42.363419"
     },
     "60vass_ib": {
-      "routes": {},
+      "routes": {
+        "lb": {
+          "": true
+        }
+      },
       "lon": "-71.0921206",
       "title": "Building 39",
       "tag": "60vass_ib",
       "lat": "42.3615631"
     },
     "325main_d": {
-      "routes": {},
+      "routes": {
+        "lb": {
+          "": true
+        }
+      },
       "lon": "-71.0865669",
       "title": "Medical Stop",
       "tag": "325main_d",
       "lat": "42.3625079"
     },
     "60vass_ob": {
-      "routes": {},
+      "routes": {
+        "lb": {
+          "": true
+        }
+      },
       "lon": "-71.0921207",
       "title": "Building 39",
       "tag": "60vass_ob",
       "lat": "42.3615631"
     },
     "200tech_ob": {
-      "routes": {},
+      "routes": {
+        "lb": {
+          "": true
+        }
+      },
       "lon": "-71.091229",
       "title": "Beaverworks",
       "tag": "200tech_ob",
       "lat": "42.363424"
     },
     "linclab_a": {
-      "routes": {},
+      "routes": {
+        "lb": {
+          "": true
+        }
+      },
       "lon": "-71.2674827",
       "title": "MIT Lincoln Laboratory (arrival)",
       "tag": "linclab_a",
       "lat": "42.4587144"
     },
     "5forb": {
-      "routes": {},
+      "routes": {
+        "fs": {
+          "": true
+        }
+      },
       "lon": "-71.262608",
       "title": "MIT - 5 Forbes Rd",
       "shortTitle": "MIT - 5 Forbes",

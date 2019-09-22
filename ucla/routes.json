@@ -25,6 +25,22 @@
           "gonda_s",
           "medplaz_s"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "weybterr_d",
+          "wytnsout_a",
+          "wytnsout",
+          "weybterr_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "07:00:00",
+            "last": "18:22:00"
+          }
+        }
       }
     },
     "wilshire": {
@@ -53,6 +69,22 @@
           "conttive",
           "westlind"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "wilscent",
+          "wytnnort_a",
+          "wytnnort",
+          "wilscent_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "07:00:00",
+            "last": "17:50:00"
+          }
+        }
       }
     }
   },

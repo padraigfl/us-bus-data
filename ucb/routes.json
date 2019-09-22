@@ -33,6 +33,22 @@
           "bancshat",
           "shatkitt"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "berkbart_d",
+          "coryhall",
+          "evanhall",
+          "krobhall"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "07:00:00",
+            "last": "19:00:00"
+          }
+        }
       }
     },
     "hill": {
@@ -64,6 +80,33 @@
           "lawrhall",
           "spacelab_a"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "spacelab_d",
+          "lawrhall_ib",
+          "evanhall_a"
+        ],
+        "outbound": [
+          "berkbart_d",
+          "evanhall",
+          "lawrhall",
+          "spacelab_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "down": {
+          "wkd": {
+            "first": "07:55:00",
+            "last": "19:15:00"
+          }
+        },
+        "up": {
+          "wkd": {
+            "first": "07:35:00",
+            "last": "18:55:00"
+          }
+        }
       }
     },
     "cent": {
@@ -91,6 +134,22 @@
           "westcirc",
           "likashin"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "berkbart_d",
+          "nortgate",
+          "evanhall",
+          "likashin"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "06:45:00",
+            "last": "18:55:00"
+          }
+        }
       }
     },
     "rfs": {
@@ -121,6 +180,25 @@
           "richfsta_ib",
           "regafacl_a"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "ecerbart_d",
+          "regafacl_d",
+          "hopkmlk",
+          "berkbart_d",
+          "evanhall",
+          "hopkmlk_ib",
+          "regafacl_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "06:45:00",
+            "last": "18:05:00"
+          }
+        }
       }
     },
     "ntsafens": {
@@ -165,6 +243,42 @@
           "lifescie_ib",
           "evanhall"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mofflibr_d",
+          "berkbart_d",
+          "footstud",
+          "intehous",
+          "bancells",
+          "berkbart_ib",
+          "evanhall"
+        ],
+        "outbound": [
+          "mofflibr_d",
+          "berkbart_d",
+          "footstud",
+          "intehous",
+          "bancells",
+          "berkbart_ib",
+          "evanhall"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "19:45:00",
+            "last": "02:15:00"
+          },
+          "sat": {
+            "first": "19:45:00",
+            "last": "19:15:00"
+          },
+          "sun": {
+            "first": "19:45:00",
+            "last": "02:15:00"
+          }
+        }
       }
     },
     "ntsafess": {
@@ -208,6 +322,40 @@
           "highridg",
           "evanhall"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mofflibr_d",
+          "berkbart_d",
+          "chantele",
+          "clarkerr",
+          "haasbusn",
+          "evanhall"
+        ],
+        "outbound": [
+          "mofflibr_d",
+          "berkbart_d",
+          "chantele",
+          "clarkerr",
+          "haasbusn",
+          "evanhall"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "19:30:00",
+            "last": "02:30:00"
+          },
+          "sat": {
+            "first": "18:30:00",
+            "last": "04:00:00"
+          },
+          "sun": {
+            "first": "18:30:00",
+            "last": "02:30:00"
+          }
+        }
       }
     },
     "shrdserv": {
@@ -228,6 +376,20 @@
           "nberbart_d",
           "css_d"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "nberbart_d",
+          "css_d"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "06:40:00",
+            "last": "18:00:00"
+          }
+        }
       }
     }
   },

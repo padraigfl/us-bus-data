@@ -32,6 +32,55 @@
           "4560588",
           "4560589"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "4560590",
+          "4560589",
+          "4560595"
+        ],
+        "outbound": [
+          "4560595",
+          "4560589"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Centennial Olympic Park": {
+          "Friday": {
+            "first": "05:59:00",
+            "last": "00:43:00"
+          },
+          "MoTuWeTh": {
+            "first": "05:59:00",
+            "last": "22:43:00"
+          },
+          "Saturday": {
+            "first": "08:29:00",
+            "last": "00:43:00"
+          },
+          "Sunday": {
+            "first": "08:59:00",
+            "last": "20:43:00"
+          }
+        },
+        "King Historic District": {
+          "Friday": {
+            "first": "06:00:00",
+            "last": "01:00:00"
+          },
+          "MoTuWeTh": {
+            "first": "06:00:00",
+            "last": "23:00:00"
+          },
+          "Saturday": {
+            "first": "08:30:00",
+            "last": "01:00:00"
+          },
+          "Sunday": {
+            "first": "09:00:00",
+            "last": "21:00:00"
+          }
+        }
       }
     }
   },

@@ -62,6 +62,54 @@
           "28670",
           "28671"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "28609",
+          "28735",
+          "28666",
+          "28545",
+          "28736",
+          "28552",
+          "5351_ar"
+        ],
+        "outbound": [
+          "5351",
+          "28729",
+          "28730",
+          "28559",
+          "28609_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Ftc": {
+          "Fri": {
+            "first": "06:21:00",
+            "last": "19:21:00"
+          },
+          "Sat": {
+            "first": "09:21:00",
+            "last": "17:21:00"
+          },
+          "ThuMonTueWed": {
+            "first": "06:21:00",
+            "last": "19:21:00"
+          }
+        },
+        "Walmart": {
+          "Fri": {
+            "first": "06:00:00",
+            "last": "19:00:00"
+          },
+          "Sat": {
+            "first": "09:00:00",
+            "last": "17:00:00"
+          },
+          "ThuMonTueWed": {
+            "first": "06:00:00",
+            "last": "19:00:00"
+          }
+        }
       }
     },
     "2": {
@@ -118,6 +166,53 @@
           "28716",
           "28719"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "28717",
+          "28555",
+          "28559",
+          "28570",
+          "28577",
+          "2436157_ar"
+        ],
+        "outbound": [
+          "2436157",
+          "28579",
+          "28586",
+          "28545",
+          "28717_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Ff Vac Train Station": {
+          "Fri": {
+            "first": "06:15:00",
+            "last": "19:15:00"
+          },
+          "Sat": {
+            "first": "09:45:00",
+            "last": "17:45:00"
+          },
+          "ThuMonTueWed": {
+            "first": "06:15:00",
+            "last": "19:15:00"
+          }
+        },
+        "Solano Town Ctr": {
+          "Fri": {
+            "first": "06:45:00",
+            "last": "19:45:00"
+          },
+          "Sat": {
+            "first": "10:15:00",
+            "last": "18:15:00"
+          },
+          "ThuMonTueWed": {
+            "first": "06:45:00",
+            "last": "19:45:00"
+          }
+        }
       }
     },
     "3": {
@@ -157,6 +252,52 @@
           "28660",
           "28563"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "28609",
+          "28717",
+          "28743",
+          "5351_ar"
+        ],
+        "outbound": [
+          "5351",
+          "28612",
+          "28717",
+          "28666",
+          "28660",
+          "28609_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Ftc": {
+          "Fri": {
+            "first": "06:01:00",
+            "last": "19:31:00"
+          },
+          "Sat": {
+            "first": "09:31:00",
+            "last": "17:31:00"
+          },
+          "ThuMonTueWed": {
+            "first": "06:01:00",
+            "last": "19:31:00"
+          }
+        },
+        "Walmart": {
+          "Fri": {
+            "first": "06:00:00",
+            "last": "19:00:00"
+          },
+          "Sat": {
+            "first": "09:00:00",
+            "last": "17:00:00"
+          },
+          "ThuMonTueWed": {
+            "first": "06:00:00",
+            "last": "19:00:00"
+          }
+        }
       }
     },
     "4": {
@@ -211,6 +352,44 @@
           "28751",
           "28752"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "28666",
+          "28577",
+          "28725",
+          "28714_ar"
+        ],
+        "outbound": [
+          "28714",
+          "28666_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "David Grant": {
+          "Fri": {
+            "first": "06:25:00",
+            "last": "17:25:00"
+          },
+          "Sat": {
+            "first": "09:25:00",
+            "last": "17:25:00"
+          },
+          "ThuMonTueWed": {
+            "first": "09:25:00",
+            "last": "08:25:00"
+          }
+        },
+        "Smart And Final": {
+          "Fri": {
+            "first": "06:59:00",
+            "last": "19:59:00"
+          },
+          "ThuMonTueWed": {
+            "first": "06:59:00",
+            "last": "19:59:00"
+          }
+        }
       }
     },
     "5": {
@@ -264,6 +443,50 @@
           "28598",
           "28599"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "28628",
+          "28623",
+          "5230",
+          "5351_ar"
+        ],
+        "outbound": [
+          "5351",
+          "5230",
+          "28623",
+          "28628_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Ftc": {
+          "Fri": {
+            "first": "05:31:00",
+            "last": "19:31:00"
+          },
+          "Sat": {
+            "first": "09:31:00",
+            "last": "17:31:00"
+          },
+          "ThuMonTueWed": {
+            "first": "05:31:00",
+            "last": "19:31:00"
+          }
+        },
+        "Suisun Senior Center": {
+          "Fri": {
+            "first": "06:00:00",
+            "last": "19:00:00"
+          },
+          "Sat": {
+            "first": "09:00:00",
+            "last": "17:00:00"
+          },
+          "ThuMonTueWed": {
+            "first": "06:00:00",
+            "last": "19:00:00"
+          }
+        }
       }
     },
     "6": {
@@ -336,6 +559,53 @@
           "28644",
           "28645"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "28646",
+          "795056",
+          "28758",
+          "28756",
+          "28552",
+          "28717_ar"
+        ],
+        "outbound": [
+          "28717",
+          "28756",
+          "2436313",
+          "795052",
+          "28646_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Solano Town Center": {
+          "Fri": {
+            "first": "06:45:00",
+            "last": "19:45:00"
+          },
+          "Sat": {
+            "first": "09:45:00",
+            "last": "17:15:00"
+          },
+          "ThuMonTueWed": {
+            "first": "06:45:00",
+            "last": "19:45:00"
+          }
+        },
+        "Suisun Walmart/Lawler Ranch": {
+          "Fri": {
+            "first": "06:00:00",
+            "last": "19:00:00"
+          },
+          "Sat": {
+            "first": "09:00:00",
+            "last": "16:30:00"
+          },
+          "ThuMonTueWed": {
+            "first": "06:00:00",
+            "last": "19:00:00"
+          }
+        }
       }
     },
     "7": {
@@ -375,6 +645,52 @@
           "28673",
           "28599"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "28761",
+          "28678",
+          "28710",
+          "28673",
+          "5351_ar"
+        ],
+        "outbound": [
+          "5351",
+          "28673",
+          "28676",
+          "28678",
+          "28761_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Ftc": {
+          "Fri": {
+            "first": "06:26:00",
+            "last": "18:56:00"
+          },
+          "Sat": {
+            "first": "09:26:00",
+            "last": "17:26:00"
+          },
+          "ThuMonTueWed": {
+            "first": "06:26:00",
+            "last": "18:56:00"
+          }
+        },
+        "Solano College/Cordelia Library": {
+          "Fri": {
+            "first": "06:00:00",
+            "last": "18:30:00"
+          },
+          "Sat": {
+            "first": "09:00:00",
+            "last": "17:00:00"
+          },
+          "ThuMonTueWed": {
+            "first": "06:00:00",
+            "last": "18:30:00"
+          }
+        }
       }
     },
     "8": {
@@ -437,6 +753,52 @@
           "28762",
           "28706"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "28693",
+          "28696",
+          "28763",
+          "28709",
+          "28761_ar"
+        ],
+        "outbound": [
+          "28761",
+          "28709",
+          "28689",
+          "28693",
+          "28696_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Cordelia Library": {
+          "Fri": {
+            "first": "08:00:00",
+            "last": "19:00:00"
+          },
+          "Sat": {
+            "first": "10:00:00",
+            "last": "17:00:00"
+          },
+          "ThuMonTueWed": {
+            "first": "08:00:00",
+            "last": "19:00:00"
+          }
+        },
+        "Oakbrook Dr": {
+          "Fri": {
+            "first": "07:30:00",
+            "last": "18:30:00"
+          },
+          "Sat": {
+            "first": "09:30:00",
+            "last": "16:30:00"
+          },
+          "ThuMonTueWed": {
+            "first": "07:30:00",
+            "last": "18:30:00"
+          }
+        }
       }
     },
     "BLUE": {
@@ -527,6 +889,143 @@
           "5417",
           "807829"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "5417",
+          "807829",
+          "2455431",
+          "5351_ar"
+        ],
+        "outbound": [
+          "5351",
+          "2455430",
+          "5416",
+          "5417_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Benicia Ftc": {
+          "Fri": {
+            "first": "07:07:00",
+            "last": "15:37:00"
+          },
+          "Sat": {
+            "first": "10:05:00",
+            "last": "19:05:00"
+          },
+          "ThuMonTueWed": {
+            "first": "07:07:00",
+            "last": "16:07:00"
+          }
+        },
+        "Benicia Ph Bart": {
+          "Fri": {
+            "first": "08:10:00",
+            "last": "15:10:00"
+          },
+          "Sat": {
+            "first": "08:05:00",
+            "last": "17:05:00"
+          },
+          "ThuMonTueWed": {
+            "first": "08:10:00",
+            "last": "17:10:00"
+          }
+        },
+        "Dixon Ftc": {},
+        "Dixon Sac": {
+          "Fri": {
+            "first": "05:27:00",
+            "last": "14:43:00"
+          },
+          "ThuMonTueWed": {
+            "first": "05:27:00",
+            "last": "06:50:00"
+          }
+        },
+        "Ftc Davis": {
+          "Sat": {
+            "first": "09:05:00",
+            "last": "15:05:00"
+          }
+        },
+        "Ftc Dixon": {
+          "Fri": {
+            "first": "16:37:00",
+            "last": "18:07:00"
+          },
+          "ThuMonTueWed": {
+            "first": "17:07:00",
+            "last": "18:07:00"
+          }
+        },
+        "Ftc Ph Bart": {
+          "Fri": {
+            "first": "04:19:00",
+            "last": "16:50:00"
+          },
+          "ThuMonTueWed": {
+            "first": "04:19:00",
+            "last": "17:05:00"
+          }
+        },
+        "Ftc Sacramento": {
+          "Fri": {
+            "first": "06:37:00",
+            "last": "14:37:00"
+          },
+          "ThuMonTueWed": {
+            "first": "06:37:00",
+            "last": "14:37:00"
+          }
+        },
+        "Ftc Vacaville": {
+          "Fri": {
+            "first": "08:37:00",
+            "last": "19:37:00"
+          },
+          "ThuMonTueWed": {
+            "first": "08:37:00",
+            "last": "19:37:00"
+          }
+        },
+        "Vacaville Ftc": {
+          "Fri": {
+            "first": "07:57:00",
+            "last": "09:03:00"
+          },
+          "Sat": {
+            "first": "09:05:00",
+            "last": "17:05:00"
+          },
+          "ThuMonTueWed": {
+            "first": "07:57:00",
+            "last": "09:03:00"
+          }
+        },
+        "Vacaville Sac": {
+          "Fri": {
+            "first": "12:54:00",
+            "last": "13:50:00"
+          },
+          "ThuMonTueWed": {
+            "first": "13:52:00",
+            "last": "14:47:00"
+          }
+        },
+        "Vtc Ftc": {
+          "Fri": {
+            "first": "09:59:00",
+            "last": "19:15:00"
+          },
+          "ThuMonTueWed": {
+            "first": "09:59:00",
+            "last": "19:10:00"
+          }
+        },
+        "Vac Davis": {},
+        "Davis Ftc": {}
       }
     },
     "GX": {
@@ -560,6 +1059,68 @@
           "28635",
           "5351"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "5351",
+          "9827_ar"
+        ],
+        "outbound": [
+          "9827",
+          "5351_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Del Norte Bart": {
+          "Fri": {
+            "first": "04:10:00",
+            "last": "17:56:00"
+          },
+          "ThuMonTueWed": {
+            "first": "04:10:00",
+            "last": "17:56:00"
+          }
+        },
+        "Ftc": {
+          "Fri": {
+            "first": "06:16:00",
+            "last": "17:10:00"
+          },
+          "ThuMonTueWed": {
+            "first": "06:16:00",
+            "last": "17:10:00"
+          }
+        },
+        "Ftc Del Norte Bart": {
+          "Fri": {
+            "first": "04:36:00",
+            "last": "18:22:00"
+          },
+          "ThuMonTueWed": {
+            "first": "04:36:00",
+            "last": "18:22:00"
+          }
+        },
+        "Ftc Sc Amtrak": {
+          "Fri": {
+            "first": "17:30:00",
+            "last": "19:30:00"
+          },
+          "ThuMonTueWed": {
+            "first": "17:30:00",
+            "last": "19:30:00"
+          }
+        },
+        "Suisun City Amtrak": {
+          "Fri": {
+            "first": "04:56:00",
+            "last": "06:56:00"
+          },
+          "ThuMonTueWed": {
+            "first": "04:56:00",
+            "last": "06:56:00"
+          }
+        }
       }
     }
   },

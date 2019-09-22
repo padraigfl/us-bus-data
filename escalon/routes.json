@@ -67,6 +67,30 @@
           "21238",
           "21239"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "21239",
+          "794895"
+        ],
+        "outbound": [
+          "794895",
+          "21239"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Escalon": {
+          "MoTuWeThFr": {
+            "first": "08:45:00",
+            "last": "16:45:00"
+          }
+        },
+        "Modesto": {
+          "MoTuWeThFr": {
+            "first": "08:12:00",
+            "last": "16:12:00"
+          }
+        }
       }
     }
   },

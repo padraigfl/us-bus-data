@@ -57,6 +57,48 @@
           "S23",
           "S50_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "S62",
+          "S2",
+          "S60",
+          "S61",
+          "S54",
+          "S7",
+          "S15",
+          "S69",
+          "S21",
+          "S50_ar"
+        ],
+        "outbound": [
+          "S62",
+          "S2",
+          "S60",
+          "S61",
+          "S54",
+          "S7",
+          "S15",
+          "S69",
+          "S21",
+          "S50_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Eastbound": {
+          "Friday": {
+            "first": "09:00:00",
+            "last": "16:32:00"
+          },
+          "MoTuWeTh": {
+            "first": "09:00:00",
+            "last": "16:32:00"
+          },
+          "Saturday": {
+            "first": "09:00:00",
+            "last": "16:32:00"
+          }
+        }
       }
     },
     "CLWB": {
@@ -120,6 +162,48 @@
           "S49",
           "S62_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "S50",
+          "S26",
+          "S52",
+          "S34",
+          "S40",
+          "S54",
+          "S61",
+          "S60",
+          "S48",
+          "S62_ar"
+        ],
+        "outbound": [
+          "S50",
+          "S26",
+          "S52",
+          "S34",
+          "S40",
+          "S54",
+          "S61",
+          "S60",
+          "S48",
+          "S62_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Westbound": {
+          "Friday": {
+            "first": "09:00:00",
+            "last": "16:58:00"
+          },
+          "MoTuWeTh": {
+            "first": "09:00:00",
+            "last": "16:58:00"
+          },
+          "Saturday": {
+            "first": "09:00:00",
+            "last": "16:58:00"
+          }
+        }
       }
     },
     "HHL": {
@@ -154,6 +238,67 @@
           "S71",
           "S80_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "S48",
+          "S66",
+          "S67",
+          "S68",
+          "S76",
+          "S77",
+          "S78",
+          "S69",
+          "S22",
+          "S86",
+          "S71",
+          "S80_ar"
+        ],
+        "outbound": [
+          "S80",
+          "S50_ar",
+          "S50",
+          "S79",
+          "S72_ar",
+          "S72",
+          "S34",
+          "S73",
+          "S74",
+          "S70",
+          "S75",
+          "S47",
+          "S48_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Eastbound": {
+          "Friday": {
+            "first": "07:00:00",
+            "last": "19:08:00"
+          },
+          "MoTuWeTh": {
+            "first": "07:00:00",
+            "last": "19:08:00"
+          },
+          "Saturday": {
+            "first": "17:16:00",
+            "last": "19:39:00"
+          }
+        },
+        "Westbound": {
+          "Friday": {
+            "first": "07:02:00",
+            "last": "18:55:00"
+          },
+          "MoTuWeTh": {
+            "first": "07:02:00",
+            "last": "18:55:00"
+          },
+          "Saturday": {
+            "first": "17:39:00",
+            "last": "19:13:00"
+          }
+        }
       }
     },
     "PU": {
@@ -207,6 +352,56 @@
           "S85",
           "S86_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "S81",
+          "S77",
+          "S86_ar"
+        ],
+        "outbound": [
+          "S79",
+          "S63",
+          "S61_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Eastbound": {
+          "Friday": {
+            "first": "20:00:00",
+            "last": "02:50:00"
+          },
+          "Saturday": {
+            "first": "20:00:00",
+            "last": "02:50:00"
+          },
+          "Service1": {
+            "first": "20:00:00",
+            "last": "02:50:00"
+          },
+          "Sunday": {
+            "first": "14:00:00",
+            "last": "21:42:00"
+          }
+        },
+        "Westbound": {
+          "Friday": {
+            "first": "20:00:00",
+            "last": "02:39:00"
+          },
+          "Saturday": {
+            "first": "20:00:00",
+            "last": "02:39:00"
+          },
+          "Service1": {
+            "first": "20:00:00",
+            "last": "02:39:00"
+          },
+          "Sunday": {
+            "first": "14:00:00",
+            "last": "21:33:00"
+          }
+        }
       }
     },
     "SHL": {
@@ -231,6 +426,30 @@
           "S77",
           "S80_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "S77",
+          "S80_ar"
+        ],
+        "outbound": [
+          "S80",
+          "S77_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Eastbound": {
+          "Saturday": {
+            "first": "19:45:00",
+            "last": "00:51:00"
+          }
+        },
+        "Westbound": {
+          "Saturday": {
+            "first": "19:34:00",
+            "last": "01:01:00"
+          }
+        }
       }
     },
     "SNST": {
@@ -276,6 +495,46 @@
           "S77",
           "SUN25_ar"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "S56",
+          "SUN25_ar"
+        ],
+        "outbound": [
+          "SUN1",
+          "S2_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Eastbound": {
+          "Friday": {
+            "first": "19:05:00",
+            "last": "02:49:00"
+          },
+          "Saturday": {
+            "first": "19:05:00",
+            "last": "02:49:00"
+          },
+          "Service1": {
+            "first": "19:05:00",
+            "last": "02:49:00"
+          }
+        },
+        "Westbound": {
+          "Friday": {
+            "first": "19:00:00",
+            "last": "02:44:00"
+          },
+          "Saturday": {
+            "first": "19:00:00",
+            "last": "02:44:00"
+          },
+          "Service1": {
+            "first": "19:00:00",
+            "last": "02:44:00"
+          }
+        }
       }
     }
   },

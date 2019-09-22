@@ -28,6 +28,54 @@
           "collhill_w",
           "stratford"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mainstud"
+        ],
+        "outbound": [
+          "currcour",
+          "charfick",
+          "fick",
+          "mainstud_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "currcour": {},
+        "mainstud": {
+          "f": {
+            "first": "07:13:00",
+            "last": "18:28:00"
+          },
+          "m": {
+            "first": "07:13:00",
+            "last": "18:28:00"
+          },
+          "reading": {
+            "first": "07:12:00",
+            "last": "18:27:00"
+          },
+          "sat": {
+            "first": "11:43:00",
+            "last": "18:13:00"
+          },
+          "sun": {
+            "first": "11:43:00",
+            "last": "18:13:00"
+          },
+          "t": {
+            "first": "07:13:00",
+            "last": "18:28:00"
+          },
+          "th": {
+            "first": "07:13:00",
+            "last": "18:28:00"
+          },
+          "w": {
+            "first": "07:13:00",
+            "last": "18:28:00"
+          }
+        }
       }
     },
     "302": {
@@ -57,6 +105,44 @@
           "brod",
           "healstud"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mainstud"
+        ],
+        "outbound": [
+          "healscib",
+          "mainstud_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "healscib": {},
+        "mainstud": {
+          "f": {
+            "first": "07:42:00",
+            "last": "18:12:00"
+          },
+          "m": {
+            "first": "07:42:00",
+            "last": "18:12:00"
+          },
+          "reading": {
+            "first": "07:42:00",
+            "last": "18:12:00"
+          },
+          "t": {
+            "first": "07:42:00",
+            "last": "18:12:00"
+          },
+          "th": {
+            "first": "07:42:00",
+            "last": "18:12:00"
+          },
+          "w": {
+            "first": "07:42:00",
+            "last": "18:12:00"
+          }
+        }
       }
     },
     "303": {
@@ -87,6 +173,40 @@
           "greemall",
           "collhill_ib"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mainstud",
+          "collhill_ob"
+        ],
+        "outbound": [
+          "bbuy",
+          "greemall",
+          "collhill_ib",
+          "mainstud_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "bbuy": {
+          "sat": {
+            "first": "12:45:00",
+            "last": "20:45:00"
+          },
+          "sun": {
+            "first": "12:45:00",
+            "last": "17:45:00"
+          }
+        },
+        "mainstud": {
+          "sat": {
+            "first": "13:15:00",
+            "last": "21:15:00"
+          },
+          "sun": {
+            "first": "13:15:00",
+            "last": "18:15:00"
+          }
+        }
       }
     },
     "304": {
@@ -120,6 +240,46 @@
           "finhub",
           "wash2nd"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mainstud"
+        ],
+        "outbound": [
+          "firsplac",
+          "spei",
+          "chrisgym",
+          "mainstud_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "firsplac": {},
+        "mainstud": {
+          "f": {
+            "first": "07:10:00",
+            "last": "18:10:00"
+          },
+          "m": {
+            "first": "07:10:00",
+            "last": "18:10:00"
+          },
+          "reading": {
+            "first": "07:10:00",
+            "last": "18:10:00"
+          },
+          "t": {
+            "first": "07:10:00",
+            "last": "18:10:00"
+          },
+          "th": {
+            "first": "07:10:00",
+            "last": "18:10:00"
+          },
+          "w": {
+            "first": "07:10:00",
+            "last": "18:10:00"
+          }
+        }
       }
     },
     "307": {
@@ -151,6 +311,39 @@
           "tencopp",
           "hardvill"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "walmart_d",
+          "collhill_ib",
+          "mainstud_a"
+        ],
+        "outbound": [
+          "mainstud",
+          "collhill_ob"
+        ]
+      },
+      "scheduledTimeRange": {
+        "mainstud": {
+          "sat": {
+            "first": "12:40:00",
+            "last": "20:40:00"
+          },
+          "sun": {
+            "first": "12:40:00",
+            "last": "20:40:00"
+          }
+        },
+        "walmart": {
+          "sat": {
+            "first": "12:15:00",
+            "last": "20:15:00"
+          },
+          "sun": {
+            "first": "12:15:00",
+            "last": "20:15:00"
+          }
+        }
       }
     },
     "401": {
@@ -186,6 +379,62 @@
           "10thceda",
           "eastvill"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "chrisgym",
+          "eastvill"
+        ],
+        "outbound": [
+          "camppt",
+          "chrisgym_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "canncour": {
+          "f": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          },
+          "m": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          },
+          "t": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          },
+          "th": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          },
+          "w": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        },
+        "chrisgym": {
+          "f": {
+            "first": "07:15:00",
+            "last": "18:14:00"
+          },
+          "m": {
+            "first": "07:15:00",
+            "last": "18:15:00"
+          },
+          "t": {
+            "first": "07:15:00",
+            "last": "18:15:00"
+          },
+          "th": {
+            "first": "07:15:00",
+            "last": "18:15:00"
+          },
+          "w": {
+            "first": "07:15:00",
+            "last": "18:15:00"
+          }
+        }
       }
     },
     "402": {
@@ -218,6 +467,45 @@
           "oakwill",
           "willelm"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "spei"
+        ],
+        "outbound": [
+          "rivrwalk",
+          "browwynd",
+          "spei_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "rivrwalk": {},
+        "speight": {
+          "f": {
+            "first": "07:05:00",
+            "last": "18:05:00"
+          },
+          "m": {
+            "first": "07:05:00",
+            "last": "18:05:00"
+          },
+          "reading": {
+            "first": "07:05:00",
+            "last": "18:05:00"
+          },
+          "t": {
+            "first": "07:05:00",
+            "last": "18:05:00"
+          },
+          "th": {
+            "first": "07:05:00",
+            "last": "18:05:00"
+          },
+          "w": {
+            "first": "07:05:00",
+            "last": "18:05:00"
+          }
+        }
       }
     },
     "501": {
@@ -241,6 +529,40 @@
         "33 East": [
           "spei"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "spei"
+        ],
+        "outbound": [
+          "pirtcove_offc",
+          "spei_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "pirtcove": {},
+        "spei": {
+          "f": {
+            "first": "07:05:00",
+            "last": "14:05:00"
+          },
+          "m": {
+            "first": "07:05:00",
+            "last": "17:05:00"
+          },
+          "t": {
+            "first": "07:05:00",
+            "last": "17:05:00"
+          },
+          "th": {
+            "first": "07:05:00",
+            "last": "17:05:00"
+          },
+          "w": {
+            "first": "07:05:00",
+            "last": "17:05:00"
+          }
+        }
       }
     },
     "502": {
@@ -264,6 +586,44 @@
         "Speight": [
           "univmanf"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "spei_a"
+        ],
+        "outbound": [
+          "spei",
+          "univmanb"
+        ]
+      },
+      "scheduledTimeRange": {
+        "spei": {},
+        "univmanf": {
+          "f": {
+            "first": "07:00:00",
+            "last": "14:00:00"
+          },
+          "m": {
+            "first": "07:00:00",
+            "last": "15:30:00"
+          },
+          "reading": {
+            "first": "07:00:00",
+            "last": "15:30:00"
+          },
+          "t": {
+            "first": "07:00:00",
+            "last": "15:30:00"
+          },
+          "th": {
+            "first": "07:00:00",
+            "last": "15:30:00"
+          },
+          "w": {
+            "first": "07:00:00",
+            "last": "15:30:00"
+          }
+        }
       }
     },
     "503": {
@@ -287,6 +647,18 @@
         "Sunchase: Front": [
           "spei"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "sunfront"
+        ],
+        "outbound": [
+          "spei"
+        ]
+      },
+      "scheduledTimeRange": {
+        "speight": {},
+        "sunfront": {}
       }
     },
     "504": {
@@ -311,6 +683,18 @@
           "greecent",
           "hyde"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "land"
+        ],
+        "outbound": [
+          "chrisgym"
+        ]
+      },
+      "scheduledTimeRange": {
+        "chrisgym": {},
+        "land": {}
       }
     },
     "505": {
@@ -333,6 +717,44 @@
         "Paramount 3800": [
           "spei"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "spei"
+        ],
+        "outbound": [
+          "ncamcros",
+          "spei_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "ncamcros": {},
+        "spei": {
+          "f": {
+            "first": "07:12:00",
+            "last": "14:12:00"
+          },
+          "m": {
+            "first": "07:12:00",
+            "last": "15:42:00"
+          },
+          "reading": {
+            "first": "07:12:00",
+            "last": "15:42:00"
+          },
+          "t": {
+            "first": "07:12:00",
+            "last": "15:42:00"
+          },
+          "th": {
+            "first": "07:12:00",
+            "last": "15:42:00"
+          },
+          "w": {
+            "first": "07:12:00",
+            "last": "15:42:00"
+          }
+        }
       }
     },
     "506": {
@@ -355,6 +777,18 @@
         "University Suites": [
           "univsuit"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "chrisgym"
+        ],
+        "outbound": [
+          "univsuit"
+        ]
+      },
+      "scheduledTimeRange": {
+        "christgym": {},
+        "univsuit": {}
       }
     },
     "507": {
@@ -379,6 +813,44 @@
         "Copper Beech": [
           "chrisgym"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "copbphs2",
+          "chrisgym_a"
+        ],
+        "outbound": [
+          "chrisgym"
+        ]
+      },
+      "scheduledTimeRange": {
+        "chrisgym": {
+          "f": {
+            "first": "07:05:00",
+            "last": "18:05:00"
+          },
+          "m": {
+            "first": "07:05:00",
+            "last": "18:05:00"
+          },
+          "reading": {
+            "first": "07:05:00",
+            "last": "18:05:00"
+          },
+          "t": {
+            "first": "07:05:00",
+            "last": "18:05:00"
+          },
+          "th": {
+            "first": "07:05:00",
+            "last": "18:05:00"
+          },
+          "w": {
+            "first": "07:05:00",
+            "last": "18:05:00"
+          }
+        },
+        "copb": {}
       }
     },
     "508": {
@@ -402,6 +874,44 @@
         "The Bellamy": [
           "chrisgym"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "chrisgym"
+        ],
+        "outbound": [
+          "bell",
+          "chrisgym_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "bell": {},
+        "chrisgym": {
+          "f": {
+            "first": "07:13:00",
+            "last": "18:13:00"
+          },
+          "m": {
+            "first": "07:13:00",
+            "last": "18:13:00"
+          },
+          "reading": {
+            "first": "07:13:00",
+            "last": "18:13:00"
+          },
+          "t": {
+            "first": "07:13:00",
+            "last": "18:13:00"
+          },
+          "th": {
+            "first": "07:13:00",
+            "last": "18:13:00"
+          },
+          "w": {
+            "first": "07:13:00",
+            "last": "18:13:00"
+          }
+        }
       }
     },
     "551": {
@@ -427,6 +937,41 @@
         "The Davis: Back": [
           "spei"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "univmanb",
+          "pirtcove_offc",
+          "spei_a"
+        ],
+        "outbound": [
+          "spei"
+        ]
+      },
+      "scheduledTimeRange": {
+        "spei": {
+          "f": {
+            "first": "14:40:00",
+            "last": "18:10:00"
+          },
+          "m": {
+            "first": "16:10:00",
+            "last": "18:10:00"
+          },
+          "t": {
+            "first": "16:10:00",
+            "last": "18:10:00"
+          },
+          "th": {
+            "first": "16:10:00",
+            "last": "18:10:00"
+          },
+          "w": {
+            "first": "16:10:00",
+            "last": "18:10:00"
+          }
+        },
+        "univmanb": {}
       }
     },
     "555": {
@@ -451,6 +996,18 @@
         "N Rec Complex": [
           "spei"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "spei"
+        ],
+        "outbound": [
+          "ncamcros"
+        ]
+      },
+      "scheduledTimeRange": {
+        "nrecfield": {},
+        "speight": {}
       }
     },
     "610": {
@@ -474,6 +1031,44 @@
         "Minges - Bottom Lot": [
           "chrisgym_d"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "chrisgym_d"
+        ],
+        "outbound": [
+          "charfick",
+          "chrisgym_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "charfick": {},
+        "chrisgym": {
+          "f": {
+            "first": "07:05:00",
+            "last": "18:47:00"
+          },
+          "m": {
+            "first": "07:05:00",
+            "last": "18:44:00"
+          },
+          "reading": {
+            "first": "07:05:00",
+            "last": "18:44:00"
+          },
+          "t": {
+            "first": "07:05:00",
+            "last": "18:44:00"
+          },
+          "th": {
+            "first": "07:05:00",
+            "last": "18:44:00"
+          },
+          "w": {
+            "first": "07:05:00",
+            "last": "18:41:00"
+          }
+        }
       }
     },
     "801": {
@@ -509,6 +1104,49 @@
           "10thceda",
           "eastvill"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "chrisgym",
+          "eastvill"
+        ],
+        "outbound": [
+          "camppt"
+        ]
+      },
+      "scheduledTimeRange": {
+        "canncour": {
+          "f": {
+            "first": "18:30:00",
+            "last": "20:00:00"
+          },
+          "m": {
+            "first": "18:30:00",
+            "last": "22:00:00"
+          },
+          "reading": {
+            "first": "07:00:00",
+            "last": "22:00:00"
+          },
+          "t": {
+            "first": "18:30:00",
+            "last": "22:00:00"
+          },
+          "th": {
+            "first": "18:30:00",
+            "last": "22:00:00"
+          },
+          "w": {
+            "first": "18:30:00",
+            "last": "22:00:00"
+          }
+        },
+        "chrisgym": {
+          "w": {
+            "first": "18:45:00",
+            "last": "22:15:00"
+          }
+        }
       }
     },
     "802": {
@@ -543,6 +1181,49 @@
           "univterr",
           "gablbrow"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "chrisgym",
+          "sunfront",
+          "rivrwalk"
+        ],
+        "outbound": [
+          "browwynd"
+        ]
+      },
+      "scheduledTimeRange": {
+        "browwynd": {
+          "f": {
+            "first": "18:30:00",
+            "last": "20:00:00"
+          },
+          "m": {
+            "first": "18:30:00",
+            "last": "22:00:00"
+          },
+          "prebreak": {
+            "first": "18:30:00",
+            "last": "21:30:00"
+          },
+          "reading": {
+            "first": "07:00:00",
+            "last": "22:00:00"
+          },
+          "t": {
+            "first": "18:30:00",
+            "last": "22:00:00"
+          },
+          "th": {
+            "first": "18:30:00",
+            "last": "22:00:00"
+          },
+          "w": {
+            "first": "18:30:00",
+            "last": "22:00:00"
+          }
+        },
+        "chrisgym": {}
       }
     },
     "803": {
@@ -572,6 +1253,78 @@
           "copbback",
           "copbclub"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "univmanb",
+          "pirtcove_offc"
+        ],
+        "outbound": [
+          "chrisgym",
+          "copbphs2"
+        ]
+      },
+      "scheduledTimeRange": {
+        "chrisgym": {
+          "f": {
+            "first": "18:39:00",
+            "last": "20:09:00"
+          },
+          "m": {
+            "first": "18:39:00",
+            "last": "22:09:00"
+          },
+          "prebreak": {
+            "first": "18:39:00",
+            "last": "21:39:00"
+          },
+          "reading": {
+            "first": "07:09:00",
+            "last": "22:09:00"
+          },
+          "t": {
+            "first": "18:39:00",
+            "last": "22:09:00"
+          },
+          "th": {
+            "first": "18:39:00",
+            "last": "22:09:00"
+          },
+          "w": {
+            "first": "18:39:00",
+            "last": "22:09:00"
+          }
+        },
+        "univmanb": {
+          "f": {
+            "first": "18:30:00",
+            "last": "20:00:00"
+          },
+          "m": {
+            "first": "18:30:00",
+            "last": "22:00:00"
+          },
+          "prebreak": {
+            "first": "18:30:00",
+            "last": "21:30:00"
+          },
+          "reading": {
+            "first": "07:00:00",
+            "last": "22:00:00"
+          },
+          "t": {
+            "first": "18:30:00",
+            "last": "22:00:00"
+          },
+          "th": {
+            "first": "18:30:00",
+            "last": "22:00:00"
+          },
+          "w": {
+            "first": "18:30:00",
+            "last": "22:00:00"
+          }
+        }
       }
     },
     "804": {
@@ -599,6 +1352,48 @@
           "greecent",
           "hyde"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "land",
+          "bell"
+        ],
+        "outbound": [
+          "chrisgym"
+        ]
+      },
+      "scheduledTimeRange": {
+        "chrisgym": {
+          "f": {
+            "first": "18:40:00",
+            "last": "20:10:00"
+          },
+          "m": {
+            "first": "18:40:00",
+            "last": "22:10:00"
+          },
+          "prebreak": {
+            "first": "18:34:00",
+            "last": "21:34:00"
+          },
+          "reading": {
+            "first": "07:10:00",
+            "last": "22:10:00"
+          },
+          "t": {
+            "first": "18:40:00",
+            "last": "22:10:00"
+          },
+          "th": {
+            "first": "18:40:00",
+            "last": "22:10:00"
+          },
+          "w": {
+            "first": "18:40:00",
+            "last": "22:10:00"
+          }
+        },
+        "land": {}
       }
     },
     "805": {
@@ -623,6 +1418,18 @@
         "Christenbury Gym": [
           "ncamcros"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "ncamcros"
+        ],
+        "outbound": [
+          "chrisgym"
+        ]
+      },
+      "scheduledTimeRange": {
+        "chrisgym": {},
+        "nrec": {}
       }
     },
     "806": {
@@ -645,6 +1452,18 @@
         "University Suites": [
           "chrisgym"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "univsuit"
+        ],
+        "outbound": [
+          "chrisgym"
+        ]
+      },
+      "scheduledTimeRange": {
+        "chrisgym": {},
+        "univsuit": {}
       }
     },
     "850": {
@@ -675,6 +1494,90 @@
           "piratplc",
           "stratford"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mainstud",
+          "mendwest",
+          "chrisgym",
+          "collhill_w",
+          "piratplc"
+        ],
+        "outbound": [
+          "currcour",
+          "fick",
+          "mainstud_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "currcour": {
+          "f": {
+            "first": "18:30:00",
+            "last": "02:30:00"
+          },
+          "m": {
+            "first": "18:30:00",
+            "last": "00:30:00"
+          },
+          "reading": {
+            "first": "18:30:00",
+            "last": "00:30:00"
+          },
+          "sat": {
+            "first": "18:30:00",
+            "last": "02:30:00"
+          },
+          "sun": {
+            "first": "18:30:00",
+            "last": "00:30:00"
+          },
+          "t": {
+            "first": "18:30:00",
+            "last": "00:30:00"
+          },
+          "th": {
+            "first": "18:30:00",
+            "last": "00:30:00"
+          },
+          "w": {
+            "first": "18:30:00",
+            "last": "00:30:00"
+          }
+        },
+        "mainstud": {
+          "f": {
+            "first": "18:43:00",
+            "last": "02:43:00"
+          },
+          "m": {
+            "first": "18:43:00",
+            "last": "00:43:00"
+          },
+          "reading": {
+            "first": "18:43:00",
+            "last": "00:43:00"
+          },
+          "sat": {
+            "first": "18:43:00",
+            "last": "02:43:00"
+          },
+          "sun": {
+            "first": "18:43:00",
+            "last": "00:43:00"
+          },
+          "t": {
+            "first": "18:43:00",
+            "last": "00:43:00"
+          },
+          "th": {
+            "first": "18:43:00",
+            "last": "00:43:00"
+          },
+          "w": {
+            "first": "18:43:00",
+            "last": "00:43:00"
+          }
+        }
       }
     },
     "901": {
@@ -700,6 +1603,28 @@
           "pirtcove_offc",
           "pirtcove_phs2"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mendwest"
+        ],
+        "outbound": [
+          "univmanb",
+          "pirtcove_offc"
+        ]
+      },
+      "scheduledTimeRange": {
+        "davisback": {},
+        "mendwest": {
+          "f": {
+            "first": "22:38:00",
+            "last": "02:38:00"
+          },
+          "sat": {
+            "first": "22:38:00",
+            "last": "02:38:00"
+          }
+        }
       }
     },
     "902": {
@@ -733,6 +1658,38 @@
           "firstsum",
           "firstpitt"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mendwest",
+          "riverwal"
+        ],
+        "outbound": [
+          "distclub",
+          "mendwest_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "distclub": {
+          "f": {
+            "first": "22:40:00",
+            "last": "02:40:00"
+          },
+          "sat": {
+            "first": "22:40:00",
+            "last": "02:40:00"
+          }
+        },
+        "mendwest": {
+          "f": {
+            "first": "22:55:00",
+            "last": "02:55:00"
+          },
+          "sat": {
+            "first": "22:55:00",
+            "last": "02:55:00"
+          }
+        }
       }
     },
     "903": {
@@ -756,6 +1713,29 @@
           "sunfront",
           "sunback"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "sunfront",
+          "sunback",
+          "mendwest_a"
+        ],
+        "outbound": [
+          "mendwest"
+        ]
+      },
+      "scheduledTimeRange": {
+        "mendwest": {
+          "f": {
+            "first": "22:48:00",
+            "last": "02:48:00"
+          },
+          "sat": {
+            "first": "22:48:00",
+            "last": "02:48:00"
+          }
+        },
+        "sunfront": {}
       }
     },
     "904": {
@@ -778,6 +1758,28 @@
         "Mendenhall / West End Bus Terminal": [
           "landing"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mendwest"
+        ],
+        "outbound": [
+          "landing",
+          "mendwest_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "landing": {},
+        "mendwest": {
+          "f": {
+            "first": "22:50:00",
+            "last": "02:50:00"
+          },
+          "sat": {
+            "first": "22:50:00",
+            "last": "02:50:00"
+          }
+        }
       }
     },
     "905": {
@@ -800,6 +1802,18 @@
         "Paramount 3800": [
           "westend"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "westend"
+        ],
+        "outbound": [
+          "ncamcros"
+        ]
+      },
+      "scheduledTimeRange": {
+        "ncamcros": {},
+        "westend": {}
       }
     },
     "906": {
@@ -822,6 +1836,28 @@
         "Mendenhall / West End Bus Terminal": [
           "carocreek"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "mendwest"
+        ],
+        "outbound": [
+          "carocreek",
+          "mendwest_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "carocreek": {},
+        "mendwest": {
+          "f": {
+            "first": "22:40:00",
+            "last": "02:40:00"
+          },
+          "sat": {
+            "first": "22:40:00",
+            "last": "02:40:00"
+          }
+        }
       }
     },
     "907": {
@@ -846,6 +1882,28 @@
           "westend",
           "copbphs2"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "westend",
+          "copbphs2"
+        ],
+        "outbound": [
+          "westend",
+          "copbphs2"
+        ]
+      },
+      "scheduledTimeRange": {
+        "copbback": {
+          "f": {
+            "first": "22:40:00",
+            "last": "02:40:00"
+          },
+          "sat": {
+            "first": "22:40:00",
+            "last": "02:40:00"
+          }
+        }
       }
     },
     "908": {
@@ -868,6 +1926,18 @@
         "The Bellamy": [
           "westend_o"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "westend_o"
+        ],
+        "outbound": [
+          "bell"
+        ]
+      },
+      "scheduledTimeRange": {
+        "bell": {},
+        "westend": {}
       }
     }
   },

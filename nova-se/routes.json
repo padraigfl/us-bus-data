@@ -27,7 +27,8 @@
           "horvitz",
           "ucenter"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "trail": {
       "title": "SFEC TMA Tri-Rail",
@@ -56,6 +57,48 @@
           "mcfat",
           "airp_a"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "sanford",
+          "thub",
+          "shepard_1",
+          "mcfat",
+          "airp_a",
+          "airp_d",
+          "bcsc",
+          "bcps",
+          "faulib",
+          "uof"
+        ],
+        "outbound": [
+          "sanford",
+          "thub",
+          "shepard_1",
+          "mcfat",
+          "airp_a",
+          "airp_d",
+          "bcsc",
+          "bcps",
+          "faulib",
+          "uof"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "06:45:00",
+            "last": "20:30:00"
+          },
+          "sat": {
+            "first": "06:45:00",
+            "last": "20:30:00"
+          },
+          "sun": {
+            "first": "06:45:00",
+            "last": "20:30:00"
+          }
+        }
       }
     },
     "shop": {
@@ -78,7 +121,8 @@
           "ucenter",
           "walm"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "dse": {
       "title": "Downtown Shark Express",
@@ -105,6 +149,33 @@
           "bct",
           "lasolas"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "rhills_n_m",
+          "rhills_s_m",
+          "goodwin_m",
+          "gallmall",
+          "bct",
+          "lasolas"
+        ]
+      },
+      "scheduledTimeRange": {
+        "musescie": {
+          "wkd": {
+            "first": "20:00:00",
+            "last": "02:00:00"
+          },
+          "sat": {
+            "first": "15:00:00",
+            "last": "03:00:00"
+          },
+          "sun": {
+            "first": "15:00:00",
+            "last": "23:00:00"
+          }
+        },
+        "rhills_n_m": {}
       }
     },
     "cam4": {
@@ -131,7 +202,8 @@
           "maltpsyc",
           "horvitz"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "exp1": {
       "title": "Weekend Express",
@@ -160,7 +232,8 @@
           "walm",
           "publix"
         ]
-      }
+      },
+      "scheduledStops": {}
     },
     "ucexp": {
       "title": "UC Shark Express",
@@ -182,7 +255,8 @@
           "rhills_s",
           "ucenter"
         ]
-      }
+      },
+      "scheduledStops": {}
     }
   },
   "copyright": "All data copyright Nova Southeastern University 2019."

@@ -1,175 +1,1007 @@
 {
   "data": {
     "1667": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.12267",
       "title": "Sugar Pine Point State Park",
       "stopId": "1667",
       "tag": "1667",
-      "lat": "39.0575299"
+      "lat": "39.0575299",
+      "scheduleRoutes": {
+        "ML": {
+          "Westshore - Incline": {
+            "allwk": [
+              "07:10:00",
+              "08:10:00",
+              "09:10:00",
+              "10:10:00",
+              "11:10:00",
+              "12:10:00",
+              "13:10:00",
+              "14:10:00",
+              "15:10:00",
+              "16:10:00",
+              "17:10:00"
+            ]
+          },
+          "Westshore - Northbound": {}
+        }
+      }
     },
     "1671": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.13164",
       "title": "Hwy 89 at PDQ Market",
       "stopId": "1671",
       "tag": "1671",
-      "lat": "39.0685299"
+      "lat": "39.0685299",
+      "scheduleRoutes": {
+        "WSN": {
+          "Westshore - Northbound": {
+            "allwk": [
+              "19:00:00",
+              "20:00:00",
+              "21:00:00"
+            ]
+          }
+        },
+        "ML": {
+          "Westshore - Incline": {
+            "allwk": [
+              "07:12:00",
+              "08:12:00",
+              "09:12:00",
+              "10:12:00",
+              "11:12:00",
+              "12:12:00",
+              "13:12:00",
+              "14:12:00",
+              "15:12:00",
+              "16:12:00",
+              "17:12:00"
+            ]
+          },
+          "Westshore - Northbound": {}
+        }
+      }
     },
     "1676": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.15672",
       "title": "Hwy 89 Across from Tahoe Ski Bowl Way",
       "stopId": "1676",
       "tag": "1676",
-      "lat": "39.0793399"
+      "lat": "39.0793399",
+      "scheduleRoutes": {
+        "WSN": {
+          "Westshore - Northbound": {
+            "allwk": [
+              "19:10:00",
+              "20:10:00",
+              "21:10:00"
+            ]
+          }
+        },
+        "ML": {
+          "Westshore - Incline": {
+            "allwk": [
+              "07:14:00",
+              "08:14:00",
+              "09:14:00",
+              "10:14:00",
+              "11:14:00",
+              "12:14:00",
+              "13:14:00",
+              "14:14:00",
+              "15:14:00",
+              "16:14:00",
+              "17:14:00"
+            ]
+          },
+          "Westshore - Northbound": {}
+        }
+      }
     },
     "1686": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.15612",
       "title": "Hwy 89 at Sunnyside Ln",
       "stopId": "1686",
       "tag": "1686",
-      "lat": "39.1341999"
+      "lat": "39.1341999",
+      "scheduleRoutes": {
+        "WSN": {
+          "Westshore - Northbound": {
+            "allwk": [
+              "19:15:00",
+              "20:15:00",
+              "21:15:00"
+            ]
+          }
+        },
+        "ML": {
+          "Westshore - Incline": {
+            "allwk": [
+              "07:21:00",
+              "08:21:00",
+              "09:21:00",
+              "10:21:00",
+              "11:21:00",
+              "12:21:00",
+              "13:21:00",
+              "14:21:00",
+              "15:21:00",
+              "16:21:00",
+              "17:21:00"
+            ]
+          },
+          "Westshore - Northbound": {}
+        }
+      }
     },
     "1692": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true,
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true,
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.14498",
       "title": "Tahoe City Transit Center - Arrive",
       "stopId": "1692",
       "tag": "1692",
-      "lat": "39.1647299"
+      "lat": "39.1647299",
+      "scheduleRoutes": {
+        "CB": {
+          "Eastbound": {
+            "allwk": [
+              "19:30:00",
+              "20:30:00"
+            ]
+          },
+          "Northshore - Westbound": {
+            "allwk": [
+              "19:30:00",
+              "20:30:00"
+            ]
+          }
+        },
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "08:30:00",
+              "09:30:00",
+              "10:30:00",
+              "11:30:00",
+              "12:30:00",
+              "13:30:00",
+              "14:30:00",
+              "15:30:00",
+              "16:30:00",
+              "17:30:00"
+            ]
+          },
+          "Westshore - Incline": {
+            "allwk": [
+              "07:27:00",
+              "08:27:00",
+              "09:27:00",
+              "10:27:00",
+              "11:27:00",
+              "12:27:00",
+              "13:27:00",
+              "14:27:00",
+              "15:27:00",
+              "16:27:00",
+              "17:27:00"
+            ]
+          },
+          "Westshore - Southbound": {}
+        }
+      }
     },
     "1708": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.12147",
       "title": "Hwy 28 at Lake Forest Rd (West End)",
       "stopId": "1708",
       "tag": "1708",
-      "lat": "39.1851499"
+      "lat": "39.1851499",
+      "scheduleRoutes": {
+        "CB": {
+          "Eastbound": {
+            "allwk": [
+              "19:40:00",
+              "20:40:00"
+            ]
+          }
+        },
+        "ML": {
+          "Northshore - Eastbound": {
+            "allwk": [
+              "06:09:00",
+              "06:39:00",
+              "18:39:00"
+            ]
+          },
+          "Westshore - Eastbound": {
+            "allwk": [
+              "08:09:00",
+              "09:09:00",
+              "10:09:00",
+              "11:09:00",
+              "12:09:00",
+              "13:09:00",
+              "14:09:00",
+              "15:09:00",
+              "16:09:00",
+              "17:09:00"
+            ]
+          },
+          "Westshore - Incline": {
+            "allwk": [
+              "07:39:00",
+              "08:39:00",
+              "09:39:00",
+              "10:39:00",
+              "11:39:00",
+              "12:39:00",
+              "13:39:00",
+              "14:39:00",
+              "15:39:00",
+              "16:39:00",
+              "17:39:00"
+            ]
+          }
+        }
+      }
     },
     "1710": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.11363",
       "title": "Hwy 28 at Lake Forest Rd (East End)",
       "stopId": "1710",
       "tag": "1710",
-      "lat": "39.18968"
+      "lat": "39.18968",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Eastbound": {
+            "allwk": [
+              "06:11:00",
+              "06:41:00",
+              "18:41:00"
+            ]
+          },
+          "Westshore - Eastbound": {
+            "allwk": [
+              "08:11:00",
+              "09:11:00",
+              "10:11:00",
+              "11:11:00",
+              "12:11:00",
+              "13:11:00",
+              "14:11:00",
+              "15:11:00",
+              "16:11:00",
+              "17:11:00"
+            ]
+          },
+          "Westshore - Incline": {
+            "allwk": [
+              "07:41:00",
+              "08:41:00",
+              "09:41:00",
+              "10:41:00",
+              "11:41:00",
+              "12:41:00",
+              "13:41:00",
+              "14:41:00",
+              "15:41:00",
+              "16:41:00",
+              "17:41:00"
+            ]
+          }
+        }
+      }
     },
     "1715": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.09379",
       "title": "Hwy 28 Across from Lardin Way",
       "stopId": "1715",
       "tag": "1715",
-      "lat": "39.2072299"
+      "lat": "39.2072299",
+      "scheduleRoutes": {
+        "CB": {
+          "Eastbound": {
+            "allwk": [
+              "19:42:00",
+              "20:42:00"
+            ]
+          }
+        },
+        "ML": {
+          "Northshore - Eastbound": {
+            "allwk": [
+              "06:12:00",
+              "06:42:00",
+              "18:42:00"
+            ]
+          },
+          "Westshore - Eastbound": {
+            "allwk": [
+              "08:12:00",
+              "09:12:00",
+              "10:12:00",
+              "11:12:00",
+              "12:12:00",
+              "13:12:00",
+              "14:12:00",
+              "15:12:00",
+              "16:12:00",
+              "17:12:00"
+            ]
+          },
+          "Westshore - Incline": {
+            "allwk": [
+              "07:42:00",
+              "08:42:00",
+              "09:42:00",
+              "10:42:00",
+              "11:42:00",
+              "12:42:00",
+              "13:42:00",
+              "14:42:00",
+              "15:42:00",
+              "16:42:00",
+              "17:42:00"
+            ]
+          }
+        }
+      }
     },
     "1722": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.06254",
       "title": "Hwy 28 at Stag Dr - Lakeside",
       "stopId": "1722",
       "tag": "1722",
-      "lat": "39.2372599"
+      "lat": "39.2372599",
+      "scheduleRoutes": {
+        "CB": {
+          "Eastbound": {
+            "allwk": [
+              "19:53:00",
+              "20:53:00"
+            ]
+          }
+        },
+        "ML": {
+          "Northshore - Eastbound": {
+            "allwk": [
+              "06:16:00",
+              "06:46:00",
+              "18:46:00"
+            ]
+          },
+          "Westshore - Eastbound": {
+            "allwk": [
+              "08:16:00",
+              "09:16:00",
+              "10:16:00",
+              "11:16:00",
+              "12:16:00",
+              "13:16:00",
+              "14:16:00",
+              "15:16:00",
+              "16:16:00",
+              "17:16:00"
+            ]
+          },
+          "Westshore - Incline": {
+            "allwk": [
+              "07:46:00",
+              "08:46:00",
+              "09:46:00",
+              "10:46:00",
+              "11:46:00",
+              "12:46:00",
+              "13:46:00",
+              "14:46:00",
+              "15:46:00",
+              "16:46:00",
+              "17:46:00"
+            ]
+          }
+        }
+      }
     },
     "1728": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "Hwy267": {
+          "Southbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "NSPM": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.02959",
       "title": "Hwy 28 at Secline St",
       "stopId": "1728",
       "tag": "1728",
-      "lat": "39.2375899"
+      "lat": "39.2375899",
+      "scheduleRoutes": {
+        "CB": {
+          "Eastbound": {
+            "allwk": [
+              "19:57:00",
+              "20:57:00"
+            ]
+          }
+        },
+        "ML": {
+          "Northshore - Eastbound": {
+            "allwk": [
+              "06:22:00",
+              "06:52:00",
+              "18:52:00"
+            ]
+          },
+          "Westshore - Eastbound": {
+            "allwk": [
+              "08:22:00",
+              "09:22:00",
+              "10:22:00",
+              "11:22:00",
+              "12:22:00",
+              "13:22:00",
+              "14:22:00",
+              "15:22:00",
+              "16:22:00",
+              "17:22:00"
+            ]
+          },
+          "Westshore - Incline": {
+            "allwk": [
+              "07:52:00",
+              "08:52:00",
+              "09:52:00",
+              "10:52:00",
+              "11:52:00",
+              "12:52:00",
+              "13:52:00",
+              "14:52:00",
+              "15:52:00",
+              "16:52:00",
+              "17:52:00"
+            ]
+          }
+        },
+        "Hwy267": {
+          "Southbound": {
+            "allwk": [
+              "07:43:00",
+              "08:43:00",
+              "09:43:00",
+              "10:43:00",
+              "11:43:00",
+              "12:43:00",
+              "13:43:00",
+              "14:43:00",
+              "15:43:00",
+              "16:43:00",
+              "17:43:00"
+            ]
+          }
+        }
+      }
     },
     "1733": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.00508",
       "title": "Hwy 28 at Crystal Bay Club (Shelter) - Arrive",
       "stopId": "1733",
       "tag": "1733",
-      "lat": "39.2275299"
+      "lat": "39.2275299",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Eastbound": {
+            "allwk": [
+              "06:26:00",
+              "06:56:00",
+              "18:56:00"
+            ]
+          },
+          "Westshore - Incline": {
+            "allwk": [
+              "07:56:00",
+              "08:56:00",
+              "09:56:00",
+              "10:56:00",
+              "11:56:00",
+              "12:56:00",
+              "13:56:00",
+              "14:56:00",
+              "15:56:00",
+              "16:56:00",
+              "17:56:00"
+            ]
+          }
+        }
+      }
     },
     "1739": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-119.96324",
       "title": "Hwy 28 at Toepa",
       "stopId": "1739",
       "tag": "1739",
-      "lat": "39.2503899"
+      "lat": "39.2503899",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Eastbound": {
+            "allwk": [
+              "06:35:00",
+              "07:05:00",
+              "19:05:00"
+            ]
+          },
+          "Westshore - Incline": {
+            "allwk": [
+              "08:05:00",
+              "09:05:00",
+              "10:05:00",
+              "11:05:00",
+              "12:05:00",
+              "13:05:00",
+              "14:05:00",
+              "15:05:00",
+              "16:05:00",
+              "17:05:00",
+              "18:05:00"
+            ]
+          }
+        }
+      }
     },
     "1740": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-119.95371",
       "title": "Hwy 28 at Incline Cleaners",
       "stopId": "1740",
       "tag": "1740",
-      "lat": "39.2496099"
+      "lat": "39.2496099",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Eastbound": {
+            "allwk": [
+              "06:37:00",
+              "07:07:00",
+              "19:07:00"
+            ]
+          },
+          "Westshore - Incline": {
+            "allwk": [
+              "08:07:00",
+              "09:07:00",
+              "10:07:00",
+              "11:07:00",
+              "12:07:00",
+              "13:07:00",
+              "14:07:00",
+              "15:07:00",
+              "16:07:00",
+              "17:07:00",
+              "18:07:00"
+            ]
+          }
+        }
+      }
     },
     "1744": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-119.9487",
       "title": "Southwood at Bowl Incline",
       "stopId": "1744",
       "tag": "1744",
-      "lat": "39.2468699"
+      "lat": "39.2468699",
+      "scheduleRoutes": {
+        "ML": {
+          "Westbound": {
+            "allwk": [
+              "07:38:00",
+              "08:38:00",
+              "09:38:00",
+              "10:38:00",
+              "11:38:00",
+              "12:38:00",
+              "13:38:00",
+              "14:38:00",
+              "15:38:00",
+              "16:38:00",
+              "17:38:00"
+            ]
+          }
+        }
+      }
     },
     "1747": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Eastbound": true
+        }
+      },
       "lon": "-119.94377",
       "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Arrive",
       "stopId": "1747",
       "tag": "1747",
-      "lat": "39.2393499"
+      "lat": "39.2393499",
+      "scheduleRoutes": {
+        "ML": {
+          "Eastbound": {
+            "allwk": [
+              "07:12:00",
+              "08:12:00",
+              "09:12:00",
+              "10:12:00",
+              "11:12:00",
+              "12:12:00",
+              "13:12:00",
+              "14:12:00",
+              "15:12:00",
+              "16:12:00",
+              "17:12:00"
+            ]
+          }
+        }
+      }
     },
     "1750": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-119.93918",
       "title": "Hwy 28 at Country Club By Fairway",
       "stopId": "1750",
       "tag": "1750",
-      "lat": "39.2463199"
+      "lat": "39.2463199",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "06:46:00",
+              "07:46:00",
+              "08:46:00",
+              "09:46:00",
+              "10:46:00",
+              "11:46:00",
+              "12:46:00",
+              "13:46:00",
+              "14:46:00",
+              "15:46:00",
+              "16:46:00",
+              "17:46:00",
+              "18:16:00",
+              "19:16:00"
+            ]
+          }
+        }
+      }
     },
     "1752": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-119.95046",
       "title": "Hwy 28 at Raley's Shopping Center",
       "stopId": "1752",
       "tag": "1752",
-      "lat": "39.2496799"
+      "lat": "39.2496799",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "06:47:00",
+              "07:47:00",
+              "08:47:00",
+              "09:47:00",
+              "10:47:00",
+              "11:47:00",
+              "12:47:00",
+              "13:47:00",
+              "14:47:00",
+              "15:47:00",
+              "16:47:00",
+              "17:47:00",
+              "18:17:00",
+              "19:17:00"
+            ]
+          }
+        }
+      }
     },
     "1760": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.00576",
       "title": "Hwy 28 at Tahoe Biltmore (Shelter) - Arrive",
       "stopId": "1760",
       "tag": "1760",
-      "lat": "39.2274199"
+      "lat": "39.2274199",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "07:00:00",
+              "08:00:00",
+              "09:00:00",
+              "10:00:00",
+              "11:00:00",
+              "12:00:00",
+              "13:00:00",
+              "14:00:00",
+              "15:00:00",
+              "16:00:00",
+              "17:00:00",
+              "17:55:00",
+              "18:25:00"
+            ]
+          }
+        }
+      }
     },
     "1768": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.04227",
       "title": "Hwy 28 at Pino Grande Ave",
       "stopId": "1768",
       "tag": "1768",
-      "lat": "39.2386399"
+      "lat": "39.2386399",
+      "scheduleRoutes": {
+        "CB": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "19:07:00",
+              "20:07:00"
+            ]
+          }
+        },
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "06:09:00",
+              "07:09:00",
+              "08:09:00",
+              "08:39:00",
+              "09:09:00",
+              "09:39:00",
+              "10:09:00",
+              "10:39:00",
+              "11:09:00",
+              "11:39:00",
+              "12:09:00",
+              "12:39:00",
+              "13:09:00",
+              "13:39:00",
+              "14:09:00",
+              "14:39:00",
+              "15:09:00",
+              "15:39:00",
+              "16:09:00",
+              "16:39:00",
+              "17:09:00",
+              "17:39:00",
+              "18:09:00",
+              "18:39:00"
+            ]
+          }
+        }
+      }
     },
     "1774": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.07074",
       "title": "Hwy 28 at Sahara Dr",
       "stopId": "1774",
       "tag": "1774",
-      "lat": "39.2289499"
+      "lat": "39.2289499",
+      "scheduleRoutes": {
+        "CB": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "19:12:00",
+              "20:12:00"
+            ]
+          }
+        },
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "06:13:00",
+              "07:13:00",
+              "08:13:00",
+              "08:43:00",
+              "09:13:00",
+              "09:43:00",
+              "10:13:00",
+              "10:43:00",
+              "11:13:00",
+              "11:43:00",
+              "12:13:00",
+              "12:43:00",
+              "13:13:00",
+              "13:43:00",
+              "14:13:00",
+              "14:43:00",
+              "15:13:00",
+              "15:43:00",
+              "16:13:00",
+              "16:43:00",
+              "17:13:00",
+              "17:43:00",
+              "18:13:00",
+              "18:43:00"
+            ]
+          }
+        }
+      }
     },
     "1778": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.0883299",
       "title": "Hwy 28 at Ridgewood Rd",
       "stopId": "1778",
       "tag": "1778",
-      "lat": "39.2150799"
+      "lat": "39.2150799",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "06:15:00",
+              "07:15:00",
+              "08:15:00",
+              "08:45:00",
+              "09:15:00",
+              "09:45:00",
+              "10:15:00",
+              "10:45:00",
+              "11:15:00",
+              "11:45:00",
+              "12:15:00",
+              "12:45:00",
+              "13:15:00",
+              "13:45:00",
+              "14:15:00",
+              "14:45:00",
+              "15:15:00",
+              "15:45:00",
+              "16:15:00",
+              "16:45:00",
+              "17:15:00",
+              "17:45:00",
+              "18:15:00",
+              "18:45:00"
+            ]
+          }
+        }
+      }
     },
     "1781": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.1055599",
       "title": "Hwy 28 at Dollar Dr",
       "stopId": "1781",
@@ -177,15 +1009,69 @@
       "lat": "39.19171"
     },
     "1782": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.10989",
       "title": "Hwy 28 at Dollar Hill II",
       "stopId": "1782",
       "tag": "1782",
-      "lat": "39.1901799"
+      "lat": "39.1901799",
+      "scheduleRoutes": {
+        "CB": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "19:18:00",
+              "20:18:00"
+            ]
+          }
+        },
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "06:20:00",
+              "07:20:00",
+              "08:20:00",
+              "08:50:00",
+              "09:20:00",
+              "09:50:00",
+              "10:20:00",
+              "10:50:00",
+              "11:20:00",
+              "11:50:00",
+              "12:20:00",
+              "12:50:00",
+              "13:20:00",
+              "13:50:00",
+              "14:20:00",
+              "14:50:00",
+              "15:20:00",
+              "15:50:00",
+              "16:20:00",
+              "16:50:00",
+              "17:20:00",
+              "17:50:00",
+              "18:20:00",
+              "18:50:00"
+            ]
+          }
+        }
+      }
     },
     "1783": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.1130799",
       "title": "Hwy 28 at Old Mill Rd",
       "stopId": "1783",
@@ -193,15 +1079,69 @@
       "lat": "39.1899799"
     },
     "1784": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.11839",
       "title": "Hwy 28 at Burton Creek",
       "stopId": "1784",
       "tag": "1784",
-      "lat": "39.1879599"
+      "lat": "39.1879599",
+      "scheduleRoutes": {
+        "CB": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "19:20:00",
+              "20:20:00"
+            ]
+          }
+        },
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "06:23:00",
+              "07:23:00",
+              "08:23:00",
+              "08:53:00",
+              "09:23:00",
+              "09:53:00",
+              "10:23:00",
+              "10:53:00",
+              "11:23:00",
+              "11:53:00",
+              "12:23:00",
+              "12:53:00",
+              "13:23:00",
+              "13:53:00",
+              "14:23:00",
+              "14:53:00",
+              "15:23:00",
+              "15:53:00",
+              "16:23:00",
+              "16:53:00",
+              "17:23:00",
+              "17:53:00",
+              "18:23:00",
+              "18:53:00"
+            ]
+          }
+        }
+      }
     },
     "1786": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.1239599",
       "title": "Hwy 28 at Tamarack Lodge",
       "stopId": "1786",
@@ -209,7 +1149,14 @@
       "lat": "39.18386"
     },
     "1787": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.12849",
       "title": "Hwy 28 at Rocky Ridge Rd",
       "stopId": "1787",
@@ -217,7 +1164,14 @@
       "lat": "39.1819299"
     },
     "1790": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.1333499",
       "title": "Hwy 28 at Attorneys Office",
       "stopId": "1790",
@@ -225,15 +1179,61 @@
       "lat": "39.1772499"
     },
     "1797": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.1442599",
       "title": "Hwy 28 at Tahoe City WYE",
       "stopId": "1797",
       "tag": "1797",
-      "lat": "39.1685899"
+      "lat": "39.1685899",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "06:28:00",
+              "07:28:00",
+              "08:28:00",
+              "08:58:00",
+              "09:28:00",
+              "09:58:00",
+              "10:28:00",
+              "10:58:00",
+              "11:28:00",
+              "11:58:00",
+              "12:28:00",
+              "12:58:00",
+              "13:28:00",
+              "13:58:00",
+              "14:28:00",
+              "14:58:00",
+              "15:28:00",
+              "15:58:00",
+              "16:28:00",
+              "16:58:00",
+              "17:28:00",
+              "17:58:00",
+              "18:28:00",
+              "18:58:00"
+            ]
+          }
+        }
+      }
     },
     "1802": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.1457099",
       "title": "Hwy 89 at Granlibakken",
       "stopId": "1802",
@@ -241,7 +1241,14 @@
       "lat": "39.1592399"
     },
     "1803": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.1448499",
       "title": "Hwy 89 at Chase",
       "stopId": "1803",
@@ -249,7 +1256,14 @@
       "lat": "39.1619099"
     },
     "1804": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.1461299",
       "title": "Hwy 89 at Cathedral Dr",
       "stopId": "1804",
@@ -257,7 +1271,14 @@
       "lat": "39.15569"
     },
     "1805": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.1460399",
       "title": "Hwy 89 at Sequoia Ave",
       "stopId": "1805",
@@ -265,15 +1286,49 @@
       "lat": "39.15161"
     },
     "1806": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.15335",
       "title": "Hwy 89 at Pine Ave",
       "stopId": "1806",
       "tag": "1806",
-      "lat": "39.1450899"
+      "lat": "39.1450899",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "07:37:00",
+              "08:37:00",
+              "09:37:00",
+              "10:37:00",
+              "11:37:00",
+              "12:37:00",
+              "13:37:00",
+              "14:37:00",
+              "15:37:00",
+              "16:37:00",
+              "17:37:00"
+            ]
+          },
+          "Westshore - Southbound": {}
+        }
+      }
     },
     "1807": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.1545399",
       "title": "Hwy 89 at Fountain Ave  (Firesign Cafe)",
       "stopId": "1807",
@@ -281,15 +1336,40 @@
       "lat": "39.14017"
     },
     "1808": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.1545199",
       "title": "Hwy 89 at Pineland Dr",
       "stopId": "1808",
       "tag": "1808",
-      "lat": "39.13759"
+      "lat": "39.13759",
+      "scheduleRoutes": {
+        "WSN": {
+          "Westshore - Southbound": {
+            "allwk": [
+              "18:45:00",
+              "19:45:00",
+              "20:45:00"
+            ]
+          }
+        }
+      }
     },
     "1809": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.15642",
       "title": "Hwy 89 at Ward Ave",
       "stopId": "1809",
@@ -297,7 +1377,14 @@
       "lat": "39.1341399"
     },
     "1813": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.1586099",
       "title": "Hwy 89 at Elizabeth Dr (Skyland)",
       "stopId": "1813",
@@ -305,31 +1392,110 @@
       "lat": "39.1154"
     },
     "1814": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.1627",
       "title": "Hwy 89 at Grand Ave",
       "stopId": "1814",
       "tag": "1814",
-      "lat": "39.1048799"
+      "lat": "39.1048799",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "07:42:00",
+              "08:42:00",
+              "09:42:00",
+              "10:42:00",
+              "11:42:00",
+              "12:42:00",
+              "13:42:00",
+              "14:42:00",
+              "15:42:00",
+              "16:42:00",
+              "17:42:00"
+            ]
+          },
+          "Westshore - Southbound": {}
+        }
+      }
     },
     "1815": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.1635699",
       "title": "Hwy 89 at Grimsell Pass (Homewood Sign)",
       "stopId": "1815",
       "tag": "1815",
-      "lat": "39.10064"
+      "lat": "39.10064",
+      "scheduleRoutes": {
+        "WSN": {
+          "Westshore - Southbound": {
+            "allwk": [
+              "18:50:00",
+              "19:50:00",
+              "20:50:00"
+            ]
+          }
+        }
+      }
     },
     "1816": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.16396",
       "title": "Hwy 89 at Homewood Ski Area",
       "stopId": "1816",
       "tag": "1816",
-      "lat": "39.0936499"
+      "lat": "39.0936499",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "07:45:00",
+              "08:45:00",
+              "09:45:00",
+              "10:45:00",
+              "11:45:00",
+              "12:45:00",
+              "13:45:00",
+              "14:45:00",
+              "15:45:00",
+              "16:45:00",
+              "17:45:00"
+            ]
+          },
+          "Westshore - Southbound": {}
+        }
+      }
     },
     "1817": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.1580099",
       "title": "Hwy 89 at West Shore Sports",
       "stopId": "1817",
@@ -337,7 +1503,14 @@
       "lat": "39.0810799"
     },
     "1818": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.1569499",
       "title": "Hwy 89 Tahoe Ski Bowl Way",
       "stopId": "1818",
@@ -345,7 +1518,14 @@
       "lat": "39.0793"
     },
     "1819": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.1508799",
       "title": "Hwy 89 at Ellis St",
       "stopId": "1819",
@@ -353,7 +1533,14 @@
       "lat": "39.0751199"
     },
     "1820": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.1444799",
       "title": "Hwy 89 at Lodge Dr",
       "stopId": "1820",
@@ -361,7 +1548,14 @@
       "lat": "39.07308"
     },
     "1821": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.14015",
       "title": "Hwy 89 at McKinney Rubicon Springs Rd",
       "stopId": "1821",
@@ -369,7 +1563,14 @@
       "lat": "39.07032"
     },
     "1822": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.13652",
       "title": "Hwy 89 at Elm St",
       "stopId": "1822",
@@ -377,7 +1578,14 @@
       "lat": "39.06874"
     },
     "1823": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.13108",
       "title": "Hwy 89 Across from PDQ Market",
       "stopId": "1823",
@@ -385,7 +1593,11 @@
       "lat": "39.06834"
     },
     "1824": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.1283199",
       "title": "Hwy 89 at Tahoma Post Office (Lodge)",
       "stopId": "1824",
@@ -393,39 +1605,269 @@
       "lat": "39.0672399"
     },
     "1827": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true,
+          "Northshore - Westbound": true
+        },
+        "Hwy89": {
+          "Northbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true,
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.14475",
       "title": "Tahoe City Transit Center - Depart",
       "stopId": "1827",
       "tag": "1827",
-      "lat": "39.1645699"
+      "lat": "39.1645699",
+      "scheduleRoutes": {
+        "WSN": {
+          "Westshore - Southbound": {
+            "allwk": [
+              "18:30:00",
+              "19:30:00",
+              "20:30:00"
+            ]
+          }
+        },
+        "Hwy89": {
+          "Northbound": {
+            "allwk": [
+              "06:30:00",
+              "07:30:00",
+              "08:30:00",
+              "09:30:00",
+              "10:30:00",
+              "11:30:00",
+              "12:30:00",
+              "13:30:00",
+              "14:30:00",
+              "15:50:00",
+              "16:50:00",
+              "17:30:00",
+              "18:30:00"
+            ]
+          }
+        },
+        "ML": {
+          "Northshore - Eastbound": {
+            "allwk": [
+              "06:00:00",
+              "06:31:00",
+              "18:30:00"
+            ]
+          },
+          "Northshore - Westbound": {
+            "allwk": [
+              "07:32:00",
+              "08:32:00",
+              "09:32:00",
+              "10:32:00",
+              "11:32:00",
+              "12:32:00",
+              "13:32:00",
+              "14:32:00",
+              "15:32:00",
+              "16:32:00",
+              "17:32:00"
+            ]
+          },
+          "Westshore - Eastbound": {
+            "allwk": [
+              "08:01:00",
+              "09:01:00",
+              "10:01:00",
+              "11:01:00",
+              "12:01:00",
+              "13:01:00",
+              "14:01:00",
+              "15:01:00",
+              "16:01:00",
+              "17:01:00"
+            ]
+          },
+          "Westshore - Incline": {
+            "allwk": [
+              "07:31:00",
+              "08:31:00",
+              "09:31:00",
+              "10:31:00",
+              "11:31:00",
+              "12:31:00",
+              "13:31:00",
+              "14:31:00",
+              "15:31:00",
+              "16:31:00",
+              "17:31:00"
+            ]
+          },
+          "Westshore - Southbound": {}
+        }
+      }
     },
     "1828": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.00503",
       "title": "HWY 28 Crystal Bay Club (Shelter) - Depart",
       "stopId": "1828",
       "tag": "1828",
-      "lat": "39.2275499"
+      "lat": "39.2275499",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Eastbound": {
+            "allwk": [
+              "06:30:00",
+              "07:00:00",
+              "19:00:00"
+            ]
+          },
+          "Westshore - Incline": {
+            "allwk": [
+              "08:00:00",
+              "09:00:00",
+              "10:00:00",
+              "11:00:00",
+              "12:00:00",
+              "13:00:00",
+              "14:00:00",
+              "15:00:00",
+              "16:00:00",
+              "17:00:00",
+              "18:00:00"
+            ]
+          }
+        }
+      }
     },
     "1836": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "Hwy267": {
+          "Northbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "NSPM": {
+          "Northbound": true
+        }
+      },
       "lon": "-120.00586",
       "title": "Hwy 28 at Tahoe Biltmore (Shelter) - Depart",
       "stopId": "1836",
       "tag": "1836",
-      "lat": "39.2273699"
+      "lat": "39.2273699",
+      "scheduleRoutes": {
+        "NSPM": {
+          "Northbound": {
+            "allwk": [
+              "19:00:00",
+              "20:00:00",
+              "21:00:00"
+            ]
+          }
+        },
+        "CB": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "19:00:00",
+              "20:00:00"
+            ]
+          }
+        },
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "06:00:00",
+              "08:30:00",
+              "09:30:00",
+              "10:30:00",
+              "11:30:00",
+              "12:30:00",
+              "13:30:00",
+              "14:30:00",
+              "15:30:00",
+              "16:30:00",
+              "17:30:00",
+              "18:00:00"
+            ]
+          }
+        },
+        "Hwy267": {
+          "Northbound": {
+            "allwk": [
+              "07:00:00",
+              "08:00:00",
+              "09:00:00",
+              "10:00:00",
+              "11:00:00",
+              "12:00:00",
+              "13:00:00",
+              "14:00:00",
+              "15:00:00",
+              "16:00:00",
+              "17:00:00"
+            ]
+          }
+        }
+      }
     },
     "1837": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-119.94373",
       "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Depart",
       "stopId": "1837",
       "tag": "1837",
-      "lat": "39.2393299"
+      "lat": "39.2393299",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "06:42:00",
+              "07:42:00",
+              "08:42:00",
+              "09:42:00",
+              "10:42:00",
+              "11:42:00",
+              "12:42:00",
+              "13:42:00",
+              "14:42:00",
+              "15:42:00",
+              "16:42:00",
+              "17:42:00",
+              "18:12:00",
+              "19:12:00"
+            ]
+          }
+        }
+      }
     },
     "1843": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "Hwy89": {
+          "Southbound": true,
+          "Northbound": true
+        }
+      },
       "lon": "-120.22865",
       "title": "Squaw Valley Rd at Post Office",
       "stopId": "1843",
@@ -433,23 +1875,144 @@
       "lat": "39.1992999"
     },
     "1845": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true,
+          "Northshore - Westbound": true
+        },
+        "Hwy89": {
+          "Southbound": true,
+          "Northbound": true
+        }
+      },
       "lon": "-120.2328",
       "title": "Squaw Parking Lot at Village (Shelter in Building)",
       "stopId": "1845",
       "tag": "1845",
-      "lat": "39.1970399"
+      "lat": "39.1970399",
+      "scheduleRoutes": {
+        "CB": {
+          "Eastbound": {
+            "allwk": [
+              "19:05:00",
+              "20:05:00"
+            ]
+          },
+          "Northshore - Westbound": {
+            "allwk": [
+              "19:55:00",
+              "20:55:00"
+            ]
+          }
+        },
+        "Hwy89": {
+          "Northbound": {
+            "allwk": [
+              "06:46:00",
+              "07:46:00",
+              "08:46:00",
+              "09:46:00",
+              "10:46:00",
+              "11:46:00",
+              "12:46:00",
+              "13:46:00",
+              "14:46:00",
+              "16:06:00",
+              "17:06:00"
+            ]
+          },
+          "Southbound": {
+            "allwk": [
+              "07:54:00",
+              "08:54:00",
+              "09:54:00",
+              "10:54:00",
+              "11:54:00",
+              "12:54:00",
+              "13:54:00",
+              "14:54:00",
+              "15:54:00",
+              "16:54:00",
+              "17:54:00"
+            ]
+          }
+        }
+      }
     },
     "1892": {
-      "routes": {},
+      "routes": {
+        "Hwy89": {
+          "Southbound": true
+        },
+        "Hwy267": {
+          "Southbound": true
+        },
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.18549",
       "title": "Truckee Depot - Depart",
       "stopId": "1892",
       "tag": "1892",
-      "lat": "39.3275299"
+      "lat": "39.3275299",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:23:00",
+              "10:23:00",
+              "11:23:00",
+              "12:23:00",
+              "13:23:00",
+              "14:23:00",
+              "15:23:00",
+              "16:23:00"
+            ]
+          }
+        },
+        "Hwy89": {
+          "Southbound": {
+            "allwk": [
+              "07:30:00",
+              "08:30:00",
+              "09:30:00",
+              "10:30:00",
+              "11:30:00",
+              "12:30:00",
+              "13:30:00",
+              "14:30:00",
+              "15:30:00",
+              "16:30:00",
+              "17:30:00"
+            ]
+          }
+        },
+        "Hwy267": {
+          "Southbound": {
+            "allwk": [
+              "07:00:00",
+              "08:00:00",
+              "09:00:00",
+              "10:00:00",
+              "11:00:00",
+              "12:00:00",
+              "13:00:00",
+              "14:00:00",
+              "15:00:00",
+              "16:00:00",
+              "17:00:00"
+            ]
+          }
+        }
+      }
     },
     "1894": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.1771",
       "title": "Brockway Rd and Palisades Dr",
       "stopId": "1894",
@@ -457,7 +2020,11 @@
       "lat": "39.3262"
     },
     "1895": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.1693399",
       "title": "Village Green (2nd Driveway)",
       "stopId": "1895",
@@ -465,7 +2032,12 @@
       "lat": "39.3243099"
     },
     "1898": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Southbound": true,
+          "Northbound": true
+        }
+      },
       "lon": "-120.1464599",
       "title": "Airport Rd and Truckee Town Hall",
       "stopId": "1898",
@@ -473,23 +2045,116 @@
       "lat": "39.31725"
     },
     "1900": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Southbound": true,
+          "Northbound": true
+        },
+        "NSPM": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.12155",
       "title": "Northstar Village Gate # 7",
       "stopId": "1900",
       "tag": "1900",
-      "lat": "39.2761599"
+      "lat": "39.2761599",
+      "scheduleRoutes": {
+        "NSPM": {
+          "Southbound": {
+            "allwk": [
+              "18:30:00",
+              "19:30:00",
+              "20:30:00"
+            ]
+          }
+        },
+        "Hwy267": {
+          "Northbound": {
+            "allwk": [
+              "07:25:00",
+              "08:25:00",
+              "09:25:00",
+              "10:25:00",
+              "11:25:00",
+              "12:25:00",
+              "13:25:00",
+              "14:25:00",
+              "15:25:00",
+              "16:25:00",
+              "17:25:00"
+            ]
+          },
+          "Southbound": {
+            "allwk": [
+              "07:21:00",
+              "08:21:00",
+              "09:21:00",
+              "10:21:00",
+              "11:21:00",
+              "12:21:00",
+              "13:21:00",
+              "14:21:00",
+              "15:21:00",
+              "16:21:00",
+              "17:21:00"
+            ]
+          }
+        }
+      }
     },
     "1940": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Southbound": true
+        },
+        "NSPM": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.0379",
       "title": "Hwy 267 and Stewart Way",
       "stopId": "1940",
       "tag": "1940",
-      "lat": "39.2526299"
+      "lat": "39.2526299",
+      "scheduleRoutes": {
+        "NSPM": {
+          "Southbound": {
+            "allwk": [
+              "18:50:00",
+              "19:50:00",
+              "20:50:00"
+            ]
+          }
+        },
+        "Hwy267": {
+          "Southbound": {
+            "allwk": [
+              "07:35:00",
+              "08:35:00",
+              "09:35:00",
+              "10:35:00",
+              "11:35:00",
+              "12:35:00",
+              "13:35:00",
+              "14:35:00",
+              "15:35:00",
+              "16:35:00",
+              "17:35:00"
+            ]
+          }
+        }
+      }
     },
     "1941": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Southbound": true
+        },
+        "NSPM": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.03324",
       "title": "Hwy 267 and Lincoln Green",
       "stopId": "1941",
@@ -497,7 +2162,14 @@
       "lat": "39.24891"
     },
     "1942": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Southbound": true
+        },
+        "NSPM": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.0305799",
       "title": "Hwy 267 and Speckled St",
       "stopId": "1942",
@@ -505,103 +2177,545 @@
       "lat": "39.2434399"
     },
     "1950": {
-      "routes": {},
+      "routes": {
+        "Hwy89": {
+          "Southbound": true
+        },
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.20135",
       "title": "Donner Pass Rd at Tahoe Forest Medical Offices",
       "stopId": "1950",
       "tag": "1950",
-      "lat": "39.3262899"
+      "lat": "39.3262899",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:25:00",
+              "10:25:00",
+              "11:25:00",
+              "12:25:00",
+              "13:25:00",
+              "14:25:00",
+              "15:25:00",
+              "16:25:00"
+            ]
+          }
+        },
+        "Hwy89": {
+          "Southbound": {
+            "allwk": [
+              "07:32:00",
+              "08:32:00",
+              "09:32:00",
+              "10:32:00",
+              "11:32:00",
+              "12:32:00",
+              "13:32:00",
+              "14:32:00",
+              "15:32:00",
+              "16:32:00",
+              "17:32:00"
+            ]
+          }
+        }
+      }
     },
     "1951": {
-      "routes": {},
+      "routes": {
+        "Hwy89": {
+          "Southbound": true
+        },
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.205",
       "title": "Donner Pass Rd at Gateway Center (Safeway Bus Shelter)",
       "stopId": "1951",
       "tag": "1951",
-      "lat": "39.3261299"
+      "lat": "39.3261299",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:26:00",
+              "10:26:00",
+              "11:26:00",
+              "12:26:00",
+              "13:26:00",
+              "14:26:00",
+              "15:26:00",
+              "16:26:00"
+            ]
+          }
+        },
+        "Hwy89": {
+          "Southbound": {
+            "allwk": [
+              "07:33:00",
+              "08:33:00",
+              "09:33:00",
+              "10:33:00",
+              "11:33:00",
+              "12:33:00",
+              "13:33:00",
+              "14:33:00",
+              "15:33:00",
+              "16:33:00",
+              "17:33:00"
+            ]
+          }
+        }
+      }
     },
     "1953": {
-      "routes": {},
+      "routes": {
+        "Hwy89": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.20777",
       "title": "Hwy 89 at Deerfield Dr (Crossroad Driveway)",
       "stopId": "1953",
       "tag": "1953",
-      "lat": "39.3199599"
+      "lat": "39.3199599",
+      "scheduleRoutes": {
+        "Hwy89": {
+          "Southbound": {
+            "allwk": [
+              "07:34:00",
+              "08:34:00",
+              "09:34:00",
+              "10:34:00",
+              "11:34:00",
+              "12:34:00",
+              "13:34:00",
+              "14:34:00",
+              "15:34:00",
+              "16:34:00",
+              "17:34:00"
+            ]
+          }
+        }
+      }
     },
     "1954": {
-      "routes": {},
+      "routes": {
+        "Hwy89": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.20429",
       "title": "Hwy 89 Across from West River St (Trailer Park)",
       "stopId": "1954",
       "tag": "1954",
-      "lat": "39.3159699"
+      "lat": "39.3159699",
+      "scheduleRoutes": {
+        "Hwy89": {
+          "Southbound": {
+            "allwk": [
+              "07:35:00",
+              "08:35:00",
+              "09:35:00",
+              "10:35:00",
+              "11:35:00",
+              "12:35:00",
+              "13:35:00",
+              "14:35:00",
+              "15:35:00",
+              "16:35:00",
+              "17:35:00"
+            ]
+          }
+        }
+      }
     },
     "1955": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "Hwy89": {
+          "Southbound": true,
+          "Northbound": true
+        }
+      },
       "lon": "-120.23571",
       "title": "Squaw Valley Rd at Clock Tower",
       "stopId": "1955",
       "tag": "1955",
-      "lat": "39.1985299"
+      "lat": "39.1985299",
+      "scheduleRoutes": {
+        "CB": {
+          "Eastbound": {
+            "allwk": [
+              "19:00:00",
+              "20:00:00"
+            ]
+          }
+        },
+        "Hwy89": {
+          "Northbound": {
+            "allwk": [
+              "06:44:00",
+              "07:44:00",
+              "08:44:00",
+              "09:44:00",
+              "10:44:00",
+              "11:44:00",
+              "12:44:00",
+              "13:44:00",
+              "14:44:00",
+              "16:04:00",
+              "17:04:00"
+            ]
+          },
+          "Southbound": {
+            "allwk": [
+              "07:52:00",
+              "08:52:00",
+              "09:52:00",
+              "10:52:00",
+              "11:52:00",
+              "12:52:00",
+              "13:52:00",
+              "14:52:00",
+              "15:52:00",
+              "16:52:00",
+              "17:52:00"
+            ]
+          }
+        }
+      }
     },
     "1960": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "Hwy89": {
+          "Southbound": true,
+          "Northbound": true
+        }
+      },
       "lon": "-120.20087",
       "title": "Squaw Valley Rd at New Park (Near Entrance)",
       "stopId": "1960",
       "tag": "1960",
-      "lat": "39.2048099"
+      "lat": "39.2048099",
+      "scheduleRoutes": {
+        "CB": {
+          "Eastbound": {
+            "allwk": [
+              "19:20:00",
+              "20:20:00"
+            ]
+          }
+        },
+        "Hwy89": {
+          "Northbound": {
+            "allwk": [
+              "06:52:00",
+              "07:52:00",
+              "08:52:00",
+              "09:52:00",
+              "10:52:00",
+              "11:52:00",
+              "12:52:00",
+              "13:52:00",
+              "14:52:00",
+              "16:12:00",
+              "17:12:00"
+            ]
+          },
+          "Southbound": {
+            "allwk": [
+              "07:59:00",
+              "08:59:00",
+              "09:59:00",
+              "10:59:00",
+              "11:59:00",
+              "12:59:00",
+              "13:59:00",
+              "14:59:00",
+              "15:59:00",
+              "16:59:00",
+              "17:59:00"
+            ]
+          }
+        }
+      }
     },
     "1961": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "Hwy89": {
+          "Southbound": true,
+          "Northbound": true
+        }
+      },
       "lon": "-120.20056",
       "title": "Squaw Valley Rd at 7-11 Driveway (Shelter)",
       "stopId": "1961",
       "tag": "1961",
-      "lat": "39.2049699"
+      "lat": "39.2049699",
+      "scheduleRoutes": {
+        "CB": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "19:40:00",
+              "20:40:00"
+            ]
+          }
+        },
+        "Hwy89": {
+          "Northbound": {
+            "allwk": [
+              "06:39:00",
+              "07:39:00",
+              "08:39:00",
+              "09:39:00",
+              "10:39:00",
+              "11:39:00",
+              "12:39:00",
+              "13:39:00",
+              "14:39:00",
+              "15:59:00",
+              "16:59:00",
+              "17:39:00",
+              "18:39:00"
+            ]
+          },
+          "Southbound": {
+            "allwk": [
+              "07:47:00",
+              "08:47:00",
+              "09:47:00",
+              "10:47:00",
+              "11:47:00",
+              "12:47:00",
+              "13:47:00",
+              "14:47:00",
+              "15:47:00",
+              "16:47:00",
+              "17:47:00"
+            ]
+          }
+        }
+      }
     },
     "1962": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "Hwy89": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.19493",
       "title": "Hwy 89 at Alpine Meadows Rd (River Ranch)",
       "stopId": "1962",
       "tag": "1962",
-      "lat": "39.1865299"
+      "lat": "39.1865299",
+      "scheduleRoutes": {
+        "CB": {
+          "Eastbound": {
+            "allwk": [
+              "19:23:00",
+              "20:23:00"
+            ]
+          }
+        },
+        "Hwy89": {
+          "Southbound": {
+            "allwk": [
+              "08:05:00",
+              "09:05:00",
+              "10:05:00",
+              "11:05:00",
+              "12:05:00",
+              "13:05:00",
+              "14:05:00",
+              "15:05:00",
+              "16:05:00",
+              "17:05:00",
+              "18:05:00"
+            ]
+          }
+        }
+      }
     },
     "1969": {
-      "routes": {},
+      "routes": {
+        "Hwy89": {
+          "Northbound": true
+        },
+        "TLR": {
+          "Eastbound": true
+        }
+      },
       "lon": "-120.20751",
       "title": "Hwy 89 at College Trail",
       "stopId": "1969",
       "tag": "1969",
-      "lat": "39.32076"
+      "lat": "39.32076",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "09:52:00",
+              "10:52:00",
+              "11:52:00",
+              "12:52:00",
+              "13:52:00",
+              "14:52:00",
+              "15:52:00",
+              "16:52:00"
+            ]
+          }
+        }
+      }
     },
     "1970": {
-      "routes": {},
+      "routes": {
+        "Hwy89": {
+          "Northbound": true
+        }
+      },
       "lon": "-120.20525",
       "title": "Highway 89 Northbound Near Mousehole",
       "stopId": "1970",
       "tag": "1970",
-      "lat": "39.3175099"
+      "lat": "39.3175099",
+      "scheduleRoutes": {
+        "Hwy89": {
+          "Northbound": {
+            "allwk": [
+              "07:00:00",
+              "08:00:00",
+              "09:00:00",
+              "10:00:00",
+              "11:00:00",
+              "12:00:00",
+              "13:00:00",
+              "14:00:00",
+              "15:00:00",
+              "16:20:00",
+              "17:20:00"
+            ]
+          }
+        }
+      }
     },
     "1972": {
-      "routes": {},
+      "routes": {
+        "Hwy89": {
+          "Northbound": true
+        },
+        "TLR": {
+          "Eastbound": true
+        }
+      },
       "lon": "-120.2057",
       "title": "Donner Pass Rd at Bank of America (Bus Shelter)",
       "stopId": "1972",
       "tag": "1972",
-      "lat": "39.3259599"
+      "lat": "39.3259599",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "09:54:00",
+              "10:54:00",
+              "11:54:00",
+              "12:54:00",
+              "13:54:00",
+              "14:54:00",
+              "15:54:00",
+              "16:54:00"
+            ]
+          }
+        },
+        "Hwy89": {
+          "Northbound": {
+            "allwk": [
+              "07:02:00",
+              "08:02:00",
+              "09:02:00",
+              "10:02:00",
+              "11:02:00",
+              "12:02:00",
+              "13:02:00",
+              "14:02:00",
+              "15:02:00",
+              "16:22:00",
+              "17:22:00"
+            ]
+          }
+        }
+      }
     },
     "1973": {
-      "routes": {},
+      "routes": {
+        "Hwy89": {
+          "Northbound": true
+        },
+        "TLR": {
+          "Eastbound": true
+        }
+      },
       "lon": "-120.20119",
       "title": "Donner Pass Rd at Tahoe Forest Cancer Center",
       "stopId": "1973",
       "tag": "1973",
-      "lat": "39.3261299"
+      "lat": "39.3261299",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "09:55:00",
+              "10:55:00",
+              "11:55:00",
+              "12:55:00",
+              "13:55:00",
+              "14:55:00",
+              "15:55:00",
+              "16:55:00"
+            ]
+          }
+        },
+        "Hwy89": {
+          "Northbound": {
+            "allwk": [
+              "07:03:00",
+              "08:03:00",
+              "09:03:00",
+              "10:03:00",
+              "11:03:00",
+              "12:03:00",
+              "13:03:00",
+              "14:03:00",
+              "15:03:00",
+              "16:23:00",
+              "17:23:00"
+            ]
+          }
+        }
+      }
     },
     "1977": {
-      "routes": {},
+      "routes": {
+        "Hwy89": {
+          "Northbound": true
+        }
+      },
       "lon": "-120.20746",
       "title": "Hwy 89 at CHP Office",
       "stopId": "1977",
@@ -609,15 +2723,43 @@
       "lat": "39.32522"
     },
     "1978": {
-      "routes": {},
+      "routes": {
+        "Hwy89": {
+          "Southbound": true
+        },
+        "TLR": {
+          "Eastbound": true
+        }
+      },
       "lon": "-120.2078399",
       "title": "Highway 89 South Between DMV and Freeway",
       "stopId": "1978",
       "tag": "1978",
-      "lat": "39.32494"
+      "lat": "39.32494",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "09:47:00",
+              "10:47:00",
+              "11:47:00",
+              "12:47:00",
+              "13:47:00",
+              "14:47:00",
+              "15:47:00",
+              "16:47:00"
+            ]
+          }
+        }
+      }
     },
     "1984": {
-      "routes": {},
+      "routes": {
+        "Hwy89": {
+          "Southbound": true,
+          "Northbound": true
+        }
+      },
       "lon": "-120.2073399",
       "title": "Squaw Valley Rd at Squaw Creek Rd (Shelter)",
       "stopId": "1984",
@@ -625,47 +2767,192 @@
       "lat": "39.20523"
     },
     "1986": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "Hwy89": {
+          "Northbound": true
+        }
+      },
       "lon": "-120.19492",
       "title": "Hwy 89 at Alpine Meadows Rd (River Ranch)",
       "stopId": "1986",
       "tag": "1986",
-      "lat": "39.1872699"
+      "lat": "39.1872699",
+      "scheduleRoutes": {
+        "CB": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "19:37:00",
+              "20:37:00"
+            ]
+          }
+        }
+      }
     },
     "1989": {
-      "routes": {},
+      "routes": {
+        "WSN": {
+          "Westshore - Southbound": true,
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.15378",
       "title": "Granlibakken Resort",
       "stopId": "1989",
       "tag": "1989",
-      "lat": "39.1562299"
+      "lat": "39.1562299",
+      "scheduleRoutes": {
+        "WSN": {
+          "Westshore - Northbound": {
+            "allwk": [
+              "19:25:00",
+              "20:25:00",
+              "21:25:00"
+            ]
+          },
+          "Westshore - Southbound": {
+            "allwk": [
+              "18:35:00",
+              "19:35:00",
+              "20:35:00"
+            ]
+          }
+        }
+      }
     },
     "2001": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.16222",
       "title": "Across from Best Western",
       "stopId": "2001",
       "tag": "2001",
-      "lat": "39.3209499"
+      "lat": "39.3209499",
+      "scheduleRoutes": {
+        "Hwy267": {
+          "Southbound": {
+            "allwk": [
+              "07:04:00",
+              "08:04:00",
+              "09:04:00",
+              "10:04:00",
+              "11:04:00",
+              "12:04:00",
+              "13:04:00",
+              "14:04:00",
+              "15:04:00",
+              "16:04:00",
+              "17:04:00"
+            ]
+          }
+        }
+      }
     },
     "2002": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Southbound": true,
+          "Northbound": true
+        }
+      },
       "lon": "-120.14473",
       "title": "Airport",
       "stopId": "2002",
       "tag": "2002",
-      "lat": "39.3187499"
+      "lat": "39.3187499",
+      "scheduleRoutes": {
+        "Hwy267": {
+          "Northbound": {
+            "allwk": [
+              "07:41:00",
+              "08:41:00",
+              "09:41:00",
+              "10:41:00",
+              "11:41:00",
+              "12:41:00",
+              "13:41:00",
+              "14:41:00",
+              "15:41:00",
+              "16:41:00",
+              "17:41:00"
+            ]
+          },
+          "Southbound": {
+            "allwk": [
+              "07:09:00",
+              "08:09:00",
+              "09:09:00",
+              "10:09:00",
+              "11:09:00",
+              "12:09:00",
+              "13:09:00",
+              "14:09:00",
+              "15:09:00",
+              "16:09:00",
+              "17:09:00"
+            ]
+          }
+        }
+      }
     },
     "2006": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Southbound": true,
+          "Northbound": true
+        }
+      },
       "lon": "-120.1525",
       "title": "Hampton Inn and Suites",
       "stopId": "2006",
       "tag": "2006",
-      "lat": "39.3171399"
+      "lat": "39.3171399",
+      "scheduleRoutes": {
+        "Hwy267": {
+          "Northbound": {
+            "allwk": [
+              "07:43:00",
+              "08:43:00",
+              "09:43:00",
+              "10:43:00",
+              "11:43:00",
+              "12:43:00",
+              "13:43:00",
+              "14:43:00",
+              "15:43:00",
+              "16:43:00",
+              "17:43:00"
+            ]
+          },
+          "Southbound": {
+            "allwk": [
+              "07:07:00",
+              "08:07:00",
+              "09:07:00",
+              "10:07:00",
+              "11:07:00",
+              "12:07:00",
+              "13:07:00",
+              "14:07:00",
+              "15:07:00",
+              "16:07:00",
+              "17:07:00"
+            ]
+          }
+        }
+      }
     },
     "2008": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.12911",
       "title": "Hwy 89 at Pine St (Northbound)",
       "stopId": "2008",
@@ -673,7 +2960,14 @@
       "lat": "39.06803"
     },
     "2009": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.1372",
       "title": "Hwy 89 Across from Elm St",
       "stopId": "2009",
@@ -681,7 +2975,14 @@
       "lat": "39.0692099"
     },
     "2010": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.14",
       "title": "Hwy 89 at Moana Cir",
       "stopId": "2010",
@@ -689,7 +2990,14 @@
       "lat": "39.0704699"
     },
     "2011": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.14438",
       "title": "Hwy 89 at Chambers Landing",
       "stopId": "2011",
@@ -697,7 +3005,14 @@
       "lat": "39.0732899"
     },
     "2012": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.15826",
       "title": "Hwy 89 at Homewood Obexer's Market",
       "stopId": "2012",
@@ -705,7 +3020,14 @@
       "lat": "39.082"
     },
     "2013": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.15992",
       "title": "Hwy 89 at West Shore Cafe",
       "stopId": "2013",
@@ -713,7 +3035,14 @@
       "lat": "39.0852599"
     },
     "2014": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.1607799",
       "title": "Hwy 89 at Homewood Sign",
       "stopId": "2014",
@@ -721,7 +3050,14 @@
       "lat": "39.0871099"
     },
     "2015": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.16334",
       "title": "Hwy 89 Across from Grimsell Pass",
       "stopId": "2015",
@@ -729,15 +3065,49 @@
       "lat": "39.1006799"
     },
     "2017": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.16254",
       "title": "Hwy 89 at Grand Ave",
       "stopId": "2017",
       "tag": "2017",
-      "lat": "39.1046899"
+      "lat": "39.1046899",
+      "scheduleRoutes": {
+        "ML": {
+          "Westshore - Incline": {
+            "allwk": [
+              "07:16:00",
+              "08:16:00",
+              "09:16:00",
+              "10:16:00",
+              "11:16:00",
+              "12:16:00",
+              "13:16:00",
+              "14:16:00",
+              "15:16:00",
+              "16:16:00",
+              "17:16:00"
+            ]
+          },
+          "Westshore - Northbound": {}
+        }
+      }
     },
     "2018": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.15818",
       "title": "Hwy 89 at Skyland Beach",
       "stopId": "2018",
@@ -745,7 +3115,14 @@
       "lat": "39.1148399"
     },
     "2019": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.16115",
       "title": "Hwy 89 at Hurricane Bay",
       "stopId": "2019",
@@ -753,7 +3130,14 @@
       "lat": "39.1205499"
     },
     "2021": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.1617499",
       "title": "Hwy 89 Across from Timberland Dr (Rideout)",
       "stopId": "2021",
@@ -761,7 +3145,14 @@
       "lat": "39.12779"
     },
     "2022": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.15443",
       "title": "Hwy 89 at Sunnyside Market",
       "stopId": "2022",
@@ -769,7 +3160,14 @@
       "lat": "39.14055"
     },
     "2023": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.1537299",
       "title": "Tahoe Park Ln (Lakeside)",
       "stopId": "2023",
@@ -777,7 +3175,14 @@
       "lat": "39.14446"
     },
     "2024": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.14565",
       "title": "Sequoia Ave (North on Lakeside)",
       "stopId": "2024",
@@ -785,7 +3190,11 @@
       "lat": "39.1512099"
     },
     "2025": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.14587",
       "title": "Hwy 89 at Olympic Dr",
       "stopId": "2025",
@@ -793,7 +3202,14 @@
       "lat": "39.15651"
     },
     "2026": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.14561",
       "title": "Hwy 89 at Tahoe Tavern Entrance",
       "stopId": "2026",
@@ -801,23 +3217,64 @@
       "lat": "39.15857"
     },
     "2028": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.1387",
       "title": "Hwy 28 at Olympic Bike",
       "stopId": "2028",
       "tag": "2028",
-      "lat": "39.1727599"
+      "lat": "39.1727599",
+      "scheduleRoutes": {
+        "CB": {
+          "Eastbound": {
+            "allwk": [
+              "19:35:00",
+              "20:35:00"
+            ]
+          }
+        }
+      }
     },
     "2029": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.13704",
       "title": "Hwy 28  at Lighthouse Center (McDonald's Tahoe City)",
       "stopId": "2029",
       "tag": "2029",
-      "lat": "39.1745599"
+      "lat": "39.1745599",
+      "scheduleRoutes": {
+        "CB": {
+          "Eastbound": {
+            "allwk": [
+              "19:37:00",
+              "20:37:00"
+            ]
+          }
+        }
+      }
     },
     "2031": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.12864",
       "title": "Hwy 28 Across from Rocky Ridge Rd",
       "stopId": "2031",
@@ -825,7 +3282,14 @@
       "lat": "39.18157"
     },
     "2032": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.1238199",
       "title": "Hwy 28 at Star Harbor Ct",
       "stopId": "2032",
@@ -833,7 +3297,14 @@
       "lat": "39.18371"
     },
     "2033": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.1176599",
       "title": "Hwy 28 Across from Burton Creek",
       "stopId": "2033",
@@ -841,7 +3312,14 @@
       "lat": "39.18808"
     },
     "2034": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.1049099",
       "title": "Hwy 28 at Dollar Hill 7-11 Store (Shelter)",
       "stopId": "2034",
@@ -849,7 +3327,14 @@
       "lat": "39.1921"
     },
     "2035": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.10958",
       "title": "Hwy 28 Across from Dollar Hill II",
       "stopId": "2035",
@@ -857,7 +3342,14 @@
       "lat": "39.19001"
     },
     "2036": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.09916",
       "title": "Hwy 28 at Chinquapin Condos",
       "stopId": "2036",
@@ -865,7 +3357,14 @@
       "lat": "39.1974099"
     },
     "2037": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.08822",
       "title": "Hwy 28 Across from Ridgewood Rd",
       "stopId": "2037",
@@ -873,7 +3372,14 @@
       "lat": "39.21421"
     },
     "2038": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.0804899",
       "title": "Hwy 28 at Sierra Boat Co",
       "stopId": "2038",
@@ -881,7 +3387,14 @@
       "lat": "39.22674"
     },
     "2039": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.07827",
       "title": "Hwy 28 Across from Placer Welfare",
       "stopId": "2039",
@@ -889,7 +3402,14 @@
       "lat": "39.22674"
     },
     "2041": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.07018",
       "title": "Hwy 28 at Agate Sun Club Pier",
       "stopId": "2041",
@@ -897,7 +3417,14 @@
       "lat": "39.23268"
     },
     "2042": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.0565199",
       "title": "Hwy 28 at The Sands",
       "stopId": "2042",
@@ -905,7 +3432,14 @@
       "lat": "39.2406799"
     },
     "2043": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.0522099",
       "title": "Hwy 28 at Sandy Beach",
       "stopId": "2043",
@@ -913,7 +3447,14 @@
       "lat": "39.24004"
     },
     "2044": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.0481599",
       "title": "Hwy 28 at National Ave (Lakeside)",
       "stopId": "2044",
@@ -921,7 +3462,14 @@
       "lat": "39.23944"
     },
     "2045": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.04325",
       "title": "Hwy 28 at Pino Grande Ave (Lakeside)",
       "stopId": "2045",
@@ -929,7 +3477,14 @@
       "lat": "39.2382"
     },
     "2046": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.0333499",
       "title": "Hwy 28 Across from KB Safeway Store",
       "stopId": "2046",
@@ -937,7 +3492,11 @@
       "lat": "39.23804"
     },
     "2051": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.00061",
       "title": "Hwy 28 at Gonowabie Rd",
       "stopId": "2051",
@@ -945,7 +3504,11 @@
       "lat": "39.24006"
     },
     "2052": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-119.99268",
       "title": "Hwy 28 at Crystal Bay Cove Condos",
       "stopId": "2052",
@@ -953,7 +3516,11 @@
       "lat": "39.24944"
     },
     "2053": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-119.9823899",
       "title": "Hwy 28 at Lakeshore Dr (Westside)",
       "stopId": "2053",
@@ -961,7 +3528,11 @@
       "lat": "39.24983"
     },
     "2054": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-119.9785299",
       "title": "Hwy 28 at Hwy 431 By Guardrail",
       "stopId": "2054",
@@ -969,7 +3540,11 @@
       "lat": "39.25045"
     },
     "2056": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-119.9499699",
       "title": "Hwy 28 at US Bank",
       "stopId": "2056",
@@ -977,15 +3552,49 @@
       "lat": "39.24949"
     },
     "2057": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-119.94674",
       "title": "Incline Skate Park at Hwy 28",
       "stopId": "2057",
       "tag": "2057",
-      "lat": "39.2488999"
+      "lat": "39.2488999",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Eastbound": {
+            "allwk": [
+              "06:38:00",
+              "07:08:00",
+              "19:08:00"
+            ]
+          },
+          "Westshore - Incline": {
+            "allwk": [
+              "08:08:00",
+              "09:08:00",
+              "10:08:00",
+              "11:08:00",
+              "12:08:00",
+              "13:08:00",
+              "14:08:00",
+              "15:08:00",
+              "16:08:00",
+              "17:08:00",
+              "18:08:00"
+            ]
+          }
+        }
+      }
     },
     "2058": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-119.9497199",
       "title": "Village Blvd at Juanita Rd",
       "stopId": "2058",
@@ -993,7 +3602,11 @@
       "lat": "39.24431"
     },
     "2059": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-119.9472399",
       "title": "Lakeshore Dr at Incline Beach",
       "stopId": "2059",
@@ -1001,7 +3614,11 @@
       "lat": "39.24031"
     },
     "2060": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-119.9403199",
       "title": "Country Club Dr at Incline Way",
       "stopId": "2060",
@@ -1009,7 +3626,11 @@
       "lat": "39.24093"
     },
     "2061": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-119.9381199",
       "title": "Country Club Dr at Mill Creek",
       "stopId": "2061",
@@ -1017,7 +3638,11 @@
       "lat": "39.24248"
     },
     "2062": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-119.9464499",
       "title": "Hwy 28 at Northwood Blvd",
       "stopId": "2062",
@@ -1025,7 +3650,11 @@
       "lat": "39.2493099"
     },
     "2063": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-119.95521",
       "title": "Hwy 28 at Christmas Tree Village",
       "stopId": "2063",
@@ -1033,7 +3662,11 @@
       "lat": "39.2498899"
     },
     "2064": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-119.96238",
       "title": "Hwy 28 at 76 Gas Station",
       "stopId": "2064",
@@ -1041,7 +3674,11 @@
       "lat": "39.2505299"
     },
     "2065": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-119.9674199",
       "title": "Hwy 28 at WInding Way",
       "stopId": "2065",
@@ -1049,7 +3686,11 @@
       "lat": "39.2509499"
     },
     "2066": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-119.97646",
       "title": "Hwy 28 at Ponderosa Ave",
       "stopId": "2066",
@@ -1057,7 +3698,11 @@
       "lat": "39.2510699"
     },
     "2067": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-119.98286",
       "title": "Hwy 28 at Pinion Dr",
       "stopId": "2067",
@@ -1065,7 +3710,11 @@
       "lat": "39.2498299"
     },
     "2068": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-119.9899299",
       "title": "Hwy 28 at Red Cedar Ln",
       "stopId": "2068",
@@ -1073,7 +3722,11 @@
       "lat": "39.2495999"
     },
     "2069": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.0008299",
       "title": "Hwy 28 at Amagosa Rd",
       "stopId": "2069",
@@ -1081,7 +3734,20 @@
       "lat": "39.2401399"
     },
     "2070": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "Hwy267": {
+          "Northbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "NSPM": {
+          "Northbound": true
+        }
+      },
       "lon": "-120.0165",
       "title": "Hwy 28 at Chipmunk St",
       "stopId": "2070",
@@ -1089,7 +3755,20 @@
       "lat": "39.2340299"
     },
     "2072": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "Hwy267": {
+          "Northbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "NSPM": {
+          "Northbound": true
+        }
+      },
       "lon": "-120.02565",
       "title": "Hwy 28 Before Deer St (Chevron Station)",
       "stopId": "2072",
@@ -1097,15 +3776,54 @@
       "lat": "39.2373099"
     },
     "2074": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "Hwy267": {
+          "Northbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "NSPM": {
+          "Northbound": true
+        }
+      },
       "lon": "-120.02973",
       "title": "Hwy 28 at Secline St",
       "stopId": "2074",
       "tag": "2074",
-      "lat": "39.2377999"
+      "lat": "39.2377999",
+      "scheduleRoutes": {
+        "Hwy267": {
+          "Northbound": {
+            "allwk": [
+              "07:07:00",
+              "08:07:00",
+              "09:07:00",
+              "10:07:00",
+              "11:07:00",
+              "12:07:00",
+              "13:07:00",
+              "14:07:00",
+              "15:07:00",
+              "16:07:00",
+              "17:07:00"
+            ]
+          }
+        }
+      }
     },
     "2076": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.0489999",
       "title": "Hwy 28 at National Ave",
       "stopId": "2076",
@@ -1113,7 +3831,14 @@
       "lat": "39.2397599"
     },
     "2078": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.0582499",
       "title": "Hwy 28 at End of 4 Lanes (Sands Motel)",
       "stopId": "2078",
@@ -1121,7 +3846,14 @@
       "lat": "39.2404699"
     },
     "2079": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.06264",
       "title": "Hwy 28 at Stag Dr",
       "stopId": "2079",
@@ -1129,7 +3861,14 @@
       "lat": "39.2374299"
     },
     "2080": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.0704499",
       "title": "Hwy 28 at Agate Rd",
       "stopId": "2080",
@@ -1137,7 +3876,14 @@
       "lat": "39.23549"
     },
     "2081": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.07812",
       "title": "Hwy 28 at Old P.O. Coffee Shop",
       "stopId": "2081",
@@ -1145,7 +3891,14 @@
       "lat": "39.2269099"
     },
     "2082": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.0814",
       "title": "Hwy 28 at 7-11 Carnelian Bay (Shelter)",
       "stopId": "2082",
@@ -1153,7 +3906,14 @@
       "lat": "39.2268599"
     },
     "2083": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.0839599",
       "title": "Hwy 28 at Center St",
       "stopId": "2083",
@@ -1161,7 +3921,14 @@
       "lat": "39.22569"
     },
     "2085": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.0936899",
       "title": "Hwy 28 at Lardin Way",
       "stopId": "2085",
@@ -1169,7 +3936,14 @@
       "lat": "39.2075499"
     },
     "2086": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.09832",
       "title": "Hwy 28 at Old County Rd",
       "stopId": "2086",
@@ -1177,15 +3951,39 @@
       "lat": "39.1983399"
     },
     "2087": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.13722",
       "title": "Hwy 28 at Basecamp",
       "stopId": "2087",
       "tag": "2087",
-      "lat": "39.1746699"
+      "lat": "39.1746699",
+      "scheduleRoutes": {
+        "CB": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "19:23:00",
+              "20:23:00"
+            ]
+          }
+        }
+      }
     },
     "2092": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.16195",
       "title": "Hwy 89 at Timberland Dr (Rideout)",
       "stopId": "2092",
@@ -1193,15 +3991,54 @@
       "lat": "39.12788"
     },
     "2132": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Northbound": true
+        },
+        "NSPM": {
+          "Northbound": true
+        }
+      },
       "lon": "-120.03784",
       "title": "Hwy 267 and Stewart Way",
       "stopId": "2132",
       "tag": "2132",
-      "lat": "39.2528099"
+      "lat": "39.2528099",
+      "scheduleRoutes": {
+        "NSPM": {
+          "Northbound": {
+            "allwk": [
+              "19:10:00",
+              "20:10:00",
+              "21:10:00"
+            ]
+          }
+        },
+        "Hwy267": {
+          "Northbound": {
+            "allwk": [
+              "07:12:00",
+              "08:12:00",
+              "09:12:00",
+              "10:12:00",
+              "11:12:00",
+              "12:12:00",
+              "13:12:00",
+              "14:12:00",
+              "15:12:00",
+              "16:12:00",
+              "17:12:00"
+            ]
+          }
+        }
+      }
     },
     "2201": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.1655499",
       "title": "Timberland Ln (Rideout Communty Center)",
       "stopId": "2201",
@@ -1209,15 +4046,90 @@
       "lat": "39.12906"
     },
     "2203": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "Hwy267": {
+          "Northbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "NSPM": {
+          "Northbound": true
+        }
+      },
       "lon": "-120.02038",
       "title": "Hwy 28 at Fox St",
       "stopId": "2203",
       "tag": "2203",
-      "lat": "39.2354799"
+      "lat": "39.2354799",
+      "scheduleRoutes": {
+        "NSPM": {
+          "Northbound": {
+            "allwk": [
+              "19:05:00",
+              "20:05:00",
+              "21:05:00"
+            ]
+          }
+        },
+        "CB": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "19:03:00",
+              "20:03:00"
+            ]
+          }
+        },
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "06:03:00",
+              "07:03:00",
+              "08:03:00",
+              "08:33:00",
+              "09:03:00",
+              "09:33:00",
+              "10:03:00",
+              "10:33:00",
+              "11:03:00",
+              "11:33:00",
+              "12:03:00",
+              "12:33:00",
+              "13:03:00",
+              "13:33:00",
+              "14:03:00",
+              "14:33:00",
+              "15:03:00",
+              "15:33:00",
+              "16:03:00",
+              "16:33:00",
+              "17:03:00",
+              "17:33:00",
+              "18:03:00",
+              "18:27:00"
+            ]
+          }
+        }
+      }
     },
     "2205": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "Hwy267": {
+          "Southbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "NSPM": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.02658",
       "title": "Hwy 28 at KB State Beach",
       "stopId": "2205",
@@ -1225,15 +4137,69 @@
       "lat": "39.23738"
     },
     "2206": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "Hwy267": {
+          "Southbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "NSPM": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.0236399",
       "title": "Hwy 28 at Coon St (Lakeside)",
       "stopId": "2206",
       "tag": "2206",
-      "lat": "39.23627"
+      "lat": "39.23627",
+      "scheduleRoutes": {
+        "NSPM": {
+          "Southbound": {
+            "allwk": [
+              "18:55:00",
+              "19:55:00",
+              "20:55:00"
+            ]
+          }
+        },
+        "Hwy267": {
+          "Southbound": {
+            "allwk": [
+              "07:46:00",
+              "08:46:00",
+              "09:46:00",
+              "10:46:00",
+              "11:46:00",
+              "12:46:00",
+              "13:46:00",
+              "14:46:00",
+              "15:46:00",
+              "16:46:00",
+              "17:46:00"
+            ]
+          }
+        }
+      }
     },
     "2207": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "Hwy267": {
+          "Southbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "NSPM": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.0206499",
       "title": "Hwy 28 at Fox St (Lakeside)",
       "stopId": "2207",
@@ -1241,7 +4207,20 @@
       "lat": "39.23537"
     },
     "2208": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "Hwy267": {
+          "Southbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        },
+        "NSPM": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.0166699",
       "title": "Hwy 28 Across from Chipmunk St",
       "stopId": "2208",
@@ -1249,15 +4228,60 @@
       "lat": "39.2338699"
     },
     "2209": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "Hwy267": {
+          "Northbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "NSPM": {
+          "Northbound": true
+        }
+      },
       "lon": "-120.02288",
       "title": "Hwy 28 at Coon St (7-11)",
       "stopId": "2209",
       "tag": "2209",
-      "lat": "39.2361999"
+      "lat": "39.2361999",
+      "scheduleRoutes": {
+        "Hwy267": {
+          "Northbound": {
+            "allwk": [
+              "07:03:00",
+              "08:03:00",
+              "09:03:00",
+              "10:03:00",
+              "11:03:00",
+              "12:03:00",
+              "13:03:00",
+              "14:03:00",
+              "15:03:00",
+              "16:03:00",
+              "17:03:00"
+            ]
+          }
+        }
+      }
     },
     "2211": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "Hwy267": {
+          "Northbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        },
+        "NSPM": {
+          "Northbound": true
+        }
+      },
       "lon": "-120.02772",
       "title": "Hwy 28 at Deer St WB",
       "stopId": "2211",
@@ -1265,7 +4289,14 @@
       "lat": "39.2376199"
     },
     "2212": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.03417",
       "title": "Hwy 28 at KB Safeway Store",
       "stopId": "2212",
@@ -1273,7 +4304,14 @@
       "lat": "39.2383099"
     },
     "2213": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.05316",
       "title": "Hwy 28 at Anderson St",
       "stopId": "2213",
@@ -1281,7 +4319,14 @@
       "lat": "39.24039"
     },
     "2214": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.1399099",
       "title": "Hwy 28 at Grove St (Pharmacy)",
       "stopId": "2214",
@@ -1289,7 +4334,11 @@
       "lat": "39.1719399"
     },
     "2218": {
-      "routes": {},
+      "routes": {
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.1655899",
       "title": "Timberland Ln (Rideout Community Center)",
       "stopId": "2218",
@@ -1297,7 +4346,11 @@
       "lat": "39.12902"
     },
     "2221": {
-      "routes": {},
+      "routes": {
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.14463",
       "title": "Hwy 89 at Chase",
       "stopId": "2221",
@@ -1305,23 +4358,122 @@
       "lat": "39.1618599"
     },
     "2227": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Eastbound": true,
+          "Westbound": true
+        }
+      },
       "lon": "-120.18549",
       "title": "Truckee Depot - Arrive",
       "stopId": "2227",
       "tag": "2227",
-      "lat": "39.3275099"
+      "lat": "39.3275099",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "09:57:00",
+              "10:57:00",
+              "11:57:00",
+              "12:57:00",
+              "13:57:00",
+              "14:57:00",
+              "15:57:00",
+              "16:57:00"
+            ]
+          },
+          "Westbound": {
+            "allwk": [
+              "09:16:00",
+              "10:16:00",
+              "11:16:00",
+              "12:16:00",
+              "13:16:00",
+              "14:16:00",
+              "15:16:00",
+              "16:16:00"
+            ]
+          }
+        }
+      }
     },
     "2232": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Southbound": true,
+          "Northbound": true
+        },
+        "NSPM": {
+          "Northbound": true,
+          "Southbound": true
+        }
+      },
       "lon": "-120.10701",
       "title": "Sawmill Heights (Employee Housing)",
       "stopId": "2232",
       "tag": "2232",
-      "lat": "39.2834499"
+      "lat": "39.2834499",
+      "scheduleRoutes": {
+        "NSPM": {
+          "Northbound": {
+            "allwk": [
+              "19:20:00",
+              "20:20:00",
+              "21:20:00"
+            ]
+          },
+          "Southbound": {
+            "allwk": [
+              "18:40:00",
+              "19:40:00",
+              "20:40:00"
+            ]
+          }
+        },
+        "Hwy267": {
+          "Northbound": {
+            "allwk": [
+              "07:19:00",
+              "08:19:00",
+              "09:19:00",
+              "10:19:00",
+              "11:19:00",
+              "12:19:00",
+              "13:19:00",
+              "14:19:00",
+              "15:19:00",
+              "16:19:00",
+              "17:19:00"
+            ]
+          },
+          "Southbound": {
+            "allwk": [
+              "07:27:00",
+              "08:27:00",
+              "09:27:00",
+              "10:27:00",
+              "11:27:00",
+              "12:27:00",
+              "13:27:00",
+              "14:27:00",
+              "15:27:00",
+              "16:27:00",
+              "17:27:00"
+            ]
+          }
+        }
+      }
     },
     "2233": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Northbound": true
+        },
+        "NSPM": {
+          "Northbound": true
+        }
+      },
       "lon": "-120.03034",
       "title": "Hwy 267 and Speckled St",
       "stopId": "2233",
@@ -1329,7 +4481,14 @@
       "lat": "39.24345"
     },
     "2234": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Northbound": true
+        },
+        "NSPM": {
+          "Northbound": true
+        }
+      },
       "lon": "-120.0334",
       "title": "Hwy 267 and Cambridge Dr",
       "stopId": "2234",
@@ -1337,39 +4496,189 @@
       "lat": "39.24938"
     },
     "2235": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Northbound": true
+        },
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.1676499",
       "title": "Brockway Rd at Reynold Way",
       "stopId": "2235",
       "tag": "2235",
-      "lat": "39.3237299"
+      "lat": "39.3237299",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:09:00",
+              "10:09:00",
+              "11:09:00",
+              "12:09:00",
+              "13:09:00",
+              "14:09:00",
+              "15:09:00",
+              "16:09:00",
+              "17:09:00"
+            ]
+          }
+        }
+      }
     },
     "2236": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Northbound": true
+        },
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.17687",
       "title": "Brockway Rd at Regional Park (Bus Shelter)",
       "stopId": "2236",
       "tag": "2236",
-      "lat": "39.3263899"
+      "lat": "39.3263899",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:13:00",
+              "10:13:00",
+              "11:13:00",
+              "12:13:00",
+              "13:13:00",
+              "14:13:00",
+              "15:13:00",
+              "16:13:00"
+            ]
+          }
+        }
+      }
     },
     "2237": {
-      "routes": {},
+      "routes": {
+        "Hwy267": {
+          "Northbound": true
+        },
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.16352",
       "title": "Brockway Rd at The Rock (Fifty-Fifty)",
       "stopId": "2237",
       "tag": "2237",
-      "lat": "39.3217799"
+      "lat": "39.3217799",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:08:00",
+              "10:08:00",
+              "11:08:00",
+              "12:08:00",
+              "13:08:00",
+              "14:08:00",
+              "15:08:00",
+              "16:08:00",
+              "17:08:00"
+            ]
+          }
+        },
+        "Hwy267": {
+          "Northbound": {
+            "allwk": [
+              "07:46:00",
+              "08:46:00",
+              "09:46:00",
+              "10:46:00",
+              "11:46:00",
+              "12:46:00",
+              "13:46:00",
+              "14:46:00",
+              "15:46:00",
+              "16:46:00",
+              "17:46:00"
+            ]
+          }
+        }
+      }
     },
     "2246": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.1441",
       "title": "Hwy 28 at Swigard's Hardware (Bus Shelter)",
       "stopId": "2246",
       "tag": "2246",
-      "lat": "39.1684599"
+      "lat": "39.1684599",
+      "scheduleRoutes": {
+        "CB": {
+          "Eastbound": {
+            "allwk": [
+              "19:33:00",
+              "20:33:00"
+            ]
+          }
+        },
+        "ML": {
+          "Northshore - Eastbound": {
+            "allwk": [
+              "06:03:00",
+              "06:33:00",
+              "18:33:00"
+            ]
+          },
+          "Westshore - Eastbound": {
+            "allwk": [
+              "08:03:00",
+              "09:03:00",
+              "10:03:00",
+              "11:03:00",
+              "12:03:00",
+              "13:03:00",
+              "14:03:00",
+              "15:03:00",
+              "16:03:00",
+              "17:03:00"
+            ]
+          },
+          "Westshore - Incline": {
+            "allwk": [
+              "07:33:00",
+              "08:33:00",
+              "09:33:00",
+              "10:33:00",
+              "11:33:00",
+              "12:33:00",
+              "13:33:00",
+              "14:33:00",
+              "15:33:00",
+              "16:33:00",
+              "17:33:00"
+            ]
+          }
+        }
+      }
     },
     "2255": {
-      "routes": {},
+      "routes": {
+        "Hwy89": {
+          "Northbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.14377",
       "title": "Hwy 89 at Bank of the West",
       "stopId": "2255",
@@ -1377,15 +4686,74 @@
       "lat": "39.16528"
     },
     "2260": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-120.08298",
       "title": "Hwy 28 at Gar Woods East Parking Lot",
       "stopId": "2260",
       "tag": "2260",
-      "lat": "39.2260199"
+      "lat": "39.2260199",
+      "scheduleRoutes": {
+        "CB": {
+          "Eastbound": {
+            "allwk": [
+              "19:48:00",
+              "20:48:00"
+            ]
+          }
+        },
+        "ML": {
+          "Northshore - Eastbound": {
+            "allwk": [
+              "06:14:00",
+              "06:44:00",
+              "18:44:00"
+            ]
+          },
+          "Westshore - Eastbound": {
+            "allwk": [
+              "08:14:00",
+              "09:14:00",
+              "10:14:00",
+              "11:14:00",
+              "12:14:00",
+              "13:14:00",
+              "14:14:00",
+              "15:14:00",
+              "16:14:00",
+              "17:14:00"
+            ]
+          },
+          "Westshore - Incline": {
+            "allwk": [
+              "07:44:00",
+              "08:44:00",
+              "09:44:00",
+              "10:44:00",
+              "11:44:00",
+              "12:44:00",
+              "13:44:00",
+              "14:44:00",
+              "15:44:00",
+              "16:44:00",
+              "17:44:00"
+            ]
+          }
+        }
+      }
     },
     "2271": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-119.9680399",
       "title": "Hwy 28 Across from Winding Way",
       "stopId": "2271",
@@ -1393,7 +4761,15 @@
       "lat": "39.2508099"
     },
     "2276": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        },
+        "Hwy89": {
+          "Southbound": true,
+          "Northbound": true
+        }
+      },
       "lon": "-120.20466",
       "title": "Squaw Valley Rd and Squaw Creek Rd",
       "stopId": "2276",
@@ -1401,31 +4777,109 @@
       "lat": "39.2059999"
     },
     "2902": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.17111",
       "title": "Edwin Rd at Henness Rd (Bus Shelter)",
       "stopId": "2902",
       "tag": "2902",
-      "lat": "39.3415099"
+      "lat": "39.3415099",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:05:00",
+              "10:05:00",
+              "11:05:00",
+              "12:05:00",
+              "13:05:00",
+              "14:05:00",
+              "15:05:00",
+              "16:05:00",
+              "17:05:00"
+            ]
+          }
+        }
+      }
     },
     "2928": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Eastbound": true,
+          "Westbound": true
+        }
+      },
       "lon": "-120.22759",
       "title": "Donner Pass Rd Cold Stream Rd",
       "stopId": "2928",
       "tag": "2928",
-      "lat": "39.3229099"
+      "lat": "39.3229099",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "09:43:00",
+              "10:43:00",
+              "11:43:00",
+              "12:43:00",
+              "13:43:00",
+              "14:43:00",
+              "15:43:00",
+              "16:43:00"
+            ]
+          },
+          "Westbound": {
+            "allwk": [
+              "09:31:00",
+              "10:31:00",
+              "11:31:00",
+              "12:31:00",
+              "13:31:00",
+              "14:31:00",
+              "15:31:00",
+              "16:31:00"
+            ]
+          }
+        }
+      }
     },
     "2963": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.21019",
       "title": "Donner Pass Rd at Meadow Way (7-11)",
       "stopId": "2963",
       "tag": "2963",
-      "lat": "39.3261799"
+      "lat": "39.3261799",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:28:00",
+              "10:28:00",
+              "11:28:00",
+              "12:28:00",
+              "13:28:00",
+              "14:28:00",
+              "15:28:00",
+              "16:28:00"
+            ]
+          }
+        }
+      }
     },
     "2964": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.21356",
       "title": "Donner Pass Rd at Donner Trail Rd",
       "stopId": "2964",
@@ -1433,47 +4887,151 @@
       "lat": "39.3261899"
     },
     "2965": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.21874",
       "title": "Donner Pass Rd at Northwoods Blvd",
       "stopId": "2965",
       "tag": "2965",
-      "lat": "39.3258399"
+      "lat": "39.3258399",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:29:00",
+              "10:29:00",
+              "11:29:00",
+              "12:29:00",
+              "13:29:00",
+              "14:29:00",
+              "15:29:00",
+              "16:29:00"
+            ]
+          }
+        }
+      }
     },
     "2980": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.22222",
       "title": "Donner Pass Rd at Highway Rd",
       "stopId": "2980",
       "tag": "2980",
-      "lat": "39.3255799"
+      "lat": "39.3255799",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:30:00",
+              "10:30:00",
+              "11:30:00",
+              "12:30:00",
+              "13:30:00",
+              "14:30:00",
+              "15:30:00",
+              "16:30:00"
+            ]
+          }
+        }
+      }
     },
     "2981": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.23273",
       "title": "Donner Pass Rd at Donner Memorial State Park",
       "stopId": "2981",
       "tag": "2981",
-      "lat": "39.3248199"
+      "lat": "39.3248199",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:32:00",
+              "10:32:00",
+              "11:32:00",
+              "12:32:00",
+              "13:32:00",
+              "14:32:00",
+              "15:32:00",
+              "16:32:00"
+            ]
+          }
+        }
+      }
     },
     "2982": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.23831",
       "title": "Donner Pass Rd at East End Donner Lake",
       "stopId": "2982",
       "tag": "2982",
-      "lat": "39.3259999"
+      "lat": "39.3259999",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:33:00",
+              "10:33:00",
+              "11:33:00",
+              "12:33:00",
+              "13:33:00",
+              "14:33:00",
+              "15:33:00",
+              "16:33:00"
+            ]
+          }
+        }
+      }
     },
     "2983": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.24328",
       "title": "Donner Pass Rd at Summit Dr",
       "stopId": "2983",
       "tag": "2983",
-      "lat": "39.3276099"
+      "lat": "39.3276099",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:34:00",
+              "10:34:00",
+              "11:34:00",
+              "12:34:00",
+              "13:34:00",
+              "14:34:00",
+              "15:34:00",
+              "16:34:00"
+            ]
+          }
+        }
+      }
     },
     "2984": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.2512499",
       "title": "Donner Pass Rd at Moraine Rd (Sticks Market)",
       "stopId": "2984",
@@ -1481,71 +5039,235 @@
       "lat": "39.3289499"
     },
     "2985": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.28359",
       "title": "Donner Pass Rd at West End Boat Launch",
       "stopId": "2985",
       "tag": "2985",
-      "lat": "39.3251999"
+      "lat": "39.3251999",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:35:00",
+              "10:35:00",
+              "11:35:00",
+              "12:35:00",
+              "13:35:00",
+              "14:35:00",
+              "15:35:00",
+              "16:35:00"
+            ]
+          }
+        }
+      }
     },
     "2986": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.2866",
       "title": "Donner Pass Rd at Donner Lake Village Resort",
       "stopId": "2986",
       "tag": "2986",
-      "lat": "39.3249999"
+      "lat": "39.3249999",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:36:00",
+              "10:36:00",
+              "11:36:00",
+              "12:36:00",
+              "13:36:00",
+              "14:36:00",
+              "15:36:00",
+              "16:36:00"
+            ]
+          }
+        }
+      }
     },
     "3009": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.20804",
       "title": "Donner Pass Rd at ACE Mountain Hardware",
       "stopId": "3009",
       "tag": "3009",
-      "lat": "39.3261599"
+      "lat": "39.3261599",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:27:00",
+              "10:27:00",
+              "11:27:00",
+              "12:27:00",
+              "13:27:00",
+              "14:27:00",
+              "15:27:00",
+              "16:27:00"
+            ]
+          }
+        }
+      }
     },
     "3029": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Eastbound": true
+        }
+      },
       "lon": "-120.24384",
       "title": "Donner Pass Rd at Summit Dr",
       "stopId": "3029",
       "tag": "3029",
-      "lat": "39.3275499"
+      "lat": "39.3275499",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "09:41:00",
+              "10:41:00",
+              "11:41:00",
+              "12:41:00",
+              "13:41:00",
+              "14:41:00",
+              "15:41:00",
+              "16:41:00"
+            ]
+          }
+        }
+      }
     },
     "3030": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Eastbound": true
+        }
+      },
       "lon": "-120.23306",
       "title": "Donner Pass Rd at Donner Memorial State Park",
       "stopId": "3030",
       "tag": "3030",
-      "lat": "39.3246799"
+      "lat": "39.3246799",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "09:42:00",
+              "10:42:00",
+              "11:42:00",
+              "12:42:00",
+              "13:42:00",
+              "14:42:00",
+              "15:42:00",
+              "16:42:00"
+            ]
+          }
+        }
+      }
     },
     "3035": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Eastbound": true
+        }
+      },
       "lon": "-120.2219",
       "title": "Donner Pass Rd at Tri-Counties Bank Plaza",
       "stopId": "3035",
       "tag": "3035",
-      "lat": "39.3254199"
+      "lat": "39.3254199",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "09:44:00",
+              "10:44:00",
+              "11:44:00",
+              "12:44:00",
+              "13:44:00",
+              "14:44:00",
+              "15:44:00",
+              "16:44:00"
+            ]
+          }
+        }
+      }
     },
     "3036": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Eastbound": true
+        }
+      },
       "lon": "-120.21788",
       "title": "Donner Pass Rd at Northwoods Blvd",
       "stopId": "3036",
       "tag": "3036",
-      "lat": "39.3257199"
+      "lat": "39.3257199",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "09:45:00",
+              "10:45:00",
+              "11:45:00",
+              "12:45:00",
+              "13:45:00",
+              "14:45:00",
+              "15:45:00",
+              "16:45:00"
+            ]
+          }
+        }
+      }
     },
     "3037": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Eastbound": true
+        }
+      },
       "lon": "-120.21289",
       "title": "Donner Pass Rd at Donner Trail Rd",
       "stopId": "3037",
       "tag": "3037",
-      "lat": "39.3260199"
+      "lat": "39.3260199",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "09:46:00",
+              "10:46:00",
+              "11:46:00",
+              "12:46:00",
+              "13:46:00",
+              "14:46:00",
+              "15:46:00",
+              "16:46:00"
+            ]
+          }
+        }
+      }
     },
     "3038": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Eastbound": true
+        }
+      },
       "lon": "-120.2103799",
       "title": "Donner Pass Rd at Westgate Center (Wild Cherries)",
       "stopId": "3038",
@@ -1553,44 +5275,144 @@
       "lat": "39.326"
     },
     "3040": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.1686",
       "title": "Estates Dr at Senior Apartments",
       "stopId": "3040",
       "tag": "3040",
-      "lat": "39.3268699"
+      "lat": "39.3268699",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:11:00",
+              "10:11:00",
+              "11:11:00",
+              "12:11:00",
+              "13:11:00",
+              "14:11:00",
+              "15:11:00",
+              "16:11:00"
+            ]
+          }
+        }
+      }
     },
     "3041": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Eastbound": true
+        }
+      },
       "lon": "-120.28662",
       "title": "Donner Pass Rd at Donner Lake Village Resort",
       "stopId": "3041",
       "tag": "3041",
-      "lat": "39.3247999"
+      "lat": "39.3247999",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "09:38:00",
+              "10:38:00",
+              "11:38:00",
+              "12:38:00",
+              "13:38:00",
+              "14:38:00",
+              "15:38:00",
+              "16:38:00"
+            ]
+          }
+        }
+      }
     },
     "3042": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Eastbound": true
+        }
+      },
       "lon": "-120.28239",
       "title": "Donner Pass Rd at West End Boat Launch",
       "stopId": "3042",
       "tag": "3042",
-      "lat": "39.3248599"
+      "lat": "39.3248599",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "09:39:00",
+              "10:39:00",
+              "11:39:00",
+              "12:39:00",
+              "13:39:00",
+              "14:39:00",
+              "15:39:00",
+              "16:39:00"
+            ]
+          }
+        }
+      }
     },
     "3043": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Eastbound": true
+        }
+      },
       "lon": "-120.2544",
       "title": "Donner Pass Rd at Moraine Rd (Sticks Market)",
       "stopId": "3043",
       "tag": "3043",
-      "lat": "39.3289399"
+      "lat": "39.3289399",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "09:40:00",
+              "10:40:00",
+              "11:40:00",
+              "12:40:00",
+              "13:40:00",
+              "14:40:00",
+              "15:40:00",
+              "16:40:00"
+            ]
+          }
+        }
+      }
     },
     "3046": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Eastbound": true
+        }
+      },
       "lon": "-120.17372",
       "title": "Donner Pass Rd at Recreation Center",
       "stopId": "3046",
       "tag": "3046",
-      "lat": "39.3385499"
+      "lat": "39.3385499",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "10:00:00",
+              "11:00:00",
+              "12:00:00",
+              "13:00:00",
+              "14:00:00",
+              "15:00:00",
+              "16:00:00",
+              "17:00:00"
+            ]
+          }
+        }
+      }
     },
     "3048": {
       "routes": {},
@@ -1598,105 +5420,491 @@
       "title": "Tunnel Creek Bonanza (Depart)",
       "stopId": "3048",
       "tag": "3048",
-      "lat": "39.2367799"
+      "lat": "39.2367799",
+      "scheduleRoutes": {
+        "ML": {
+          "Westbound": {
+            "allwk": [
+              "07:33:00",
+              "08:33:00",
+              "09:33:00",
+              "10:33:00",
+              "11:33:00",
+              "12:33:00",
+              "13:33:00",
+              "14:33:00",
+              "15:33:00",
+              "16:33:00",
+              "17:33:00"
+            ]
+          }
+        }
+      }
     },
     "1955_ar": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.23571",
       "title": "Squaw Valley Rd at Clock Tower",
       "tag": "1955_ar",
-      "lat": "39.1985299"
+      "lat": "39.1985299",
+      "scheduleRoutes": {
+        "CB": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "20:00:00",
+              "21:00:00"
+            ]
+          }
+        },
+        "Hwy89": {
+          "Northbound": {
+            "allwk": [
+              "17:44:00",
+              "18:44:00"
+            ]
+          }
+        }
+      }
     },
     "1733_ar": {
-      "routes": {},
+      "routes": {
+        "CB": {
+          "Eastbound": true
+        },
+        "Hwy267": {
+          "Southbound": true
+        },
+        "NSPM": {
+          "Southbound": true
+        }
+      },
       "lon": "-120.00508",
       "title": "Hwy 28 at Crystal Bay Club (Shelter) - Arrive",
       "tag": "1733_ar",
-      "lat": "39.2275299"
+      "lat": "39.2275299",
+      "scheduleRoutes": {
+        "NSPM": {
+          "Southbound": {
+            "allwk": [
+              "19:00:00",
+              "20:00:00",
+              "21:00:00"
+            ]
+          }
+        },
+        "CB": {
+          "Eastbound": {
+            "allwk": [
+              "20:00:00",
+              "21:00:00"
+            ]
+          }
+        },
+        "ML": {
+          "Westshore - Eastbound": {
+            "allwk": [
+              "08:26:00",
+              "09:26:00",
+              "10:26:00",
+              "11:26:00",
+              "12:26:00",
+              "13:26:00",
+              "14:26:00",
+              "15:26:00",
+              "16:26:00",
+              "17:26:00"
+            ]
+          }
+        },
+        "Hwy267": {
+          "Southbound": {
+            "allwk": [
+              "07:50:00",
+              "08:50:00",
+              "09:50:00",
+              "10:50:00",
+              "11:50:00",
+              "12:50:00",
+              "13:50:00",
+              "14:50:00",
+              "15:50:00",
+              "16:50:00",
+              "17:50:00"
+            ]
+          }
+        }
+      }
     },
     "2227_ar": {
-      "routes": {},
+      "routes": {
+        "Hwy89": {
+          "Northbound": true
+        },
+        "Hwy267": {
+          "Northbound": true
+        }
+      },
       "lon": "-120.18549",
       "title": "Truckee Depot - Arrive",
       "tag": "2227_ar",
-      "lat": "39.3275099"
+      "lat": "39.3275099",
+      "scheduleRoutes": {
+        "Hwy89": {
+          "Northbound": {
+            "allwk": [
+              "07:10:00",
+              "08:10:00",
+              "09:10:00",
+              "10:10:00",
+              "11:10:00",
+              "12:10:00",
+              "13:10:00",
+              "14:10:00",
+              "15:10:00",
+              "16:30:00",
+              "17:30:00"
+            ]
+          }
+        },
+        "Hwy267": {
+          "Northbound": {
+            "allwk": [
+              "07:50:00",
+              "08:50:00",
+              "09:50:00",
+              "10:50:00",
+              "11:50:00",
+              "12:50:00",
+              "13:50:00",
+              "14:50:00",
+              "15:50:00",
+              "16:50:00",
+              "17:50:00"
+            ]
+          }
+        }
+      }
     },
     "1692_ar": {
-      "routes": {},
+      "routes": {
+        "Hwy89": {
+          "Southbound": true
+        },
+        "WSN": {
+          "Westshore - Northbound": true
+        }
+      },
       "lon": "-120.14498",
       "title": "Tahoe City Transit Center - Arrive",
       "tag": "1692_ar",
-      "lat": "39.1647299"
+      "lat": "39.1647299",
+      "scheduleRoutes": {
+        "WSN": {
+          "Westshore - Northbound": {
+            "allwk": [
+              "19:30:00",
+              "20:30:00",
+              "21:30:00"
+            ]
+          }
+        },
+        "Hwy89": {
+          "Southbound": {
+            "allwk": [
+              "08:15:00",
+              "09:15:00",
+              "10:15:00",
+              "11:15:00",
+              "12:15:00",
+              "13:15:00",
+              "14:15:00",
+              "15:15:00",
+              "16:15:00",
+              "17:15:00",
+              "18:15:00"
+            ]
+          }
+        },
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "06:30:00",
+              "07:30:00",
+              "09:00:00",
+              "10:00:00",
+              "11:00:00",
+              "12:00:00",
+              "13:00:00",
+              "14:00:00",
+              "15:00:00",
+              "16:00:00",
+              "17:00:00",
+              "18:00:00",
+              "18:30:00",
+              "19:00:00"
+            ]
+          },
+          "Westshore - Northbound": {}
+        }
+      }
     },
     "2091_ar": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Northshore - Westbound": true
+        }
+      },
       "lon": "-120.12273",
       "title": "Sugar Pine Point State Park",
       "tag": "2091_ar",
-      "lat": "39.0576999"
+      "lat": "39.0576999",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "07:50:00",
+              "08:50:00",
+              "09:50:00",
+              "10:50:00",
+              "11:50:00",
+              "12:50:00",
+              "13:50:00",
+              "14:50:00",
+              "15:50:00",
+              "16:50:00",
+              "17:50:00"
+            ]
+          },
+          "Westshore - Southbound": {}
+        }
+      }
     },
     "1837_ar": {
       "routes": {},
       "lon": "-119.94373",
       "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Depart",
       "tag": "1837_ar",
-      "lat": "39.2393299"
+      "lat": "39.2393299",
+      "scheduleRoutes": {
+        "ML": {
+          "Westbound": {
+            "allwk": [
+              "07:42:00",
+              "08:42:00",
+              "09:42:00",
+              "10:42:00",
+              "11:42:00",
+              "12:42:00",
+              "13:42:00",
+              "14:42:00",
+              "15:42:00",
+              "16:42:00",
+              "17:42:00"
+            ]
+          }
+        }
+      }
     },
     "1747_ar": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Westshore - Incline": true
+        }
+      },
       "lon": "-119.94377",
       "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Arrive",
       "tag": "1747_ar",
-      "lat": "39.2393499"
+      "lat": "39.2393499",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Eastbound": {
+            "allwk": [
+              "06:42:00",
+              "07:12:00",
+              "19:12:00"
+            ]
+          },
+          "Westshore - Incline": {
+            "allwk": [
+              "08:12:00",
+              "09:12:00",
+              "10:12:00",
+              "11:12:00",
+              "12:12:00",
+              "13:12:00",
+              "14:12:00",
+              "15:12:00",
+              "16:12:00",
+              "17:12:00",
+              "18:12:00"
+            ]
+          }
+        }
+      }
     },
     "1760_ar": {
       "routes": {},
       "lon": "-120.00576",
       "title": "Hwy 28 at Tahoe Biltmore (Shelter) - Arrive",
       "tag": "1760_ar",
-      "lat": "39.2274199"
+      "lat": "39.2274199",
+      "scheduleRoutes": {
+        "ML": {
+          "Northshore - Westbound": {
+            "allwk": [
+              "19:25:00"
+            ]
+          }
+        }
+      }
     },
     "3049_ar": {
-      "routes": {},
+      "routes": {
+        "ML": {
+          "Eastbound": true
+        }
+      },
       "lon": "-119.92895",
       "title": "Tunnel Creek Bonanza (Arrive)",
       "tag": "3049_ar",
-      "lat": "39.2366799"
+      "lat": "39.2366799",
+      "scheduleRoutes": {
+        "ML": {
+          "Eastbound": {
+            "allwk": [
+              "07:20:00",
+              "08:20:00",
+              "09:20:00",
+              "10:20:00",
+              "11:20:00",
+              "12:20:00",
+              "13:20:00",
+              "14:20:00",
+              "15:20:00",
+              "16:20:00",
+              "17:20:00"
+            ]
+          }
+        }
+      }
     },
     "1900_ar": {
-      "routes": {},
+      "routes": {
+        "NSPM": {
+          "Northbound": true
+        }
+      },
       "lon": "-120.12155",
       "title": "Northstar Village Gate # 7",
       "tag": "1900_ar",
-      "lat": "39.2761599"
+      "lat": "39.2761599",
+      "scheduleRoutes": {
+        "NSPM": {
+          "Northbound": {
+            "allwk": [
+              "19:30:00",
+              "20:30:00",
+              "21:30:00"
+            ]
+          }
+        }
+      }
     },
     "3039_ar": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Westbound": true
+        }
+      },
       "lon": "-120.29031",
       "title": "Donner Pass Rd at South Shore Dr (Bus Shelter)",
       "tag": "3039_ar",
-      "lat": "39.3231299"
+      "lat": "39.3231299",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "09:37:00",
+              "10:37:00",
+              "11:37:00",
+              "12:37:00",
+              "13:37:00",
+              "14:37:00",
+              "15:37:00",
+              "16:37:00"
+            ]
+          }
+        }
+      }
     },
     "3040_ar": {
       "routes": {},
       "lon": "-120.1686",
       "title": "Estates Dr at Senior Apartments",
       "tag": "3040_ar",
-      "lat": "39.3268699"
+      "lat": "39.3268699",
+      "scheduleRoutes": {
+        "TLR": {
+          "Westbound": {
+            "allwk": [
+              "17:11:00"
+            ]
+          }
+        }
+      }
     },
     "2902_ar": {
-      "routes": {},
+      "routes": {
+        "TLR": {
+          "Eastbound": true
+        }
+      },
       "lon": "-120.17111",
       "title": "Edwin Rd at Henness Rd (Bus Shelter)",
       "tag": "2902_ar",
-      "lat": "39.3415099"
+      "lat": "39.3415099",
+      "scheduleRoutes": {
+        "TLR": {
+          "Eastbound": {
+            "allwk": [
+              "10:05:00",
+              "11:05:00",
+              "12:05:00",
+              "13:05:00",
+              "14:05:00",
+              "15:05:00",
+              "16:05:00",
+              "17:05:00"
+            ]
+          }
+        }
+      }
     },
     "1824_ar": {
-      "routes": {},
+      "routes": {
+        "WSN": {
+          "Westshore - Southbound": true
+        }
+      },
       "lon": "-120.12832",
       "title": "Hwy 89 at Tahoma Post Office (Lodge)",
       "tag": "1824_ar",
-      "lat": "39.0672399"
+      "lat": "39.0672399",
+      "scheduleRoutes": {
+        "WSN": {
+          "Westshore - Southbound": {
+            "allwk": [
+              "19:00:00",
+              "20:00:00",
+              "21:00:00"
+            ]
+          }
+        }
+      }
     }
   },
   "copyright": "All data copyright Tahoe Truckee Area Regional Transit 2019."

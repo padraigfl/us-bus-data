@@ -65,6 +65,62 @@
           "massnew_e",
           "mass1st_e"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "35thwisc_d",
+          "mwisc_e",
+          "penn22nd_e",
+          "k14th_e",
+          "mass7th_e",
+          "union_a"
+        ],
+        "outbound": [
+          "union_d",
+          "mass7th_w",
+          "k14th_w",
+          "penn22nd_w",
+          "mwisc_w",
+          "35thwisc_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "eb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "00:00:00"
+          },
+          "fri": {
+            "first": "06:00:00",
+            "last": "03:00:00"
+          },
+          "sat": {
+            "first": "00:20:00",
+            "last": "03:00:00"
+          },
+          "sun": {
+            "first": "07:00:00",
+            "last": "00:00:00"
+          }
+        },
+        "wb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "00:00:00"
+          },
+          "fri": {
+            "first": "06:00:00",
+            "last": "03:00:00"
+          },
+          "sat": {
+            "first": "07:00:00",
+            "last": "03:00:00"
+          },
+          "sun": {
+            "first": "07:00:00",
+            "last": "00:00:00"
+          }
+        }
       }
     },
     "green": {
@@ -102,6 +158,58 @@
           "14thp_s",
           "13thk_s"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "i14th_n",
+          "14thu_n",
+          "colu14th_n",
+          "24thcal_a"
+        ],
+        "outbound": [
+          "24thcal_s",
+          "mtplsirv_s",
+          "14thu_s",
+          "i14th_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "nb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "00:00:00"
+          },
+          "fri": {
+            "first": "06:00:00",
+            "last": "03:30:00"
+          },
+          "sat": {
+            "first": "07:00:00",
+            "last": "03:30:00"
+          },
+          "sun": {
+            "first": "07:00:00",
+            "last": "00:00:00"
+          }
+        },
+        "sb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "00:00:00"
+          },
+          "fri": {
+            "first": "06:00:00",
+            "last": "03:30:00"
+          },
+          "sat": {
+            "first": "07:00:00",
+            "last": "03:30:00"
+          },
+          "sun": {
+            "first": "07:00:00",
+            "last": "00:00:00"
+          }
+        }
       }
     },
     "blue": {
@@ -144,6 +252,58 @@
           "8thl_n",
           "8thg_n"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "dst7th_s",
+          "7thist_e",
+          "mstdela_e",
+          "penn7th_n"
+        ],
+        "outbound": [
+          "penn8th_s",
+          "mst4th_w",
+          "7thist_w",
+          "dst7th_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "eb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          },
+          "fri": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          },
+          "sat": {
+            "first": "07:00:00",
+            "last": "21:00:00"
+          },
+          "sun": {
+            "first": "07:00:00",
+            "last": "21:00:00"
+          }
+        },
+        "wb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          },
+          "fri": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          },
+          "sat": {
+            "first": "07:00:00",
+            "last": "21:00:00"
+          },
+          "sun": {
+            "first": "07:00:00",
+            "last": "21:00:00"
+          }
+        }
       }
     },
     "rosslyn": {
@@ -180,6 +340,58 @@
           "l24th",
           "massnham"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "rossmetr_d",
+          "mwisc_e",
+          "mpenn",
+          "n19th_a"
+        ],
+        "outbound": [
+          "n19th_d",
+          "m28th",
+          "mwisc",
+          "rossmetr_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "eb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "00:00:00"
+          },
+          "fri": {
+            "first": "06:00:00",
+            "last": "03:00:00"
+          },
+          "sat": {
+            "first": "07:00:00",
+            "last": "03:00:00"
+          },
+          "sun": {
+            "first": "07:00:00",
+            "last": "00:00:00"
+          }
+        },
+        "wb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "00:00:00"
+          },
+          "fri": {
+            "first": "06:00:00",
+            "last": "03:00:00"
+          },
+          "sat": {
+            "first": "07:00:00",
+            "last": "03:00:00"
+          },
+          "sun": {
+            "first": "07:00:00",
+            "last": "00:00:00"
+          }
+        }
       }
     },
     "potomac": {
@@ -235,6 +447,60 @@
           "stanbruc_s",
           "stanalab_s"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "congheig_d",
+          "stanelva_n",
+          "anmetro_n",
+          "8these_w",
+          "colucirc_a"
+        ],
+        "outbound": [
+          "colucirc_d",
+          "8thd_e",
+          "anmetro_w",
+          "stanelva_s",
+          "congheig_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "nb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          },
+          "fri": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          },
+          "sat": {
+            "first": "07:00:00",
+            "last": "21:00:00"
+          },
+          "sun": {
+            "first": "07:00:00",
+            "last": "21:00:00"
+          }
+        },
+        "sb": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          },
+          "fri": {
+            "first": "06:00:00",
+            "last": "21:00:00"
+          },
+          "sat": {
+            "first": "07:00:00",
+            "last": "21:00:00"
+          },
+          "sun": {
+            "first": "07:00:00",
+            "last": "21:00:00"
+          }
+        }
       }
     },
     "mall": {
@@ -270,6 +536,56 @@
           "jeff7th",
           "3rdjeff"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "lincmemo",
+          "jeff12th",
+          "ecolucir_a"
+        ],
+        "outbound": [
+          "ecolucir",
+          "madi12th",
+          "basithom"
+        ]
+      },
+      "scheduledTimeRange": {
+        "eastbound": {
+          "wkd": {
+            "first": "07:36:00",
+            "last": "20:39:00"
+          },
+          "fri": {
+            "first": "07:36:00",
+            "last": "20:39:00"
+          },
+          "sat": {
+            "first": "09:31:00",
+            "last": "20:32:00"
+          },
+          "sun": {
+            "first": "09:31:00",
+            "last": "20:32:00"
+          }
+        },
+        "westbound": {
+          "wkd": {
+            "first": "07:00:00",
+            "last": "20:00:00"
+          },
+          "fri": {
+            "first": "07:00:00",
+            "last": "20:00:00"
+          },
+          "sat": {
+            "first": "09:00:00",
+            "last": "20:00:00"
+          },
+          "sun": {
+            "first": "09:00:00",
+            "last": "20:00:00"
+          }
+        }
       }
     }
   },

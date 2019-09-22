@@ -60,6 +60,53 @@
           "59",
           "1977"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1977",
+          "10",
+          "490",
+          "30",
+          "3012"
+        ],
+        "outbound": [
+          "3012",
+          "507",
+          "48",
+          "1983",
+          "1965",
+          "1977"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Meadowood Mall": {
+          "MoTuWeThFr": {
+            "first": "04:15:00",
+            "last": "03:12:00"
+          },
+          "Saturday": {
+            "first": "04:15:00",
+            "last": "03:15:00"
+          },
+          "Sunday": {
+            "first": "04:15:00",
+            "last": "03:15:00"
+          }
+        },
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "04:45:00",
+            "last": "03:42:00"
+          },
+          "Saturday": {
+            "first": "04:34:00",
+            "last": "03:36:00"
+          },
+          "Sunday": {
+            "first": "04:37:00",
+            "last": "03:37:00"
+          }
+        }
       }
     },
     "2": {
@@ -162,6 +209,54 @@
           "1898",
           "1921"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1927",
+          "859",
+          "107",
+          "110",
+          "118",
+          "1970"
+        ],
+        "outbound": [
+          "1970",
+          "69",
+          "77",
+          "80",
+          "94",
+          "1927"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "04:30:00",
+            "last": "00:30:00"
+          },
+          "Saturday": {
+            "first": "04:30:00",
+            "last": "00:34:00"
+          },
+          "Sunday": {
+            "first": "00:34:00",
+            "last": "23:34:00"
+          }
+        },
+        "Rtc Centennial Plaza Station": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "01:15:00"
+          },
+          "Saturday": {
+            "first": "05:15:00",
+            "last": "01:15:00"
+          },
+          "Sunday": {
+            "first": "00:15:00",
+            "last": "01:15:00"
+          }
+        }
       }
     },
     "4": {
@@ -244,6 +339,50 @@
           "183",
           "1966"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1676",
+          "206",
+          "1374",
+          "1966"
+        ],
+        "outbound": [
+          "1966",
+          "193",
+          "205",
+          "1676"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "23:15:00"
+          },
+          "Saturday": {
+            "first": "06:07:00",
+            "last": "21:09:00"
+          },
+          "Sunday": {
+            "first": "06:08:00",
+            "last": "21:08:00"
+          }
+        },
+        "Sharlands Avenue and Robb Drive": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "22:45:00"
+          },
+          "Saturday": {
+            "first": "06:45:00",
+            "last": "20:45:00"
+          },
+          "Sunday": {
+            "first": "05:45:00",
+            "last": "20:45:00"
+          }
+        }
       }
     },
     "5": {
@@ -322,6 +461,53 @@
           "127",
           "1968"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "243",
+          "255",
+          "2031",
+          "269",
+          "1965",
+          "1968",
+          "1969"
+        ],
+        "outbound": [
+          "1969",
+          "228",
+          "233",
+          "243"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "05:26:00",
+            "last": "00:23:00"
+          },
+          "Saturday": {
+            "first": "05:38:00",
+            "last": "00:37:00"
+          },
+          "Sunday": {
+            "first": "05:39:00",
+            "last": "00:39:00"
+          }
+        },
+        "Sun Valley Boulevard and 7th Street": {
+          "MoTuWeThFr": {
+            "first": "05:00:00",
+            "last": "00:00:00"
+          },
+          "Saturday": {
+            "first": "05:15:00",
+            "last": "00:15:00"
+          },
+          "Sunday": {
+            "first": "05:15:00",
+            "last": "00:15:00"
+          }
+        }
       }
     },
     "6": {
@@ -387,6 +573,50 @@
           "2019",
           "2020"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1964",
+          "1439",
+          "291",
+          "2020"
+        ],
+        "outbound": [
+          "2020",
+          "318",
+          "1015",
+          "1964"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Peckham Lane and S Virginia Steet": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "22:15:00"
+          },
+          "Saturday": {
+            "first": "06:15:00",
+            "last": "21:15:00"
+          },
+          "Sunday": {
+            "first": "06:15:00",
+            "last": "19:15:00"
+          }
+        },
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "04:33:00",
+            "last": "21:38:00"
+          },
+          "Saturday": {
+            "first": "05:35:00",
+            "last": "20:33:00"
+          },
+          "Sunday": {
+            "first": "05:35:00",
+            "last": "19:35:00"
+          }
+        }
       }
     },
     "7": {
@@ -492,6 +722,52 @@
           "409",
           "1978"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1963",
+          "348",
+          "363",
+          "1735"
+        ],
+        "outbound": [
+          "1735",
+          "1731",
+          "400",
+          "1973",
+          "1978",
+          "1963"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Echo Avenue and Moya Boulevard": {
+          "MoTuWeThFr": {
+            "first": "04:45:00",
+            "last": "01:15:00"
+          },
+          "Saturday": {
+            "first": "01:15:00",
+            "last": "00:15:00"
+          },
+          "Sunday": {
+            "first": "05:15:00",
+            "last": "01:15:00"
+          }
+        },
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "05:29:00",
+            "last": "00:55:00"
+          },
+          "Saturday": {
+            "first": "05:50:00",
+            "last": "00:48:00"
+          },
+          "Sunday": {
+            "first": "05:52:00",
+            "last": "00:49:00"
+          }
+        }
       }
     },
     "9": {
@@ -562,6 +838,52 @@
           "636",
           "1978"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1978",
+          "641",
+          "1192",
+          "30"
+        ],
+        "outbound": [
+          "30",
+          "1479",
+          "673",
+          "1978",
+          "1963",
+          "1973"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Meadowood Mall": {
+          "MoTuWeThFr": {
+            "first": "05:00:00",
+            "last": "01:00:00"
+          },
+          "Saturday": {
+            "first": "05:00:00",
+            "last": "01:00:00"
+          },
+          "Sunday": {
+            "first": "06:00:00",
+            "last": "00:00:00"
+          }
+        },
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "05:30:00",
+            "last": "00:30:00"
+          },
+          "Saturday": {
+            "first": "05:22:00",
+            "last": "00:22:00"
+          },
+          "Sunday": {
+            "first": "05:23:00",
+            "last": "00:21:00"
+          }
+        }
       }
     },
     "11": {
@@ -608,6 +930,51 @@
           "570",
           "1975"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1925",
+          "2081",
+          "1975"
+        ],
+        "outbound": [
+          "1975",
+          "2078",
+          "1925",
+          "1921",
+          "1922",
+          "1920"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "04:45:00",
+            "last": "01:45:00"
+          },
+          "Saturday": {
+            "first": "00:27:00",
+            "last": "23:27:00"
+          },
+          "Sunday": {
+            "first": "04:45:00",
+            "last": "01:31:00"
+          }
+        },
+        "Rtc Centennial Plaza Station": {
+          "MoTuWeThFr": {
+            "first": "04:15:00",
+            "last": "02:15:00"
+          },
+          "Saturday": {
+            "first": "01:15:00",
+            "last": "00:15:00"
+          },
+          "Sunday": {
+            "first": "04:15:00",
+            "last": "02:15:00"
+          }
+        }
       }
     },
     "12": {
@@ -693,6 +1060,54 @@
           "486",
           "1978"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1973",
+          "744",
+          "2025",
+          "458",
+          "30"
+        ],
+        "outbound": [
+          "30",
+          "464",
+          "1945",
+          "1611",
+          "1973",
+          "1978",
+          "1963"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Meadowood Mall": {
+          "MoTuWeThFr": {
+            "first": "04:45:00",
+            "last": "00:45:00"
+          },
+          "Saturday": {
+            "first": "05:30:00",
+            "last": "00:30:00"
+          },
+          "Sunday": {
+            "first": "04:45:00",
+            "last": "00:45:00"
+          }
+        },
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "04:30:00",
+            "last": "00:30:00"
+          },
+          "Saturday": {
+            "first": "04:06:00",
+            "last": "00:00:00"
+          },
+          "Sunday": {
+            "first": "05:13:00",
+            "last": "00:13:00"
+          }
+        }
       }
     },
     "13": {
@@ -756,6 +1171,49 @@
           "570",
           "1962"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1976",
+          "609",
+          "1568",
+          "452"
+        ],
+        "outbound": [
+          "452",
+          "628",
+          "1976"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Grove Street and Harvard Way": {
+          "MoTuWeThFr": {
+            "first": "06:15:00",
+            "last": "00:15:00"
+          },
+          "Saturday": {
+            "first": "06:15:00",
+            "last": "00:15:00"
+          },
+          "Sunday": {
+            "first": "06:15:00",
+            "last": "18:15:00"
+          }
+        },
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "06:42:00",
+            "last": "23:40:00"
+          },
+          "Saturday": {
+            "first": "06:38:00",
+            "last": "23:34:00"
+          },
+          "Sunday": {
+            "first": "05:34:00",
+            "last": "18:37:00"
+          }
+        }
       }
     },
     "14": {
@@ -819,6 +1277,51 @@
           "636",
           "1974"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1974",
+          "641",
+          "1085",
+          "1612"
+        ],
+        "outbound": [
+          "1612",
+          "1087",
+          "673",
+          "1976",
+          "1974"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Corporate Boulevard and Capital Boulevard": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "00:15:00"
+          },
+          "Saturday": {
+            "first": "05:15:00",
+            "last": "00:15:00"
+          },
+          "Sunday": {
+            "first": "06:15:00",
+            "last": "23:15:00"
+          }
+        },
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "05:36:00",
+            "last": "00:35:00"
+          },
+          "Saturday": {
+            "first": "05:37:00",
+            "last": "23:34:00"
+          },
+          "Sunday": {
+            "first": "06:34:00",
+            "last": "22:32:00"
+          }
+        }
       }
     },
     "15": {
@@ -889,6 +1392,51 @@
           "1333",
           "737"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "737",
+          "909",
+          "269",
+          "1968",
+          "1969"
+        ],
+        "outbound": [
+          "1968",
+          "228",
+          "1346",
+          "737"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "06:10:00",
+            "last": "23:10:00"
+          },
+          "Saturday": {
+            "first": "06:07:00",
+            "last": "23:08:00"
+          },
+          "Sunday": {
+            "first": "06:09:00",
+            "last": "22:09:00"
+          }
+        },
+        "Tmcc": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "22:45:00"
+          },
+          "Saturday": {
+            "first": "05:45:00",
+            "last": "22:45:00"
+          },
+          "Sunday": {
+            "first": "05:45:00",
+            "last": "21:45:00"
+          }
+        }
       }
     },
     "16": {
@@ -932,6 +1480,46 @@
           "1505",
           "721"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1962",
+          "721"
+        ],
+        "outbound": [
+          "721",
+          "1961"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Mayberry Drive and Hunter Lake Drive": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "22:15:00"
+          },
+          "Saturday": {
+            "first": "06:15:00",
+            "last": "19:15:00"
+          },
+          "Sunday": {
+            "first": "06:15:00",
+            "last": "19:15:00"
+          }
+        },
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "05:27:00",
+            "last": "22:27:00"
+          },
+          "Saturday": {
+            "first": "06:27:00",
+            "last": "19:28:00"
+          },
+          "Sunday": {
+            "first": "06:27:00",
+            "last": "19:28:00"
+          }
+        }
       }
     },
     "17": {
@@ -1033,6 +1621,51 @@
           "128",
           "1962"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1961",
+          "735",
+          "1047",
+          "429"
+        ],
+        "outbound": [
+          "429",
+          "1052",
+          "738",
+          "1961",
+          "1962"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Lemmon Drive and Limber Pine Drive": {
+          "MoTuWeThFr": {
+            "first": "05:45:00",
+            "last": "21:45:00"
+          },
+          "Saturday": {
+            "first": "06:45:00",
+            "last": "19:45:00"
+          },
+          "Sunday": {
+            "first": "06:45:00",
+            "last": "19:45:00"
+          }
+        },
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "05:26:00",
+            "last": "22:25:00"
+          },
+          "Saturday": {
+            "first": "06:22:00",
+            "last": "20:23:00"
+          },
+          "Sunday": {
+            "first": "06:21:00",
+            "last": "20:22:00"
+          }
+        }
       }
     },
     "18": {
@@ -1102,6 +1735,53 @@
           "486",
           "1965"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1979",
+          "1758",
+          "1759",
+          "1769"
+        ],
+        "outbound": [
+          "1769",
+          "1774",
+          "1779",
+          "1079",
+          "1977",
+          "1965",
+          "1979"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Meredith Way and Kleppe Lane": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "00:15:00"
+          },
+          "Saturday": {
+            "first": "05:15:00",
+            "last": "18:15:00"
+          },
+          "Sunday": {
+            "first": "06:15:00",
+            "last": "17:15:00"
+          }
+        },
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "05:38:00",
+            "last": "00:36:00"
+          },
+          "Saturday": {
+            "first": "05:34:00",
+            "last": "18:34:00"
+          },
+          "Sunday": {
+            "first": "06:32:00",
+            "last": "17:36:00"
+          }
+        }
       }
     },
     "19": {
@@ -1161,6 +1841,35 @@
           "1943",
           "1944"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1983",
+          "1819",
+          "1942",
+          "1944"
+        ],
+        "outbound": [
+          "1944",
+          "1936",
+          "918",
+          "1965",
+          "1983"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Reno-Tahoe International Airport": {
+          "MoTuWeThFr": {
+            "first": "06:45:00",
+            "last": "17:45:00"
+          }
+        },
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "07:07:00",
+            "last": "18:10:00"
+          }
+        }
       }
     },
     "21": {
@@ -1209,6 +1918,51 @@
           "554",
           "1921"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1920",
+          "1906",
+          "1324"
+        ],
+        "outbound": [
+          "1324",
+          "543",
+          "1927",
+          "1925",
+          "1929",
+          "1921"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Lillard Drive and Prater Way": {
+          "MoTuWeThFr": {
+            "first": "04:35:00",
+            "last": "23:45:00"
+          },
+          "Saturday": {
+            "first": "04:35:00",
+            "last": "22:45:00"
+          },
+          "Sunday": {
+            "first": "05:45:00",
+            "last": "21:45:00"
+          }
+        },
+        "Rtc Centennial Plaza Station": {
+          "MoTuWeThFr": {
+            "first": "04:52:00",
+            "last": "00:01:00"
+          },
+          "Saturday": {
+            "first": "04:50:00",
+            "last": "23:02:00"
+          },
+          "Sunday": {
+            "first": "06:01:00",
+            "last": "22:02:00"
+          }
+        }
       }
     },
     "25": {
@@ -1260,6 +2014,40 @@
           "872",
           "843"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1922",
+          "577",
+          "843"
+        ],
+        "outbound": [
+          "843",
+          "594",
+          "1925"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Reed High School": {
+          "MoTuWeThFr": {
+            "first": "06:35:00",
+            "last": "18:35:00"
+          },
+          "Saturday": {
+            "first": "06:35:00",
+            "last": "18:35:00"
+          }
+        },
+        "Rtc Centennial Plaza Station": {
+          "MoTuWeThFr": {
+            "first": "06:54:00",
+            "last": "18:54:00"
+          },
+          "Saturday": {
+            "first": "06:53:00",
+            "last": "18:54:00"
+          }
+        }
       }
     },
     "26": {
@@ -1314,6 +2102,52 @@
           "1898",
           "1920"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1921",
+          "577",
+          "1201",
+          "588"
+        ],
+        "outbound": [
+          "588",
+          "590",
+          "594",
+          "1929",
+          "1925",
+          "1920"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Northern Nevada Medical Center": {
+          "MoTuWeThFr": {
+            "first": "05:20:00",
+            "last": "23:05:00"
+          },
+          "Saturday": {
+            "first": "05:20:00",
+            "last": "22:05:00"
+          },
+          "Sunday": {
+            "first": "06:05:00",
+            "last": "21:05:00"
+          }
+        },
+        "Rtc Centennial Plaza Station": {
+          "MoTuWeThFr": {
+            "first": "04:47:00",
+            "last": "23:23:00"
+          },
+          "Saturday": {
+            "first": "04:47:00",
+            "last": "22:19:00"
+          },
+          "Sunday": {
+            "first": "06:20:00",
+            "last": "21:20:00"
+          }
+        }
       }
     },
     "54": {
@@ -1389,6 +2223,51 @@
           "526",
           "1922"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1929",
+          "1612",
+          "30"
+        ],
+        "outbound": [
+          "30",
+          "1868",
+          "1920",
+          "1927",
+          "1925",
+          "1922"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Meadowood Mall": {
+          "MoTuWeThFr": {
+            "first": "05:30:00",
+            "last": "18:30:00"
+          },
+          "Saturday": {
+            "first": "06:30:00",
+            "last": "17:30:00"
+          },
+          "Sunday": {
+            "first": "07:30:00",
+            "last": "17:30:00"
+          }
+        },
+        "Rtc Centennial Plaza Station": {
+          "MoTuWeThFr": {
+            "first": "06:15:00",
+            "last": "19:00:00"
+          },
+          "Saturday": {
+            "first": "06:56:00",
+            "last": "17:58:00"
+          },
+          "Sunday": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "56": {
@@ -1475,6 +2354,53 @@
           "29",
           "30"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1645",
+          "2012",
+          "2017",
+          "1476",
+          "3012",
+          "30"
+        ],
+        "outbound": [
+          "30",
+          "1450",
+          "1457",
+          "1463",
+          "1645"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Meadowood Mall": {
+          "MoTuWeThFr": {
+            "first": "05:56:00",
+            "last": "22:26:00"
+          },
+          "Saturday": {
+            "first": "06:22:00",
+            "last": "20:25:00"
+          },
+          "Sunday": {
+            "first": "07:23:00",
+            "last": "18:24:00"
+          }
+        },
+        "S Virginia Street at Walmart": {
+          "MoTuWeThFr": {
+            "first": "05:30:00",
+            "last": "22:00:00"
+          },
+          "Saturday": {
+            "first": "06:00:00",
+            "last": "20:00:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "18:00:00"
+          }
+        }
       }
     },
     "999": {
@@ -1527,6 +2453,48 @@
           "2050",
           "3021"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "2068",
+          "2038",
+          "3021"
+        ],
+        "outbound": [
+          "3021",
+          "3022",
+          "2068"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Mid-Town": {
+          "MoTuWeThFr": {
+            "first": "06:00:00",
+            "last": "21:30:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "21:30:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "18:30:00"
+          }
+        },
+        "Unr": {
+          "MoTuWeThFr": {
+            "first": "06:00:00",
+            "last": "21:30:00"
+          },
+          "Saturday": {
+            "first": "07:00:00",
+            "last": "21:30:00"
+          },
+          "Sunday": {
+            "first": "07:00:00",
+            "last": "18:30:00"
+          }
+        }
       }
     },
     "CRSN": {
@@ -1580,6 +2548,36 @@
           "409",
           "3011"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "3011",
+          "30",
+          "1698",
+          "1699",
+          "1845"
+        ],
+        "outbound": [
+          "1845",
+          "1711",
+          "1645",
+          "30",
+          "3011"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Carson City Downtown": {
+          "MoTuWeThFr": {
+            "first": "05:47:00",
+            "last": "17:30:00"
+          }
+        },
+        "Reno Downtown": {
+          "MoTuWeThFr": {
+            "first": "06:50:00",
+            "last": "18:42:00"
+          }
+        }
       }
     },
     "LNCN": {
@@ -1612,6 +2610,48 @@
           "2083",
           "1972"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1918",
+          "2081",
+          "1972"
+        ],
+        "outbound": [
+          "1972",
+          "2078",
+          "1918"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "06:00:00",
+            "last": "20:20:00"
+          },
+          "Saturday": {
+            "first": "06:41:00",
+            "last": "19:56:00"
+          },
+          "Sunday": {
+            "first": "06:40:00",
+            "last": "19:52:00"
+          }
+        },
+        "Rtc Centennial Plaza Station": {
+          "MoTuWeThFr": {
+            "first": "06:00:00",
+            "last": "20:20:00"
+          },
+          "Saturday": {
+            "first": "06:36:00",
+            "last": "20:00:00"
+          },
+          "Sunday": {
+            "first": "06:36:00",
+            "last": "20:00:00"
+          }
+        }
       }
     },
     "VRGN": {
@@ -1650,6 +2690,50 @@
           "1996",
           "1971"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1971",
+          "1948",
+          "1949",
+          "3012"
+        ],
+        "outbound": [
+          "3012",
+          "1950",
+          "1951",
+          "1971"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Meadowood Mall": {
+          "MoTuWeThFr": {
+            "first": "06:30:00",
+            "last": "21:00:00"
+          },
+          "Saturday": {
+            "first": "06:36:00",
+            "last": "20:00:00"
+          },
+          "Sunday": {
+            "first": "06:36:00",
+            "last": "20:00:00"
+          }
+        },
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "06:01:00",
+            "last": "21:30:00"
+          },
+          "Saturday": {
+            "first": "06:42:00",
+            "last": "19:59:00"
+          },
+          "Sunday": {
+            "first": "06:42:00",
+            "last": "19:59:00"
+          }
+        }
       }
     },
     "2S": {
@@ -1725,6 +2809,36 @@
           "1613",
           "929"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1970",
+          "69",
+          "77",
+          "80",
+          "929"
+        ],
+        "outbound": [
+          "929",
+          "107",
+          "110",
+          "118",
+          "1970"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Mechant Street and Commerce Steet": {
+          "MoTuWeThFr": {
+            "first": "09:30:00",
+            "last": "16:30:00"
+          }
+        },
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "09:55:00",
+            "last": "15:55:00"
+          }
+        }
       }
     },
     "3CC": {
@@ -1794,6 +2908,32 @@
           "153",
           "1533"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1965",
+          "1530",
+          "1533"
+        ],
+        "outbound": [
+          "1533",
+          "1545",
+          "1965"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Robb Drive and Mae Anne Avenue": {
+          "MoTuWeThFr": {
+            "first": "06:45:00",
+            "last": "17:45:00"
+          }
+        },
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "07:08:00",
+            "last": "18:10:00"
+          }
+        }
       }
     },
     "3CL": {
@@ -1864,6 +3004,55 @@
           "1293",
           "1962"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "1965",
+          "1211",
+          "1559"
+        ],
+        "outbound": [
+          "1559",
+          "1563",
+          "1970",
+          "1974",
+          "1963",
+          "1978",
+          "1983",
+          "1979",
+          "1965",
+          "1977"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Robb Drive and Mae Anne Avenue": {
+          "MoTuWeThFr": {
+            "first": "05:15:00",
+            "last": "21:15:00"
+          },
+          "Saturday": {
+            "first": "05:15:00",
+            "last": "21:15:00"
+          },
+          "Sunday": {
+            "first": "06:15:00",
+            "last": "18:15:00"
+          }
+        },
+        "Rtc 4th Street Station": {
+          "MoTuWeThFr": {
+            "first": "05:44:00",
+            "last": "21:42:00"
+          },
+          "Saturday": {
+            "first": "05:39:00",
+            "last": "21:40:00"
+          },
+          "Sunday": {
+            "first": "06:40:00",
+            "last": "18:41:00"
+          }
+        }
       }
     }
   },

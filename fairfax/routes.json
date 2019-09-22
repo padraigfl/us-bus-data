@@ -84,6 +84,57 @@
           "blafiv",
           "cousut"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "pubstation",
+          "leefhs"
+        ],
+        "outbound": [
+          "jermai",
+          "leecha",
+          "faidra",
+          "station",
+          "gmu"
+        ]
+      },
+      "scheduledTimeRange": {
+        "gm": {
+          "f": {
+            "first": "06:04:00",
+            "last": "22:19:00"
+          },
+          "mtwh": {
+            "first": "06:04:00",
+            "last": "22:19:00"
+          },
+          "sat": {
+            "first": "08:25:00",
+            "last": "19:56:00"
+          },
+          "sun": {
+            "first": "10:00:00",
+            "last": "17:32:00"
+          }
+        },
+        "sta": {
+          "f": {
+            "first": "05:40:00",
+            "last": "22:50:00"
+          },
+          "mtwh": {
+            "first": "05:40:00",
+            "last": "22:50:00"
+          },
+          "sat": {
+            "first": "08:46:00",
+            "last": "20:16:00"
+          },
+          "sun": {
+            "first": "10:21:00",
+            "last": "17:52:00"
+          }
+        }
       }
     },
     "gold2": {
@@ -169,6 +220,57 @@
           "blafiv",
           "cousut"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "jermai",
+          "pubstation",
+          "faidra",
+          "faicha"
+        ],
+        "outbound": [
+          "gmu",
+          "leecor",
+          "station"
+        ]
+      },
+      "scheduledTimeRange": {
+        "gm": {
+          "f": {
+            "first": "05:25:00",
+            "last": "21:25:00"
+          },
+          "mtwh": {
+            "first": "05:25:00",
+            "last": "21:25:00"
+          },
+          "sat": {
+            "first": "08:00:00",
+            "last": "19:31:00"
+          },
+          "sun": {
+            "first": "09:33:00",
+            "last": "17:05:00"
+          }
+        },
+        "sta": {
+          "f": {
+            "first": "05:37:00",
+            "last": "21:37:00"
+          },
+          "mtwh": {
+            "first": "05:37:00",
+            "last": "21:37:00"
+          },
+          "sat": {
+            "first": "08:36:00",
+            "last": "20:07:00"
+          },
+          "sun": {
+            "first": "10:09:00",
+            "last": "17:41:00"
+          }
+        }
       }
     },
     "green1": {
@@ -248,6 +350,57 @@
           "leehnutl",
           "nutlee"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "pubstation",
+          "leefai_o",
+          "maipic"
+        ],
+        "outbound": [
+          "gmu",
+          "leecha",
+          "leefai",
+          "station"
+        ]
+      },
+      "scheduledTimeRange": {
+        "gm": {
+          "f": {
+            "first": "06:15:00",
+            "last": "22:08:00"
+          },
+          "mtwh": {
+            "first": "06:15:00",
+            "last": "22:08:00"
+          },
+          "sat": {
+            "first": "08:25:00",
+            "last": "19:35:00"
+          },
+          "sun": {
+            "first": "10:00:00",
+            "last": "16:55:00"
+          }
+        },
+        "sta": {
+          "f": {
+            "first": "05:30:00",
+            "last": "22:35:00"
+          },
+          "mtwh": {
+            "first": "05:30:00",
+            "last": "22:35:00"
+          },
+          "sat": {
+            "first": "08:57:00",
+            "last": "20:07:00"
+          },
+          "sun": {
+            "first": "10:32:00",
+            "last": "17:27:00"
+          }
+        }
       }
     },
     "green2": {
@@ -325,6 +478,57 @@
           "leehnutl",
           "nutlee"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "pubstation",
+          "leefai_o",
+          "leecha"
+        ],
+        "outbound": [
+          "gmu",
+          "picpic",
+          "leefai",
+          "station"
+        ]
+      },
+      "scheduledTimeRange": {
+        "gm": {
+          "f": {
+            "first": "06:00:00",
+            "last": "19:40:00"
+          },
+          "mtwh": {
+            "first": "06:00:00",
+            "last": "19:40:00"
+          },
+          "sat": {
+            "first": "08:02:00",
+            "last": "19:12:00"
+          },
+          "sun": {
+            "first": "09:37:00",
+            "last": "16:32:00"
+          }
+        },
+        "sta": {
+          "f": {
+            "first": "05:15:00",
+            "last": "20:10:00"
+          },
+          "mtwh": {
+            "first": "05:15:00",
+            "last": "20:10:00"
+          },
+          "sat": {
+            "first": "08:30:00",
+            "last": "19:40:00"
+          },
+          "sun": {
+            "first": "10:05:00",
+            "last": "17:00:00"
+          }
+        }
       }
     }
   },

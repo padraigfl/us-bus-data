@@ -1,7 +1,14 @@
 {
   "data": {
     "trma": {
-      "routes": {},
+      "routes": {
+        "blue": {
+          "": true
+        },
+        "red": {
+          "": true
+        }
+      },
       "lon": "-73.886254",
       "title": "Terminal A",
       "stopId": "110",
@@ -9,7 +16,14 @@
       "lat": "40.773269"
     },
     "hng7": {
-      "routes": {},
+      "routes": {
+        "blue": {
+          "": true
+        },
+        "red": {
+          "": true
+        }
+      },
       "lon": "-73.8854193",
       "title": "Hangar 7 South",
       "stopId": "120",
@@ -17,7 +31,14 @@
       "lat": "40.7710663"
     },
     "trmb": {
-      "routes": {},
+      "routes": {
+        "blue": {
+          "": true
+        },
+        "purple": {
+          "": true
+        }
+      },
       "lon": "-73.870945",
       "title": "Terminal B",
       "stopId": "200",
@@ -25,14 +46,28 @@
       "lat": "40.774097"
     },
     "stop15": {
-      "routes": {},
+      "routes": {
+        "blue": {
+          "": true
+        },
+        "red": {
+          "": true
+        }
+      },
       "lon": "-73.8868069",
       "title": "Stop 15",
       "tag": "stop15",
       "lat": "40.7698556"
     },
     "trmd": {
-      "routes": {},
+      "routes": {
+        "purple": {
+          "": true
+        },
+        "red": {
+          "": true
+        }
+      },
       "lon": "-73.8625335",
       "title": "Terminal D",
       "stopId": "400",
@@ -40,7 +75,14 @@
       "lat": "40.7685436"
     },
     "trmc": {
-      "routes": {},
+      "routes": {
+        "purple": {
+          "": true
+        },
+        "red": {
+          "": true
+        }
+      },
       "lon": "-73.864853",
       "title": "Terminal C",
       "stopId": "300",
@@ -48,7 +90,11 @@
       "lat": "40.770124"
     },
     "102st": {
-      "routes": {},
+      "routes": {
+        "purple": {
+          "": true
+        }
+      },
       "lon": "-73.8689008",
       "title": "102nd Street",
       "shortTitle": "102nd",
@@ -56,7 +102,11 @@
       "lat": "40.7696969"
     },
     "mangpark": {
-      "routes": {},
+      "routes": {
+        "purple": {
+          "": true
+        }
+      },
       "lon": "-73.876212",
       "title": "Manager's Parking Lot",
       "stopId": "500",
@@ -64,7 +114,11 @@
       "lat": "40.768464"
     },
     "102nd_i": {
-      "routes": {},
+      "routes": {
+        "red": {
+          "": true
+        }
+      },
       "lon": "-73.8686109",
       "title": "102nd St Inbound",
       "shortTitle": "102nd Inbound",
@@ -73,7 +127,11 @@
       "lat": "40.7695921"
     },
     "102nd_o": {
-      "routes": {},
+      "routes": {
+        "red": {
+          "": true
+        }
+      },
       "lon": "-73.8698323",
       "title": "102nd St Outbound",
       "shortTitle": "102nd Outbound",
@@ -82,7 +140,11 @@
       "lat": "40.7698572"
     },
     "trmb2": {
-      "routes": {},
+      "routes": {
+        "tx1": {
+          "": true
+        }
+      },
       "lon": "-73.8745263",
       "title": "Taxi Shuttle B Pick Up",
       "stopId": "319",
@@ -90,7 +152,11 @@
       "lat": "40.7740346"
     },
     "pickup": {
-      "routes": {},
+      "routes": {
+        "tx1": {
+          "": true
+        }
+      },
       "lon": "-73.8868681",
       "title": "Taxi Shuttle B Drop Off",
       "stopId": "320",
@@ -98,7 +164,11 @@
       "lat": "40.7702647"
     },
     "trmc2": {
-      "routes": {},
+      "routes": {
+        "tx2": {
+          "": true
+        }
+      },
       "lon": "-73.864853",
       "title": "Taxi Shuttle CD Pick Up (C Pick Up)",
       "stopId": "747",
@@ -106,7 +176,14 @@
       "lat": "40.770124"
     },
     "pickup2": {
-      "routes": {},
+      "routes": {
+        "tx2": {
+          "": true
+        },
+        "tx3": {
+          "": true
+        }
+      },
       "lon": "-73.886868",
       "title": "Taxi Shuttle CD Drop Off",
       "stopId": "757",
@@ -114,7 +191,11 @@
       "lat": "40.770265"
     },
     "trmd2": {
-      "routes": {},
+      "routes": {
+        "tx3": {
+          "": true
+        }
+      },
       "lon": "-73.8625335",
       "title": "Taxi Shuttle CD Pick Up (D pick up)",
       "stopId": "737",

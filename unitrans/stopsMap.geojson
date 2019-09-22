@@ -11,8 +11,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7460499,
-          38.54003
+          -121.74605,
+          38.5400299
         ]
       }
     },
@@ -94,21 +94,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "C St & 1st St (SB)",
-        "tag": "22006",
-        "stopId": "006"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74309,
-          38.54191
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "2nd St & E St (EB)",
         "tag": "22007",
         "stopId": "007"
@@ -148,6 +133,21 @@
         "coordinates": [
           -121.74093,
           38.5433299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pole Line & S Diameter Dr (NB)",
+        "tag": "22010",
+        "stopId": "010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7267099,
+          38.5502999
         ]
       }
     },
@@ -643,21 +643,6 @@
         "coordinates": [
           -121.7175799,
           38.5417799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pole Line & S Diameter Dr (NB)",
-        "tag": "22044",
-        "stopId": "044"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.7267099,
-          38.5502999
         ]
       }
     },
@@ -2276,8 +2261,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74892,
-          38.5392899
+          -121.7489199,
+          38.53929
         ]
       }
     },
@@ -3507,7 +3492,7 @@
         "type": "Point",
         "coordinates": [
           -121.7718099,
-          38.5385099
+          38.53851
         ]
       }
     },
@@ -4217,20 +4202,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Silo Terminal & Haring Hall (WB)",
-        "tag": "22258_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75368,
-          38.5393299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Radcliffe Dr & Apple Ln (NB)",
         "tag": "22193_ar"
       },
@@ -4295,6 +4266,20 @@
         "coordinates": [
           -121.78585,
           38.5467999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Silo Terminal & Haring Hall (WB)",
+        "tag": "22258_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75368,
+          38.5393299
         ]
       }
     },
@@ -4393,20 +4378,6 @@
         "coordinates": [
           -121.73906,
           38.5607399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "F St & Covell Blvd (SB)",
-        "tag": "22113_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.74496,
-          38.5601099
         ]
       }
     },

@@ -24,6 +24,20 @@
           "106",
           "107"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "101",
+          "1001_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Psu Shuttle": {
+          "MoTuWeThFr": {
+            "first": "07:30:00",
+            "last": "23:20:00"
+          }
+        }
       }
     },
     "Weekend": {
@@ -52,6 +66,28 @@
           "109",
           "110"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "101",
+          "1001_ar"
+        ],
+        "outbound": [
+          "101",
+          "1001_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Psu Shuttle": {
+          "Saturday": {
+            "first": "13:00:00",
+            "last": "17:18:00"
+          },
+          "Sunday": {
+            "first": "17:00:00",
+            "last": "23:20:00"
+          }
+        }
       }
     }
   },

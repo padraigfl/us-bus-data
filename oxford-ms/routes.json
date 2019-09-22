@@ -25,6 +25,36 @@
           "254",
           "256"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "260",
+          "148",
+          "217",
+          "260_a"
+        ],
+        "outbound": [
+          "260",
+          "148",
+          "217",
+          "260_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "07:05:00",
+            "last": "18:55:00"
+          },
+          "sat": {
+            "first": "07:05:00",
+            "last": "19:05:00"
+          },
+          "sun": {
+            "first": "07:05:00",
+            "last": "19:05:00"
+          }
+        }
       }
     },
     "reblred": {
@@ -52,6 +82,36 @@
           "266",
           "150"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "260",
+          "217",
+          "148",
+          "260_a"
+        ],
+        "outbound": [
+          "260",
+          "217",
+          "148",
+          "260_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "07:00:00",
+            "last": "19:00:00"
+          },
+          "sat": {
+            "first": "07:00:00",
+            "last": "19:00:00"
+          },
+          "sun": {
+            "first": "07:00:00",
+            "last": "19:00:00"
+          }
+        }
       }
     },
     "green": {
@@ -83,6 +143,32 @@
           "connapar",
           "doma_i"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "obse",
+          "soutcamp_i",
+          "archive_a"
+        ],
+        "outbound": [
+          "archive",
+          "exchapar_d",
+          "soutcamp_o"
+        ]
+      },
+      "scheduledTimeRange": {
+        "archive": {
+          "wkd": {
+            "first": "07:12:00",
+            "last": "22:14:00"
+          }
+        },
+        "obse": {
+          "wkd": {
+            "first": "07:00:00",
+            "last": "22:02:00"
+          }
+        }
       }
     },
     "orange": {
@@ -103,6 +189,21 @@
           "studwome_d",
           "links_d"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "links_d",
+          "studwome_a",
+          "studwome_d"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "07:00:00",
+            "last": "17:30:00"
+          }
+        }
       }
     },
     "yellow": {
@@ -129,6 +230,30 @@
           "lafaplac",
           "thehub"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "lafaplac",
+          "studunio_d"
+        ],
+        "outbound": [
+          "retreat",
+          "studunio_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "retreat": {
+          "wkd": {
+            "first": "07:00:00",
+            "last": "21:00:00"
+          }
+        },
+        "studunio": {
+          "wkd": {
+            "first": "07:06:00",
+            "last": "21:06:00"
+          }
+        }
       }
     },
     "brown": {
@@ -158,6 +283,24 @@
           "jac_w",
           "fratwest"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "jac_d"
+        ],
+        "outbound": [
+          "chap",
+          "rotc"
+        ]
+      },
+      "scheduledTimeRange": {
+        "chap": {},
+        "jac": {
+          "wkd": {
+            "first": "07:10:00",
+            "last": "19:15:00"
+          }
+        }
       }
     },
     "gold": {
@@ -182,6 +325,18 @@
         "S. Lot": [
           "obsvthub"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "soutplot"
+        ],
+        "outbound": [
+          "obsvthub"
+        ]
+      },
+      "scheduledTimeRange": {
+        "obsv": {},
+        "slot": {}
       }
     },
     "purple": {
@@ -220,6 +375,38 @@
           "thehub",
           "retreat"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "walmart",
+          "retreat_i",
+          "thehub_i",
+          "campcrck_i",
+          "univtrail_i",
+          "faukflat_a"
+        ],
+        "outbound": [
+          "faukflat",
+          "archive",
+          "connapts",
+          "univtrai_o",
+          "thehub",
+          "retreat"
+        ]
+      },
+      "scheduledTimeRange": {
+        "faukflat": {
+          "sat": {
+            "first": "08:35:00",
+            "last": "21:35:00"
+          }
+        },
+        "walmart": {
+          "sat": {
+            "first": "08:00:00",
+            "last": "21:00:00"
+          }
+        }
       }
     },
     "yellowexpr": {
@@ -243,6 +430,24 @@
         "To Campus Creek": [
           "obse"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "obse"
+        ],
+        "outbound": [
+          "campcrk",
+          "campwalk"
+        ]
+      },
+      "scheduledTimeRange": {
+        "campcrk": {},
+        "obse": {
+          "wkd": {
+            "first": "07:00:00",
+            "last": "21:25:00"
+          }
+        }
       }
     },
     "saferide": {
@@ -272,6 +477,17 @@
           "kappsigm",
           "betathet"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "fedbuild"
+        ],
+        "outbound": [
+          "fedbuild"
+        ]
+      },
+      "scheduledTimeRange": {
+        "yatechap": {}
       }
     },
     "grey": {
@@ -303,6 +519,38 @@
           "oxfothea",
           "140_ib"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "oxfohsch",
+          "cityhall_a"
+        ],
+        "outbound": [
+          "cityhall_d",
+          "oxfomsch"
+        ]
+      },
+      "scheduledTimeRange": {
+        "cityhall": {
+          "wkd": {
+            "first": "04:00:00",
+            "last": "21:45:00"
+          },
+          "sat": {
+            "first": "08:15:00",
+            "last": "21:45:00"
+          }
+        },
+        "oxfohsch": {
+          "wkd": {
+            "first": "03:45:00",
+            "last": "21:30:00"
+          },
+          "sat": {
+            "first": "08:00:00",
+            "last": "21:30:00"
+          }
+        }
       }
     },
     "lyce": {
@@ -326,6 +574,18 @@
         "The Lyceum": [
           "cityhall_d"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "lyce_d"
+        ],
+        "outbound": [
+          "cityhall_d"
+        ]
+      },
+      "scheduledTimeRange": {
+        "cityhall": {},
+        "lyce": {}
       }
     },
     "otayexpr": {
@@ -355,6 +615,34 @@
           "soucamp_i",
           "mullotay_ib"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "obse",
+          "soucamp_i",
+          "mullotay_ib"
+        ],
+        "outbound": [
+          "faukflat",
+          "fleudeli",
+          "taylbend",
+          "mullotay_ob",
+          "soucamp_o"
+        ]
+      },
+      "scheduledTimeRange": {
+        "faukflat": {
+          "wkd": {
+            "first": "07:14:00",
+            "last": "22:02:00"
+          }
+        },
+        "obse": {
+          "wkd": {
+            "first": "07:00:00",
+            "last": "21:48:00"
+          }
+        }
       }
     },
     "bluewest": {
@@ -394,6 +682,40 @@
           "belk",
           "walmart"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "studunio",
+          "cityhall_a"
+        ],
+        "outbound": [
+          "cityhall_d",
+          "studwome",
+          "belk",
+          "walmart"
+        ]
+      },
+      "scheduledTimeRange": {
+        "square": {
+          "wkd": {
+            "first": "06:53:00",
+            "last": "21:44:00"
+          },
+          "sat": {
+            "first": "08:27:00",
+            "last": "21:39:00"
+          }
+        },
+        "wm": {
+          "wkd": {
+            "first": "06:26:00",
+            "last": "21:17:00"
+          },
+          "sat": {
+            "first": "08:00:00",
+            "last": "21:12:00"
+          }
+        }
       }
     },
     "blueeast": {
@@ -426,6 +748,42 @@
           "cashsave",
           "counbuil"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "square_d",
+          "oldarmor_o",
+          "cashsave",
+          "counbuil"
+        ],
+        "outbound": [
+          "britwood",
+          "kroger",
+          "oldarmor_i",
+          "square_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "britwoods": {
+          "wkd": {
+            "first": "06:26:00",
+            "last": "21:17:00"
+          },
+          "sat": {
+            "first": "08:05:00",
+            "last": "21:17:00"
+          }
+        },
+        "square": {
+          "wkd": {
+            "first": "06:46:00",
+            "last": "21:37:00"
+          },
+          "sat": {
+            "first": "08:25:00",
+            "last": "21:37:00"
+          }
+        }
       }
     },
     "silverexp": {
@@ -446,6 +804,20 @@
           "observ_d",
           "soutcamp"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "observ_d",
+          "soutcamp"
+        ]
+      },
+      "scheduledTimeRange": {
+        "soutcamp": {
+          "wkd": {
+            "first": "07:00:00",
+            "last": "19:15:00"
+          }
+        }
       }
     },
     "soc": {
@@ -468,6 +840,18 @@
         "South Oxford Center": [
           "observ_d"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "southoxf_d"
+        ],
+        "outbound": [
+          "observ_d"
+        ]
+      },
+      "scheduledTimeRange": {
+        "observ": {},
+        "southoxf": {}
       }
     },
     "rednorth": {
@@ -511,6 +895,42 @@
           "nlamjeff",
           "cityhall_ib"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "outfac_d",
+          "studcros",
+          "cbwebb",
+          "cityhall_ib",
+          "oldarm_a"
+        ],
+        "outbound": [
+          "oldarm_d",
+          "cityhall_ob",
+          "groveapt"
+        ]
+      },
+      "scheduledTimeRange": {
+        "oldarm": {
+          "wkd": {
+            "first": "06:32:00",
+            "last": "21:32:00"
+          },
+          "sat": {
+            "first": "08:53:00",
+            "last": "21:29:00"
+          }
+        },
+        "outfac": {
+          "wkd": {
+            "first": "06:20:00",
+            "last": "21:20:00"
+          },
+          "sat": {
+            "first": "08:41:00",
+            "last": "21:17:00"
+          }
+        }
       }
     },
     "redsouth": {
@@ -546,6 +966,42 @@
           "communi",
           "coleman_d"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "oldarm_d",
+          "communi",
+          "coleman_d"
+        ],
+        "outbound": [
+          "vetehome",
+          "slamazal",
+          "belkhosp",
+          "18garf",
+          "oldarm_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "coleman": {
+          "wkd": {
+            "first": "06:20:00",
+            "last": "21:20:00"
+          },
+          "sat": {
+            "first": "06:20:00",
+            "last": "21:20:00"
+          }
+        },
+        "oldarm": {
+          "wkd": {
+            "first": "06:39:00",
+            "last": "21:39:00"
+          },
+          "sat": {
+            "first": "06:39:00",
+            "last": "21:39:00"
+          }
+        }
       }
     }
   },
