@@ -469,6 +469,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "1501 Page Mill Rd",
+        "tag": "2200410",
+        "stopId": "58054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1498099,
+          37.4139699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Page Mill Rd & Peter Coutts Rd",
+        "tag": "2200420",
+        "stopId": "58108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1515499,
+          37.4118699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Deer Creek Rd & Dept Of Interior",
         "tag": "2200430",
         "stopId": "55303"
@@ -1185,6 +1215,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Deer Creek Rd & Dept Of Interior",
+        "tag": "32200430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.15,
+          37.3954299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Decoto Rd & Cabrillo Dr",
         "tag": "0701380",
         "stopId": "51313"
@@ -1318,5 +1362,5 @@
       }
     }
   ],
-  "copyright": "All data copyright Dumbarton Express 2019."
+  "copyright": "All data copyright Dumbarton Express 2020."
 }

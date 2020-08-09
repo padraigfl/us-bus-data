@@ -4,9 +4,354 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Tahoe City Transit Center - Depart",
+        "tag": "100",
+        "stopId": "0100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.14475,
+          39.1645699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Chase",
+        "tag": "101",
+        "stopId": "0101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1448499,
+          39.1619099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Granlibakken",
+        "tag": "102",
+        "stopId": "0102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1457099,
+          39.1592399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Cathedral Dr",
+        "tag": "103",
+        "stopId": "0103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1461299,
+          39.15569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Sequoia Ave",
+        "tag": "104",
+        "stopId": "0104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1460399,
+          39.15161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Pine Ave",
+        "tag": "105",
+        "stopId": "0105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.15335,
+          39.1450899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Fountain Ave  (Firesign Cafe)",
+        "tag": "106",
+        "stopId": "0106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1545399,
+          39.14017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Pineland Dr",
+        "tag": "107",
+        "stopId": "0107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1545199,
+          39.13759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Ward Ave",
+        "tag": "108",
+        "stopId": "0108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.15642,
+          39.1341399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Timberland Dr (Rideout)",
+        "tag": "109",
+        "stopId": "0109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.16195,
+          39.1278799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Timberland Ln (Rideout Communty Center)",
+        "tag": "110",
+        "stopId": "0110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1655499,
+          39.1290599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Elizabeth Dr (Skyland)",
+        "tag": "111",
+        "stopId": "0111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.15861,
+          39.1153999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Grand Ave",
+        "tag": "112",
+        "stopId": "0112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1627,
+          39.1048799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Grimsell Pass (Homewood Sign)",
+        "tag": "113",
+        "stopId": "0113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1635699,
+          39.10064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Homewood Ski Area",
+        "tag": "114",
+        "stopId": "0114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.16396,
+          39.0936499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at West Shore Sports",
+        "tag": "115",
+        "stopId": "0115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1580099,
+          39.0810799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 Tahoe Ski Bowl Way",
+        "tag": "116",
+        "stopId": "0116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1569499,
+          39.0793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Ellis St",
+        "tag": "117",
+        "stopId": "0117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1508799,
+          39.0751199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Lodge Dr",
+        "tag": "118",
+        "stopId": "0118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1444799,
+          39.07308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at McKinney Rubicon Springs Rd",
+        "tag": "119",
+        "stopId": "0119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.14015,
+          39.07032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Elm St",
+        "tag": "120",
+        "stopId": "0120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.13652,
+          39.06874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 Across from PDQ Market",
+        "tag": "121",
+        "stopId": "0121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.13108,
+          39.06834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Tahoma Post Office (Lodge)",
+        "tag": "122",
+        "stopId": "0122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1283199,
+          39.0672399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Sugar Pine Point State Park",
-        "tag": "1667",
-        "stopId": "1667"
+        "tag": "123",
+        "stopId": "0123"
       },
       "geometry": {
         "type": "Point",
@@ -19,9 +364,24 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Hwy 89 at Pine St (Northbound)",
+        "tag": "124",
+        "stopId": "0124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.12911,
+          39.06803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Hwy 89 at PDQ Market",
-        "tag": "1671",
-        "stopId": "1671"
+        "tag": "125",
+        "stopId": "0125"
       },
       "geometry": {
         "type": "Point",
@@ -34,9 +394,54 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Hwy 89 Across from Elm St",
+        "tag": "126",
+        "stopId": "0126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1372,
+          39.0692099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Moana Cir",
+        "tag": "127",
+        "stopId": "0127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.14,
+          39.0704699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Chambers Landing",
+        "tag": "128",
+        "stopId": "0128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.14438,
+          39.0732899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Hwy 89 Across from Tahoe Ski Bowl Way",
-        "tag": "1676",
-        "stopId": "1676"
+        "tag": "129",
+        "stopId": "0129"
       },
       "geometry": {
         "type": "Point",
@@ -49,15 +454,2460 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Hwy 89 at Homewood Obexer's Market",
+        "tag": "130",
+        "stopId": "0130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.15826,
+          39.082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at West Shore Cafe",
+        "tag": "131",
+        "stopId": "0131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.15992,
+          39.0852599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Homewood Sign",
+        "tag": "132",
+        "stopId": "0132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1607799,
+          39.0871099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 Across from Grimsell Pass",
+        "tag": "133",
+        "stopId": "0133"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.16334,
+          39.1006799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Grand Ave",
+        "tag": "134",
+        "stopId": "0134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.16254,
+          39.1046899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Skyland Beach",
+        "tag": "135",
+        "stopId": "0135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.15818,
+          39.1148399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Hurricane Bay (Hill St)",
+        "tag": "136",
+        "stopId": "0136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.16115,
+          39.1205499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 Across from Timberland Dr (Rideout)",
+        "tag": "137",
+        "stopId": "0137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1617499,
+          39.12779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Hwy 89 at Sunnyside Ln",
-        "tag": "1686",
-        "stopId": "1686"
+        "tag": "138",
+        "stopId": "0138"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -120.15612,
           39.1341999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Sunnyside Market",
+        "tag": "139",
+        "stopId": "0139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.15443,
+          39.14055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tahoe Park Ln (Lakeside)",
+        "tag": "140",
+        "stopId": "0140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1537299,
+          39.14446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sequoia Ave (North on Lakeside)",
+        "tag": "141",
+        "stopId": "0141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.14565,
+          39.1512099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Olympic Dr",
+        "tag": "142",
+        "stopId": "0142"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.14587,
+          39.15651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Tahoe Tavern Entrance",
+        "tag": "143",
+        "stopId": "0143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.14561,
+          39.15857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Chase",
+        "tag": "144",
+        "stopId": "0144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.14463,
+          39.16186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Granlibakken Resort",
+        "tag": "145",
+        "stopId": "0145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.15378,
+          39.1562299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Bank of the West",
+        "tag": "200",
+        "stopId": "0200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.14377,
+          39.16528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Swigard's Hardware (Bus Shelter)",
+        "tag": "201",
+        "stopId": "0201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1441,
+          39.1684599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Olympic Bike",
+        "tag": "202",
+        "stopId": "0202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1387,
+          39.1727599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28  at Lighthouse Center (McDonald's Tahoe City)",
+        "tag": "203",
+        "stopId": "0203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.13704,
+          39.1745599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 Across from Rocky Ridge Rd",
+        "tag": "204",
+        "stopId": "0204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.12864,
+          39.18157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Star Harbor Ct",
+        "tag": "205",
+        "stopId": "0205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1238199,
+          39.18371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Lake Forest Rd (West End)",
+        "tag": "206",
+        "stopId": "0206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.12147,
+          39.1851499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 Across from Burton Creek",
+        "tag": "207",
+        "stopId": "0207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.11766,
+          39.1880799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Lake Forest Rd (East End)",
+        "tag": "208",
+        "stopId": "0208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.11363,
+          39.18968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 Across from Dollar Hill II",
+        "tag": "209",
+        "stopId": "0209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1095799,
+          39.19001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Dollar Hill 7-11 Store (Shelter)",
+        "tag": "210",
+        "stopId": "0210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1049099,
+          39.1921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Chinquapin Condos",
+        "tag": "211",
+        "stopId": "0211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.09916,
+          39.19741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 Across from Lardin Way",
+        "tag": "212",
+        "stopId": "0212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.09379,
+          39.2072299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 Across from Ridgewood Rd",
+        "tag": "213",
+        "stopId": "0213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.08822,
+          39.21421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Gar Woods East Parking Lot",
+        "tag": "214",
+        "stopId": "0214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.08298,
+          39.2260199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Sierra Boat Co",
+        "tag": "215",
+        "stopId": "0215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0804899,
+          39.22674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 Across from Placer Welfare",
+        "tag": "216",
+        "stopId": "0216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.07827,
+          39.22674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Agate Sun Club Pier",
+        "tag": "217",
+        "stopId": "0217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.07018,
+          39.23268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Stag Dr - Lakeside",
+        "tag": "218",
+        "stopId": "0218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.06254,
+          39.2372599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at The Sands",
+        "tag": "219",
+        "stopId": "0219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0565199,
+          39.2406799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Sandy Beach",
+        "tag": "220",
+        "stopId": "0220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0522099,
+          39.24004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at National Ave (Lakeside)",
+        "tag": "221",
+        "stopId": "0221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0481599,
+          39.23944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Pino Grande Ave (Lakeside)",
+        "tag": "222",
+        "stopId": "0222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.04325,
+          39.2382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 Across from KB Safeway Store",
+        "tag": "223",
+        "stopId": "0223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0333499,
+          39.23804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Secline St",
+        "tag": "224",
+        "stopId": "0224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.02959,
+          39.2375899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at KB State Beach",
+        "tag": "225",
+        "stopId": "0225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.02658,
+          39.23738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Coon St (Lakeside)",
+        "tag": "226",
+        "stopId": "0226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0236399,
+          39.23627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Fox St (Lakeside)",
+        "tag": "227",
+        "stopId": "0227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0206499,
+          39.23537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 Across from Chipmunk St",
+        "tag": "228",
+        "stopId": "0228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0166699,
+          39.2338699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Chipmunk St",
+        "tag": "229",
+        "stopId": "0229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0165,
+          39.2340299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Fox St",
+        "tag": "230",
+        "stopId": "0230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.02038,
+          39.2354799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Coon St (7-11)",
+        "tag": "231",
+        "stopId": "0231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.02288,
+          39.2361999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 Before Deer St (Chevron Station)",
+        "tag": "232",
+        "stopId": "0232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.02565,
+          39.2373099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Deer St WB",
+        "tag": "233",
+        "stopId": "0233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.02772,
+          39.2376199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Secline St",
+        "tag": "234",
+        "stopId": "0234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.02973,
+          39.2377999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at KB Safeway Store",
+        "tag": "235",
+        "stopId": "0235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.03417,
+          39.2383099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Pino Grande Ave",
+        "tag": "236",
+        "stopId": "0236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.04227,
+          39.2386399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at National Ave",
+        "tag": "237",
+        "stopId": "0237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0489999,
+          39.2397599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Anderson St",
+        "tag": "238",
+        "stopId": "0238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.05316,
+          39.24039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at End of 4 Lanes (Sands Motel)",
+        "tag": "239",
+        "stopId": "0239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0582499,
+          39.2404699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Stag Dr",
+        "tag": "240",
+        "stopId": "0240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.06264,
+          39.2374299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Agate Rd",
+        "tag": "241",
+        "stopId": "0241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0704499,
+          39.23549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Sahara Dr",
+        "tag": "242",
+        "stopId": "0242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.07074,
+          39.2289499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Old P.O. Coffee Shop",
+        "tag": "243",
+        "stopId": "0243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.07812,
+          39.2269099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at 7-11 Carnelian Bay (Shelter)",
+        "tag": "244",
+        "stopId": "0244"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0814,
+          39.2268599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Center St",
+        "tag": "245",
+        "stopId": "0245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0839599,
+          39.22569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Ridgewood Rd",
+        "tag": "246",
+        "stopId": "0246"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0883299,
+          39.2150799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Lardin Way",
+        "tag": "247",
+        "stopId": "0247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0936899,
+          39.2075499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Old County Rd",
+        "tag": "248",
+        "stopId": "0248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.09832,
+          39.1983399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Dollar Dr",
+        "tag": "249",
+        "stopId": "0249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1055599,
+          39.19171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Dollar Hill II",
+        "tag": "250",
+        "stopId": "0250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.10989,
+          39.1901799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Old Mill Rd",
+        "tag": "251",
+        "stopId": "0251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1130799,
+          39.1899799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Burton Creek",
+        "tag": "252",
+        "stopId": "0252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.11839,
+          39.1879599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Tamarack Lodge",
+        "tag": "253",
+        "stopId": "0253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1239599,
+          39.18386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Rocky Ridge Rd",
+        "tag": "254",
+        "stopId": "0254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.12849,
+          39.1819299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Attorneys Office",
+        "tag": "255",
+        "stopId": "0255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1333499,
+          39.1772499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Basecamp",
+        "tag": "256",
+        "stopId": "0256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.13722,
+          39.1746699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Grove St (Pharmacy)",
+        "tag": "257",
+        "stopId": "0257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1399099,
+          39.1719399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Tahoe City WYE",
+        "tag": "258",
+        "stopId": "0258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1442599,
+          39.1685899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "HWY 28 Crystal Bay Club (Shelter) - Depart",
+        "tag": "300",
+        "stopId": "0300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.00503,
+          39.2275499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Gonowabie Rd",
+        "tag": "301",
+        "stopId": "0301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.00061,
+          39.24006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Crystal Bay Cove Condos",
+        "tag": "302",
+        "stopId": "0302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.99268,
+          39.24944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Lakeshore Dr (Westside)",
+        "tag": "303",
+        "stopId": "0303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9823899,
+          39.24983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Hwy 431 By Guardrail",
+        "tag": "304",
+        "stopId": "0304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9785299,
+          39.25045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 Across from Winding Way",
+        "tag": "305",
+        "stopId": "0305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9680399,
+          39.2508099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Toepa",
+        "tag": "306",
+        "stopId": "0306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.96324,
+          39.2503899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Incline Cleaners",
+        "tag": "307",
+        "stopId": "0307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.95371,
+          39.2496099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at US Bank",
+        "tag": "308",
+        "stopId": "0308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9499699,
+          39.24949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Incline Skate Park at Hwy 28",
+        "tag": "309",
+        "stopId": "0309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.94674,
+          39.2488999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Southwood at Bowl Incline",
+        "tag": "310",
+        "stopId": "0310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9487,
+          39.2468699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Blvd at Juanita Rd",
+        "tag": "311",
+        "stopId": "0311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9497199,
+          39.2442999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lakeshore Dr at Incline Beach",
+        "tag": "312",
+        "stopId": "0312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9472399,
+          39.24031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Depart",
+        "tag": "313",
+        "stopId": "0313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.94373,
+          39.2393299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tunnel Creek Bonanza (Depart)",
+        "tag": "314",
+        "stopId": "0314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.92888,
+          39.2367799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Country Club Dr at Incline Way",
+        "tag": "315",
+        "stopId": "0315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9403199,
+          39.24093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Country Club Dr at Mill Creek",
+        "tag": "316",
+        "stopId": "0316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9381199,
+          39.24248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Country Club By Fairway",
+        "tag": "317",
+        "stopId": "0317"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.93918,
+          39.2463199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Northwood Blvd",
+        "tag": "318",
+        "stopId": "0318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9464499,
+          39.2493099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Raley's Shopping Center",
+        "tag": "319",
+        "stopId": "0319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.95046,
+          39.2496799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Christmas Tree Village",
+        "tag": "320",
+        "stopId": "0320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.95521,
+          39.2498899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at 76 Gas Station",
+        "tag": "321",
+        "stopId": "0321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.96238,
+          39.2505299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at WInding Way",
+        "tag": "322",
+        "stopId": "0322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9674199,
+          39.2509499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Ponderosa Ave",
+        "tag": "323",
+        "stopId": "0323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.97646,
+          39.2510699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Pinion Dr",
+        "tag": "324",
+        "stopId": "0324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.98286,
+          39.2498299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Red Cedar Ln",
+        "tag": "325",
+        "stopId": "0325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9899299,
+          39.2495999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Amagosa Rd",
+        "tag": "326",
+        "stopId": "0326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0008299,
+          39.2401399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Tahoe Biltmore (Shelter) - Depart",
+        "tag": "327",
+        "stopId": "0327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.00586,
+          39.2273699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Alpine Meadows Rd (River Ranch)",
+        "tag": "401",
+        "stopId": "0401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.19492,
+          39.1872699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Squaw Valley Rd at 7-11 Driveway (Shelter)",
+        "tag": "402",
+        "stopId": "0402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.20056,
+          39.2049699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Squaw Valley Rd and Squaw Creek Rd",
+        "tag": "403",
+        "stopId": "0403"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.20466,
+          39.2059999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Squaw Valley Rd at Post Office",
+        "tag": "404",
+        "stopId": "0404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.22865,
+          39.1992999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Squaw Valley Rd at Clock Tower",
+        "tag": "405",
+        "stopId": "0405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.23571,
+          39.1985299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Squaw Parking Lot at Village (Shelter in Building)",
+        "tag": "406",
+        "stopId": "0406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2328,
+          39.1970399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Squaw Valley Rd at Squaw Creek Rd (Shelter) EB",
+        "tag": "407",
+        "stopId": "0407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2073399,
+          39.20523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Squaw Valley Rd at New Park (Near Entrance)",
+        "tag": "408",
+        "stopId": "0408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.20087,
+          39.2048099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Highway 89 Northbound Near Mousehole",
+        "tag": "409",
+        "stopId": "0409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.20525,
+          39.3175099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at College Trail",
+        "tag": "410",
+        "stopId": "0410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.20751,
+          39.32076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at CHP Office",
+        "tag": "411",
+        "stopId": "0411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.20746,
+          39.32522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Highway 89 South Between DMV and Freeway",
+        "tag": "412",
+        "stopId": "0412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2078399,
+          39.32494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Deerfield Dr (Crossroad Driveway)",
+        "tag": "413",
+        "stopId": "0413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.20777,
+          39.3199599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 Across from West River St (Trailer Park)",
+        "tag": "414",
+        "stopId": "0414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.20429,
+          39.3159699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 89 at Alpine Meadows Rd (River Ranch)",
+        "tag": "415",
+        "stopId": "0415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.19493,
+          39.1865299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 267 and Speckled St",
+        "tag": "500",
+        "stopId": "0500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.03034,
+          39.24345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 267 and Cambridge Dr",
+        "tag": "501",
+        "stopId": "0501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0334,
+          39.24938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 267 and Stewart Way",
+        "tag": "502",
+        "stopId": "0502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.03784,
+          39.2528099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sawmill Heights (Employee Housing)",
+        "tag": "503",
+        "stopId": "0503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.10701,
+          39.2834499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northstar Village Gate # 7",
+        "tag": "504",
+        "stopId": "0504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.12155,
+          39.2761599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Airport Rd and Truckee Town Hall",
+        "tag": "505",
+        "stopId": "0505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1464599,
+          39.31725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Airport",
+        "tag": "506",
+        "stopId": "0506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.14473,
+          39.3187499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hampton Inn and Suites",
+        "tag": "507",
+        "stopId": "0507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1525,
+          39.3171399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 267 and Stewart Way",
+        "tag": "508",
+        "stopId": "0508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0379,
+          39.2526299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 267 and Lincoln Green",
+        "tag": "509",
+        "stopId": "0509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.03324,
+          39.24891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 267 and Speckled St",
+        "tag": "510",
+        "stopId": "0510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0305799,
+          39.2434399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Truckee Depot - Depart",
+        "tag": "600",
+        "stopId": "0600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.18549,
+          39.3275299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Donner Lake Village Resort",
+        "tag": "601",
+        "stopId": "0601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.28662,
+          39.3247999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at West End Boat Launch",
+        "tag": "602",
+        "stopId": "0602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.28239,
+          39.3248599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Moraine Rd (Sticks Market)",
+        "tag": "603",
+        "stopId": "0603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2544,
+          39.3289399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Summit Dr",
+        "tag": "604",
+        "stopId": "0604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.24384,
+          39.3275499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Donner Memorial State Park",
+        "tag": "605",
+        "stopId": "0605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.23306,
+          39.3246799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd Cold Stream Rd",
+        "tag": "606",
+        "stopId": "0606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.22759,
+          39.3229099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Tri-Counties Bank Plaza",
+        "tag": "607",
+        "stopId": "0607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2219,
+          39.3254199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Northwoods Blvd",
+        "tag": "608",
+        "stopId": "0608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.21788,
+          39.3257199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Donner Trail Rd",
+        "tag": "609",
+        "stopId": "0609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.21289,
+          39.3260199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Westgate Center (Wild Cherries)",
+        "tag": "610",
+        "stopId": "0610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2103799,
+          39.326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Bank of America (Bus Shelter)",
+        "tag": "611",
+        "stopId": "0611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2057,
+          39.3259599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Tahoe Forest Cancer Center",
+        "tag": "612",
+        "stopId": "0612"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.20119,
+          39.3261299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Recreation Center",
+        "tag": "613",
+        "stopId": "0613"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.17372,
+          39.3385499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Edwin Rd at Henness Rd (Bus Shelter)",
+        "tag": "614",
+        "stopId": "0614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.17111,
+          39.3415099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brockway Rd at The Rock (Fifty-Fifty)",
+        "tag": "615",
+        "stopId": "0615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.16352,
+          39.3217799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brockway Rd at Reynold Way",
+        "tag": "616",
+        "stopId": "0616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1676499,
+          39.3237299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Estates Dr at Senior Apartments",
+        "tag": "617",
+        "stopId": "0617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1686,
+          39.3268699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brockway Rd at Regional Park (Bus Shelter)",
+        "tag": "618",
+        "stopId": "0618"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.17687,
+          39.3263899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Tahoe Forest Medical Offices",
+        "tag": "619",
+        "stopId": "0619"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.20135,
+          39.3262899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Gateway Center (Safeway Bus Shelter)",
+        "tag": "620",
+        "stopId": "0620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.205,
+          39.3261299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at ACE Mountain Hardware",
+        "tag": "621",
+        "stopId": "0621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.20804,
+          39.3261599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Meadow Way (7-11)",
+        "tag": "622",
+        "stopId": "0622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.21019,
+          39.3261799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Donner Trail Rd",
+        "tag": "623",
+        "stopId": "0623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.21356,
+          39.3261899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Northwoods Blvd",
+        "tag": "624",
+        "stopId": "0624"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.21874,
+          39.3258399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Highway Rd",
+        "tag": "625",
+        "stopId": "0625"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.22222,
+          39.3255799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Donner Memorial State Park",
+        "tag": "626",
+        "stopId": "0626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.23273,
+          39.3248199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at East End Donner Lake",
+        "tag": "627",
+        "stopId": "0627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.23831,
+          39.3259999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Summit Dr",
+        "tag": "628",
+        "stopId": "0628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.24328,
+          39.3276099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Moraine Rd (Sticks Market)",
+        "tag": "629",
+        "stopId": "0629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2512499,
+          39.3289499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at West End Boat Launch",
+        "tag": "630",
+        "stopId": "0630"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.28359,
+          39.3251999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donner Pass Rd at Donner Lake Village Resort",
+        "tag": "631",
+        "stopId": "0631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2866,
+          39.3249999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brockway Rd and Palisades Dr",
+        "tag": "633",
+        "stopId": "0633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1771,
+          39.3262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Green (2nd Driveway)",
+        "tag": "634",
+        "stopId": "0634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1693399,
+          39.3243099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Across from Best Western",
+        "tag": "635",
+        "stopId": "0635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.16222,
+          39.3209499
         ]
       }
     },
@@ -79,81 +2929,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hwy 28 at Lake Forest Rd (West End)",
-        "tag": "1708",
-        "stopId": "1708"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.12147,
-          39.1851499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Lake Forest Rd (East End)",
-        "tag": "1710",
-        "stopId": "1710"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.11363,
-          39.18968
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 Across from Lardin Way",
-        "tag": "1715",
-        "stopId": "1715"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.09379,
-          39.2072299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Stag Dr - Lakeside",
-        "tag": "1722",
-        "stopId": "1722"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.06254,
-          39.2372599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Secline St",
-        "tag": "1728",
-        "stopId": "1728"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.02959,
-          39.2375899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Hwy 28 at Crystal Bay Club (Shelter) - Arrive",
         "tag": "1733",
         "stopId": "1733"
@@ -163,51 +2938,6 @@
         "coordinates": [
           -120.00508,
           39.2275299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Toepa",
-        "tag": "1739",
-        "stopId": "1739"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.96324,
-          39.2503899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Incline Cleaners",
-        "tag": "1740",
-        "stopId": "1740"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.95371,
-          39.2496099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Southwood at Bowl Incline",
-        "tag": "1744",
-        "stopId": "1744"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.9487,
-          39.2468699
         ]
       }
     },
@@ -229,36 +2959,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hwy 28 at Country Club By Fairway",
-        "tag": "1750",
-        "stopId": "1750"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.93918,
-          39.2463199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Raley's Shopping Center",
-        "tag": "1752",
-        "stopId": "1752"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.95046,
-          39.2496799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Hwy 28 at Tahoe Biltmore (Shelter) - Arrive",
         "tag": "1760",
         "stopId": "1760"
@@ -268,2181 +2968,6 @@
         "coordinates": [
           -120.00576,
           39.2274199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Pino Grande Ave",
-        "tag": "1768",
-        "stopId": "1768"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.04227,
-          39.2386399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Sahara Dr",
-        "tag": "1774",
-        "stopId": "1774"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.07074,
-          39.2289499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Ridgewood Rd",
-        "tag": "1778",
-        "stopId": "1778"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0883299,
-          39.2150799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Dollar Dr",
-        "tag": "1781",
-        "stopId": "1781"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1055599,
-          39.19171
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Dollar Hill II",
-        "tag": "1782",
-        "stopId": "1782"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.10989,
-          39.1901799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Old Mill Rd",
-        "tag": "1783",
-        "stopId": "1783"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1130799,
-          39.1899799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Burton Creek",
-        "tag": "1784",
-        "stopId": "1784"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.11839,
-          39.1879599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Tamarack Lodge",
-        "tag": "1786",
-        "stopId": "1786"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1239599,
-          39.18386
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Rocky Ridge Rd",
-        "tag": "1787",
-        "stopId": "1787"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.12849,
-          39.1819299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Attorneys Office",
-        "tag": "1790",
-        "stopId": "1790"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1333499,
-          39.1772499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Tahoe City WYE",
-        "tag": "1797",
-        "stopId": "1797"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1442599,
-          39.1685899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Granlibakken",
-        "tag": "1802",
-        "stopId": "1802"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1457099,
-          39.1592399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Chase",
-        "tag": "1803",
-        "stopId": "1803"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1448499,
-          39.1619099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Cathedral Dr",
-        "tag": "1804",
-        "stopId": "1804"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1461299,
-          39.15569
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Sequoia Ave",
-        "tag": "1805",
-        "stopId": "1805"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1460399,
-          39.15161
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Pine Ave",
-        "tag": "1806",
-        "stopId": "1806"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.15335,
-          39.1450899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Fountain Ave  (Firesign Cafe)",
-        "tag": "1807",
-        "stopId": "1807"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1545399,
-          39.14017
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Pineland Dr",
-        "tag": "1808",
-        "stopId": "1808"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1545199,
-          39.13759
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Ward Ave",
-        "tag": "1809",
-        "stopId": "1809"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.15642,
-          39.1341399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Elizabeth Dr (Skyland)",
-        "tag": "1813",
-        "stopId": "1813"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1586099,
-          39.1154
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Grand Ave",
-        "tag": "1814",
-        "stopId": "1814"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1627,
-          39.1048799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Grimsell Pass (Homewood Sign)",
-        "tag": "1815",
-        "stopId": "1815"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1635699,
-          39.10064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Homewood Ski Area",
-        "tag": "1816",
-        "stopId": "1816"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.16396,
-          39.0936499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at West Shore Sports",
-        "tag": "1817",
-        "stopId": "1817"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1580099,
-          39.0810799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 Tahoe Ski Bowl Way",
-        "tag": "1818",
-        "stopId": "1818"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1569499,
-          39.0793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Ellis St",
-        "tag": "1819",
-        "stopId": "1819"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1508799,
-          39.0751199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Lodge Dr",
-        "tag": "1820",
-        "stopId": "1820"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1444799,
-          39.07308
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at McKinney Rubicon Springs Rd",
-        "tag": "1821",
-        "stopId": "1821"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.14015,
-          39.07032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Elm St",
-        "tag": "1822",
-        "stopId": "1822"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.13652,
-          39.06874
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 Across from PDQ Market",
-        "tag": "1823",
-        "stopId": "1823"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.13108,
-          39.06834
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Tahoma Post Office (Lodge)",
-        "tag": "1824",
-        "stopId": "1824"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1283199,
-          39.0672399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Tahoe City Transit Center - Depart",
-        "tag": "1827",
-        "stopId": "1827"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.14475,
-          39.1645699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "HWY 28 Crystal Bay Club (Shelter) - Depart",
-        "tag": "1828",
-        "stopId": "1828"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.00503,
-          39.2275499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Tahoe Biltmore (Shelter) - Depart",
-        "tag": "1836",
-        "stopId": "1836"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.00586,
-          39.2273699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Depart",
-        "tag": "1837",
-        "stopId": "1837"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.94373,
-          39.2393299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Squaw Valley Rd at Post Office",
-        "tag": "1843",
-        "stopId": "1843"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.22865,
-          39.1992999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Squaw Parking Lot at Village (Shelter in Building)",
-        "tag": "1845",
-        "stopId": "1845"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.2328,
-          39.1970399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Truckee Depot - Depart",
-        "tag": "1892",
-        "stopId": "1892"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.18549,
-          39.3275299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brockway Rd and Palisades Dr",
-        "tag": "1894",
-        "stopId": "1894"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1771,
-          39.3262
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Village Green (2nd Driveway)",
-        "tag": "1895",
-        "stopId": "1895"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1693399,
-          39.3243099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Airport Rd and Truckee Town Hall",
-        "tag": "1898",
-        "stopId": "1898"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1464599,
-          39.31725
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northstar Village Gate # 7",
-        "tag": "1900",
-        "stopId": "1900"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.12155,
-          39.2761599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 267 and Stewart Way",
-        "tag": "1940",
-        "stopId": "1940"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0379,
-          39.2526299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 267 and Lincoln Green",
-        "tag": "1941",
-        "stopId": "1941"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.03324,
-          39.24891
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 267 and Speckled St",
-        "tag": "1942",
-        "stopId": "1942"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0305799,
-          39.2434399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Tahoe Forest Medical Offices",
-        "tag": "1950",
-        "stopId": "1950"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.20135,
-          39.3262899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Gateway Center (Safeway Bus Shelter)",
-        "tag": "1951",
-        "stopId": "1951"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.205,
-          39.3261299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Deerfield Dr (Crossroad Driveway)",
-        "tag": "1953",
-        "stopId": "1953"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.20777,
-          39.3199599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 Across from West River St (Trailer Park)",
-        "tag": "1954",
-        "stopId": "1954"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.20429,
-          39.3159699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Squaw Valley Rd at Clock Tower",
-        "tag": "1955",
-        "stopId": "1955"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.23571,
-          39.1985299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Squaw Valley Rd at New Park (Near Entrance)",
-        "tag": "1960",
-        "stopId": "1960"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.20087,
-          39.2048099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Squaw Valley Rd at 7-11 Driveway (Shelter)",
-        "tag": "1961",
-        "stopId": "1961"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.20056,
-          39.2049699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Alpine Meadows Rd (River Ranch)",
-        "tag": "1962",
-        "stopId": "1962"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.19493,
-          39.1865299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at College Trail",
-        "tag": "1969",
-        "stopId": "1969"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.20751,
-          39.32076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Highway 89 Northbound Near Mousehole",
-        "tag": "1970",
-        "stopId": "1970"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.20525,
-          39.3175099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Bank of America (Bus Shelter)",
-        "tag": "1972",
-        "stopId": "1972"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.2057,
-          39.3259599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Tahoe Forest Cancer Center",
-        "tag": "1973",
-        "stopId": "1973"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.20119,
-          39.3261299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at CHP Office",
-        "tag": "1977",
-        "stopId": "1977"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.20746,
-          39.32522
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Highway 89 South Between DMV and Freeway",
-        "tag": "1978",
-        "stopId": "1978"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.2078399,
-          39.32494
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Squaw Valley Rd at Squaw Creek Rd (Shelter)",
-        "tag": "1984",
-        "stopId": "1984"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.2073399,
-          39.20523
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Alpine Meadows Rd (River Ranch)",
-        "tag": "1986",
-        "stopId": "1986"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.19492,
-          39.1872699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Granlibakken Resort",
-        "tag": "1989",
-        "stopId": "1989"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.15378,
-          39.1562299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Across from Best Western",
-        "tag": "2001",
-        "stopId": "2001"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.16222,
-          39.3209499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Airport",
-        "tag": "2002",
-        "stopId": "2002"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.14473,
-          39.3187499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hampton Inn and Suites",
-        "tag": "2006",
-        "stopId": "2006"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1525,
-          39.3171399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Pine St (Northbound)",
-        "tag": "2008",
-        "stopId": "2008"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.12911,
-          39.06803
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 Across from Elm St",
-        "tag": "2009",
-        "stopId": "2009"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1372,
-          39.0692099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Moana Cir",
-        "tag": "2010",
-        "stopId": "2010"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.14,
-          39.0704699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Chambers Landing",
-        "tag": "2011",
-        "stopId": "2011"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.14438,
-          39.0732899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Homewood Obexer's Market",
-        "tag": "2012",
-        "stopId": "2012"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.15826,
-          39.082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at West Shore Cafe",
-        "tag": "2013",
-        "stopId": "2013"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.15992,
-          39.0852599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Homewood Sign",
-        "tag": "2014",
-        "stopId": "2014"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1607799,
-          39.0871099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 Across from Grimsell Pass",
-        "tag": "2015",
-        "stopId": "2015"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.16334,
-          39.1006799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Grand Ave",
-        "tag": "2017",
-        "stopId": "2017"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.16254,
-          39.1046899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Skyland Beach",
-        "tag": "2018",
-        "stopId": "2018"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.15818,
-          39.1148399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Hurricane Bay",
-        "tag": "2019",
-        "stopId": "2019"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.16115,
-          39.1205499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 Across from Timberland Dr (Rideout)",
-        "tag": "2021",
-        "stopId": "2021"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1617499,
-          39.12779
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Sunnyside Market",
-        "tag": "2022",
-        "stopId": "2022"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.15443,
-          39.14055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Tahoe Park Ln (Lakeside)",
-        "tag": "2023",
-        "stopId": "2023"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1537299,
-          39.14446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sequoia Ave (North on Lakeside)",
-        "tag": "2024",
-        "stopId": "2024"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.14565,
-          39.1512099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Olympic Dr",
-        "tag": "2025",
-        "stopId": "2025"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.14587,
-          39.15651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Tahoe Tavern Entrance",
-        "tag": "2026",
-        "stopId": "2026"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.14561,
-          39.15857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Olympic Bike",
-        "tag": "2028",
-        "stopId": "2028"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1387,
-          39.1727599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28  at Lighthouse Center (McDonald's Tahoe City)",
-        "tag": "2029",
-        "stopId": "2029"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.13704,
-          39.1745599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 Across from Rocky Ridge Rd",
-        "tag": "2031",
-        "stopId": "2031"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.12864,
-          39.18157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Star Harbor Ct",
-        "tag": "2032",
-        "stopId": "2032"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1238199,
-          39.18371
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 Across from Burton Creek",
-        "tag": "2033",
-        "stopId": "2033"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1176599,
-          39.18808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Dollar Hill 7-11 Store (Shelter)",
-        "tag": "2034",
-        "stopId": "2034"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1049099,
-          39.1921
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 Across from Dollar Hill II",
-        "tag": "2035",
-        "stopId": "2035"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.10958,
-          39.19001
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Chinquapin Condos",
-        "tag": "2036",
-        "stopId": "2036"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.09916,
-          39.1974099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 Across from Ridgewood Rd",
-        "tag": "2037",
-        "stopId": "2037"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.08822,
-          39.21421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Sierra Boat Co",
-        "tag": "2038",
-        "stopId": "2038"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0804899,
-          39.22674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 Across from Placer Welfare",
-        "tag": "2039",
-        "stopId": "2039"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.07827,
-          39.22674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Agate Sun Club Pier",
-        "tag": "2041",
-        "stopId": "2041"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.07018,
-          39.23268
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at The Sands",
-        "tag": "2042",
-        "stopId": "2042"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0565199,
-          39.2406799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Sandy Beach",
-        "tag": "2043",
-        "stopId": "2043"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0522099,
-          39.24004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at National Ave (Lakeside)",
-        "tag": "2044",
-        "stopId": "2044"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0481599,
-          39.23944
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Pino Grande Ave (Lakeside)",
-        "tag": "2045",
-        "stopId": "2045"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.04325,
-          39.2382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 Across from KB Safeway Store",
-        "tag": "2046",
-        "stopId": "2046"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0333499,
-          39.23804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Gonowabie Rd",
-        "tag": "2051",
-        "stopId": "2051"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.00061,
-          39.24006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Crystal Bay Cove Condos",
-        "tag": "2052",
-        "stopId": "2052"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.99268,
-          39.24944
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Lakeshore Dr (Westside)",
-        "tag": "2053",
-        "stopId": "2053"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.9823899,
-          39.24983
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Hwy 431 By Guardrail",
-        "tag": "2054",
-        "stopId": "2054"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.9785299,
-          39.25045
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at US Bank",
-        "tag": "2056",
-        "stopId": "2056"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.9499699,
-          39.24949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Incline Skate Park at Hwy 28",
-        "tag": "2057",
-        "stopId": "2057"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.94674,
-          39.2488999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Village Blvd at Juanita Rd",
-        "tag": "2058",
-        "stopId": "2058"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.9497199,
-          39.24431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lakeshore Dr at Incline Beach",
-        "tag": "2059",
-        "stopId": "2059"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.9472399,
-          39.24031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Country Club Dr at Incline Way",
-        "tag": "2060",
-        "stopId": "2060"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.9403199,
-          39.24093
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Country Club Dr at Mill Creek",
-        "tag": "2061",
-        "stopId": "2061"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.9381199,
-          39.24248
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Northwood Blvd",
-        "tag": "2062",
-        "stopId": "2062"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.9464499,
-          39.2493099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Christmas Tree Village",
-        "tag": "2063",
-        "stopId": "2063"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.95521,
-          39.2498899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at 76 Gas Station",
-        "tag": "2064",
-        "stopId": "2064"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.96238,
-          39.2505299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at WInding Way",
-        "tag": "2065",
-        "stopId": "2065"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.9674199,
-          39.2509499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Ponderosa Ave",
-        "tag": "2066",
-        "stopId": "2066"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.97646,
-          39.2510699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Pinion Dr",
-        "tag": "2067",
-        "stopId": "2067"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.98286,
-          39.2498299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Red Cedar Ln",
-        "tag": "2068",
-        "stopId": "2068"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.9899299,
-          39.2495999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Amagosa Rd",
-        "tag": "2069",
-        "stopId": "2069"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0008299,
-          39.2401399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Chipmunk St",
-        "tag": "2070",
-        "stopId": "2070"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0165,
-          39.2340299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 Before Deer St (Chevron Station)",
-        "tag": "2072",
-        "stopId": "2072"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.02565,
-          39.2373099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Secline St",
-        "tag": "2074",
-        "stopId": "2074"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.02973,
-          39.2377999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at National Ave",
-        "tag": "2076",
-        "stopId": "2076"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0489999,
-          39.2397599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at End of 4 Lanes (Sands Motel)",
-        "tag": "2078",
-        "stopId": "2078"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0582499,
-          39.2404699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Stag Dr",
-        "tag": "2079",
-        "stopId": "2079"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.06264,
-          39.2374299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Agate Rd",
-        "tag": "2080",
-        "stopId": "2080"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0704499,
-          39.23549
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Old P.O. Coffee Shop",
-        "tag": "2081",
-        "stopId": "2081"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.07812,
-          39.2269099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at 7-11 Carnelian Bay (Shelter)",
-        "tag": "2082",
-        "stopId": "2082"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0814,
-          39.2268599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Center St",
-        "tag": "2083",
-        "stopId": "2083"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0839599,
-          39.22569
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Lardin Way",
-        "tag": "2085",
-        "stopId": "2085"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0936899,
-          39.2075499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Old County Rd",
-        "tag": "2086",
-        "stopId": "2086"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.09832,
-          39.1983399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Basecamp",
-        "tag": "2087",
-        "stopId": "2087"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.13722,
-          39.1746699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Timberland Dr (Rideout)",
-        "tag": "2092",
-        "stopId": "2092"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.16195,
-          39.12788
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 267 and Stewart Way",
-        "tag": "2132",
-        "stopId": "2132"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.03784,
-          39.2528099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Timberland Ln (Rideout Communty Center)",
-        "tag": "2201",
-        "stopId": "2201"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1655499,
-          39.12906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Fox St",
-        "tag": "2203",
-        "stopId": "2203"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.02038,
-          39.2354799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at KB State Beach",
-        "tag": "2205",
-        "stopId": "2205"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.02658,
-          39.23738
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Coon St (Lakeside)",
-        "tag": "2206",
-        "stopId": "2206"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0236399,
-          39.23627
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Fox St (Lakeside)",
-        "tag": "2207",
-        "stopId": "2207"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0206499,
-          39.23537
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 Across from Chipmunk St",
-        "tag": "2208",
-        "stopId": "2208"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0166699,
-          39.2338699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Coon St (7-11)",
-        "tag": "2209",
-        "stopId": "2209"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.02288,
-          39.2361999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Deer St WB",
-        "tag": "2211",
-        "stopId": "2211"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.02772,
-          39.2376199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at KB Safeway Store",
-        "tag": "2212",
-        "stopId": "2212"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.03417,
-          39.2383099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Anderson St",
-        "tag": "2213",
-        "stopId": "2213"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.05316,
-          39.24039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Grove St (Pharmacy)",
-        "tag": "2214",
-        "stopId": "2214"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1399099,
-          39.1719399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Timberland Ln (Rideout Community Center)",
-        "tag": "2218",
-        "stopId": "2218"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1655899,
-          39.12902
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Chase",
-        "tag": "2221",
-        "stopId": "2221"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.14463,
-          39.1618599
         ]
       }
     },
@@ -2464,548 +2989,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sawmill Heights (Employee Housing)",
-        "tag": "2232",
-        "stopId": "2232"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.10701,
-          39.2834499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 267 and Speckled St",
-        "tag": "2233",
-        "stopId": "2233"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.03034,
-          39.24345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 267 and Cambridge Dr",
-        "tag": "2234",
-        "stopId": "2234"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.0334,
-          39.24938
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brockway Rd at Reynold Way",
-        "tag": "2235",
-        "stopId": "2235"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1676499,
-          39.3237299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brockway Rd at Regional Park (Bus Shelter)",
-        "tag": "2236",
-        "stopId": "2236"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.17687,
-          39.3263899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brockway Rd at The Rock (Fifty-Fifty)",
-        "tag": "2237",
-        "stopId": "2237"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.16352,
-          39.3217799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Swigard's Hardware (Bus Shelter)",
-        "tag": "2246",
-        "stopId": "2246"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1441,
-          39.1684599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 89 at Bank of the West",
-        "tag": "2255",
-        "stopId": "2255"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.14377,
-          39.16528
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Gar Woods East Parking Lot",
-        "tag": "2260",
-        "stopId": "2260"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.08298,
-          39.2260199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 Across from Winding Way",
-        "tag": "2271",
-        "stopId": "2271"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.9680399,
-          39.2508099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Squaw Valley Rd and Squaw Creek Rd",
-        "tag": "2276",
-        "stopId": "2276"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.20466,
-          39.2059999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Edwin Rd at Henness Rd (Bus Shelter)",
-        "tag": "2902",
-        "stopId": "2902"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.17111,
-          39.3415099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd Cold Stream Rd",
-        "tag": "2928",
-        "stopId": "2928"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.22759,
-          39.3229099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Meadow Way (7-11)",
-        "tag": "2963",
-        "stopId": "2963"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.21019,
-          39.3261799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Donner Trail Rd",
-        "tag": "2964",
-        "stopId": "2964"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.21356,
-          39.3261899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Northwoods Blvd",
-        "tag": "2965",
-        "stopId": "2965"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.21874,
-          39.3258399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Highway Rd",
-        "tag": "2980",
-        "stopId": "2980"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.22222,
-          39.3255799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Donner Memorial State Park",
-        "tag": "2981",
-        "stopId": "2981"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.23273,
-          39.3248199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at East End Donner Lake",
-        "tag": "2982",
-        "stopId": "2982"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.23831,
-          39.3259999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Summit Dr",
-        "tag": "2983",
-        "stopId": "2983"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.24328,
-          39.3276099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Moraine Rd (Sticks Market)",
-        "tag": "2984",
-        "stopId": "2984"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.2512499,
-          39.3289499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at West End Boat Launch",
-        "tag": "2985",
-        "stopId": "2985"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.28359,
-          39.3251999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Donner Lake Village Resort",
-        "tag": "2986",
-        "stopId": "2986"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.2866,
-          39.3249999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at ACE Mountain Hardware",
-        "tag": "3009",
-        "stopId": "3009"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.20804,
-          39.3261599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Summit Dr",
-        "tag": "3029",
-        "stopId": "3029"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.24384,
-          39.3275499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Donner Memorial State Park",
-        "tag": "3030",
-        "stopId": "3030"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.23306,
-          39.3246799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Tri-Counties Bank Plaza",
-        "tag": "3035",
-        "stopId": "3035"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.2219,
-          39.3254199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Northwoods Blvd",
-        "tag": "3036",
-        "stopId": "3036"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.21788,
-          39.3257199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Donner Trail Rd",
-        "tag": "3037",
-        "stopId": "3037"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.21289,
-          39.3260199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Westgate Center (Wild Cherries)",
-        "tag": "3038",
-        "stopId": "3038"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.2103799,
-          39.326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Estates Dr at Senior Apartments",
-        "tag": "3040",
-        "stopId": "3040"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1686,
-          39.3268699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Donner Lake Village Resort",
-        "tag": "3041",
-        "stopId": "3041"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.28662,
-          39.3247999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at West End Boat Launch",
-        "tag": "3042",
-        "stopId": "3042"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.28239,
-          39.3248599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Moraine Rd (Sticks Market)",
-        "tag": "3043",
-        "stopId": "3043"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.2544,
-          39.3289399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Donner Pass Rd at Recreation Center",
-        "tag": "3046",
-        "stopId": "3046"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.17372,
-          39.3385499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Tunnel Creek Bonanza (Depart)",
-        "tag": "3048",
-        "stopId": "3048"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.92888,
-          39.2367799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Squaw Valley Rd at Clock Tower",
-        "tag": "1955_ar"
+        "tag": "405_ar"
       },
       "geometry": {
         "type": "Point",
@@ -3060,42 +3045,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sugar Pine Point State Park",
-        "tag": "2091_ar"
+        "title": "Tunnel Creek Bonanza (Arrive)",
+        "tag": "3049_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.12273,
-          39.0576999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Depart",
-        "tag": "1837_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.94373,
-          39.2393299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Arrive",
-        "tag": "1747_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.94377,
-          39.2393499
+          -119.92895,
+          39.2366799
         ]
       }
     },
@@ -3116,14 +3073,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Tunnel Creek Bonanza (Arrive)",
-        "tag": "3049_ar"
+        "title": "Sugar Pine Point State Park",
+        "tag": "2091_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.92895,
-          39.2366799
+          -120.12273,
+          39.0576999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Arrive",
+        "tag": "1747_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.94377,
+          39.2393499
         ]
       }
     },
@@ -3131,7 +3102,7 @@
       "type": "Feature",
       "properties": {
         "title": "Northstar Village Gate # 7",
-        "tag": "1900_ar"
+        "tag": "504_ar"
       },
       "geometry": {
         "type": "Point",
@@ -3145,7 +3116,7 @@
       "type": "Feature",
       "properties": {
         "title": "Donner Pass Rd at South Shore Dr (Bus Shelter)",
-        "tag": "3039_ar"
+        "tag": "632_ar"
       },
       "geometry": {
         "type": "Point",
@@ -3158,22 +3129,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Estates Dr at Senior Apartments",
-        "tag": "3040_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.1686,
-          39.3268699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Edwin Rd at Henness Rd (Bus Shelter)",
-        "tag": "2902_ar"
+        "tag": "614_ar"
       },
       "geometry": {
         "type": "Point",
@@ -3186,8 +3143,22 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Squaw Parking Lot at Village (Shelter in Building)",
+        "tag": "406_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2328,
+          39.1970399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Hwy 89 at Tahoma Post Office (Lodge)",
-        "tag": "1824_ar"
+        "tag": "122_ar"
       },
       "geometry": {
         "type": "Point",
@@ -3198,5 +3169,5 @@
       }
     }
   ],
-  "copyright": "All data copyright Tahoe Truckee Area Regional Transit 2019."
+  "copyright": "All data copyright Tahoe Truckee Area Regional Transit 2020."
 }

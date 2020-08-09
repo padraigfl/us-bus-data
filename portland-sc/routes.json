@@ -39,10 +39,6 @@
           "10778",
           "8989_ar"
         ],
-        "B Loop to Lloyd via OMSI": [
-          "10752",
-          "10753_ar"
-        ],
         "NS Line to South Waterfront": [
           "8989",
           "3596",
@@ -66,6 +62,10 @@
           "12760",
           "12880",
           "12881_ar"
+        ],
+        "B Loop to Lloyd via OMSI": [
+          "10752",
+          "10753_ar"
         ]
       },
       "scheduledStops": {
@@ -102,12 +102,12 @@
       "scheduledTimeRange": {
         "B Loop to Lloyd via OMSI": {
           "MoTuWeThFr": {
-            "first": "06:01:00",
-            "last": "07:16:00"
+            "first": "06:02:00",
+            "last": "06:42:00"
           },
           "Saturday": {
-            "first": "07:43:00",
-            "last": "08:25:00"
+            "first": "07:17:00",
+            "last": "07:57:00"
           },
           "Sunday": {
             "first": "07:17:00",
@@ -116,33 +116,42 @@
         },
         "NS Line to NW 23rd Ave": {
           "MoTuWeThFr": {
-            "first": "05:43:00",
-            "last": "23:17:00"
+            "first": "05:44:00",
+            "last": "22:32:00"
           },
           "Saturday": {
             "first": "07:21:00",
-            "last": "23:14:00"
+            "last": "22:26:00"
           },
           "Sunday": {
             "first": "07:21:00",
-            "last": "22:27:00"
+            "last": "22:26:00"
           }
         },
         "NS Line to South Waterfront": {
           "MoTuWeThFr": {
-            "first": "05:47:00",
-            "last": "22:32:00"
+            "first": "05:48:00",
+            "last": "21:48:00"
           },
           "Saturday": {
-            "first": "07:24:00",
-            "last": "22:30:00"
+            "first": "07:25:00",
+            "last": "21:44:00"
           },
           "Sunday": {
             "first": "07:25:00",
             "last": "21:44:00"
           }
         },
-        "NS Line to SW 10th & Clay": {}
+        "NS Line to SW 10th & Clay": {
+          "Saturday": {
+            "first": "22:06:00",
+            "last": "22:06:00"
+          },
+          "Sunday": {
+            "first": "22:06:00",
+            "last": "22:06:00"
+          }
+        }
       }
     },
     "194": {
@@ -160,22 +169,8 @@
       ],
       "stops": {
         "A Loop to PSU via OMSI": [
-          "13606",
-          "13607",
-          "13608",
-          "13609",
-          "13610",
-          "13611",
-          "13612",
-          "5912",
-          "5901",
-          "13613",
-          "13584",
-          "13585",
-          "13614",
-          "5933",
-          "13709",
-          "13602_ar"
+          "10752",
+          "13606_ar"
         ],
         "A Loop to Lloyd via Pearl": [
           "13709",
@@ -195,7 +190,76 @@
           "13606_ar"
         ]
       },
-      "scheduledStops": {}
+      "scheduledStops": {
+        "inbound": [
+          "13709",
+          "13602",
+          "12379",
+          "12380",
+          "12382",
+          "10764",
+          "10766",
+          "10765",
+          "6493",
+          "10767",
+          "10768",
+          "10770",
+          "10772",
+          "10773",
+          "13606_ar"
+        ],
+        "outbound": [
+          "10752",
+          "13606_ar",
+          "13606",
+          "13607",
+          "13608",
+          "13609",
+          "13610",
+          "13611",
+          "13612",
+          "5912",
+          "5901",
+          "13613",
+          "13584",
+          "13585",
+          "13614",
+          "5933",
+          "13709_ar",
+          "13709",
+          "13602_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "A Loop to Lloyd via Pearl": {
+          "MoTuWeThFr": {
+            "first": "06:40:00",
+            "last": "21:41:00"
+          },
+          "Saturday": {
+            "first": "07:36:00",
+            "last": "21:17:00"
+          },
+          "Sunday": {
+            "first": "07:36:00",
+            "last": "21:17:00"
+          }
+        },
+        "A Loop to PSU via OMSI": {
+          "MoTuWeThFr": {
+            "first": "06:10:00",
+            "last": "22:13:00"
+          },
+          "Saturday": {
+            "first": "07:07:00",
+            "last": "21:49:00"
+          },
+          "Sunday": {
+            "first": "07:07:00",
+            "last": "21:49:00"
+          }
+        }
+      }
     },
     "195": {
       "title": "B Loop",
@@ -287,12 +351,12 @@
       "scheduledTimeRange": {
         "B Loop to Lloyd via OMSI": {
           "MoTuWeThFr": {
-            "first": "06:03:00",
-            "last": "22:24:00"
+            "first": "06:04:00",
+            "last": "22:18:00"
           },
           "Saturday": {
-            "first": "07:45:00",
-            "last": "22:25:00"
+            "first": "07:19:00",
+            "last": "21:39:00"
           },
           "Sunday": {
             "first": "07:19:00",
@@ -301,19 +365,18 @@
         },
         "B Loop to PSU via Pearl": {
           "MoTuWeThFr": {
-            "first": "06:27:00",
-            "last": "22:33:00"
+            "first": "06:32:00",
+            "last": "21:48:00"
           },
           "Saturday": {
-            "first": "08:12:00",
-            "last": "21:55:00"
+            "first": "07:47:00",
+            "last": "21:09:00"
           },
           "Sunday": {
             "first": "07:47:00",
             "last": "21:09:00"
           }
-        },
-        "B Loop to SW 10th & Clay": {}
+        }
       }
     },
     "193Yard": {
@@ -384,12 +447,12 @@
       "scheduledTimeRange": {
         "NS Line to NW Lovejoy & 18th": {
           "MoTuWeThFr": {
-            "first": "19:19:00",
-            "last": "23:52:00"
+            "first": "22:08:00",
+            "last": "23:10:00"
           },
           "Saturday": {
-            "first": "19:17:00",
-            "last": "23:50:00"
+            "first": "22:24:00",
+            "last": "23:04:00"
           },
           "Sunday": {
             "first": "22:24:00",
@@ -398,71 +461,18 @@
         },
         "NS Line to NW Northrup & 14th": {
           "MoTuWeThFr": {
-            "first": "18:52:00",
-            "last": "22:55:00"
+            "first": "22:01:00",
+            "last": "22:45:00"
           },
           "Saturday": {
-            "first": "18:37:00",
-            "last": "23:12:00"
+            "first": "21:40:00",
+            "last": "22:19:00"
           },
           "Sunday": {
             "first": "21:40:00",
             "last": "22:19:00"
           }
         }
-      }
-    },
-    "195NW": {
-      "title": "B NW",
-      "color": "0099cc",
-      "tag": "195NW",
-      "oppositeColor": "ffffff",
-      "max": [
-        45.5350299,
-        -122.66055
-      ],
-      "min": [
-        45.5070399,
-        -122.68136
-      ],
-      "stops": {
-        "B Loop to NW 23rd Ave": [
-          "13615",
-          "2171",
-          "13616",
-          "11483",
-          "11484",
-          "13597",
-          "2167",
-          "2169",
-          "2175",
-          "9343",
-          "13617",
-          "13618",
-          "13619",
-          "13604_ar"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "13615",
-          "2171",
-          "13616",
-          "11483",
-          "11484",
-          "13597",
-          "2167",
-          "2169",
-          "2175",
-          "9343",
-          "13617",
-          "13618",
-          "13619",
-          "13604_ar"
-        ]
-      },
-      "scheduledTimeRange": {
-        "B Loop to NW 23rd Ave": {}
       }
     },
     "195Yard": {
@@ -539,12 +549,12 @@
       "scheduledTimeRange": {
         "B Loop to NW Northrup & 14th": {
           "MoTuWeThFr": {
-            "first": "12:27:00",
-            "last": "22:52:00"
+            "first": "22:13:00",
+            "last": "22:48:00"
           },
           "Saturday": {
-            "first": "22:12:00",
-            "last": "22:53:00"
+            "first": "21:27:00",
+            "last": "22:08:00"
           },
           "Sunday": {
             "first": "21:27:00",
@@ -554,5 +564,5 @@
       }
     }
   },
-  "copyright": "All data copyright Portland Streetcar 2019."
+  "copyright": "All data copyright Portland Streetcar 2020."
 }

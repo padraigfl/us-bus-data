@@ -41,7 +41,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.38332,
+          -118.3833199,
           34.0818699
         ]
       }
@@ -56,7 +56,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.3841699,
+          -118.38417,
           34.0852699
         ]
       }
@@ -641,8 +641,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.34438,
-          34.0908099
+          -118.3445699,
+          34.0908499
         ]
       }
     },
@@ -656,8 +656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.34666,
-          34.09081
+          -118.3465599,
+          34.0908599
         ]
       }
     },
@@ -1046,8 +1046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.38392,
-          34.08445
+          -118.3839199,
+          34.0844499
         ]
       }
     },
@@ -1189,21 +1189,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Monica/Sweetzer",
-        "tag": "S76_ar",
-        "stopId": "523"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.37044,
-          34.0905899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Hollywood/Highland",
         "tag": "S80",
         "stopId": "603"
@@ -1294,15 +1279,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Monica/Gardner",
-        "tag": "S72_ar",
-        "stopId": "503"
+        "title": "Santa Monica/Fairfax",
+        "tag": "S34_ar",
+        "stopId": "211"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.35357,
-          34.0909099
+          -118.36133,
+          34.0909199
         ]
       }
     },
@@ -1429,21 +1414,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Monica/Crescent Heights",
-        "tag": "S77_ar",
-        "stopId": "525"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.36559,
-          34.0906499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Sunset/Horn",
         "tag": "SUN17",
         "stopId": "816"
@@ -1451,7 +1421,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.3829199,
+          -118.38292,
           34.09082
         ]
       }
@@ -1466,8 +1436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.37965,
-          34.0921799
+          -118.3796499,
+          34.09218
         ]
       }
     },
@@ -1481,8 +1451,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.3779599,
-          34.09318
+          -118.37796,
+          34.0931799
         ]
       }
     },
@@ -1549,8 +1519,23 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Santa Monica/Crescent Heights",
+        "tag": "S77_ar",
+        "stopId": "525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.36559,
+          34.0906499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Fairfax/Santa Monica Blvd.",
-        "tag": "SUN25_ar",
+        "tag": "SUN25",
         "stopId": "824"
       },
       "geometry": {
@@ -1572,7 +1557,7 @@
         "type": "Point",
         "coordinates": [
           -118.36138,
-          34.0947499
+          34.09475
         ]
       }
     },
@@ -1586,7 +1571,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.3618699,
+          -118.36187,
           34.0981799
         ]
       }
@@ -1601,7 +1586,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.36548,
+          -118.3654799,
           34.0981399
         ]
       }
@@ -1616,8 +1601,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.36897,
-          34.0973599
+          -118.3689699,
+          34.09736
         ]
       }
     },
@@ -1646,7 +1631,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.3725899,
+          -118.37259,
           34.0954199
         ]
       }
@@ -1691,8 +1676,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.3832199,
-          34.09092
+          -118.38322,
+          34.0909199
         ]
       }
     },
@@ -1722,40 +1707,25 @@
         "type": "Point",
         "coordinates": [
           -118.3874599,
-          34.09076
+          34.0907599
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Melrose/Robertson",
-        "tag": "SUN12",
-        "stopId": "811"
+        "title": "Santa Monica/La Peer",
+        "tag": "S81_ar",
+        "stopId": "604"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.3856099,
-          34.08077
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "San Vicente/Melrose",
-        "tag": "S2_ar",
-        "stopId": "102"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.38332,
-          34.0818699
+          -118.38651,
+          34.0831199
         ]
       }
     }
   ],
-  "copyright": "All data copyright City of West Hollywood 2019."
+  "copyright": "All data copyright City of West Hollywood 2020."
 }

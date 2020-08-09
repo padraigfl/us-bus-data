@@ -4,51 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Del Amo Station",
-        "tag": "80109_0",
-        "stopId": "80109"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.21102,
-          33.8482199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Artesia Station",
-        "tag": "80110_0",
-        "stopId": "80110"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2225,
-          33.8760799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Compton Station",
-        "tag": "80111_0",
-        "stopId": "80111"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.22425,
-          33.8974899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Downtown Long Beach Station",
         "tag": "80101_0",
         "stopId": "80101"
@@ -133,6 +88,381 @@
         "coordinates": [
           -118.19609,
           33.8198599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Del Amo Station",
+        "tag": "80109_0",
+        "stopId": "80109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21102,
+          33.8482199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Artesia Station",
+        "tag": "80110_0",
+        "stopId": "80110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2225,
+          33.8760799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Compton Station",
+        "tag": "80111_0",
+        "stopId": "80111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22425,
+          33.8974899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Willowbrook - Rosa Parks Station - Metro A Line (Blue)",
+        "tag": "80112_0",
+        "stopId": "80112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23755,
+          33.9280499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "103rd Street / Watts Towers Station",
+        "tag": "80113_0",
+        "stopId": "80113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24316,
+          33.9422199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Firestone Station",
+        "tag": "80114_0",
+        "stopId": "80114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2432,
+          33.9596099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Florence Station",
+        "tag": "80115_0",
+        "stopId": "80115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24327,
+          33.9737399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Slauson Station",
+        "tag": "80116_0",
+        "stopId": "80116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2434,
+          33.9887599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vernon Station",
+        "tag": "80117_0",
+        "stopId": "80117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2433,
+          34.0029199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Washington Station",
+        "tag": "80118_0",
+        "stopId": "80118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24308,
+          34.0196499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Pedro Street Station",
+        "tag": "80119_0",
+        "stopId": "80119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2555,
+          34.0268099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grand / Lattc Station",
+        "tag": "80120_0",
+        "stopId": "80120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.26933,
+          34.0331599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pico Station",
+        "tag": "80121_0",
+        "stopId": "80121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.26612,
+          34.0407299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "7th Street / Metro Center Station - Metro A Line (Blue) & E Line (Expo)",
+        "tag": "80122_0",
+        "stopId": "80122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25882,
+          34.0486099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "7th Street / Metro Center Station - Metro A Line (Blue) & E Line (Expo)",
+        "tag": "80122_1",
+        "stopId": "80122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25882,
+          34.0486099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pico Station",
+        "tag": "80121_1",
+        "stopId": "80121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.26612,
+          34.0407299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grand / Lattc Station",
+        "tag": "80120_1",
+        "stopId": "80120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.26933,
+          34.0331599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Pedro Street Station",
+        "tag": "80119_1",
+        "stopId": "80119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2555,
+          34.0268099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Washington Station",
+        "tag": "80118_1",
+        "stopId": "80118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24308,
+          34.0196499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vernon Station",
+        "tag": "80117_1",
+        "stopId": "80117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2433,
+          34.0029199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Slauson Station",
+        "tag": "80116_1",
+        "stopId": "80116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2434,
+          33.9887599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Florence Station",
+        "tag": "80115_1",
+        "stopId": "80115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24327,
+          33.9737399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Firestone Station",
+        "tag": "80114_1",
+        "stopId": "80114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2432,
+          33.9596099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "103rd Street / Watts Towers Station",
+        "tag": "80113_1",
+        "stopId": "80113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24316,
+          33.9422199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Willowbrook - Rosa Parks Station - Metro A Line (Blue)",
+        "tag": "80112_1",
+        "stopId": "80112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23755,
+          33.9280499
         ]
       }
     },
@@ -2254,66 +2584,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Pico Station",
-        "tag": "80121_0",
-        "stopId": "80121"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.26612,
-          34.0407299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "7th Street / Metro Center Station - Metro Blue & Expo Lines",
-        "tag": "80122_0",
-        "stopId": "80122"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.25882,
-          34.0486099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "7th Street / Metro Center Station - Metro Blue & Expo Lines",
-        "tag": "80122_1",
-        "stopId": "80122"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.25882,
-          34.0486099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pico Station",
-        "tag": "80121_1",
-        "stopId": "80121"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.26612,
-          34.0407299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Lattc / Ortho Institute Station",
         "tag": "80123_1",
         "stopId": "80123"
@@ -2567,5 +2837,5 @@
       }
     }
   ],
-  "copyright": "All data copyright Los Angeles Rail 2019."
+  "copyright": "All data copyright Los Angeles Rail 2020."
 }

@@ -4,15 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hutchison Dr & Old Davis Road (EB)",
+        "title": "Hutchison Drive & Old Davis Road (EB)",
         "tag": "22000",
         "stopId": "000"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74605,
-          38.5400299
+          -121.7460499,
+          38.54003
         ]
       }
     },
@@ -64,7 +64,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Richards Blvd & Olive Dr (SB)",
+        "title": "Richards Blvd & Olive Drive (SB)",
         "tag": "22004",
         "stopId": "004"
       },
@@ -86,8 +86,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7439099,
+          -121.74391,
           38.54266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "C St & 1st St (SB)",
+        "tag": "22006",
+        "stopId": "006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.74309,
+          38.54191
         ]
       }
     },
@@ -101,8 +116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7411799,
-          38.54314
+          -121.74118,
+          38.5431399
         ]
       }
     },
@@ -116,8 +131,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7470999,
-          38.54613
+          -121.7471,
+          38.5461299
         ]
       }
     },
@@ -131,30 +146,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74093,
-          38.5433299
+          -121.7409299,
+          38.54333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Pole Line & S Diameter Dr (NB)",
-        "tag": "22010",
-        "stopId": "010"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.7267099,
-          38.5502999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "H St & Amtrak Station (NB)",
+        "title": "H St & 2nd St / Amtrak (NB)",
         "tag": "22011",
         "stopId": "011"
       },
@@ -169,7 +169,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "H St Alley & 2nd St (SB)",
+        "title": "H St & 2nd St / Amtrak (SB)",
         "tag": "22012",
         "stopId": "012"
       },
@@ -184,14 +184,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "B St & 4th St (NB)",
+        "title": "B St & 4th St / Central Park (NB)",
         "tag": "22013",
         "stopId": "013"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7448699,
+          -121.74487,
           38.5448999
         ]
       }
@@ -199,7 +199,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "B St & 4th St  (SB)",
+        "title": "B St & 4th St / Central Park (SB)",
         "tag": "22014",
         "stopId": "014"
       },
@@ -281,7 +281,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7406999,
+          -121.7407,
           38.5456899
         ]
       }
@@ -304,14 +304,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Russell Blvd & A St (WB)",
+        "title": "Russell Blvd & A Street/City Hall (WB)",
         "tag": "22021",
         "stopId": "021"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7468699,
+          -121.74687,
           38.5463799
         ]
       }
@@ -356,8 +356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.74606,
-          38.54965
+          -121.7460599,
+          38.5496499
         ]
       }
     },
@@ -401,7 +401,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7414299,
+          -121.74143,
           38.5487899
         ]
       }
@@ -446,8 +446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.73509,
-          38.5457499
+          -121.7350899,
+          38.54575
         ]
       }
     },
@@ -476,8 +476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7343399,
-          38.5477399
+          -121.73434,
+          38.54774
         ]
       }
     },
@@ -491,15 +491,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.73405,
-          38.54742
+          -121.7340499,
+          38.5474199
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Cowell Blvd & Research Park S Dr (WB)",
+        "title": "Cowell Blvd & Research Park Drive (WB)",
         "tag": "22034",
         "stopId": "034"
       },
@@ -514,7 +514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cowell Blvd & Research Park S Dr (EB)",
+        "title": "Cowell Blvd & Research Park Drive (EB)",
         "tag": "22035",
         "stopId": "035"
       },
@@ -529,7 +529,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cowell Blvd & Drew Ave (WB)",
+        "title": "Cowell Blvd & Drew Ave/Kaiser (WB)",
         "tag": "22036",
         "stopId": "036"
       },
@@ -544,7 +544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cowell Blvd & Drew Ave (EB)",
+        "title": "Cowell Blvd & Drew Ave/Kaiser (EB)",
         "tag": "22037",
         "stopId": "037"
       },
@@ -559,7 +559,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cowell Blvd & Valdora St (WB)",
+        "title": "Cowell Blvd & Valdora Street/Safeway (WB)",
         "tag": "22038",
         "stopId": "038"
       },
@@ -619,7 +619,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lillard Dr & Farragut Cir (WB)",
+        "title": "Lillard Drive & Farragut Circle (WB)",
         "tag": "22042",
         "stopId": "042"
       },
@@ -634,7 +634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lillard Dr & Evans Ct (WB)",
+        "title": "Lillard Drive & Evans Court (WB)",
         "tag": "22043",
         "stopId": "043"
       },
@@ -649,7 +649,22 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cowell Blvd & Halsey Cir (WB)",
+        "title": "Pole Line & S Diameter Drive (NB)",
+        "tag": "22044",
+        "stopId": "044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7267099,
+          38.5502999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cowell Blvd & Halsey Circle (WB)",
         "tag": "22045",
         "stopId": "045"
       },
@@ -664,7 +679,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Drummond Ave & Lillard Dr (SB)",
+        "title": "Drummond Ave & Lillard Drive (SB)",
         "tag": "22046",
         "stopId": "046"
       },
@@ -694,7 +709,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cowell Blvd & Drummond Ave (EB)",
+        "title": "Cowell Blvd & Drummond Avenue (EB)",
         "tag": "22048",
         "stopId": "048"
       },
@@ -709,7 +724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cowell Blvd & Ohlone St (EB)",
+        "title": "Cowell Blvd & Ohlone Street (EB)",
         "tag": "22051",
         "stopId": "051"
       },
@@ -724,7 +739,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cowell Blvd & Ohlone St (WB)",
+        "title": "Cowell Blvd & Ohlone Street (WB)",
         "tag": "22052",
         "stopId": "052"
       },
@@ -754,7 +769,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cowell Blvd & La Vida (EB)",
+        "title": "Cowell Blvd & La Vida Way (EB)",
         "tag": "22054",
         "stopId": "054"
       },
@@ -769,7 +784,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cowell Blvd & Ensenada Dr (WB)",
+        "title": "Cowell Blvd & Ensenada Drive (WB)",
         "tag": "22055",
         "stopId": "055"
       },
@@ -784,7 +799,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cowell Blvd & Ensenada Dr (EB)",
+        "title": "Cowell Blvd & Ensenada Drive (EB)",
         "tag": "22056",
         "stopId": "056"
       },
@@ -799,7 +814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cowell Blvd & Sunrise Ct (EB)",
+        "title": "Cowell Blvd & Sunrise Court (EB)",
         "tag": "22057",
         "stopId": "057"
       },
@@ -814,7 +829,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cowell Blvd & Sunrise (WB)",
+        "title": "Cowell Blvd & Sunrise Court (WB)",
         "tag": "22058",
         "stopId": "058"
       },
@@ -829,7 +844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mace Blvd & Chiles Rd (SB)",
+        "title": "Mace Blvd & Chiles Road/El Macero/Nugget (SB)",
         "tag": "22059",
         "stopId": "059"
       },
@@ -844,7 +859,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mace Blvd & Cowell Blvd (NB)",
+        "title": "Mace Blvd & Cowell Blvd/El Macero/Nugget (NB)",
         "tag": "22060",
         "stopId": "060"
       },
@@ -859,7 +874,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Chiles Rd & Mace Blvd (EB)",
+        "title": "Chiles Rd & Mace Blvd El Macero/Nugget (EB)",
         "tag": "22061",
         "stopId": "061"
       },
@@ -874,7 +889,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "El Cemonte Ave & Glide Dr (SB)",
+        "title": "El Cemonte Ave & Glide Drive (SB)",
         "tag": "22062",
         "stopId": "062"
       },
@@ -911,7 +926,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.6925799,
+          -121.69258,
           38.5488399
         ]
       }
@@ -919,7 +934,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Alhambra Dr & Mace Blvd (WB)",
+        "title": "Alhambra Drive & Mace Blvd (WB)",
         "tag": "22065",
         "stopId": "065"
       },
@@ -934,7 +949,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Alhambra Dr & Mace Blvd (EB)",
+        "title": "Alhambra Drive & Mace Blvd (EB)",
         "tag": "22066",
         "stopId": "066"
       },
@@ -949,7 +964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Alhambra Dr & 5th St (EB)",
+        "title": "Alhambra Drive & 5th St (EB)",
         "tag": "22067",
         "stopId": "067"
       },
@@ -971,8 +986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.70536,
-          38.5568899
+          -121.7053599,
+          38.55689
         ]
       }
     },
@@ -1024,7 +1039,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "5th St & Cantrill (WB)",
+        "title": "5th St & Cantrill/Greystone (WB)",
         "tag": "22072",
         "stopId": "072"
       },
@@ -1039,7 +1054,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "5th St & Cantrill  (EB)",
+        "title": "5th St & Cantrill/Police Station  (EB)",
         "tag": "22073",
         "stopId": "073"
       },
@@ -1062,7 +1077,7 @@
         "type": "Point",
         "coordinates": [
           -121.7255299,
-          38.5490399
+          38.54904
         ]
       }
     },
@@ -1084,7 +1099,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "5th St & Pole Line Rd (EB)",
+        "title": "5th St & Pole Line Rd/D.M.V (EB)",
         "tag": "22076",
         "stopId": "076"
       },
@@ -1099,7 +1114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "5th St & Pole Line Rd (WB)",
+        "title": "5th St & Pole Line Rd/D.M.V (WB)",
         "tag": "22077",
         "stopId": "077"
       },
@@ -1107,21 +1122,21 @@
         "type": "Point",
         "coordinates": [
           -121.72777,
-          38.5488299
+          38.54883
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "5th St & Davis PW Corp Yard (WB)",
+        "title": "5th St & Davis Public Works Corp Yard (WB)",
         "tag": "22078",
         "stopId": "078"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7308,
+          -121.7307999,
           38.5488999
         ]
       }
@@ -1129,7 +1144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Covell Blvd & Alhambra Dr (EB)",
+        "title": "Covell Blvd & Alhambra Drive (EB)",
         "tag": "22079",
         "stopId": "079"
       },
@@ -1159,15 +1174,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Dr & Balsam Pl (WB)",
+        "title": "Temple Drive & Balsam Pl (WB)",
         "tag": "22082",
         "stopId": "082"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7171999,
-          38.56198
+          -121.7172,
+          38.5619799
         ]
       }
     },
@@ -1189,7 +1204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Loyola Dr & Whittier Dr (WB)",
+        "title": "Loyola Drive & Whittier Drive (WB)",
         "tag": "22087",
         "stopId": "087"
       },
@@ -1204,7 +1219,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Loyola Dr & Nutmeg Ln (WB)",
+        "title": "Loyola Drive & Nutmeg Ln (WB)",
         "tag": "22088",
         "stopId": "088"
       },
@@ -1219,14 +1234,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Loyola Dr & Regis Dr (WB)",
+        "title": "Loyola Drive & Regis Dr (WB)",
         "tag": "22091",
         "stopId": "091"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.72031,
+          -121.7203099,
           38.5578999
         ]
       }
@@ -1234,7 +1249,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Pole Line Rd & Claremont Dr (NB)",
+        "title": "Pole Line Rd & Claremont Drive (NB)",
         "tag": "22092",
         "stopId": "092"
       },
@@ -1257,7 +1272,7 @@
         "type": "Point",
         "coordinates": [
           -121.72726,
-          38.55396
+          38.5539599
         ]
       }
     },
@@ -1309,22 +1324,22 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "J St & Menlo Dr (SB)",
+        "title": "J St & Cranbrook Ct (SB)",
         "tag": "22099",
         "stopId": "099"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.73908,
-          38.5591699
+          -121.73871,
+          38.5597599
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "J St & Drexel Dr (SB)",
+        "title": "J St & Drexel Drive/Holmes Junior High (SB)",
         "tag": "22100",
         "stopId": "100"
       },
@@ -1354,14 +1369,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "8th St & Chestnut Ln (EB)",
+        "title": "8th St & Chestnut Lane/Grocery Outlet (EB)",
         "tag": "22102",
         "stopId": "102"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7303399,
+          -121.73034,
           38.55329
         ]
       }
@@ -1369,7 +1384,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "8th St & Chestnut Ln (WB)",
+        "title": "8th St & Chestnut Lane/Grocery Outlet (WB)",
         "tag": "22103",
         "stopId": "103"
       },
@@ -1391,8 +1406,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7354399,
-          38.55267
+          -121.73544,
+          38.5526699
         ]
       }
     },
@@ -1406,8 +1421,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.73436,
-          38.5527799
+          -121.7343599,
+          38.55278
         ]
       }
     },
@@ -1571,8 +1586,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7412699,
-          38.55142
+          -121.74127,
+          38.5514199
         ]
       }
     },
@@ -1601,7 +1616,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7440099,
+          -121.74401,
           38.55093
         ]
       }
@@ -1624,7 +1639,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "14th St & B St (WB)",
+        "title": "14th St & B St/Library (WB)",
         "tag": "22123",
         "stopId": "123"
       },
@@ -1639,7 +1654,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "14th St & B St (EB)",
+        "title": "14th St & B St/Library (EB)",
         "tag": "22124",
         "stopId": "124"
       },
@@ -1654,7 +1669,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "14th St & Davis HS (WB)",
+        "title": "14th St & Davis High School (WB)",
         "tag": "22125",
         "stopId": "125"
       },
@@ -1669,7 +1684,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Catalina Dr & Alvarado Ave (NB)",
+        "title": "Catalina Drive & Alvarado Ave (NB)",
         "tag": "22126",
         "stopId": "126"
       },
@@ -1969,7 +1984,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "14th St & Oak St (EB)",
+        "title": "14th St & Oak St/Davis High School (EB)",
         "tag": "22146",
         "stopId": "146"
       },
@@ -2014,7 +2029,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Villanova Dr & Reed Dr (WB)",
+        "title": "Villanova Drive & Reed Drive (WB)",
         "tag": "22149",
         "stopId": "149"
       },
@@ -2029,7 +2044,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Villanova Dr & Anderson Rd (EB)",
+        "title": "Villanova Drive & Anderson Rd (EB)",
         "tag": "22150",
         "stopId": "150"
       },
@@ -2044,7 +2059,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Anderson Rd & Villanova Dr (NB)",
+        "title": "Anderson Rd & Villanova Drive (NB)",
         "tag": "22153",
         "stopId": "153"
       },
@@ -2059,7 +2074,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Anderson Rd & Hanover Dr (NB)",
+        "title": "Anderson Rd & Hanover Drive/Anderson Plaza/SaveMart (NB)",
         "tag": "22154",
         "stopId": "154"
       },
@@ -2074,7 +2089,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Anderson Rd & Hanover Dr (SB)",
+        "title": "Anderson Rd & Hanover Drive/Anderson Plaza/SaveMart (SB)",
         "tag": "22155",
         "stopId": "155"
       },
@@ -2089,7 +2104,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Anderson Rd & Villanova Dr (SB)",
+        "title": "Anderson Rd & Villanova Drive (SB)",
         "tag": "22156",
         "stopId": "156"
       },
@@ -2104,7 +2119,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Anderson Rd & Amherst Dr (NB)",
+        "title": "Anderson Rd & Amherst Drive (NB)",
         "tag": "22157",
         "stopId": "157"
       },
@@ -2119,7 +2134,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Anderson Rd & Amherst Dr (SB)",
+        "title": "Anderson Rd & Amherst Drive (SB)",
         "tag": "22158",
         "stopId": "158"
       },
@@ -2164,7 +2179,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Oak Ave & Antioch Dr (NB)",
+        "title": "Oak Ave & Antioch Drive (NB)",
         "tag": "22161",
         "stopId": "161"
       },
@@ -2179,7 +2194,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Oak Ave & Antioch Dr (SB)",
+        "title": "Oak Ave & Antioch Drive (SB)",
         "tag": "22162",
         "stopId": "162"
       },
@@ -2254,22 +2269,22 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hutchison & Shields Library (WB)",
+        "title": "Hutchison Drive & Shields Library (WB)",
         "tag": "22168",
         "stopId": "168"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7489199,
-          38.53929
+          -121.74892,
+          38.5392899
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Hutchison Dr & Art Building (EB)",
+        "title": "Hutchison Drive & Art Building (EB)",
         "tag": "22169",
         "stopId": "169"
       },
@@ -2299,7 +2314,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hutchison Dr & Bioletti Way (EB)",
+        "title": "Hutchison Drive & Bioletti Way (EB)",
         "tag": "22173",
         "stopId": "173"
       },
@@ -2314,7 +2329,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lillard Dr & Evans Ct (EB)",
+        "title": "Lillard Drive & Evans Ct (EB)",
         "tag": "22174",
         "stopId": "174"
       },
@@ -2359,7 +2374,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Russell Blvd & Sycamore Ln (EB)",
+        "title": "Russell Blvd & Sycamore Lane/Trader Joes (EB)",
         "tag": "22177",
         "stopId": "177"
       },
@@ -2374,7 +2389,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Russell Blvd & Sycamore Ln (WB)",
+        "title": "Russell Blvd & Sycamore Lane/Trader Joes (WB)",
         "tag": "22178",
         "stopId": "178"
       },
@@ -2389,7 +2404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sycamore Ln & Wake Forest Dr (SB)",
+        "title": "Sycamore Ln & Wake Forest Drive (SB)",
         "tag": "22179",
         "stopId": "179"
       },
@@ -2404,7 +2419,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Wake Forest Dr & Oxford Cir (EB)",
+        "title": "Wake Forest Drive & Oxford Circle/Cuarto Dorms (EB)",
         "tag": "22181",
         "stopId": "181"
       },
@@ -2419,7 +2434,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Wake Forest Dr & 8th Street (SB)",
+        "title": "Wake Forest Drive & 8th Street (SB)",
         "tag": "22182",
         "stopId": "182"
       },
@@ -2464,7 +2479,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sycamore Ln & Villanova Dr (NB)",
+        "title": "Sycamore Ln & Villanova Drive (NB)",
         "tag": "22186",
         "stopId": "186"
       },
@@ -2479,7 +2494,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sycamore Ln & Colby Dr. (SB)",
+        "title": "Sycamore Ln & Colby Drive (SB)",
         "tag": "22187",
         "stopId": "187"
       },
@@ -2494,7 +2509,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sycamore Ln & Bucknell Dr (NB)",
+        "title": "Sycamore Ln & Bucknell Drive (NB)",
         "tag": "22188",
         "stopId": "188"
       },
@@ -2509,7 +2524,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sycamore Ln & Cornell Dr (NB)",
+        "title": "Sycamore Ln & Cornell Drive (NB)",
         "tag": "22189",
         "stopId": "189"
       },
@@ -2524,7 +2539,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sycamore Ln & Cornell Dr (SB)",
+        "title": "Sycamore Ln & Cornell Drive (SB)",
         "tag": "22190",
         "stopId": "190"
       },
@@ -2539,7 +2554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sycamore Ln & Radcliffe Dr (NB)",
+        "title": "Sycamore Ln & Radcliffe Drive (NB)",
         "tag": "22191",
         "stopId": "191"
       },
@@ -2554,7 +2569,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sycamore Ln & Notre Dame Dr (SB)",
+        "title": "Sycamore Ln & Notre Dame Drive (SB)",
         "tag": "22192",
         "stopId": "192"
       },
@@ -2569,7 +2584,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Radcliffe Dr & Apple Ln (NB)",
+        "title": "Radcliffe Drive & Apple Ln (NB)",
         "tag": "22193",
         "stopId": "193"
       },
@@ -2584,7 +2599,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Drake Dr & Drake Dr  Apts (WB)",
+        "title": "Drake Drive & Drake Apartments (WB)",
         "tag": "22194",
         "stopId": "194"
       },
@@ -2599,7 +2614,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sycamore Ln & Drake Dr (SB)",
+        "title": "Sycamore Ln & Drake Drive (SB)",
         "tag": "22195",
         "stopId": "195"
       },
@@ -2614,7 +2629,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Covell Blvd & Sycamore Ln (WB)",
+        "title": "Covell Blvd & Sycamore Lane/Marketplace (WB)",
         "tag": "22196",
         "stopId": "196"
       },
@@ -2629,7 +2644,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Covell Blvd & Sycamore Ln (EB)",
+        "title": "Covell Blvd & Sycamore Lane/Marketplace (EB)",
         "tag": "22197",
         "stopId": "197"
       },
@@ -2644,7 +2659,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Covell Blvd & Shasta Dr (EB)",
+        "title": "Covell Blvd & Shasta Drive/Sutter Hospital (EB)",
         "tag": "22198",
         "stopId": "198"
       },
@@ -2659,7 +2674,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Covell Blvd & John Jones Rd (WB)",
+        "title": "Covell Blvd & John Jones Rd/Sutter Hospital (WB)",
         "tag": "22199",
         "stopId": "199"
       },
@@ -2674,7 +2689,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Covell Blvd & Shasta Dr (WB)",
+        "title": "Covell Blvd & Shasta Drive (WB)",
         "tag": "22200",
         "stopId": "200"
       },
@@ -2689,7 +2704,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Covell Blvd & Denali Dr (EB)",
+        "title": "Covell Blvd & Denali Drive (EB)",
         "tag": "22201",
         "stopId": "201"
       },
@@ -2839,7 +2854,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Arlington Blvd & Shasta Dr (SB)",
+        "title": "Arlington Blvd & Shasta Drive (SB)",
         "tag": "22211",
         "stopId": "211"
       },
@@ -2854,7 +2869,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Arlington Blvd & Shasta Dr (NB)",
+        "title": "Arlington Blvd & Shasta Drive (NB)",
         "tag": "22212",
         "stopId": "212"
       },
@@ -2869,7 +2884,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Humboldt Ave & Imperial  (EB)",
+        "title": "Humboldt Ave & Imperial/Emerson Junior High (EB)",
         "tag": "22216",
         "stopId": "216"
       },
@@ -2929,7 +2944,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Arlington Blvd & Westernesse Rd (SB)",
+        "title": "Arlington Blvd & Westernesse/Emerson Junior High (SB)",
         "tag": "22223",
         "stopId": "223"
       },
@@ -3064,22 +3079,22 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "5th St & Pena Dr (EB)",
+        "title": "5th St & Pena Drive (EB)",
         "tag": "22234",
         "stopId": "234"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7153799,
-          38.55268
+          -121.71538,
+          38.5526799
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Alhambra Dr & Arroyo Ave (EB)",
+        "title": "Alhambra Drive & Arroyo Ave (EB)",
         "tag": "22235",
         "stopId": "235"
       },
@@ -3094,15 +3109,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Alhambra Dr & Atlantis / Carcia (WB)",
+        "title": "Alhambra Drive & Atlantis / Carcia (WB)",
         "tag": "22236",
         "stopId": "236"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.70346,
-          38.5580399
+          -121.7034599,
+          38.55804
         ]
       }
     },
@@ -3139,7 +3154,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hutchison Dr & Ext Center (WB)",
+        "title": "Hutchison Drive & Ext Center (WB)",
         "tag": "22239",
         "stopId": "239"
       },
@@ -3154,7 +3169,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hutchison Dr & Health Sci Drive (EB)",
+        "title": "Hutchison Drive & Health Sci Drive (EB)",
         "tag": "22240",
         "stopId": "240"
       },
@@ -3169,7 +3184,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Richards Blvd & Olive Dr (NB)",
+        "title": "Richards Blvd & Olive Drive (NB)",
         "tag": "22242",
         "stopId": "242"
       },
@@ -3192,7 +3207,7 @@
         "type": "Point",
         "coordinates": [
           -121.6942999,
-          38.55775
+          38.5577499
         ]
       }
     },
@@ -3207,14 +3222,14 @@
         "type": "Point",
         "coordinates": [
           -121.69395,
-          38.55625
+          38.5562499
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Covell Blvd & Mace Blvd (EB)",
+        "title": "Covell Blvd & Mace Blvd/Harper Junior High (EB)",
         "tag": "22245",
         "stopId": "245"
       },
@@ -3251,8 +3266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7191699,
-          38.56442
+          -121.71917,
+          38.5644199
         ]
       }
     },
@@ -3431,7 +3446,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7276299,
+          -121.72763,
           38.5534299
         ]
       }
@@ -3439,7 +3454,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2nd St. & Target Drive (WB)",
+        "title": "2nd St. & Target (WB)",
         "tag": "22282",
         "stopId": "282"
       },
@@ -3492,7 +3507,7 @@
         "type": "Point",
         "coordinates": [
           -121.7718099,
-          38.53851
+          38.5385099
         ]
       }
     },
@@ -3529,7 +3544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Alhambra Dr & Loyola Dr (WB)",
+        "title": "Alhambra Drive & Loyola Drive (WB)",
         "tag": "22290",
         "stopId": "290"
       },
@@ -3544,7 +3559,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Alhambra Dr & Loyola Dr (EB)",
+        "title": "Alhambra Drive & Loyola Drive (EB)",
         "tag": "22291",
         "stopId": "291"
       },
@@ -3596,7 +3611,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7266499,
+          -121.72665,
           38.5686
         ]
       }
@@ -3634,7 +3649,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lillard Dr & Cowell Blvd (EB)",
+        "title": "Lillard Drive & Cowell Blvd (EB)",
         "tag": "22297",
         "stopId": "297"
       },
@@ -3656,7 +3671,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.6989999,
+          -121.699,
           38.5581199
         ]
       }
@@ -3671,8 +3686,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.70536,
-          38.5564499
+          -121.7053599,
+          38.55645
         ]
       }
     },
@@ -3799,7 +3814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Research Park Dr & Cowell (EB)",
+        "title": "Research Park Drive & Cowell (EB)",
         "tag": "22318",
         "stopId": "318"
       },
@@ -3874,7 +3889,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glide Dr & Schmeiser Ave (EB)",
+        "title": "Glide Drive & Schmeiser Ave (EB)",
         "tag": "22344",
         "stopId": "344"
       },
@@ -3904,7 +3919,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Pole Line Rd & Loyola Dr (NB)",
+        "title": "Pole Line Rd & Loyola Drive (NB)",
         "tag": "22357",
         "stopId": "357"
       },
@@ -3919,7 +3934,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glide Dr & Schmeiser Ave (WB)",
+        "title": "Glide Drive & Schmeiser Ave (WB)",
         "tag": "22358",
         "stopId": "358"
       },
@@ -3934,7 +3949,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glide Dr & El Cemonte Ave (WB)",
+        "title": "Glide Drive & El Cemonte Ave (WB)",
         "tag": "22359",
         "stopId": "359"
       },
@@ -3949,7 +3964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hutchison Dr & Health Sci Dr (WB)",
+        "title": "Hutchison Drive & Health Sciences Drive (WB)",
         "tag": "22361",
         "stopId": "361"
       },
@@ -4009,7 +4024,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "J St & Drexel Dr (NB)",
+        "title": "J St & Drexel Drive (NB)",
         "tag": "22371",
         "stopId": "371"
       },
@@ -4024,7 +4039,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "J St & Menlo Dr (NB)",
+        "title": "J St & Menlo Drive (NB)",
         "tag": "22372",
         "stopId": "372"
       },
@@ -4099,7 +4114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Arlington Blvd & Calaveras Ave (NB)",
+        "title": "Arlington Blvd & Calaveras Ave/Emerson Junior High (NB)",
         "tag": "22495",
         "stopId": "495"
       },
@@ -4114,7 +4129,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glide Dr & El Cemonte Ave (EB)",
+        "title": "Glide Drive & El Cemonte Ave (EB)",
         "tag": "22496",
         "stopId": "496"
       },
@@ -4159,7 +4174,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Alhambra Dr & 5th St (WB)",
+        "title": "Alhambra Drive & 5th St (WB)",
         "tag": "22973",
         "stopId": "973"
       },
@@ -4174,7 +4189,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "El Cemonte Ave & Glide Dr (SB)",
+        "title": "El Cemonte Ave & Glide Drive (SB)",
         "tag": "22062_ar"
       },
       "geometry": {
@@ -4188,21 +4203,21 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Memorial Union  & Main Island (NB)",
-        "tag": "22272_ar"
+        "title": "Silo Terminal & Haring Hall (WB)",
+        "tag": "22258_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.75004,
-          38.5438599
+          -121.75368,
+          38.5393299
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Radcliffe Dr & Apple Ln (NB)",
+        "title": "Radcliffe Drive & Apple Ln (NB)",
         "tag": "22193_ar"
       },
       "geometry": {
@@ -4272,20 +4287,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Silo Terminal & Haring Hall (WB)",
-        "tag": "22258_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75368,
-          38.5393299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "F St & 12th St (NB)",
         "tag": "22116_ar"
       },
@@ -4328,7 +4329,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Pole Line Rd & Claremont Dr (NB)",
+        "title": "Pole Line Rd & Claremont Drive (NB)",
         "tag": "22092_ar"
       },
       "geometry": {
@@ -4356,7 +4357,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2nd St. & Target Drive (WB)",
+        "title": "2nd St. & Target (WB)",
         "tag": "22282_ar"
       },
       "geometry": {
@@ -4370,14 +4371,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Covell Blvd & J St (WB)",
-        "tag": "22097_ar"
+        "title": "F St & Covell Blvd (SB)",
+        "tag": "22113_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.73906,
-          38.5607399
+          -121.74496,
+          38.5601099
         ]
       }
     },
@@ -4440,7 +4441,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lillard Dr & Evans Ct (EB)",
+        "title": "Lillard Drive & Evans Ct (EB)",
         "tag": "22174_ar"
       },
       "geometry": {
@@ -4466,5 +4467,5 @@
       }
     }
   ],
-  "copyright": "All data copyright Unitrans ASUCD/City of Davis 2019."
+  "copyright": "All data copyright Unitrans ASUCD/City of Davis 2020."
 }

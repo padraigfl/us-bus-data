@@ -56,7 +56,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3271699,
+          -97.32717,
           32.7437499
         ]
       }
@@ -79,6 +79,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Hulen Ring Road & Rock Quarry",
+        "tag": "164",
+        "stopId": "0164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.39959,
+          32.6764099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "CentrePort Station",
         "tag": "217",
         "stopId": "0217"
@@ -88,21 +103,6 @@
         "coordinates": [
           -97.05316,
           32.8171599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "TRE Station",
-        "tag": "239",
-        "stopId": "0239"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.22305,
-          32.7994999
         ]
       }
     },
@@ -236,7 +236,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.2921999,
+          -97.2922,
           32.73588
         ]
       }
@@ -454,6 +454,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Harley & Montgomery",
+        "tag": "414",
+        "stopId": "0414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.36976,
+          32.7423699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "7th & Ballinger - Collier",
         "tag": "417",
         "stopId": "0417"
@@ -491,7 +506,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3370699,
+          -97.33707,
           32.7509
         ]
       }
@@ -604,21 +619,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "7th & Harrold",
-        "tag": "428",
-        "stopId": "0428"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3493099,
-          32.75089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "7th & Fournier - Penn",
         "tag": "429",
         "stopId": "0429"
@@ -626,7 +626,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.34317,
+          -97.3431699,
           32.75091
         ]
       }
@@ -792,7 +792,7 @@
         "type": "Point",
         "coordinates": [
           -97.3605299,
-          32.71068
+          32.7106799
         ]
       }
     },
@@ -838,21 +838,6 @@
         "coordinates": [
           -97.3651499,
           32.6986099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bluebonnet & University - Biddison",
-        "tag": "449",
-        "stopId": "0449"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.35985,
-          32.6986
         ]
       }
     },
@@ -986,8 +971,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.33263,
-          32.7512999
+          -97.3326299,
+          32.7513
         ]
       }
     },
@@ -1017,7 +1002,7 @@
         "type": "Point",
         "coordinates": [
           -97.3259899,
-          32.73441
+          32.7344099
         ]
       }
     },
@@ -1391,7 +1376,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3258,
+          -97.32582,
           32.7384899
         ]
       }
@@ -1399,15 +1384,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Main & Broadway",
+        "title": "Main & Daggett",
         "tag": "504",
         "stopId": "0504"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.32579,
-          32.74155
+          -97.32582,
+          32.7423899
         ]
       }
     },
@@ -1422,7 +1407,22 @@
         "type": "Point",
         "coordinates": [
           -97.3260199,
-          32.7442199
+          32.74422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main & Cleveland",
+        "tag": "506",
+        "stopId": "0506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3259699,
+          32.7406299
         ]
       }
     },
@@ -1436,8 +1436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3259899,
-          32.73868
+          -97.3259699,
+          32.73877
         ]
       }
     },
@@ -1481,7 +1481,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.32758,
+          -97.3275799,
           32.7475199
         ]
       }
@@ -1496,8 +1496,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3290099,
-          32.75633
+          -97.32901,
+          32.7563299
         ]
       }
     },
@@ -1826,8 +1826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3326,
-          32.75362
+          -97.3325999,
+          32.7536199
         ]
       }
     },
@@ -2006,8 +2006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.41305,
-          32.7298799
+          -97.41308,
+          32.7298699
         ]
       }
     },
@@ -2021,8 +2021,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.41469,
-          32.7291899
+          -97.4146899,
+          32.72919
         ]
       }
     },
@@ -2036,8 +2036,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4198,
-          32.7270599
+          -97.4197999,
+          32.72706
         ]
       }
     },
@@ -2051,8 +2051,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4214399,
-          32.72638
+          -97.42144,
+          32.7263799
         ]
       }
     },
@@ -2066,8 +2066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4301199,
-          32.72275
+          -97.43012,
+          32.7227499
         ]
       }
     },
@@ -2081,8 +2081,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.43464,
-          32.7250499
+          -97.4346399,
+          32.72505
         ]
       }
     },
@@ -2097,7 +2097,7 @@
         "type": "Point",
         "coordinates": [
           -97.43462,
-          32.72707
+          32.7270699
         ]
       }
     },
@@ -2112,7 +2112,7 @@
         "type": "Point",
         "coordinates": [
           -97.43459,
-          32.72948
+          32.7294799
         ]
       }
     },
@@ -2127,7 +2127,7 @@
         "type": "Point",
         "coordinates": [
           -97.43455,
-          32.7335499
+          32.73355
         ]
       }
     },
@@ -2291,8 +2291,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4117099,
-          32.73015
+          -97.4118,
+          32.7301299
         ]
       }
     },
@@ -2306,8 +2306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4098599,
-          32.73092
+          -97.40986,
+          32.7309199
         ]
       }
     },
@@ -2321,8 +2321,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.398,
-          32.7358999
+          -97.3979999,
+          32.7359
         ]
       }
     },
@@ -2336,8 +2336,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.39515,
-          32.7370899
+          -97.3951499,
+          32.73709
         ]
       }
     },
@@ -2351,8 +2351,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3933099,
-          32.73785
+          -97.39331,
+          32.7378499
         ]
       }
     },
@@ -2891,8 +2891,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.41631,
-          32.7285099
+          -97.4163099,
+          32.72851
         ]
       }
     },
@@ -2906,8 +2906,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.42273,
-          32.7258699
+          -97.4227299,
+          32.72587
         ]
       }
     },
@@ -3148,51 +3148,6 @@
         "coordinates": [
           -97.3481799,
           32.7626099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Calmont & Wrangler",
-        "tag": "684",
-        "stopId": "0684"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.4681599,
-          32.73554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "La Palma & Branch Water",
-        "tag": "685",
-        "stopId": "0685"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.4717799,
-          32.7348299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Calmont & Hammock",
-        "tag": "690",
-        "stopId": "0690"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.4681199,
-          32.73542
         ]
       }
     },
@@ -3627,7 +3582,7 @@
         "type": "Point",
         "coordinates": [
           -97.46602,
-          32.7357499
+          32.73575
         ]
       }
     },
@@ -4046,7 +4001,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.44328,
+          -97.4432799,
           32.73391
         ]
       }
@@ -4076,8 +4031,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.25401,
-          32.7457
+          -97.2540099,
+          32.7456999
         ]
       }
     },
@@ -4121,7 +4076,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.24378,
+          -97.2437799,
           32.74561
         ]
       }
@@ -4136,7 +4091,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.2408999,
+          -97.2409,
           32.74563
         ]
       }
@@ -4196,7 +4151,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.2233,
+          -97.2232999,
           32.74601
         ]
       }
@@ -6919,21 +6874,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Berry & Thrall",
-        "tag": "1011",
-        "stopId": "1011"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.28399,
-          32.7133699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Berry & Canberra - Cobb Park",
         "tag": "1013",
         "stopId": "1013"
@@ -7781,8 +7721,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.27052,
-          32.7313599
+          -97.26991,
+          32.7313699
         ]
       }
     },
@@ -9101,8 +9041,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.38702,
-          32.7891199
+          -97.3870199,
+          32.78912
         ]
       }
     },
@@ -9116,8 +9056,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3836299,
-          32.79206
+          -97.38363,
+          32.7920599
         ]
       }
     },
@@ -9131,8 +9071,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3813499,
-          32.79402
+          -97.38135,
+          32.7940199
         ]
       }
     },
@@ -9281,8 +9221,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3471299,
-          32.7780399
+          -97.34713,
+          32.77804
         ]
       }
     },
@@ -9356,8 +9296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3319099,
-          32.73861
+          -97.3319599,
+          32.7381
         ]
       }
     },
@@ -9372,7 +9312,7 @@
         "type": "Point",
         "coordinates": [
           -97.3316699,
-          32.73499
+          32.7349899
         ]
       }
     },
@@ -10271,8 +10211,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.30404,
-          32.73761
+          -97.3040399,
+          32.7376099
         ]
       }
     },
@@ -10286,7 +10226,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.2963999,
+          -97.2964,
           32.73588
         ]
       }
@@ -10301,7 +10241,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.2888099,
+          -97.28881,
           32.73587
         ]
       }
@@ -10316,8 +10256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.28514,
-          32.73356
+          -97.2851399,
+          32.7335599
         ]
       }
     },
@@ -11681,8 +11621,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.32873,
-          32.75265
+          -97.3287299,
+          32.7526499
         ]
       }
     },
@@ -11713,21 +11653,6 @@
         "coordinates": [
           -97.35151,
           32.7914199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Texas & Taylor",
-        "tag": "1437",
-        "stopId": "1437"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.33166,
-          32.74882
         ]
       }
     },
@@ -12147,7 +12072,7 @@
         "type": "Point",
         "coordinates": [
           -97.4008399,
-          32.72084
+          32.7208399
         ]
       }
     },
@@ -12162,22 +12087,7 @@
         "type": "Point",
         "coordinates": [
           -97.4008599,
-          32.71897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Chariot & Horne",
-        "tag": "1485",
-        "stopId": "1485"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.4079099,
-          32.7134699
+          32.7189699
         ]
       }
     },
@@ -12191,8 +12101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4116399,
-          32.71358
+          -97.41164,
+          32.7135799
         ]
       }
     },
@@ -12237,7 +12147,7 @@
         "type": "Point",
         "coordinates": [
           -97.40804,
-          32.7161999
+          32.7162
         ]
       }
     },
@@ -12252,7 +12162,7 @@
         "type": "Point",
         "coordinates": [
           -97.40803,
-          32.71835
+          32.7183499
         ]
       }
     },
@@ -12267,7 +12177,7 @@
         "type": "Point",
         "coordinates": [
           -97.40792,
-          32.72434
+          32.7243399
         ]
       }
     },
@@ -12311,8 +12221,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.33175,
-          32.75379
+          -97.3317499,
+          32.7537899
         ]
       }
     },
@@ -12326,8 +12236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3329999,
-          32.7555699
+          -97.333,
+          32.75557
         ]
       }
     },
@@ -12386,8 +12296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.33012,
-          32.74811
+          -97.33017,
+          32.74737
         ]
       }
     },
@@ -12433,21 +12343,6 @@
         "coordinates": [
           -97.36517,
           32.7565099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "10th & Burnett",
-        "tag": "1538",
-        "stopId": "1538"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3338,
-          32.7500099
         ]
       }
     },
@@ -12506,8 +12401,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.32875,
-          32.75557
+          -97.3287499,
+          32.7555699
         ]
       }
     },
@@ -12536,8 +12431,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3349199,
-          32.75609
+          -97.33492,
+          32.7560899
         ]
       }
     },
@@ -12551,8 +12446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3255399,
-          32.7479699
+          -97.32554,
+          32.74797
         ]
       }
     },
@@ -12844,21 +12739,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "TCC Southeast Campus",
-        "tag": "1767",
-        "stopId": "1767"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.07272,
-          32.6399499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Bryant Irvin & Convair",
         "tag": "1768",
         "stopId": "1768"
@@ -12934,21 +12814,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Handley Ederville & Jack Newell",
-        "tag": "1781",
-        "stopId": "1781"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.2213799,
-          32.7847199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "John T White & John T White",
         "tag": "1782",
         "stopId": "1782"
@@ -13009,21 +12874,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Private & Campus",
-        "tag": "1786",
-        "stopId": "1786"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.19122,
-          32.8442099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Main & 21st",
         "tag": "1787",
         "stopId": "1787"
@@ -13031,8 +12881,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3493299,
-          32.78252
+          -97.3493499,
+          32.7823699
         ]
       }
     },
@@ -13257,7 +13107,7 @@
         "type": "Point",
         "coordinates": [
           -97.2907299,
-          32.8309199
+          32.83092
         ]
       }
     },
@@ -13272,7 +13122,7 @@
         "type": "Point",
         "coordinates": [
           -97.3347599,
-          32.7411099
+          32.74111
         ]
       }
     },
@@ -13782,7 +13632,7 @@
         "type": "Point",
         "coordinates": [
           -97.3259899,
-          32.73661
+          32.7366099
         ]
       }
     },
@@ -14216,8 +14066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.32579,
-          32.7397999
+          -97.32583,
+          32.7398799
         ]
       }
     },
@@ -14239,7 +14089,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Main & Broadway",
+        "title": "Main & Daggett - Broadway",
         "tag": "1968",
         "stopId": "1968"
       },
@@ -14247,7 +14097,7 @@
         "type": "Point",
         "coordinates": [
           -97.3259799,
-          32.74169
+          32.74164
         ]
       }
     },
@@ -14321,8 +14171,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3902899,
-          32.6341
+          -97.38988,
+          32.6344299
         ]
       }
     },
@@ -14367,7 +14217,7 @@
         "type": "Point",
         "coordinates": [
           -97.39573,
-          32.64566
+          32.6456599
         ]
       }
     },
@@ -14382,7 +14232,7 @@
         "type": "Point",
         "coordinates": [
           -97.39579,
-          32.64782
+          32.6478199
         ]
       }
     },
@@ -14398,21 +14248,6 @@
         "coordinates": [
           -97.40166,
           32.6613
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "I 35 & Oaks",
-        "tag": "1986",
-        "stopId": "1986"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.16884,
-          33.2179299
         ]
       }
     },
@@ -14443,21 +14278,6 @@
         "coordinates": [
           -97.33016,
           32.75598
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "DFW Remote South",
-        "tag": "1997",
-        "stopId": "1997"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.03544,
-          32.8616299
         ]
       }
     },
@@ -14577,7 +14397,7 @@
         "type": "Point",
         "coordinates": [
           -97.32945,
-          32.7645299
+          32.76453
         ]
       }
     },
@@ -14802,7 +14622,7 @@
         "type": "Point",
         "coordinates": [
           -97.2413,
-          32.70858
+          32.7085799
         ]
       }
     },
@@ -15116,8 +14936,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.43456,
-          32.7322399
+          -97.4345599,
+          32.73224
         ]
       }
     },
@@ -15319,21 +15139,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cherry & Texas",
-        "tag": "2097",
-        "stopId": "2097"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.33481,
-          32.7486699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Ramey & Amanda",
         "tag": "2100",
         "stopId": "2100"
@@ -15386,8 +15191,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3149599,
-          32.76213
+          -97.31496,
+          32.7621299
         ]
       }
     },
@@ -15401,8 +15206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4047699,
-          32.81824
+          -97.40477,
+          32.8182399
         ]
       }
     },
@@ -15521,7 +15326,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.33439,
+          -97.3343899,
           32.75089
         ]
       }
@@ -15986,8 +15791,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.39097,
-          32.7388399
+          -97.3909699,
+          32.73884
         ]
       }
     },
@@ -16466,7 +16271,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3362499,
+          -97.33625,
           32.8249599
         ]
       }
@@ -16781,7 +16586,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3074799,
+          -97.30748,
           32.8244699
         ]
       }
@@ -17089,7 +16894,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "28th & Commerce - Nichols",
+        "title": "28th & Commerce",
         "tag": "2359",
         "stopId": "2359"
       },
@@ -17142,7 +16947,7 @@
         "type": "Point",
         "coordinates": [
           -97.3086699,
-          32.785
+          32.7849999
         ]
       }
     },
@@ -17156,8 +16961,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.30866,
-          32.7805399
+          -97.3086599,
+          32.78054
         ]
       }
     },
@@ -17186,8 +16991,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.30877,
-          32.7765899
+          -97.3087699,
+          32.77659
         ]
       }
     },
@@ -17336,8 +17141,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.32885,
-          32.7514599
+          -97.3288499,
+          32.75146
         ]
       }
     },
@@ -17426,7 +17231,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.31359,
+          -97.3135899,
           32.7379
         ]
       }
@@ -17516,7 +17321,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3254799,
+          -97.32548,
           32.73785
         ]
       }
@@ -17531,7 +17336,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3238399,
+          -97.32384,
           32.73786
         ]
       }
@@ -17546,7 +17351,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.31753,
+          -97.3175299,
           32.73787
         ]
       }
@@ -17561,7 +17366,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.31492,
+          -97.3149199,
           32.7379
         ]
       }
@@ -17576,7 +17381,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3105799,
+          -97.31058,
           32.7379
         ]
       }
@@ -17591,7 +17396,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.30728,
+          -97.3072799,
           32.7379
         ]
       }
@@ -18041,8 +17846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.32974,
-          32.76709
+          -97.3297399,
+          32.7670899
         ]
       }
     },
@@ -18056,8 +17861,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.33061,
-          32.76976
+          -97.3306099,
+          32.7697599
         ]
       }
     },
@@ -18071,8 +17876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3318299,
-          32.7735799
+          -97.33183,
+          32.77358
         ]
       }
     },
@@ -18206,7 +18011,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3293,
+          -97.3292999,
           32.7438299
         ]
       }
@@ -19662,22 +19467,7 @@
         "type": "Point",
         "coordinates": [
           -97.4007899,
-          32.7245899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bourine & Como",
-        "tag": "3177",
-        "stopId": "3177"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.4045699,
-          32.71436
+          32.72459
         ]
       }
     },
@@ -19692,7 +19482,7 @@
         "type": "Point",
         "coordinates": [
           -97.4008099,
-          32.72234
+          32.7223399
         ]
       }
     },
@@ -19872,7 +19662,7 @@
         "type": "Point",
         "coordinates": [
           -97.40789,
-          32.7282199
+          32.72822
         ]
       }
     },
@@ -19947,7 +19737,7 @@
         "type": "Point",
         "coordinates": [
           -97.4080399,
-          32.72857
+          32.7285699
         ]
       }
     },
@@ -20113,36 +19903,6 @@
         "coordinates": [
           -97.3727,
           32.78139
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bridgewood & J. W. Delaney",
-        "tag": "3218",
-        "stopId": "3218"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.21574,
-          32.7759
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bridgewood & Canyon Oak",
-        "tag": "3219",
-        "stopId": "3219"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.2155399,
-          32.7750999
         ]
       }
     },
@@ -20471,7 +20231,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4114799,
+          -97.41148,
           32.7293399
         ]
       }
@@ -20764,21 +20524,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Handley Eder. & Jack Newell S",
-        "tag": "3294",
-        "stopId": "3294"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.22125,
-          32.7847699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Fabons & Verbena",
         "tag": "3295",
         "stopId": "3295"
@@ -20951,8 +20696,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.30095,
-          32.7734599
+          -97.3009499,
+          32.77346
         ]
       }
     },
@@ -20966,8 +20711,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.29892,
-          32.7749299
+          -97.2989199,
+          32.77493
         ]
       }
     },
@@ -21161,7 +20906,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.30643,
+          -97.3064299,
           32.77306
         ]
       }
@@ -21417,7 +21162,7 @@
         "type": "Point",
         "coordinates": [
           -97.3838099,
-          32.8193
+          32.8192999
         ]
       }
     },
@@ -21463,21 +21208,6 @@
         "coordinates": [
           -97.38242,
           32.78498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Marine Creek & Nautilus",
-        "tag": "3381",
-        "stopId": "3381"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.38414,
-          32.82381
         ]
       }
     },
@@ -21538,51 +21268,6 @@
         "coordinates": [
           -97.4037699,
           32.8112299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "NW Loop 820 & Marine Creek",
-        "tag": "3388",
-        "stopId": "3388"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3857,
-          32.82462
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northwest TCC & Marine Creek",
-        "tag": "3390",
-        "stopId": "3390"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3860499,
-          32.8300199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northwest TCC & Marine Creek",
-        "tag": "3391",
-        "stopId": "3391"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3860899,
-          32.8297
         ]
       }
     },
@@ -21823,6 +21508,21 @@
         "coordinates": [
           -97.28938,
           32.68761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Montgomery & Lansford",
+        "tag": "3418",
+        "stopId": "3418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.36995,
+          32.74574
         ]
       }
     },
@@ -22107,7 +21807,7 @@
         "type": "Point",
         "coordinates": [
           -97.4082299,
-          32.7125799
+          32.71258
         ]
       }
     },
@@ -22152,7 +21852,7 @@
         "type": "Point",
         "coordinates": [
           -97.2907099,
-          32.82617
+          32.8261699
         ]
       }
     },
@@ -22301,8 +22001,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.32885,
-          32.76237
+          -97.3288499,
+          32.7623699
         ]
       }
     },
@@ -22512,7 +22212,7 @@
         "type": "Point",
         "coordinates": [
           -97.40807,
-          32.7148
+          32.7147999
         ]
       }
     },
@@ -22601,8 +22301,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.30336,
-          32.8244099
+          -97.3033599,
+          32.82441
         ]
       }
     },
@@ -22624,6 +22324,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Tanacross & Endicott",
+        "tag": "3496",
+        "stopId": "3496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.29402,
+          32.837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Meacham & Deen",
         "tag": "3501",
         "stopId": "3501"
@@ -22633,21 +22348,6 @@
         "coordinates": [
           -97.32647,
           32.8246299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northwest TCC & Marine Creek",
-        "tag": "3503",
-        "stopId": "3503"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.39172,
-          32.8311199
         ]
       }
     },
@@ -22693,21 +22393,6 @@
         "coordinates": [
           -97.3784,
           32.7981799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "South Hills & Harwen",
-        "tag": "3510",
-        "stopId": "3510"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.36424,
-          32.6962399
         ]
       }
     },
@@ -22789,21 +22474,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sheraton Hotel",
-        "tag": "3521",
-        "stopId": "3521"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.32527,
-          32.74754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Worthington Hotel",
         "tag": "3522",
         "stopId": "3522"
@@ -22811,23 +22481,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.33253,
-          32.7556299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Omni Hotel",
-        "tag": "3523",
-        "stopId": "3523"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3283899,
-          32.7487699
+          -97.3325299,
+          32.75563
         ]
       }
     },
@@ -22991,7 +22646,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3402299,
+          -97.34023,
           32.75091
         ]
       }
@@ -23021,8 +22676,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3287,
-          32.7532499
+          -97.3286999,
+          32.75325
         ]
       }
     },
@@ -23036,8 +22691,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4164099,
-          32.70879
+          -97.41641,
+          32.7087899
         ]
       }
     },
@@ -23187,7 +22842,7 @@
         "type": "Point",
         "coordinates": [
           -97.3325099,
-          32.8070399
+          32.80704
         ]
       }
     },
@@ -23366,8 +23021,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.33671,
-          32.7552099
+          -97.3367099,
+          32.75521
         ]
       }
     },
@@ -23411,8 +23066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4262299,
-          32.70291
+          -97.42623,
+          32.7029099
         ]
       }
     },
@@ -23996,8 +23651,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.2915099,
-          32.83691
+          -97.29151,
+          32.8369099
         ]
       }
     },
@@ -24011,8 +23666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3279099,
-          32.76051
+          -97.32791,
+          32.7605099
         ]
       }
     },
@@ -24042,7 +23697,7 @@
         "type": "Point",
         "coordinates": [
           -97.2907199,
-          32.82207
+          32.8220699
         ]
       }
     },
@@ -24116,7 +23771,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3028399,
+          -97.30284,
           32.77304
         ]
       }
@@ -24131,7 +23786,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.2574799,
+          -97.25748,
           32.74565
         ]
       }
@@ -24146,8 +23801,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.2387199,
-          32.74584
+          -97.23872,
+          32.7458399
         ]
       }
     },
@@ -24311,8 +23966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4608899,
-          32.73595
+          -97.46089,
+          32.7359499
         ]
       }
     },
@@ -24926,8 +24581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3007599,
-          32.7360799
+          -97.30076,
+          32.73608
         ]
       }
     },
@@ -24941,7 +24596,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.2909199,
+          -97.29092,
           32.7359
         ]
       }
@@ -26066,7 +25721,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3905699,
+          -97.39057,
           32.6491
         ]
       }
@@ -26081,7 +25736,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3860199,
+          -97.38602,
           32.65135
         ]
       }
@@ -26096,7 +25751,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3771,
+          -97.3770999,
           32.65045
         ]
       }
@@ -26404,21 +26059,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Houston & 9th",
-        "tag": "3866",
-        "stopId": "3866"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.3297499,
-          32.7507299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Houston & 14th",
         "tag": "3868",
         "stopId": "3868"
@@ -26562,7 +26202,7 @@
         "type": "Point",
         "coordinates": [
           -97.4098299,
-          32.73004
+          32.7300399
         ]
       }
     },
@@ -26576,7 +26216,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.30075,
+          -97.3007499,
           32.8244399
         ]
       }
@@ -26651,7 +26291,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.40415,
+          -97.4041499,
           32.72634
         ]
       }
@@ -26696,8 +26336,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3301699,
-          32.75084
+          -97.33017,
+          32.7508399
         ]
       }
     },
@@ -26741,7 +26381,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.2379999,
+          -97.238,
           32.7100799
         ]
       }
@@ -27004,21 +26644,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lamar & 6th - 7th",
-        "tag": "3922",
-        "stopId": "3922"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.33324,
-          32.75145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Woodbridge & Martin",
         "tag": "3924",
         "stopId": "3924"
@@ -27101,8 +26726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.43426,
-          32.72222
+          -97.4342599,
+          32.7222199
         ]
       }
     },
@@ -27176,8 +26801,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3306099,
-          32.7554399
+          -97.33061,
+          32.75544
         ]
       }
     },
@@ -27416,8 +27041,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.40091,
-          32.7151399
+          -97.4009099,
+          32.71514
         ]
       }
     },
@@ -27431,8 +27056,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4008799,
-          32.71669
+          -97.40088,
+          32.7166899
         ]
       }
     },
@@ -27694,21 +27319,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "6th & Main",
-        "tag": "3996",
-        "stopId": "3996"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.33029,
-          32.7533899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Mississippi & Ramsey",
         "tag": "3997",
         "stopId": "3997"
@@ -27838,21 +27448,6 @@
         "coordinates": [
           -97.21742,
           32.76305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "5th & Commerce",
-        "tag": "4007",
-        "stopId": "4007"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.33746,
-          32.7662899
         ]
       }
     },
@@ -28001,7 +27596,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3387299,
+          -97.33873,
           32.7385399
         ]
       }
@@ -28106,8 +27701,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.37964,
-          32.78384
+          -97.3807,
+          32.78419
         ]
       }
     },
@@ -28346,7 +27941,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.41318,
+          -97.4131799,
           32.7108799
         ]
       }
@@ -28361,8 +27956,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4162199,
-          32.70997
+          -97.41622,
+          32.7099699
         ]
       }
     },
@@ -28393,21 +27988,6 @@
         "coordinates": [
           -97.3431699,
           32.75865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Houston & 8th - 9th",
-        "tag": "4048",
-        "stopId": "4048"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.33018,
-          32.75136
         ]
       }
     },
@@ -28633,21 +28213,6 @@
         "coordinates": [
           -97.32538,
           32.7510099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "FWCS - S1",
-        "tag": "4064",
-        "stopId": "4064"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.32628,
-          32.7518899
         ]
       }
     },
@@ -28940,21 +28505,6 @@
       "type": "Feature",
       "properties": {
         "title": "Westport & North",
-        "tag": "4098",
-        "stopId": "4098"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.31156,
-          32.97208
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Westport & North",
         "tag": "4099",
         "stopId": "4099"
       },
@@ -29022,7 +28572,7 @@
         "type": "Point",
         "coordinates": [
           -97.1616599,
-          33.21727
+          33.2172699
         ]
       }
     },
@@ -29374,21 +28924,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Commerce St & 3rd",
-        "tag": "4143",
-        "stopId": "4143"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.33092,
-          32.7555499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Forest Hill Cir & Park Oaks",
         "tag": "4144",
         "stopId": "4144"
@@ -29644,6 +29179,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Sylvania & Goldenrod",
+        "tag": "4193",
+        "stopId": "4193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3086799,
+          32.78734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "College & Pennsylvania",
         "tag": "4200",
         "stopId": "4200"
@@ -29652,7 +29202,7 @@
         "type": "Point",
         "coordinates": [
           -97.3348499,
-          32.7388199
+          32.73882
         ]
       }
     },
@@ -29959,7 +29509,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Currier & Crockett",
+        "title": "Currie & Crockett",
         "tag": "4221",
         "stopId": "4221"
       },
@@ -30012,7 +29562,7 @@
         "type": "Point",
         "coordinates": [
           -97.36982,
-          32.7496799
+          32.74968
         ]
       }
     },
@@ -30026,7 +29576,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3671999,
+          -97.3672,
           32.75121
         ]
       }
@@ -30034,14 +29584,300 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "FWCS - S1",
-        "tag": "4064_ar"
+        "title": "W 7th & Stayton",
+        "tag": "4226",
+        "stopId": "4226"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.32628,
-          32.7518899
+          -97.3507499,
+          32.75096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ephriham & Jacksboro",
+        "tag": "4227",
+        "stopId": "4227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.38289,
+          32.7859699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Elm &  E 1st",
+        "tag": "4228",
+        "stopId": "4228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.32743,
+          32.75905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Elm & E 1st",
+        "tag": "4229",
+        "stopId": "4229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.32724,
+          32.75906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ellis & 21st",
+        "tag": "4235",
+        "stopId": "4235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3505499,
+          32.7833199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ellis &  W Exchange",
+        "tag": "4236",
+        "stopId": "4236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.35029,
+          32.7887399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main & 32nd",
+        "tag": "4237",
+        "stopId": "4237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3511,
+          32.80204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main & 31st",
+        "tag": "4238",
+        "stopId": "4238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.35117,
+          32.80165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marine Creek & Jim Wright",
+        "tag": "4239",
+        "stopId": "4239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3847,
+          32.8237299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Berry & Binkley",
+        "tag": "4240",
+        "stopId": "4240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.28155,
+          32.7133699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bourine & Carver",
+        "tag": "4241",
+        "stopId": "4241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.40443,
+          32.7155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Horne & Helmick",
+        "tag": "4242",
+        "stopId": "4242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4081899,
+          32.7165799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North & Westport",
+        "tag": "4243",
+        "stopId": "4243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3094499,
+          32.97299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northern Cross & Endicott",
+        "tag": "4244",
+        "stopId": "4244"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.29501,
+          32.8353099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ohio Garden & Garden - Quail",
+        "tag": "4245",
+        "stopId": "4245"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.37962,
+          32.7812799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ohio Garden & Garden",
+        "tag": "4246",
+        "stopId": "4246"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3775099,
+          32.7813199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DFW Rental Car Center",
+        "tag": "4247",
+        "stopId": "4247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0356,
+          32.8570999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Hills & Carolyn",
+        "tag": "4250",
+        "stopId": "4250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3677699,
+          32.69629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Hills & Winston",
+        "tag": "4251",
+        "stopId": "4251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.36635,
+          32.6962899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Scriptures & I 35",
+        "tag": "4258",
+        "stopId": "4258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16891,
+          33.2190899
         ]
       }
     },
@@ -30216,14 +30052,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "FWCS - S7",
-        "tag": "4070_ar"
+        "title": "FWCS - Bay - K",
+        "tag": "4061_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.32577,
-          32.7511499
+          -97.32539,
+          32.7512899
         ]
       }
     },
@@ -30538,14 +30374,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "South Hills & Harwen",
-        "tag": "3510_ar"
+        "title": "South Hills & Winston",
+        "tag": "4251_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.36424,
-          32.6962399
+          -97.36635,
+          32.6962899
         ]
       }
     },
@@ -30762,14 +30598,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "FWCS - Bay - K",
-        "tag": "4061_ar"
+        "title": "FWCS - S7",
+        "tag": "4070_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.32539,
-          32.7512899
+          -97.32577,
+          32.7511499
         ]
       }
     },
@@ -31036,34 +30872,6 @@
         "coordinates": [
           -97.16746,
           32.7647299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Private & Campus",
-        "tag": "1786_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.19122,
-          32.8442099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "TRE Station",
-        "tag": "239_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.22305,
-          32.7994999
         ]
       }
     },
@@ -31496,7 +31304,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.4356299,
+          -97.43563,
           32.73405
         ]
       }
@@ -31511,7 +31319,7 @@
         "type": "Point",
         "coordinates": [
           -97.43409,
-          32.7365199
+          32.73652
         ]
       }
     },
@@ -31560,14 +31368,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "DFW Remote South",
-        "tag": "1997_ar"
+        "title": "DFW Rental Car Center",
+        "tag": "4247_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.03544,
-          32.8616299
+          -97.0356,
+          32.8570999
         ]
       }
     },
@@ -31644,14 +31452,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Northwest TCC & Marine Creek",
-        "tag": "3503_ar"
+        "title": "NW Loop 820 & Marine Creek",
+        "tag": "3388_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.39172,
-          32.8311199
+          -97.3857,
+          32.82462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marine Creek & Nautilus",
+        "tag": "3381_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.38414,
+          32.82381
         ]
       }
     },
@@ -31700,20 +31522,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "East Fort Worth Transfer Center # 4 (Spur)",
-        "tag": "1754_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.26329,
-          32.7403199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "FWCS - S2",
         "tag": "4065_ar"
       },
@@ -31722,6 +31530,104 @@
         "coordinates": [
           -97.32623,
           32.7518299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Heritage & Horizon",
+        "tag": "4097_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.31061,
+          32.9787799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Park And Ride Bay - 1",
+        "tag": "3981_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.31865,
+          32.9220299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fouts UNT",
+        "tag": "4157_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.15525,
+          33.2093399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Scriptures & I 35",
+        "tag": "4258_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.16891,
+          33.2190899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Park And Ride Bay - 2",
+        "tag": "4088_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.31862,
+          32.9218699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Houston & 6th - 7th",
+        "tag": "1495_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33092,
+          32.7524799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "9th & Throckmorton",
+        "tag": "661_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33021,
+          32.7508899
         ]
       }
     },
@@ -31826,202 +31732,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Houston & 6th - 7th",
-        "tag": "1495_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.33092,
-          32.7524799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "9th & Main",
-        "tag": "2470_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.32885,
-          32.7514599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Calmont & Las Vegas",
-        "tag": "705_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.46608,
-          32.7359099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Calmont & Wrangler",
-        "tag": "684_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.46816,
-          32.7355399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "La Palma & Branch Water",
-        "tag": "685_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.4717799,
-          32.7348299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N Normandale & Randall",
-        "tag": "3992_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.47366,
-          32.73491
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N Normandale & La Palma",
-        "tag": "3991_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.47228,
-          32.7335499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Heritage & Horizon",
-        "tag": "4097_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.31061,
-          32.9787799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "North Park And Ride Bay - 1",
-        "tag": "3981_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.31865,
-          32.9220299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fouts UNT",
-        "tag": "4157_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.15525,
-          33.2093399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "I 35 & Oaks",
-        "tag": "1986_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.16884,
-          33.2179299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "North Park And Ride Bay - 2",
-        "tag": "4088_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.31862,
-          32.9218699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Houston & 6th - 7th",
-        "tag": "1495_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.33092,
-          32.7524799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "9th & Throckmorton",
-        "tag": "661_1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.33021,
-          32.7508899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "FWCS - S3",
         "tag": "4066_1"
       },
@@ -32086,6 +31796,34 @@
         "coordinates": [
           -97.32758,
           32.74752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Houston & 6th - 7th",
+        "tag": "1495_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33092,
+          32.7524799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "9th & Main",
+        "tag": "2470_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.32885,
+          32.7514599
         ]
       }
     },
@@ -32196,8 +31934,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.38158,
-          32.63586
+          -97.3815799,
+          32.6358599
         ]
       }
     },
@@ -32224,8 +31962,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.39029,
-          32.6340999
+          -97.38988,
+          32.6344299
         ]
       }
     },
@@ -32238,8 +31976,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3918599,
-          32.6353599
+          -97.39186,
+          32.63536
         ]
       }
     },
@@ -32309,7 +32047,7 @@
         "type": "Point",
         "coordinates": [
           -97.39579,
-          32.64782
+          32.6478199
         ]
       }
     },
@@ -32322,7 +32060,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3905699,
+          -97.39057,
           32.6491
         ]
       }
@@ -32336,7 +32074,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3860199,
+          -97.38602,
           32.65135
         ]
       }
@@ -32350,7 +32088,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.3771,
+          -97.3770999,
           32.65045
         ]
       }
@@ -32366,20 +32104,6 @@
         "coordinates": [
           -97.3712,
           32.6499199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "TCC Southeast Campus",
-        "tag": "1767_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.07272,
-          32.6399499
         ]
       }
     },
@@ -32480,35 +32204,7 @@
           32.7835499
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "5th & Commerce",
-        "tag": "4007_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.33746,
-          32.7662899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Weatherford & Taylor - Throck",
-        "tag": "1553_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.33492,
-          32.7560899
-        ]
-      }
     }
   ],
-  "copyright": "All data copyright Trinity Metro 2019."
+  "copyright": "All data copyright Trinity Metro 2020."
 }

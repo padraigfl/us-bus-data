@@ -94,21 +94,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Wilkens Outpatient Medical Complex, Hyannis",
-        "tag": "800558",
-        "stopId": "009"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.3036699,
-          41.6782799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Super Stop & Shop (Liberty Square), Hyannis",
         "tag": "800559",
         "stopId": "010"
@@ -146,7 +131,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.3375299,
+          -70.33753,
           41.6906199
         ]
       }
@@ -162,7 +147,7 @@
         "type": "Point",
         "coordinates": [
           -70.30304,
-          41.70032
+          41.7003199
         ]
       }
     },
@@ -304,15 +289,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Route 28 @ Jones Road, Falmouth",
+        "title": "Rte 28 @ Jones Rd (Stop & Shop)",
         "tag": "800573",
-        "stopId": "028"
+        "stopId": "029"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.59913,
-          41.5609999
+          -70.5991,
+          41.5611399
         ]
       }
     },
@@ -321,7 +306,7 @@
       "properties": {
         "title": "Falmouth Mall",
         "tag": "800574",
-        "stopId": "029"
+        "stopId": "028"
       },
       "geometry": {
         "type": "Point",
@@ -358,51 +343,6 @@
         "coordinates": [
           -70.6698,
           41.5230299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "St. Francis/Pope John Paul, Hyannis",
-        "tag": "800577",
-        "stopId": "032"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.28499,
-          41.6483399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sturgis Charter School -- Main Street, Hyannis",
-        "tag": "800578",
-        "stopId": "033"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.28539,
-          41.6521199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sturgis Charter School @ South Street, Hyannis",
-        "tag": "800579",
-        "stopId": "034"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.28435,
-          41.6506899
         ]
       }
     },
@@ -718,21 +658,6 @@
         "coordinates": [
           -70.01894,
           41.7064499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cape Cod Lighthouse Charter School, East Harwich",
-        "tag": "800601",
-        "stopId": "058"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.02576,
-          41.7111299
         ]
       }
     },
@@ -1474,6 +1399,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Head of the Meadow Beach, North Truro",
+        "tag": "800669",
+        "stopId": "136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.08543,
+          42.03807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Old Cobb Library, Truro",
         "tag": "800671",
         "stopId": "138"
@@ -1684,7 +1624,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Saint Mark's Housing",
+        "title": "Clipper Ship Apartments",
         "tag": "805265",
         "stopId": "155"
       },
@@ -1759,21 +1699,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Trinity Christian Academy",
-        "tag": "805283",
-        "stopId": "157"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.28086,
-          41.6840799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Maurice's Market",
         "tag": "811989",
         "stopId": "162"
@@ -1834,36 +1759,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Brewster Town Hall",
-        "tag": "845491",
-        "stopId": "165"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.07438,
-          41.7637599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sandwich High School",
-        "tag": "2327016",
-        "stopId": "166"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.45819,
-          41.7354799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Broad Reach Healthcare",
         "tag": "2383148",
         "stopId": "167"
@@ -1902,7 +1797,7 @@
         "type": "Point",
         "coordinates": [
           -70.28718,
-          41.6670199
+          41.66702
         ]
       }
     },
@@ -1911,7 +1806,7 @@
       "properties": {
         "title": "Provincetown Monument",
         "tag": "2455484",
-        "stopId": "179"
+        "stopId": "180"
       },
       "geometry": {
         "type": "Point",
@@ -1924,22 +1819,22 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Beach House",
-        "tag": "2483595",
-        "stopId": "171"
+        "title": "Department of Transitional Assistance @ North Street",
+        "tag": "2483886",
+        "stopId": "161"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.612,
-          41.6463799
+          -70.28918,
+          41.6520599
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Saint Mark's Housing",
+        "title": "Clipper Ship Apartments",
         "tag": "2483887",
         "stopId": "155"
       },
@@ -1965,7 +1860,112 @@
           41.5639499
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tataket Apartments",
+        "tag": "2577258",
+        "stopId": "176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59721,
+          41.5642999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Yarmouth Commons",
+        "tag": "2577259",
+        "stopId": "177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.21214,
+          41.6530399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cape Cod Five (HQ)",
+        "tag": "2577260",
+        "stopId": "178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.31939,
+          41.6793899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cape Cod Five",
+        "tag": "2577261",
+        "stopId": "179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.32114,
+          41.6801899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cape Cod Five (HQ)",
+        "tag": "2577900",
+        "stopId": "178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.31963,
+          41.6792199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cape Cod Five",
+        "tag": "2577901",
+        "stopId": "179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.32082,
+          41.6797199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rte 28 @ Jones Rd (Stop & Shop)",
+        "tag": "2611957",
+        "stopId": "029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59887,
+          41.5610999
+        ]
+      }
     }
   ],
-  "copyright": "All data copyright Cape Cod Regional Transit Authority 2019."
+  "copyright": "All data copyright Cape Cod Regional Transit Authority 2020."
 }

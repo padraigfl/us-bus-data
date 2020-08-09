@@ -1,0 +1,2336 @@
+{
+  "data": {
+    "750075": {
+      "routes": {
+        "850": {
+          "Inbound": true
+        }
+      },
+      "lon": "145.6952799",
+      "title": "Brinsmead Kamerunga Rd (Skyrail Base Station)",
+      "stopId": "750075",
+      "tag": "750075",
+      "lat": "-16.8482",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "08:01:00"
+            ]
+          }
+        }
+      }
+    },
+    "750079": {
+      "routes": {
+        "850": {
+          "Inbound": true
+        }
+      },
+      "lon": "145.6899099",
+      "title": "Cairns Western Art at Harley St",
+      "stopId": "750079",
+      "tag": "750079",
+      "lat": "-16.88002",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "08:12:00"
+            ]
+          }
+        }
+      }
+    },
+    "750119": {
+      "routes": {
+        "850": {
+          "Inbound": true
+        }
+      },
+      "lon": "145.7761899",
+      "title": "Abbott St C244 (Closed Sept 2014)",
+      "stopId": "750119",
+      "tag": "750119",
+      "lat": "-16.92053",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "08:46:00"
+            ]
+          }
+        }
+      }
+    },
+    "750218": {
+      "routes": {
+        "850": {
+          "Inbound": true
+        }
+      },
+      "lon": "145.7525499",
+      "title": "Hoare St at Eureka St (Trinity Bay SHS)",
+      "stopId": "750218",
+      "tag": "750218",
+      "lat": "-16.924",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "08:37:00"
+            ]
+          }
+        }
+      }
+    },
+    "750219": {
+      "routes": {
+        "850": {
+          "Inbound": true
+        }
+      },
+      "lon": "145.7559499",
+      "title": "Newton St at Cairns TAFE",
+      "stopId": "750219",
+      "tag": "750219",
+      "lat": "-16.92271",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "08:39:00"
+            ]
+          }
+        }
+      }
+    },
+    "750335": {
+      "routes": {
+        "851": {
+          "Outbound": true
+        }
+      },
+      "lon": "145.6886699",
+      "title": "Cairns Western Art at Harley St",
+      "stopId": "750335",
+      "tag": "750335",
+      "lat": "-16.87944",
+      "scheduleRoutes": {
+        "851": {
+          "Outbound": {}
+        }
+      }
+    },
+    "750489": {
+      "routes": {
+        "850": {
+          "Outbound": true,
+          "Inbound": true
+        },
+        "851": {
+          "Outbound": true,
+          "Inbound": true
+        }
+      },
+      "lon": "145.7711899",
+      "title": "Cairns Central Terminus",
+      "stopId": "750489",
+      "tag": "750489",
+      "lat": "-16.92521",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "08:50:00",
+              "11:15:00",
+              "15:00:00"
+            ],
+            "Saturday": [
+              "10:00:00",
+              "15:30:00"
+            ],
+            "Sunday": [
+              "10:00:00",
+              "15:30:00"
+            ]
+          },
+          "Outbound": {
+            "MoTuWeThFr": [
+              "07:00:00",
+              "09:25:00",
+              "15:30:00"
+            ],
+            "Saturday": [
+              "10:30:00",
+              "16:00:00"
+            ],
+            "Sunday": [
+              "10:30:00",
+              "16:00:00"
+            ]
+          }
+        },
+        "851": {
+          "Inbound": {
+            "Saturday": [
+              "10:45:00",
+              "13:00:00"
+            ],
+            "Sunday": [
+              "10:45:00",
+              "13:00:00"
+            ]
+          },
+          "Outbound": {
+            "Saturday": [
+              "09:00:00",
+              "11:15:00"
+            ],
+            "Sunday": [
+              "09:00:00",
+              "11:15:00"
+            ]
+          }
+        }
+      }
+    },
+    "750523": {
+      "routes": {
+        "851": {
+          "Outbound": true
+        }
+      },
+      "lon": "145.7524399",
+      "title": "Trinity Bay High near Hoare St (HnR)",
+      "stopId": "750523",
+      "tag": "750523",
+      "lat": "-16.92399",
+      "scheduleRoutes": {
+        "851": {
+          "Outbound": {}
+        }
+      }
+    },
+    "750600": {
+      "routes": {
+        "851": {
+          "Outbound": true
+        }
+      },
+      "lon": "145.7571999",
+      "title": "Gatton at Newton (HnR)",
+      "stopId": "750600",
+      "tag": "750600",
+      "lat": "-16.92261",
+      "scheduleRoutes": {
+        "851": {
+          "Outbound": {}
+        }
+      }
+    },
+    "750641": {
+      "routes": {
+        "850": {
+          "Outbound": true,
+          "Inbound": true
+        },
+        "851": {
+          "Outbound": true,
+          "Inbound": true
+        }
+      },
+      "lon": "145.6339399",
+      "title": "Therwine St near Coondoo St (Hail n Ride)",
+      "stopId": "750641",
+      "tag": "750641",
+      "lat": "-16.8197",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "07:15:00",
+              "10:25:00",
+              "14:10:00"
+            ],
+            "Saturday": [
+              "09:10:00",
+              "14:40:00"
+            ],
+            "Sunday": [
+              "09:10:00",
+              "14:40:00"
+            ]
+          },
+          "Outbound": {
+            "MoTuWeThFr": [
+              "07:40:00",
+              "10:05:00",
+              "16:10:00"
+            ],
+            "Saturday": [
+              "11:10:00",
+              "16:40:00"
+            ],
+            "Sunday": [
+              "11:10:00",
+              "16:40:00"
+            ]
+          }
+        },
+        "851": {
+          "Inbound": {
+            "Saturday": [
+              "10:00:00",
+              "12:15:00"
+            ],
+            "Sunday": [
+              "10:00:00",
+              "12:15:00"
+            ]
+          },
+          "Outbound": {
+            "Saturday": [
+              "09:40:00",
+              "11:55:00"
+            ],
+            "Sunday": [
+              "09:40:00",
+              "11:55:00"
+            ]
+          }
+        }
+      }
+    },
+    "750642": {
+      "routes": {
+        "850": {
+          "Outbound": true,
+          "Inbound": true
+        }
+      },
+      "lon": "145.4241099",
+      "title": "Walsh St near Rankin St (Hail n Ride)",
+      "stopId": "750642",
+      "tag": "750642",
+      "lat": "-16.99575",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "06:30:00",
+              "09:45:00",
+              "13:30:00"
+            ],
+            "Saturday": [
+              "08:30:00",
+              "14:00:00"
+            ],
+            "Sunday": [
+              "08:30:00",
+              "14:00:00"
+            ]
+          },
+          "Outbound": {
+            "MoTuWeThFr": [
+              "08:20:00",
+              "10:45:00",
+              "16:50:00"
+            ],
+            "Saturday": [
+              "11:40:00",
+              "17:20:00"
+            ],
+            "Sunday": [
+              "11:40:00",
+              "17:20:00"
+            ]
+          }
+        }
+      }
+    },
+    "750643": {
+      "routes": {
+        "850": {
+          "Outbound": true,
+          "Inbound": true
+        }
+      },
+      "lon": "145.4759799",
+      "title": "Main St near Vernon St (Hail n Ride)",
+      "stopId": "750643",
+      "tag": "750643",
+      "lat": "-17.26584",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "06:00:00",
+              "09:15:00",
+              "13:00:00"
+            ],
+            "Saturday": [
+              "08:00:00",
+              "13:30:00"
+            ],
+            "Sunday": [
+              "08:00:00",
+              "13:30:00"
+            ]
+          },
+          "Outbound": {
+            "MoTuWeThFr": [
+              "08:50:00",
+              "11:15:00",
+              "17:20:00"
+            ],
+            "Saturday": [
+              "12:10:00",
+              "17:50:00"
+            ],
+            "Sunday": [
+              "12:10:00",
+              "17:50:00"
+            ]
+          }
+        }
+      }
+    },
+    "750644": {
+      "routes": {
+        "850": {
+          "Outbound": true,
+          "Inbound": true
+        }
+      },
+      "lon": "145.6000099",
+      "title": "Speewah Rd near Scenic Dr (Hail n Ride)",
+      "stopId": "750644",
+      "tag": "750644",
+      "lat": "-16.8708",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "06:50:00",
+              "10:05:00",
+              "13:50:00"
+            ],
+            "Saturday": [
+              "08:50:00",
+              "14:20:00"
+            ],
+            "Sunday": [
+              "08:50:00",
+              "14:20:00"
+            ]
+          },
+          "Outbound": {
+            "MoTuWeThFr": [
+              "08:00:00",
+              "10:25:00",
+              "16:30:00"
+            ],
+            "Saturday": [
+              "11:20:00",
+              "17:00:00"
+            ],
+            "Sunday": [
+              "11:20:00",
+              "17:00:00"
+            ]
+          }
+        }
+      }
+    },
+    "750660": {
+      "routes": {
+        "850": {
+          "Outbound": true
+        }
+      },
+      "lon": "145.4788599",
+      "title": "Kennedy Hwy near Main St (Hail n Ride)",
+      "stopId": "750660",
+      "tag": "750660",
+      "lat": "-17.22252",
+      "scheduleRoutes": {
+        "850": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "08:45:00",
+              "11:10:00",
+              "17:15:00"
+            ],
+            "Saturday": [
+              "12:05:00",
+              "17:45:00"
+            ],
+            "Sunday": [
+              "12:05:00",
+              "17:45:00"
+            ]
+          }
+        }
+      }
+    },
+    "750661": {
+      "routes": {
+        "850": {
+          "Inbound": true
+        }
+      },
+      "lon": "145.4788699",
+      "title": "Kennedy Hwy near Main St (Hail n Ride)",
+      "stopId": "750661",
+      "tag": "750661",
+      "lat": "-17.22239",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "06:05:00",
+              "09:20:00",
+              "13:05:00"
+            ],
+            "Saturday": [
+              "08:05:00",
+              "13:35:00"
+            ],
+            "Sunday": [
+              "08:05:00",
+              "13:35:00"
+            ]
+          }
+        }
+      }
+    },
+    "750662": {
+      "routes": {
+        "850": {
+          "Inbound": true
+        }
+      },
+      "lon": "145.4267299",
+      "title": "Hibiscus St near Banksia St (Hail n Ride)",
+      "stopId": "750662",
+      "tag": "750662",
+      "lat": "-17.13061",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "06:16:00",
+              "09:31:00",
+              "13:16:00"
+            ],
+            "Saturday": [
+              "08:16:00",
+              "13:46:00"
+            ],
+            "Sunday": [
+              "08:16:00",
+              "13:46:00"
+            ]
+          }
+        }
+      }
+    },
+    "750663": {
+      "routes": {
+        "850": {
+          "Outbound": true
+        }
+      },
+      "lon": "145.4267599",
+      "title": "Hibiscus St near Banksia St (Hail n Ride)",
+      "stopId": "750663",
+      "tag": "750663",
+      "lat": "-17.13064",
+      "scheduleRoutes": {
+        "850": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "08:34:00",
+              "10:59:00",
+              "17:04:00"
+            ],
+            "Saturday": [
+              "11:54:00",
+              "17:34:00"
+            ],
+            "Sunday": [
+              "11:54:00",
+              "17:34:00"
+            ]
+          }
+        }
+      }
+    },
+    "750664": {
+      "routes": {
+        "851": {
+          "Inbound": true
+        }
+      },
+      "lon": "145.6910899",
+      "title": "Kennedy Hwy at Smithfield Shopping Centre",
+      "stopId": "750664",
+      "tag": "750664",
+      "lat": "-16.83901",
+      "scheduleRoutes": {
+        "851": {
+          "Inbound": {
+            "Saturday": [
+              "10:23:00",
+              "12:38:00"
+            ],
+            "Sunday": [
+              "10:23:00",
+              "12:38:00"
+            ]
+          }
+        }
+      }
+    },
+    "750665": {
+      "routes": {
+        "850": {
+          "Outbound": true
+        },
+        "851": {
+          "Outbound": true
+        }
+      },
+      "lon": "145.6883999",
+      "title": "Kennedy Hwy near Canopys Edge Blvd",
+      "stopId": "750665",
+      "tag": "750665",
+      "lat": "-16.83889",
+      "scheduleRoutes": {
+        "850": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "07:20:00",
+              "09:45:00",
+              "15:50:00"
+            ],
+            "Saturday": [
+              "10:50:00",
+              "16:20:00"
+            ],
+            "Sunday": [
+              "10:50:00",
+              "16:20:00"
+            ]
+          }
+        },
+        "851": {
+          "Outbound": {
+            "Saturday": [
+              "09:20:00",
+              "11:35:00"
+            ],
+            "Sunday": [
+              "09:20:00",
+              "11:35:00"
+            ]
+          }
+        }
+      }
+    },
+    "750666": {
+      "routes": {
+        "850": {
+          "Inbound": true
+        }
+      },
+      "lon": "145.5684699",
+      "title": "Kennedy Rd near Koah Rd (Hail n Ride)",
+      "stopId": "750666",
+      "tag": "750666",
+      "lat": "-16.89478",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "06:47:00",
+              "10:02:00",
+              "13:47:00"
+            ],
+            "Saturday": [
+              "08:47:00",
+              "14:17:00"
+            ],
+            "Sunday": [
+              "08:47:00",
+              "14:17:00"
+            ]
+          }
+        }
+      }
+    },
+    "750667": {
+      "routes": {
+        "850": {
+          "Outbound": true,
+          "Inbound": true
+        }
+      },
+      "lon": "145.6215099",
+      "title": "Kennedy Hwy near Greenhills Rd (Hail n Ride)",
+      "stopId": "750667",
+      "tag": "750667",
+      "lat": "-16.82835",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "07:08:00",
+              "10:20:00",
+              "14:05:00"
+            ],
+            "Saturday": [
+              "09:05:00",
+              "14:35:00"
+            ],
+            "Sunday": [
+              "09:05:00",
+              "14:35:00"
+            ]
+          },
+          "Outbound": {
+            "MoTuWeThFr": [
+              "07:45:00",
+              "10:10:00",
+              "16:15:00"
+            ],
+            "Saturday": [
+              "11:13:00",
+              "16:45:00"
+            ],
+            "Sunday": [
+              "11:13:00",
+              "16:45:00"
+            ]
+          }
+        }
+      }
+    },
+    "750668": {
+      "routes": {
+        "850": {
+          "Inbound": true
+        }
+      },
+      "lon": "145.6209699",
+      "title": "Kenndy Hwy near Warril Dr (Hail n Ride)",
+      "stopId": "750668",
+      "tag": "750668",
+      "lat": "-16.83146",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "07:07:00",
+              "10:19:00",
+              "14:04:00"
+            ],
+            "Saturday": [
+              "09:04:00",
+              "14:34:00"
+            ],
+            "Sunday": [
+              "09:04:00",
+              "14:34:00"
+            ]
+          }
+        }
+      }
+    },
+    "750669": {
+      "routes": {
+        "850": {
+          "Outbound": true
+        }
+      },
+      "lon": "145.6204399",
+      "title": "Kennedy Hwy near Fallon Rd (Hail n Ride)",
+      "stopId": "750669",
+      "tag": "750669",
+      "lat": "-16.83243",
+      "scheduleRoutes": {
+        "850": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "07:46:00",
+              "10:11:00",
+              "16:16:00"
+            ],
+            "Saturday": [
+              "11:13:00",
+              "16:46:00"
+            ],
+            "Sunday": [
+              "11:13:00",
+              "16:46:00"
+            ]
+          }
+        }
+      }
+    },
+    "750670": {
+      "routes": {
+        "850": {
+          "Outbound": true,
+          "Inbound": true
+        }
+      },
+      "lon": "145.4246899",
+      "title": "Byrnes St at Mareeba Visitor Info (Hail n Ride)",
+      "stopId": "750670",
+      "tag": "750670",
+      "lat": "-17.01088",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "06:28:00",
+              "09:43:00",
+              "13:28:00"
+            ],
+            "Saturday": [
+              "08:28:00",
+              "13:58:00"
+            ],
+            "Sunday": [
+              "08:28:00",
+              "13:58:00"
+            ]
+          },
+          "Outbound": {
+            "MoTuWeThFr": [
+              "08:22:00",
+              "10:47:00",
+              "16:52:00"
+            ],
+            "Saturday": [
+              "11:42:00",
+              "17:22:00"
+            ],
+            "Sunday": [
+              "11:42:00",
+              "17:22:00"
+            ]
+          }
+        }
+      }
+    },
+    "750671": {
+      "routes": {
+        "850": {
+          "Outbound": true,
+          "Inbound": true
+        }
+      },
+      "lon": "145.4783499",
+      "title": "Kennedy Hwy near Tate Rd (Hail n Ride)",
+      "stopId": "750671",
+      "tag": "750671",
+      "lat": "-17.22774",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "06:04:00",
+              "09:19:00",
+              "13:04:00"
+            ],
+            "Saturday": [
+              "08:04:00",
+              "13:34:00"
+            ],
+            "Sunday": [
+              "08:04:00",
+              "13:34:00"
+            ]
+          },
+          "Outbound": {
+            "MoTuWeThFr": [
+              "08:46:00",
+              "11:11:00",
+              "17:16:00"
+            ],
+            "Saturday": [
+              "12:06:00",
+              "17:46:00"
+            ],
+            "Sunday": [
+              "12:06:00",
+              "17:46:00"
+            ]
+          }
+        }
+      }
+    },
+    "750672": {
+      "routes": {
+        "850": {
+          "Outbound": true
+        }
+      },
+      "lon": "145.6512699",
+      "title": "Kenndy Hwy at Rainforestation Park (Hail n Ride)",
+      "stopId": "750672",
+      "tag": "750672",
+      "lat": "-16.82418",
+      "scheduleRoutes": {
+        "850": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "10:34:00",
+              "14:19:00"
+            ],
+            "Saturday": [
+              "09:19:00",
+              "14:49:00"
+            ],
+            "Sunday": [
+              "09:19:00",
+              "14:49:00"
+            ]
+          },
+          "Outbound": {
+            "MoTuWeThFr": [
+              "07:33:00",
+              "09:58:00",
+              "16:03:00"
+            ],
+            "Saturday": [
+              "11:03:00",
+              "16:33:00"
+            ],
+            "Sunday": [
+              "11:03:00",
+              "16:33:00"
+            ]
+          }
+        }
+      }
+    },
+    "790000": {
+      "routes": {
+        "801": {
+          "Outbound": true,
+          "Inbound": true
+        },
+        "802": {
+          "North": true,
+          "South": true
+        },
+        "803": {
+          "Inbound": true
+        },
+        "804": {
+          "Outbound": true
+        },
+        "805": {
+          "Inbound": true,
+          "Outbound": true
+        }
+      },
+      "lon": "146.0300999",
+      "title": "Central Arcade",
+      "stopId": "790000",
+      "tag": "790000",
+      "lat": "-17.52552",
+      "scheduleRoutes": {
+        "801": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "08:52:00",
+              "11:33:00",
+              "13:32:00"
+            ],
+            "Saturday": [
+              "08:57:00",
+              "10:49:00"
+            ]
+          },
+          "Outbound": {
+            "MoTuWeThFr": [
+              "11:15:00",
+              "12:30:00"
+            ]
+          }
+        },
+        "802": {
+          "North": {
+            "Saturday": [
+              "09:25:00",
+              "11:25:00"
+            ]
+          },
+          "South": {
+            "Saturday": [
+              "09:42:00",
+              "11:42:00"
+            ]
+          }
+        },
+        "803": {
+          "Inbound": {
+            "MoTuWeThFr": [],
+            "Saturday": [
+              "09:00:00",
+              "09:20:00",
+              "10:50:00",
+              "11:10:00"
+            ]
+          }
+        },
+        "804": {
+          "Outbound": {
+            "MoTuWeThFr": [],
+            "Saturday": [
+              "09:45:00",
+              "10:03:00",
+              "12:05:00"
+            ]
+          }
+        },
+        "805": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "10:46:00",
+              "14:11:00"
+            ],
+            "Saturday": [
+              "10:25:00",
+              "12:05:00"
+            ]
+          },
+          "Outbound": {
+            "MoTuWeThFr": [
+              "10:10:00",
+              "13:35:00"
+            ],
+            "Saturday": [
+              "10:05:00",
+              "11:45:00"
+            ]
+          }
+        }
+      }
+    },
+    "790001": {
+      "routes": {
+        "803": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0458899",
+      "title": "Jodrell Street near Florence St",
+      "stopId": "790001",
+      "tag": "790001",
+      "lat": "-17.52997",
+      "scheduleRoutes": {
+        "803": {
+          "Inbound": {
+            "MoTuWeThFr": [],
+            "Saturday": [
+              "09:15:00",
+              "11:05:00"
+            ]
+          }
+        }
+      }
+    },
+    "790004": {
+      "routes": {
+        "803": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0326999",
+      "title": "Mourilyan Rd near Marty Street",
+      "stopId": "790004",
+      "tag": "790004",
+      "lat": "-17.53891",
+      "scheduleRoutes": {
+        "803": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "09:03:00",
+              "11:43:00",
+              "14:25:00",
+              "15:50:00"
+            ],
+            "Saturday": [
+              "09:08:00",
+              "10:58:00"
+            ]
+          }
+        }
+      }
+    },
+    "790005": {
+      "routes": {
+        "803": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0325899",
+      "title": "Mourilyan Rd at Rita Street",
+      "stopId": "790005",
+      "tag": "790005",
+      "lat": "-17.542",
+      "scheduleRoutes": {
+        "803": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "09:03:00",
+              "11:43:00",
+              "14:25:00",
+              "15:50:00"
+            ],
+            "Saturday": [
+              "09:08:00",
+              "10:58:00"
+            ]
+          }
+        }
+      }
+    },
+    "790014": {
+      "routes": {
+        "804": {
+          "Outbound": true
+        }
+      },
+      "lon": "146.0112499",
+      "title": "Ash Street near Beech St",
+      "stopId": "790014",
+      "tag": "790014",
+      "lat": "-17.52596",
+      "scheduleRoutes": {
+        "804": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "09:46:00",
+              "12:06:00"
+            ],
+            "Saturday": [
+              "09:51:00",
+              "12:11:00"
+            ]
+          }
+        }
+      }
+    },
+    "790015": {
+      "routes": {
+        "804": {
+          "Outbound": true
+        }
+      },
+      "lon": "146.0037999",
+      "title": "Pindar Street near Laurie St",
+      "stopId": "790015",
+      "tag": "790015",
+      "lat": "-17.52446",
+      "scheduleRoutes": {
+        "804": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "09:50:00",
+              "12:10:00"
+            ],
+            "Saturday": [
+              "09:55:00",
+              "12:15:00"
+            ]
+          }
+        }
+      }
+    },
+    "790016": {
+      "routes": {
+        "804": {
+          "Outbound": true
+        }
+      },
+      "lon": "146.0015099",
+      "title": "Badilla Street near Laurie St",
+      "stopId": "790016",
+      "tag": "790016",
+      "lat": "-17.52408",
+      "scheduleRoutes": {
+        "804": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "09:51:00",
+              "12:11:00"
+            ],
+            "Saturday": [
+              "09:56:00",
+              "12:16:00"
+            ]
+          }
+        }
+      }
+    },
+    "790017": {
+      "routes": {
+        "804": {
+          "Outbound": true
+        }
+      },
+      "lon": "146.0100999",
+      "title": "Maple St at Goondi State School",
+      "stopId": "790017",
+      "tag": "790017",
+      "lat": "-17.5225",
+      "scheduleRoutes": {
+        "804": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "09:52:00",
+              "12:12:00"
+            ],
+            "Saturday": [
+              "09:59:00",
+              "12:19:00"
+            ]
+          }
+        }
+      }
+    },
+    "790018": {
+      "routes": {
+        "804": {
+          "Outbound": true
+        }
+      },
+      "lon": "146.0110599",
+      "title": "Palmerston Drive near Pine St",
+      "stopId": "790018",
+      "tag": "790018",
+      "lat": "-17.52161",
+      "scheduleRoutes": {
+        "804": {
+          "Outbound": {
+            "MoTuWeThFr": [],
+            "Saturday": [
+              "09:59:00"
+            ]
+          }
+        }
+      }
+    },
+    "790019": {
+      "routes": {
+        "801": {
+          "Outbound": true,
+          "Inbound": true
+        }
+      },
+      "lon": "146.0186399",
+      "title": "Warrina St at Warrina Home",
+      "stopId": "790019",
+      "tag": "790019",
+      "lat": "-17.51745",
+      "scheduleRoutes": {
+        "801": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "08:43:00",
+              "11:26:00",
+              "13:23:00"
+            ],
+            "Saturday": [
+              "08:48:00",
+              "10:41:00"
+            ]
+          },
+          "Outbound": {
+            "MoTuWeThFr": [
+              "11:26:00",
+              "12:38:00"
+            ]
+          }
+        }
+      }
+    },
+    "790020": {
+      "routes": {
+        "804": {
+          "Outbound": true
+        }
+      },
+      "lon": "146.0272799",
+      "title": "Edith St at Anzac Park",
+      "stopId": "790020",
+      "tag": "790020",
+      "lat": "-17.52424",
+      "scheduleRoutes": {
+        "804": {
+          "Outbound": {
+            "MoTuWeThFr": [],
+            "Saturday": [
+              "10:02:00"
+            ]
+          }
+        }
+      }
+    },
+    "790021": {
+      "routes": {
+        "801": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0255999",
+      "title": "Emily Street near Glady St",
+      "stopId": "790021",
+      "tag": "790021",
+      "lat": "-17.51898",
+      "scheduleRoutes": {
+        "801": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "08:49:00",
+              "11:30:00",
+              "13:29:00"
+            ],
+            "Saturday": [
+              "08:54:00",
+              "10:46:00"
+            ]
+          }
+        }
+      }
+    },
+    "790022": {
+      "routes": {
+        "801": {
+          "Inbound": true
+        },
+        "802": {
+          "South": true
+        },
+        "805": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0295699",
+      "title": "Rankin St at Innisfail Hospital",
+      "stopId": "790022",
+      "tag": "790022",
+      "lat": "-17.51925",
+      "scheduleRoutes": {
+        "801": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "08:50:00",
+              "11:31:00",
+              "13:30:00"
+            ],
+            "Saturday": [
+              "08:55:00",
+              "10:47:00"
+            ]
+          }
+        },
+        "802": {
+          "South": {
+            "Saturday": [
+              "09:40:00",
+              "11:40:00"
+            ]
+          }
+        },
+        "805": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "10:44:00",
+              "14:09:00"
+            ],
+            "Saturday": [
+              "10:23:00",
+              "12:03:00"
+            ]
+          }
+        }
+      }
+    },
+    "790024": {
+      "routes": {
+        "804": {
+          "Outbound": true
+        }
+      },
+      "lon": "145.9885199",
+      "title": "Bel-Air Avenue near Bona Ave",
+      "stopId": "790024",
+      "tag": "790024",
+      "lat": "-17.52005",
+      "scheduleRoutes": {
+        "804": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "09:57:00",
+              "12:17:00"
+            ]
+          }
+        }
+      }
+    },
+    "790025": {
+      "routes": {
+        "804": {
+          "Outbound": true
+        }
+      },
+      "lon": "145.9887499",
+      "title": "Belvedere Avenue near Boulter Cl",
+      "stopId": "790025",
+      "tag": "790025",
+      "lat": "-17.52264",
+      "scheduleRoutes": {
+        "804": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "09:58:00",
+              "12:18:00"
+            ]
+          }
+        }
+      }
+    },
+    "790026": {
+      "routes": {
+        "804": {
+          "Outbound": true
+        }
+      },
+      "lon": "145.9904999",
+      "title": "Innisfail Sugarbowl Lanes at Lyons Road",
+      "stopId": "790026",
+      "tag": "790026",
+      "lat": "-17.51825",
+      "scheduleRoutes": {
+        "804": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "09:59:00",
+              "12:19:00"
+            ]
+          }
+        }
+      }
+    },
+    "790027": {
+      "routes": {
+        "805": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0760899",
+      "title": "Elizabeth Street near William St",
+      "stopId": "790027",
+      "tag": "790027",
+      "lat": "-17.50104",
+      "scheduleRoutes": {
+        "805": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "10:28:00",
+              "13:53:00"
+            ],
+            "Saturday": [
+              "10:16:00",
+              "11:56:00"
+            ]
+          }
+        }
+      }
+    },
+    "790028": {
+      "routes": {
+        "802": {
+          "South": true
+        },
+        "805": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0389199",
+      "title": "Alexander Street near OReilly Cl",
+      "stopId": "790028",
+      "tag": "790028",
+      "lat": "-17.51684",
+      "scheduleRoutes": {
+        "802": {
+          "South": {
+            "Saturday": [
+              "09:35:00",
+              "11:35:00"
+            ]
+          }
+        },
+        "805": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "10:39:00",
+              "14:04:00"
+            ]
+          }
+        }
+      }
+    },
+    "790030": {
+      "routes": {
+        "801": {
+          "Outbound": true,
+          "Inbound": true
+        }
+      },
+      "lon": "146.0169299",
+      "title": "Pine St near Velution St",
+      "stopId": "790030",
+      "tag": "790030",
+      "lat": "-17.52179",
+      "scheduleRoutes": {
+        "801": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "08:41:00",
+              "13:21:00"
+            ],
+            "Saturday": [
+              "08:46:00"
+            ]
+          },
+          "Outbound": {
+            "MoTuWeThFr": [
+              "11:24:00"
+            ]
+          }
+        }
+      }
+    },
+    "790033": {
+      "routes": {
+        "803": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0365299",
+      "title": "Martin St near Ryan St",
+      "stopId": "790033",
+      "tag": "790033",
+      "lat": "-17.52727",
+      "scheduleRoutes": {
+        "803": {
+          "Inbound": {
+            "MoTuWeThFr": [],
+            "Saturday": [
+              "09:18:00",
+              "11:08:00"
+            ]
+          }
+        }
+      }
+    },
+    "790034": {
+      "routes": {
+        "803": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0385599",
+      "title": "Martin St near Mary St",
+      "stopId": "790034",
+      "tag": "790034",
+      "lat": "-17.5282",
+      "scheduleRoutes": {
+        "803": {
+          "Inbound": {
+            "MoTuWeThFr": [],
+            "Saturday": [
+              "09:18:00",
+              "11:08:00"
+            ]
+          }
+        }
+      }
+    },
+    "790035": {
+      "routes": {
+        "803": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0320599",
+      "title": "Coronation Dr near Scheu St",
+      "stopId": "790035",
+      "tag": "790035",
+      "lat": "-17.53191",
+      "scheduleRoutes": {
+        "803": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "08:59:00",
+              "11:39:00",
+              "14:20:00",
+              "15:45:00"
+            ],
+            "Saturday": [
+              "09:04:00",
+              "10:54:00"
+            ]
+          }
+        }
+      }
+    },
+    "790037": {
+      "routes": {
+        "801": {
+          "Outbound": true
+        },
+        "802": {
+          "North": true
+        },
+        "804": {
+          "Outbound": true
+        },
+        "805": {
+          "Outbound": true
+        }
+      },
+      "lon": "146.0295599",
+      "title": "Rankin St at Innisfail Hospital",
+      "stopId": "790037",
+      "tag": "790037",
+      "lat": "-17.51918",
+      "scheduleRoutes": {
+        "801": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "11:17:00",
+              "12:32:00"
+            ]
+          }
+        },
+        "802": {
+          "North": {
+            "Saturday": [
+              "09:27:00",
+              "11:27:00"
+            ]
+          }
+        },
+        "804": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "09:42:00",
+              "12:02:00"
+            ],
+            "Saturday": [
+              "09:47:00",
+              "12:07:00"
+            ]
+          }
+        },
+        "805": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "10:12:00",
+              "13:37:00"
+            ],
+            "Saturday": [
+              "10:07:00",
+              "11:47:00"
+            ]
+          }
+        }
+      }
+    },
+    "790038": {
+      "routes": {
+        "801": {
+          "Outbound": true
+        },
+        "804": {
+          "Outbound": true
+        }
+      },
+      "lon": "146.0255399",
+      "title": "Emily St at The Lakes Residential Village",
+      "stopId": "790038",
+      "tag": "790038",
+      "lat": "-17.51899",
+      "scheduleRoutes": {
+        "801": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "11:18:00",
+              "12:33:00"
+            ]
+          }
+        },
+        "804": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "09:43:00",
+              "12:03:00"
+            ],
+            "Saturday": [
+              "09:48:00",
+              "12:08:00"
+            ]
+          }
+        }
+      }
+    },
+    "790044": {
+      "routes": {
+        "803": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0345399",
+      "title": "Mourilyan Rd at Water Tower",
+      "stopId": "790044",
+      "tag": "790044",
+      "lat": "-17.52956",
+      "scheduleRoutes": {
+        "803": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "08:58:00",
+              "11:38:00",
+              "14:18:00",
+              "15:43:00"
+            ],
+            "Saturday": [
+              "09:03:00",
+              "10:53:00"
+            ]
+          }
+        }
+      }
+    },
+    "790045": {
+      "routes": {
+        "803": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0325799",
+      "title": "Mourilyan Rd near Rita St",
+      "stopId": "790045",
+      "tag": "790045",
+      "lat": "-17.54236",
+      "scheduleRoutes": {
+        "803": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "09:02:00",
+              "11:42:00",
+              "14:24:00",
+              "15:49:00"
+            ],
+            "Saturday": [
+              "09:07:00",
+              "10:57:00"
+            ]
+          }
+        }
+      }
+    },
+    "790051": {
+      "routes": {
+        "801": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0176199",
+      "title": "Tulip St near Warrina St (Hail n Ride)",
+      "stopId": "790051",
+      "tag": "790051",
+      "lat": "-17.51819",
+      "scheduleRoutes": {
+        "801": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "08:43:00",
+              "11:26:00",
+              "13:23:00"
+            ],
+            "Saturday": [
+              "08:48:00",
+              "10:41:00"
+            ]
+          }
+        }
+      }
+    },
+    "790052": {
+      "routes": {
+        "802": {
+          "North": true,
+          "South": true
+        },
+        "805": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0384699",
+      "title": "Aluart Rd near Colyer Cl",
+      "stopId": "790052",
+      "tag": "790052",
+      "lat": "-17.51511",
+      "scheduleRoutes": {
+        "802": {
+          "North": {
+            "Saturday": [
+              "09:34:00",
+              "11:34:00"
+            ]
+          },
+          "South": {
+            "Saturday": [
+              "09:34:00",
+              "11:34:00"
+            ]
+          }
+        },
+        "805": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "10:38:00",
+              "14:03:00"
+            ]
+          }
+        }
+      }
+    },
+    "790053": {
+      "routes": {
+        "805": {
+          "Outbound": true
+        }
+      },
+      "lon": "146.0388399",
+      "title": "Aluart Rd near Alexander St",
+      "stopId": "790053",
+      "tag": "790053",
+      "lat": "-17.51515",
+      "scheduleRoutes": {
+        "805": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "10:14:00",
+              "13:39:00"
+            ]
+          }
+        }
+      }
+    },
+    "790054": {
+      "routes": {
+        "805": {
+          "Outbound": true
+        }
+      },
+      "lon": "146.0388999",
+      "title": "Alexander Street near OReilly Cl",
+      "stopId": "790054",
+      "tag": "790054",
+      "lat": "-17.51694",
+      "scheduleRoutes": {
+        "805": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "10:14:00",
+              "13:39:00"
+            ]
+          }
+        }
+      }
+    },
+    "790055": {
+      "routes": {
+        "802": {
+          "South": true
+        },
+        "805": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0389599",
+      "title": "Katoora St near Nelson St",
+      "stopId": "790055",
+      "tag": "790055",
+      "lat": "-17.5221",
+      "scheduleRoutes": {
+        "802": {
+          "South": {
+            "Saturday": [
+              "09:36:00",
+              "11:36:00"
+            ]
+          }
+        },
+        "805": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "10:40:00",
+              "14:05:00"
+            ]
+          }
+        }
+      }
+    },
+    "790056": {
+      "routes": {
+        "805": {
+          "Outbound": true
+        }
+      },
+      "lon": "146.0372899",
+      "title": "Katoora St near Herbert St",
+      "stopId": "790056",
+      "tag": "790056",
+      "lat": "-17.52228",
+      "scheduleRoutes": {
+        "805": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "10:13:00",
+              "13:38:00"
+            ]
+          }
+        }
+      }
+    },
+    "790057": {
+      "routes": {
+        "802": {
+          "South": true
+        },
+        "805": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0358999",
+      "title": "Flying Rish Point Rd near Tierney St",
+      "stopId": "790057",
+      "tag": "790057",
+      "lat": "-17.51856",
+      "scheduleRoutes": {
+        "802": {
+          "South": {
+            "Saturday": [
+              "09:38:00",
+              "11:38:00"
+            ]
+          }
+        },
+        "805": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "10:42:00",
+              "14:07:00"
+            ],
+            "Saturday": [
+              "10:22:00",
+              "12:02:00"
+            ]
+          }
+        }
+      }
+    },
+    "790058": {
+      "routes": {
+        "802": {
+          "North": true
+        },
+        "805": {
+          "Outbound": true
+        }
+      },
+      "lon": "146.0335799",
+      "title": "Flying Fish Point Rd near Riverside Cr",
+      "stopId": "790058",
+      "tag": "790058",
+      "lat": "-17.51837",
+      "scheduleRoutes": {
+        "802": {
+          "North": {
+            "Saturday": [
+              "09:33:00",
+              "11:33:00"
+            ]
+          }
+        },
+        "805": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "10:12:00",
+              "13:37:00"
+            ],
+            "Saturday": [
+              "10:08:00",
+              "11:48:00"
+            ]
+          }
+        }
+      }
+    },
+    "790059": {
+      "routes": {
+        "802": {
+          "North": true
+        }
+      },
+      "lon": "146.0308299",
+      "title": "Paul St near Callendar Dr",
+      "stopId": "790059",
+      "tag": "790059",
+      "lat": "-17.51283",
+      "scheduleRoutes": {
+        "802": {
+          "North": {
+            "Saturday": [
+              "09:31:00",
+              "11:31:00"
+            ]
+          }
+        }
+      }
+    },
+    "790061": {
+      "routes": {
+        "802": {
+          "North": true
+        }
+      },
+      "lon": "146.0279899",
+      "title": "Callendar Dr near Peter St",
+      "stopId": "790061",
+      "tag": "790061",
+      "lat": "-17.51372",
+      "scheduleRoutes": {
+        "802": {
+          "North": {
+            "Saturday": [
+              "09:30:00",
+              "11:30:00"
+            ]
+          }
+        }
+      }
+    },
+    "790063": {
+      "routes": {
+        "805": {
+          "Outbound": true
+        }
+      },
+      "lon": "146.0397699",
+      "title": "Nelson St near Ripple St",
+      "stopId": "790063",
+      "tag": "790063",
+      "lat": "-17.52051",
+      "scheduleRoutes": {
+        "805": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "10:13:00",
+              "13:38:00"
+            ]
+          }
+        }
+      }
+    },
+    "790064": {
+      "routes": {
+        "802": {
+          "South": true
+        },
+        "805": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0398099",
+      "title": "Nelson St near Mayflower St",
+      "stopId": "790064",
+      "tag": "790064",
+      "lat": "-17.51994",
+      "scheduleRoutes": {
+        "802": {
+          "South": {
+            "Saturday": [
+              "09:36:00",
+              "11:36:00"
+            ]
+          }
+        },
+        "805": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "10:40:00",
+              "14:05:00"
+            ]
+          }
+        }
+      }
+    },
+    "790067": {
+      "routes": {
+        "805": {
+          "Outbound": true
+        }
+      },
+      "lon": "146.0760099",
+      "title": "Elizabeth Street near William St",
+      "stopId": "790067",
+      "tag": "790067",
+      "lat": "-17.50147",
+      "scheduleRoutes": {
+        "805": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "10:24:00",
+              "13:49:00"
+            ],
+            "Saturday": [
+              "10:14:00",
+              "11:54:00"
+            ]
+          }
+        }
+      }
+    },
+    "790069": {
+      "routes": {
+        "805": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0747599",
+      "title": "Maud St near Enid St",
+      "stopId": "790069",
+      "tag": "790069",
+      "lat": "-17.49539",
+      "scheduleRoutes": {
+        "805": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "10:27:00",
+              "13:52:00"
+            ],
+            "Saturday": [
+              "10:16:00",
+              "11:56:00"
+            ]
+          }
+        }
+      }
+    },
+    "790071": {
+      "routes": {
+        "805": {
+          "Inbound": true,
+          "Outbound": true
+        }
+      },
+      "lon": "146.0761299",
+      "title": "Feldt St at Flying Fish Point",
+      "stopId": "790071",
+      "tag": "790071",
+      "lat": "-17.49077",
+      "scheduleRoutes": {
+        "805": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "10:26:00",
+              "13:51:00"
+            ],
+            "Saturday": [
+              "10:15:00",
+              "11:55:00"
+            ]
+          },
+          "Outbound": {
+            "MoTuWeThFr": [
+              "10:26:00",
+              "13:51:00"
+            ],
+            "Saturday": [
+              "10:15:00",
+              "11:55:00"
+            ]
+          }
+        }
+      }
+    },
+    "790082": {
+      "routes": {
+        "801": {
+          "Outbound": true,
+          "Inbound": true
+        }
+      },
+      "lon": "146.0162499",
+      "title": "Velution St near Palmerston Dr",
+      "stopId": "790082",
+      "tag": "790082",
+      "lat": "-17.52457",
+      "scheduleRoutes": {
+        "801": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "08:40:00",
+              "13:20:00"
+            ],
+            "Saturday": [
+              "08:45:00"
+            ]
+          },
+          "Outbound": {
+            "MoTuWeThFr": [
+              "11:23:00"
+            ]
+          }
+        }
+      }
+    },
+    "790083": {
+      "routes": {},
+      "lon": "146.0162699",
+      "title": "Velution St near Mahogany St",
+      "stopId": "790083",
+      "tag": "790083",
+      "lat": "-17.52431",
+      "scheduleRoutes": {
+        "801": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "12:41:00"
+            ]
+          }
+        }
+      }
+    },
+    "790088": {
+      "routes": {
+        "803": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0331099",
+      "title": "Carmel St near Mourilyan Rd (Hail n Ride)",
+      "stopId": "790088",
+      "tag": "790088",
+      "lat": "-17.53518",
+      "scheduleRoutes": {
+        "803": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "09:04:00",
+              "11:44:00",
+              "14:26:00",
+              "15:51:00"
+            ],
+            "Saturday": [
+              "09:09:00",
+              "10:59:00"
+            ]
+          }
+        }
+      }
+    },
+    "790089": {
+      "routes": {
+        "803": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0318999",
+      "title": "Monica St near Auburn St",
+      "stopId": "790089",
+      "tag": "790089",
+      "lat": "-17.54389",
+      "scheduleRoutes": {
+        "803": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "09:02:00",
+              "11:42:00",
+              "14:24:00",
+              "15:49:00"
+            ],
+            "Saturday": [
+              "09:07:00",
+              "10:57:00"
+            ]
+          }
+        }
+      }
+    },
+    "790093": {
+      "routes": {
+        "803": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0370099",
+      "title": "Ryan St near Scheu St",
+      "stopId": "790093",
+      "tag": "790093",
+      "lat": "-17.53222",
+      "scheduleRoutes": {
+        "803": {
+          "Inbound": {
+            "MoTuWeThFr": [],
+            "Saturday": [
+              "09:12:00",
+              "11:02:00"
+            ]
+          }
+        }
+      }
+    },
+    "790095": {
+      "routes": {
+        "805": {
+          "Inbound": true
+        }
+      },
+      "lon": "146.0763399",
+      "title": "George St near Elizabeth St",
+      "stopId": "790095",
+      "tag": "790095",
+      "lat": "-17.49627",
+      "scheduleRoutes": {
+        "805": {
+          "Inbound": {
+            "MoTuWeThFr": [
+              "10:28:00",
+              "13:53:00"
+            ],
+            "Saturday": [
+              "10:16:00",
+              "11:56:00"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "copyright": "All data copyright Innisfail 2020."
+}

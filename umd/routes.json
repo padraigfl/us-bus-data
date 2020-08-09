@@ -23,7 +23,6 @@
         ],
         "Regents Drive Parking Garage": [
           "cpmetro_d",
-          "pain50th",
           "painrhod_in",
           "painglen"
         ]
@@ -38,7 +37,15 @@
         ]
       },
       "scheduledTimeRange": {
-        "cpmetro": {},
+        "cpmetro": {
+          "f": {},
+          "mtw": {},
+          "sat": {},
+          "special": {},
+          "special_fri": {},
+          "sun": {},
+          "th": {}
+        },
         "regdrgar": {
           "f": {
             "first": "05:50:00",
@@ -127,19 +134,23 @@
         ]
       },
       "scheduledTimeRange": {
-        "cour500": {},
+        "cour500": {
+          "f": {},
+          "mtw": {},
+          "th": {}
+        },
         "guilrowa": {
           "f": {
-            "first": "07:12:00",
-            "last": "17:14:00"
+            "first": "07:13:00",
+            "last": "17:09:00"
           },
           "mtw": {
-            "first": "07:12:00",
-            "last": "17:14:00"
+            "first": "07:13:00",
+            "last": "17:09:00"
           },
           "th": {
-            "first": "07:12:00",
-            "last": "17:14:00"
+            "first": "07:13:00",
+            "last": "17:09:00"
           }
         }
       }
@@ -205,7 +216,11 @@
         ]
       },
       "scheduledTimeRange": {
-        "chateau": {},
+        "chateau": {
+          "f": {},
+          "mtw": {},
+          "th": {}
+        },
         "regegara": {
           "f": {
             "first": "07:23:00",
@@ -270,15 +285,70 @@
         "loop": {
           "f": {
             "first": "06:00:00",
-            "last": "17:45:00"
+            "last": "17:40:00"
           },
           "mtw": {
             "first": "06:00:00",
-            "last": "17:45:00"
+            "last": "17:40:00"
           },
           "th": {
             "first": "06:00:00",
-            "last": "17:45:00"
+            "last": "17:40:00"
+          }
+        }
+      }
+    },
+    "110": {
+      "title": "Seven Springs Express",
+      "color": "cd8500",
+      "tag": "110",
+      "shortTitle": "110 Sevn Springs",
+      "oppositeColor": "000000",
+      "max": [
+        39.0178782,
+        -76.9376829
+      ],
+      "min": [
+        38.98952,
+        -76.94075
+      ],
+      "stops": {
+        "Regents Drive Garage": [
+          "ssvill",
+          "cher9308"
+        ],
+        "Seven Springs Village Apartments": [
+          "regegara_d",
+          "cher9348"
+        ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "regegara_a"
+        ],
+        "outbound": [
+          "regegara_d",
+          "cher9348"
+        ]
+      },
+      "scheduledTimeRange": {
+        "regegara": {
+          "f": {},
+          "mtw": {},
+          "th": {}
+        },
+        "ssvill": {
+          "f": {
+            "first": "07:00:00",
+            "last": "20:25:00"
+          },
+          "mtw": {
+            "first": "07:00:00",
+            "last": "22:15:00"
+          },
+          "th": {
+            "first": "07:00:00",
+            "last": "22:15:00"
           }
         }
       }
@@ -290,11 +360,11 @@
       "shortTitle": "111 Slver Spring",
       "oppositeColor": "000000",
       "max": [
-        39.001575,
+        39.0016406,
         -76.94075
       ],
       "min": [
-        38.9835797,
+        38.9834699,
         -77.029742
       ],
       "stops": {
@@ -306,7 +376,7 @@
           "univshop_out",
           "univguil_out",
           "univrigg_out",
-          "univnham",
+          "univ14th",
           "univrite",
           "merrilock",
           "carrchest",
@@ -338,9 +408,8 @@
           "carrwild_in",
           "merriuniv",
           "univhamp",
-          "univ14th",
+          "univ15th",
           "univhech",
-          "univcity",
           "univ25th_in",
           "univgrad",
           "cspa_main",
@@ -363,22 +432,22 @@
       "scheduledTimeRange": {
         "ssmetro": {
           "f": {
-            "first": "06:20:00",
-            "last": "20:50:00"
+            "first": "06:15:00",
+            "last": "20:20:00"
           },
           "mtw": {
-            "first": "06:20:00",
-            "last": "22:15:00"
+            "first": "06:15:00",
+            "last": "22:05:00"
           },
           "th": {
-            "first": "06:20:00",
-            "last": "22:15:00"
+            "first": "06:15:00",
+            "last": "22:05:00"
           }
         },
         "stamsuhh": {
           "f": {
             "first": "07:02:00",
-            "last": "21:27:00"
+            "last": "21:08:00"
           },
           "mtw": {
             "first": "07:02:00",
@@ -529,15 +598,15 @@
         "loop": {
           "f": {
             "first": "07:17:00",
-            "last": "17:16:00"
+            "last": "17:06:00"
           },
           "mtw": {
             "first": "07:17:00",
-            "last": "17:16:00"
+            "last": "17:06:00"
           },
           "th": {
             "first": "07:17:00",
-            "last": "17:16:00"
+            "last": "17:06:00"
           }
         }
       }
@@ -563,7 +632,8 @@
           "elk",
           "hage",
           "laplat",
-          "camb",
+          "varhous",
+          "stadatl",
           "regegara_d",
           "mitc_out",
           "memo_out",
@@ -588,19 +658,19 @@
         "loop": {
           "f": {
             "first": "17:30:00",
-            "last": "02:46:00"
+            "last": "02:44:00"
           },
           "mtw": {
             "first": "17:30:00",
-            "last": "02:44:00"
+            "last": "02:36:00"
           },
           "sat": {
             "first": "17:30:00",
-            "last": "02:46:00"
+            "last": "02:44:00"
           },
           "sun": {
             "first": "17:30:00",
-            "last": "02:44:00"
+            "last": "02:36:00"
           },
           "th": {
             "first": "17:30:00",
@@ -670,23 +740,23 @@
         "loop": {
           "f": {
             "first": "17:25:00",
-            "last": "02:36:00"
+            "last": "02:32:00"
           },
           "mtw": {
             "first": "17:25:00",
-            "last": "02:36:00"
+            "last": "02:32:00"
           },
           "sat": {
             "first": "10:05:00",
-            "last": "02:36:00"
+            "last": "02:20:00"
           },
           "sun": {
             "first": "10:05:00",
-            "last": "02:36:00"
+            "last": "00:41:00"
           },
           "th": {
             "first": "17:25:00",
-            "last": "02:36:00"
+            "last": "02:32:00"
           }
         }
       }
@@ -736,23 +806,23 @@
         "loop": {
           "f": {
             "first": "17:30:00",
-            "last": "02:46:00"
+            "last": "02:41:00"
           },
           "mtw": {
             "first": "17:30:00",
-            "last": "02:47:00"
+            "last": "02:42:00"
           },
           "sat": {
             "first": "09:59:00",
-            "last": "02:46:00"
+            "last": "02:41:00"
           },
           "sun": {
             "first": "09:59:00",
-            "last": "02:47:00"
+            "last": "02:42:00"
           },
           "th": {
             "first": "17:30:00",
-            "last": "02:47:00"
+            "last": "02:42:00"
           }
         }
       }
@@ -800,6 +870,8 @@
           "regepain",
           "regecomc_in",
           "regefarm_in",
+          "camb",
+          "cumber",
           "regegara_d"
         ]
       },
@@ -886,7 +958,8 @@
           "elk",
           "hage",
           "laplat",
-          "camb",
+          "varhous",
+          "stadatl",
           "regegara_d"
         ]
       },
@@ -906,15 +979,15 @@
         "loop": {
           "f": {
             "first": "17:25:00",
-            "last": "02:32:00"
+            "last": "02:30:00"
           },
           "mtw": {
             "first": "17:25:00",
-            "last": "02:36:00"
+            "last": "02:32:00"
           },
           "sat": {
             "first": "10:05:00",
-            "last": "02:32:00"
+            "last": "02:30:00"
           },
           "special": {
             "first": "09:53:00",
@@ -922,11 +995,11 @@
           },
           "sun": {
             "first": "09:53:00",
-            "last": "02:36:00"
+            "last": "02:32:00"
           },
           "th": {
             "first": "17:25:00",
-            "last": "02:36:00"
+            "last": "02:32:00"
           }
         }
       }
@@ -1010,7 +1083,11 @@
         ]
       },
       "scheduledTimeRange": {
-        "stamsu": {},
+        "stamsu": {
+          "mtw": {},
+          "special": {},
+          "th": {}
+        },
         "univshad": {
           "mtw": {
             "first": "06:50:00",
@@ -1114,7 +1191,11 @@
         ]
       },
       "scheduledTimeRange": {
-        "ncarmetr": {},
+        "ncarmetr": {
+          "f": {},
+          "mtw": {},
+          "th": {}
+        },
         "stamsu": {
           "f": {
             "first": "07:08:00",
@@ -1192,7 +1273,11 @@
             "last": "22:05:00"
           }
         },
-        "regegara": {}
+        "regegara": {
+          "f": {},
+          "mtw": {},
+          "th": {}
+        }
       }
     },
     "128": {
@@ -1248,7 +1333,11 @@
             "last": "22:30:00"
           }
         },
-        "stamsu": {}
+        "stamsu": {
+          "f": {},
+          "mtw": {},
+          "th": {}
+        }
       }
     },
     "131": {
@@ -1317,7 +1406,7 @@
           },
           "sat": {
             "first": "17:32:00",
-            "last": "02:41:00"
+            "last": "02:31:00"
           },
           "th": {
             "first": "22:55:00",
@@ -1335,7 +1424,7 @@
           },
           "sat": {
             "first": "18:06:00",
-            "last": "03:13:00"
+            "last": "02:55:00"
           },
           "th": {
             "first": "23:30:00",
@@ -1431,13 +1520,12 @@
           "elk",
           "hage_in",
           "laplat_in",
-          "camb_in"
+          "varhous",
+          "stadatl"
         ],
         "The Mall at Prince George's": [
           "regegara_d",
           "regestad",
-          "regefarm_out",
-          "camb_out",
           "laplat_out",
           "hage_out",
           "elkton_out",
@@ -1466,7 +1554,9 @@
         ]
       },
       "scheduledTimeRange": {
-        "regegara": {},
+        "regegara": {
+          "sat": {}
+        },
         "targ": {
           "sat": {
             "first": "10:00:00",
@@ -1518,7 +1608,10 @@
             "last": "21:10:00"
           }
         },
-        "stamsu": {}
+        "stamsu": {
+          "mtw": {},
+          "th": {}
+        }
       }
     },
     "141": {
@@ -1567,7 +1660,11 @@
             "last": "22:55:00"
           }
         },
-        "wdiapknr": {}
+        "wdiapknr": {
+          "f": {},
+          "mtw": {},
+          "th": {}
+        }
       }
     },
     "142": {
@@ -1601,7 +1698,11 @@
         ]
       },
       "scheduledTimeRange": {
-        "brokride": {},
+        "brokride": {
+          "f": {},
+          "mtw": {},
+          "th": {}
+        },
         "regegara": {
           "f": {
             "first": "07:00:00",
@@ -1766,7 +1867,13 @@
         ]
       },
       "scheduledTimeRange": {
-        "bowiuniv": {},
+        "bowiuniv": {
+          "f": {},
+          "mtw": {},
+          "sat": {},
+          "sun": {},
+          "th": {}
+        },
         "enclave": {
           "f": {
             "first": "07:45:00",
@@ -1792,5 +1899,5 @@
       }
     }
   },
-  "copyright": "All data copyright University of Maryland 2019."
+  "copyright": "All data copyright University of Maryland 2020."
 }

@@ -25,6 +25,28 @@
           "200tech_ib",
           "60vass_ib"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "linclab"
+        ],
+        "outbound": [
+          "60vass_ob",
+          "200tech_ob",
+          "linclab_a",
+          "325main_d"
+        ]
+      },
+      "scheduledTimeRange": {
+        "ib": {
+          "wkd": {}
+        },
+        "ob": {
+          "wkd": {
+            "first": "07:45:00",
+            "last": "18:10:00"
+          }
+        }
       }
     },
     "fs": {
@@ -47,8 +69,24 @@
         "Lincoln Lab": [
           "5forb"
         ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "linclab"
+        ],
+        "outbound": [
+          "5forb"
+        ]
+      },
+      "scheduledTimeRange": {
+        "5forb": {
+          "wkd": {}
+        },
+        "linclab": {
+          "wkd": {}
+        }
       }
     }
   },
-  "copyright": "All data copyright MIT Lincoln Lab Shuttle 2019."
+  "copyright": "All data copyright MIT Lincoln Lab Shuttle 2020."
 }

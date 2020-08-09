@@ -11,7 +11,7 @@
       ],
       "min": [
         37.7862529,
-        -121.263609
+        -121.2576574
       ],
       "stops": {
         "Loop": [
@@ -38,54 +38,16 @@
           "yoseunio",
           "yosedomi",
           "staddani",
-          "mantstat",
-          "nairdani",
-          "yosewint",
+          "fishwawo",
+          "thomwint",
+          "wintwyos",
           "yoseunio_i",
           "yosewaln",
           "yosesequ",
           "yosepier"
         ]
       },
-      "scheduledStops": {
-        "inbound": [
-          "trancent_d",
-          "nortcott",
-          "yosepest",
-          "pestyose",
-          "sprenorm",
-          "yosesher_i",
-          "centmagn",
-          "staddani",
-          "mantstat",
-          "yoseunio_i",
-          "trancent_a"
-        ],
-        "outbound": [
-          "trancent_d",
-          "nortcott",
-          "yosepest",
-          "pestyose",
-          "sprenorm",
-          "yosesher_i",
-          "centmagn",
-          "staddani",
-          "yoseunio_i",
-          "trancent_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "loop": {
-          "wkd": {
-            "first": "06:00:00",
-            "last": "18:00:00"
-          },
-          "sat": {
-            "first": "09:00:00",
-            "last": "15:00:00"
-          }
-        }
-      }
+      "scheduledStops": {}
     },
     "2": {
       "title": "2",
@@ -93,85 +55,40 @@
       "tag": "2",
       "oppositeColor": "ffffff",
       "max": [
-        37.8254296,
-        -121.214751
+        37.7991879,
+        -121.1905158
       ],
       "min": [
-        37.780069,
-        -121.2636091
+        37.77562,
+        -121.257658
       ],
       "stops": {
         "Loop": [
           "trancent_d",
           "mainwetm",
           "mainmiss",
+          "woodwel",
+          "woodmem",
+          "anthetes",
+          "athevan",
+          "athetinn",
           "promshop",
           "daniroya",
           "danijunc",
-          "danifish",
+          "danfish",
           "staddani",
           "fishwawo",
           "thomwint",
           "wintwyos",
-          "mantstat",
           "yoseunio",
-          "cherdavi",
-          "cherunio",
-          "unioalam",
-          "unioloui",
-          "nortchaf",
-          "nortlond",
-          "londpica",
-          "uniolath",
-          "nortunio",
-          "nortpaja",
-          "eastston",
-          "nortcres",
-          "maingate",
-          "mainloui",
-          "mainalam",
-          "mainnort"
+          "centmagn",
+          "wawcar",
+          "tahcham",
+          "mainpark",
+          "mainwetm_i"
         ]
       },
-      "scheduledStops": {
-        "inbound": [
-          "trancent_d",
-          "mainmiss",
-          "promshop",
-          "staddani",
-          "mantstat",
-          "yoseunio",
-          "cherdavi",
-          "unioloui",
-          "nortunio",
-          "mainloui",
-          "trancent_a"
-        ],
-        "outbound": [
-          "trancent_d",
-          "mainmiss",
-          "promshop",
-          "staddani",
-          "yoseunio",
-          "cherdavi",
-          "unioloui",
-          "nortunio",
-          "mainloui",
-          "trancent_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "loop": {
-          "wkd": {
-            "first": "06:00:00",
-            "last": "18:00:00"
-          },
-          "sat": {
-            "first": "09:00:00",
-            "last": "15:00:00"
-          }
-        }
-      }
+      "scheduledStops": {}
     },
     "3": {
       "title": "3",
@@ -179,22 +96,26 @@
       "tag": "3",
       "oppositeColor": "000000",
       "max": [
-        37.8254817,
-        -121.214751
+        37.8254819,
+        -121.193284
       ],
       "min": [
-        37.779137,
-        -121.263609
+        37.794649,
+        -121.2513858
       ],
       "stops": {
         "Loop": [
-          "trancent_d",
+          "trancent_a",
           "mainnort",
           "boysgirl",
           "mainalam",
+          "louisou",
+          "empdia",
+          "louicott",
+          "louimtd",
           "mainloui",
           "nortcres",
-          "eastston",
+          "eaststone",
           "northoyt",
           "uniohigh",
           "uniolath",
@@ -202,49 +123,18 @@
           "nortlond",
           "unionort",
           "unioloui",
-          "unioalam",
+          "louiair",
+          "zurgen",
+          "cromsilv",
           "cherunio",
           "chereuca",
           "centmagn",
-          "yoseunio",
-          "mantstat",
-          "wintyose",
-          "thomenri",
-          "danifish",
-          "staddani",
-          "danilaur",
-          "daniston",
-          "danihunt",
-          "promshop",
-          "athetinn",
-          "mainpark",
-          "mainwetm"
+          "yosewal",
+          "yoseseq",
+          "yoseave"
         ]
       },
-      "scheduledStops": {
-        "inbound": [
-          "trancent_d",
-          "mainloui",
-          "eastston",
-          "uniolath",
-          "unioloui",
-          "centmagn",
-          "mantstat",
-          "thomenri",
-          "staddani",
-          "promshop",
-          "mainpark",
-          "trancent_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "loop": {
-          "wkd": {
-            "first": "06:00:00",
-            "last": "18:00:00"
-          }
-        }
-      }
+      "scheduledStops": {}
     },
     "4": {
       "title": "ACE Shuttle",
@@ -289,7 +179,71 @@
           }
         }
       }
+    },
+    "4a": {
+      "title": "4",
+      "color": "93c0ec",
+      "tag": "4a",
+      "oppositeColor": "000000",
+      "max": [
+        37.82027,
+        -121.214751
+      ],
+      "min": [
+        37.775666,
+        -121.252925
+      ],
+      "stops": {
+        "Loop": [
+          "trancent_d",
+          "mainwetm",
+          "mainmiss",
+          "woodlaur",
+          "woodtin",
+          "woodpag",
+          "woodfon",
+          "airpere",
+          "airdan",
+          "thomwint",
+          "wintwyos",
+          "yoseunio",
+          "zurgen",
+          "airlouis",
+          "northlon",
+          "northuni",
+          "northpa",
+          "eaststone",
+          "northcres",
+          "mainngat",
+          "mainlouis",
+          "boysgirl",
+          "mainnorth"
+        ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "trancent_d",
+          "mainmiss",
+          "woodfon",
+          "airdan",
+          "thomwint",
+          "yoseunio",
+          "airlouis",
+          "eaststone",
+          "mainlouis",
+          "boysgirl",
+          "trancent_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:00:00"
+          }
+        }
+      }
     }
   },
-  "copyright": "All data copyright Manteca Transit 2019."
+  "copyright": "All data copyright Manteca Transit 2020."
 }

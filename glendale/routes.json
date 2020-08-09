@@ -356,7 +356,7 @@
       "shortTitle": "33 Montrose-JPL",
       "oppositeColor": "ffffff",
       "max": [
-        34.2169996,
+        34.2169998,
         -118.175339
       ],
       "min": [
@@ -518,12 +518,12 @@
       "shortTitle": "1 Downtown-GTC",
       "oppositeColor": "000000",
       "max": [
-        34.16364,
-        -118.255
+        34.163641,
+        -118.2550191
       ],
       "min": [
-        34.124434,
-        -118.2602318
+        34.1241371,
+        -118.260299
       ],
       "stops": {
         "Southbound to Glendale Trans Center": [
@@ -589,7 +589,7 @@
           },
           "sun": {
             "first": "09:10:00",
-            "last": "16:25:00"
+            "last": "17:40:00"
           }
         },
         "SBgtc": {
@@ -603,7 +603,7 @@
           },
           "sun": {
             "first": "09:27:00",
-            "last": "16:49:00"
+            "last": "18:01:00"
           }
         }
       }
@@ -615,15 +615,16 @@
       "shortTitle": "2 Downtown-GTC",
       "oppositeColor": "ffffff",
       "max": [
-        34.16373,
-        -118.25481
+        34.1637299,
+        -118.254801
       ],
       "min": [
-        34.124434,
-        -118.26015
+        34.1241371,
+        -118.2602989
       ],
       "stops": {
         "Southbound to Glendale Trans Center": [
+          "StoBra",
           "CenSto",
           "CenDry",
           "CenArd",
@@ -650,6 +651,7 @@
           "BraGarf",
           "BraMap",
           "BraLom",
+          "BraCol",
           "BraHar",
           "BraBro",
           "BraWil",
@@ -657,18 +659,16 @@
           "BraLex",
           "BraMil",
           "BraMon",
-          "BraFai",
-          "StoBra",
-          "BraCol"
+          "BraFai"
         ]
       },
       "scheduledStops": {
         "inbound": [
           "GTC_d",
-          "BraBro",
-          "StoBra"
+          "BraBro"
         ],
         "outbound": [
+          "StoBra",
           "CenHar",
           "GTC_a"
         ]
@@ -685,21 +685,21 @@
           },
           "sun": {
             "first": "09:00:00",
-            "last": "17:40:00"
+            "last": "17:30:00"
           }
         },
         "SBgtc": {
           "wkd": {
-            "first": "06:17:00",
-            "last": "19:25:00"
+            "first": "06:07:00",
+            "last": "19:14:00"
           },
           "sat": {
-            "first": "09:27:00",
-            "last": "18:02:00"
+            "first": "09:17:00",
+            "last": "17:51:00"
           },
           "sun": {
-            "first": "09:27:00",
-            "last": "18:12:00"
+            "first": "09:17:00",
+            "last": "17:51:00"
           }
         }
       }
@@ -1248,5 +1248,5 @@
       }
     }
   },
-  "copyright": "All data copyright Glendale Beeline 2019."
+  "copyright": "All data copyright Glendale Beeline 2020."
 }

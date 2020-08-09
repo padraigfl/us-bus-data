@@ -109,6 +109,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "GTC Entrance",
+        "tag": "gtc_entr",
+        "stopId": "0025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2978904,
+          39.7129526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Bus Shelter 15",
         "tag": "busshelt_15",
         "stopId": "0017"
@@ -117,7 +132,7 @@
         "type": "Point",
         "coordinates": [
           -86.3066495,
-          39.7081188
+          39.7081187
         ]
       }
     },
@@ -131,7 +146,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.3079964,
+          -86.3079965,
           39.7070608
         ]
       }
@@ -146,8 +161,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.3091826,
-          39.7061217
+          -86.3091822,
+          39.7061219
         ]
       }
     },
@@ -176,8 +191,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.3088186,
-          39.7046837
+          -86.3088189,
+          39.7046835
         ]
       }
     },
@@ -191,8 +206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.308043,
-          39.7052554
+          -86.3080423,
+          39.7052558
         ]
       }
     },
@@ -206,8 +221,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.3068542,
-          39.706194
+          -86.3068544,
+          39.7061938
         ]
       }
     },
@@ -221,23 +236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.3056712,
-          39.7071508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "GTC Entrance",
-        "tag": "gtc_entr",
-        "stopId": "0025"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.2978907,
-          39.7129528
+          -86.3056715,
+          39.7071506
         ]
       }
     },
@@ -317,5 +317,5 @@
       }
     }
   ],
-  "copyright": "All data copyright Indianapolis International Airport 2019."
+  "copyright": "All data copyright Indianapolis International Airport 2020."
 }

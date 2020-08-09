@@ -135,8 +135,18 @@
         ]
       },
       "scheduledTimeRange": {
-        "amesmain": {},
-        "paciland": {}
+        "amesmain": {
+          "wkd": {},
+          "earlyrelease": {},
+          "holiday": {},
+          "holidayearly": {}
+        },
+        "paciland": {
+          "wkd": {},
+          "earlyrelease": {},
+          "holiday": {},
+          "holidayearly": {}
+        }
       }
     },
     "morning": {
@@ -238,5 +248,5 @@
       }
     }
   },
-  "copyright": "All data copyright EZRide - Charles River TMA 2019."
+  "copyright": "All data copyright EZRide - Charles River TMA 2020."
 }

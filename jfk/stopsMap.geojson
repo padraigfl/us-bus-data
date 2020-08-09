@@ -704,7 +704,134 @@
           40.6624571
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Federal Circle AirTrain Station",
+        "tag": "fedecirc",
+        "stopId": "000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.803333,
+          40.661111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jamaica AirTrain Station",
+        "tag": "jamastat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8078129,
+          40.698746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal 1",
+        "tag": "term1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.789967,
+          40.643639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal 2",
+        "tag": "term2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7886905,
+          40.6419203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal 4",
+        "tag": "term4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7839403,
+          40.6437368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal 5",
+        "tag": "term5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.77915,
+          40.646887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal 7",
+        "tag": "term7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7827281,
+          40.6485721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Terminal 8",
+        "tag": "term8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7898116,
+          40.646684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Long Term 4",
+        "tag": "stop4_i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8258469,
+          40.661678
+        ]
+      }
     }
   ],
-  "copyright": "All data copyright JFK International Airport 2019."
+  "copyright": "All data copyright JFK International Airport 2020."
 }

@@ -94,15 +94,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Benicia Park Road & Industrial Way (westbound)",
+        "title": "Benicia Park Road & Industrial Way (SB)",
         "tag": "5416",
         "stopId": "75397"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.129,
-          38.0684899
+          -122.12912,
+          38.0683999
         ]
       }
     },
@@ -146,8 +146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.49739,
-          38.5749599
+          -121.4973899,
+          38.57496
         ]
       }
     },
@@ -387,7 +387,7 @@
         "type": "Point",
         "coordinates": [
           -122.04036,
-          38.25272
+          38.2527199
         ]
       }
     },
@@ -627,22 +627,7 @@
         "type": "Point",
         "coordinates": [
           -122.0087499,
-          38.2651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Tabor Ave and Davis Dr",
-        "tag": "28573",
-        "stopId": "75045"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.0012299,
-          38.2649899
+          38.2650999
         ]
       }
     },
@@ -687,7 +672,7 @@
         "type": "Point",
         "coordinates": [
           -121.98788,
-          38.2654499
+          38.26545
         ]
       }
     },
@@ -1436,8 +1421,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.0314799,
-          38.24641
+          -122.03148,
+          38.2464099
         ]
       }
     },
@@ -1451,8 +1436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.03134,
-          38.24286
+          -122.0313399,
+          38.2428599
         ]
       }
     },
@@ -1691,7 +1676,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.02058,
+          -122.0205799,
           38.25804
         ]
       }
@@ -1819,21 +1804,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cement Hill Rd and Camrose Ave",
-        "tag": "28662",
-        "stopId": "75251"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.02896,
-          38.2782299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Cement Hill Rd and Elmhurst Cir (Fairfield High School)",
         "tag": "28663",
         "stopId": "75252"
@@ -1886,8 +1856,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.0224299,
-          38.2580899
+          -122.02243,
+          38.25809
         ]
       }
     },
@@ -2104,21 +2074,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Silverado Dr and Silverado Cir",
-        "tag": "28683",
-        "stopId": "75284"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.14253,
-          38.19584
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Silverado Dr and Meadows Ct",
         "tag": "28684",
         "stopId": "75285"
@@ -2292,7 +2247,7 @@
         "type": "Point",
         "coordinates": [
           -122.1383,
-          38.18247
+          38.1824699
         ]
       }
     },
@@ -2329,21 +2284,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Oakbrook Dr and Brookdale Cir",
-        "tag": "28698",
-        "stopId": "75299"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.14247,
-          38.18875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Oakbrook Dr and Oakbrook Ct",
         "tag": "28699",
         "stopId": "75300"
@@ -2351,8 +2291,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1440199,
-          38.1917299
+          -122.14402,
+          38.19173
         ]
       }
     },
@@ -2367,7 +2307,7 @@
         "type": "Point",
         "coordinates": [
           -122.14596,
-          38.19336
+          38.1933599
         ]
       }
     },
@@ -2381,8 +2321,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1466599,
-          38.1956099
+          -122.14666,
+          38.19561
         ]
       }
     },
@@ -2434,21 +2374,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Fulton Dr  and  Lopes Rd",
-        "tag": "28705",
-        "stopId": "75307"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.1388399,
-          38.20705
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Central Way op Ritchie",
         "tag": "28706",
         "stopId": "75310"
@@ -2472,7 +2397,7 @@
         "type": "Point",
         "coordinates": [
           -122.1374,
-          38.21461
+          38.2146099
         ]
       }
     },
@@ -2487,7 +2412,7 @@
         "type": "Point",
         "coordinates": [
           -122.13642,
-          38.21683
+          38.2168299
         ]
       }
     },
@@ -2599,21 +2524,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Pennsylvania Ave. & B. Gale Wilson Blvd.",
-        "tag": "28716",
-        "stopId": "75323"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.0498399,
-          38.2613599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Solano Town Center",
         "tag": "28717",
         "stopId": "75325"
@@ -2636,7 +2546,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.0543,
+          -122.0542999,
           38.2619399
         ]
       }
@@ -2676,7 +2586,7 @@
       "properties": {
         "title": "Woolner Ave and Gregory Ln.",
         "tag": "28722",
-        "stopId": "75344"
+        "stopId": "75334"
       },
       "geometry": {
         "type": "Point",
@@ -2779,15 +2689,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Kentucky St and Madison St(Civic Center)",
+        "title": "Kentucky St and Taylor St (Civic Center)",
         "tag": "28729",
         "stopId": "75504"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.04557,
-          38.2513799
+          -122.04691,
+          38.2513999
         ]
       }
     },
@@ -2921,8 +2831,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.06794,
-          38.2571499
+          -122.06787,
+          38.2568999
         ]
       }
     },
@@ -2937,7 +2847,7 @@
         "type": "Point",
         "coordinates": [
           -122.02454,
-          38.27979
+          38.27978
         ]
       }
     },
@@ -2951,7 +2861,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.01228,
+          -122.0122799,
           38.27973
         ]
       }
@@ -3296,7 +3206,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.0297199,
+          -122.02972,
           38.25815
         ]
       }
@@ -3311,8 +3221,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.0199723,
-          38.2533136
+          -122.0199724,
+          38.2533135
         ]
       }
     },
@@ -3409,15 +3319,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Benicia Park Rd and Industrial Way (Eastbound)",
+        "title": "Benicia Park Rd and Industrial Way (NB)",
         "tag": "807829",
         "stopId": "75550"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1288,
-          38.0684499
+          -122.12889,
+          38.0682499
         ]
       }
     },
@@ -3555,7 +3465,22 @@
           38.2543399
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Buena Vista Ave and Rio Verde",
+        "tag": "2617959",
+        "stopId": "75558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02974,
+          38.2473199
+        ]
+      }
     }
   ],
-  "copyright": "All data copyright FAST 2019."
+  "copyright": "All data copyright FAST 2020."
 }

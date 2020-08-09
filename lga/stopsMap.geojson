@@ -34,44 +34,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Terminal B",
-        "tag": "trmb",
-        "stopId": "200"
+        "title": "102nd St Inbound",
+        "tag": "102nd_i",
+        "stopId": "000"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.870945,
-          40.774097
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stop 15",
-        "tag": "stop15"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8868069,
-          40.7698556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Terminal D",
-        "tag": "trmd",
-        "stopId": "400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8625335,
-          40.7685436
+          -73.868611,
+          40.769592
         ]
       }
     },
@@ -85,8 +56,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.864853,
-          40.770124
+          -73.8648525,
+          40.7701237
         ]
       }
     },
@@ -100,7 +71,7 @@
         "type": "Point",
         "coordinates": [
           -73.8689008,
-          40.7696969
+          40.769697
         ]
       }
     },
@@ -122,108 +93,32 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "102nd St Inbound",
-        "tag": "102nd_i",
-        "stopId": "000"
+        "title": "Terminal B",
+        "tag": "trmb",
+        "stopId": "200"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8686109,
-          40.7695921
+          -73.87223,
+          40.772615
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "102nd St Outbound",
-        "tag": "102nd_o",
-        "stopId": "000"
+        "title": "Hanger 5",
+        "tag": "hng5"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8698323,
-          40.7698572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Taxi Shuttle B Pick Up",
-        "tag": "trmb2",
-        "stopId": "319"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8745263,
-          40.7740346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Taxi Shuttle B Drop Off",
-        "tag": "pickup",
-        "stopId": "320"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8868681,
-          40.7702647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Taxi Shuttle CD Pick Up (C Pick Up)",
-        "tag": "trmc2",
-        "stopId": "747"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.864853,
-          40.770124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Taxi Shuttle CD Drop Off",
-        "tag": "pickup2",
-        "stopId": "757"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.886868,
-          40.770265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Taxi Shuttle CD Pick Up (D pick up)",
-        "tag": "trmd2",
-        "stopId": "737"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.8625335,
-          40.7685436
+          -73.879838,
+          40.770815
         ]
       }
     }
   ],
-  "copyright": "All data copyright LaGuardia Airport Shuttle 2019."
+  "copyright": "All data copyright LaGuardia Airport Shuttle 2020."
 }

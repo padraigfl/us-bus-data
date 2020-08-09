@@ -6,45 +6,36 @@
       "tag": "A",
       "oppositeColor": "ffffff",
       "max": [
-        35.95131,
-        -79.0442814
+        35.9294827,
+        -79.0232569
       ],
       "min": [
-        35.9028397,
-        -79.06492
+        35.9083476,
+        -79.0640089
       ],
       "stops": {
-        "Weiner St at Severin St": [
-          "homesout",
-          "homemlkb_s",
-          "airpbroo",
-          "mlknort",
-          "airptimb_s",
-          "mlkbshad_s",
-          "mlkbymca_s",
-          "mlkbair",
-          "mlkbbarc_s",
-          "mlkbgard",
-          "hillmlkb_s",
-          "hillbroo",
-          "hilltown",
-          "hillnort",
-          "hillrose_s",
-          "ralespen",
-          "ralemang",
+        "Westbound": [
+          "univplac",
+          "willeste",
+          "estecame",
+          "este15by",
+          "branhay",
+          "branhamil",
+          "hamimaxw2",
+          "hamiberkl",
+          "hamimax",
+          "hamirale",
+          "ralelenn",
+          "raleuncad",
+          "ralegree",
+          "soutcount",
+          "soutrale",
           "soutstud",
-          "stadstad",
-          "stadridg",
-          "ridgrams",
-          "mannpubl",
-          "mannhibb_w",
-          "mannunch",
-          "coluheal",
-          "colucarr",
+          "soutkena",
           "scolsitt",
           "scolaber",
-          "scolrose",
-          "roseprit",
+          "colurose",
+          "rosepritch",
           "rosebrea",
           "mitcrose",
           "mitclind",
@@ -58,361 +49,87 @@
           "prittrin",
           "bradread_n",
           "bradwill_n",
+          "sevebrad",
           "barcwill",
           "barcwyri",
-          "barchart"
+          "barchart",
+          "weinbarc"
         ],
-        "Homestead Rd at Southern Human Services": [
-          "weinseve_d",
-          "severi224",
-          "sevebard",
-          "bradwill_s",
+        "Eastbound": [
+          "weinseve",
+          "seve223",
+          "seven224",
+          "bradwill",
           "bradread_s",
+          "umstprit",
           "pritlong",
-          "colulong_s",
+          "longcolu",
           "coluisle",
-          "colutown",
+          "caldnorth",
+          "mitchcald",
+          "mitcrobe",
+          "mitch211",
+          "rosemini",
+          "roseprit",
           "colufank",
           "colufrat",
-          "pittnewm",
-          "pittcred",
-          "pittuniv",
-          "mannhosp",
-          "mannhibb_e",
-          "manncrai",
-          "ridgehri",
-          "ridgstad",
-          "stadcarm",
+          "southcoke",
           "soutfetz",
-          "raleconn",
-          "raleilewi",
-          "raleialder",
-          "hillrose_n",
-          "hilldelt",
-          "hillboli",
-          "hillmlkb_n",
-          "mlkbboli",
-          "mlkbbarc_n",
-          "mlkbymca_n",
-          "mlkbshad_n",
-          "airptimb_n",
-          "mlkbashl",
-          "mlkbtayl_d",
-          "homemlkb_n",
-          "homeseym",
-          "oransoci"
+          "soutwool",
+          "soutcoun",
+          "ralegreen",
+          "raleunc",
+          "hamimax1",
+          "hamiberk",
+          "hamimax2",
+          "branhami",
+          "branhaye",
+          "esteford"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "weinseve_d",
+          "weinseve",
+          "mitchcald",
           "colufank",
-          "mannhosp",
-          "hillboli",
-          "homesout_a"
+          "hamimax1",
+          "univplac_a"
         ],
         "outbound": [
-          "homesout",
-          "mlkbgard",
-          "mannunch",
-          "scolrose",
+          "univplac",
+          "hamirale",
+          "colurose",
           "mitccald",
           "weinseve_a"
         ]
       },
       "scheduledTimeRange": {
-        "homesout": {
-          "mtw": {
-            "first": "07:15:00",
-            "last": "18:45:00"
+        "eb": {
+          "mtwthfr": {
+            "first": "06:30:00",
+            "last": "20:35:00"
           },
-          "thfr": {
-            "first": "07:15:00",
-            "last": "18:45:00"
+          "sat": {
+            "first": "08:00:00",
+            "last": "18:00:00"
+          },
+          "sun": {
+            "first": "08:00:00",
+            "last": "18:00:00"
           }
         },
-        "weinseve": {
-          "mtw": {
-            "first": "06:26:00",
-            "last": "18:26:00"
+        "wb": {
+          "mtwthfr": {
+            "first": "07:00:00",
+            "last": "21:05:00"
           },
-          "thfr": {
-            "first": "06:26:00",
-            "last": "18:26:00"
-          }
-        }
-      }
-    },
-    "B": {
-      "title": "B",
-      "color": "8ee5ee",
-      "tag": "B",
-      "oppositeColor": "000000",
-      "max": [
-        35.9106501,
-        -79.0409448
-      ],
-      "min": [
-        35.8975689,
-        -79.0534682
-      ],
-      "stops": {
-        "To Fetzer Gym": [
-          "masobait_d",
-          "masootey",
-          "eastjack",
-          "mannunch",
-          "coluheal",
-          "colucarr",
-          "soutcoke"
-        ],
-        "To Baity Hill": [
-          "soutfetz",
-          "soutwoll",
-          "soutcoun_n"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "soutfetz",
-          "masobait_a"
-        ],
-        "outbound": [
-          "masobait_d",
-          "mannunch"
-        ]
-      },
-      "scheduledTimeRange": {
-        "masobait": {
-          "mtw": {
-            "first": "07:50:00",
-            "last": "18:27:00"
+          "sat": {
+            "first": "08:28:00",
+            "last": "18:28:00"
           },
-          "thfr": {
-            "first": "07:50:00",
-            "last": "18:27:00"
-          }
-        },
-        "soutfetz": {
-          "mtw": {
-            "first": "07:40:00",
-            "last": "18:15:00"
-          },
-          "thfr": {
-            "first": "07:40:00",
-            "last": "18:15:00"
-          }
-        }
-      }
-    },
-    "CCX": {
-      "title": "CCX",
-      "color": "993399",
-      "tag": "CCX",
-      "oppositeColor": "ffffff",
-      "max": [
-        35.9108006,
-        -79.0425533
-      ],
-      "min": [
-        35.8536047,
-        -79.0847031
-      ],
-      "stops": {
-        "To UNC Campus": [
-          "chatpr",
-          "masoambu_n",
-          "scolheal",
-          "scolcarr",
-          "soutcoke",
-          "soutfetz",
-          "soutcoun_e",
-          "ridgrams",
-          "mannpubl"
-        ],
-        "To Chatham Park and Ride": [
-          "mannunch",
-          "mannhosp",
-          "manncrai",
-          "ridghall",
-          "soutcoun_w",
-          "soutstud",
-          "soutkena",
-          "pittcred",
-          "scolwest"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "mannhosp",
-          "soutstud",
-          "chatpr_a",
-          "mannunch"
-        ],
-        "outbound": [
-          "chatpr",
-          "soutfetz"
-        ]
-      },
-      "scheduledTimeRange": {
-        "chatpr": {
-          "mtw": {
-            "first": "06:12:00",
-            "last": "19:58:00"
-          },
-          "thfr": {
-            "first": "06:12:00",
-            "last": "19:58:00"
-          }
-        },
-        "tounccampu": {
-          "mtw": {
-            "first": "06:00:00",
-            "last": "19:20:00"
-          },
-          "thfr": {
-            "first": "06:00:00",
-            "last": "19:20:00"
-          }
-        }
-      }
-    },
-    "CL": {
-      "title": "CL",
-      "color": "cc0066",
-      "tag": "CL",
-      "oppositeColor": "ffffff",
-      "max": [
-        35.9511379,
-        -79.00744
-      ],
-      "min": [
-        35.9015603,
-        -79.0559485
-      ],
-      "stops": {
-        "To UNC Hospital": [
-          "colewald",
-          "prescole",
-          "sageerwi_s",
-          "erwiweav_s",
-          "oxfokirk_s",
-          "oxfobook_s",
-          "summgrist_s",
-          "summberry",
-          "summbeav",
-          "dobbfoxc",
-          "dobbfrank",
-          "colewald_d",
-          "sagelowe_s",
-          "durhhear",
-          "durhcoop",
-          "standurh_s",
-          "stansirr",
-          "stanstan_s",
-          "legiceme",
-          "legiwood",
-          "eurhote",
-          "franbook",
-          "franelli_s",
-          "franfran",
-          "franetna",
-          "franveth",
-          "franeste_s",
-          "franeliz_s",
-          "franhowe_s",
-          "francaro",
-          "franboun_s",
-          "franhill",
-          "franplan_s",
-          "franhend",
-          "franvars",
-          "colufrat",
-          "pittnewm",
-          "pittcred",
-          "pittuniv",
-          "masoambu_n",
-          "masoodum",
-          "eastjack"
-        ],
-        "To Colony Lake - Sage Rd": [
-          "mannunch_d",
-          "coluheal",
-          "colucarr",
-          "scolsitt",
-          "scolaber",
-          "francoffe",
-          "franplan_n",
-          "franralei",
-          "franboun_n",
-          "franpark",
-          "franglen",
-          "franhowe_n",
-          "franeliz_n",
-          "franplant",
-          "franeste_n",
-          "fran1512",
-          "fran1520",
-          "franelli_n",
-          "franeast",
-          "eurduck",
-          "legibritt",
-          "legi1718",
-          "legifors",
-          "stanstan_n",
-          "standsirr",
-          "standurh_n",
-          "durhhard",
-          "sagelowe_n",
-          "dobbsumm",
-          "summmoss",
-          "summgrist_n",
-          "oxfobook_n",
-          "oxfokirk_n",
-          "erwiweav_n",
-          "sageerwi_n",
-          "colepres"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "eurduck",
-          "standurh_n",
-          "francoffe",
-          "franeste_n",
-          "dobbsumm"
-        ],
-        "outbound": [
-          "colewald",
-          "dobbfoxc",
-          "franeste_s",
-          "franvars",
-          "ejack_a",
-          "eastjack",
-          "colewald_d",
-          "standurh_s",
-          "eurhote"
-        ]
-      },
-      "scheduledTimeRange": {
-        "2colosage": {
-          "mtw": {
-            "first": "07:02:00",
-            "last": "17:59:00"
-          },
-          "thfr": {
-            "first": "07:02:00",
-            "last": "17:59:00"
-          }
-        },
-        "2unc": {
-          "mtw": {
-            "first": "07:10:00",
-            "last": "17:29:00"
-          },
-          "thfr": {
-            "first": "07:10:00",
-            "last": "17:29:00"
+          "sun": {
+            "first": "08:28:00",
+            "last": "18:28:00"
           }
         }
       }
@@ -423,43 +140,15 @@
       "tag": "CM",
       "oppositeColor": "ffffff",
       "max": [
-        35.91246,
-        -79.03824
+        35.9123499,
+        -79.0527819
       ],
       "min": [
-        35.8993496,
-        -79.0933797
+        35.9007809,
+        -79.0933801
       ],
       "stops": {
-        "To Jones Ferry Park and Ride": [
-          "fparfami_d",
-          "fparmidd",
-          "bowlflotd_w",
-          "bowlsmit_w",
-          "bowlhint",
-          "mannpubl",
-          "mannhibb_w",
-          "mannunch",
-          "coluheal",
-          "colucarr",
-          "scolsitt",
-          "camegran",
-          "camekena",
-          "camerobe_w",
-          "camerail",
-          "merrlocu_w",
-          "merrlinc_w",
-          "merrmanl_w",
-          "merrrobe",
-          "nc54roya",
-          "nc54caro",
-          "jonewill_w",
-          "nc54jone",
-          "nc54olea",
-          "poplcaro",
-          "ofaypopl_w"
-        ],
-        "To Family Practice Building": [
+        "To Pittsboro Credit Union": [
           "jonespr_d",
           "ofaypopl",
           "autoldf_n",
@@ -470,139 +159,77 @@
           "nc54harr",
           "nc54west",
           "nc54cante",
+          "smithfpg",
+          "merrgreen",
           "merrmanl_e",
           "merrlinc_e",
           "merrlocu_e",
+          "camerail",
           "camerobe_e",
           "camecame",
           "camewils",
           "camepitt",
-          "pittnewm",
+          "pittnewm"
+        ],
+        "To Jones Ferry Park and Ride": [
           "pittcred",
           "pittuniv",
-          "mannhosp",
-          "mannhibb_e",
-          "manncrai",
-          "bowlcrai",
-          "bowlkena",
-          "bowlsmit_e"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "jonespr_d",
-          "popldomi_n",
-          "nc54domi",
-          "camerobe_e",
-          "pittcred"
-        ],
-        "outbound": [
-          "camerail",
-          "jonespr_a",
-          "fparfami_d"
-        ]
-      },
-      "scheduledTimeRange": {
-        "tofamily": {
-          "mtw": {
-            "first": "06:10:00",
-            "last": "21:20:00"
-          },
-          "sat": {
-            "first": "08:00:00",
-            "last": "18:40:00"
-          },
-          "thfr": {
-            "first": "06:10:00",
-            "last": "21:20:00"
-          }
-        },
-        "tojonesfpr": {
-          "mtw": {
-            "first": "06:40:00",
-            "last": "20:40:00"
-          },
-          "sat": {
-            "first": "08:14:00",
-            "last": "19:07:00"
-          },
-          "thfr": {
-            "first": "06:40:00",
-            "last": "20:40:00"
-          }
-        }
-      }
-    },
-    "CPX": {
-      "title": "CPX",
-      "color": "000066",
-      "tag": "CPX",
-      "oppositeColor": "ffffff",
-      "max": [
-        35.9186195,
-        -79.0527798
-      ],
-      "min": [
-        35.9016229,
-        -79.0986696
-      ],
-      "stops": {
-        "To Carrboro Plaza": [
-          "scolsitt",
-          "pittnewm",
-          "pittcred",
-          "pittuniv",
-          "scolwest",
-          "jonewilshp",
-          "jonewill",
-          "autoldf",
-          "oldfaut",
-          "oldframg",
-          "oldfwpop",
-          "oldfberk",
-          "carrpark_d"
-        ],
-        "To UNC Campus": [
-          "oldfnc54",
-          "nc54carr",
-          "nc54berk",
-          "nc54domi",
-          "scolmaso",
           "coluheal",
-          "colucarr"
+          "colucarr",
+          "scolsitt",
+          "camegran",
+          "camekena",
+          "camerobe_w",
+          "camemerr",
+          "merrlocu_w",
+          "merrlinc_w",
+          "merrmanl_w",
+          "merrrobe",
+          "nc54roya",
+          "nc54caro",
+          "jonewill_w",
+          "ofaypopl_w"
         ]
       },
       "scheduledStops": {
         "inbound": [
           "pittcred",
-          "autoldf",
-          "oldfnc54_a"
+          "camemerr",
+          "jonespr_a"
         ],
         "outbound": [
-          "oldfnc54",
+          "jonespr_d",
           "nc54domi",
-          "coluheal"
+          "camerobe_e"
         ]
       },
       "scheduledTimeRange": {
-        "tocarrboro": {
-          "mtw": {
-            "first": "06:31:00",
-            "last": "18:48:00"
+        "tojonesfpr": {
+          "mtwthfr": {
+            "first": "06:46:00",
+            "last": "18:16:00"
           },
-          "thfr": {
-            "first": "06:31:00",
-            "last": "18:48:00"
+          "sat": {
+            "first": "09:16:00",
+            "last": "17:46:00"
+          },
+          "sun": {
+            "first": "09:16:00",
+            "last": "17:46:00"
           }
         },
-        "tounccampus": {
-          "mtw": {
-            "first": "06:15:00",
-            "last": "18:26:00"
+        "topitt": {
+          "mtwthfr": {
+            "first": "06:30:00",
+            "last": "18:00:00"
           },
-          "thfr": {
-            "first": "06:15:00",
-            "last": "18:26:00"
+          "sat": {
+            "first": "09:00:00",
+            "last": "17:30:00"
+          },
+          "sun": {
+            "first": "09:00:00",
+            "last": "17:30:00"
           }
         }
       }
@@ -613,29 +240,16 @@
       "tag": "CW",
       "oppositeColor": "000000",
       "max": [
-        35.9178,
-        -79.05278
+        35.9187269,
+        -79.052788
       ],
       "min": [
-        35.9014819,
-        -79.0936029
+        35.9052797,
+        -79.098766
       ],
       "stops": {
-        "To Pittsboro St": [
-          "jonespr_d",
-          "ofaypopl",
-          "jonewill",
-          "jonester",
-          "jonealab",
-          "davijone_o",
-          "davibert_o",
-          "davifide_o",
-          "davipopl_e",
-          "poplrave_o",
-          "popllila_o",
-          "poplnc54_o",
-          "nc54popl",
-          "nc54berk_o",
+        "To Pittsboro Credit Union": [
+          "fayenc54",
           "mainjame",
           "mainsimp_o",
           "mainwest_o",
@@ -655,7 +269,7 @@
           "colufrat",
           "pittnewm"
         ],
-        "To Jones Ferry Park and Ride": [
+        "To Old Fayetteville at NC-54": [
           "pittcred_d",
           "pittuniv",
           "coluheal",
@@ -681,60 +295,52 @@
           "nc54carr",
           "nc54berk",
           "poplnc54",
-          "popllila",
-          "poplrave",
-          "davipopl_w",
-          "davifide",
-          "davibert",
-          "davijone",
-          "jonewilshp",
-          "jonewill_w",
-          "ofaypopl_w"
+          "carospri",
+          "fayepopl",
+          "fayeberk",
+          "carrplaza"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "jonespr_d",
-          "mainjame",
-          "weavcarr",
-          "wfraunib",
-          "pittcred_a"
-        ],
-        "outbound": [
           "pittcred_d",
           "wfracarb",
           "weavweav",
-          "maincarr2",
-          "jonespr_a"
+          "fayenc54_a"
+        ],
+        "outbound": [
+          "fayenc54",
+          "weavcarr",
+          "wfraunib"
         ]
       },
       "scheduledTimeRange": {
-        "2pittsboro": {
-          "mtw": {
-            "first": "07:20:00",
-            "last": "20:20:00"
+        "tofayenc54": {
+          "mtwthfr": {
+            "first": "07:40:00",
+            "last": "20:40:00"
           },
           "sat": {
-            "first": "08:00:00",
-            "last": "18:00:00"
+            "first": "08:45:00",
+            "last": "17:45:00"
           },
-          "thfr": {
-            "first": "07:20:00",
-            "last": "20:20:00"
+          "sun": {
+            "first": "08:45:00",
+            "last": "17:45:00"
           }
         },
-        "tojonesfpr": {
-          "mtw": {
-            "first": "07:46:00",
-            "last": "20:50:00"
+        "topitt": {
+          "mtwthfr": {
+            "first": "07:20:00",
+            "last": "20:20:00"
           },
           "sat": {
-            "first": "08:24:00",
-            "last": "18:24:00"
+            "first": "08:25:00",
+            "last": "17:25:00"
           },
-          "thfr": {
-            "first": "07:46:00",
-            "last": "20:50:00"
+          "sun": {
+            "first": "08:25:00",
+            "last": "17:25:00"
           }
         }
       }
@@ -745,27 +351,25 @@
       "tag": "D",
       "oppositeColor": "ffffff",
       "max": [
-        35.9512581,
-        -79.0019519
+        35.945537,
+        -78.995965
       ],
       "min": [
-        35.9015609,
-        -79.0557103
+        35.901394,
+        -79.0567812
       ],
       "stops": {
-        "Manning Dr at UNC Hospitals": [
-          "oldseast",
-          "oldsnott",
-          "oldsbibl",
-          "colepres",
-          "colewald_d",
-          "sagelowe_s",
-          "dobbdobb",
-          "dobberw",
-          "dobbsumm",
-          "dobbfoxc",
-          "dobbfrank",
-          "franbook",
+        "East Dr at Jackson Cir": [
+          "chappope",
+          "durhblue",
+          "olddcoop",
+          "legiocoop",
+          "legscar",
+          "legceme",
+          "legwood",
+          "eurolegi",
+          "elliplaza",
+          "elliwhol",
           "franelli_s",
           "franfran",
           "franetna",
@@ -783,11 +387,13 @@
           "pittnewm",
           "pittcred",
           "pittuniv",
-          "masoambu_n",
-          "masoodum",
-          "eastjack"
+          "columaso",
+          "masoambu",
+          "masoodum"
         ],
-        "Old Sterling Rd at Eastowne Rd": [
+        "Old Chapel Hill at Pope Rd": [
+          "eastjack",
+          "mannpark",
           "mannunch_d",
           "coluheal",
           "colucarr",
@@ -809,337 +415,57 @@
           "ellifirs",
           "elliplaz",
           "elliburg",
-          "us15rams",
-          "us15hamp",
-          "us15euro",
-          "eurduck",
+          "epheholi",
           "legibritt",
           "legi1718",
           "legifors",
           "legiscar",
           "legicoop",
           "durhcoop",
-          "olddblue",
-          "elakoldd",
-          "elakwlak",
-          "eastpine"
+          "olddblue"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "oldseast",
-          "colewald_d",
-          "franvars",
-          "mannpark"
+          "eastjack",
+          "francoffe",
+          "legibritt"
         ],
         "outbound": [
-          "mannunch_d",
-          "francoffe",
-          "eurduck"
-        ]
-      },
-      "scheduledTimeRange": {
-        "mannunch": {
-          "mtw": {
-            "first": "06:27:00",
-            "last": "20:27:00"
-          },
-          "thfr": {
-            "first": "06:27:00",
-            "last": "20:27:00"
-          }
-        },
-        "oldseast": {
-          "mtw": {
-            "first": "06:55:00",
-            "last": "20:55:00"
-          },
-          "thfr": {
-            "first": "06:55:00",
-            "last": "20:55:00"
-          }
-        }
-      }
-    },
-    "DM": {
-      "title": "D Saturday",
-      "color": "666655",
-      "tag": "DM",
-      "oppositeColor": "ffffff",
-      "max": [
-        35.95126,
-        -79.0019529
-      ],
-      "min": [
-        35.9100004,
-        -79.06527
-      ],
-      "stops": {
-        "To Greenbridge": [
-          "oldsnott_d",
-          "oldsbibl",
-          "colepres",
-          "colewald_d",
-          "sagelowe_s",
-          "dobbdobb",
-          "dobberwn_s",
-          "dobbsumm",
-          "dobbfoxc",
-          "dobbfrank",
-          "franbook",
-          "franelli_s",
-          "franfran",
-          "franetna",
-          "estecomm_s",
-          "estecame_s",
-          "univmall_s",
-          "willeste_s",
-          "estepost_s",
+          "chappope",
+          "eurolegi",
           "franeste_s",
-          "franveth",
-          "franeliz_s",
-          "franhowe_s",
-          "francaro",
-          "franboun_s",
-          "franhill",
-          "franplan_s",
-          "franhend",
           "franvars",
-          "wfracari",
-          "wfrachur",
-          "wfrahams",
-          "wfrauncb",
-          "wfrangra"
-        ],
-        "To Eastowne": [
-          "rosegren_d",
-          "wfrachap",
-          "wframuni",
-          "wfrakena",
-          "wfrauniv_s",
-          "wfrauniv_b",
-          "francoffe",
-          "franplan_n",
-          "franralei",
-          "franboun_n",
-          "franpark",
-          "franglen",
-          "franhowe_n",
-          "franeliz_n",
-          "franplant",
-          "franeste_n",
-          "estecomm_n",
-          "estecame_n",
-          "univmall_n",
-          "willconn_w",
-          "willwill_w",
-          "us15rams",
-          "us15hamp",
-          "us15euro",
-          "eurduck",
-          "legibritt",
-          "legi1718",
-          "legifors",
-          "legiscar",
-          "durhcoop",
-          "olddblue",
-          "elakoldd",
-          "elakwlak",
-          "oldseast"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "rosegren_d",
-          "francoffe",
-          "univmall_n",
-          "oldsnott_a"
-        ],
-        "outbound": [
-          "oldsnott_d",
-          "univmall_s",
-          "franvars",
-          "rosegren_a"
+          "eastjack_a"
         ]
       },
       "scheduledTimeRange": {
-        "2eastowne": {
+        "chappope": {
+          "mtwthfr": {
+            "first": "06:00:00",
+            "last": "21:20:00"
+          },
           "sat": {
-            "first": "08:30:00",
-            "last": "18:15:00"
+            "first": "07:50:00",
+            "last": "17:50:00"
+          },
+          "sun": {
+            "first": "07:50:00",
+            "last": "17:50:00"
           }
         },
-        "2greenbrg": {
+        "eastjack": {
+          "mtwthfr": {
+            "first": "06:28:00",
+            "last": "21:48:00"
+          },
           "sat": {
-            "first": "08:00:00",
-            "last": "17:45:00"
-          }
-        }
-      }
-    },
-    "F": {
-      "title": "F",
-      "color": "33cc33",
-      "tag": "F",
-      "oppositeColor": "000000",
-      "max": [
-        35.93671,
-        -79.0019302
-      ],
-      "min": [
-        35.9100004,
-        -79.101531
-      ],
-      "stops": {
-        "To Colony Woods": [
-          "coloover",
-          "mcdomidd_d",
-          "oldftrai",
-          "carooldf",
-          "carolisa",
-          "carojame",
-          "caro111",
-          "carolorr",
-          "hillsimp",
-          "ngremom",
-          "ngremilt",
-          "ngrechee",
-          "ngresuea",
-          "ngretodd",
-          "ngreoaka",
-          "ngre503",
-          "ngrefitc",
-          "weavcarr",
-          "maincent",
-          "wfrachap",
-          "wframuni",
-          "wfrakena",
-          "wfrauniv_s",
-          "wfrauniv_b",
-          "francoffe",
-          "franplan_n",
-          "franralei",
-          "franboun_n",
-          "franpark",
-          "franglen",
-          "franhowe_n",
-          "franeliz_n",
-          "franplant",
-          "franeste_n",
-          "estecomm_n",
-          "estecame_n",
-          "univmall_n",
-          "willeste_n",
-          "estepost_n",
-          "fran1512",
-          "fran1520",
-          "efraelli",
-          "ellifirs",
-          "elliburg_n",
-          "epheholi",
-          "ephecolo",
-          "ephefran",
-          "epheeden",
-          "ephetink",
-          "epheland",
-          "epheshar",
-          "colowhit"
-        ],
-        "To McDougle School": [
-          "colofoun_d",
-          "founhigh",
-          "founover",
-          "landfoun",
-          "landephe",
-          "ephetink_s",
-          "epheephe",
-          "epheking",
-          "ephehaml",
-          "ephelegi",
-          "elliburg_s",
-          "elliwhol",
-          "franelli_s",
-          "franfran",
-          "franetna",
-          "estecomm_s",
-          "estecame_s",
-          "univmall_s",
-          "willeste_s",
-          "estepost_s",
-          "franeste_s",
-          "franveth",
-          "franeliz_s",
-          "franhowe_s",
-          "francaro",
-          "franboun_s",
-          "franhill",
-          "franplan_s",
-          "franhend",
-          "franvars",
-          "wfracari",
-          "wfrachur",
-          "wfrahams",
-          "wfrauncb",
-          "wfrangra",
-          "mainlloy",
-          "weavweav",
-          "ngreharr",
-          "ngreceda",
-          "ngreoaka_s",
-          "ngrewill",
-          "ngrepine",
-          "ngreweat",
-          "ngreboli",
-          "ngremorn",
-          "hillblue",
-          "hill904_m",
-          "hillrbow_m",
-          "hilldove_m",
-          "hillfair",
-          "hill1218",
-          "hillbari",
-          "hilloldf"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "mcdomidd_d",
-          "oldftrai",
-          "weavcarr",
-          "francoffe",
-          "univmall_n",
-          "elliburg_n",
-          "coloover_a",
-          "coloover"
-        ],
-        "outbound": [
-          "elliburg_s",
-          "univmall_s",
-          "franvars_a",
-          "franvars",
-          "weavweav",
-          "mcdomidd_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "tocolonywd": {
-          "mtw": {
-            "first": "06:50:00",
-            "last": "21:38:00"
+            "first": "08:16:00",
+            "last": "18:16:00"
           },
-          "thfr": {
-            "first": "06:50:00",
-            "last": "21:38:00"
-          }
-        },
-        "tomcdougle": {
-          "mtw": {
-            "first": "07:29:00",
-            "last": "20:54:00"
-          },
-          "thfr": {
-            "first": "07:29:00",
-            "last": "20:54:00"
+          "sun": {
+            "first": "08:16:00",
+            "last": "18:16:00"
           }
         }
       }
@@ -1190,305 +516,20 @@
           "mannunch",
           "soutfetz",
           "fridpark_a"
+        ],
+        "outbound": [
+          "fridpark_d"
         ]
       },
       "scheduledTimeRange": {
         "2friday": {
-          "mtw": {
+          "mtwthfr": {
             "first": "05:28:00",
-            "last": "20:10:00"
-          },
-          "thfr": {
-            "first": "05:28:00",
-            "last": "20:10:00"
+            "last": "22:13:00"
           }
         },
-        "2unc": {}
-      }
-    },
-    "FG": {
-      "title": "FG",
-      "color": "77ee77",
-      "tag": "FG",
-      "oppositeColor": "000000",
-      "max": [
-        35.93671,
-        -79.0019302
-      ],
-      "min": [
-        35.9083296,
-        -79.0550287
-      ],
-      "stops": {
-        "To Colony Woods": [
-          "franvars_d",
-          "colufrat",
-          "ralemang",
-          "soutwoll",
-          "soutcoun_w",
-          "ralestth",
-          "ralegree_w",
-          "raleunca_w",
-          "hamimaxw1_w",
-          "hamiberk_w",
-          "hamimaxw2_w",
-          "branhami_w",
-          "branhaye_w",
-          "esteford",
-          "univmall_n",
-          "willeste_n",
-          "estepost_n",
-          "fran1512",
-          "fran1520",
-          "efraelli",
-          "ellifirs",
-          "elliburg_n",
-          "epheholi",
-          "ephecolo",
-          "ephefran",
-          "epheeden",
-          "ephetink_n",
-          "epheland",
-          "epheshar",
-          "colowhit"
-        ],
-        "To Varsity Theater": [
-          "coloover",
-          "colofoun_d",
-          "founhigh",
-          "founover",
-          "landfoun",
-          "landephe",
-          "ephetink",
-          "epheephe",
-          "epheking",
-          "ephehaml",
-          "ephelegi",
-          "elliburg_s",
-          "elliwhol",
-          "franelli_s",
-          "franfran",
-          "franetna",
-          "estecomm_s",
-          "estecame_n",
-          "univmall_s",
-          "willeste_s",
-          "estecame_s",
-          "esteus15",
-          "branhaye_e",
-          "branhami_e",
-          "hamimaxw2_e",
-          "hamiberk_e",
-          "hamimaxw1_e",
-          "hamirale",
-          "raleglen",
-          "raleunca_e",
-          "ralegree_e",
-          "ralestto",
-          "soutcoun_e",
-          "soutrale",
-          "raleconn",
-          "raleilewi",
-          "raleialder",
-          "franplan_s",
-          "franhend"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "franvars_d",
-          "soutwoll",
-          "univmall_n",
-          "elliburg_n",
-          "coloover_a"
-        ],
-        "outbound": [
-          "coloover",
-          "elliburg_s",
-          "univmall_s",
-          "raleglen",
-          "franvars_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "tocolonywd": {
-          "sat": {
-            "first": "08:00:00",
-            "last": "18:30:00"
-          }
-        },
-        "tovarsity": {
-          "sat": {
-            "first": "08:36:00",
-            "last": "17:56:00"
-          }
-        }
-      }
-    },
-    "G": {
-      "title": "G",
-      "color": "cc9900",
-      "tag": "G",
-      "oppositeColor": "000000",
-      "max": [
-        35.9536613,
-        -79.0216199
-      ],
-      "min": [
-        35.9015586,
-        -79.0568203
-      ],
-      "stops": {
-        "To University Mall": [
-          "bookapar_d",
-          "foxwhone",
-          "foxwsedg",
-          "sedgmayb",
-          "sedgrose",
-          "honesedg",
-          "honeredb_w",
-          "honehone_w",
-          "honebroo",
-          "nlak2121",
-          "nlakkenm_w",
-          "nlakshad",
-          "nlak1821",
-          "nlakrock_w",
-          "curtslak_w",
-          "curtlyon_w",
-          "curtclay_w",
-          "caswclay",
-          "casweste",
-          "estephil_w",
-          "estesome_w",
-          "estemeth_w",
-          "mlkbymca_w",
-          "mlkbair",
-          "mlkbbarc_w",
-          "mlkbgard",
-          "airpr725",
-          "airplong",
-          "airpadel",
-          "airptown",
-          "colufank",
-          "colufrat",
-          "pittnewm",
-          "pittcred_w",
-          "pittuniv_w",
-          "masoambu_w",
-          "masoodum_w",
-          "eastjack_w",
-          "mannunch_w",
-          "coluheal_w",
-          "colucarr_w",
-          "soutcoke",
-          "soutfetz_w",
-          "soutwoll",
-          "soutcoun_w",
-          "ralestth",
-          "ralegree_w",
-          "raleunca_w",
-          "hamimaxw1_w",
-          "hamiberk_w",
-          "hamimaxw2_w",
-          "branhami_w",
-          "branhaye_w",
-          "esteford",
-          "univmall_a"
-        ],
-        "To Booker Creek": [
-          "univmall_w",
-          "willeste_w",
-          "estecame_w",
-          "esteus15",
-          "branhaye_e",
-          "branhami_e",
-          "hamimaxw2_e",
-          "hamiberk_e",
-          "hamimaxw1_e",
-          "hamirale",
-          "raleglen",
-          "raleunca_e",
-          "ralegree_e",
-          "ralestto",
-          "soutcoun_e",
-          "soutrale",
-          "soutstud",
-          "soutkena",
-          "mccawhit",
-          "pittcred_e",
-          "pittuniv",
-          "masoambu_e",
-          "masoodum_e",
-          "eastjack_e",
-          "mannunch_e",
-          "scolheal",
-          "scolcarr",
-          "scolsitt",
-          "scolaber",
-          "scolrose",
-          "airpnorst",
-          "airpnorpl",
-          "airpmill",
-          "airpfost",
-          "mlkbboli",
-          "mlkbbarc_e",
-          "mlkbymca_e",
-          "estemeth_e",
-          "estesome_e",
-          "estephil_e",
-          "curtclay_e",
-          "curtlyon_e",
-          "curtslak_e",
-          "nlakrock_e",
-          "nlake1822",
-          "nlakarli",
-          "nlakkenm_e",
-          "nlak2122",
-          "nlakbroo",
-          "honehone_e",
-          "honeredb_e",
-          "honebook",
-          "booklake"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "univmall_w",
-          "hamirale",
-          "mannunch_e",
-          "scolrose",
-          "bookapar_a"
-        ],
-        "outbound": [
-          "bookapar_d",
-          "curtslak_w",
-          "colufank",
-          "mannunch_w",
-          "hamimaxw1_w",
-          "univmall_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "2booker": {
-          "mtw": {
-            "first": "06:23:00",
-            "last": "19:43:00"
-          },
-          "thfr": {
-            "first": "06:23:00",
-            "last": "19:43:00"
-          }
-        },
-        "2univmall": {
-          "mtw": {
-            "first": "07:10:00",
-            "last": "19:50:00"
-          },
-          "thfr": {
-            "first": "07:10:00",
-            "last": "19:50:00"
-          }
+        "2unc": {
+          "mtwthfr": {}
         }
       }
     },
@@ -1498,12 +539,12 @@
       "tag": "HS",
       "oppositeColor": "000000",
       "max": [
-        35.96644,
-        -79.0466793
+        35.9666034,
+        -79.0528378
       ],
       "min": [
-        35.8918493,
-        -79.1013299
+        35.8916737,
+        -79.1016618
       ],
       "stops": {
         "Smith Level Rd. at BPW Club": [
@@ -1517,8 +558,11 @@
           "homecamd_s",
           "chaphigh",
           "highsea",
+          "seawsava",
           "homheart",
           "homgreen",
+          "homesey",
+          "orangsoc",
           "homeshum",
           "home2510",
           "hommlk",
@@ -1530,16 +574,13 @@
           "mlkairp",
           "mlkbarc_o",
           "airpgard",
-          "hillbrook",
-          "hilltown",
-          "hillnorth",
-          "hillrose",
-          "ralespen",
-          "ralemang",
-          "raledave",
-          "soutstud",
-          "soutkena",
-          "mccawhit",
+          "airpr725",
+          "airplong",
+          "airpadel",
+          "airptown",
+          "colufank",
+          "colufrat",
+          "pittnew",
           "pittcred",
           "pittuni",
           "coluwest",
@@ -1550,10 +591,10 @@
           "culbsout",
           "culbadam",
           "culbweye",
-          "culbcove",
-          "smitbpw"
+          "culbcove"
         ],
         "Morris Grove Elementary": [
+          "smitbpwc",
           "smitwill",
           "smitfbg",
           "eastking",
@@ -1563,14 +604,13 @@
           "soutmas",
           "southealt",
           "soutcarr",
-          "soutcoke",
-          "soutfetz",
-          "raleconn",
-          "ralelewis",
-          "ralealder",
-          "hillsrose",
-          "hillsdeltz",
-          "hillsbolin",
+          "scolsitt",
+          "scolaber",
+          "scolrose",
+          "mlknorth",
+          "airpnorpl",
+          "airpmill",
+          "airpfrost",
           "mlkbolin",
           "mlkbarc",
           "mlkymca_i",
@@ -1594,7 +634,8 @@
       },
       "scheduledStops": {
         "inbound": [
-          "soutfetz",
+          "smitbpwc",
+          "scolrose",
           "homeshum_i",
           "highcelt",
           "morrgrove_a"
@@ -1604,100 +645,20 @@
           "rogepure_s",
           "chaphigh",
           "homeshum",
-          "soutstud",
-          "smitbpw"
+          "colufank"
         ]
       },
       "scheduledTimeRange": {
         "morrgrove": {
-          "mtw": {
-            "first": "05:58:00",
-            "last": "19:28:00"
-          },
-          "thfr": {
-            "first": "05:58:00",
-            "last": "19:28:00"
+          "mtwthfr": {
+            "first": "06:03:00",
+            "last": "18:18:00"
           }
         },
         "smitbpw": {
-          "mtw": {
-            "first": "05:15:00",
-            "last": "18:45:00"
-          },
-          "thfr": {
-            "first": "05:15:00",
-            "last": "18:45:00"
-          }
-        }
-      }
-    },
-    "HU": {
-      "title": "HU",
-      "color": "00ff00",
-      "tag": "HU",
-      "oppositeColor": "000000",
-      "max": [
-        35.9060723,
-        -79.0109397
-      ],
-      "min": [
-        35.8942499,
-        -79.0559509
-      ],
-      "stops": {
-        "To UNC Hospital": [
-          "fridhedr",
-          "nc54park",
-          "fridfinl",
-          "fridnc54",
-          "fingolf_u",
-          "ronhou_u",
-          "omfhigh_u",
-          "mannpubl",
-          "mannhibb",
-          "manngrav_u"
-        ],
-        "To Hedrick Building": [
-          "mannunch",
-          "masoambu",
-          "eastjack_h",
-          "botgard_h",
-          "ronhou",
-          "fingolf_h",
-          "firdnc54",
-          "fridfrid"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "mannunch",
-          "ronhou",
-          "hedrickb_a"
-        ],
-        "outbound": [
-          "fridhedr",
-          "ronhou_u"
-        ]
-      },
-      "scheduledTimeRange": {
-        "tohedrick": {
-          "mtw": {
-            "first": "05:39:00",
-            "last": "22:25:00"
-          },
-          "thfr": {
-            "first": "05:39:00",
-            "last": "22:25:00"
-          }
-        },
-        "tounc": {
-          "mtw": {
-            "first": "05:20:00",
-            "last": "22:05:00"
-          },
-          "thfr": {
-            "first": "05:20:00",
-            "last": "22:05:00"
+          "mtwthfr": {
+            "first": "05:30:00",
+            "last": "17:45:00"
           }
         }
       }
@@ -1713,73 +674,75 @@
       ],
       "min": [
         35.9015582,
-        -79.1084007
+        -79.1119466
       ],
       "stops": {
-        "To Hillsborough": [
-          "unch_d",
-          "coluheal",
-          "colucarr",
-          "scolsitt",
-          "scolrose",
-          "hw86mill_h",
-          "hw86stry_h",
-          "dtcc_h",
-          "hmdept_h",
-          "churton_h",
-          "maxway_a"
-        ],
-        "To Chapel Hill": [
-          "maxway_d",
+        "Manning Dr at UNC Hospitals (CG Lot)": [
           "hw70rain_c",
+          "revnash",
           "churton_c",
           "hmdept_c",
-          "dtcc_c",
-          "hw86stry_c",
+          "dtcc_h",
+          "watheal_i",
+          "storeyln",
           "hw86mill_c",
+          "mlkchap",
+          "mlkair",
           "colufrank",
+          "colfrat",
           "pittnewm",
           "pittcred",
           "pittuniv",
           "masoambu_n",
           "masoodum",
           "eastjack"
+        ],
+        "Cornelius St (US 70) at Rainey Ave (WB 2)": [
+          "unch_d",
+          "coluheal",
+          "colucarr",
+          "scolsitt",
+          "coluab",
+          "scolrose",
+          "mlkest",
+          "mlkper",
+          "hw86mill_h",
+          "hw86stry_h",
+          "dtcc_c",
+          "watheal",
+          "hmdept_h",
+          "churton_h",
+          "maxway_d"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "maxway_d",
-          "churton_c",
-          "dtcc_c",
-          "colufrank",
-          "unch_a"
-        ],
-        "outbound": [
           "unch_d",
           "scolrose",
-          "dtcc_h",
+          "mlkper",
+          "dtcc_c",
           "churton_h",
-          "maxway_a"
+          "corrain"
+        ],
+        "outbound": [
+          "hw70rain_c",
+          "churton_c",
+          "dtcc_h",
+          "mlkchap",
+          "colufrank",
+          "unch_a"
         ]
       },
       "scheduledTimeRange": {
-        "2chill": {
-          "mtw": {
-            "first": "06:00:00",
-            "last": "17:25:00"
-          },
-          "thfr": {
-            "first": "06:00:00",
-            "last": "17:25:00"
+        "hw70rain_c": {
+          "mtwthfr": {
+            "first": "07:30:00",
+            "last": "17:30:00"
           }
         },
-        "2hillsb": {
-          "mtw": {
-            "first": "06:50:00",
-            "last": "18:15:00"
-          },
-          "thfr": {
-            "first": "06:50:00",
+        "unch_a": {
+          "mtwthfr": {
+            "first": "17:15:00",
             "last": "18:15:00"
           }
         }
@@ -1876,331 +839,45 @@
       },
       "scheduledTimeRange": {
         "2jonesferr": {
-          "mtw": {
+          "mtwthfr": {
             "first": "06:30:00",
             "last": "23:00:00"
           },
-          "thfr": {
-            "first": "06:30:00",
-            "last": "23:00:00"
-          }
-        },
-        "joneabbe": {
-          "mtw": {
-            "first": "06:38:00",
-            "last": "23:11:00"
-          },
-          "thfr": {
-            "first": "06:38:00",
-            "last": "23:11:00"
-          }
-        },
-        "rockrock": {
-          "mtw": {
-            "first": "06:25:00",
-            "last": "23:32:00"
-          },
-          "thfr": {
-            "first": "06:25:00",
-            "last": "23:32:00"
-          }
-        }
-      }
-    },
-    "JFX": {
-      "title": "JFX",
-      "color": "cc9999",
-      "tag": "JFX",
-      "oppositeColor": "000000",
-      "max": [
-        35.9159699,
-        -79.0527798
-      ],
-      "min": [
-        35.9014819,
-        -79.0968399
-      ],
-      "stops": {
-        "To UNC Campus": [
-          "jonespr_d",
-          "ofaypopl",
-          "jonewill_o",
-          "joneashf",
-          "scolmaso",
-          "coluheal",
-          "colucarr",
-          "ofaypopl2",
-          "autoldf",
-          "oldfaut",
-          "oldfcres",
-          "oldfwpop",
-          "oldfberk",
-          "carrpark_d"
-        ],
-        "To Jones Ferry Park and Ride": [
-          "scolsitt",
-          "pittnewm",
-          "pittcred",
-          "pittuniv",
-          "scolwest",
-          "jonewill",
-          "ofaypopl_w"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "pittcred",
-          "jonespr_a"
-        ],
-        "outbound": [
-          "jonespr_d",
-          "carrpark_a",
-          "carrpark_d",
-          "coluheal"
-        ]
-      },
-      "scheduledTimeRange": {
-        "tojonesfpr": {
-          "mtw": {
-            "first": "05:45:00",
-            "last": "19:50:00"
-          },
-          "thfr": {
-            "first": "05:45:00",
-            "last": "19:50:00"
-          }
-        },
-        "tounccampu": {
-          "mtw": {
-            "first": "05:30:00",
+          "sat": {
+            "first": "08:00:00",
             "last": "20:00:00"
           },
-          "thfr": {
-            "first": "05:30:00",
-            "last": "20:00:00"
-          }
-        }
-      }
-    },
-    "JN": {
-      "title": "JN",
-      "color": "9988ff",
-      "tag": "JN",
-      "oppositeColor": "000000",
-      "max": [
-        35.9227937,
-        -79.0527798
-      ],
-      "min": [
-        35.8918899,
-        -79.085811
-      ],
-      "stops": {
-        "To Estes Park": [
-          "rockrock_d",
-          "carrhs",
-          "highturn_n",
-          "hightarh_n",
-          "highbpw",
-          "bpwcthev_n",
-          "bpwcsmit_n",
-          "smitbpwc",
-          "smitwill_n",
-          "smitfpgs",
-          "merrgree",
-          "nc54king",
-          "scolpure_n",
-          "scolcool",
-          "scolmaso",
-          "coluheal",
-          "colucarr",
-          "scolaber",
-          "scolrose",
-          "roseprit",
-          "rosebrea",
-          "mitcrose",
-          "mitclind",
-          "mitcmcda",
-          "mitccald",
-          "caldhous",
-          "caldchur",
-          "caldcolu",
-          "colyisle",
-          "colulong_n",
-          "prittrin",
-          "umstprit_n",
-          "umstpark_n",
-          "umstboli_n",
-          "villwind_n",
-          "villfern_n",
-          "villoakl_n",
-          "villeste_n"
-        ],
-        "To Rock Haven Rd": [
-          "estepark_d",
-          "villeste_s",
-          "villoakl_s",
-          "villfern_s",
-          "villwind_s",
-          "umstboli_s",
-          "umstpark_s",
-          "umstprit_s",
-          "pritlong",
-          "colulong_s",
-          "coluisle",
-          "caldhous_s",
-          "mitccald_s",
-          "mitcrobe",
-          "mitch211",
-          "rosemini",
-          "roseprit_s",
-          "colufank",
-          "colufrat",
-          "pittnewm",
-          "pittcred",
-          "pittuniv",
-          "scolwest",
-          "scolchas",
-          "scolpure_s",
-          "nc54laur",
-          "merrtobe",
-          "smitpubl",
-          "smitwill_s",
-          "rocksmit"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "rockrock_d",
-          "coluheal",
-          "scolrose",
-          "estepark_a"
-        ],
-        "outbound": [
-          "estepark_d",
-          "mitccald_s",
-          "colufank",
-          "pittcred",
-          "rockrock_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "2estespark": {
-          "sat": {
-            "first": "08:35:00",
-            "last": "18:35:00"
-          }
-        },
-        "2rockhaven": {
-          "sat": {
+          "sun": {
             "first": "08:00:00",
             "last": "18:00:00"
           }
-        }
-      }
-    },
-    "N": {
-      "title": "N",
-      "color": "ff6600",
-      "tag": "N",
-      "oppositeColor": "000000",
-      "max": [
-        35.9227937,
-        -79.03824
-      ],
-      "min": [
-        35.8993496,
-        -79.0711139
-      ],
-      "stops": {
-        "To Estes Park": [
-          "fparfami_d",
-          "fparmidd",
-          "bowlflotd_w",
-          "bowlsmit_w",
-          "bowlhint",
-          "mannpubl",
-          "mannhibb_w",
-          "mannunch",
-          "coluheal",
-          "colucarr",
-          "scolsitt",
-          "scolaber",
-          "scolrose",
-          "ncoltown",
-          "colyisle",
-          "colulong_n",
-          "prittrin",
-          "umstprit_n",
-          "umstpark_n",
-          "umstboli_n",
-          "villwind_n",
-          "villfern_n",
-          "villoakl_n",
-          "villeste_n"
-        ],
-        "To Family Practice Building": [
-          "estepark_a",
-          "estepark",
-          "villeste",
-          "villoakl",
-          "villfern",
-          "villwind",
-          "umstboli_s",
-          "umstpark_s",
-          "umstprit_s",
-          "pritlong",
-          "colulong_s",
-          "coluisle",
-          "colutown",
-          "colufank",
-          "colufrat",
-          "pittnewm",
-          "pittcred",
-          "pittuniv",
-          "masoambu_n",
-          "masoodum",
-          "eastjack",
-          "mannhibb_e",
-          "manncrai",
-          "bowlcrai",
-          "bowlkena",
-          "bowlsmit_e"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "fparfami_d",
-          "mannunch",
-          "scolrose"
-        ],
-        "outbound": [
-          "estepark",
-          "colufank",
-          "masoambu_n",
-          "fparfami_a",
-          "estepark_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "2estespark": {
-          "mtw": {
-            "first": "06:55:00",
-            "last": "18:55:00"
+        },
+        "joneabbe": {
+          "mtwthfr": {
+            "first": "06:38:00",
+            "last": "23:11:00"
           },
-          "thfr": {
-            "first": "06:55:00",
-            "last": "18:55:00"
+          "sat": {
+            "first": "08:07:00",
+            "last": "20:07:00"
+          },
+          "sun": {
+            "first": "08:07:00",
+            "last": "18:07:00"
           }
         },
-        "tofamily": {
-          "mtw": {
+        "rockrock": {
+          "mtwthfr": {
             "first": "06:25:00",
-            "last": "18:25:00"
+            "last": "23:32:00"
           },
-          "thfr": {
-            "first": "06:25:00",
-            "last": "18:25:00"
+          "sat": {
+            "first": "08:39:00",
+            "last": "20:39:00"
+          },
+          "sun": {
+            "first": "08:39:00",
+            "last": "18:39:00"
           }
         }
       }
@@ -2303,1062 +980,35 @@
       },
       "scheduledTimeRange": {
         "N": {
-          "mtw": {
-            "first": "05:35:00",
+          "mtwthfr": {
+            "first": "05:41:00",
             "last": "22:50:00"
           },
-          "thfr": {
-            "first": "05:35:00",
-            "last": "22:50:00"
+          "sat": {
+            "first": "08:38:00",
+            "last": "20:38:00"
+          },
+          "sun": {
+            "first": "08:38:00",
+            "last": "18:38:00"
           }
         },
         "S": {
-          "mtw": {
+          "mtwthfr": {
             "first": "05:30:00",
-            "last": "22:20:00"
-          },
-          "thfr": {
-            "first": "05:30:00",
-            "last": "22:20:00"
-          }
-        }
-      }
-    },
-    "NU": {
-      "title": "NU",
-      "color": "99ff00",
-      "tag": "NU",
-      "oppositeColor": "000000",
-      "max": [
-        35.9334156,
-        -79.0446989
-      ],
-      "min": [
-        35.9030095,
-        -79.0648985
-      ],
-      "stops": {
-        "To RR Lot": [
-          "mannunch_e",
-          "scolheal",
-          "scolcarr",
-          "scolsitt",
-          "scolaber",
-          "scolrose",
-          "airpnorst",
-          "airpnorpl",
-          "airpmill",
-          "airpfost",
-          "mlkbboli",
-          "mlkbbarc_e",
-          "airpairp_e",
-          "airpesext"
-        ],
-        "To UNC Hospital": [
-          "railrlot_d",
-          "airpesext_w",
-          "airpairp_w",
-          "mlkbbarc_w",
-          "mlkbgard",
-          "hillsmlk",
-          "hillsbroo",
-          "hillstown",
-          "hillsnort",
-          "hillsrose",
-          "ralespen",
-          "ralemang",
-          "soutstud",
-          "stadstad",
-          "stadridg",
-          "ridgrams",
-          "mannpubl",
-          "mannhibb_w"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "mannunch_e",
-          "scolrose",
-          "airpmill",
-          "railrlot_a"
-        ],
-        "outbound": [
-          "railrlot_d",
-          "soutstud"
-        ]
-      },
-      "scheduledTimeRange": {
-        "2prlot": {
-          "mtw": {
-            "first": "07:27:00",
-            "last": "22:27:00"
-          },
-          "sat": {
-            "first": "11:50:00",
-            "last": "23:05:00"
-          },
-          "sun": {
-            "first": "11:50:00",
-            "last": "23:05:00"
-          },
-          "thfr": {
-            "first": "07:27:00",
-            "last": "22:27:00"
-          }
-        },
-        "2unchosp": {
-          "mtw": {
-            "first": "07:05:00",
             "last": "22:05:00"
           },
           "sat": {
-            "first": "11:30:00",
-            "last": "22:45:00"
-          },
-          "sun": {
-            "first": "11:30:00",
-            "last": "22:45:00"
-          },
-          "thfr": {
-            "first": "07:05:00",
-            "last": "22:05:00"
-          }
-        }
-      }
-    },
-    "RU": {
-      "title": "RU",
-      "color": "00ccff",
-      "tag": "RU",
-      "oppositeColor": "000000",
-      "max": [
-        35.9124887,
-        -79.03824
-      ],
-      "min": [
-        35.8993496,
-        -79.05514
-      ],
-      "stops": {
-        "To Family Practice Building": [
-          "cameswai",
-          "pittnewm",
-          "pittcred",
-          "pittuniv",
-          "mannhosp",
-          "mannhibb_e",
-          "manncrai",
-          "bowlcrai",
-          "bowlkena",
-          "bowlsmit_e"
-        ],
-        "To Cameron Ave": [
-          "fparfami_d",
-          "fparmidd",
-          "bowlflotd_w",
-          "bowlsmit_w",
-          "bowlhint",
-          "ridgehri",
-          "ridgstad",
-          "ridgglaws",
-          "soutcoun",
-          "soutrale",
-          "raleconn",
-          "raleilewi",
-          "camenewe"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "fparfami_d",
-          "soutrale"
-        ],
-        "outbound": [
-          "cameswai",
-          "mannhosp",
-          "fparfami_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "2cameron": {
-          "mtw": {
-            "first": "07:00:00",
+            "first": "08:00:00",
             "last": "20:00:00"
           },
-          "thfr": {
-            "first": "07:00:00",
-            "last": "20:00:00"
-          }
-        },
-        "tofamily": {
-          "mtw": {
-            "first": "07:14:00",
-            "last": "20:14:00"
-          },
-          "thfr": {
-            "first": "07:14:00",
-            "last": "20:14:00"
-          }
-        }
-      }
-    },
-    "S": {
-      "title": "S",
-      "color": "0000ff",
-      "tag": "S",
-      "oppositeColor": "ffffff",
-      "max": [
-        35.9110101,
-        -79.0109411
-      ],
-      "min": [
-        35.8963899,
-        -79.0534681
-      ],
-      "stops": {
-        "To UNC Hospital": [
-          "nc54park_d",
-          "fridfinl",
-          "fridnc54",
-          "raleburn",
-          "raleoak",
-          "raleglen",
-          "fordmasn_u",
-          "mannpubl",
-          "mannhibb_w",
-          "manngrav_u"
-        ],
-        "To NC 54 Park & Ride Lot": [
-          "mannunch",
-          "coluheal",
-          "colucarr",
-          "soutcoke",
-          "soutfetz",
-          "soutwoll",
-          "soutcoun_e",
-          "ralestth",
-          "ralegree_e",
-          "raleunca",
-          "ralehami",
-          "ralebest",
-          "firdnc54",
-          "fridfrid"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "mannunch",
-          "soutfetz",
-          "nc54park"
-        ],
-        "outbound": [
-          "nc54park_d",
-          "mannunch_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "2nc54": {
-          "mtw": {
-            "first": "06:36:00",
-            "last": "19:23:00"
-          },
-          "thfr": {
-            "first": "06:36:00",
-            "last": "19:23:00"
-          }
-        },
-        "2unc": {
-          "mtw": {
-            "first": "06:20:00",
-            "last": "19:00:00"
-          },
-          "thfr": {
-            "first": "06:20:00",
-            "last": "19:00:00"
-          }
-        }
-      }
-    },
-    "SRG": {
-      "title": "Safe Ride G",
-      "color": "ddaa55",
-      "tag": "SRG",
-      "oppositeColor": "000000",
-      "max": [
-        35.91524,
-        -79.00883
-      ],
-      "min": [
-        35.89832,
-        -79.0550309
-      ],
-      "stops": {
-        "To Meadowmont": [
-          "franvars_d",
-          "colufrat",
-          "pittnewm",
-          "mccaphar",
-          "soutcoke",
-          "soutfetz_w",
-          "soutwoll",
-          "soutcoun_w",
-          "ralestth",
-          "ralegree_w",
-          "raleunca_w",
-          "ralehami",
-          "ralebest",
-          "finlfore",
-          "brookber",
-          "brookberr"
-        ],
-        "To Varsity Theater": [
-          "harrmead",
-          "wbarweav",
-          "wbaroldb",
-          "raleburn",
-          "raleoak",
-          "glenleno",
-          "hamiberk_w",
-          "hamimaxw2_w",
-          "branhami_w",
-          "branhaye_w",
-          "raleunca",
-          "ralegree",
-          "ralesttm",
-          "strdccrd",
-          "strdrale",
-          "ralelewi",
-          "ralealde",
-          "franplan_n",
-          "franhend",
-          "franvars_a"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "franvars_d",
-          "finlfore"
-        ],
-        "outbound": [
-          "harrmead",
-          "glenleno",
-          "franvars_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "2meadow": {
-          "sat": {
-            "first": "23:00:00",
-            "last": "02:00:00"
-          },
-          "thfr": {
-            "first": "23:00:00",
-            "last": "02:00:00"
-          }
-        },
-        "tovarsity": {
-          "sat": {
-            "first": "23:15:00",
-            "last": "02:15:00"
-          },
-          "thfr": {
-            "first": "23:15:00",
-            "last": "02:15:00"
-          }
-        }
-      }
-    },
-    "SRJ": {
-      "title": "Safe Ride J",
-      "color": "9988ff",
-      "tag": "SRJ",
-      "oppositeColor": "000000",
-      "max": [
-        35.9162216,
-        -79.0496451
-      ],
-      "min": [
-        35.8918899,
-        -79.0858105
-      ],
-      "stops": {
-        "To Rock Haven Rd": [
-          "franvars",
-          "wfracari",
-          "wfrachur",
-          "wfrahams",
-          "wfrauncb",
-          "wfrangra",
-          "mainloyd",
-          "mainjade",
-          "greemuni",
-          "greetrai",
-          "smitpubl",
-          "smitwill_s",
-          "rocksmit",
-          "rockrock_d",
-          "carrhs",
-          "highturn_s",
-          "hightarh_s",
-          "tighwelc_s",
-          "bpwcthev_s",
-          "bpwcsmit_s"
-        ],
-        "To Varsity Theater": [
-          "smitbpwc",
-          "smitwill_n",
-          "smitfpgs",
-          "emaiweav",
-          "maincent",
-          "rosegree",
-          "rosegrah",
-          "rosamama",
-          "rosemini",
-          "roseprit",
-          "hillrose_n",
-          "franplan_n",
-          "franhend"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "franvars",
-          "rockrock_d",
-          "hightarh_s"
-        ]
-      },
-      "scheduledTimeRange": {
-        "2rockhaven": {
-          "sat": {
-            "first": "23:15:00",
-            "last": "02:15:00"
-          },
-          "thfr": {
-            "first": "23:15:00",
-            "last": "02:15:00"
-          }
-        },
-        "tovarsity": {}
-      }
-    },
-    "SRT": {
-      "title": "Safe Ride T",
-      "color": "00ffaa",
-      "tag": "SRT",
-      "oppositeColor": "000000",
-      "max": [
-        35.9615074,
-        -79.0496505
-      ],
-      "min": [
-        35.9135803,
-        -79.05869
-      ],
-      "stops": {
-        "To Westminster Circle": [
-          "franvars",
-          "scolrose",
-          "airpnorst",
-          "airpnorpl",
-          "airpmill",
-          "airpfost",
-          "mlkbboli",
-          "mlkbbarc_n",
-          "mlkbymca_n",
-          "mlkbshad_n",
-          "airptimb_n",
-          "mlkbashl",
-          "mlkbtayl_d",
-          "mlkbhome",
-          "airpstat_n",
-          "aiprrigg_n",
-          "westairp_n"
-        ],
-        "To Varsity Theater": [
-          "bankfood",
-          "westtraf_n",
-          "airpwest_s",
-          "airprigg_s",
-          "airpstat_s",
-          "airpbroo",
-          "mlknort",
-          "airptimb_s",
-          "mlkbshad_s",
-          "mlkbymca_s",
-          "mlkbair",
-          "mlkbbarc_s",
-          "mlkbgard",
-          "hillmlkb_s",
-          "hillbroo",
-          "hilltown",
-          "hillnort",
-          "hillrose_s",
-          "franplan_s",
-          "franhend",
-          "franvars_a"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "westtraf_n",
-          "airpbroo",
-          "hillmlkb_s",
-          "franvars_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "tovarsity": {
-          "sat": {
-            "first": "23:15:00",
-            "last": "02:15:00"
-          },
-          "thfr": {
-            "first": "23:15:00",
-            "last": "02:15:00"
-          }
-        },
-        "towestmin": {}
-      }
-    },
-    "T": {
-      "title": "T",
-      "color": "00ffcc",
-      "tag": "T",
-      "oppositeColor": "000000",
-      "max": [
-        35.9649599,
-        -79.0307396
-      ],
-      "min": [
-        35.90156,
-        -79.05869
-      ],
-      "stops": {
-        "To  East Chapel Hill High School": [
-          "mannunch",
-          "coluheal",
-          "colucarr",
-          "scolsitt",
-          "scolaber",
-          "scolrose",
-          "airpnorst",
-          "airpnorpl",
-          "airpmill",
-          "airpfost",
-          "mlkbboli",
-          "mlkbbarc_n",
-          "mlkbymca_n",
-          "mlkbshad_n",
-          "airptimb_n",
-          "mlkbashl",
-          "mlkbtayl_d",
-          "mlkbhome",
-          "airpstat_n",
-          "aiprrigg_n",
-          "westairp_n",
-          "bankwest",
-          "westtraf_n",
-          "bankfood",
-          "bankweav",
-          "weavking",
-          "weavtimb",
-          "weavesse",
-          "carowoo_n",
-          "weavstee",
-          "eastchap_a"
-        ],
-        "To UNC Hospital": [
-          "eastchap_d",
-          "weavsunr",
-          "carowoo_s",
-          "weavesse_s",
-          "weavkens",
-          "weavvilc",
-          "weavtimb_s",
-          "westtraf_s",
-          "banktimb",
-          "westairp_s",
-          "airpwest_s",
-          "airprigg_s",
-          "airpstat_s",
-          "airpbroo",
-          "mlknort",
-          "airptimb_s",
-          "mlkbshad_s",
-          "mlkbymca_s",
-          "mlkbair",
-          "mlkbbarc_s",
-          "mlkbgard",
-          "airpr725",
-          "airplong",
-          "airpadel",
-          "airptown",
-          "colufank",
-          "colufrat",
-          "pittnewm",
-          "pittcred",
-          "pittuniv",
-          "masoambu",
-          "masoodum",
-          "eastjack"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "mannunch",
-          "scolrose",
-          "mlkbhome",
-          "westtraf_n",
-          "eastchap_a"
-        ],
-        "outbound": [
-          "eastchap_d",
-          "westtraf_s",
-          "airpbroo",
-          "colufank"
-        ]
-      },
-      "scheduledTimeRange": {
-        "2echillhs": {
-          "mtw": {
-            "first": "07:23:00",
-            "last": "18:15:00"
-          },
-          "thfr": {
-            "first": "07:23:00",
-            "last": "18:15:00"
-          }
-        },
-        "2unchosp": {
-          "mtw": {
-            "first": "06:50:00",
-            "last": "17:45:00"
-          },
-          "thfr": {
-            "first": "06:50:00",
-            "last": "17:45:00"
-          }
-        }
-      }
-    },
-    "TWkend": {
-      "title": "T Weekend",
-      "color": "00ffaa",
-      "tag": "TWkend",
-      "oppositeColor": "000000",
-      "max": [
-        35.9649592,
-        -79.0307396
-      ],
-      "min": [
-        35.9117278,
-        -79.06341
-      ],
-      "stops": {
-        "To  East Chapel Hill High School": [
-          "franvars",
-          "colufrat_s",
-          "raleialder",
-          "hillrose_n",
-          "hilldelt",
-          "hillboli",
-          "hillmlkb_n",
-          "bradread_n",
-          "bradwill_n",
-          "severin223",
-          "weinebarc",
-          "barcwill_n",
-          "justbarc",
-          "mlkbymca_n",
-          "mlkbshad_n",
-          "airptimb_n",
-          "mlkbashl",
-          "mlkbtayl_d",
-          "mlkbhome",
-          "airpstat_n",
-          "aiprrigg_n",
-          "westairp_n",
-          "westtraf_n",
-          "bankfood",
-          "bankweav",
-          "weavking",
-          "weavtimb_n",
-          "weavesse_n",
-          "carowoo_n",
-          "weavstee",
-          "eastchap_a"
-        ],
-        "To UNC Hospital": [
-          "eastchap_d",
-          "weavsunr",
-          "carowoo_s",
-          "weavesse_s",
-          "weavkens",
-          "weavvilc",
-          "weavtimb_s",
-          "westtraf_s",
-          "banktimb",
-          "westairp_s",
-          "airpwest_s",
-          "airprigg_s",
-          "airpstat_s",
-          "airpbroo",
-          "mlknort",
-          "airptimb_s",
-          "mlkbshad_s",
-          "mlkbymca_s",
-          "mlkbair",
-          "mlkbbarc_s",
-          "barcjust",
-          "barcwill_s",
-          "barcwyri",
-          "barchart",
-          "weinseve_d",
-          "severi224",
-          "bradwill_s",
-          "bradread_s",
-          "hillmlkb_s",
-          "hillbroo",
-          "hilltown",
-          "hillnort",
-          "hillrose_s",
-          "franplan_s",
-          "franhend",
-          "franvars_a"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "franvars",
-          "weinebarc",
-          "westtraf_n",
-          "eastchap_a"
-        ],
-        "outbound": [
-          "eastchap_d",
-          "westtraf_s",
-          "weinseve_d",
-          "franvars_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "2echillhs": {
-          "sat": {
-            "first": "08:30:00",
-            "last": "18:25:00"
-          }
-        },
-        "2unchosp": {
-          "sat": {
-            "first": "08:00:00",
-            "last": "17:50:00"
-          }
-        }
-      }
-    },
-    "U": {
-      "title": "U",
-      "color": "66cc66",
-      "tag": "U",
-      "oppositeColor": "000000",
-      "max": [
-        35.91493,
-        -79.0408356
-      ],
-      "min": [
-        35.9003601,
-        -79.054689
-      ],
-      "stops": {
-        "To Bowles Drive": [
-          "francoffe",
-          "franplan_n",
-          "ralespen",
-          "ralemang",
-          "soutstud",
-          "stadstad",
-          "stadridg",
-          "ridgrams",
-          "mannhint"
-        ],
-        "To East Franklin Street": [
-          "bowlflotd_w",
-          "bowlsmit_w",
-          "bowlhint",
-          "mannpubl",
-          "mannhibb_w",
-          "manngrav",
-          "mannunch_e",
-          "scolheal",
-          "scolcarr",
-          "scolsitt",
-          "scolaber"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "francoffe",
-          "soutstud"
-        ],
-        "outbound": [
-          "bowlflotd_w",
-          "scolheal",
-          "francoffe_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "2bowlesdr": {
-          "mtw": {
-            "first": "07:00:00",
-            "last": "19:30:00"
-          },
-          "sat": {
-            "first": "10:30:00",
-            "last": "18:50:00"
-          },
           "sun": {
-            "first": "10:30:00",
-            "last": "18:50:00"
-          },
-          "thfr": {
-            "first": "07:00:00",
-            "last": "19:30:00"
-          }
-        },
-        "2efranklin": {
-          "mtw": {
-            "first": "07:11:00",
-            "last": "19:41:00"
-          },
-          "sat": {
-            "first": "10:38:00",
-            "last": "18:58:00"
-          },
-          "sun": {
-            "first": "10:38:00",
-            "last": "18:58:00"
-          },
-          "thfr": {
-            "first": "07:11:00",
-            "last": "19:41:00"
-          }
-        }
-      }
-    },
-    "V": {
-      "title": "V",
-      "color": "dc8909",
-      "tag": "V",
-      "oppositeColor": "000000",
-      "max": [
-        35.9111397,
-        -79.0091111
-      ],
-      "min": [
-        35.87881,
-        -79.0706801
-      ],
-      "stops": {
-        "To Southern Village": [
-          "wbarmead",
-          "wbarweav",
-          "wbaroldb",
-          "raleburn",
-          "raleoak",
-          "raleglen",
-          "raleunca",
-          "ralegree",
-          "ralestto",
-          "soutcoun",
-          "soutrale",
-          "soutstud",
-          "soutkena",
-          "mccawhit",
-          "pittcred_e",
-          "pittuniv",
-          "mannhosp",
-          "scolwest",
-          "scolpure",
-          "us15culb",
-          "bennus15",
-          "markkild",
-          "abercopp",
-          "greecopp",
-          "westpark",
-          "parkedge",
-          "parkston",
-          "highpark",
-          "broosout",
-          "brooedge",
-          "broocopp",
-          "broomark",
-          "kildmark"
-        ],
-        "To Meadowmont": [
-          "soutpark_d",
-          "us15benn",
-          "scolpure_n",
-          "scolcool",
-          "scolchas",
-          "masoambu_n",
-          "masoodum",
-          "eastjack",
-          "mannunch",
-          "coluheal",
-          "colucarr",
-          "soutfetz",
-          "soutwoll",
-          "soutcoun_n",
-          "ralestth",
-          "ralegree_n",
-          "raleunca_n",
-          "ralehami",
-          "ralebest",
-          "exchmead",
-          "franstree",
-          "fridpark",
-          "fridnc54",
-          "meadvill"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "soutpark_d",
-          "mannunch",
-          "soutfetz",
-          "fridpark",
-          "wbarmead_a"
-        ],
-        "outbound": [
-          "wbarmead",
-          "soutstud",
-          "mannhosp",
-          "soutpark_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "2meadow": {
-          "mtw": {
-            "first": "06:59:00",
-            "last": "18:50:00"
-          },
-          "thfr": {
-            "first": "06:59:00",
-            "last": "18:50:00"
-          }
-        },
-        "2southern": {
-          "mtw": {
-            "first": "06:23:00",
-            "last": "19:31:00"
-          },
-          "thfr": {
-            "first": "06:23:00",
-            "last": "19:31:00"
-          }
-        }
-      }
-    },
-    "Vsat": {
-      "title": "Saturday V",
-      "color": "ff9912",
-      "tag": "Vsat",
-      "oppositeColor": "000000",
-      "max": [
-        35.91493,
-        -79.0091112
-      ],
-      "min": [
-        35.87881,
-        -79.0663101
-      ],
-      "stops": {
-        "To Southern Village": [
-          "wbarmead",
-          "wbarweav",
-          "wbaroldb",
-          "raleburn",
-          "raleoak",
-          "raleglen",
-          "raleunca",
-          "ralegree",
-          "ralestto",
-          "soutcoun",
-          "soutrale",
-          "ralcon",
-          "rallew",
-          "franvars",
-          "colufrat_s",
-          "pittcred_e",
-          "pittuniv",
-          "mannhosp",
-          "scolwest",
-          "scolpure",
-          "us15culb",
-          "bennus15",
-          "markkild"
-        ],
-        "To Meadowmont": [
-          "soutpark_d",
-          "us15benn",
-          "scolpure_n",
-          "scolcool",
-          "scolchas",
-          "masoambu_n",
-          "masoodum",
-          "eastjack",
-          "mannunch",
-          "coluheal",
-          "colucarr",
-          "scolsitt",
-          "scolaber",
-          "francoffe",
-          "franplan_n",
-          "ralespen",
-          "ralemang",
-          "soutwoll",
-          "soutcoun_n",
-          "ralestth",
-          "ralegree_n",
-          "raleunca_n",
-          "ralehami",
-          "ralebest",
-          "exchmead",
-          "franstree",
-          "fridpark",
-          "fridnc54",
-          "meadvill"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "soutpark_d",
-          "mannunch",
-          "francoffe",
-          "wbarmead_a"
-        ],
-        "outbound": [
-          "wbarmead",
-          "franvars",
-          "mannhosp",
-          "soutpark_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "2meadow": {
-          "sat": {
-            "first": "08:30:00",
-            "last": "17:50:00"
-          }
-        },
-        "2southern": {
-          "sat": {
             "first": "08:00:00",
-            "last": "18:30:00"
+            "last": "18:00:00"
           }
         }
       }
     }
   },
-  "copyright": "All data copyright Chapel Hill Transit 2019."
+  "copyright": "All data copyright Chapel Hill Transit 2020."
 }

@@ -6,16 +6,16 @@
       "tag": "gold1",
       "oppositeColor": "000000",
       "max": [
-        38.87881,
-        -77.2713799
+        38.8784723,
+        -77.2714698
       ],
       "min": [
-        38.8346227,
-        -77.332737
+        38.834623,
+        -77.3326011
       ],
       "stops": {
         "To George Mason University": [
-          "pubstation",
+          "pubstation_bayd",
           "cousut_o",
           "blafiv_o",
           "blabel_o",
@@ -68,7 +68,6 @@
           "warmer",
           "warbou",
           "leemcl",
-          "leecha",
           "104lee",
           "leeuni",
           "leeeat",
@@ -87,15 +86,14 @@
       },
       "scheduledStops": {
         "inbound": [
-          "pubstation",
+          "pubstation_bayd",
           "leefhs"
         ],
         "outbound": [
+          "gmu",
           "jermai",
-          "leecha",
           "faidra",
-          "station",
-          "gmu"
+          "station"
         ]
       },
       "scheduledTimeRange": {
@@ -120,19 +118,11 @@
         "sta": {
           "f": {
             "first": "05:40:00",
-            "last": "22:50:00"
+            "last": "06:10:00"
           },
           "mtwh": {
             "first": "05:40:00",
-            "last": "22:50:00"
-          },
-          "sat": {
-            "first": "08:46:00",
-            "last": "20:16:00"
-          },
-          "sun": {
-            "first": "10:21:00",
-            "last": "17:52:00"
+            "last": "06:10:00"
           }
         }
       }
@@ -143,12 +133,12 @@
       "tag": "gold2",
       "oppositeColor": "000000",
       "max": [
-        38.87881,
-        -77.2713799
+        38.8788649,
+        -77.2713919
       ],
       "min": [
-        38.8346227,
-        -77.3327843
+        38.834623,
+        -77.3328715
       ],
       "stops": {
         "To George Mason University": [
@@ -187,6 +177,7 @@
           "maioak",
           "maikei",
           "judmai",
+          "judpage",
           "judjon",
           "judwes",
           "chaarm",
@@ -223,10 +214,10 @@
       },
       "scheduledStops": {
         "inbound": [
-          "jermai",
           "pubstation",
           "faidra",
-          "faicha"
+          "faicha",
+          "jermai"
         ],
         "outbound": [
           "gmu",
@@ -237,12 +228,12 @@
       "scheduledTimeRange": {
         "gm": {
           "f": {
-            "first": "05:25:00",
-            "last": "21:25:00"
+            "first": "06:02:00",
+            "last": "21:02:00"
           },
           "mtwh": {
-            "first": "05:25:00",
-            "last": "21:25:00"
+            "first": "06:02:00",
+            "last": "21:02:00"
           },
           "sat": {
             "first": "08:00:00",
@@ -255,11 +246,11 @@
         },
         "sta": {
           "f": {
-            "first": "05:37:00",
+            "first": "05:25:00",
             "last": "21:37:00"
           },
           "mtwh": {
-            "first": "05:37:00",
+            "first": "05:25:00",
             "last": "21:37:00"
           },
           "sat": {
@@ -279,16 +270,16 @@
       "tag": "green1",
       "oppositeColor": "ffffff",
       "max": [
-        38.87881,
-        -77.2624565
+        38.8786665,
+        -77.2623097
       ],
       "min": [
-        38.8346227,
-        -77.3120492
+        38.834623,
+        -77.31199
       ],
       "stops": {
         "To George Mason University": [
-          "pubstation",
+          "pubstation_bayc",
           "nuther",
           "nutlleeh",
           "nutbar_o",
@@ -353,7 +344,7 @@
       },
       "scheduledStops": {
         "inbound": [
-          "pubstation",
+          "pubstation_bayc",
           "leefai_o",
           "maipic"
         ],
@@ -361,7 +352,7 @@
           "gmu",
           "leecha",
           "leefai",
-          "station"
+          "pubstation_bayc_a"
         ]
       },
       "scheduledTimeRange": {
@@ -409,16 +400,16 @@
       "tag": "green2",
       "oppositeColor": "ffffff",
       "max": [
-        38.87881,
-        -77.2624433
+        38.878662,
+        -77.26232
       ],
       "min": [
-        38.8346227,
-        -77.31216
+        38.834623,
+        -77.3121989
       ],
       "stops": {
         "To George Mason University": [
-          "pubstation",
+          "pubstation_bayb",
           "nuther",
           "nutlleeh",
           "nutbar_o",
@@ -481,7 +472,7 @@
       },
       "scheduledStops": {
         "inbound": [
-          "pubstation",
+          "pubstation_bayb",
           "leefai_o",
           "leecha"
         ],
@@ -489,7 +480,7 @@
           "gmu",
           "picpic",
           "leefai",
-          "station"
+          "pubstation_bayb_a"
         ]
       },
       "scheduledTimeRange": {
@@ -532,5 +523,5 @@
       }
     }
   },
-  "copyright": "All data copyright Fairfax (CUE) 2019."
+  "copyright": "All data copyright Fairfax (CUE) 2020."
 }

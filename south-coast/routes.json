@@ -1762,6 +1762,9 @@
           "413stjoh",
           "nyelvent_d",
           "413stjoh_a"
+        ],
+        "outbound": [
+          "wells_a"
         ]
       },
       "scheduledTimeRange": {
@@ -1779,7 +1782,11 @@
             "last": "20:05:00"
           }
         },
-        "wells": {}
+        "wells": {
+          "wkd": {},
+          "sat": {},
+          "sun": {}
+        }
       }
     },
     "1a": {
@@ -2387,8 +2394,18 @@
         ]
       },
       "scheduledTimeRange": {
-        "hs": {},
-        "ven5": {}
+        "hs": {
+          "wkd": {
+            "first": "07:12:00",
+            "last": "07:12:00"
+          }
+        },
+        "ven5": {
+          "wkd": {
+            "first": "15:15:00",
+            "last": "15:15:00"
+          }
+        }
       }
     },
     "18f": {
@@ -2566,10 +2583,20 @@
         ]
       },
       "scheduledTimeRange": {
-        "oxnard": {},
-        "rio": {}
+        "oxnard": {
+          "wkd": {
+            "first": "15:15:00",
+            "last": "15:15:00"
+          }
+        },
+        "rio": {
+          "wkd": {
+            "first": "07:24:00",
+            "last": "07:24:00"
+          }
+        }
       }
     }
   },
-  "copyright": "All data copyright Gold Coast Transit 2019."
+  "copyright": "All data copyright Gold Coast Transit 2020."
 }

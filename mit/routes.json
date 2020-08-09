@@ -7,7 +7,7 @@
       "oppositeColor": "ffffff",
       "max": [
         42.3601699,
-        -71.089408
+        -71.0894079
       ],
       "min": [
         42.3488099,
@@ -44,10 +44,6 @@
       },
       "scheduledTimeRange": {
         "boston": {
-          "wkd": {
-            "first": "08:00:00",
-            "last": "17:30:00"
-          },
           "sat": {
             "first": "08:00:00",
             "last": "17:30:00"
@@ -58,10 +54,6 @@
           }
         },
         "mass84": {
-          "wkd": {
-            "first": "08:10:00",
-            "last": "17:40:00"
-          },
           "sat": {
             "first": "08:10:00",
             "last": "17:40:00"
@@ -100,6 +92,9 @@
         "inbound": [
           "kendsq",
           "wadse40"
+        ],
+        "outbound": [
+          "charprk"
         ]
       },
       "scheduledTimeRange": {
@@ -113,7 +108,10 @@
             "last": "15:20:00"
           }
         },
-        "kendsq": {}
+        "kendsq": {
+          "wkd": {},
+          "wkend": {}
+        }
       }
     },
     "tech": {
@@ -126,7 +124,7 @@
         -71.0846492
       ],
       "min": [
-        42.3541989,
+        42.354199,
         -71.106936
       ],
       "stops": {
@@ -154,8 +152,8 @@
           "w92ames",
           "simmhall",
           "vassmass",
-          "kochmain_a",
-          "mainvass"
+          "mainvass",
+          "kochmain_a"
         ],
         "outbound": [
           "kendsq",
@@ -181,7 +179,7 @@
         },
         "wcamp": {
           "wkd": {
-            "first": "06:15:00",
+            "first": "14:35:00",
             "last": "22:51:00"
           },
           "wkend": {
@@ -393,7 +391,7 @@
       ],
       "min": [
         42.348309,
-        -71.1039919
+        -71.1024843
       ],
       "stops": {
         "To Kendall Square": [
@@ -915,8 +913,8 @@
         -71.071932
       ],
       "min": [
-        42.354467,
-        -71.103992
+        42.3548891,
+        -71.1025105
       ],
       "stops": {
         "To MIT Campus": [
@@ -979,7 +977,7 @@
         -71.0846499
       ],
       "min": [
-        42.354467,
+        42.3548891,
         -71.1143951
       ],
       "stops": {
@@ -1021,12 +1019,20 @@
       },
       "scheduledTimeRange": {
         "paci70": {
+          "wkd": {
+            "first": "11:59:00",
+            "last": "16:17:00"
+          },
           "sun": {
             "first": "11:59:00",
             "last": "16:17:00"
           }
         },
         "totj": {
+          "wkd": {
+            "first": "11:30:00",
+            "last": "15:48:00"
+          },
           "sun": {
             "first": "11:30:00",
             "last": "15:48:00"
@@ -1035,5 +1041,5 @@
       }
     }
   },
-  "copyright": "All data copyright Massachusetts Institute of Technology 2019."
+  "copyright": "All data copyright Massachusetts Institute of Technology 2020."
 }

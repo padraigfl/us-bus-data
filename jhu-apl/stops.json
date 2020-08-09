@@ -25,6 +25,9 @@
         },
         "southcampus": {
           "": true
+        },
+        "marc": {
+          "": true
         }
       },
       "lon": "-76.8995059",
@@ -39,11 +42,11 @@
           "": true
         }
       },
-      "lon": "-76.8902459",
+      "lon": "-76.8902412",
       "title": "MP3",
       "stopId": "903",
       "tag": "mp3",
-      "lat": "39.1651929"
+      "lat": "39.1651918"
     },
     "mp5": {
       "routes": {
@@ -87,6 +90,9 @@
           "": true
         },
         "express": {
+          "": true
+        },
+        "marc": {
           "": true
         }
       },
@@ -194,7 +200,19 @@
       "stopId": "229",
       "tag": "bldg29s",
       "lat": "39.1699266"
+    },
+    "marc": {
+      "routes": {
+        "marc": {
+          "": true
+        }
+      },
+      "lon": "-76.842346",
+      "title": "MARC Train Station",
+      "stopId": "500",
+      "tag": "marc",
+      "lat": "39.101991"
     }
   },
-  "copyright": "All data copyright APL 2019."
+  "copyright": "All data copyright APL 2020."
 }

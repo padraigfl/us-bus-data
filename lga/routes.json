@@ -1,144 +1,32 @@
 {
   "data": {
-    "blue": {
-      "title": "Blue",
+    "blue2": {
+      "title": "All Terminal Shuttle",
       "color": "1c5fa9",
-      "tag": "blue",
-      "oppositeColor": "ffffff",
-      "max": [
-        40.774097,
-        -73.870945
-      ],
-      "min": [
-        40.7698556,
-        -73.8868069
-      ],
-      "stops": {
-        "Loop": [
-          "trma",
-          "hng7",
-          "trmb",
-          "stop15"
-        ]
-      },
-      "scheduledStops": {}
-    },
-    "purple": {
-      "title": "Purple",
-      "color": "792b79",
-      "tag": "purple",
-      "oppositeColor": "ffffff",
-      "max": [
-        40.7743729,
-        -73.8625335
-      ],
-      "min": [
-        40.768464,
-        -73.876212
-      ],
-      "stops": {
-        "Loop": [
-          "trmb",
-          "trmd",
-          "trmc",
-          "102st",
-          "mangpark"
-        ]
-      },
-      "scheduledStops": {}
-    },
-    "red": {
-      "title": "Red",
-      "color": "cf302c",
-      "tag": "red",
+      "tag": "blue2",
       "oppositeColor": "ffffff",
       "max": [
         40.773269,
-        -73.8623947
+        -73.8648525
       ],
       "min": [
-        40.7684468,
-        -73.8868075
+        40.768464,
+        -73.886254
       ],
       "stops": {
         "Loop": [
           "trma",
           "hng7",
           "102nd_i",
-          "trmd",
           "trmc",
-          "102nd_o",
-          "stop15"
-        ]
-      },
-      "scheduledStops": {}
-    },
-    "tx1": {
-      "title": "Taxi Shuttle B",
-      "color": "ff7216",
-      "tag": "tx1",
-      "shortTitle": "Taxi B",
-      "oppositeColor": "000000",
-      "max": [
-        40.7740346,
-        -73.8745263
-      ],
-      "min": [
-        40.7702647,
-        -73.8868681
-      ],
-      "stops": {
-        "Loop": [
-          "trmb2",
-          "pickup"
-        ]
-      },
-      "scheduledStops": {}
-    },
-    "tx2": {
-      "title": "Taxi Shuttle C",
-      "color": "aa6600",
-      "tag": "tx2",
-      "shortTitle": "Taxi C",
-      "oppositeColor": "ffffff",
-      "max": [
-        40.770265,
-        -73.864853
-      ],
-      "min": [
-        40.770124,
-        -73.886868
-      ],
-      "stops": {
-        "Loop": [
-          "trmc2",
-          "pickup2"
-        ]
-      },
-      "scheduledStops": {}
-    },
-    "tx3": {
-      "title": "Taxi Shuttle D",
-      "color": "000000",
-      "tag": "tx3",
-      "shortTitle": "Taxi D",
-      "oppositeColor": "ffffff",
-      "max": [
-        40.770265,
-        -73.8625335
-      ],
-      "min": [
-        40.7685436,
-        -73.886868
-      ],
-      "stops": {
-        "Loop": [
-          "trmd2",
-          "pickup2"
+          "102st",
+          "mangpark",
+          "trmb",
+          "hng5"
         ]
       },
       "scheduledStops": {}
     }
   },
-  "copyright": "All data copyright LaGuardia Airport Shuttle 2019."
+  "copyright": "All data copyright LaGuardia Airport Shuttle 2020."
 }

@@ -4,135 +4,45 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Weyburn Terrace",
-        "tag": "weybterr_d",
-        "stopId": "25"
+        "title": "Keystone/Mentone",
+        "tag": "keystn",
+        "stopId": "18"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.44995,
-          34.06185
+          -118.405382,
+          34.019749
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Lot 36",
-        "tag": "lot36_n",
-        "stopId": "02"
+        "title": "Venice/Barry",
+        "tag": "venbarry",
+        "stopId": "19"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.447578,
-          34.059471
+          -118.4260457,
+          34.0079731
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Lindbrook at Hammer",
-        "tag": "lindhamm",
-        "stopId": "49"
+        "title": "Lindbrook/Westwood North",
+        "tag": "westlind_o",
+        "stopId": "53"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.4441519,
-          34.0596752
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Wyton South",
-        "tag": "wytnsout",
-        "stopId": "52"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.438205,
-          34.07363
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Murphy Hall South",
-        "tag": "murhall_s",
-        "stopId": "07"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4396599,
-          34.071614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Molecular Science",
-        "tag": "molsci_s",
-        "stopId": "08"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4404599,
-          34.0679101
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Gonda Building",
-        "tag": "gonda_s",
-        "stopId": "09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.444303,
-          34.06703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Medical Plaza",
-        "tag": "medplaz_s",
-        "stopId": "10"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4454499,
-          34.0654962
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Wilshire Center",
-        "tag": "wilscent",
-        "stopId": "55"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4450899,
-          34.0575479
+          -118.4446747,
+          34.0597976
         ]
       }
     },
@@ -140,14 +50,14 @@
       "type": "Feature",
       "properties": {
         "title": "Stein Plaza",
-        "tag": "steiplaz",
+        "tag": "npi_n",
         "stopId": "03"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -118.445217,
-          34.0656768
+          34.065677
         ]
       }
     },
@@ -161,8 +71,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.4409911,
-          34.0670179
+          -118.440951,
+          34.067025
         ]
       }
     },
@@ -170,14 +80,14 @@
       "type": "Feature",
       "properties": {
         "title": "Parking Structure 2",
-        "tag": "parkstru2",
+        "tag": "structure2_n",
         "stopId": "04"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.440219,
-          34.0688628
+          -118.440258,
+          34.0689107
         ]
       }
     },
@@ -191,8 +101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.439558,
-          34.070589
+          -118.43958,
+          34.0707147
         ]
       }
     },
@@ -206,56 +116,206 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.4382105,
-          34.0737226
+          -118.438161,
+          34.073714
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Hilgard & Westholme",
-        "tag": "hilgwest",
-        "stopId": "47"
+        "title": "Wilshire Center",
+        "tag": "wilscent",
+        "stopId": "01"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.4390799,
-          34.0692783
+          -118.4450667,
+          34.0576105
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Le Conte & Tiverton",
-        "tag": "conttive",
-        "stopId": "48"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.442925,
-          34.06377
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Westwood & Lindbrook",
-        "tag": "westlind",
+        "title": "Westwood at Lindbrook NB",
+        "tag": "lindhamm",
         "stopId": "53"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.4448354,
-          34.0597695
+          -118.4446748,
+          34.0597978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stein Plaza",
+        "tag": "steinplaz",
+        "stopId": "03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4452169,
+          34.065677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Botany",
+        "tag": "botan",
+        "stopId": "43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4409506,
+          34.067025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Parking Structure 2",
+        "tag": "park2",
+        "stopId": "04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.440258,
+          34.068911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Murphy Hall North",
+        "tag": "murphhal",
+        "stopId": "05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.43958,
+          34.0707148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wyton South",
+        "tag": "wytnsout",
+        "stopId": "52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.438304,
+          34.073671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Murphy Hall South",
+        "tag": "murhall_s",
+        "stopId": "07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.439704,
+          34.071761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Molecular Science",
+        "tag": "molsci_s",
+        "stopId": "08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4404448,
+          34.0679807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gonda Building",
+        "tag": "gonda_s",
+        "stopId": "09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.444236,
+          34.067082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gateway Plaza",
+        "tag": "gateway",
+        "stopId": "45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4452159,
+          34.0693495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Medical Plaza",
+        "tag": "medplaz_s",
+        "stopId": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4454809,
+          34.065584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Weyburn Terrace",
+        "tag": "weybterr_d",
+        "stopId": "06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4498739,
+          34.0618839
         ]
       }
     }
   ],
-  "copyright": "All data copyright UCLA 2019."
+  "copyright": "All data copyright UCLA 2020."
 }

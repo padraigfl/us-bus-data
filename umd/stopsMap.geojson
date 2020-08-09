@@ -79,21 +79,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Campus Drive and 50th Avenue",
-        "tag": "pain50th",
-        "stopId": "30528"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9266478,
-          38.9789339
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Campus Drive and Rhode Island Avenue (Inbound)",
         "tag": "painrhod_in",
         "stopId": "30585"
@@ -1039,6 +1024,51 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Seven Springs Apts at 9348 Cherry Hill Rd",
+        "tag": "cher9348",
+        "stopId": "27800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9393952,
+          39.016946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seven Springs Apts at 9310 Cherry Hill Rd",
+        "tag": "ssvill",
+        "stopId": "27420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9394283,
+          39.0159991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seven Springs Apts at 9308 Cherry Hill Rd",
+        "tag": "cher9308",
+        "stopId": "27816"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9376829,
+          39.0178782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Stamp Student Union - Slip",
         "tag": "stamsuhh_d",
         "stopId": "10002"
@@ -1114,9 +1144,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "University Blvd and New Hampshire Ave",
-        "tag": "univnham",
-        "stopId": "30206"
+        "title": "University Blvd and 14th Ave",
+        "tag": "univ14th",
+        "stopId": "55010"
       },
       "geometry": {
         "type": "Point",
@@ -1384,15 +1414,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Wayne Ave and Sligo Creek Pkwy (Inbound)",
+        "title": "Wayne Ave and Manchester Place (Inbound)",
         "tag": "waynslig_in",
-        "stopId": "30129"
+        "stopId": "55011"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.010017,
-          38.9995905
+          -77.0077193,
+          39.0016406
         ]
       }
     },
@@ -1564,15 +1594,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "University Blvd and 14th Ave",
-        "tag": "univ14th",
+        "title": "University Blvd and 15th Ave",
+        "tag": "univ15th",
         "stopId": "27393"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9852817,
-          38.9872511
+          -76.9818874,
+          38.9852516
         ]
       }
     },
@@ -1581,28 +1611,13 @@
       "properties": {
         "title": "University Blvd and Riggs Road (Inbound)",
         "tag": "univhech",
-        "stopId": "27956"
+        "stopId": "55008"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9810314,
-          38.9847308
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "University Blvd and Guilford Rd",
-        "tag": "univcity",
-        "stopId": "30193"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9762175,
-          38.9835797
+          -76.9776816,
+          38.9834699
         ]
       }
     },
@@ -2254,15 +2269,30 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cambridge Hall",
-        "tag": "camb",
-        "stopId": "36274"
+        "title": "Varsity Team House",
+        "tag": "varhous",
+        "stopId": "37092"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9430218,
-          38.9914205
+          -76.9454355,
+          38.9906039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stadium Drive at Atlantic Building",
+        "tag": "stadatl",
+        "stopId": "55005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9421162,
+          38.9905589
         ]
       }
     },
@@ -2728,6 +2758,36 @@
         "coordinates": [
           -76.93727,
           38.9925816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cambridge Hall (Outbound)",
+        "tag": "camb",
+        "stopId": "48069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.943027,
+          38.9914576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cumberland Hall",
+        "tag": "cumber",
+        "stopId": "55006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.944254,
+          38.9923509
         ]
       }
     },
@@ -4024,21 +4084,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cambridge Hall (Outbound)",
-        "tag": "camb_out",
-        "stopId": "48069"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9438804,
-          38.9915013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "La Plata Hall (Outbound)",
         "tag": "laplat_out",
         "stopId": "48070"
@@ -4122,7 +4167,7 @@
         "type": "Point",
         "coordinates": [
           -76.9522059,
-          38.9674012
+          38.9674013
         ]
       }
     },
@@ -4137,7 +4182,7 @@
         "type": "Point",
         "coordinates": [
           -76.952074,
-          38.9689218
+          38.9689219
         ]
       }
     },
@@ -4183,21 +4228,6 @@
         "coordinates": [
           -76.94563,
           38.9922184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cambridge Hall (Inbound)",
-        "tag": "camb_in",
-        "stopId": "36274"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9430216,
-          38.9914204
         ]
       }
     },
@@ -5027,5 +5057,5 @@
       }
     }
   ],
-  "copyright": "All data copyright University of Maryland 2019."
+  "copyright": "All data copyright University of Maryland 2020."
 }

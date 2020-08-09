@@ -19,7 +19,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "E St @ Court Nb Ns",
+        "title": "E @ Court Nb Ns",
         "tag": "4",
         "stopId": "0004"
       },
@@ -101,8 +101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.31387,
-          34.0883999
+          -117.31394,
+          34.0890899
         ]
       }
     },
@@ -214,7 +214,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "E St @ 4th St Nb Fs",
+        "title": "E @ 4th Nb Fs",
         "tag": "24",
         "stopId": "0024"
       },
@@ -349,36 +349,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra Way @ Highland Nb Fs",
-        "tag": "56",
-        "stopId": "0056"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28508,
-          34.1364899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 40th",
-        "tag": "57",
-        "stopId": "0057"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.2850999,
-          34.1649599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Kendall @ Palm Sb Fs",
         "tag": "59",
         "stopId": "0059"
@@ -388,36 +358,6 @@
         "coordinates": [
           -117.35824,
           34.1897599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ Ralston Sb Ns",
-        "tag": "60",
-        "stopId": "0060"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28513,
-          34.1633499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ Highland Sb Fs",
-        "tag": "61",
-        "stopId": "0061"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28527,
-          34.1355399
         ]
       }
     },
@@ -461,8 +401,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.10076,
-          34.0398599
+          -117.1002,
+          34.0396999
         ]
       }
     },
@@ -814,36 +754,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hemlock @ Randall Nb Fs",
-        "tag": "116",
-        "stopId": "0116"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.47547,
-          34.0848399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Hemlock Eb Fs",
-        "tag": "119",
-        "stopId": "0119"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.47525,
-          34.0846699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Marygold @ Sierra Eb Ns",
         "tag": "120",
         "stopId": "0120"
@@ -1054,21 +964,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Chaffey College Wb Fs",
-        "tag": "362",
-        "stopId": "0362"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.56944,
-          34.1483199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Mountain @ Foothill Nb Fs",
         "tag": "365",
         "stopId": "0365"
@@ -1114,36 +1009,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Vineyard @ Foothill Nb Fs",
-        "tag": "382",
-        "stopId": "0382"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61097,
-          34.1071199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ Foothill Sb Fs",
-        "tag": "405",
-        "stopId": "0405"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61114,
-          34.1061899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Holt @ Vineyard Wb Fs",
         "tag": "406",
         "stopId": "0406"
@@ -1159,30 +1024,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Baseline @ Cherry Eb Ns",
-        "tag": "409",
-        "stopId": "0409"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.49103,
-          34.1211899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Arrow @ Haven Eb Fs",
+        "title": "Arrow @ Haven Wb Fs",
         "tag": "416",
         "stopId": "0416"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.57602,
-          34.0992299
+          -117.57619,
+          34.0992799
         ]
       }
     },
@@ -1324,21 +1174,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Baseline @ Haven Eb Fs",
-        "tag": "497",
-        "stopId": "0497"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.57573,
-          34.1214199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Foothill @ Mountain Wb Fs",
         "tag": "502",
         "stopId": "0502"
@@ -1369,156 +1204,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Vinyard @ D Street Nb Ns",
-        "tag": "508",
-        "stopId": "0508"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61095,
-          34.0669199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ Inland Empire Nb Fs",
-        "tag": "509",
-        "stopId": "0509"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61094,
-          34.0728999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ 4th Nb Fs",
-        "tag": "510",
-        "stopId": "0510"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.611,
-          34.0785199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ 5th Street Nb Fs",
-        "tag": "511",
-        "stopId": "0511"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61107,
-          34.0814099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ 6th Nb Fs",
-        "tag": "512",
-        "stopId": "0512"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61111,
-          34.0849299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ 7th Nb Fs",
-        "tag": "513",
-        "stopId": "0513"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61107,
-          34.0889099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ 8th Nb Ns",
-        "tag": "514",
-        "stopId": "0514"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61103,
-          34.0919999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ 9th Nb Fs",
-        "tag": "515",
-        "stopId": "0515"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61099,
-          34.0957999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ Arrow Nb Fs",
-        "tag": "516",
-        "stopId": "0516"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61097,
-          34.0995499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Carnelian @ Calle Del Prado Nb Fs",
-        "tag": "518",
-        "stopId": "0518"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61595,
-          34.1186799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Carnelian @ Baseline Nb Fs",
         "tag": "519",
         "stopId": "0519"
@@ -1543,126 +1228,6 @@
         "coordinates": [
           -117.6161,
           34.1288599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th Street @ Carnelian Eb Fs",
-        "tag": "521",
-        "stopId": "0521"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61571,
-          34.1325099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th @ Beryl Eb Fs",
-        "tag": "522",
-        "stopId": "0522"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.60715,
-          34.1326199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th @ Hellman Eb Fs",
-        "tag": "523",
-        "stopId": "0523"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.60268,
-          34.1326399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th @ Amethyst Eb Ns",
-        "tag": "524",
-        "stopId": "0524"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.59834,
-          34.1326599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th @ Archibald Eb Fs",
-        "tag": "525",
-        "stopId": "0525"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.59351,
-          34.1326499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th @ Ramona Eb Fs",
-        "tag": "526",
-        "stopId": "0526"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.58909,
-          34.1325699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th @ Hermosa Eb Fs",
-        "tag": "527",
-        "stopId": "0527"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.58454,
-          34.1323599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th Street @ Cartilla Eb Fs",
-        "tag": "528",
-        "stopId": "0528"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.57856,
-          34.1323799
         ]
       }
     },
@@ -2651,8 +2216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.24163,
-          34.0629999
+          -117.2416299,
+          34.063
         ]
       }
     },
@@ -2697,7 +2262,7 @@
         "type": "Point",
         "coordinates": [
           -117.22739,
-          34.0630199
+          34.06302
         ]
       }
     },
@@ -2861,8 +2426,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.23139,
-          34.0630999
+          -117.2313899,
+          34.0631
         ]
       }
     },
@@ -2981,8 +2546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.27421,
-          34.0520399
+          -117.27442,
+          34.0521199
         ]
       }
     },
@@ -3589,21 +3154,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra @ Merrill Nb Ns",
-        "tag": "5238",
-        "stopId": "5238"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.43558,
-          34.0913599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Meridian @ Valley Sb Ns",
         "tag": "5239",
         "stopId": "5239"
@@ -3881,8 +3431,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.27869,
-          34.1084299
+          -117.27867,
+          34.1085599
         ]
       }
     },
@@ -4819,216 +4369,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra Way @ 5th Nb Fs",
-        "tag": "5379",
-        "stopId": "5379"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28513,
-          34.1085499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 7th Nb Fs",
-        "tag": "5380",
-        "stopId": "5380"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28502,
-          34.1122699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 9th Nb Fs",
-        "tag": "5382",
-        "stopId": "5382"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28506,
-          34.1161999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 11th Nb Ns",
-        "tag": "5383",
-        "stopId": "5383"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28507,
-          34.1198499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ Baseline Nb Fs",
-        "tag": "5384",
-        "stopId": "5384"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28506,
-          34.1215999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 16th Nb Fs",
-        "tag": "5385",
-        "stopId": "5385"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28506,
-          34.1291999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 18th Nb Fs",
-        "tag": "5386",
-        "stopId": "5386"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28499,
-          34.1316099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 27th Nb Mid Blk",
-        "tag": "5387",
-        "stopId": "5387"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28505,
-          34.1381099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 28th Nb Fs",
-        "tag": "5388",
-        "stopId": "5388"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28504,
-          34.1425599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 30th Nb Fs",
-        "tag": "5389",
-        "stopId": "5389"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28502,
-          34.1461099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ Marshall Nb Fs",
-        "tag": "5390",
-        "stopId": "5390"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.285,
-          34.1495999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 34th Nb Fs",
-        "tag": "5391",
-        "stopId": "5391"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.285,
-          34.1531599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 36th Nb Fs",
-        "tag": "5392",
-        "stopId": "5392"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28498,
-          34.1567199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ Ralston Nb Fs",
-        "tag": "5393",
-        "stopId": "5393"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28497,
-          34.1634399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "40th @ Sierra Way Wb Fs",
         "tag": "5397",
         "stopId": "5397"
@@ -5038,126 +4378,6 @@
         "coordinates": [
           -117.28543,
           34.1649199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Electric @ 40th Nb Fs",
-        "tag": "5398",
-        "stopId": "5398"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28891,
-          34.1653299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Electric @ 44th Nb Fs",
-        "tag": "5399",
-        "stopId": "5399"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28905,
-          34.1683899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Electric @ 48th Nb Ns",
-        "tag": "5400",
-        "stopId": "5400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28906,
-          34.1718899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northpark @ Electric Wb Fs",
-        "tag": "5401",
-        "stopId": "5401"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28927,
-          34.1752599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northpark @ F Wb Ns",
-        "tag": "5402",
-        "stopId": "5402"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.2961,
-          34.1770499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northpark @ H Wb Fs",
-        "tag": "5403",
-        "stopId": "5403"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.30075,
-          34.1781999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northpark @ Mountain Wb Fs",
-        "tag": "5404",
-        "stopId": "5404"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.30725,
-          34.1787799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northpark @ Little Mtn Wb Ns",
-        "tag": "5405",
-        "stopId": "5405"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.31379,
-          34.1790999
         ]
       }
     },
@@ -5209,7 +4429,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Kendall @ Revere Eb Fs",
+        "title": "Kendall @ Revere Wb Fs",
         "tag": "5409",
         "stopId": "5409"
       },
@@ -5374,111 +4594,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Northpark @ Orange Eb Fs",
-        "tag": "5431",
-        "stopId": "5431"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.31213,
-          34.1788899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northpark @ Mountain Eb Fs",
-        "tag": "5432",
-        "stopId": "5432"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.3066,
-          34.1785099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northpark @ H Eb Ns",
-        "tag": "5433",
-        "stopId": "5433"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.30072,
-          34.1780699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northpark @ F Eb Fs",
-        "tag": "5434",
-        "stopId": "5434"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.29614,
-          34.1769299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northpark @ Mayfield Eb Fs",
-        "tag": "5435",
-        "stopId": "5435"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.29048,
-          34.1754899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Electric @ 49th Sb Fs",
-        "tag": "5436",
-        "stopId": "5436"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28918,
-          34.1721699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Electric @ 44th Sb Ns",
-        "tag": "5437",
-        "stopId": "5437"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28918,
-          34.1685099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "40th @ Mountain View Eb Fs",
         "tag": "5438",
         "stopId": "5438"
@@ -5488,201 +4603,6 @@
         "coordinates": [
           -117.28689,
           34.1649099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 36th Sb Fs",
-        "tag": "5442",
-        "stopId": "5442"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28511,
-          34.1557799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 34th Sb Ns",
-        "tag": "5443",
-        "stopId": "5443"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28513,
-          34.1532899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ Marshall Sb Fs",
-        "tag": "5444",
-        "stopId": "5444"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28516,
-          34.1488699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 30th Sb Ns",
-        "tag": "5445",
-        "stopId": "5445"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28518,
-          34.1463199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 29th Sb Ns",
-        "tag": "5446",
-        "stopId": "5446"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28516,
-          34.1441599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 27th Sb Fs",
-        "tag": "5447",
-        "stopId": "5447"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28517,
-          34.1401599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 18th Sb Fs",
-        "tag": "5448",
-        "stopId": "5448"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28527,
-          34.1312799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 16th Sb Fs",
-        "tag": "5449",
-        "stopId": "5449"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28526,
-          34.1283599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ Baseline Sb Fs",
-        "tag": "5450",
-        "stopId": "5450"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.2852,
-          34.1211699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 11th Sb Fs",
-        "tag": "5451",
-        "stopId": "5451"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28523,
-          34.1190299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 9th Sb Fs",
-        "tag": "5452",
-        "stopId": "5452"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.2852,
-          34.1151999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 6th Sb Ns",
-        "tag": "5454",
-        "stopId": "5454"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28529,
-          34.1105299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Way @ 38th Nb Fs",
-        "tag": "5455",
-        "stopId": "5455"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28497,
-          34.1600199
         ]
       }
     },
@@ -7033,591 +5953,6 @@
         "coordinates": [
           -117.5714,
           34.1066099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Sierra Wb Fs",
-        "tag": "5569",
-        "stopId": "5569"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.43592,
-          34.0849299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Juniper Wb Fs",
-        "tag": "5570",
-        "stopId": "5570"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.44041,
-          34.0849099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Cypress Wb Fs",
-        "tag": "5571",
-        "stopId": "5571"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.44469,
-          34.0848999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Oleander Wb Ns",
-        "tag": "5572",
-        "stopId": "5572"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4487,
-          34.0848799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Citrus Wb Fs",
-        "tag": "5573",
-        "stopId": "5573"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.45383,
-          34.0848699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Fontana/catawba Wb Fs",
-        "tag": "5574",
-        "stopId": "5574"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.45825,
-          34.0848299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Poplar Wb Fs",
-        "tag": "5575",
-        "stopId": "5575"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.46249,
-          34.0848499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Elm Wb Fs",
-        "tag": "5576",
-        "stopId": "5576"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.467,
-          34.0848199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Beech Wb Fs",
-        "tag": "5577",
-        "stopId": "5577"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.47131,
-          34.0848099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hemlock @ Athol Nb Fs",
-        "tag": "5578",
-        "stopId": "5578"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.47548,
-          34.0880599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Carob Eb Fs",
-        "tag": "5580",
-        "stopId": "5580"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.47392,
-          34.0919499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Beech Eb Fs",
-        "tag": "5581",
-        "stopId": "5581"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.47061,
-          34.0919499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Elm Eb Ns",
-        "tag": "5582",
-        "stopId": "5582"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.46699,
-          34.0919799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Poplar Eb Fs",
-        "tag": "5583",
-        "stopId": "5583"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.46215,
-          34.0919299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Catawba Eb Fs",
-        "tag": "5584",
-        "stopId": "5584"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.45784,
-          34.0920099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Citrus Eb Fs",
-        "tag": "5585",
-        "stopId": "5585"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.45358,
-          34.0919999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Oleander Eb Fs",
-        "tag": "5586",
-        "stopId": "5586"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.44876,
-          34.0920399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Cypress Eb Fs",
-        "tag": "5587",
-        "stopId": "5587"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.44441,
-          34.0920399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Juniper @ Merrill Nb Fs",
-        "tag": "5588",
-        "stopId": "5588"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.44003,
-          34.0922999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Juniper @ Ceres Nb Fs",
-        "tag": "5589",
-        "stopId": "5589"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.44004,
-          34.0943999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Juniper Wb Fs",
-        "tag": "5591",
-        "stopId": "5591"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.44031,
-          34.0921599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Cypress Wb Fs",
-        "tag": "5593",
-        "stopId": "5593"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.44456,
-          34.0921599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Oleander Wb Fs",
-        "tag": "5594",
-        "stopId": "5594"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.44937,
-          34.0921499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Citrus Wb Fs",
-        "tag": "5595",
-        "stopId": "5595"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.45378,
-          34.0921199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Catawba Wb Fs",
-        "tag": "5596",
-        "stopId": "5596"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.45825,
-          34.0921099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Poplar Wb Fs",
-        "tag": "5597",
-        "stopId": "5597"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.46267,
-          34.0922299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Elm Wb Fs",
-        "tag": "5598",
-        "stopId": "5598"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.46688,
-          34.0920899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Merrill @ Beech Wb Ns",
-        "tag": "5599",
-        "stopId": "5599"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.47111,
-          34.0920499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hemlock @ Merrill Sb Fs",
-        "tag": "5600",
-        "stopId": "5600"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.47559,
-          34.0919399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hemlock @ Athol Sb Fs",
-        "tag": "5602",
-        "stopId": "5602"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.47561,
-          34.0877399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Beech Eb Fs",
-        "tag": "5603",
-        "stopId": "5603"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.47095,
-          34.0846999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Elm Eb Fs",
-        "tag": "5604",
-        "stopId": "5604"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.46653,
-          34.0847099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Poplar Eb Ns",
-        "tag": "5605",
-        "stopId": "5605"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.46279,
-          34.0847299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Catawba/fontana Eb Fs",
-        "tag": "5606",
-        "stopId": "5606"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.45799,
-          34.0847199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Citrus Eb Fs",
-        "tag": "5607",
-        "stopId": "5607"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4535,
-          34.0847599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Oleander Eb Fs",
-        "tag": "5608",
-        "stopId": "5608"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4487,
-          34.0847699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Randall @ Cypress Eb Fs",
-        "tag": "5609",
-        "stopId": "5609"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4441,
-          34.0847599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Juniper @ Randall Sb Fs",
-        "tag": "5610",
-        "stopId": "5610"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.44015,
-          34.0846299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Juniper @ Holly Sb Ns",
-        "tag": "5611",
-        "stopId": "5611"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.44012,
-          34.0806699
         ]
       }
     },
@@ -9574,306 +7909,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "19th @ Haven Wb Fs",
-        "tag": "5769",
-        "stopId": "5769"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.57606,
-          34.1324899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th @ Mayberry Wb Fs",
-        "tag": "5770",
-        "stopId": "5770"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.57897,
-          34.1324899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th @ Hermosa Wb Fs",
-        "tag": "5771",
-        "stopId": "5771"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.58484,
-          34.1324799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th @ Archibald Wb Ns",
-        "tag": "5772",
-        "stopId": "5772"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.59351,
-          34.1327499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th @ Amethyst Wb Fs",
-        "tag": "5773",
-        "stopId": "5773"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.59836,
-          34.1327699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th @ Hellman Wb Fs",
-        "tag": "5774",
-        "stopId": "5774"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.60323,
-          34.1326999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th @ Beryl Wb Fs",
-        "tag": "5775",
-        "stopId": "5775"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.60733,
-          34.1327399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Carnelian @ 19th Sb Fs",
-        "tag": "5776",
-        "stopId": "5776"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61634,
-          34.1322399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Carnelian @ Monte Vista Sb Fs",
-        "tag": "5777",
-        "stopId": "5777"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61619,
-          34.1273799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Carnelian @ Baseline Sb Fs",
-        "tag": "5778",
-        "stopId": "5778"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61622,
-          34.1211699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Carnelian @ Calle Del Prado Sb Ns",
-        "tag": "5779",
-        "stopId": "5779"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61612,
-          34.1181899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ Arrow Sb Fs",
-        "tag": "5780",
-        "stopId": "5780"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61114,
-          34.0993099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ 9th Sb Fs",
-        "tag": "5781",
-        "stopId": "5781"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61113,
-          34.0956599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ 8th Sb Fs",
-        "tag": "5782",
-        "stopId": "5782"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61116,
-          34.0920099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ 7th Sb Fs",
-        "tag": "5783",
-        "stopId": "5783"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61121,
-          34.0884199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ 6th Sb Fs",
-        "tag": "5784",
-        "stopId": "5784"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61124,
-          34.0848199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ 5th Street Sb Fs",
-        "tag": "5785",
-        "stopId": "5785"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61128,
-          34.0814099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ 4th Street Sb Fs",
-        "tag": "5786",
-        "stopId": "5786"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61108,
-          34.0774199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ Plaza Serena Sb Ns",
-        "tag": "5787",
-        "stopId": "5787"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61107,
-          34.0725499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ D Street",
-        "tag": "5788",
-        "stopId": "5788"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61106,
-          34.0669999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Holt @ Garey Eb Fs",
         "tag": "5789",
         "stopId": "5789"
@@ -10288,21 +8323,6 @@
         "coordinates": [
           -117.61634,
           34.0633999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ Holt Sb Ns",
-        "tag": "5822",
-        "stopId": "5822"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61103,
-          34.0637299
         ]
       }
     },
@@ -10819,21 +8839,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra @ Merrill Nb Ns",
-        "tag": "5866",
-        "stopId": "5866"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.43561,
-          34.0917799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Sierra @ Marygold Sb Ns",
         "tag": "5867",
         "stopId": "5867"
@@ -11134,7 +9139,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "4th St @ Barrington Wb Mid",
+        "title": "4th St @ Barrington Wb Fs",
         "tag": "5888",
         "stopId": "5888"
       },
@@ -14351,8 +12356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.67042,
-          34.1250399
+          -117.67046,
+          34.1247799
         ]
       }
     },
@@ -14726,7 +12731,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.6415099,
+          -117.64151,
           34.0924399
         ]
       }
@@ -14772,7 +12777,7 @@
         "type": "Point",
         "coordinates": [
           -117.6374,
-          34.08516
+          34.0851599
         ]
       }
     },
@@ -15086,8 +13091,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.67148,
-          34.0192399
+          -117.6714799,
+          34.01924
         ]
       }
     },
@@ -15116,8 +13121,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.68569,
-          34.0191399
+          -117.6856899,
+          34.01914
         ]
       }
     },
@@ -17074,15 +15079,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Monte Vista @ Palo Verde Nb Ns",
+        "title": "Monte Vista @ Princeton Nb Fs",
         "tag": "6436",
         "stopId": "6436"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.69815,
-          34.0810599
+          -117.69817,
+          34.0799499
         ]
       }
     },
@@ -17374,7 +15379,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "G Street @ 6th Street Nb Fs",
+        "title": "G @ 6th Nb Fs",
         "tag": "6464",
         "stopId": "6464"
       },
@@ -17389,7 +15394,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "G St @ 9th Nb Fs",
+        "title": "G @ 9th Nb Fs",
         "tag": "6465",
         "stopId": "6465"
       },
@@ -17404,7 +15409,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "G Street @ Baseline Nb Ns",
+        "title": "G @ Baseline Nb Ns",
         "tag": "6466",
         "stopId": "6466"
       },
@@ -17659,21 +15664,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Arrow @ Nuevo Eb Fs",
-        "tag": "6491",
-        "stopId": "6491"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.43689,
-          34.0991999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Arrow @ Mango Eb Fs",
         "tag": "6492",
         "stopId": "6492"
@@ -17713,36 +15703,6 @@
         "coordinates": [
           -117.42186,
           34.0993599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Alder @ Arrow Sb Fs",
-        "tag": "6495",
-        "stopId": "6495"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.41839,
-          34.0990799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Alder @ Orange Sb Ns",
-        "tag": "6496",
-        "stopId": "6496"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.41835,
-          34.0964499
         ]
       }
     },
@@ -18836,7 +16796,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.29899,
+          -117.2989899,
           34.0921699
         ]
       }
@@ -18972,7 +16932,7 @@
         "type": "Point",
         "coordinates": [
           -117.34869,
-          34.0995499
+          34.09955
         ]
       }
     },
@@ -21012,7 +18972,7 @@
         "type": "Point",
         "coordinates": [
           -117.24766,
-          34.0629799
+          34.06298
         ]
       }
     },
@@ -21079,7 +19039,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Orange @ Brocton Nb Fs",
+        "title": "Orange @ Brockton Nb Fs",
         "tag": "6839",
         "stopId": "6839"
       },
@@ -21131,8 +19091,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.17341,
-          34.0699799
+          -117.1734099,
+          34.06998
         ]
       }
     },
@@ -21896,8 +19856,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.26112,
-          34.0695699
+          -117.2611199,
+          34.06957
         ]
       }
     },
@@ -22571,8 +20531,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.1394499,
-          34.05547
+          -117.13945,
+          34.0554699
         ]
       }
     },
@@ -22616,7 +20576,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.1306599,
+          -117.13066,
           34.0482699
         ]
       }
@@ -22661,8 +20621,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.0572,
-          34.0345299
+          -117.0573,
+          34.0347499
         ]
       }
     },
@@ -22684,15 +20644,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Yucaipa @ 3rd Eb Fs",
+        "title": "Yucaipa @ 4th Eb Mid",
         "tag": "6978",
         "stopId": "6978"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.0497599,
-          34.03386
+          -117.0497799,
+          34.0338599
         ]
       }
     },
@@ -22706,8 +20666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.0470599,
-          34.03386
+          -117.0470499,
+          34.03382
         ]
       }
     },
@@ -24611,8 +22571,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.68982,
-          34.0952799
+          -117.69063,
+          34.0952899
         ]
       }
     },
@@ -24874,291 +22834,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Baseline @ Archibald Eb Fs",
-        "tag": "7163",
-        "stopId": "7163"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.59324,
-          34.1214999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Hermosa Eb Fs",
-        "tag": "7164",
-        "stopId": "7164"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.58459,
-          34.1214699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Spruce Eb Fs",
-        "tag": "7165",
-        "stopId": "7165"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.56801,
-          34.1213499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Milliken Eb Fs",
-        "tag": "7166",
-        "stopId": "7166"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.55837,
-          34.1213599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Ellena West Eb Fs",
-        "tag": "7167",
-        "stopId": "7167"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.5553,
-          34.1213999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Mountain View Eb Fs",
-        "tag": "7168",
-        "stopId": "7168"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.55093,
-          34.1213899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Rochester Eb Fs",
-        "tag": "7169",
-        "stopId": "7169"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.54538,
-          34.1213799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Day Creek Eb Fs",
-        "tag": "7170",
-        "stopId": "7170"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.53672,
-          34.1214099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Victoria Park Eb Fs",
-        "tag": "7171",
-        "stopId": "7171"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.52928,
-          34.1208399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Etiwanda Eb Fs",
-        "tag": "7172",
-        "stopId": "7172"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.52347,
-          34.1207799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Las Palmas Eb Ns",
-        "tag": "7174",
-        "stopId": "7174"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.50827,
-          34.1213499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Heritage Eb Fs",
-        "tag": "7175",
-        "stopId": "7175"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.50474,
-          34.1213399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ South Heritage Eb Fs",
-        "tag": "7176",
-        "stopId": "7176"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.49661,
-          34.1213699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Mcguire Eb Fs",
-        "tag": "7178",
-        "stopId": "7178"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.48404,
-          34.1213299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Live Oak Eb Fs",
-        "tag": "7179",
-        "stopId": "7179"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.47954,
-          34.1212999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Village Eb Fs",
-        "tag": "7180",
-        "stopId": "7180"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.47536,
-          34.1213099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Beech Eb Fs",
-        "tag": "7181",
-        "stopId": "7181"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.47099,
-          34.1213099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Orlando Eb Fs",
-        "tag": "7182",
-        "stopId": "7182"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.46642,
-          34.1212699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Almeria Eb Fs",
-        "tag": "7183",
-        "stopId": "7183"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.46012,
-          34.1213199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Sierra @ Baseline Sb Fs",
         "tag": "7188",
         "stopId": "7188"
@@ -25166,7 +22841,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.43601,
+          -117.4360099,
           34.1211699
         ]
       }
@@ -25273,306 +22948,6 @@
         "coordinates": [
           -117.43582,
           34.1175999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Citrus Wb Fs",
-        "tag": "7200",
-        "stopId": "7200"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.45379,
-          34.1214999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Almeria Wb Fs",
-        "tag": "7201",
-        "stopId": "7201"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.46029,
-          34.1214599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Orlando Wb Ns",
-        "tag": "7202",
-        "stopId": "7202"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.46645,
-          34.1214999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Beech Wb Fs",
-        "tag": "7203",
-        "stopId": "7203"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.47129,
-          34.1215099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Hemlock Wb Fs",
-        "tag": "7204",
-        "stopId": "7204"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.47558,
-          34.1214999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ San Sevaine Wb Fs",
-        "tag": "7205",
-        "stopId": "7205"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.48035,
-          34.1215199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Basline @ Mcguire Wb Fs",
-        "tag": "7206",
-        "stopId": "7206"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4843999,
-          34.1215299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Del Norte Wb Fs",
-        "tag": "7208",
-        "stopId": "7208"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.4995,
-          34.1215499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Heritage Wb Fs",
-        "tag": "7209",
-        "stopId": "7209"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.50505,
-          34.1215999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Las Palmas Wb Fs",
-        "tag": "7210",
-        "stopId": "7210"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.5083,
-          34.1216099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Forester Wb Ns",
-        "tag": "7211",
-        "stopId": "7211"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.51735,
-          34.1215099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Etiwanda Wb Fs",
-        "tag": "7212",
-        "stopId": "7212"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.52369,
-          34.1209799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Victoria Park Wb Fs",
-        "tag": "7213",
-        "stopId": "7213"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.52965,
-          34.1211199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Day Creek Wb Ns",
-        "tag": "7214",
-        "stopId": "7214"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.53576,
-          34.1216999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Rochester Wb Fs",
-        "tag": "7215",
-        "stopId": "7215"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.54551,
-          34.1215699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Mountain View Wb Ns",
-        "tag": "7216",
-        "stopId": "7216"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.55096,
-          34.1215899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Ellena Wb Fs",
-        "tag": "7217",
-        "stopId": "7217"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.55531,
-          34.1216099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Milliken Wb Fs",
-        "tag": "7218",
-        "stopId": "7218"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.5587199,
-          34.12158
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Spruce Wb Fs",
-        "tag": "7219",
-        "stopId": "7219"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.56816,
-          34.1215699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Hermosa Wb Ns",
-        "tag": "7220",
-        "stopId": "7220"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.58459,
-          34.1215799
         ]
       }
     },
@@ -27026,8 +24401,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.69827,
-          34.0808299
+          -117.69834,
+          34.0797099
         ]
       }
     },
@@ -27439,15 +24814,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Jurupa @ Vintage Eb Fs",
+        "title": "Jurupa @ Vintage Eb Ns",
         "tag": "7368",
         "stopId": "7368"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.53579,
-          34.0480199
+          -117.53631,
+          34.0479599
         ]
       }
     },
@@ -28632,7 +26007,7 @@
         "type": "Point",
         "coordinates": [
           -117.55842,
-          34.0771099
+          34.07711
         ]
       }
     },
@@ -28723,21 +26098,6 @@
         "coordinates": [
           -117.57599,
           34.1062999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ Holt Nb Fs",
-        "tag": "7610",
-        "stopId": "7610"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61092,
-          34.0636399
         ]
       }
     },
@@ -28873,21 +26233,6 @@
         "coordinates": [
           -117.6701,
           34.0669099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ Orangewood Nb Fs",
-        "tag": "7623",
-        "stopId": "7623"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61093,
-          34.1040999
         ]
       }
     },
@@ -29367,7 +26712,7 @@
         "type": "Point",
         "coordinates": [
           -117.57129,
-          34.0771999
+          34.0772
         ]
       }
     },
@@ -29563,21 +26908,6 @@
         "coordinates": [
           -117.64304,
           34.1322499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ East Ave Eb Fs",
-        "tag": "7700",
-        "stopId": "7700"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.51375,
-          34.1213499
         ]
       }
     },
@@ -29809,21 +27139,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Baseline @ Ivy Wb Fs",
-        "tag": "7734",
-        "stopId": "7734"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.58006,
-          34.1215899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "9th @ Central Eb Ns",
         "tag": "7735",
         "stopId": "7735"
@@ -29921,7 +27236,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.28158,
+          -117.2815799,
           34.1045099
         ]
       }
@@ -30199,7 +27514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Jurupa @ Auto Ctr",
+        "title": "Jurupa @ Auto Ctr Wb Ns",
         "tag": "7801",
         "stopId": "7801"
       },
@@ -30229,7 +27544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Jurupa @ Auto Ctr",
+        "title": "Jurupa @ Auto Ctr Eb Fs",
         "tag": "7811",
         "stopId": "7811"
       },
@@ -30281,7 +27596,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.50675,
+          -117.5067499,
           34.0411199
         ]
       }
@@ -30388,21 +27703,6 @@
         "coordinates": [
           -117.47199,
           34.1482999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Cherry Wb Fs",
-        "tag": "7830",
-        "stopId": "7830"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.49154,
-          34.1215499
         ]
       }
     },
@@ -30769,7 +28069,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Medical Center @ 11thst",
+        "title": "Medical Center @ 11th Nb Fs",
         "tag": "7882",
         "stopId": "7882"
       },
@@ -30784,7 +28084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Nolan @ Kern",
+        "title": "Nolan @ Kern Eb Fs",
         "tag": "7883",
         "stopId": "7883"
       },
@@ -30844,14 +28144,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Campus @ Dst",
+        "title": "Campus @ Dst Sb Ns",
         "tag": "7895",
         "stopId": "7895"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.6413999,
+          -117.6414,
           34.0671499
         ]
       }
@@ -30859,15 +28159,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Vineyard @ Raymond Kay Way",
+        "title": "Vineyard @ Raymond Kay Way Sb Ns",
         "tag": "7898",
         "stopId": "7898"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.61111,
-          34.0331299
+          -117.61114,
+          34.0325799
         ]
       }
     },
@@ -30941,7 +28241,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.60218,
+          -117.6021799,
           34.0192999
         ]
       }
@@ -30949,7 +28249,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Vineyard @ Raymond Kay Way",
+        "title": "Vineyard @ Raymond Kay Way Nb Fs",
         "tag": "7906",
         "stopId": "7906"
       },
@@ -30957,7 +28257,7 @@
         "type": "Point",
         "coordinates": [
           -117.61091,
-          34.0333099
+          34.0326899
         ]
       }
     },
@@ -31144,21 +28444,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra Way @ Parkdale Sb Ns",
-        "tag": "7940",
-        "stopId": "7940"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.28509,
-          34.1588999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Blue Mountain Villas Eb Fs",
         "tag": "7943",
         "stopId": "7943"
@@ -31168,21 +28453,6 @@
         "coordinates": [
           -117.31228,
           34.0416199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "County Line Rd @ 3rd Eb Ns",
-        "tag": "7944",
-        "stopId": "7944"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.048,
-          34.0042599
         ]
       }
     },
@@ -31331,8 +28601,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.31342,
-          34.03391
+          -117.3127299,
+          34.0340299
         ]
       }
     },
@@ -31361,23 +28631,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.31713,
-          34.0339099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Michigan @ Barton Sb Fs",
-        "tag": "8005",
-        "stopId": "8005"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.32236,
-          34.0338299
+          -117.31728,
+          34.0339899
         ]
       }
     },
@@ -31526,8 +28781,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.32077,
-          34.0337999
+          -117.31956,
+          34.0338099
         ]
       }
     },
@@ -31541,8 +28796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.31696,
-          34.0338199
+          -117.3169599,
+          34.03382
         ]
       }
     },
@@ -31556,8 +28811,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.31392,
-          34.0339099
+          -117.31399,
+          34.0338399
         ]
       }
     },
@@ -31571,7 +28826,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.31036,
+          -117.3103599,
           34.03394
         ]
       }
@@ -31723,21 +28978,6 @@
         "coordinates": [
           -117.6889,
           33.9723399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pomona Rincon @ Picasso Sb Ns",
-        "tag": "8030",
-        "stopId": "8030"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.68505,
-          33.9598499
         ]
       }
     },
@@ -32074,261 +29314,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Fifth @ Yucaipa Sb Fs",
-        "tag": "8059",
-        "stopId": "8059"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.05626,
-          34.0337399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fifth @ Yucaipa Sb Mid",
-        "tag": "8060",
-        "stopId": "8060"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.05626,
-          34.0296499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fifth @ Ave E Sb Mid",
-        "tag": "8061",
-        "stopId": "8061"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.05628,
-          34.0233299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fifth @ Hidden Cove Sb Fs",
-        "tag": "8062",
-        "stopId": "8062"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.05627,
-          34.0193899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fifth @ Wildwood Cyn Sb Fs",
-        "tag": "8063",
-        "stopId": "8063"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.05625,
-          34.0151699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fifth @ Rosemont Sb Ns",
-        "tag": "8064",
-        "stopId": "8064"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.05628,
-          34.0081899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fifth @ County Line Sb Ns",
-        "tag": "8065",
-        "stopId": "8065"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.05629,
-          34.0051199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "County Line @ Fourth Eb Ns",
-        "tag": "8066",
-        "stopId": "8066"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.05161,
-          34.0040999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "County Line @ Second Eb Ns",
-        "tag": "8068",
-        "stopId": "8068"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.04339,
-          34.0044599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "County Line @ California Eb Ns",
-        "tag": "8069",
-        "stopId": "8069"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.0388,
-          34.0046699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "County Line @ Bryant Eb Ns",
-        "tag": "8070",
-        "stopId": "8070"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.03448,
-          34.0048399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bryant @ H Nb Ns",
-        "tag": "8071",
-        "stopId": "8071"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.03445,
-          34.0100599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Calif @ Wildwood Cyn Nb Fs",
-        "tag": "8072",
-        "stopId": "8072"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.03883,
-          34.0164699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "California @ Bella Vista Nb Fs",
-        "tag": "8073",
-        "stopId": "8073"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.03883,
-          34.0197399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "California @ Eureka Nb Ns",
-        "tag": "8074",
-        "stopId": "8074"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.03883,
-          34.0232099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "California @ E Nb Fs",
-        "tag": "8075",
-        "stopId": "8075"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.03882,
-          34.0275499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "California @ D Nb Fs",
-        "tag": "8076",
-        "stopId": "8076"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.03881,
-          34.03005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "B Ave @ First Wb Fs",
         "tag": "8077",
         "stopId": "8077"
@@ -32486,8 +29471,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.05622,
-          34.0046599
+          -117.05625,
+          34.0056399
         ]
       }
     },
@@ -32531,8 +29516,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.05624,
-          34.0223199
+          -117.05621,
+          34.0202799
         ]
       }
     },
@@ -32638,21 +29623,6 @@
         "coordinates": [
           -117.6508,
           34.0670799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Calif @ H Nb Fs",
-        "tag": "8137",
-        "stopId": "8137"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.03883,
-          34.0104499
         ]
       }
     },
@@ -32944,7 +29914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Fifth @ Est Wb Fs",
+        "title": "5th @ E Wb Fs",
         "tag": "8188",
         "stopId": "8188"
       },
@@ -33214,36 +30184,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glenridge @ Peyton Eb Fs",
-        "tag": "8233",
-        "stopId": "8233"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.72854,
-          33.9750999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Peyton @ Glenridge Nb Fs",
-        "tag": "8234",
-        "stopId": "8234"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7295,
-          33.9750799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Barton @ Mt Vernon Eb Fs",
         "tag": "8255",
         "stopId": "8255"
@@ -33252,7 +30192,7 @@
         "type": "Point",
         "coordinates": [
           -117.31336,
-          34.0339099
+          34.0338399
         ]
       }
     },
@@ -33416,8 +30356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.29417,
-          34.1211999
+          -117.29426,
+          34.1209999
         ]
       }
     },
@@ -33431,7 +30371,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.29414,
+          -117.29403,
           34.1211399
         ]
       }
@@ -33446,7 +30386,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.29413,
+          -117.29423,
           34.1053399
         ]
       }
@@ -33506,8 +30446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.29381,
-          34.0853199
+          -117.2938,
+          34.0845599
         ]
       }
     },
@@ -33709,171 +30649,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Shady View @ Mystic Canyon Nb Fs",
-        "tag": "8362",
-        "stopId": "8362"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.65967,
-          33.9265899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Butterfield @ Picasso Nb Fs",
-        "tag": "8363",
-        "stopId": "8363"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.68968,
-          33.9573899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Butterfield Ranch @ Brookwood Lane",
-        "tag": "8367",
-        "stopId": "8367"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.6636,
-          33.9300899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Butterfield Ranch @ Mystic Canyon N",
-        "tag": "8368",
-        "stopId": "8368"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.67123,
-          33.9340199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Butterfield Ranch @ Parkcrest Nb Fs",
-        "tag": "8369",
-        "stopId": "8369"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.67724,
-          33.9378899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Butterfield Ranch @ Pine Nb Fs",
-        "tag": "8370",
-        "stopId": "8370"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.6805,
-          33.9477199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Butterfield Ranch @ Sagebrush Nb Fs",
-        "tag": "8371",
-        "stopId": "8371"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.68267,
-          33.9514399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Butterfield Ranch @ Sagebrush Sb Fs",
-        "tag": "8372",
-        "stopId": "8372"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.68265,
-          33.9506899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Butterfield Ranch @ Pine Sb Fs",
-        "tag": "8373",
-        "stopId": "8373"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.68042,
-          33.9470999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Butterfield Ranch @ Parkcrest Sb Fs",
-        "tag": "8374",
-        "stopId": "8374"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.67728,
-          33.9376499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Mystic Canyon @ Butterfield Ranch S",
-        "tag": "8376",
-        "stopId": "8376"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.6718,
-          33.9342399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Sand Canyon @ Chapman Heights Wb Ns",
         "tag": "8378",
         "stopId": "8378"
@@ -34054,21 +30829,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Archibald @ Baseline Nb Fs",
-        "tag": "8408",
-        "stopId": "8408"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.59342,
-          34.1217499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Riverside @ Vineyard Wb Fs",
         "tag": "8409",
         "stopId": "8409"
@@ -34106,8 +30866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.22988,
-          34.1466399
+          -117.2272,
+          34.1466299
         ]
       }
     },
@@ -34153,21 +30913,6 @@
         "coordinates": [
           -117.64855,
           34.1215599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Basline @ Ramona Wb Fs",
-        "tag": "8439",
-        "stopId": "8439"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.58931,
-          34.1215699
         ]
       }
     },
@@ -34504,51 +31249,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Archibald @ Pacific Electric Trail",
-        "tag": "8466",
-        "stopId": "8466"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.5935,
-          34.1253399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Archibald @ 19th St Nb Fs",
-        "tag": "8467",
-        "stopId": "8467"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.59357,
-          34.1327699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Archibald @ Highland Nb Fs",
-        "tag": "8468",
-        "stopId": "8468"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.59336,
-          34.1361199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "G @ 4th Sb Ns",
         "tag": "8469",
         "stopId": "8469"
@@ -34558,126 +31258,6 @@
         "coordinates": [
           -117.29868,
           34.1065699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Archibald @ Pacific Electric Trail",
-        "tag": "8470",
-        "stopId": "8470"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.59361,
-          34.1254999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Archibald @ 19th St Sb Ns",
-        "tag": "8471",
-        "stopId": "8471"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.59367,
-          34.1328499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lemon @ Archibald Eb Fs",
-        "tag": "8472",
-        "stopId": "8472"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.59328,
-          34.1396199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lemon @ Archibald Wb Ns",
-        "tag": "8473",
-        "stopId": "8473"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.59325,
-          34.1397299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lemon @ Hermosa Eb Ns",
-        "tag": "8474",
-        "stopId": "8474"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.58485,
-          34.1396299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lemon @ Hermosa Wb Ns",
-        "tag": "8475",
-        "stopId": "8475"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.58466,
-          34.1397399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lemon @ Haven Eb Ns",
-        "tag": "8476",
-        "stopId": "8476"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.57612,
-          34.1396699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lemon @ Haven Wb Fs",
-        "tag": "8477",
-        "stopId": "8477"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.57603,
-          34.1397399
         ]
       }
     },
@@ -35531,8 +32111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.64548,
-          34.0193999
+          -117.6454799,
+          34.0194
         ]
       }
     },
@@ -35591,8 +32171,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.61944,
-          34.0196299
+          -117.6194399,
+          34.01963
         ]
       }
     },
@@ -36131,7 +32711,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.25129,
+          -117.2512899,
           34.1048999
         ]
       }
@@ -36223,36 +32803,6 @@
         "coordinates": [
           -117.29602,
           34.0999199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "San Bernardino Transit Center",
-        "tag": "8631",
-        "stopId": "8631"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.29585,
-          34.0999299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "San Bernardino Transit Center",
-        "tag": "8633",
-        "stopId": "8633"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.29529,
-          34.0999299
         ]
       }
     },
@@ -36431,23 +32981,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.29482,
-          34.0998899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline @ Day Creek Wb Fs",
-        "tag": "8649",
-        "stopId": "8649"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.53914,
-          34.1216099
+          -117.29479,
+          34.0999299
         ]
       }
     },
@@ -36799,15 +33334,30 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra Way @ 14th Sb Fs",
-        "tag": "8681",
-        "stopId": "8681"
+        "title": "University @ Interchange Nb Fs",
+        "tag": "8679",
+        "stopId": "8679"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.28525,
-          34.1251299
+          -117.33498,
+          34.1593199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University @ Interchange Sb Ns",
+        "tag": "8680",
+        "stopId": "8680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.33521,
+          34.1592499
         ]
       }
     },
@@ -36913,6 +33463,21 @@
         "coordinates": [
           -117.38267,
           34.1340699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Renaissance @ Cracker Barrel Wb Ns",
+        "tag": "8689",
+        "stopId": "8689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.38962,
+          34.1343399
         ]
       }
     },
@@ -37076,8 +33641,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.40102,
-          34.1029599
+          -117.4010199,
+          34.10296
         ]
       }
     },
@@ -37354,6 +33919,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Easton @ Riverside Eb Ns",
+        "tag": "8719",
+        "stopId": "8719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.37086,
+          34.1339299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Highland @ Easton Eb Fs",
         "tag": "8720",
         "stopId": "8720"
@@ -37362,7 +33942,7 @@
         "type": "Point",
         "coordinates": [
           -117.3683,
-          34.1343699
+          34.13437
         ]
       }
     },
@@ -37378,6 +33958,21 @@
         "coordinates": [
           -117.35287,
           34.1357499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Del Rosa @ Pumalo Nb Ns",
+        "tag": "8723",
+        "stopId": "8723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2523,
+          34.1383099
         ]
       }
     },
@@ -37729,6 +34324,366 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Montclair Transit Center",
+        "tag": "8773",
+        "stopId": "8773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.69589,
+          34.0941699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Montclair Transit Center",
+        "tag": "8774",
+        "stopId": "8774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.69568,
+          34.0941699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ontario Mills Mall",
+        "tag": "8788",
+        "stopId": "8788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.55625,
+          34.0735899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chaffey College",
+        "tag": "8790",
+        "stopId": "8790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.56897,
+          34.1483099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chaffey College",
+        "tag": "8792",
+        "stopId": "8792"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.56937,
+          34.1483099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Bernardino Transit Center",
+        "tag": "8793",
+        "stopId": "8793"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2952,
+          34.1001099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Bernardino Transit Center",
+        "tag": "8794",
+        "stopId": "8794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.29628,
+          34.1002999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Bernardino Transit Center",
+        "tag": "8796",
+        "stopId": "8796"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.29479,
+          34.0999299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Bernardino Transit Center",
+        "tag": "8797",
+        "stopId": "8797"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.29497,
+          34.1000999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Bernardino Transit Center",
+        "tag": "8798",
+        "stopId": "8798"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.29484,
+          34.1007299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Montclair Transit Center",
+        "tag": "8799",
+        "stopId": "8799"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.69589,
+          34.0941699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Montclair Transit Center",
+        "tag": "8800",
+        "stopId": "8800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.69568,
+          34.0941699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ontario Mills Mall",
+        "tag": "8801",
+        "stopId": "8801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.55625,
+          34.0735899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Bernardino Transit Center",
+        "tag": "8802",
+        "stopId": "8802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.29479,
+          34.0999299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Merrill @ Tamarind Wb Ns",
+        "tag": "8803",
+        "stopId": "8803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.42241,
+          34.0922699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Merrill @ Palmetto Wb Ns",
+        "tag": "8804",
+        "stopId": "8804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4268,
+          34.0922599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Merrill @ Mango Wb Ns",
+        "tag": "8805",
+        "stopId": "8805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.43117,
+          34.0922299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Merrill @ Sierra Eb Fs",
+        "tag": "8806",
+        "stopId": "8806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4354,
+          34.0920399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Merrill @ Mango Eb Fs",
+        "tag": "8807",
+        "stopId": "8807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.43115,
+          34.0920399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Merrill @ Palmetto Eb Ns",
+        "tag": "8808",
+        "stopId": "8808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.42733,
+          34.0920599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Merrill @ Tamarind Eb Ns",
+        "tag": "8809",
+        "stopId": "8809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.42298,
+          34.0920799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sierra @ Merrill Nb Fs",
+        "tag": "8810",
+        "stopId": "8810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.43563,
+          34.0922799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Barton @ Town Square Wb Fs",
+        "tag": "8811",
+        "stopId": "8811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.31969,
+          34.0339799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Medical Center @ 16th Nb Fs",
+        "tag": "8816",
+        "stopId": "8816"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.32246,
+          34.1289299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Sbx- Kendall And Palm",
         "tag": "8288_ar"
       },
@@ -37763,8 +34718,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.22988,
-          34.1466399
+          -117.2272,
+          34.1466299
         ]
       }
     },
@@ -37786,7 +34741,7 @@
       "type": "Feature",
       "properties": {
         "title": "San Bernardino Transit Center",
-        "tag": "8642_ar"
+        "tag": "8794_ar"
       },
       "geometry": {
         "type": "Point",
@@ -37814,13 +34769,13 @@
       "type": "Feature",
       "properties": {
         "title": "San Bernardino Transit Center",
-        "tag": "8648_ar"
+        "tag": "8802_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.29482,
-          34.0998899
+          -117.29479,
+          34.0999299
         ]
       }
     },
@@ -37925,14 +34880,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "San Bernardino Transit Center",
-        "tag": "8633_ar"
+        "title": "Crafton Hills College Eb Fs",
+        "tag": "66_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.29529,
-          34.0999299
+          -117.1002,
+          34.0396999
         ]
       }
     },
@@ -37947,20 +34902,6 @@
         "coordinates": [
           -117.18356,
           34.0574299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Crafton Hills College Eb Fs",
-        "tag": "66_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.10076,
-          34.0398599
         ]
       }
     },
@@ -38038,7 +34979,7 @@
       "type": "Feature",
       "properties": {
         "title": "San Bernardino Transit Center",
-        "tag": "8646_ar"
+        "tag": "8798_ar"
       },
       "geometry": {
         "type": "Point",
@@ -38052,7 +34993,7 @@
       "type": "Feature",
       "properties": {
         "title": "San Bernardino Transit Center",
-        "tag": "8636_ar"
+        "tag": "8797_ar"
       },
       "geometry": {
         "type": "Point",
@@ -38071,64 +35012,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.0572,
-          34.0345299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Redlands High School Eb Mid",
-        "tag": "8095_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.17211,
-          34.0555299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Mt Vernon @ Centrepointe Nb Fs",
-        "tag": "112_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.30904,
-          34.0503699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Arrowhead Medical Center Nb Fs",
-        "tag": "1_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.35177,
-          34.0724999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Marygold @ Sierra Eb Ns",
-        "tag": "120_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.43662,
-          34.0739299
+          -117.0573,
+          34.0347499
         ]
       }
     },
@@ -38149,6 +35034,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Arrowhead Medical Center Nb Fs",
+        "tag": "1_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.35177,
+          34.0724999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Cedar @ 11th Nb Fs",
         "tag": "430_ar"
       },
@@ -38157,6 +35056,20 @@
         "coordinates": [
           -117.39628,
           34.0450299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marygold @ Sierra Eb Ns",
+        "tag": "120_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.43662,
+          34.0739299
         ]
       }
     },
@@ -38191,34 +35104,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Chaffey College Wb Fs",
-        "tag": "362_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.56944,
-          34.1483199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vineyard @ Holt Nb Fs",
-        "tag": "7610_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.61092,
-          34.0636399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Chino Transit Center",
         "tag": "205_ar"
       },
@@ -38233,14 +35118,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Haven @ Foothill Nb Fs",
-        "tag": "7295_ar"
+        "title": "Chaffey College",
+        "tag": "8792_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.5757,
-          34.1068399
+          -117.56937,
+          34.1483099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chaffey College",
+        "tag": "8791_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.56917,
+          34.1483099
         ]
       }
     },
@@ -38317,6 +35216,34 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Chaffey College",
+        "tag": "8790_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.56897,
+          34.1483099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Montclair Transit Center",
+        "tag": "8773_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.69589,
+          34.0941699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "San Antonio Hospital Wb Fs",
         "tag": "474_ar"
       },
@@ -38387,34 +35314,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "San Bernardino Transit Center",
-        "tag": "8631_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.29585,
-          34.0999299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "County Line Rd @ 3rd Wb Fs",
-        "tag": "7945_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.048,
-          34.0042999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Center @ Michigan Wb Fs",
         "tag": "8010_ar"
       },
@@ -38441,5 +35340,5 @@
       }
     }
   ],
-  "copyright": "All data copyright Omnitrans 2019."
+  "copyright": "All data copyright Omnitrans 2020."
 }

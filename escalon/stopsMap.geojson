@@ -41,23 +41,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.9950799,
-          37.7110999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "McHenry Ave. & Standiford Ave.",
-        "tag": "9905",
-        "stopId": "9905"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.9958999,
-          37.68899
+          -120.99514,
+          37.71142
         ]
       }
     },
@@ -72,7 +57,7 @@
         "type": "Point",
         "coordinates": [
           -120.99412,
-          37.6894
+          37.6893999
         ]
       }
     },
@@ -86,8 +71,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.9942199,
-          37.6951099
+          -120.99422,
+          37.69511
         ]
       }
     },
@@ -109,7 +94,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "McHenry Ave. & Kiernan Ave.",
+        "title": "McHenry Avenue & Kiernan Avenue",
         "tag": "9909",
         "stopId": "9909"
       },
@@ -117,7 +102,7 @@
         "type": "Point",
         "coordinates": [
           -120.99473,
-          37.71129
+          37.71076
         ]
       }
     },
@@ -357,7 +342,7 @@
         "type": "Point",
         "coordinates": [
           -121.0502999,
-          37.7080499
+          37.70805
         ]
       }
     },
@@ -602,5 +587,5 @@
       }
     }
   ],
-  "copyright": "All data copyright Escalon eTrans 2019."
+  "copyright": "All data copyright Escalon eTrans 2020."
 }

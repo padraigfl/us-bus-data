@@ -274,7 +274,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Merced Ave and Los Angeles St E",
+        "title": "Los Angeles St and Merced Ave E",
         "tag": "01979",
         "stopId": "1979"
       },
@@ -334,15 +334,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ramona Blvd and Pacific Ave E",
-        "tag": "02217",
-        "stopId": "2217"
+        "title": "Ramona Blvd and Maine Ave",
+        "tag": "03214",
+        "stopId": "3214"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9595599,
-          34.08667
+          -117.96023,
+          34.0865099
         ]
       }
     },
@@ -1279,7 +1279,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Shadow Oak Dr and Amar Rd W",
+        "title": "Amar Rd and Shadow Oak Dr W",
         "tag": "02915",
         "stopId": "2915"
       },
@@ -1369,7 +1369,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Valinda Ave and Burtree St W",
+        "title": "Valinda Ave and Summer Pl W",
         "tag": "02963",
         "stopId": "2963"
       },
@@ -1489,7 +1489,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "West Covina and Fashion Plaza S",
+        "title": "West Covina Pkwy and Fashion Plaza Way S",
         "tag": "02654",
         "stopId": "2654"
       },
@@ -2074,7 +2074,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hacienda Blvd and Lujon St. N",
+        "title": "Hacienda Blvd and Lujon St N",
         "tag": "01678",
         "stopId": "1678"
       },
@@ -2186,15 +2186,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.95234,
-          34.0234999
+          -117.9523399,
+          34.0235
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Hill N",
+        "title": "Glendora Ave and Hill St N",
         "tag": "02811",
         "stopId": "2811"
       },
@@ -2209,7 +2209,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Ave and Glendora AVe N",
+        "title": "Temple Ave and Glendora Ave N",
         "tag": "02542",
         "stopId": "2542"
       },
@@ -2269,7 +2269,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hacienda Blvd and Fairgrove AVe N",
+        "title": "Hacienda Blvd and Fairgrove Ave N",
         "tag": "01663",
         "stopId": "1663"
       },
@@ -2299,7 +2299,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hacienda Blvd and Francisquito N",
+        "title": "Hacienda Blvd and Francisquito Ave N",
         "tag": "01665",
         "stopId": "1665"
       },
@@ -2314,7 +2314,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hacienda Blvd and Francisquito N",
+        "title": "Hacienda Blvd and Francisquito Ave N",
         "tag": "02813",
         "stopId": "2813"
       },
@@ -2329,7 +2329,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hacienda Blvd and Michelle N",
+        "title": "Hacienda Blvd and Michelle St N",
         "tag": "01683",
         "stopId": "1683"
       },
@@ -2359,7 +2359,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Vine E",
+        "title": "Glendora Ave and Vine Ave E",
         "tag": "01543",
         "stopId": "1543"
       },
@@ -2389,7 +2389,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Vincent Ave and Glendora N",
+        "title": "Vincent Ave and Glendora Ave N",
         "tag": "02642",
         "stopId": "2642"
       },
@@ -2404,7 +2404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "West Covina Prkwy and Sunset Ave N",
+        "title": "Sunset Ave and West Covina Pkwy N",
         "tag": "02663",
         "stopId": "2663"
       },
@@ -2479,7 +2479,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Irwindale and Badillo St N",
+        "title": "Irwindale Ave and Badillo St N",
         "tag": "01872",
         "stopId": "1872"
       },
@@ -2494,7 +2494,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Irwindale and San Bernardino N",
+        "title": "Irwindale Ave and San Bernardino Rd N",
         "tag": "01889",
         "stopId": "1889"
       },
@@ -2509,7 +2509,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Irwindale and Queenside N",
+        "title": "Irwindale Ave and Queenside Dr N",
         "tag": "01874",
         "stopId": "1874"
       },
@@ -2539,37 +2539,22 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Irwindale Ave and Martinez St N",
-        "tag": "01885",
-        "stopId": "1885"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.9341599,
-          34.10157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Irwindale and Calle del Norte N",
+        "title": "Irwindale Ave and Calle del Norte N",
         "tag": "01883",
         "stopId": "1883"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.93406,
-          34.1051999
+          -117.9340599,
+          34.1052
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Irwindale and Arrow Hwy N",
+        "title": "Irwindale Ave and Arrow Hwy N",
         "tag": "01870",
         "stopId": "1870"
       },
@@ -2584,7 +2569,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Irwindale and Gladstone N",
+        "title": "Irwindale Ave and Gladstone St N",
         "tag": "01881",
         "stopId": "1881"
       },
@@ -2599,7 +2584,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Irwindale Ave and McKinley Ave N",
+        "title": "Irwindale Ave and McKinley St N",
         "tag": "01887",
         "stopId": "1887"
       },
@@ -2719,7 +2704,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Azusa and Ninth N",
+        "title": "Azusa Ave and 9th St. N",
         "tag": "00737",
         "stopId": "737"
       },
@@ -2959,7 +2944,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Irwindale and Queenside S",
+        "title": "Irwindale Ave and Queenside Dr S",
         "tag": "01875",
         "stopId": "1875"
       },
@@ -2974,7 +2959,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Irwindale and San Bernardino S",
+        "title": "Irwindale Ave and San Bernardino Rd S",
         "tag": "01890",
         "stopId": "1890"
       },
@@ -2989,7 +2974,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Irwindale and Badillo St S",
+        "title": "Irwindale Ave and Badillo St S",
         "tag": "01873",
         "stopId": "1873"
       },
@@ -3004,7 +2989,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Puente S",
+        "title": "Sunset Ave and Puente Ave S",
         "tag": "02523",
         "stopId": "2523"
       },
@@ -3079,7 +3064,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Vincent Ave and Glendora S",
+        "title": "Vincent Ave and Glendora Ave S",
         "tag": "02643",
         "stopId": "2643"
       },
@@ -3109,7 +3094,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Hong Kong Way S",
+        "title": "Glendora Ave and Hong Kong Plaza S",
         "tag": "01523",
         "stopId": "1523"
       },
@@ -3124,7 +3109,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Merced S",
+        "title": "Glendora Ave and Merced Ave S",
         "tag": "01526",
         "stopId": "1526"
       },
@@ -3139,7 +3124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Michelle S",
+        "title": "Glendora Ave and Michelle St S",
         "tag": "01529",
         "stopId": "1529"
       },
@@ -3154,7 +3139,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Francisquito S",
+        "title": "Glendora Ave and Francisquito Ave S",
         "tag": "02814",
         "stopId": "2814"
       },
@@ -3169,7 +3154,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Francisquito S",
+        "title": "Hacienda Blvd and Francisquito Ave S",
         "tag": "01519",
         "stopId": "1519"
       },
@@ -3184,7 +3169,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Maple Grove S",
+        "title": "Hacienda Blvd and Maplegrove St S",
         "tag": "01524",
         "stopId": "1524"
       },
@@ -3199,7 +3184,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Unruh S",
+        "title": "Hacienda Blvd and Unruh Ave S",
         "tag": "01542",
         "stopId": "1542"
       },
@@ -3229,7 +3214,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hacienda Blvd and Glendora S",
+        "title": "Hacienda Blvd and Glendora Ave S",
         "tag": "01670",
         "stopId": "1670"
       },
@@ -3244,7 +3229,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Ave and Hacienda S",
+        "title": "Temple Ave and Hacienda Blvd S",
         "tag": "02545",
         "stopId": "2545"
       },
@@ -3311,23 +3296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9541699,
+          -117.95417,
           34.0202699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stafford St and Rausch Rd S",
-        "tag": "02481",
-        "stopId": "2481"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.95487,
-          34.0213799
         ]
       }
     },
@@ -3371,8 +3341,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9598099,
-          34.0177
+          -117.95981,
+          34.0176999
         ]
       }
     },
@@ -3394,7 +3364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hacienda Blvd and Three Palms S",
+        "title": "Hacienda Blvd and Three Palms St S",
         "tag": "01693",
         "stopId": "1693"
       },
@@ -3469,7 +3439,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hacienda Blvd and Los Altos S",
+        "title": "Hacienda Blvd and Los Altos Dr S",
         "tag": "01676",
         "stopId": "1676"
       },
@@ -3844,7 +3814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Sunnyslope E",
+        "title": "Foothill Blvd and Sunnyslope Ave E",
         "tag": "02795",
         "stopId": "2795"
       },
@@ -3874,7 +3844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Sierra Madre Villa E",
+        "title": "Foothill Blvd and Sierra Madre Villa Ave E",
         "tag": "02471",
         "stopId": "2471"
       },
@@ -4061,7 +4031,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.03473,
+          -118.0347299,
           34.13988
         ]
       }
@@ -4091,8 +4061,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0278999,
-          34.14
+          -118.0279,
+          34.1399999
         ]
       }
     },
@@ -4106,8 +4076,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0245899,
-          34.14006
+          -118.02459,
+          34.1400599
         ]
       }
     },
@@ -4121,8 +4091,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0202499,
-          34.14011
+          -118.02025,
+          34.1401099
         ]
       }
     },
@@ -4136,8 +4106,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.01368,
-          34.1401399
+          -118.0136799,
+          34.14014
         ]
       }
     },
@@ -4151,8 +4121,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0100599,
-          34.14022
+          -118.01006,
+          34.1402199
         ]
       }
     },
@@ -4166,8 +4136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.00545,
-          34.1403199
+          -118.0054499,
+          34.14032
         ]
       }
     },
@@ -4181,8 +4151,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.99973,
-          34.1403799
+          -117.9997299,
+          34.14038
         ]
       }
     },
@@ -4241,8 +4211,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9830399,
-          34.13951
+          -117.98304,
+          34.1395099
         ]
       }
     },
@@ -4256,7 +4226,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9772099,
+          -117.97721,
           34.13951
         ]
       }
@@ -4271,8 +4241,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.97467,
-          34.1395599
+          -117.9746699,
+          34.13956
         ]
       }
     },
@@ -4481,8 +4451,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9779399,
-          34.13974
+          -117.97794,
+          34.1397399
         ]
       }
     },
@@ -4511,7 +4481,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9866799,
+          -117.98668,
           34.1396599
         ]
       }
@@ -4676,8 +4646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0348699,
-          34.14011
+          -118.03487,
+          34.1401099
         ]
       }
     },
@@ -4691,8 +4661,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.04259,
-          34.1347499
+          -118.0425899,
+          34.13475
         ]
       }
     },
@@ -4706,7 +4676,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.04652,
+          -118.0465199,
           34.1318699
         ]
       }
@@ -4834,7 +4804,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Sierra Madre Villa W",
+        "title": "Foothill Blvd and Sierra Madre Villa Ave W",
         "tag": "01304",
         "stopId": "1304"
       },
@@ -4864,7 +4834,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Sunnyslope W",
+        "title": "Foothill Blvd and Sunnyslope Ave W",
         "tag": "01310",
         "stopId": "1310"
       },
@@ -4886,8 +4856,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0944099,
-          34.14961
+          -118.09441,
+          34.1496099
         ]
       }
     },
@@ -5284,7 +5254,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Route 66 and Lorraine Ave E",
+        "title": "Route 66 and Loraine Ave E",
         "tag": "02286",
         "stopId": "2286"
       },
@@ -5389,7 +5359,22 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and San Dimas Canyon E",
+        "title": "Foothill Blvd and Walnut Ave E",
+        "tag": "01337",
+        "stopId": "1337"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8024899,
+          34.1238899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Foothill Blvd and San Dimas Canyon Rd E",
         "tag": "01298",
         "stopId": "1298"
       },
@@ -5426,8 +5411,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.78084,
-          34.11847
+          -117.7808399,
+          34.1184699
         ]
       }
     },
@@ -5441,8 +5426,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7769999,
-          34.1171799
+          -117.777,
+          34.11718
         ]
       }
     },
@@ -5456,8 +5441,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.77184,
-          34.11549
+          -117.7718399,
+          34.1154899
         ]
       }
     },
@@ -5471,8 +5456,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7673899,
-          34.1139599
+          -117.76739,
+          34.11396
         ]
       }
     },
@@ -5486,8 +5471,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.76479,
-          34.11312
+          -117.7647899,
+          34.1131199
         ]
       }
     },
@@ -5501,8 +5486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.76087,
-          34.11181
+          -117.7608699,
+          34.1118099
         ]
       }
     },
@@ -5531,8 +5516,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7532899,
-          34.1093099
+          -117.75329,
+          34.10931
         ]
       }
     },
@@ -5546,8 +5531,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7480199,
-          34.1075499
+          -117.74802,
+          34.10755
         ]
       }
     },
@@ -5561,8 +5546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.74138,
-          34.10706
+          -117.7413799,
+          34.1070599
         ]
       }
     },
@@ -5606,23 +5591,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.72098,
+          -117.7209799,
           34.10696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Indian Hill Blvd and 8th St E",
-        "tag": "01821",
-        "stopId": "1821"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7203199,
-          34.1017399
         ]
       }
     },
@@ -5651,7 +5621,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7168599,
+          -117.71686,
           34.0945
         ]
       }
@@ -5689,15 +5659,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Arrow Hwy and Mills Ave E",
-        "tag": "00644",
-        "stopId": "644"
+        "title": "Claremont Blvd and 1st St W",
+        "tag": "00977",
+        "stopId": "977"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.70664,
-          34.09258
+          -117.7052299,
+          34.09474
         ]
       }
     },
@@ -5764,7 +5734,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Claremont Transit Center   W",
+        "title": "1st St and Columbia Ave W (CTC)",
         "tag": "00982",
         "stopId": "982"
       },
@@ -6034,7 +6004,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and San Dimas Canyon W",
+        "title": "Foothill Blvd and San Dimas Canyon Rd W",
         "tag": "01299",
         "stopId": "1299"
       },
@@ -6043,6 +6013,21 @@
         "coordinates": [
           -117.79479,
           34.12268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Foothill Blvd and Longhorn Rd W",
+        "tag": "01338",
+        "stopId": "1338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8041699,
+          34.1243899
         ]
       }
     },
@@ -6139,7 +6124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Route 66 and Lorraine Ave W",
+        "title": "Route 66 and Loraine Ave W",
         "tag": "02287",
         "stopId": "2287"
       },
@@ -6229,7 +6214,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Route 66 and Forestdale Ave. W",
+        "title": "Route 66 and Forestdale Ave W",
         "tag": "02292",
         "stopId": "2292"
       },
@@ -6634,30 +6619,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ramona Blvd and Maine Ave",
-        "tag": "03214",
-        "stopId": "3214"
+        "title": "Ramona Blvd and Downing Ave E",
+        "tag": "02228",
+        "stopId": "2228"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9602299,
-          34.08651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Ramona Blvd and Bogart Ave",
-        "tag": "03205",
-        "stopId": "3205"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.9573499,
-          34.08709
+          -117.95724,
+          34.0871099
         ]
       }
     },
@@ -6686,8 +6656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.94946,
-          34.0891299
+          -117.9494599,
+          34.08913
         ]
       }
     },
@@ -6701,8 +6671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9432099,
-          34.0900199
+          -117.94321,
+          34.09002
         ]
       }
     },
@@ -6746,8 +6716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9301199,
-          34.0896299
+          -117.93012,
+          34.08963
         ]
       }
     },
@@ -6761,7 +6731,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9251799,
+          -117.92518,
           34.08938
         ]
       }
@@ -6776,7 +6746,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9162999,
+          -117.9163,
           34.08832
         ]
       }
@@ -6791,8 +6761,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9109299,
-          34.08867
+          -117.91093,
+          34.0886699
         ]
       }
     },
@@ -7054,7 +7024,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Ave and Grand E",
+        "title": "Temple Ave and Grand Ave E",
         "tag": "02544",
         "stopId": "2544"
       },
@@ -7069,7 +7039,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Ave and Mt Sac Way",
+        "title": "Temple Ave and Mt SAC Way",
         "tag": "02551",
         "stopId": "2551"
       },
@@ -7114,7 +7084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Ave and South Campus Dr",
+        "title": "Temple Ave and S. Campus Dr",
         "tag": "02562",
         "stopId": "2562"
       },
@@ -7138,186 +7108,6 @@
         "coordinates": [
           -117.81253,
           34.0484699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Temple Ave and Pomona Blvd",
-        "tag": "03298",
-        "stopId": "3298"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.81033,
-          34.0478799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Temple Ave and Valley Blvd",
-        "tag": "03297",
-        "stopId": "3297"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8124699,
-          34.0487299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Temple Ave and South Campus Dr",
-        "tag": "02563",
-        "stopId": "2563"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.81742,
-          34.0505
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Temple Ave and University Dr",
-        "tag": "02565",
-        "stopId": "2565"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8210199,
-          34.0506199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Temple Ave and Bonita Ave",
-        "tag": "02537",
-        "stopId": "2537"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.84069,
-          34.0467499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Amar Rd and Mt. SAC Way W",
-        "tag": "00576",
-        "stopId": "576"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.84531,
-          34.0438699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Grand Ave and San Jose Hills Rd",
-        "tag": "03259",
-        "stopId": "3259"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.84925,
-          34.04629
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Grand Ave and College Vista Ave",
-        "tag": "03258",
-        "stopId": "3258"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8560499,
-          34.05048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cameron Ave and Grand Ave",
-        "tag": "03254",
-        "stopId": "3254"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.86768,
-          34.0570699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Barranca St and Cameron Ave",
-        "tag": "03285",
-        "stopId": "3285"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8812599,
-          34.06103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Barranca St and Cortez St",
-        "tag": "03286",
-        "stopId": "3286"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8812,
-          34.0641599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Barranca St and VirginiaAve",
-        "tag": "03287",
-        "stopId": "3287"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.88114,
-          34.06974
         ]
       }
     },
@@ -7834,7 +7624,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ramona Blvd and Valley Blvd",
+        "title": "Ramona Blvd and Main St",
         "tag": "03284",
         "stopId": "3284"
       },
@@ -7873,6 +7663,186 @@
         "coordinates": [
           -118.0401199,
           34.0721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Temple Ave and Pomona Blvd",
+        "tag": "03298",
+        "stopId": "3298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.81033,
+          34.0478799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Temple Ave and Valley Blvd",
+        "tag": "03297",
+        "stopId": "3297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8124699,
+          34.0487299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Temple Ave and S Campus Dr",
+        "tag": "02563",
+        "stopId": "2563"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.81742,
+          34.0505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Temple Ave and University Dr",
+        "tag": "02565",
+        "stopId": "2565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8210199,
+          34.0506199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Temple Ave and Bonita Ave",
+        "tag": "02537",
+        "stopId": "2537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.84069,
+          34.0467499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Temple Ave and Mt. SAC Way W",
+        "tag": "00576",
+        "stopId": "576"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.84531,
+          34.0438699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grand Ave and San Jose Hills Rd",
+        "tag": "03259",
+        "stopId": "3259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.84925,
+          34.04629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grand Ave and College Vista Ave",
+        "tag": "03258",
+        "stopId": "3258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8560499,
+          34.05048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cameron Ave and Grand Ave",
+        "tag": "03254",
+        "stopId": "3254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.86768,
+          34.0570699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Barranca St and Cameron Ave",
+        "tag": "03285",
+        "stopId": "3285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8812599,
+          34.06103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Barranca St and Cortez St",
+        "tag": "03286",
+        "stopId": "3286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8812,
+          34.0641599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Barranca St and Virginia Ave",
+        "tag": "03287",
+        "stopId": "3287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.88114,
+          34.06974
         ]
       }
     },
@@ -8209,15 +8179,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Old Valley Blvd and Hofgaarden St",
-        "tag": "03336",
-        "stopId": "3336"
+        "title": "Old Valley Blvd and Common Ave",
+        "tag": "03337",
+        "stopId": "3337"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.94464,
-          34.01328
+          -117.9485199,
+          34.0157299
         ]
       }
     },
@@ -8254,7 +8224,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Valley Blvd and Azusa Way",
+        "title": "Azusa Way and Valley Blvd",
         "tag": "03342",
         "stopId": "3342"
       },
@@ -8366,7 +8336,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8807799,
+          -117.88078,
           34.00182
         ]
       }
@@ -8584,7 +8554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Ave and South Campus Dr",
+        "title": "Temple Ave and S Campus Dr",
         "tag": "03288",
         "stopId": "3288"
       },
@@ -8629,7 +8599,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Ave and Mt Sac Way",
+        "title": "Temple Ave and Mt SAC Way",
         "tag": "03295",
         "stopId": "3295"
       },
@@ -9334,7 +9304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "So. Campus Dr. & Kellogg Dr. W",
+        "title": "S Campus Dr. & Kellogg Dr. W",
         "tag": "03141",
         "stopId": "3141"
       },
@@ -9379,7 +9349,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Ave and Foley W",
+        "title": "Temple Ave and Foley Way W",
         "tag": "02541",
         "stopId": "2541"
       },
@@ -9394,7 +9364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Ave & Diamond Bar Blvd/ Mission Blvd E",
+        "title": "Temple Ave & Diamond Bar Blvd E",
         "tag": "00001",
         "stopId": "01"
       },
@@ -9409,7 +9379,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Avenida Rancheros and Golden Springs N",
+        "title": "Avenida Rancheros and Golden Springs Dr N",
         "tag": "00725",
         "stopId": "725"
       },
@@ -9424,7 +9394,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Avenida Rancheros and Santa Clara N",
+        "title": "Avenida Rancheros and Santa Clara Dr N",
         "tag": "00728",
         "stopId": "728"
       },
@@ -9439,7 +9409,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Clara and Villiage Loop N",
+        "title": "Santa Clara Dr and Villiage Loop Rd N",
         "tag": "02444",
         "stopId": "2444"
       },
@@ -9454,7 +9424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Village Loop and Old Wood Road N",
+        "title": "Village Loop Rd and Old Wood Rd N",
         "tag": "02636",
         "stopId": "2636"
       },
@@ -9469,7 +9439,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Village Loop and Phillips Ranch N",
+        "title": "Village Loop Rd and Phillips Ranch Rd N",
         "tag": "02640",
         "stopId": "2640"
       },
@@ -9679,7 +9649,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Reservoir St and 9th St E",
+        "title": "Reservoir St and Ninth St E",
         "tag": "02774",
         "stopId": "2774"
       },
@@ -9859,7 +9829,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Holt Ave and Reservoir E",
+        "title": "Holt Ave and Reservoir St E",
         "tag": "01730",
         "stopId": "1730"
       },
@@ -9874,7 +9844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mission Blvd and Reservoir W",
+        "title": "Reservoir St and Mission Blvd W",
         "tag": "02021",
         "stopId": "2021"
       },
@@ -9889,7 +9859,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Reservoir St and 9th St W",
+        "title": "Reservoir St and Ninth St W",
         "tag": "02241",
         "stopId": "2241"
       },
@@ -10039,7 +10009,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rio Rancho Rd and Auto Center Dr W",
+        "title": "Rio Rancho Rd and Rancho Valley Dr W",
         "tag": "02985",
         "stopId": "2985"
       },
@@ -10114,7 +10084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Village Loop and Old Wood Road",
+        "title": "Village Loop Rd and Old Wood Rd",
         "tag": "02638",
         "stopId": "2638"
       },
@@ -10129,7 +10099,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Clara and Villiage Loop S",
+        "title": "Santa Clara Dr and Villiage Loop Rd S",
         "tag": "02445",
         "stopId": "2445"
       },
@@ -10144,7 +10114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Avenida Rancheros and Santa Clara S",
+        "title": "Avenida Rancheros and Los Felis Dr S",
         "tag": "00729",
         "stopId": "729"
       },
@@ -10159,7 +10129,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Temple Ave and Golden Springs Dr E",
+        "title": "Temple Ave and Rancho Navato Dr E",
         "tag": "02555",
         "stopId": "2555"
       },
@@ -10234,7 +10204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "So Campus and Temple Ave E",
+        "title": "S Campus Dr and Temple Ave E",
         "tag": "02473",
         "stopId": "2473"
       },
@@ -10249,7 +10219,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "So. Campus Dr. and Kellogg Dr. E",
+        "title": "S Campus Dr. and Kellogg Dr. E",
         "tag": "03140",
         "stopId": "3140"
       },
@@ -10324,15 +10294,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "White Ave and Holt Ave W",
+        "title": "Holt Ave and White Ave N",
         "tag": "02675",
         "stopId": "2675"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.75895,
-          34.06244
+          -117.7587599,
+          34.06228
         ]
       }
     },
@@ -10451,8 +10421,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.78655,
-          34.0629799
+          -117.78687,
+          34.0629199
         ]
       }
     },
@@ -10489,30 +10459,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "McKinley Ave and Fairplex Dr E",
-        "tag": "01976",
-        "stopId": "1976"
+        "title": "Fairplex Park & Ride",
+        "tag": "01181",
+        "stopId": "1181"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.77232,
-          34.08252
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "McKinley Ave and Gate 1 E",
-        "tag": "01977",
-        "stopId": "1977"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7658199,
-          34.0801099
+          -117.7842999,
+          34.0742199
         ]
       }
     },
@@ -10684,15 +10639,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Montclair Transit Center (197)",
-        "tag": "03041",
-        "stopId": "3041"
+        "title": "Arrow Hwy and Mills Ave E",
+        "tag": "00644",
+        "stopId": "644"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.69493,
-          34.0943599
+          -117.70664,
+          34.09258
         ]
       }
     },
@@ -10864,36 +10819,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "McKinley Ave and Gate 1 W",
-        "tag": "01975",
-        "stopId": "1975"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7659,
-          34.0804299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "McKinley Ave and Fairplex Dr W",
-        "tag": "02821",
-        "stopId": "2821"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7716099,
-          34.0825699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Fairplex Dr and Elwood Ave W",
         "tag": "01180",
         "stopId": "1180"
@@ -10902,14 +10827,14 @@
         "type": "Point",
         "coordinates": [
           -117.7880599,
-          34.0684
+          34.0683999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Fairplex Dr and Orange Grove Ave S",
+        "title": "Orange Grove Ave and Fairplex Dr S",
         "tag": "03042",
         "stopId": "3042"
       },
@@ -10978,21 +10903,6 @@
         "coordinates": [
           -117.76903,
           34.0665099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Orange Grove Ave and Hamilton Blvd E",
-        "tag": "02114",
-        "stopId": "2114"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7639299,
-          34.06791
         ]
       }
     },
@@ -11074,7 +10984,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Montebello Town Center",
+        "title": "Montebello Town Center and Town Center Dr",
         "tag": "02034",
         "stopId": "2034"
       },
@@ -11089,7 +10999,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Montebello Bl and Plaza Dr S",
+        "title": "Montebello Blvd and The Shops at Montebello S",
         "tag": "02035",
         "stopId": "2035"
       },
@@ -11119,7 +11029,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Lexington Gallatin N",
+        "title": "Santa Anita Ave and Lexington Gallatin Rd N",
         "tag": "02414",
         "stopId": "2414"
       },
@@ -11134,7 +11044,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Fawcett N",
+        "title": "Santa Anita Ave and Fawcett Ave N",
         "tag": "02404",
         "stopId": "2404"
       },
@@ -11164,7 +11074,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Tyler N",
+        "title": "Santa Anita Ave and Tyler Ave N",
         "tag": "02431",
         "stopId": "2431"
       },
@@ -11179,7 +11089,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Rush N",
+        "title": "Santa Anita Ave and Rush St N",
         "tag": "02426",
         "stopId": "2426"
       },
@@ -11194,7 +11104,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Klingerman N",
+        "title": "Santa Anita Ave and Klingerman St N",
         "tag": "02412",
         "stopId": "2412"
       },
@@ -11209,7 +11119,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Elliot N",
+        "title": "Santa Anita Ave and Elliot Ave N",
         "tag": "02402",
         "stopId": "2402"
       },
@@ -11224,7 +11134,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Garvey W",
+        "title": "Santa Anita Ave and Garvey Ave W",
         "tag": "02409",
         "stopId": "2409"
       },
@@ -11239,7 +11149,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Mildred W",
+        "title": "Santa Anita Ave and Mildred St W",
         "tag": "02423",
         "stopId": "2423"
       },
@@ -11254,7 +11164,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Mildred E",
+        "title": "Santa Anita Ave and Mildred St E",
         "tag": "02420",
         "stopId": "2420"
       },
@@ -11269,7 +11179,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Garvey S",
+        "title": "Santa Anita Ave and Garvey Ave S",
         "tag": "02408",
         "stopId": "2408"
       },
@@ -11284,7 +11194,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Elliot S",
+        "title": "Santa Anita Ave and Fern St S",
         "tag": "02403",
         "stopId": "2403"
       },
@@ -11299,7 +11209,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Klingerman S",
+        "title": "Santa Anita Ave and Klingerman St S",
         "tag": "02413",
         "stopId": "2413"
       },
@@ -11314,7 +11224,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Rush S",
+        "title": "Santa Anita Ave and Rush St S",
         "tag": "02427",
         "stopId": "2427"
       },
@@ -11329,7 +11239,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Tyler S",
+        "title": "Santa Anita Ave and Tyler Ave S",
         "tag": "02432",
         "stopId": "2432"
       },
@@ -11374,7 +11284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Lexington Gallatin S",
+        "title": "Santa Anita Ave and Lexington Gallatin Dr S",
         "tag": "02415",
         "stopId": "2415"
       },
@@ -11614,15 +11524,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Myrtle Ave and Camino Real St",
-        "tag": "03494",
-        "stopId": "3494"
+        "title": "Myrtle Ave and Wyland Way N",
+        "tag": "03493",
+        "stopId": "3493"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -118.00127,
-          34.12171
+          34.11824
         ]
       }
     },
@@ -11899,15 +11809,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Myrtle Ave and Camino Real St",
-        "tag": "03517",
-        "stopId": "3517"
+        "title": "Myrtle Ave and Wyland Way S",
+        "tag": "03518",
+        "stopId": "3518"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0015899,
-          34.1219699
+          -118.0014599,
+          34.1177599
         ]
       }
     },
@@ -11959,21 +11869,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Peck Rd and Clark St",
-        "tag": "03519",
-        "stopId": "3519"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.00886,
-          34.1027399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Peck Rd and Rio Hondo Pkwy",
         "tag": "03520",
         "stopId": "3520"
@@ -11996,8 +11891,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0119499,
-          34.09644
+          -118.01195,
+          34.0964399
         ]
       }
     },
@@ -12041,8 +11936,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0188299,
-          34.08244
+          -118.01883,
+          34.0824399
         ]
       }
     },
@@ -12109,21 +12004,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and West Covina Pkwy N",
-        "tag": "02532",
-        "stopId": "2532"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.93853,
-          34.0686299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Sunset Ave and Cameron Ave N",
         "tag": "02498",
         "stopId": "2498"
@@ -12139,7 +12019,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Vine Ave N",
+        "title": "Sunset Ave and Hospital N",
         "tag": "02529",
         "stopId": "2529"
       },
@@ -12176,8 +12056,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.95056,
-          34.06479
+          -117.9505599,
+          34.0647899
         ]
       }
     },
@@ -12214,7 +12094,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Garvey Ave and Garden View Lane N",
+        "title": "Dalewood St and Garden View Ln N",
         "tag": "01469",
         "stopId": "1469"
       },
@@ -12296,8 +12176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9648899,
-          34.0921899
+          -117.9649199,
+          34.09254
         ]
       }
     },
@@ -12364,7 +12244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Buena Vista St and Avenida Barbosa N",
+        "title": "Avenida Barbosa and Buena Vista St N",
         "tag": "00889",
         "stopId": "889"
       },
@@ -12409,7 +12289,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Duarte Rd and City of Hope E",
+        "title": "Duarte Rd and Hope Dr E",
         "tag": "01161",
         "stopId": "1161"
       },
@@ -12484,7 +12364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Avenida Barbosa and Buena Vista S",
+        "title": "Avenida Barbosa and Alpha St S",
         "tag": "00890",
         "stopId": "890"
       },
@@ -12589,7 +12469,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Baldwin Park Blvd and Stewart S",
+        "title": "Baldwin Park Blvd and Stewart Ave S",
         "tag": "02837",
         "stopId": "2837"
       },
@@ -12649,21 +12529,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Garvey Ave and 10 Frwy S",
-        "tag": "02840",
-        "stopId": "2840"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.96029,
-          34.0694799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Merced Ave and S Garvey Ave S",
         "tag": "02969",
         "stopId": "2969"
@@ -12716,8 +12581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.94573,
-          34.0615899
+          -117.9457299,
+          34.06159
         ]
       }
     },
@@ -12731,8 +12596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.94319,
-          34.0639799
+          -117.9431899,
+          34.06398
         ]
       }
     },
@@ -12754,7 +12619,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Beverly Dr and Norwalk Blvd N",
+        "title": "Beverly Dr and Workman Mill Rd N",
         "tag": "00847",
         "stopId": "847"
       },
@@ -12994,7 +12859,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Puente Ave and 3rd Ave N",
+        "title": "Workman Mill Rd and 3rd Ave N",
         "tag": "02770",
         "stopId": "2770"
       },
@@ -13159,21 +13024,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ramona Blvd and Downing Ave E",
-        "tag": "02228",
-        "stopId": "2228"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.9572399,
-          34.08711
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Puente and Pacific S",
         "tag": "02185",
         "stopId": "2185"
@@ -13189,7 +13039,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Puente and Channing S",
+        "title": "Puente Ave and Channing St S",
         "tag": "02169",
         "stopId": "2169"
       },
@@ -13204,7 +13054,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Puente and Merced S",
+        "title": "Puente Ave and Merced Ave S",
         "tag": "02179",
         "stopId": "2179"
       },
@@ -13219,7 +13069,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Puente and Dalewood S",
+        "title": "Puente Ave and Dalewood St S",
         "tag": "02171",
         "stopId": "2171"
       },
@@ -13234,7 +13084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Puente and Francisquito S",
+        "title": "Puente Ave and Francisquito Ave S",
         "tag": "02174",
         "stopId": "2174"
       },
@@ -13249,7 +13099,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Puente and Barrydale S",
+        "title": "Puente Ave and Barrydale St S",
         "tag": "02166",
         "stopId": "2166"
       },
@@ -13264,7 +13114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Puente and Cagliero S",
+        "title": "Puente Ave and Cagliero St S",
         "tag": "02168",
         "stopId": "2168"
       },
@@ -13279,7 +13129,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Puente and Sauder S",
+        "title": "Puente Ave and Sauder St S",
         "tag": "02187",
         "stopId": "2187"
       },
@@ -13294,7 +13144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Puente and Amar S",
+        "title": "Puente Ave and Amar Rd S",
         "tag": "02164",
         "stopId": "2164"
       },
@@ -13309,15 +13159,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Puente Ave and Temple Ave",
+        "title": "Puente Ave and Temple Ave S",
         "tag": "00045",
         "stopId": "45"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9815,
-          34.0511199
+          -117.98207,
+          34.0506099
         ]
       }
     },
@@ -13339,7 +13189,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Puente Ave and Valley Blvd S",
+        "title": "Workman Mil Rd and Valley Blvd S",
         "tag": "02769",
         "stopId": "2769"
       },
@@ -13354,7 +13204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Workman Mill and Don Julian S",
+        "title": "Workman Mill Rd and Don Julian Rd S",
         "tag": "02752",
         "stopId": "2752"
       },
@@ -13369,7 +13219,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Workman Mill and Lomitas S",
+        "title": "Workman Mill Rd and Lomitas Ave S",
         "tag": "02754",
         "stopId": "2754"
       },
@@ -13384,52 +13234,52 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Workman Mill and Oakman S",
+        "title": "Workman Mill Ave and Oakman Dr S",
         "tag": "02756",
         "stopId": "2756"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.00608,
-          34.0376399
+          -118.0056799,
+          34.03787
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Workman Mill and Bark S",
+        "title": "Workman Mill Rd and Bark Dr S",
         "tag": "02747",
         "stopId": "2747"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0089499,
-          34.03665
+          -118.00895,
+          34.0366499
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Workman Mill and Coleford S",
+        "title": "Workman Mill Rd and Coleford Ave S",
         "tag": "02749",
         "stopId": "2749"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.01396,
-          34.0348799
+          -118.0139599,
+          34.03488
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Crossroads Pkwy and Workman Mill Rd S",
+        "title": "Crossroads Pkwy N and Workman Mill Rd S",
         "tag": "00029",
         "stopId": "29"
       },
@@ -13437,7 +13287,7 @@
         "type": "Point",
         "coordinates": [
           -118.0205799,
-          34.03205
+          34.0320499
         ]
       }
     },
@@ -13451,8 +13301,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.01295,
-          34.0304599
+          -118.0129499,
+          34.03046
         ]
       }
     },
@@ -13466,8 +13316,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.02625,
-          34.0289299
+          -118.0262499,
+          34.02893
         ]
       }
     },
@@ -13481,7 +13331,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0346899,
+          -118.03469,
           34.0238799
         ]
       }
@@ -13549,22 +13399,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Pioneer and Strong Ave",
-        "tag": "02871",
-        "stopId": "2871"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.0593699,
-          34.00738
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pioneer and Beverly Blvd. S",
+        "title": "Beverly Blvd and Pionner Blvd S",
         "tag": "02157",
         "stopId": "2157"
       },
@@ -13579,7 +13414,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Beverly Blvd and Carley S",
+        "title": "Beverly Blvd and Carley Ave S",
         "tag": "00848",
         "stopId": "848"
       },
@@ -13931,8 +13766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9076199,
-          34.0992
+          -117.90761,
+          34.0996699
         ]
       }
     },
@@ -14051,8 +13886,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.90748,
-          34.1297499
+          -117.9074799,
+          34.12975
         ]
       }
     },
@@ -14067,7 +13902,7 @@
         "type": "Point",
         "coordinates": [
           -117.90745,
-          34.13303
+          34.1330299
         ]
       }
     },
@@ -14126,8 +13961,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.90773,
-          34.1220899
+          -117.9077299,
+          34.12209
         ]
       }
     },
@@ -14644,7 +14479,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gale Ave and Hinnen S",
+        "title": "Gale Ave and Hinnen Ave S",
         "tag": "02789",
         "stopId": "2789"
       },
@@ -14674,7 +14509,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gale and Hacienda w/b 282",
+        "title": "Gale Ave and Hacienda Blvd W",
         "tag": "03022",
         "stopId": "3022"
       },
@@ -14689,7 +14524,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gale Ave and Kwis Ave N",
+        "title": "Gale Ave and Post Office N",
         "tag": "01398",
         "stopId": "1398"
       },
@@ -14719,7 +14554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gale Ave and Ninth AVe. N",
+        "title": "Gale Ave and Ninth Ave. N",
         "tag": "01406",
         "stopId": "1406"
       },
@@ -14749,7 +14584,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "7th Ave and Gale Ave N",
+        "title": "Seventh Ave and Gale Ave N",
         "tag": "00021",
         "stopId": "21"
       },
@@ -14764,7 +14599,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "7th St and Clark Ave N",
+        "title": "Seventh Ave and Clark Ave N",
         "tag": "00530",
         "stopId": "530"
       },
@@ -14779,7 +14614,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "7th St and Salt Lake Ave N",
+        "title": "Seventh Ave and Salt Lake Ave N",
         "tag": "00544",
         "stopId": "544"
       },
@@ -14794,7 +14629,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "7th St and Don Julian Rd N",
+        "title": "Seventh Ave and Don Julian Rd N",
         "tag": "00534",
         "stopId": "534"
       },
@@ -14809,7 +14644,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "7th St and Proctor Ave N",
+        "title": "Seventh Ave and Proctor Ave N",
         "tag": "00540",
         "stopId": "540"
       },
@@ -14839,7 +14674,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Nelson N",
+        "title": "Sunset Ave and Nelson Ave N",
         "tag": "02518",
         "stopId": "2518"
       },
@@ -14854,7 +14689,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Temple N",
+        "title": "Sunset Ave and Temple Ave N",
         "tag": "02527",
         "stopId": "2527"
       },
@@ -14869,7 +14704,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Homeward N",
+        "title": "Sunset Ave and Homeward St N",
         "tag": "02513",
         "stopId": "2513"
       },
@@ -14899,7 +14734,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Fairgrove N",
+        "title": "Sunset Ave and Fairgrove Ave N",
         "tag": "02507",
         "stopId": "2507"
       },
@@ -14914,7 +14749,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Delvale N",
+        "title": "Sunset Ave and Delvale St N",
         "tag": "02503",
         "stopId": "2503"
       },
@@ -14929,7 +14764,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Francisquito N",
+        "title": "Sunset Ave and Francisquito Ave N",
         "tag": "02511",
         "stopId": "2511"
       },
@@ -14944,7 +14779,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Farlington N",
+        "title": "Sunset Ave and Farlington St N",
         "tag": "02509",
         "stopId": "2509"
       },
@@ -14959,7 +14794,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Durness N",
+        "title": "Sunset Ave and Durness St N",
         "tag": "02505",
         "stopId": "2505"
       },
@@ -15026,7 +14861,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.90816,
+          -117.9081599,
           34.0610099
         ]
       }
@@ -15041,8 +14876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8986699,
-          34.0609699
+          -117.89867,
+          34.06097
         ]
       }
     },
@@ -15056,7 +14891,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8943599,
+          -117.89436,
           34.06091
         ]
       }
@@ -15087,7 +14922,7 @@
         "type": "Point",
         "coordinates": [
           -117.89011,
-          34.06445
+          34.0644499
         ]
       }
     },
@@ -15139,7 +14974,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rowland Ave and 2nd St N",
+        "title": "Rowland Ave and Second Ave N",
         "tag": "02295",
         "stopId": "2295"
       },
@@ -15154,7 +14989,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2nd St and Puente St N",
+        "title": "Second Ave and Puente St N",
         "tag": "00519",
         "stopId": "519"
       },
@@ -15169,7 +15004,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2nd St and College St N",
+        "title": "Second Ave and College St N",
         "tag": "00517",
         "stopId": "517"
       },
@@ -15214,15 +15049,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Citrus Ave and Covina Blvd N",
-        "tag": "00944",
-        "stopId": "944"
+        "title": "Covina Transit Center",
+        "tag": "06129",
+        "stopId": "6129"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8901099,
-          34.0998799
+          -117.8897699,
+          34.1000599
         ]
       }
     },
@@ -15236,7 +15071,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8901699,
+          -117.89017,
           34.1065899
         ]
       }
@@ -15251,8 +15086,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8901699,
-          34.10919
+          -117.89017,
+          34.1091899
         ]
       }
     },
@@ -15319,7 +15154,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Citrus Ave N",
+        "title": "Citrus Ave and Foothill Blvd N",
         "tag": "00178",
         "stopId": "178"
       },
@@ -15357,7 +15192,7 @@
         "type": "Point",
         "coordinates": [
           -117.8901999,
-          34.12828
+          34.1282799
         ]
       }
     },
@@ -15372,7 +15207,7 @@
         "type": "Point",
         "coordinates": [
           -117.8902099,
-          34.1247699
+          34.12477
         ]
       }
     },
@@ -15387,7 +15222,7 @@
         "type": "Point",
         "coordinates": [
           -117.8902499,
-          34.12167
+          34.1216699
         ]
       }
     },
@@ -15416,8 +15251,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8902999,
-          34.11374
+          -117.8903,
+          34.1137399
         ]
       }
     },
@@ -15431,7 +15266,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8903,
+          -117.8902999,
           34.1090299
         ]
       }
@@ -15439,30 +15274,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Citrus Ave and Arrow Hwy S",
-        "tag": "00933",
-        "stopId": "933"
+        "title": "Arrow Hwy and Citrus Ave S",
+        "tag": "06131",
+        "stopId": "6131"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8903199,
-          34.10643
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Citrus Ave and Covina Blvd S",
-        "tag": "00945",
-        "stopId": "945"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8903499,
-          34.0990499
+          -117.88978,
+          34.10668
         ]
       }
     },
@@ -15476,8 +15296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.89033,
-          34.09596
+          -117.8903299,
+          34.0959599
         ]
       }
     },
@@ -15499,7 +15319,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2nd St and San Bernardino Rd S",
+        "title": "Second Ave and San Bernardino Rd S",
         "tag": "00522",
         "stopId": "522"
       },
@@ -15514,7 +15334,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2nd St and College St S",
+        "title": "Second Ave and College St S",
         "tag": "00518",
         "stopId": "518"
       },
@@ -15529,7 +15349,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2nd St and Puente St S",
+        "title": "Second Ave and Puente St S",
         "tag": "00520",
         "stopId": "520"
       },
@@ -15544,7 +15364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2nd St and Rowland Ave S",
+        "title": "Second Ave and Rowland Ave S",
         "tag": "00521",
         "stopId": "521"
       },
@@ -15559,7 +15379,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rowland Ave and Citrus Ave N",
+        "title": "Citrus Ave and Rowland Ave N",
         "tag": "02303",
         "stopId": "2303"
       },
@@ -15656,7 +15476,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.90762,
+          -117.9076199,
           34.0611699
         ]
       }
@@ -15686,8 +15506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.91709,
-          34.06125
+          -117.9170899,
+          34.0612499
         ]
       }
     },
@@ -15709,7 +15529,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Durness S",
+        "title": "Sunset Ave and Durness St S",
         "tag": "02506",
         "stopId": "2506"
       },
@@ -15724,22 +15544,22 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Farlington S",
+        "title": "Sunset Ave and Farlington St S",
         "tag": "02510",
         "stopId": "2510"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.9517999,
-          34.05619
+          -117.9518,
+          34.0561899
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Francisquito S",
+        "title": "Sunset Ave and Francisquito Ave S",
         "tag": "02512",
         "stopId": "2512"
       },
@@ -15754,7 +15574,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Delvale S",
+        "title": "Sunset Ave and Delvale St S",
         "tag": "02504",
         "stopId": "2504"
       },
@@ -15769,7 +15589,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Fairgrove S",
+        "title": "Sunset Ave and Fairgrove Ave S",
         "tag": "02508",
         "stopId": "2508"
       },
@@ -15799,7 +15619,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Homeward S",
+        "title": "Sunset Ave and Homeward St S",
         "tag": "02514",
         "stopId": "2514"
       },
@@ -15814,7 +15634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Temple S",
+        "title": "Sunset Ave and Temple Ave S",
         "tag": "02528",
         "stopId": "2528"
       },
@@ -15829,7 +15649,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sunset Ave and Nelson S",
+        "title": "Sunset Ave and Nelson Ave S",
         "tag": "02519",
         "stopId": "2519"
       },
@@ -15844,7 +15664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "7th St and Valley Blvd S",
+        "title": "Seventh Ave and Valley Blvd S",
         "tag": "00547",
         "stopId": "547"
       },
@@ -15859,7 +15679,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "7th St and Proctor Ave S",
+        "title": "Seventh Ave and Proctor Ave S",
         "tag": "00541",
         "stopId": "541"
       },
@@ -15874,7 +15694,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "7th St and Don Julian Rd S",
+        "title": "Seventh Ave and Don Julian Rd S",
         "tag": "00535",
         "stopId": "535"
       },
@@ -15889,7 +15709,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "7th St and Bonelli St S",
+        "title": "Seventh Ave and Bonelli St S",
         "tag": "00528",
         "stopId": "528"
       },
@@ -15904,7 +15724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "7th St and Clark Ave S",
+        "title": "Seventh Ave and Clark Ave S",
         "tag": "00531",
         "stopId": "531"
       },
@@ -15919,7 +15739,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gale Ave and 7th St S",
+        "title": "Gale Ave and Seventh Ave S",
         "tag": "01377",
         "stopId": "1377"
       },
@@ -15934,7 +15754,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gale Ave and Latchford S",
+        "title": "Gale Ave and Latchford Ave S",
         "tag": "02851",
         "stopId": "2851"
       },
@@ -15979,7 +15799,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gale Ave and Kwis S",
+        "title": "Gale Ave and Kwis Ave S",
         "tag": "01399",
         "stopId": "1399"
       },
@@ -15994,7 +15814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hacienda Blvd & Gale Ave N",
+        "title": "Gale Ave and Hacienda Blvd N",
         "tag": "03035",
         "stopId": "3035"
       },
@@ -16024,7 +15844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gale Ave and Hinnen N",
+        "title": "Gale Ave and Hinnen Ave N",
         "tag": "01393",
         "stopId": "1393"
       },
@@ -16108,21 +15928,6 @@
         "coordinates": [
           -117.9311399,
           34.0001699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "El Monte Station E",
-        "tag": "01172",
-        "stopId": "1172"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.0442,
-          34.0721599
         ]
       }
     },
@@ -16249,7 +16054,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Halliburton  and Ember Glen Rd E",
+        "title": "Halliburton Rd and Ember Glen Rd E",
         "tag": "01699",
         "stopId": "1699"
       },
@@ -16279,7 +16084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Halliburton  and Ember Glen Rd W",
+        "title": "Halliburton Rd and Ember Glen Rd W",
         "tag": "01700",
         "stopId": "1700"
       },
@@ -16444,21 +16249,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "El Monte Station W",
-        "tag": "01171",
-        "stopId": "1171"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.04476,
-          34.0722099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Barranca Ave and Rowland Ave N",
         "tag": "00823",
         "stopId": "823"
@@ -16504,7 +16294,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Puente St and Farber N",
+        "title": "Puente St and Farber Ave N",
         "tag": "02207",
         "stopId": "2207"
       },
@@ -16519,21 +16309,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Puente St N",
-        "tag": "01533",
-        "stopId": "1533"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8637,
-          34.08291
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Glendora Ave and Badillo St N",
         "tag": "01502",
         "stopId": "1502"
@@ -16542,14 +16317,14 @@
         "type": "Point",
         "coordinates": [
           -117.86371,
-          34.08599
+          34.0859899
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Ruddock N",
+        "title": "Glendora Ave and Ruddock St N",
         "tag": "01538",
         "stopId": "1538"
       },
@@ -16564,7 +16339,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Wingate N",
+        "title": "Glendora Ave and Wingate St N",
         "tag": "01545",
         "stopId": "1545"
       },
@@ -16572,7 +16347,7 @@
         "type": "Point",
         "coordinates": [
           -117.8637299,
-          34.0922399
+          34.09224
         ]
       }
     },
@@ -16587,14 +16362,14 @@
         "type": "Point",
         "coordinates": [
           -117.86372,
-          34.0955
+          34.0954999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Covina Blvd",
+        "title": "Glendora Ave and Covina Blvd N",
         "tag": "03111",
         "stopId": "3111"
       },
@@ -16669,7 +16444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Covina Blvd and Carpenter N",
+        "title": "Covina Blvd and 1630 Covina Blvd N",
         "tag": "02862",
         "stopId": "2862"
       },
@@ -16684,7 +16459,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Covina Blvd and Valley Center N",
+        "title": "Covina Blvd and Valley Center Ave N",
         "tag": "01128",
         "stopId": "1128"
       },
@@ -16699,7 +16474,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Covina Blvd and Badillo St N",
+        "title": "Covina Blvd and Hospital Entrance N",
         "tag": "01110",
         "stopId": "1110"
       },
@@ -16782,7 +16557,7 @@
         "type": "Point",
         "coordinates": [
           -117.8288,
-          34.1142899
+          34.11429
         ]
       }
     },
@@ -16804,7 +16579,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lone Hill Ave and Petunia W",
+        "title": "Lone Hill Ave and Petunia St W",
         "tag": "01958",
         "stopId": "1958"
       },
@@ -16812,14 +16587,14 @@
         "type": "Point",
         "coordinates": [
           -117.82879,
-          34.1227399
+          34.12274
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Lone Hill Ave and Kenoma W",
+        "title": "Lone Hill Ave and Kenoma St W",
         "tag": "01950",
         "stopId": "1950"
       },
@@ -16849,7 +16624,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lone Hill Ave and Palopinto N",
+        "title": "Lone Hill Ave and Palopinto Ave N",
         "tag": "01954",
         "stopId": "1954"
       },
@@ -16879,7 +16654,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Whispering Oaks S",
+        "title": "Foothill Blvd and Whispering Oaks Dr N",
         "tag": "01345",
         "stopId": "1345"
       },
@@ -16894,7 +16669,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Valley Center Dr S",
+        "title": "Foothill Blvd and Valley Center Ave N",
         "tag": "01327",
         "stopId": "1327"
       },
@@ -16909,22 +16684,22 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Loraine S",
+        "title": "Foothill Blvd and Loraine Ave S",
         "tag": "01266",
         "stopId": "1266"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8461,
-          34.1361799
+          -117.8460999,
+          34.13618
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Elwood S",
+        "title": "Foothill Blvd and Elwood Ave N",
         "tag": "01231",
         "stopId": "1231"
       },
@@ -16939,7 +16714,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Live Oak S",
+        "title": "Foothill Blvd and Live Oak Ave S",
         "tag": "01258",
         "stopId": "1258"
       },
@@ -16954,7 +16729,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Minnesota S",
+        "title": "Foothill Blvd and Minnesota Ave S",
         "tag": "01276",
         "stopId": "1276"
       },
@@ -16969,7 +16744,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Foothill S",
+        "title": "Glendora Ave and Foothill Blvd S",
         "tag": "01517",
         "stopId": "1517"
       },
@@ -16977,14 +16752,14 @@
         "type": "Point",
         "coordinates": [
           -117.8655499,
-          34.13569
+          34.1356899
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Ada St S",
+        "title": "Glendora Ave and Ada Ave S",
         "tag": "01499",
         "stopId": "1499"
       },
@@ -17007,14 +16782,14 @@
         "type": "Point",
         "coordinates": [
           -117.86373,
-          34.12926
+          34.1292599
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Ada St N",
+        "title": "Glendora Ave and Ada Ave N",
         "tag": "01498",
         "stopId": "1498"
       },
@@ -17022,14 +16797,14 @@
         "type": "Point",
         "coordinates": [
           -117.86543,
-          34.1325999
+          34.1326
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Foothill N",
+        "title": "Glendora Ave and Foothill Blvd N",
         "tag": "01516",
         "stopId": "1516"
       },
@@ -17044,7 +16819,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Minnesota N",
+        "title": "Foothill Blvd and Minnesota Ave N",
         "tag": "01275",
         "stopId": "1275"
       },
@@ -17059,7 +16834,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Live Oak N",
+        "title": "Foothill Blvd and Live Oak Ave Ave N",
         "tag": "01257",
         "stopId": "1257"
       },
@@ -17074,7 +16849,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Elwood N",
+        "title": "Foothill Blvd and Elwood Ave N",
         "tag": "01230",
         "stopId": "1230"
       },
@@ -17089,7 +16864,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Loraine N",
+        "title": "Foothill Blvd and Loraine Ave N",
         "tag": "01265",
         "stopId": "1265"
       },
@@ -17104,22 +16879,22 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Valley Center Dr E",
+        "title": "Foothill Blvd and Valley Center Ave E",
         "tag": "01325",
         "stopId": "1325"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.83715,
-          34.1360499
+          -117.8371499,
+          34.13605
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Gordon Ave. N",
+        "title": "Foothill Blvd and Gordon Ave N",
         "tag": "01344",
         "stopId": "1344"
       },
@@ -17134,7 +16909,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Lone Hill N",
+        "title": "Foothill Blvd and Lone Hill Ave N",
         "tag": "01261",
         "stopId": "1261"
       },
@@ -17149,7 +16924,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lone Hill Ave and Palopinto S",
+        "title": "Lone Hill Ave and Palopinto Ave S",
         "tag": "01955",
         "stopId": "1955"
       },
@@ -17179,7 +16954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lone Hill Ave and Kenoma E",
+        "title": "Lone Hill Ave and Kenoma St E",
         "tag": "01949",
         "stopId": "1949"
       },
@@ -17194,7 +16969,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lone Hill Ave and Petunia E",
+        "title": "Lone Hill Ave and Petunia St E",
         "tag": "01957",
         "stopId": "1957"
       },
@@ -17209,29 +16984,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lone Hill Park and Ride  E",
-        "tag": "01964",
-        "stopId": "1964"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8290599,
-          34.1199999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lone Hill and Gladstone",
+        "title": "Lone Hill AVe and Gladstone St S",
         "tag": "03119",
         "stopId": "3119"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.82904,
+          -117.8290399,
           34.1141599
         ]
       }
@@ -17239,7 +16999,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lone Hill Ave and Overland Ct E",
+        "title": "Lone Hill Ave and Las Colinas S",
         "tag": "01951",
         "stopId": "1951"
       },
@@ -17261,8 +17021,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.82903,
-          34.1064599
+          -117.8290299,
+          34.10646
         ]
       }
     },
@@ -17276,8 +17036,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8290299,
-          34.1029499
+          -117.82903,
+          34.10295
         ]
       }
     },
@@ -17314,14 +17074,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Covina Blvd and Valley Center S",
+        "title": "Covina Blvd and Valley Center Ave S",
         "tag": "01129",
         "stopId": "1129"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.838,
+          -117.8379999,
           34.0995299
         ]
       }
@@ -17329,7 +17089,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Covina Blvd and Carpenter S",
+        "title": "Covina Blvd and 1635 Covina Blvd. S",
         "tag": "02845",
         "stopId": "2845"
       },
@@ -17351,7 +17111,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.84675,
+          -117.8467499,
           34.0995199
         ]
       }
@@ -17366,7 +17126,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.84944,
+          -117.8494399,
           34.0994999
         ]
       }
@@ -17381,8 +17141,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.85488,
-          34.0994899
+          -117.8548799,
+          34.09949
         ]
       }
     },
@@ -17396,8 +17156,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.86023,
-          34.0994499
+          -117.8602299,
+          34.09945
         ]
       }
     },
@@ -17411,7 +17171,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8639299,
+          -117.86393,
           34.0990499
         ]
       }
@@ -17427,7 +17187,7 @@
         "type": "Point",
         "coordinates": [
           -117.86392,
-          34.0959999
+          34.096
         ]
       }
     },
@@ -17441,15 +17201,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.86392,
-          34.09215
+          -117.8639199,
+          34.0921499
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendora Ave and Ruddock S",
+        "title": "Glendora Ave and Ruddock St S",
         "tag": "01539",
         "stopId": "1539"
       },
@@ -17457,7 +17217,7 @@
         "type": "Point",
         "coordinates": [
           -117.8639,
-          34.0895
+          34.0894999
         ]
       }
     },
@@ -17471,8 +17231,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8638999,
-          34.0858799
+          -117.8639,
+          34.08588
         ]
       }
     },
@@ -17494,14 +17254,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Puente St and Farber S",
+        "title": "Puente St and Farber Ave S",
         "tag": "02208",
         "stopId": "2208"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8684199,
+          -117.86842,
           34.0825899
         ]
       }
@@ -17516,7 +17276,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8728899,
+          -117.87289,
           34.08257
         ]
       }
@@ -18034,7 +17794,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "State College and Birch N",
+        "title": "State College Blvd and Birch St N",
         "tag": "03062",
         "stopId": "3062"
       },
@@ -18049,7 +17809,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "State College and Lambert N",
+        "title": "State College Blvd and Lambert Rd N",
         "tag": "03065",
         "stopId": "3065"
       },
@@ -18267,7 +18027,7 @@
         "type": "Point",
         "coordinates": [
           -117.80886,
-          34.0196599
+          34.01966
         ]
       }
     },
@@ -18282,7 +18042,7 @@
         "type": "Point",
         "coordinates": [
           -117.81181,
-          34.0245599
+          34.02456
         ]
       }
     },
@@ -18296,8 +18056,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8103699,
-          34.0289
+          -117.81037,
+          34.0288999
         ]
       }
     },
@@ -18409,15 +18169,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mission Blvd and White E",
+        "title": "Mission Blvd and Cypress St E",
         "tag": "02026",
         "stopId": "2026"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7585,
-          34.0548399
+          -117.7578599,
+          34.05477
         ]
       }
     },
@@ -18461,8 +18221,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.75008,
-          34.0571
+          -117.7500799,
+          34.0570999
         ]
       }
     },
@@ -18672,7 +18432,7 @@
         "type": "Point",
         "coordinates": [
           -117.80882,
-          34.0191699
+          34.01917
         ]
       }
     },
@@ -18874,7 +18634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "State College and Lambert S",
+        "title": "State College Blvd and Lambert Rd S",
         "tag": "03084",
         "stopId": "3084"
       },
@@ -18889,7 +18649,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "State College and Birch S",
+        "title": "State College Blvd and Birch St S",
         "tag": "03086",
         "stopId": "3086"
       },
@@ -19699,81 +19459,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Towne Ave and Foothill (Revive Church)",
-        "tag": "02806",
-        "stopId": "2806"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.73673,
-          34.1081299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Towne Ave and Scripps Dr (291 Limited)",
-        "tag": "02788",
-        "stopId": "2788"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7365999,
-          34.11704
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline Rd and Towne Ave N",
-        "tag": "03616",
-        "stopId": "3616"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.73689,
-          34.1217099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline Rd and LeRoy Hanes N",
-        "tag": "06120",
-        "stopId": "6120"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7543,
-          34.1207299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fruit St and Foothill Terrace Mobile Home",
-        "tag": "02787",
-        "stopId": "2787"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7616799,
-          34.1160099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Garey Ave and Foothill S",
         "tag": "01431",
         "stopId": "1431"
@@ -19804,7 +19489,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Garey Ave and Grove S",
+        "title": "Garey Ave and Grove St S",
         "tag": "01439",
         "stopId": "1439"
       },
@@ -19864,7 +19549,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Garey Ave and LaVerne S",
+        "title": "Garey Ave and La Verne Ave S",
         "tag": "01448",
         "stopId": "1448"
       },
@@ -19894,7 +19579,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Garey Ave and Willow S",
+        "title": "Garey Ave and Willow St S",
         "tag": "01466",
         "stopId": "1466"
       },
@@ -19924,7 +19609,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Garey Ave and Orange Grove S",
+        "title": "Garey Ave and Orange Grove Ave S",
         "tag": "01458",
         "stopId": "1458"
       },
@@ -19939,7 +19624,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Garey Ave and Jefferson S",
+        "title": "Garey Ave and Jefferson Ave S",
         "tag": "01446",
         "stopId": "1446"
       },
@@ -19954,7 +19639,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Garey Ave and Alvarado S",
+        "title": "Garey Ave and Alvarado St S",
         "tag": "01423",
         "stopId": "1423"
       },
@@ -20383,21 +20068,6 @@
         "coordinates": [
           -117.7032199,
           34.0989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Claremont Blvd and 1st St W",
-        "tag": "00977",
-        "stopId": "977"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.70523,
-          34.0947399
         ]
       }
     },
@@ -20839,7 +20509,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Baseline Rd and Mills Ave N",
+        "title": "Baseline Rd and Edinboro Ave N",
         "tag": "00833",
         "stopId": "833"
       },
@@ -21304,21 +20974,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Arrow Hwy and Claremont Blvd N",
-        "tag": "00643",
-        "stopId": "643"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.7064499,
-          34.0925799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Arrow Hwy and Monte Vista Ave E",
         "tag": "00695",
         "stopId": "695"
@@ -21341,8 +20996,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.69582,
-          34.08855
+          -117.6958199,
+          34.0885499
         ]
       }
     },
@@ -21356,7 +21011,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.6935099,
+          -117.69351,
           34.08853
         ]
       }
@@ -21371,8 +21026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.6903599,
-          34.09522
+          -117.69036,
+          34.0952199
         ]
       }
     },
@@ -21394,7 +21049,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Richton and Central W",
+        "title": "Richton St and Central Ave W",
         "tag": "02248",
         "stopId": "2248"
       },
@@ -21409,7 +21064,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Moreno and Target Drive W",
+        "title": "Moreno St and Target Ln W",
         "tag": "02042",
         "stopId": "2042"
       },
@@ -21424,7 +21079,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Moreno and Monte Vista W",
+        "title": "Monte Vista Ave and Moreno St W",
         "tag": "02041",
         "stopId": "2041"
       },
@@ -21814,7 +21469,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Colima Rd and Fairway Dr E",
+        "title": "Colima Rd and Brea Canyon Cut-off Rd E",
         "tag": "01005",
         "stopId": "1005"
       },
@@ -21859,7 +21514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Golden Springs Dr and Lemon E",
+        "title": "Golden Springs Dr and Lemon Ave E",
         "tag": "01573",
         "stopId": "1573"
       },
@@ -22646,8 +22301,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.03085,
-          34.06276
+          -118.0308499,
+          34.0627599
         ]
       }
     },
@@ -23576,8 +23231,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0321699,
-          34.07268
+          -118.03217,
+          34.0726799
         ]
       }
     },
@@ -23621,8 +23276,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.01697,
-          34.0747399
+          -118.0169699,
+          34.07474
         ]
       }
     },
@@ -23839,21 +23494,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Vincent Ave and Lakes Dr E",
-        "tag": "02645",
-        "stopId": "2645"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.9266999,
-          34.06931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Vincent Ave and Workman Ave N",
         "tag": "02651",
         "stopId": "2651"
@@ -23989,7 +23629,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Grand Ave and Wingate E",
+        "title": "Grand Ave and Wingate St E",
         "tag": "01652",
         "stopId": "1652"
       },
@@ -24169,7 +23809,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Citrus College Barranca and Foothill E/B",
+        "title": "Barranca Ave and Foothill Blvd W",
         "tag": "03026",
         "stopId": "3026"
       },
@@ -24184,7 +23824,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Citrus College Foothill Blvd and Barranca Ave",
+        "title": "Foothill Blvd and Barranca Ave E",
         "tag": "01240",
         "stopId": "1240"
       },
@@ -24214,7 +23854,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Grand E",
+        "title": "Foothill Blvd and Grand Ave E",
         "tag": "01248",
         "stopId": "1248"
       },
@@ -24529,21 +24169,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Vincent Ave and Plaza Dr W",
-        "tag": "02648",
-        "stopId": "2648"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.92708,
-          34.0693099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Francisquito and Hacienda W",
         "tag": "01362",
         "stopId": "1362"
@@ -24784,6 +24409,426 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Figueroa St and 9th St E",
+        "tag": "01188",
+        "stopId": "1188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.26246,
+          34.0464799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Figueroa St and 8th St E",
+        "tag": "01187",
+        "stopId": "1187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.26128,
+          34.0477999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Figueroa St and 7th St E",
+        "tag": "01186",
+        "stopId": "1186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2599399,
+          34.04925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Figueroa St and 5th St E",
+        "tag": "01185",
+        "stopId": "1185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25741,
+          34.0518999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Figueroa St and 3rd St E",
+        "tag": "01747",
+        "stopId": "1747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2542599,
+          34.05523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1st St and Hope St E",
+        "tag": "01745",
+        "stopId": "1745"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24965,
+          34.0562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1st St and Hill E",
+        "tag": "00507",
+        "stopId": "507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24671,
+          34.05433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spring St and 1st St E",
+        "tag": "02474",
+        "stopId": "2474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24381,
+          34.0535699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Aliso St and Los Angeles St E",
+        "tag": "00549",
+        "stopId": "549"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2396899,
+          34.0548799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union Station (Busway Entrance) E",
+        "tag": "02591",
+        "stopId": "2591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23672,
+          34.05431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "USC Medical Center E",
+        "tag": "02593",
+        "stopId": "2593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2104,
+          34.0553899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cal State LA E",
+        "tag": "00896",
+        "stopId": "896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1681,
+          34.0624999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grand Ave and Carter Dr E",
+        "tag": "06130",
+        "stopId": "6130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.87248,
+          34.1070799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Base Line Rd and Grand Ave W",
+        "tag": "00831",
+        "stopId": "831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.873,
+          34.1215199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Base Line Rd and Grand Ave E",
+        "tag": "00830",
+        "stopId": "830"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.87469,
+          34.1213799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cal State LA W",
+        "tag": "00897",
+        "stopId": "897"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16787,
+          34.0628399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "USC Medical Center W",
+        "tag": "02594",
+        "stopId": "2594"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21054,
+          34.0554199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Arcadia St and Alameda St (Union Station)",
+        "tag": "02818",
+        "stopId": "2818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2374999,
+          34.0544599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Arcadia St and Los Angeles St W",
+        "tag": "00618",
+        "stopId": "618"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23905,
+          34.05525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spring St and Temple St W",
+        "tag": "03015",
+        "stopId": "3015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2425399,
+          34.0551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spring St and 1st St W",
+        "tag": "02475",
+        "stopId": "2475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24347,
+          34.0540599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "1st St and Hill St W",
+        "tag": "03169",
+        "stopId": "3169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2468799,
+          34.0545799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hope St and 1st St W",
+        "tag": "03153",
+        "stopId": "3153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2501999,
+          34.05617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Flower St. and 3rd St.",
+        "tag": "03589",
+        "stopId": "3589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25382,
+          34.0540699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Flower St and 4th St S",
+        "tag": "03162",
+        "stopId": "3162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2546,
+          34.0532199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "6th St and Hope St/ Flower St W",
+        "tag": "01193",
+        "stopId": "1193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25693,
+          34.04976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hope St and 8th St W",
+        "tag": "01750",
+        "stopId": "1750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25935,
+          34.0462799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hope St and 9th St W",
+        "tag": "01751",
+        "stopId": "1751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.26084,
+          34.0447099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Santa Anita Ave and Valley Blvd E",
         "tag": "02434",
         "stopId": "2434"
@@ -24821,8 +24866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.03104,
-          34.0849999
+          -118.0310399,
+          34.085
         ]
       }
     },
@@ -24836,8 +24881,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0273199,
-          34.08885
+          -118.02732,
+          34.0888499
         ]
       }
     },
@@ -24852,7 +24897,7 @@
         "type": "Point",
         "coordinates": [
           -118.02634,
-          34.0919099
+          34.09191
         ]
       }
     },
@@ -24896,8 +24941,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.0296899,
-          34.1035999
+          -118.02969,
+          34.1036
         ]
       }
     },
@@ -25691,7 +25736,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.6959599,
+          -117.69596,
           34.08854
         ]
       }
@@ -25706,8 +25751,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.69367,
-          34.0885499
+          -117.6936699,
+          34.08855
         ]
       }
     },
@@ -25864,15 +25909,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bonita Ave and Park Ave W",
+        "title": "Bonita Ave and Magnolia Ave W",
         "tag": "00874",
         "stopId": "874"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.7778799,
-          34.1036899
+          -117.7786999,
+          34.1039699
         ]
       }
     },
@@ -25901,7 +25946,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.79384,
+          -117.7938399,
           34.1067299
         ]
       }
@@ -25963,6 +26008,21 @@
         "coordinates": [
           -117.8161699,
           34.10677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bonita Ave and Arrow Hwy W",
+        "tag": "00850",
+        "stopId": "850"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8185599,
+          34.1067799
         ]
       }
     },
@@ -26156,8 +26216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.89071,
-          34.1069099
+          -117.89012,
+          34.1068999
         ]
       }
     },
@@ -26171,8 +26231,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.89861,
-          34.1068799
+          -117.8986099,
+          34.10688
         ]
       }
     },
@@ -26359,7 +26419,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Live Oak and Longden W",
+        "title": "Live Oak Ave and Longden Ave W",
         "tag": "01935",
         "stopId": "1935"
       },
@@ -26374,7 +26434,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Live Oak and Myrtle W",
+        "title": "Live Oak Ave and Myrtle Ave W",
         "tag": "01940",
         "stopId": "1940"
       },
@@ -26389,7 +26449,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Live Oak and Mayflower W",
+        "title": "Live Oak Ave and Mayflower Ave W",
         "tag": "01937",
         "stopId": "1937"
       },
@@ -26404,7 +26464,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Live Oak and 10th St W",
+        "title": "Live Oak Ave and 10th Ave W",
         "tag": "01925",
         "stopId": "1925"
       },
@@ -26419,7 +26479,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Live Oak and Foss W",
+        "title": "Live Oak Ave and Foss Ave W",
         "tag": "01931",
         "stopId": "1931"
       },
@@ -26464,7 +26524,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Live Oak and Greenfield W",
+        "title": "Live Oak Ave and Greenfield Ave W",
         "tag": "01932",
         "stopId": "1932"
       },
@@ -26494,7 +26554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Daines W",
+        "title": "Santa Anita Ave and Daines Dr W",
         "tag": "02399",
         "stopId": "2399"
       },
@@ -26509,7 +26569,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Freer W",
+        "title": "Santa Anita Ave and Freer St W",
         "tag": "02406",
         "stopId": "2406"
       },
@@ -26539,7 +26599,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Lower Azusa W",
+        "title": "Santa Anita Ave and Lower Azusa Rd W",
         "tag": "02418",
         "stopId": "2418"
       },
@@ -26554,7 +26614,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Mulhall W",
+        "title": "Santa Anita Ave and Mulhall St W",
         "tag": "02425",
         "stopId": "2425"
       },
@@ -26569,7 +26629,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Tyler W",
+        "title": "Santa Anita Ave and Tyler Ave W",
         "tag": "02433",
         "stopId": "2433"
       },
@@ -26584,7 +26644,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santa Anita Ave and Bryant W",
+        "title": "Santa Anita Ave and Bryant Rd W",
         "tag": "02393",
         "stopId": "2393"
       },
@@ -26608,366 +26668,6 @@
         "coordinates": [
           -118.0409499,
           34.07689
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Figueroa St and 9th St E",
-        "tag": "01188",
-        "stopId": "1188"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.26246,
-          34.0464799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Figueroa St and 8th St E",
-        "tag": "01187",
-        "stopId": "1187"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.26128,
-          34.0477999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Figueroa St and 5th St E",
-        "tag": "01185",
-        "stopId": "1185"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2574099,
-          34.0519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Figueroa St and 3rd St E",
-        "tag": "01747",
-        "stopId": "1747"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.25426,
-          34.0552299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "1st St and Hope St E",
-        "tag": "01745",
-        "stopId": "1745"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.24965,
-          34.0562
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "1st St and Hill E",
-        "tag": "00507",
-        "stopId": "507"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2467099,
-          34.0543299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Spring St and 1st St E",
-        "tag": "02474",
-        "stopId": "2474"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.24381,
-          34.0535699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Aliso St and Los Angeles St E",
-        "tag": "00549",
-        "stopId": "549"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2396899,
-          34.0548799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Union Station (Busway Entrance) E",
-        "tag": "02591",
-        "stopId": "2591"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.23672,
-          34.05431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "USC Medical Center E",
-        "tag": "02593",
-        "stopId": "2593"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2104,
-          34.0553899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cal State LA E",
-        "tag": "00896",
-        "stopId": "896"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.1681,
-          34.0624999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cal State LA W",
-        "tag": "00897",
-        "stopId": "897"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.16787,
-          34.0628399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "USC Medical Center W",
-        "tag": "02594",
-        "stopId": "2594"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.21054,
-          34.0554199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Arcadia St and Alameda St (Union Station)",
-        "tag": "02818",
-        "stopId": "2818"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2374999,
-          34.0544599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Arcadia St and Los Angeles St W",
-        "tag": "00618",
-        "stopId": "618"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.23905,
-          34.05525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Spring St and Temple St W",
-        "tag": "03015",
-        "stopId": "3015"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2425399,
-          34.0551
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Spring St and 1st St W",
-        "tag": "02475",
-        "stopId": "2475"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.24347,
-          34.0540599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "1st St and Hill St W",
-        "tag": "03169",
-        "stopId": "3169"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2468799,
-          34.0545799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hope St and 1st St W",
-        "tag": "03153",
-        "stopId": "3153"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2501999,
-          34.05617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Flower St. and 3rd St.",
-        "tag": "03589",
-        "stopId": "3589"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.25382,
-          34.0540699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Flower St and 4th St S",
-        "tag": "03162",
-        "stopId": "3162"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2546,
-          34.0532199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "6th St and Hope St/ Flower St W",
-        "tag": "01193",
-        "stopId": "1193"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.25693,
-          34.04976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hope St and 8th St W",
-        "tag": "01750",
-        "stopId": "1750"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.25935,
-          34.0462799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hope St and 9th St W",
-        "tag": "01751",
-        "stopId": "1751"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.26084,
-          34.0447099
         ]
       }
     },
@@ -26998,66 +26698,6 @@
         "coordinates": [
           -117.95429,
           34.0217199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Chino Park and Ride   W",
-        "tag": "00927",
-        "stopId": "927"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.73312,
-          34.0112499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "1st St and Grand Ave E",
-        "tag": "00504",
-        "stopId": "504"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2484699,
-          34.0553499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline Rd and Grand Ave W",
-        "tag": "00831",
-        "stopId": "831"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.873,
-          34.1215199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baseline Rd and Grand Ave E",
-        "tag": "00830",
-        "stopId": "830"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.87282,
-          34.1213399
         ]
       }
     },
@@ -27109,22 +26749,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Citrus Ave S",
-        "tag": "01208",
-        "stopId": "1208"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.88893,
-          34.1360899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Foothill Blvd and Glendora E",
+        "title": "Foothill Blvd and Glendora Ave E",
         "tag": "01246",
         "stopId": "1246"
       },
@@ -27154,14 +26779,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Glendora W",
+        "title": "Foothill Blvd and Glendora Ave W",
         "tag": "01247",
         "stopId": "1247"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8659199,
+          -117.86592,
           34.13608
         ]
       }
@@ -27169,14 +26794,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Grand W",
+        "title": "Foothill Blvd and Grand Ave W",
         "tag": "01249",
         "stopId": "1249"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.87219,
+          -117.8721899,
           34.13608
         ]
       }
@@ -27289,15 +26914,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Olive Ave and 8th St E",
+        "title": "Olive Ave and 7th St E",
         "tag": "02095",
         "stopId": "2095"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.25666,
-          34.0452799
+          -118.25553,
+          34.0463599
         ]
       }
     },
@@ -27311,8 +26936,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.2529499,
-          34.04926
+          -118.25295,
+          34.0492599
         ]
       }
     },
@@ -27328,6 +26953,36 @@
         "coordinates": [
           -118.24671,
           34.05433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "El Monte Station E",
+        "tag": "01172",
+        "stopId": "1172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0442,
+          34.0721599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "El Monte Station W",
+        "tag": "01171",
+        "stopId": "1171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.04476,
+          34.0722099
         ]
       }
     },
@@ -27379,7 +27034,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Grand Ave and 8th St W",
+        "title": "Grand Ave and 7th St W",
         "tag": "01600",
         "stopId": "1600"
       },
@@ -27409,21 +27064,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Flower St and 11 St W",
-        "tag": "02994",
-        "stopId": "2994"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.26413,
-          34.0430699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Flower St and Pico Blvd (LA Convention Center)",
         "tag": "03622",
         "stopId": "3622"
@@ -27446,8 +27086,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8596399,
-          34.08639
+          -117.85964,
+          34.0863899
         ]
       }
     },
@@ -27461,8 +27101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8534099,
-          34.08926
+          -117.85341,
+          34.0892599
         ]
       }
     },
@@ -27477,22 +27117,7 @@
         "type": "Point",
         "coordinates": [
           -117.84632,
-          34.09608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Glendora Ave and Covina Blvd N",
-        "tag": "01510",
-        "stopId": "1510"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.86376,
-          34.0995499
+          34.0960799
         ]
       }
     },
@@ -27642,22 +27267,7 @@
         "type": "Point",
         "coordinates": [
           -117.86662,
-          34.13975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bennett Ave and Washington Ave N",
-        "tag": "00844",
-        "stopId": "844"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8689399,
-          34.13975
+          34.1397499
         ]
       }
     },
@@ -27679,7 +27289,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Grand Ave and Leadora N",
+        "title": "Grand Ave and Leadora Ave N",
         "tag": "01629",
         "stopId": "1629"
       },
@@ -27694,7 +27304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Grand Ave and Sierra Madre N",
+        "title": "Grand Ave and Sierra Madre Ave N",
         "tag": "01646",
         "stopId": "1646"
       },
@@ -27709,44 +27319,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra Madre and Bubbling Well N",
-        "tag": "02458",
-        "stopId": "2458"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8691,
-          34.14692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Madre and Glendora N",
-        "tag": "02462",
-        "stopId": "2462"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8655099,
-          34.1469099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Madre and Cullen N",
+        "title": "Sierra Madre Ave and Cullen Ave N",
         "tag": "02460",
         "stopId": "2460"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8595099,
+          -117.85951,
           34.14686
         ]
       }
@@ -27754,14 +27334,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra Madre and Live Oak N",
+        "title": "Sierra Madre Ave and Live Oak Ave. N",
         "tag": "02464",
         "stopId": "2464"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8547199,
+          -117.85472,
           34.1468899
         ]
       }
@@ -27769,7 +27349,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra Madre and Northridge N",
+        "title": "Sierra Madre Ave and Northridge Ave N",
         "tag": "02468",
         "stopId": "2468"
       },
@@ -27784,7 +27364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra Madre and Loraine N",
+        "title": "Sierra Madre Ave and Loraine Ave N",
         "tag": "02466",
         "stopId": "2466"
       },
@@ -27799,14 +27379,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra Madre and Treanor N",
+        "title": "Sierra Madre Ave and Treanor Ave N",
         "tag": "02470",
         "stopId": "2470"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8437099,
+          -117.84371,
           34.14686
         ]
       }
@@ -27814,37 +27394,37 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra Madre and Fountain Springs N",
+        "title": "Sierra Madre Ave and Fountain Springs Ln N",
         "tag": "02461",
         "stopId": "2461"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.83935,
-          34.1469099
+          -117.8393499,
+          34.14691
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Valley Center Dr and Catherine Park N",
+        "title": "Valley Center Ave and Catherine Park Dr N",
         "tag": "02632",
         "stopId": "2632"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.83737,
-          34.1422299
+          -117.8373699,
+          34.14223
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Foothill Blvd and Loraine W",
+        "title": "Foothill Blvd and Loraine Ave W",
         "tag": "01267",
         "stopId": "1267"
       },
@@ -27859,37 +27439,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Loraine and Bennett S",
-        "tag": "01966",
-        "stopId": "1966"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8462199,
-          34.13947
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Loraine and Leadora S",
-        "tag": "01967",
-        "stopId": "1967"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.84618,
-          34.1435099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Madre and Loraine S",
+        "title": "Sierra Madre Ave and Loraine Ave S",
         "tag": "02467",
         "stopId": "2467"
       },
@@ -27904,37 +27454,22 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra Madre and Northridge S",
+        "title": "Sierra Madre Ave and Northridge Ave S",
         "tag": "02469",
         "stopId": "2469"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8489499,
-          34.14703
+          -117.84895,
+          34.1470299
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra Madre and Live Oak S",
-        "tag": "02465",
-        "stopId": "2465"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.85472,
-          34.1470199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sierra Madre and Banna Ave S",
+        "title": "Sierra Madre Ave and Banna Ave S",
         "tag": "02457",
         "stopId": "2457"
       },
@@ -27949,7 +27484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra Madre and Glendora S",
+        "title": "Sierra Madre Ave and Glendora Ave S",
         "tag": "02463",
         "stopId": "2463"
       },
@@ -27964,7 +27499,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sierra Madre and Bubbling Well S",
+        "title": "Sierra Madre Ave and Bubbling Well Dr S",
         "tag": "02459",
         "stopId": "2459"
       },
@@ -27979,7 +27514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Grand Ave and Sierra Madre S",
+        "title": "Grand Ave and Sierra Madre Ave S",
         "tag": "01647",
         "stopId": "1647"
       },
@@ -27994,7 +27529,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Grand Ave and Leadora S",
+        "title": "Grand Ave and Leadora Ave S",
         "tag": "01630",
         "stopId": "1630"
       },
@@ -28009,7 +27544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Grand Ave and Bennett S",
+        "title": "Grand Ave and Bennett Ave S",
         "tag": "01614",
         "stopId": "1614"
       },
@@ -28084,7 +27619,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gladstone St and Rimhurst S",
+        "title": "Gladstone St and Rimhurst Ave S",
         "tag": "01492",
         "stopId": "1492"
       },
@@ -28234,15 +27769,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rowland Ave and San Jose S",
+        "title": "Rowland Ave and Barrana Ave S",
         "tag": "02318",
         "stopId": "2318"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.8829099,
-          34.0790399
+          -117.88291,
+          34.07904
         ]
       }
     },
@@ -28257,7 +27792,7 @@
         "type": "Point",
         "coordinates": [
           -117.8902599,
-          34.07862
+          34.0786199
         ]
       }
     },
@@ -28759,21 +28294,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mountaincrest Rd and Royal Oaks Dr",
-        "tag": "03643",
-        "stopId": "3643"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.9378999,
-          34.14538
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Encanto Pkwy and Encanto Park",
         "tag": "03644",
         "stopId": "3644"
@@ -29059,7 +28579,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mountain Ave and Walmart",
+        "title": "Mountain Ave and Evergreen St (Walmart)",
         "tag": "03663",
         "stopId": "3663"
       },
@@ -29179,7 +28699,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Kellwill Way and Delford Ave",
+        "title": "Kellwil Way and Delford Ave",
         "tag": "03669",
         "stopId": "3669"
       },
@@ -29194,7 +28714,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Kellwill Way and Buena Vista Ave",
+        "title": "Kellwil Way and Buena Vista St",
         "tag": "03670",
         "stopId": "3670"
       },
@@ -29239,7 +28759,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Buena Vista Ave and Bloomdale St",
+        "title": "Buena Vista St and Bloomdale St",
         "tag": "03673",
         "stopId": "3673"
       },
@@ -29402,5 +28922,5 @@
       }
     }
   ],
-  "copyright": "All data copyright Foothill Transit 2019."
+  "copyright": "All data copyright Foothill Transit 2020."
 }

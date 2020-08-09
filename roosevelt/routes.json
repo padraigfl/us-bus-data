@@ -112,8 +112,55 @@
           "trameast"
         ]
       },
-      "scheduledStops": {}
+      "scheduledStops": {
+        "inbound": [
+          "tramwest_n",
+          "octagon_a"
+        ],
+        "outbound": [
+          "octagon",
+          "trameast"
+        ]
+      },
+      "scheduledTimeRange": {
+        "n": {
+          "f": {
+            "first": "07:10:00",
+            "last": "10:10:00"
+          },
+          "mtwth": {
+            "first": "07:10:00",
+            "last": "10:10:00"
+          },
+          "sat": {
+            "first": "07:10:00",
+            "last": "10:10:00"
+          },
+          "sun": {
+            "first": "07:10:00",
+            "last": "10:10:00"
+          }
+        },
+        "s": {
+          "f": {
+            "first": "07:00:00",
+            "last": "10:00:00"
+          },
+          "mtwth": {
+            "first": "07:00:00",
+            "last": "10:00:00"
+          },
+          "sat": {
+            "first": "07:00:00",
+            "last": "10:00:00"
+          },
+          "sun": {
+            "first": "07:00:00",
+            "last": "10:00:00"
+          }
+        }
+      }
     }
   },
-  "copyright": "All data copyright Roosevelt Island 2019."
+  "copyright": "All data copyright Roosevelt Island 2020."
 }

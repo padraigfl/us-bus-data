@@ -324,69 +324,152 @@
           "": true
         }
       },
-      "lon": "-74.014163",
+      "lon": "-74.014237",
       "title": "North End Ave & Warren St",
       "shortTitle": "North End & Warren",
       "stopId": "0035",
       "tag": "neavwar_d",
-      "lat": "40.7171498",
+      "lat": "40.717136",
       "scheduleRoutes": {
         "dtconn": {
-          "west": {
+          "east": {
             "wkd": [
               "09:40:00",
               "09:50:00",
               "10:00:00",
-              "10:10:00"
+              "10:10:00",
+              "10:30:00",
+              "10:40:00",
+              "10:50:00",
+              "11:00:00",
+              "11:10:00",
+              "11:20:00",
+              "11:30:00",
+              "11:35:00",
+              "11:55:00",
+              "11:55:00",
+              "12:05:00",
+              "12:15:00",
+              "12:25:00",
+              "12:35:00",
+              "12:40:00",
+              "12:50:00",
+              "13:00:00",
+              "13:10:00",
+              "13:20:00",
+              "13:30:00",
+              "13:40:00",
+              "13:45:00",
+              "13:55:00",
+              "14:05:00",
+              "14:15:00",
+              "14:25:00",
+              "14:35:00",
+              "14:45:00",
+              "14:50:00",
+              "15:00:00",
+              "15:10:00",
+              "15:20:00",
+              "15:30:00",
+              "15:40:00",
+              "15:50:00",
+              "15:55:00",
+              "16:05:00",
+              "16:15:00",
+              "16:25:00",
+              "16:35:00",
+              "16:45:00",
+              "16:55:00",
+              "17:00:00",
+              "17:10:00",
+              "17:20:00",
+              "17:30:00",
+              "17:40:00",
+              "17:50:00",
+              "18:00:00",
+              "18:05:00",
+              "18:15:00",
+              "18:25:00",
+              "18:35:00",
+              "18:45:00",
+              "18:55:00",
+              "19:05:00",
+              "19:10:00",
+              "19:20:00",
+              "19:30:00",
+              "19:40:00"
             ],
             "wkend": [
               "09:35:00",
               "09:50:00",
               "10:05:00",
-              "10:20:00",
-              "10:35:00",
-              "11:20:00",
-              "11:35:00",
-              "11:50:00",
-              "12:35:00",
-              "12:50:00",
-              "13:05:00",
-              "13:50:00",
-              "14:05:00",
-              "14:20:00",
-              "15:05:00",
-              "15:20:00",
-              "15:35:00",
-              "16:05:00",
-              "16:20:00",
-              "16:35:00",
-              "16:50:00",
-              "17:20:00",
-              "17:35:00",
-              "17:50:00",
-              "18:05:00",
-              "18:50:00",
-              "19:05:00",
-              "18:35:00",
-              "19:20:00",
-              "19:35:00",
-              "19:50:00"
+              "10:30:00",
+              "10:45:00",
+              "11:10:00",
+              "11:15:00",
+              "11:30:00",
+              "11:45:00",
+              "12:00:00",
+              "12:25:00",
+              "12:30:00",
+              "12:45:00",
+              "13:00:00",
+              "13:15:00",
+              "13:40:00",
+              "13:45:00",
+              "14:00:00",
+              "14:15:00",
+              "14:30:00",
+              "14:45:00",
+              "15:00:00",
+              "15:15:00",
+              "15:30:00",
+              "15:40:00",
+              "15:45:00",
+              "16:15:00",
+              "16:30:00",
+              "16:45:00",
+              "17:00:00",
+              "17:15:00",
+              "17:30:00",
+              "17:45:00",
+              "18:00:00",
+              "18:15:00",
+              "18:30:00",
+              "18:45:00",
+              "19:00:00",
+              "19:15:00",
+              "19:30:00"
             ]
           }
         }
       }
     },
-    "chamwbro": {
+    "wargreen": {
       "routes": {
         "dtconn": {
           "": true
         }
       },
-      "lon": "-74.0089098",
-      "title": "Chambers St & West Broadway",
-      "shortTitle": "Chambers & West Broadway",
-      "tag": "chamwbro",
-      "lat": "40.7152996"
+      "lon": "-74.0114124",
+      "title": "Warren St & Greenwich St",
+      "shortTitle": "Warren & Greenwich",
+      "stopId": "0002",
+      "tag": "wargreen",
+      "lat": "40.7157121"
+    },
+    "warrchur": {
+      "routes": {
+        "dtconn": {
+          "": true
+        }
+      },
+      "lon": "-74.0082545",
+      "title": "Warren St & Church St",
+      "shortTitle": "Warren & Church",
+      "stopId": "0003",
+      "tag": "warrchur",
+      "lat": "40.7142863"
     },
     "murbrod": {
       "routes": {
@@ -394,12 +477,12 @@
           "": true
         }
       },
-      "lon": "-74.0074562",
+      "lon": "-74.0074573",
       "title": "Murray St & Broadway",
       "shortTitle": "Murray & Broadway",
       "stopId": "0039",
       "tag": "murbrod",
-      "lat": "40.7131778"
+      "lat": "40.7131783"
     },
     "murgren": {
       "routes": {
@@ -407,12 +490,12 @@
           "": true
         }
       },
-      "lon": "-74.0117681",
+      "lon": "-74.0117693",
       "title": "Murray St & Greenwich St",
       "shortTitle": "Murray & Greenwich",
       "stopId": "0040",
       "tag": "murgren",
-      "lat": "40.7150002"
+      "lat": "40.7150004"
     },
     "neavmury": {
       "routes": {
@@ -420,12 +503,12 @@
           "": true
         }
       },
-      "lon": "-74.015599",
+      "lon": "-74.0155997",
       "title": "North End Ave & Murray St",
       "shortTitle": "North End & Murray",
       "stopId": "0041",
       "tag": "neavmury",
-      "lat": "40.7155734"
+      "lat": "40.7155726"
     },
     "vesworld": {
       "routes": {
@@ -433,12 +516,12 @@
           "": true
         }
       },
-      "lon": "-74.0154375",
+      "lon": "-74.0154364",
       "title": "Vesey St & World Financial Center",
       "shortTitle": "Vesey & World Financial Center",
       "stopId": "0042",
       "tag": "vesworld",
-      "lat": "40.7143571"
+      "lat": "40.7143566"
     },
     "seavgate": {
       "routes": {
@@ -446,12 +529,12 @@
           "": true
         }
       },
-      "lon": "-74.0161641",
+      "lon": "-74.0161644",
       "title": "South End Ave & Gateway Plaza",
       "shortTitle": "South End & Gateway Plaza",
       "stopId": "0005",
       "tag": "seavgate",
-      "lat": "40.7107922"
+      "lat": "40.7107913"
     },
     "seavrec": {
       "routes": {
@@ -459,12 +542,12 @@
           "": true
         }
       },
-      "lon": "-74.0171071",
+      "lon": "-74.0171077",
       "title": "South End Ave & Rector Pl",
       "shortTitle": "South End & Rector Pl",
       "stopId": "0006",
       "tag": "seavrec",
-      "lat": "40.7089337"
+      "lat": "40.7089328"
     },
     "seavwtha": {
       "routes": {
@@ -472,12 +555,12 @@
           "": true
         }
       },
-      "lon": "-74.0169537",
+      "lon": "-74.0169526",
       "title": "W Thames St & South End Ave",
       "shortTitle": "W Thames & South End",
       "stopId": "0007",
       "tag": "seavwtha",
-      "lat": "40.7082169"
+      "lat": "40.7082165"
     },
     "batthird": {
       "routes": {
@@ -485,11 +568,11 @@
           "": true
         }
       },
-      "lon": "-74.0173185",
+      "lon": "-74.0173191",
       "title": "Battery Pl & 3rd Pl",
       "stopId": "0008",
       "tag": "batthird",
-      "lat": "40.7072872"
+      "lat": "40.7072863"
     },
     "batfirst": {
       "routes": {
@@ -501,7 +584,7 @@
       "title": "Battery Pl & 1st Pl",
       "stopId": "0009",
       "tag": "batfirst",
-      "lat": "40.7057746"
+      "lat": "40.7057737"
     },
     "battwest": {
       "routes": {
@@ -509,12 +592,12 @@
           "": true
         }
       },
-      "lon": "-74.0173967",
+      "lon": "-74.0173954",
       "title": "Battery Pl & West St",
       "shortTitle": "Battery Pl & West",
       "stopId": "0010",
       "tag": "battwest",
-      "lat": "40.7048819"
+      "lat": "40.7048816"
     },
     "battwash": {
       "routes": {
@@ -522,12 +605,12 @@
           "": true
         }
       },
-      "lon": "-74.0153604",
+      "lon": "-74.0153591",
       "title": "Battery Pl & Greenwich St",
       "shortTitle": "Battery Pl & Greenwich",
       "stopId": "0026",
       "tag": "battwash",
-      "lat": "40.7047349"
+      "lat": "40.7047348"
     },
     "battstate": {
       "routes": {
@@ -535,12 +618,12 @@
           "": true
         }
       },
-      "lon": "-74.013134",
+      "lon": "-74.0131327",
       "title": "State St & Whitehall St",
       "shortTitle": "State & Whitehall",
       "stopId": "0012",
       "tag": "battstate",
-      "lat": "40.7023067"
+      "lat": "40.7023068"
     },
     "watbroad": {
       "routes": {
@@ -548,12 +631,12 @@
           "": true
         }
       },
-      "lon": "-74.0110256",
+      "lon": "-74.0110244",
       "title": "Water St & Broad St",
       "shortTitle": "Water & Broad",
       "stopId": "0013",
       "tag": "watbroad",
-      "lat": "40.7030241"
+      "lat": "40.7030244"
     },
     "watolds": {
       "routes": {
@@ -561,12 +644,12 @@
           "": true
         }
       },
-      "lon": "-74.0085297",
+      "lon": "-74.0085287",
       "title": "Water St & Old Slip",
       "shortTitle": "Water & Old Slip",
       "stopId": "0014",
       "tag": "watolds",
-      "lat": "40.7042887"
+      "lat": "40.7042894"
     },
     "watwall": {
       "routes": {
@@ -574,12 +657,12 @@
           "": true
         }
       },
-      "lon": "-74.0070682",
+      "lon": "-74.0070673",
       "title": "Water St & Wall St",
       "shortTitle": "Water & Wall",
       "stopId": "0015",
       "tag": "watwall",
-      "lat": "40.7053075"
+      "lat": "40.7053081"
     },
     "watflet": {
       "routes": {
@@ -587,12 +670,12 @@
           "": true
         }
       },
-      "lon": "-74.0056773",
+      "lon": "-74.0056763",
       "title": "Water St & Fletcher St",
       "shortTitle": "Water & Fletcher",
       "stopId": "0016",
       "tag": "watflet",
-      "lat": "40.7062735"
+      "lat": "40.7062742"
     },
     "pearfult": {
       "routes": {
@@ -616,9 +699,10 @@
       "lon": "-74.0014874",
       "title": "South Street & Peck Slip",
       "shortTitle": "South & Peck Slip",
+      "stopId": "0001",
       "tag": "soutpeck",
       "lat": "40.7072123"
     }
   },
-  "copyright": "All data copyright Downtown Connection 2019."
+  "copyright": "All data copyright Downtown Connection 2020."
 }

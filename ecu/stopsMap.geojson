@@ -11,53 +11,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3680006,
+          -77.3680007,
           35.6057459
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Mendenhall/ West End Bus Terminal",
-        "tag": "mendwend_d",
-        "stopId": "21010"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3703833,
-          35.6081425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Christenbury Gym Bus Terminal",
-        "tag": "chrisgym",
-        "stopId": "21005"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3631751,
-          35.6044265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "College Hill West",
-        "tag": "collhill_w",
-        "stopId": "23020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.363437,
-          35.6010859
         ]
       }
     },
@@ -71,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3686208,
-          35.5920897
+          -77.3686211,
+          35.5920903
         ]
       }
     },
@@ -86,7 +41,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3693749,
+          -77.3693748,
           35.589919
         ]
       }
@@ -94,105 +49,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Charles Boulevard & Ficklen Drive",
-        "tag": "charfick",
-        "stopId": "26005"
+        "title": "Christenbury Gym Bus Terminal",
+        "tag": "chrisgym",
+        "stopId": "21005"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3696329,
-          35.598671
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Ficklen Drive",
-        "tag": "fick",
-        "stopId": "26010"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3650192,
-          35.598455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "College Hill East",
-        "tag": "collhill_e",
-        "stopId": "23025"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3632072,
-          35.6011477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "10th Street & Brewster",
-        "tag": "brew10th",
-        "stopId": "23100"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3630888,
-          35.6042109
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "West End Bus Terminal",
-        "tag": "westend",
-        "stopId": "21010"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.370387,
-          35.6081659
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Zeta House (Outbound)",
-        "tag": "zetahous_o",
-        "stopId": "10050"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3794887,
-          35.6123197
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Intergenerational Community Center (Outbound)",
-        "tag": "lwilwest",
-        "stopId": "10045"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3861758,
-          35.6130093
+          -77.3633878,
+          35.6044209
         ]
       }
     },
@@ -206,8 +71,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4025049,
-          35.610773
+          -77.4024999,
+          35.610791
         ]
       }
     },
@@ -221,8 +86,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4054597,
-          35.6109233
+          -77.4054535,
+          35.6109324
         ]
       }
     },
@@ -236,8 +101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.405451,
-          35.612809
+          -77.4054509,
+          35.6128089
         ]
       }
     },
@@ -274,210 +139,45 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "College Hill West",
-        "tag": "collhill_ob",
-        "stopId": "23020"
+        "title": "Speight Bus Terminal",
+        "tag": "spei",
+        "stopId": "21015"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3634092,
-          35.601088
+          -77.36125,
+          35.6067
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Greenville Mall (Outbound)",
-        "tag": "greenmall",
-        "stopId": "23030"
+        "title": "5th Street & Founders Drive",
+        "tag": "foun5th_o",
+        "stopId": "23091"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.368797,
-          35.5862602
+          -77.3645393,
+          35.608412
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Publix",
-        "tag": "publix",
-        "stopId": "23031"
+        "title": "5th Street & Summit Street",
+        "tag": "5thsum",
+        "stopId": "23086"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3700073,
-          35.5878582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "University Commons",
-        "tag": "univcomm",
-        "stopId": "23035"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3819499,
-          35.58002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Lynncroft Shopping Center",
-        "tag": "bbuy",
-        "stopId": "23050"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3844869,
-          35.57416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Old Navy",
-        "tag": "oldn",
-        "stopId": "23055"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3719142,
-          35.5824167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Greenville Mall (Inbound)",
-        "tag": "greemall",
-        "stopId": "23030"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.36879,
-          35.58627
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "College Hill East",
-        "tag": "collhill_ib",
-        "stopId": "23025"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.363208,
-          35.6011909
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "4th & Cotanche",
-        "tag": "4thcota_o",
-        "stopId": "23064"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3713971,
-          35.611931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Reade Street Bus Terminal",
-        "tag": "finhub",
-        "stopId": "10005"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3703756,
-          35.6126127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "2nd Street & Reade Street",
-        "tag": "wash2nd",
-        "stopId": "23065"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3702509,
-          35.6139263
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "First Street Place",
-        "tag": "firsplac",
-        "stopId": "23070"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3752603,
-          35.6159278
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cotanche & 3rd",
-        "tag": "cota3rd",
-        "stopId": "23075"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3713804,
-          35.61324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "4th & Cotanche",
-        "tag": "4thcota_i",
-        "stopId": "23064"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3713982,
-          35.6119304
+          -77.3681224,
+          35.6098721
         ]
       }
     },
@@ -491,23 +191,83 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3702647,
-          35.6117241
+          -77.3706297,
+          35.6117207
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "5th Street & Chancellors Way",
+        "title": "HR Building (2nd & Reade)",
+        "tag": "hrbldg",
+        "stopId": "23065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.370391,
+          35.6139726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "First Street Place",
+        "tag": "pittfirs",
+        "stopId": "29004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3751839,
+          35.6156302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University Book Exchange (UBE)",
+        "tag": "univbook",
+        "stopId": "23080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3721499,
+          35.6105802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Reade Street & Chico's (Outbound)",
+        "tag": "readchic",
+        "stopId": "23060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3714599,
+          35.60978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5th Street & Summit",
         "tag": "summ5th",
         "stopId": "23085"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3675047,
-          35.6094956
+          -77.3681549,
+          35.6097709
         ]
       }
     },
@@ -521,23 +281,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3648081,
-          35.6083933
+          -77.3650267,
+          35.608483
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Speight Bus Terminal",
-        "tag": "spei",
-        "stopId": "21015"
+        "title": "Mendenhall / West End Bus Terminal",
+        "tag": "westend",
+        "stopId": "21010"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3612922,
-          35.6067167
+          -77.3703832,
+          35.6081426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "10th & College Hill East",
+        "tag": "10colea",
+        "stopId": "23131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.361172,
+          35.603765
         ]
       }
     },
@@ -551,8 +326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3473799,
-          35.60287
+          -77.34738,
+          35.6028699
         ]
       }
     },
@@ -566,7 +341,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3276189,
+          -77.327619,
           35.5980302
         ]
       }
@@ -643,6 +418,21 @@
         "coordinates": [
           -77.34744,
           35.6029999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "College Hill East",
+        "tag": "collhill_ib",
+        "stopId": "23025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3632072,
+          35.6011477
         ]
       }
     },
@@ -731,7 +521,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.331899,
+          -77.3318989,
           35.59738
         ]
       }
@@ -1091,8 +881,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3636961,
-          35.5856516
+          -77.3637003,
+          35.5856482
         ]
       }
     },
@@ -1106,8 +896,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3542976,
-          35.5746585
+          -77.3543004,
+          35.5746575
         ]
       }
     },
@@ -1121,8 +911,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3554705,
-          35.573032
+          -77.3554681,
+          35.5730312
         ]
       }
     },
@@ -1144,15 +934,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "University Suites",
+        "title": "Carolina Creek",
         "tag": "univsuit",
         "stopId": "25065"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3820659,
-          35.590877
+          -77.3819993,
+          35.5909619
         ]
       }
     },
@@ -1211,8 +1001,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.34944,
-          35.5590819
+          -77.349586,
+          35.559189
         ]
       }
     },
@@ -1271,53 +1061,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3632563,
-          35.6044279
+          -77.36209,
+          35.6042554
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "4th & Cedar",
-        "tag": "4thcedar",
-        "stopId": "24071"
+        "title": "Charles Boulevard & Ficklen Drive",
+        "tag": "charfick",
+        "stopId": "26005"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3441048,
-          35.6076171
+          -77.3697663,
+          35.5986462
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Charles and Mellow Mushroom",
-        "tag": "charmush",
-        "stopId": "25031"
+        "title": "Ficklen Drive",
+        "tag": "fick",
+        "stopId": "26010"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3659523,
-          35.5876474
+          -77.3650192,
+          35.598455
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Mendenhall / West End Bus Terminal",
-        "tag": "mendwest",
-        "stopId": "21010"
+        "title": "Berkley & 14th",
+        "tag": "berk14",
+        "stopId": "26012"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.370385,
-          35.60815
+          -77.3623905,
+          35.5981189
         ]
       }
     },
@@ -1331,206 +1121,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3707535,
-          35.5996871
+          -77.37072,
+          35.59972
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Village Green on 5th",
-        "tag": "villgree",
-        "stopId": "29040"
+        "title": "College Hill East",
+        "tag": "collhill_e",
+        "stopId": "23025"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3452274,
-          35.6066728
+          -77.363207,
+          35.6011478
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Riverwalk",
-        "tag": "riverwal",
-        "stopId": "24070"
+        "title": "Christenbury Gym Bus Terminal",
+        "tag": "chrisgym_i",
+        "stopId": "21005"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.343351,
-          35.6093382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "The Gables at Brownlea",
-        "tag": "brow3rd",
-        "stopId": "29030"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3514041,
-          35.6103186
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brownlea and Wyndham",
-        "tag": "bronwynd",
-        "stopId": "24080"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3539777,
-          35.610688
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "The District Clubhouse",
-        "tag": "distclub",
-        "stopId": "24100"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3560382,
-          35.6108042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "1st St & Meade St",
-        "tag": "firstmea",
-        "stopId": "29020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3591914,
-          35.6114802
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "1st St & Harding St",
-        "tag": "firsthar",
-        "stopId": "29015"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3622501,
-          35.612357
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "1st St & Woodlawn St",
-        "tag": "firstwoo",
-        "stopId": "29010"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.363908,
-          35.6130429
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "1st St & Summit St",
-        "tag": "firstsum",
-        "stopId": "29005"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3658841,
-          35.613849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pitt St & 1st St",
-        "tag": "firstpitt",
-        "stopId": "29004"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3752064,
-          35.6155932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "The Landing",
-        "tag": "landing",
-        "stopId": "25045"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.355492,
-          35.572974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Carolina Creek",
-        "tag": "carocreek",
-        "stopId": "25065"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.382062,
-          35.5909059
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "West End Bus Terminal",
-        "tag": "westend_o",
-        "stopId": "21010"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.370388,
-          35.608163
+          -77.3633899,
+          35.604421
         ]
       }
     }
   ],
-  "copyright": "All data copyright East Carolina University 2019."
+  "copyright": "All data copyright East Carolina University 2020."
 }

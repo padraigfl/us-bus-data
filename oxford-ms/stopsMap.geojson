@@ -1683,6 +1683,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Coulter out-bound",
+        "tag": "coutler_o",
+        "stopId": "290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.530906,
+          34.364768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "South Oxford Center",
         "tag": "southoxf_d",
         "stopId": "283"
@@ -1691,7 +1706,22 @@
         "type": "Point",
         "coordinates": [
           -89.520267,
-          34.347914
+          34.3479139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Coulter in-bound",
+        "tag": "coutler_i",
+        "stopId": "289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.530984,
+          34.364779
         ]
       }
     },
@@ -2251,5 +2281,5 @@
       }
     }
   ],
-  "copyright": "All data copyright City of Oxford 2019."
+  "copyright": "All data copyright City of Oxford 2020."
 }

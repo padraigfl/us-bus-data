@@ -7,11 +7,11 @@
       "shortTitle": "Downtown Connect",
       "oppositeColor": "000000",
       "max": [
-        40.7171498,
+        40.717136,
         -74.0014874
       ],
       "min": [
-        40.7023067,
+        40.7023068,
         -74.0180488
       ],
       "stops": {
@@ -31,11 +31,12 @@
           "seavrec_o",
           "seavalba",
           "vesworld_o",
-          "neavmury_o",
-          "neavwar_d"
+          "neavmury_o"
         ],
         "Eastbound": [
-          "chamwbro",
+          "neavwar_d",
+          "wargreen",
+          "warrchur",
           "murbrod",
           "murgren",
           "neavmury",
@@ -58,15 +59,25 @@
       },
       "scheduledStops": {
         "inbound": [
+          "neavwar_d",
           "watful_a"
         ],
         "outbound": [
-          "neavwar_d",
-          "watful_d"
+          "watful_d",
+          "neavwar_a"
         ]
       },
       "scheduledTimeRange": {
-        "east": {},
+        "east": {
+          "wkd": {
+            "first": "09:40:00",
+            "last": "19:40:00"
+          },
+          "wkend": {
+            "first": "09:35:00",
+            "last": "19:30:00"
+          }
+        },
         "west": {
           "wkd": {
             "first": "10:00:00",
@@ -74,11 +85,11 @@
           },
           "wkend": {
             "first": "10:00:00",
-            "last": "19:50:00"
+            "last": "19:30:00"
           }
         }
       }
     }
   },
-  "copyright": "All data copyright Downtown Connection 2019."
+  "copyright": "All data copyright Downtown Connection 2020."
 }

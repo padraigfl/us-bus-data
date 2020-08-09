@@ -304,7 +304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "W. Yosemite Ave @ Union Rd",
+        "title": "W. Yosemite Ave @ St. Dominics Dr.",
         "tag": "yoseunio",
         "stopId": "20"
       },
@@ -349,45 +349,45 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lathrop/Manteca ACE Station",
-        "tag": "mantstat",
-        "stopId": "24"
+        "title": "Fishback Rd @ Wawona St.",
+        "tag": "fishwawo",
+        "stopId": "37"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.263609,
-          37.7983129
+          -121.247796,
+          37.7896837
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Northbound Airport Way @ Daniels",
-        "tag": "nairdani",
-        "stopId": "25"
+        "title": "Thomas St. @ Enrico",
+        "tag": "thomwint",
+        "stopId": "38"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.2520563,
-          37.7870685
+          -121.243884,
+          37.793593
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "W. Yosemite Ave @ Winters Dr.",
-        "tag": "yosewint",
-        "stopId": "26"
+        "title": "Winters Dr. @ W. Yosemite Ave",
+        "tag": "wintwyos",
+        "stopId": "39"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.2431221,
-          37.7972679
+          -121.2423201,
+          37.7960006
         ]
       }
     },
@@ -401,8 +401,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.2364691,
-          37.797287
+          -121.2364695,
+          37.7972869
         ]
       }
     },
@@ -484,6 +484,77 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Woodward Ave @ Wellinton Ave",
+        "tag": "woodwel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2051042,
+          37.77562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Woodward Ave @ Memorial Ln",
+        "tag": "woodmem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.192275,
+          37.775649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Atherton Dr @ Tesoro Dr",
+        "tag": "anthetes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1905158,
+          37.7794988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Atherton Dr @ Van Ryn Ave",
+        "tag": "athevan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2001177,
+          37.781709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "W. Atherton Dr. @ Tinnin Rd",
+        "tag": "athetinn",
+        "stopId": "78"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2242311,
+          37.7793225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Promenade @ In Shopping Center",
         "tag": "promshop",
         "stopId": "31"
@@ -521,8 +592,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.2452463,
-          37.7846819
+          -121.2452459,
+          37.784682
         ]
       }
     },
@@ -530,7 +601,7 @@
       "type": "Feature",
       "properties": {
         "title": "Daniels St. @ Fishback Rd",
-        "tag": "danifish",
+        "tag": "danfish",
         "stopId": "36"
       },
       "geometry": {
@@ -544,270 +615,73 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Fishback Rd @ Wawona St.",
-        "tag": "fishwawo",
-        "stopId": "37"
+        "title": "Wawona St. @ Carson Ave.",
+        "tag": "wawcar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.247796,
-          37.7896837
+          -121.228346,
+          37.789243
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Thomas St. @ Enrico",
-        "tag": "thomwint",
-        "stopId": "38"
+        "title": "Tahoe St @ Champagne Ln",
+        "tag": "tahcham"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.2438835,
-          37.793593
+          -121.2210084,
+          37.785645
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Winters Dr. @ W. Yosemite Ave",
-        "tag": "wintwyos",
-        "stopId": "39"
+        "title": "S. Main St. @ Industrial Park Dr.",
+        "tag": "mainpark",
+        "stopId": "79"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.2423201,
-          37.7960008
+          -121.2158739,
+          37.7880713
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Cherry Lane @ Davis St.",
-        "tag": "cherdavi",
-        "stopId": "40"
+        "title": "S. Main St. @ Wetmore St.",
+        "tag": "mainwetm_i",
+        "stopId": "80"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.230975,
-          37.8000097
+          -121.216163,
+          37.7942018
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Cherry Lane @ N. Union Rd",
-        "tag": "cherunio",
-        "stopId": "41"
+        "title": "Transit Center",
+        "tag": "trancent_a",
+        "stopId": "00"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.2341015,
-          37.8046218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N. Union Rd @ W. Alameda St.",
-        "tag": "unioalam",
-        "stopId": "42"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.235096,
-          37.807577
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N. Union Rd @ W. Louise Ave",
-        "tag": "unioloui",
-        "stopId": "43"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2352299,
-          37.8125548
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northgate Dr. @ Chaffin Pl.",
-        "tag": "nortchaf",
-        "stopId": "44"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2366052,
-          37.8200691
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northgate Dr. @ London Ave",
-        "tag": "nortlond",
-        "stopId": "45"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2436105,
-          37.82035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "London @ Picadilly Way",
-        "tag": "londpica",
-        "stopId": "46"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2447869,
-          37.821976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N. Union Rd @ Lathrop Rd",
-        "tag": "uniolath",
-        "stopId": "47"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.235943,
-          37.8254296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northgate Dr. @ N. Union Rd",
-        "tag": "nortunio",
-        "stopId": "48"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2347471,
-          37.8198229
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northgate Dr. @ Pajaro Ave",
-        "tag": "nortpaja",
-        "stopId": "49"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2279963,
-          37.8192311
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stonewood  Dr. @ Eastwood Ave.",
-        "tag": "eastston",
-        "stopId": "50"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2245187,
-          37.817712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Northgate Dr. @ Crestwood Ave",
-        "tag": "nortcres",
-        "stopId": "51"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.2214941,
-          37.8190289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N. Main St. @ Northgate Dr.",
-        "tag": "maingate",
-        "stopId": "52"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.217388,
-          37.818111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N. Main St. @ Louise Ave",
-        "tag": "mainloui",
-        "stopId": "53"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.217147,
-          37.811583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N. Main St. @ Alameda St.",
-        "tag": "mainalam",
-        "stopId": "54"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.216861,
-          37.8050613
+          -121.214751,
+          37.794649
         ]
       }
     },
@@ -816,13 +690,13 @@
       "properties": {
         "title": "N. Main St. @ North St.",
         "tag": "mainnort",
-        "stopId": "55"
+        "stopId": "56"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.216676,
-          37.800488
+          -121.2166049,
+          37.8012689
         ]
       }
     },
@@ -830,13 +704,130 @@
       "type": "Feature",
       "properties": {
         "title": "Boys & Girls Club",
-        "tag": "boysgirl"
+        "tag": "boysgirl",
+        "stopId": "22"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.2217621,
-          37.8047239
+          -121.2216938,
+          37.8047234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N. Main St. @ Alameda St.",
+        "tag": "mainalam",
+        "stopId": "57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2167139,
+          37.8051369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E. Louise Ave. @ Souza Blvd.",
+        "tag": "louisou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.207822,
+          37.8118889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Empire Ln @ Diamond Oak Way",
+        "tag": "empdia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.193284,
+          37.812765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Louise Ave @ Cottage Ave.",
+        "tag": "louicott"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1979358,
+          37.812077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Louise Ave @ Mt Dew Ave",
+        "tag": "louimtd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2080311,
+          37.81204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N. Main St. @ Louise Ave",
+        "tag": "mainloui",
+        "stopId": "58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.216939,
+          37.8122972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northgate Dr. @ Crestwood Ave",
+        "tag": "nortcres",
+        "stopId": "59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.221256,
+          37.8191339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eastwood Ave. @ Stonewood Ave",
+        "tag": "eaststone",
+        "stopId": "50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.224519,
+          37.817712
         ]
       }
     },
@@ -850,8 +841,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.228118,
-          37.819394
+          -121.2281179,
+          37.8193939
         ]
       }
     },
@@ -873,6 +864,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "N. Union Rd @ Lathrop Rd",
+        "tag": "uniolath",
+        "stopId": "63"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2357989,
+          37.8254819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "London Ave. @ Copeland Way",
         "tag": "londcope",
         "stopId": "64"
@@ -881,7 +887,22 @@
         "type": "Point",
         "coordinates": [
           -121.2450331,
-          37.8245654
+          37.824566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northgate Dr. @ London Ave",
+        "tag": "nortlond",
+        "stopId": "65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2444109,
+          37.82027
         ]
       }
     },
@@ -896,7 +917,79 @@
         "type": "Point",
         "coordinates": [
           -121.2356999,
-          37.8193408
+          37.8193409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N. Union Rd @ W. Louise Ave",
+        "tag": "unioloui",
+        "stopId": "67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.235383,
+          37.812648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "W Louise Ave @ S Airport Way",
+        "tag": "louiair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2513858,
+          37.811843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Zurich Dr @ Geneva Way",
+        "tag": "zurgen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2489739,
+          37.8080939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Crom St @ Silverado Dr",
+        "tag": "cromsilv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2441603,
+          37.8045839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cherry Lane @ N. Union Rd",
+        "tag": "cherunio",
+        "stopId": "69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2344979,
+          37.8045889
         ]
       }
     },
@@ -911,115 +1004,288 @@
         "type": "Point",
         "coordinates": [
           -121.231063,
-          37.8005984
+          37.8005989
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Winters Drive @ Yosemite Avenue",
-        "tag": "wintyose",
-        "stopId": "71"
+        "title": "W. Yosemite Ave @ Walnut Ave",
+        "tag": "yosewal",
+        "stopId": "28"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.242522,
-          37.796066
+          -121.2281596,
+          37.7973529
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Thomas St. @ Enrico Lane",
-        "tag": "thomenri",
-        "stopId": "72"
+        "title": "W. Yosemite Ave @ Sequoia Ave",
+        "tag": "yoseseq",
+        "stopId": "29"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.2435704,
-          37.793715
+          -121.2236246,
+          37.7973489
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Daniels St. @ Laurel Park Cir.",
-        "tag": "danilaur",
-        "stopId": "75"
+        "title": "W. Yosemite Ave @ Pierce Ave",
+        "tag": "yoseave",
+        "stopId": "30"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.2432729,
-          37.784615
+          -121.2200076,
+          37.797344
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Daniels St. @ Stonum Lane",
-        "tag": "daniston",
-        "stopId": "76"
+        "title": "E. Woodward Ave @ Laurie Ave",
+        "tag": "woodlaur"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.239679,
-          37.7853459
+          -121.2186942,
+          37.7757359
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Daniels St @ Hunt Rd",
-        "tag": "danihunt",
-        "stopId": "77"
+        "title": "E Woodward Ave @ Tinnin Rd.",
+        "tag": "woodtin"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.2354671,
-          37.7854959
+          -121.2240281,
+          37.7757399
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "W. Atherton Dr. @ Tinnin Rd",
-        "tag": "athetinn",
-        "stopId": "78"
+        "title": "E Woodward Ave @ Pagola Ave.",
+        "tag": "woodpag"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.2236868,
-          37.779137
+          -121.2313251,
+          37.7757069
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "S. Main St. @ Industrial Park Dr.",
-        "tag": "mainpark",
-        "stopId": "79"
+        "title": "E Woodward Ave @ Al Fonseca Ln",
+        "tag": "woodfon"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.2158739,
-          37.7880712
+          -121.239067,
+          37.775666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Airport Way @ Peregrine St.",
+        "tag": "airpere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2521044,
+          37.7781837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Airport Way @ Daniels St.",
+        "tag": "airdan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.252069,
+          37.787081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Airport Way @ Louise",
+        "tag": "airlouis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.252925,
+          37.8121705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northgate Dr. @ London Ave.",
+        "tag": "northlon",
+        "stopId": "65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2444109,
+          37.82027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northgate Dr. @ N. Union Rd",
+        "tag": "northuni",
+        "stopId": "48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2347469,
+          37.819823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northgate Dr. @ Pajaro Ave",
+        "tag": "northpa",
+        "stopId": "49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2279958,
+          37.8192309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northgate Dr. @ Crestwood Ave",
+        "tag": "northcres",
+        "stopId": "51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2214943,
+          37.819029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N. Main St. @ Northgate Dr.",
+        "tag": "mainngat",
+        "stopId": "52"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.217388,
+          37.8181117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N. Main St. @ Louise Ave",
+        "tag": "mainlouis",
+        "stopId": "53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.217147,
+          37.8115837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N. Main St. @ North St.",
+        "tag": "mainnorth",
+        "stopId": "55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2166759,
+          37.8004876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lathrop/Manteca ACE Station",
+        "tag": "mantstat",
+        "stopId": "24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2636091,
+          37.7983125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "W. Yosemite Ave @ Winters Dr.",
+        "tag": "yosewint",
+        "stopId": "26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2431242,
+          37.7972679
         ]
       }
     }
   ],
-  "copyright": "All data copyright Manteca Transit 2019."
+  "copyright": "All data copyright Manteca Transit 2020."
 }

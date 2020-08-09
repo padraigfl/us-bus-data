@@ -11,7 +11,7 @@
       ],
       "min": [
         36.9490991,
-        -86.4700046
+        -86.470005
       ],
       "stops": {
         "WAL-MART": [
@@ -43,6 +43,7 @@
         "inbound": [
           "wmrt",
           "greemall",
+          "barnsnob",
           "cambpknr_d",
           "evolvill_ob",
           "creapknr_a"
@@ -57,32 +58,32 @@
       "scheduledTimeRange": {
         "creapknr": {
           "all": {
-            "first": "16:36:00",
-            "last": "19:36:00"
+            "first": "16:30:00",
+            "last": "20:58:00"
           },
           "sat": {
-            "first": "16:36:00",
-            "last": "19:36:00"
+            "first": "16:30:00",
+            "last": "20:58:00"
           }
         },
         "wilshall": {
           "all": {
             "first": "16:00:00",
-            "last": "20:00:00"
+            "last": "20:30:00"
           },
           "sat": {
             "first": "16:00:00",
-            "last": "20:00:00"
+            "last": "20:30:00"
           }
         },
         "wmrt": {
           "all": {
-            "first": "16:12:00",
-            "last": "20:12:00"
+            "first": "16:08:00",
+            "last": "20:37:00"
           },
           "sat": {
-            "first": "16:12:00",
-            "last": "20:12:00"
+            "first": "16:08:00",
+            "last": "20:37:00"
           }
         }
       }
@@ -98,7 +99,7 @@
       ],
       "min": [
         36.9786798,
-        -86.4838807
+        -86.466864
       ],
       "stops": {
         "PARK ST. LOT": [
@@ -109,8 +110,7 @@
           "cohh",
           "gris",
           "mmth",
-          "soutches",
-          "ogdepark"
+          "soutches"
         ],
         "CREASON PARK & RIDE": [
           "parklot",
@@ -124,7 +124,6 @@
           "vall",
           "duc",
           "keen",
-          "walmart",
           "russpknr"
         ]
       },
@@ -133,41 +132,33 @@
           "russpknr",
           "creapknrrd_a",
           "parklot",
-          "chesnort",
           "chessout",
           "univlot",
           "mimo",
-          "helmlib",
           "est",
-          "cherhall",
           "vall",
-          "duc",
-          "keen",
-          "walmart"
+          "keen"
         ],
         "outbound": [
           "creapknrrd",
           "ps1",
-          "sndrhall",
           "wilshall",
           "cohh",
-          "gris",
           "mmth",
-          "soutches",
-          "ogdepark"
+          "soutches"
         ]
       },
       "scheduledTimeRange": {
         "creapknrrd": {
           "all": {
-            "first": "07:18:00",
-            "last": "21:01:00"
+            "first": "07:19:00",
+            "last": "20:30:00"
           }
         },
         "parklot": {
           "all": {
-            "first": "07:18:00",
-            "last": "20:16:00"
+            "first": "07:24:00",
+            "last": "19:55:00"
           }
         }
       }
@@ -182,7 +173,7 @@
         -86.447702
       ],
       "min": [
-        36.960064,
+        36.9640027,
         -86.4700058
       ],
       "stops": {
@@ -209,29 +200,20 @@
           "merehall",
           "creapknr",
           "evolvill_ib",
-          "scamp_pknr",
-          "kroger"
-        ],
-        "Kroger": [
-          "cambpknr_d2"
+          "scamp_pknr"
         ]
       },
       "scheduledStops": {
         "inbound": [
           "cherhall",
           "vall",
-          "mccohall",
           "13thkent",
           "12thcent",
           "cohh",
-          "gris",
           "mmth",
-          "pft",
           "merehall",
-          "creapknr",
           "evolvill_ib",
           "scamp_pknr",
-          "kroger",
           "cambpknr_a"
         ],
         "outbound": [
@@ -241,7 +223,6 @@
           "jagg",
           "univlot",
           "mimo",
-          "helmlib",
           "est"
         ]
       },
@@ -249,18 +230,164 @@
         "cambpknr": {
           "all": {
             "first": "07:22:00",
-            "last": "20:16:00"
+            "last": "20:33:00"
           }
         },
         "cherhall": {
           "all": {
             "first": "07:15:00",
-            "last": "20:04:00"
+            "last": "20:17:00"
+          }
+        }
+      }
+    },
+    "black": {
+      "title": "College Heights",
+      "color": "000000",
+      "tag": "black",
+      "oppositeColor": "ffffff",
+      "max": [
+        36.9878899,
+        -86.450468
+      ],
+      "min": [
+        36.9640028,
+        -86.4700061
+      ],
+      "stops": {
+        "Main Campus": [
+          "cambpknr_d",
+          "evolvill_ob",
+          "creapknr_ob",
+          "ps1",
+          "sndrhall",
+          "wilshall"
+        ],
+        "Campbell Lane Park and Ride": [
+          "cherhall",
+          "vall",
+          "duc",
+          "keen",
+          "creapknr",
+          "evolvill_ib",
+          "scamp_pknr"
+        ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "cherhall",
+          "vall",
+          "duc",
+          "keen",
+          "creapknr",
+          "evolvill_ib",
+          "scamp_pknr",
+          "cambpknr_a"
+        ],
+        "outbound": [
+          "cambpknr_d",
+          "evolvill_ob",
+          "creapknr_ob",
+          "ps1",
+          "sndrhall",
+          "wilshall"
+        ]
+      },
+      "scheduledTimeRange": {
+        "cambpknr": {
+          "all": {
+            "first": "07:29:00",
+            "last": "20:39:00"
           }
         },
-        "kroger": {}
+        "cherhall": {
+          "all": {
+            "first": "07:15:00",
+            "last": "20:25:00"
+          }
+        }
+      }
+    },
+    "orange": {
+      "title": "WKU Spirit",
+      "color": "ffa500",
+      "tag": "orange",
+      "oppositeColor": "000000",
+      "max": [
+        36.99174,
+        -86.4474988
+      ],
+      "min": [
+        36.9786799,
+        -86.4668641
+      ],
+      "stops": {
+        "PARK ST. LOT": [
+          "creapknrrd",
+          "jagg",
+          "univlot",
+          "regnorm_ob",
+          "soutches"
+        ],
+        "COLLEGE & COLLEGE HEIGHTS": [
+          "parklot",
+          "cherhall",
+          "vall",
+          "mccohall",
+          "13thkent",
+          "12thcent"
+        ],
+        "CREASON PARK & RIDE": [
+          "collhght",
+          "chesnort",
+          "chessout",
+          "regnorm_ib",
+          "pft",
+          "merehall",
+          "russpknr"
+        ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "parklot",
+          "cherhall",
+          "vall",
+          "mccohall",
+          "13thkent",
+          "12thcent"
+        ],
+        "outbound": [
+          "russpknr",
+          "creapknrrd_a",
+          "collhght",
+          "chesnort",
+          "chessout",
+          "regnorm_ib",
+          "pft",
+          "merehall"
+        ]
+      },
+      "scheduledTimeRange": {
+        "collhght": {
+          "all": {
+            "first": "07:27:00",
+            "last": "20:52:00"
+          }
+        },
+        "creapknrrd": {
+          "all": {
+            "first": "07:16:00",
+            "last": "21:14:00"
+          }
+        },
+        "parklot": {
+          "all": {
+            "first": "07:20:00",
+            "last": "20:45:00"
+          }
+        }
       }
     }
   },
-  "copyright": "All data copyright Western Kentucky University 2019."
+  "copyright": "All data copyright Western Kentucky University 2020."
 }

@@ -1098,20 +1098,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "SW Lowell & Bond",
-        "tag": "12881_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.67138,
-          45.4938999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "NW 11th & Johnson",
         "tag": "10753_ar"
       },
@@ -1120,6 +1106,20 @@
         "coordinates": [
           -122.68237,
           45.5287499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SW Lowell & Bond",
+        "tag": "12881_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67138,
+          45.4938999
         ]
       }
     },
@@ -1168,6 +1168,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "NW 9th & Lovejoy",
+        "tag": "13606_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6805,
+          45.5300599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "SE Water/OMSI",
         "tag": "13709_ar"
       },
@@ -1190,20 +1204,6 @@
         "coordinates": [
           -122.67273,
           45.5032899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "NW 9th & Lovejoy",
-        "tag": "13606_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.6805,
-          45.5300599
         ]
       }
     },
@@ -1234,21 +1234,7 @@
           45.5308999
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "NW 10th & Northrup",
-        "tag": "13604_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.68136,
-          45.5312799
-        ]
-      }
     }
   ],
-  "copyright": "All data copyright Portland Streetcar 2019."
+  "copyright": "All data copyright Portland Streetcar 2020."
 }

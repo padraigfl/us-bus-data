@@ -7,7 +7,7 @@
       "oppositeColor": "ffffff",
       "max": [
         39.1652261,
-        -76.8896007
+        -76.8896021
       ],
       "min": [
         39.159424,
@@ -95,7 +95,29 @@
         ]
       },
       "scheduledStops": {}
+    },
+    "marc": {
+      "title": "Gold Line",
+      "color": "cc9900",
+      "tag": "marc",
+      "oppositeColor": "000000",
+      "max": [
+        39.1628189,
+        -76.842346
+      ],
+      "min": [
+        39.101991,
+        -76.8995045
+      ],
+      "stops": {
+        "Loop": [
+          "marc",
+          "mp6",
+          "lobby1"
+        ]
+      },
+      "scheduledStops": {}
     }
   },
-  "copyright": "All data copyright APL 2019."
+  "copyright": "All data copyright APL 2020."
 }

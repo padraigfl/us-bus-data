@@ -1,232 +1,29 @@
 {
   "data": {
-    "11": {
-      "title": "Route 11",
-      "color": "c76114",
-      "tag": "11",
-      "oppositeColor": "000000",
-      "max": [
-        39.0120033,
-        -76.8642895
-      ],
-      "min": [
-        38.9881583,
-        -76.9096342
-      ],
-      "stops": {
-        "Mandan Ct": [
-          "gms_d",
-          "greecher",
-          "cherivy",
-          "chergree",
-          "cresridg",
-          "creslast",
-          "greecres",
-          "greegree",
-          "hill19co",
-          "hilllaur",
-          "hillnort",
-          "hillwood",
-          "hillcres",
-          "crespark",
-          "cresgard",
-          "soutcres",
-          "soutridg",
-          "sout10co",
-          "greecent",
-          "hanogree_o",
-          "greehano",
-          "greesuns",
-          "greechar",
-          "greeorgl",
-          "orglmorr",
-          "orglmand",
-          "mandcann",
-          "mandgree",
-          "mandcour",
-          "mandcour_2"
-        ],
-        "To Greenbelt Metro Station": [
-          "mandhano",
-          "hano7800",
-          "hano7718",
-          "hanogree",
-          "greecent_wb",
-          "sout11co",
-          "sout7co",
-          "soutcres_nb",
-          "cresgard_eb",
-          "cres58co",
-          "hillcres_nb",
-          "hillco",
-          "hillnort_nb",
-          "laurhill",
-          "hillrese",
-          "greeora",
-          "greecres_nb",
-          "creslast_wb",
-          "cresridg_wb",
-          "chergree_wb",
-          "cherivy_wb",
-          "greecher_nb"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "mandhano",
-          "cresgard_eb",
-          "chergree_wb",
-          "gms_a"
-        ],
-        "outbound": [
-          "gms_d",
-          "chergree",
-          "cresgard",
-          "hanogree_o"
-        ]
-      },
-      "scheduledTimeRange": {
-        "gms": {
-          "wkd": {
-            "first": "05:54:00",
-            "last": "20:24:00"
-          }
-        },
-        "mand": {
-          "wkd": {
-            "first": "05:28:00",
-            "last": "19:58:00"
-          }
-        }
-      }
-    },
-    "12": {
-      "title": "Route 12",
-      "color": "ff6600",
-      "tag": "12",
-      "oppositeColor": "000000",
-      "max": [
-        38.9627127,
-        -76.9516816
-      ],
-      "min": [
-        38.9346021,
-        -76.9847839
-      ],
-      "stops": {
-        "Chillum Loop": [
-          "whs_d1",
-          "hamilton_o",
-          "12_2",
-          "12_160",
-          "12_15",
-          "12_14",
-          "12_1",
-          "12_37",
-          "12_38",
-          "12_36",
-          "12_43",
-          "12_30",
-          "12_32",
-          "12_31",
-          "12_370",
-          "12_100",
-          "12_140",
-          "12_18",
-          "12_16",
-          "12_20",
-          "12_24"
-        ],
-        "Mt Rainier Loop": [
-          "whs_d2",
-          "hamilton",
-          "12_19",
-          "12_17",
-          "12_13",
-          "12_12",
-          "12_11",
-          "12_3",
-          "12_4",
-          "12_44",
-          "12_46",
-          "12_35",
-          "12_34",
-          "12_33",
-          "12_21",
-          "12_5",
-          "12_6",
-          "12_22",
-          "ri_34thst",
-          "12_40",
-          "12_41",
-          "12_42",
-          "12_48",
-          "gwenbritt",
-          "voltrhod",
-          "12_47",
-          "38wind",
-          "38alli",
-          "38gain",
-          "38hami",
-          "hami38",
-          "hami37",
-          "hami36",
-          "hami35",
-          "hami31"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "whs_d2",
-          "12_3",
-          "12_21",
-          "gwenbritt",
-          "38hami",
-          "whs_a"
-        ],
-        "outbound": [
-          "whs_d1",
-          "12_43"
-        ]
-      },
-      "scheduledTimeRange": {
-        "eloop": {
-          "wkd": {
-            "first": "05:49:00",
-            "last": "19:02:00"
-          }
-        },
-        "sloop": {
-          "wkd": {
-            "first": "05:30:00",
-            "last": "18:42:00"
-          }
-        }
-      }
-    },
     "13": {
       "title": "Route 13",
       "color": "993300",
       "tag": "13",
       "oppositeColor": "ffffff",
       "max": [
-        38.9700703,
-        -76.9412386
+        38.97007,
+        -76.9412381
       ],
       "min": [
-        38.9486483,
-        -76.9749965
+        38.9486691,
+        -76.9753092
       ],
       "stops": {
-        "To West Hyattsville Station": [
-          "pgplaza",
-          "easttole",
-          "agerroan",
-          "agerpowh",
-          "agerogle",
-          "agernich",
-          "agerkirk",
-          "agerlanc",
+        "Loop A": [
+          "whyatt_nb",
+          "agerlanc_nb",
+          "ager29th",
+          "agernich_nb",
+          "agerogle_nb",
+          "agerpeab_nb",
+          "ager23rd",
+          "easttole_nb",
+          "westmetr",
           "pgplaza_nb",
           "belc6505",
           "tolebelc_nb",
@@ -251,7 +48,7 @@
           "hami35av_nb",
           "hami31av_nb"
         ],
-        "To PG Plaza": [
+        "Loop B": [
           "whs_d_sb",
           "hami31st",
           "hami35th",
@@ -276,198 +73,32 @@
           "queequee",
           "toleadel",
           "tolebelc",
-          "whyatt_nb",
-          "agerlanc_nb",
-          "ager29th",
-          "agernich_nb",
-          "agerogle_nb",
-          "agerpeab_nb",
-          "ager23rd",
-          "easttole_nb",
-          "westmetr"
+          "belcrpgsta",
+          "pgplaza_13_sb",
+          "easttole",
+          "agerroan",
+          "agerpowh",
+          "agerogle",
+          "agernich",
+          "agerkirk",
+          "agerlanc"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "whyatt_nb",
-          "agernich_nb",
           "whs_d_sb",
           "hami38th",
           "rhodcoun_e",
-          "42ndogle"
-        ],
-        "outbound": [
+          "42ndogle",
           "belcrpgsta",
           "pgplaza_13_sb",
           "agernich",
-          "whs_a_sb",
-          "pgplaza_nb",
-          "belc6505",
-          "42ndogle_nb",
-          "rhodcoun_w",
-          "hami38th_nb",
-          "whs_a_nb"
+          "whs_a_sb"
         ]
       },
       "scheduledTimeRange": {
-        "pgplaza": {
-          "wkd": {
-            "first": "06:00:00",
-            "last": "18:40:00"
-          },
-          "holiday": {
-            "first": "07:13:00",
-            "last": "18:00:00"
-          }
-        },
-        "whs": {
-          "wkd": {
-            "first": "06:09:00",
-            "last": "19:01:00"
-          },
-          "holiday": {
-            "first": "07:33:00",
-            "last": "18:10:00"
-          }
-        }
-      }
-    },
-    "14": {
-      "title": "Route 14",
-      "color": "996600",
-      "tag": "14",
-      "oppositeColor": "ffffff",
-      "max": [
-        38.9781349,
-        -76.893628
-      ],
-      "min": [
-        38.9566548,
-        -76.9571668
-      ],
-      "stops": {
-        "To College Park Station": [
-          "pgpl_d",
-          "belcpgpl_i",
-          "belfreed",
-          "toledort",
-          "toledord",
-          "14_61",
-          "14_62",
-          "14_63",
-          "14_64",
-          "14_28",
-          "baltewhy",
-          "14_1",
-          "14_56",
-          "14_2",
-          "14_49",
-          "14_38",
-          "145654",
-          "1454j",
-          "14jeffk",
-          "14kenini",
-          "14_39",
-          "14_40",
-          "14_42",
-          "14_44",
-          "14_48",
-          "14_46",
-          "14_47",
-          "14_8",
-          "14_4",
-          "14_5",
-          "14_6",
-          "14_7",
-          "14_14",
-          "14_12",
-          "14_17",
-          "14_13",
-          "14_20",
-          "14_21",
-          "riverrda",
-          "14_36",
-          "riverrdb"
-        ],
-        "To PG Plaza": [
-          "cps_d",
-          "riverrdb_o",
-          "14_36_o",
-          "riverrda_o",
-          "14_21_o",
-          "14_20_o",
-          "14_13_o",
-          "14_17_o",
-          "14_16",
-          "14_15",
-          "14_14_o",
-          "14_7_o",
-          "14_6_o",
-          "14_5_o",
-          "14_4_o",
-          "14_8_o",
-          "14_47_o",
-          "14_46_o",
-          "14_45",
-          "14_43",
-          "14_42_o",
-          "14_41",
-          "14_39_o",
-          "14kenini_o",
-          "14jeffk_o",
-          "1454j_o",
-          "145654_o",
-          "14_38_o",
-          "14_49_o",
-          "rivcalvp",
-          "14_50",
-          "balaquee",
-          "14_64_o",
-          "14_63_o",
-          "14_62_o",
-          "14_61_o",
-          "14_60",
-          "toledord_o",
-          "toledort_o",
-          "belcresd_o"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "pgpl_d",
-          "14_56",
-          "14_39",
-          "14_8",
-          "14_36",
-          "cps_a"
-        ],
-        "outbound": [
-          "cps_d",
-          "14_36_o",
-          "14_8_o",
-          "14_39_o",
-          "14_50",
-          "belcresd_o",
-          "pgpl_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "cps": {
-          "wkd": {
-            "first": "05:25:00",
-            "last": "19:40:00"
-          },
-          "holiday": {
-            "first": "08:00:00",
-            "last": "18:00:00"
-          }
-        },
-        "pgplaza": {
-          "wkd": {
-            "first": "05:25:00",
-            "last": "19:40:00"
-          },
-          "holiday": {
+        "loopb": {
+          "mtwthfrsatsun": {
             "first": "07:00:00",
             "last": "18:00:00"
           }
@@ -480,7 +111,7 @@
       "tag": "16",
       "oppositeColor": "000000",
       "max": [
-        39.012059,
+        39.0120722,
         -76.86556
       ],
       "min": [
@@ -618,22 +249,14 @@
       },
       "scheduledTimeRange": {
         "nb": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "19:30:00"
-          },
-          "holiday": {
-            "first": "08:00:00",
             "last": "18:01:00"
           }
         },
         "sb": {
-          "wkd": {
-            "first": "05:30:00",
-            "last": "19:30:00"
-          },
-          "holiday": {
-            "first": "07:00:00",
+          "mtwthfrsatsun": {
+            "first": "06:00:00",
             "last": "18:00:00"
           }
         }
@@ -677,12 +300,10 @@
           "baltvanb_n",
           "baltamhe",
           "baltguil_n",
+          "cps_t8_n",
           "balthart_n",
           "baltknox",
           "baltross_n",
-          "baltpain",
-          "cps_n",
-          "painbalt_n",
           "baltlake_n",
           "baltbhous",
           "baltberw_n",
@@ -707,13 +328,11 @@
           "baltberw",
           "baltbhous_s",
           "baltlake",
-          "painbalt_s",
-          "cps_s",
-          "painbalt2_s",
           "baltcamp",
           "baltross",
           "baltrege",
           "balthart",
+          "cps_t8_s",
           "baltguil",
           "baltquch",
           "baltvanb_s",
@@ -742,14 +361,14 @@
           "mtraterm_d",
           "cosvbldg_n",
           "balteawe_n",
-          "baltpain",
-          "cps_n",
+          "cps_t8_n",
+          "baltlake_n",
           "ikea_a"
         ],
         "outbound": [
           "ikea_d",
-          "cps_s",
-          "baltcamp",
+          "baltlake",
+          "cps_t8_s",
           "balteawe",
           "cosvbldg",
           "mtraterm_a"
@@ -757,22 +376,14 @@
       },
       "scheduledTimeRange": {
         "nb": {
-          "wkd": {
-            "first": "05:45:00",
-            "last": "19:15:00"
-          },
-          "holiday": {
-            "first": "08:00:00",
-            "last": "18:01:00"
+          "mtwthfrsatsun": {
+            "first": "06:00:00",
+            "last": "18:00:00"
           }
         },
         "sb": {
-          "wkd": {
-            "first": "05:30:00",
-            "last": "19:30:00"
-          },
-          "holiday": {
-            "first": "07:00:00",
+          "mtwthfrsatsun": {
+            "first": "06:00:00",
             "last": "18:00:00"
           }
         }
@@ -785,7 +396,7 @@
       "oppositeColor": "000000",
       "max": [
         38.9926949,
-        -76.8853518
+        -76.8854419
       ],
       "min": [
         38.8855599,
@@ -1005,23 +616,15 @@
       },
       "scheduledTimeRange": {
         "nb": {
-          "wkd": {
-            "first": "05:30:00",
-            "last": "19:30:00"
-          },
-          "holiday": {
-            "first": "08:30:00",
-            "last": "17:30:00"
+          "mtwthfrsatsun": {
+            "first": "06:00:00",
+            "last": "17:45:00"
           }
         },
         "sb": {
-          "wkd": {
-            "first": "05:30:00",
-            "last": "19:30:00"
-          },
-          "holiday": {
-            "first": "07:00:00",
-            "last": "18:30:00"
+          "mtwthfrsatsun": {
+            "first": "06:00:00",
+            "last": "18:00:00"
           }
         }
       }
@@ -1033,7 +636,7 @@
       "oppositeColor": "000000",
       "max": [
         38.88615,
-        -76.748628
+        -76.7486134
       ],
       "min": [
         38.8108502,
@@ -1066,6 +669,7 @@
           "20_18",
           "20_20",
           "dowepike_wb",
+          "20_40",
           "5620pike_wb",
           "pikedowe_wb",
           "dowemarl_wb",
@@ -1165,22 +769,14 @@
       },
       "scheduledTimeRange": {
         "eb": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "19:00:00"
-          },
-          "holiday": {
-            "first": "08:00:00",
             "last": "18:00:00"
           }
         },
         "wb": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "18:40:00"
-          },
-          "holiday": {
-            "first": "07:00:00",
             "last": "18:00:00"
           }
         }
@@ -1192,12 +788,12 @@
       "tag": "21",
       "oppositeColor": "ffffff",
       "max": [
-        38.9501612,
-        -76.745374
+        38.950161,
+        -76.745352
       ],
       "min": [
-        38.812076,
-        -76.8725499
+        38.8120761,
+        -76.8725539
       ],
       "stops": {
         "County Courthouse": [
@@ -1221,7 +817,6 @@
           "brightse_s",
           "landover_s",
           "21_57_s",
-          "21_12_s",
           "21_58_s",
           "21_2",
           "21_1_s",
@@ -1254,7 +849,8 @@
           "21_44_s",
           "21_46_s",
           "21_41_s",
-          "judgesdr"
+          "judgesdr",
+          "courthou_a"
         ],
         "To New Carrollton Station": [
           "courthou_d",
@@ -1293,7 +889,6 @@
           "21_1_n",
           "21_3",
           "21_58_n",
-          "21_12_n",
           "21_57_n",
           "landover_n",
           "brightse_n",
@@ -1314,345 +909,36 @@
           "21_60_n",
           "21_8",
           "21_4_n"
-        ],
-        "To Equestrian Center": [
-          "equestri_s",
-          "equestrn_a"
         ]
       },
       "scheduledStops": {
         "inbound": [
           "ncs_d",
           "brightse_s",
-          "21_12_s",
           "larstation_s",
           "campuswa_s",
           "21_65_s",
-          "courthou_a"
+          "equestrn_d"
         ],
         "outbound": [
-          "equestrn_a"
+          "courthou_d",
+          "21_65_n",
+          "campuswa_n",
+          "larstation_n",
+          "brightse_n",
+          "ncs_a"
         ]
       },
       "scheduledTimeRange": {
         "courthou": {
-          "wkd": {
-            "first": "05:55:00",
-            "last": "19:09:00"
-          },
-          "holiday": {
-            "first": "07:00:00",
+          "mtwthfrsatsun": {
+            "first": "06:00:00",
             "last": "18:00:00"
           }
         },
-        "eque": {},
         "ncs": {
-          "wkd": {
-            "first": "06:08:00",
-            "last": "18:02:00"
-          },
-          "holiday": {
-            "first": "08:30:00",
-            "last": "18:30:00"
-          }
-        }
-      }
-    },
-    "22": {
-      "title": "Route 22",
-      "color": "006600",
-      "tag": "22",
-      "oppositeColor": "ffffff",
-      "max": [
-        38.922743,
-        -76.8510979
-      ],
-      "min": [
-        38.8897491,
-        -76.8678956
-      ],
-      "stops": {
-        "To Landover Mall": [
-          "morstation_d",
-          "garrgibb_o",
-          "22_43",
-          "22_44_o",
-          "22_45_o",
-          "22_46_o",
-          "22_47_o",
-          "22_36_o",
-          "22_35_o",
-          "22_34_o",
-          "22_41_o",
-          "garrrear",
-          "garrmorg",
-          "22_37_o",
-          "22_29",
-          "22_27_o",
-          "22_15_o",
-          "22_2",
-          "22_3",
-          "22_13_o",
-          "22_12_o",
-          "901brig",
-          "brigaren",
-          "22_10",
-          "22_42_o",
-          "22_17_o",
-          "22_7_o",
-          "22_6_o",
-          "pgsports_o",
-          "22_5_o",
-          "22_8_o",
-          "22_18_o"
-        ],
-        "To Morgan Blvd Metro Center": [
-          "brstevar_d",
-          "brightse",
-          "brigapt2",
-          "22_18",
-          "22_7",
-          "22_6",
-          "pgsports",
-          "22_5",
-          "22_8",
-          "22_17",
-          "22_42",
-          "22_9",
-          "brigbish",
-          "1000jer",
-          "22_12",
-          "22_13",
-          "22_4",
-          "22_1",
-          "22_15",
-          "22_20",
-          "22_27",
-          "22_24",
-          "22_37",
-          "garrmorg_i",
-          "garrgibb_i",
-          "22_38",
-          "22_44",
-          "22_45",
-          "22_46",
-          "22_47",
-          "22_36",
-          "22_35",
-          "22_34",
-          "22_41",
-          "garrhart",
-          "garrmorg_i2"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "morstation_d",
-          "22_46_o",
-          "22_35_o",
-          "22_37_o",
-          "22_12_o",
-          "22_17_o",
-          "pgsports_o",
-          "brstmprg_a"
-        ],
-        "outbound": [
-          "brstevar_d",
-          "pgsports",
-          "22_17",
-          "22_12",
-          "22_37",
-          "22_46",
-          "22_35",
-          "morstation_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "landover": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "18:40:00"
-          }
-        },
-        "morgan": {
-          "wkd": {
-            "first": "06:00:00",
-            "last": "18:40:00"
-          }
-        }
-      }
-    },
-    "23": {
-      "title": "Route 23",
-      "color": "33cc33",
-      "tag": "23",
-      "oppositeColor": "000000",
-      "max": [
-        38.9168784,
-        -76.8678174
-      ],
-      "min": [
-        38.8854804,
-        -76.9158116
-      ],
-      "stops": {
-        "To Addison Road Station": [
-          "chevms_d",
-          "columbia",
-          "5800colu",
-          "columbir",
-          "23_17",
-          "sherwilln",
-          "shercypt_i",
-          "cedalee_i",
-          "23_19",
-          "23_18",
-          "cyptjunt_i",
-          "23_29",
-          "23_30",
-          "shefcypr",
-          "23_67_s",
-          "shergian_sb",
-          "shermlk",
-          "23_73",
-          "23_60",
-          "23_70",
-          "23_64",
-          "23_71",
-          "23_68",
-          "pgsports",
-          "23_2",
-          "23_72",
-          "23_65",
-          "23_75",
-          "23_74",
-          "belhbelh_i",
-          "23_14",
-          "23_52",
-          "23_47",
-          "23_51",
-          "23_50",
-          "nallenal_i",
-          "23_49",
-          "23_48",
-          "23_35",
-          "hillmoun",
-          "walkshad",
-          "walkgosp",
-          "posswalk",
-          "wlkmshdy_i2",
-          "walkmtn_i2",
-          "hillwill_i",
-          "23_32",
-          "23_34",
-          "23_33",
-          "23_57",
-          "23_54",
-          "23_55",
-          "centrale",
-          "centralc",
-          "centrals"
-        ],
-        "To Cheverly Metro Station": [
-          "ars_d",
-          "23_21",
-          "centralc_o",
-          "centdaim_nb",
-          "23_55_o",
-          "23_54_o",
-          "23_57_o",
-          "23_56",
-          "23_34_o",
-          "23_32_o",
-          "hillwill_o",
-          "mtnwalk_o",
-          "wlkmshdy_o",
-          "walksolid",
-          "posswalk_o",
-          "wlkmshdy_i",
-          "walkmtn_o",
-          "23_76",
-          "23_77_o",
-          "23_48_o",
-          "23_49_o",
-          "nallenal_o",
-          "23_50_o",
-          "23_51_o",
-          "23_47_o",
-          "23_52_o",
-          "23_14_o",
-          "23_13",
-          "23_15_o",
-          "23_75_o",
-          "23_64_o",
-          "23_71_o",
-          "23_68_o",
-          "pgsports_o",
-          "23_2_o",
-          "23_72_o",
-          "23_65_o",
-          "23_70_o",
-          "sherbell_o",
-          "23_62",
-          "23_73_o",
-          "shermlk_o",
-          "shergian",
-          "23_67_n",
-          "shercypt_o",
-          "cedaleepl_o",
-          "23_19_o",
-          "23_18_o",
-          "23_28_o",
-          "23_29_o",
-          "23_30_o",
-          "23_63",
-          "sherwill2_nb",
-          "23_17_o",
-          "columbir_o",
-          "colp5700",
-          "columbia_o"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "chevms_d",
-          "23_67_s",
-          "shermlk",
-          "pgsports",
-          "23_47",
-          "23_35",
-          "posswalk",
-          "ars_a"
-        ],
-        "outbound": [
-          "ars_d",
-          "posswalk_o",
-          "23_76",
-          "23_47_o",
-          "pgsports_o",
-          "shermlk_o",
-          "sherwill2_nb",
-          "chevms_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "ars": {
-          "wkd": {
-            "first": "06:07:00",
-            "last": "20:10:00"
-          },
-          "holiday": {
-            "first": "07:00:00",
-            "last": "18:00:00"
-          }
-        },
-        "cheverly": {
-          "wkd": {
-            "first": "06:00:00",
-            "last": "19:50:00"
-          },
-          "holiday": {
-            "first": "08:00:00",
             "last": "18:00:00"
           }
         }
@@ -1669,7 +955,7 @@
       ],
       "min": [
         38.84585,
-        -76.9178116
+        -76.9178117
       ],
       "stops": {
         "To Capitol Heights Metro": [
@@ -1815,16 +1101,14 @@
           "24_52_o",
           "24_17_o",
           "24_12",
-          "silverhi_o",
           "24_4_o",
-          "24_15_o",
+          "24_14_o",
           "capitolh_a"
         ],
         "outbound": [
           "captiolh_d",
-          "24_15",
-          "walkmarl_i",
-          "silverhi",
+          "24_14",
+          "brooridl",
           "kipcoun",
           "24_17",
           "24_52",
@@ -1833,147 +1117,15 @@
       },
       "scheduledTimeRange": {
         "capitolh": {
-          "wkd": {
-            "first": "05:25:00",
-            "last": "19:30:00"
-          },
-          "holiday": {
-            "first": "07:00:00",
+          "mtwthfrsatsun": {
+            "first": "06:00:00",
             "last": "18:00:00"
           }
         },
         "morgan": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "19:30:00"
-          },
-          "holiday": {
-            "first": "08:01:00",
-            "last": "18:01:00"
-          }
-        }
-      }
-    },
-    "25": {
-      "title": "Route 25",
-      "color": "33ffff",
-      "tag": "25",
-      "oppositeColor": "000000",
-      "max": [
-        38.8889704,
-        -76.9024382
-      ],
-      "min": [
-        38.8701405,
-        -76.93047
-      ],
-      "stops": {
-        "Westbound Loop": [
-          "capitolh_dw",
-          "25_6",
-          "25_15",
-          "southbst_wb",
-          "25_43",
-          "25_45",
-          "25_2",
-          "25_3",
-          "marlglac_i",
-          "marljans_i",
-          "marllarc_i",
-          "25_42",
-          "25_11",
-          "25_10",
-          "25_12",
-          "733capi",
-          "25_41",
-          "25_40",
-          "25_8",
-          "caph503",
-          "25_4",
-          "25_5",
-          "25_33",
-          "25_36",
-          "25_35",
-          "25_34",
-          "25_32",
-          "25_31",
-          "25_46",
-          "25_1",
-          "suffcent",
-          "25_22",
-          "25_23",
-          "centrala",
-          "25_27",
-          "eastcapi"
-        ],
-        "Eastbound Loop": [
-          "capitolh_de",
-          "eastcapi_o",
-          "25_27_o",
-          "centralt",
-          "25_16",
-          "25_21",
-          "25_20",
-          "25_17",
-          "25_8_o",
-          "caph503_o",
-          "25_4_o",
-          "25_5_o",
-          "25_33_o",
-          "25_36_o",
-          "25_35_o",
-          "25_34_o",
-          "25_32_o",
-          "25_31_o",
-          "25_7",
-          "734capi",
-          "25_12_o",
-          "25_10_o",
-          "25_11_o",
-          "25_37",
-          "marllarc",
-          "marljans",
-          "marlglac",
-          "25_3_o",
-          "25_2_o",
-          "25_44",
-          "25_43_o",
-          "southbst_eb",
-          "25_14",
-          "25_9"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "capitolh_de",
-          "25_27_o",
-          "25_36_o",
-          "25_42_o",
-          "25_2_o",
-          "25_43_o",
-          "capitolh_ae"
-        ],
-        "outbound": [
-          "capitolh_dw",
-          "25_43",
-          "25_2",
-          "25_42",
-          "25_36",
-          "25_27",
-          "capitolh_aw"
-        ]
-      },
-      "scheduledTimeRange": {
-        "ebloop": {
-          "wkd": {
-            "first": "06:15:00",
-            "last": "18:55:00"
-          }
-        },
-        "wbloop": {
-          "wkd": {
-            "first": "06:05:00",
-            "last": "18:25:00"
+            "last": "18:00:00"
           }
         }
       }
@@ -2056,12 +1208,10 @@
           "morgstat_d",
           "hampstee_eb",
           "campuswa",
-          "motorveh_d",
           "largo_a"
         ],
         "outbound": [
           "largo_d",
-          "motorveh_d_wb",
           "campuswa_wb",
           "hampstee_wb",
           "morstation_a"
@@ -2069,107 +1219,15 @@
       },
       "scheduledTimeRange": {
         "largo": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "19:20:00"
-          },
-          "holiday": {
-            "first": "08:00:00",
             "last": "18:00:00"
           }
         },
         "morgan": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "19:20:00"
-          },
-          "holiday": {
-            "first": "07:00:00",
             "last": "18:00:00"
-          }
-        }
-      }
-    },
-    "27": {
-      "title": "Route 27",
-      "color": "663300",
-      "tag": "27",
-      "oppositeColor": "ffffff",
-      "max": [
-        38.9362195,
-        -76.8713798
-      ],
-      "min": [
-        38.9265201,
-        -76.8916518
-      ],
-      "stops": {
-        "Northbound": [
-          "lms_d_nb",
-          "penn3133",
-          "penn3300",
-          "27_8",
-          "75th3300",
-          "75th3209",
-          "27_2",
-          "27_3",
-          "27_1",
-          "27_4",
-          "27_5",
-          "27_6",
-          "landfire",
-          "land75th",
-          "landpine",
-          "oldlland"
-        ],
-        "Southbound": [
-          "lms_d",
-          "oldlland_sb",
-          "landpine_sb",
-          "landkent",
-          "landfire_sb",
-          "landpros_sb",
-          "hubbmlk",
-          "hubbdodg",
-          "dodghubb",
-          "dodg3404",
-          "dodgland",
-          "land75th_sb",
-          "75th3119",
-          "75th3209_sb",
-          "75th3321",
-          "penns75th",
-          "penn3300_sb",
-          "penn3133_sb"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "lms_d_nb",
-          "27_8",
-          "27_3",
-          "27_6",
-          "lms_a_nb"
-        ],
-        "outbound": [
-          "lms_d",
-          "hubbmlk",
-          "dodgland",
-          "penns75th",
-          "lms_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "nb": {
-          "wkd": {
-            "first": "06:00:00",
-            "last": "18:30:00"
-          }
-        },
-        "sb": {
-          "wkd": {
-            "first": "06:15:00",
-            "last": "18:45:00"
           }
         }
       }
@@ -2256,20 +1314,9 @@
       },
       "scheduledStops": {
         "inbound": [
-          "largoe_d",
-          "arenshop_n",
-          "jeriresi_n",
-          "1400mer_n",
-          "9400pep_n",
-          "rubycam_n",
-          "camgrey_d",
-          "largoe_a2"
-        ],
-        "outbound": [
           "largoe_d2",
           "camgrey_d2",
           "rubycam_s",
-          "9400pep",
           "1400mer",
           "jeriresi_s",
           "arenshop_lg",
@@ -2277,16 +1324,10 @@
         ]
       },
       "scheduledTimeRange": {
-        "campgrey": {
-          "wkd": {
-            "first": "06:00:00",
-            "last": "18:45:00"
-          }
-        },
         "largo": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "18:45:00"
+            "last": "18:00:00"
           }
         }
       }
@@ -2413,22 +1454,14 @@
       },
       "scheduledTimeRange": {
         "bas": {
-          "wkd": {
-            "first": "06:00:00",
-            "last": "18:45:00"
-          },
-          "holiday": {
-            "first": "08:01:00",
+          "mtwthfrsatsun": {
+            "first": "06:01:00",
             "last": "18:01:00"
           }
         },
         "maryhosp": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "18:45:00"
-          },
-          "holiday": {
-            "first": "07:00:00",
             "last": "18:00:00"
           }
         }
@@ -2592,22 +1625,14 @@
       },
       "scheduledTimeRange": {
         "clintonf": {
-          "wkd": {
-            "first": "05:30:00",
-            "last": "19:30:00"
-          },
-          "holiday": {
-            "first": "07:00:00",
+          "mtwthfrsatsun": {
+            "first": "06:00:00",
             "last": "18:00:00"
           }
         },
         "naylor": {
-          "wkd": {
-            "first": "05:30:00",
-            "last": "19:30:00"
-          },
-          "holiday": {
-            "first": "08:00:00",
+          "mtwthfrsatsun": {
+            "first": "06:00:00",
             "last": "18:00:00"
           }
         }
@@ -2765,119 +1790,15 @@
       },
       "scheduledTimeRange": {
         "oldballe": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "20:00:00"
-          },
-          "holiday": {
-            "first": "07:00:00",
             "last": "18:00:00"
           }
         },
         "soutave": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "19:20:00"
-          },
-          "holiday": {
-            "first": "08:00:00",
             "last": "18:00:00"
-          }
-        }
-      }
-    },
-    "34": {
-      "title": "Route 34",
-      "color": "666633",
-      "tag": "34",
-      "oppositeColor": "ffffff",
-      "max": [
-        38.8618,
-        -76.925486
-      ],
-      "min": [
-        38.8438396,
-        -76.9460481
-      ],
-      "stops": {
-        "to Capital Crossing Apartments": [
-          "suitmsta_d",
-          "34_6",
-          "34_7_n",
-          "34_9_n",
-          "34_12_n",
-          "34_11_n",
-          "suitfed3",
-          "34_13_n",
-          "4415suit",
-          "4211suit",
-          "silvpark",
-          "silvrand_i",
-          "silvswan",
-          "suithuro",
-          "suithome",
-          "suitgat3_i",
-          "suitshad",
-          "4412suit_i",
-          "4211suit_i",
-          "34_2",
-          "34_3",
-          "whitapt_i",
-          "34_4"
-        ],
-        "To Suitland Metrorail Station": [
-          "cpcrapts_d",
-          "34_2_n",
-          "34_3_n",
-          "whitapt",
-          "34_4_n",
-          "34_5_n",
-          "34_14_n",
-          "34_16_n",
-          "4138opp",
-          "34_1_o",
-          "4412suit_op",
-          "suitgat1",
-          "suitshad_o",
-          "suithome_o",
-          "suithuro_o",
-          "silvsuit_o",
-          "4615silv",
-          "swanmetr",
-          "metrgat7",
-          "34_5",
-          "34_14",
-          "34_16",
-          "34_1",
-          "4106whsq",
-          "4412suit_i2",
-          "suitgat1_i",
-          "34_13",
-          "34_11",
-          "34_12",
-          "34_8",
-          "4615silv_i",
-          "silvmetr_i",
-          "metrgat7_i"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "suitmsta_d"
-        ],
-        "outbound": [
-          "cpcrapts_d",
-          "34_5_n",
-          "suitmsta_a",
-          "34_5"
-        ]
-      },
-      "scheduledTimeRange": {
-        "cap": {},
-        "suitms": {
-          "wkd": {
-            "first": "05:50:00",
-            "last": "19:44:00"
           }
         }
       }
@@ -3016,26 +1937,12 @@
           "oxonrive",
           "oxonpark_i",
           "smetsta_a"
-        ],
-        "outbound": [
-          "smetsta_d",
-          "oxonpark",
-          "gaylhote",
-          "oxon6192",
-          "padgetts",
-          "oxonrive",
-          "oxonpark_i",
-          "smetsta_a"
         ]
       },
       "scheduledTimeRange": {
         "loop": {
-          "wkd": {
-            "first": "05:55:00",
-            "last": "18:10:00"
-          },
-          "holiday": {
-            "first": "07:00:00",
+          "mtwthfrsatsun": {
+            "first": "06:00:00",
             "last": "18:00:00"
           }
         }
@@ -3051,7 +1958,7 @@
         -76.8719413
       ],
       "min": [
-        38.6243402,
+        38.6716149,
         -76.898051
       ],
       "stops": {
@@ -3065,24 +1972,16 @@
           "brandenn",
           "branclin_o",
           "branbroo",
-          "brangrov_o",
           "branold",
           "branlytt_o",
           "gwynnhs_o",
-          "timosafe_o",
-          "brancros_o",
-          "mattbean_o",
-          "mtapnr_a"
+          "timosafe_o"
         ],
         "Northbound": [
-          "mtapnr_d",
-          "mattbean",
-          "brancros",
-          "timosafe",
+          "brancros_o",
           "gwynnhs",
           "branlytt",
           "branold_i",
-          "brangrov",
           "brannopa",
           "brancork",
           "brankill",
@@ -3095,35 +1994,29 @@
       },
       "scheduledStops": {
         "inbound": [
-          "mtapnr_d",
-          "mattbean",
-          "brancros",
+          "brancros_o",
           "gwynnhs",
-          "brangrov",
           "bransurr",
           "clinton_a"
         ],
         "outbound": [
           "clinton_d",
           "bransurr_o",
-          "brangrov_o",
           "gwynnhs_o",
-          "brancros_o",
-          "mattbean_o",
-          "mtapnr_a"
+          "brancros_a"
         ]
       },
       "scheduledTimeRange": {
         "northbound": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "19:30:00"
+            "last": "18:00:00"
           }
         },
         "southbound": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "19:30:00"
+            "last": "18:00:00"
           }
         }
       }
@@ -3134,7 +2027,7 @@
       "tag": "37",
       "oppositeColor": "000000",
       "max": [
-        38.8407169,
+        38.840717,
         -76.9050602
       ],
       "min": [
@@ -3268,15 +2161,15 @@
       },
       "scheduledTimeRange": {
         "north": {
-          "wkd": {
-            "first": "05:15:00",
-            "last": "07:59:00"
+          "mtwthfrsatsun": {
+            "first": "06:00:00",
+            "last": "09:00:00"
           }
         },
         "south": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "16:00:00",
-            "last": "18:35:00"
+            "last": "18:00:00"
           }
         }
       }
@@ -3323,306 +2216,19 @@
       },
       "scheduledTimeRange": {
         "cab": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "06:00:00",
             "last": "18:45:00"
           }
         },
         "equ": {
-          "wkd": {
+          "mtwthfrsatsun": {
             "first": "06:06:00",
             "last": "18:51:00"
           }
         }
       }
-    },
-    "53": {
-      "title": "Route 53",
-      "color": "999900",
-      "tag": "53",
-      "oppositeColor": "000000",
-      "max": [
-        38.8411155,
-        -76.7090249
-      ],
-      "min": [
-        38.8147708,
-        -76.772081
-      ],
-      "stops": {
-        "To Clairfield Lane": [
-          "brodill",
-          "lordbrow",
-          "lordster",
-          "lordfair",
-          "lordjohn",
-          "johnasco",
-          "johncour",
-          "johnoldm",
-          "marloldm",
-          "oldmill",
-          "elmgove",
-          "countyad",
-          "oldpeer",
-          "marl301",
-          "3808oldc",
-          "marlm_c",
-          "villmcco",
-          "villhallo_s",
-          "villhalo_n",
-          "villbish"
-        ],
-        "To DWI Facility": [
-          "villclai_d",
-          "bishvill",
-          "villeyer_s",
-          "hallvill",
-          "mccovill",
-          "marlm_d",
-          "1809oldc",
-          "301marl",
-          "marlpeer",
-          "judgesdr",
-          "courthou",
-          "oldmarlo",
-          "oldmarlr",
-          "rogefarn",
-          "johncolo",
-          "johngov",
-          "johnlord",
-          "johncapt",
-          "dillbrow",
-          "dillecorr"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "countyad",
-          "villclai_a"
-        ],
-        "outbound": [
-          "villclai_d",
-          "marlm_d",
-          "courthou",
-          "rogefarn"
-        ]
-      },
-      "scheduledTimeRange": {
-        "clair": {
-          "wkd": {
-            "first": "06:58:00",
-            "last": "19:22:00"
-          }
-        },
-        "dwi": {
-          "wkd": {
-            "first": "06:30:00",
-            "last": "18:30:00"
-          }
-        }
-      }
-    },
-    "15x": {
-      "title": "Route 15 Express",
-      "color": "ff3333",
-      "tag": "15x",
-      "oppositeColor": "ffffff",
-      "max": [
-        39.012059,
-        -76.8445011
-      ],
-      "min": [
-        38.9482986,
-        -76.9174802
-      ],
-      "stops": {
-        "Northbound": [
-          "ncarr_d",
-          "ciprbrae_nb",
-          "goddvisi_nb",
-          "wmapices_nb",
-          "goddgate_nb",
-          "nasagate_nb",
-          "nasagate_nb2",
-          "gmscomm_nb",
-          "greenway_nb",
-          "greenway_nb2"
-        ],
-        "Southbound": [
-          "gms_d",
-          "gmscomm_sb",
-          "greestre_sb",
-          "greenway_sb",
-          "greenway_sb2",
-          "goddvisi_sb",
-          "goddvisi_sb2",
-          "wmapices_sb",
-          "goddgate_sb",
-          "nasagate_sb",
-          "ciprbrae_sb"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "ncarr_d",
-          "goddgate_nb",
-          "gms_a",
-          "gmscomm_nb"
-        ],
-        "outbound": [
-          "gms_d",
-          "gmscomm_sb",
-          "goddgate_sb",
-          "ncarr_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "nb": {
-          "wkd": {
-            "first": "06:00:00",
-            "last": "19:40:00"
-          }
-        },
-        "sb": {
-          "wkd": {
-            "first": "06:00:00",
-            "last": "19:00:00"
-          }
-        }
-      }
-    },
-    "21x": {
-      "title": "Route 21 Express",
-      "color": "6699cc",
-      "tag": "21x",
-      "oppositeColor": "000000",
-      "max": [
-        38.947018,
-        -76.8212899
-      ],
-      "min": [
-        38.88753,
-        -76.8724954
-      ],
-      "stops": {
-        "Northbound": [
-          "motorveh_d",
-          "pgccperi_n",
-          "pgccbick_n",
-          "camppgcc_n",
-          "campuswa_n",
-          "landover_n",
-          "brightst_n",
-          "brightsd_n"
-        ],
-        "Southbound": [
-          "newcarro_d",
-          "brightsd_s",
-          "brightst_s",
-          "landover_s",
-          "campuswa_s",
-          "pgccbick_s",
-          "pgccperi_s"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "motorveh_d",
-          "campuswa_n",
-          "landover_n",
-          "newcarro_a"
-        ],
-        "outbound": [
-          "newcarro_d",
-          "landover_s",
-          "campuswa_s",
-          "motorveh_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "nb": {
-          "wkd": {
-            "first": "09:02:00",
-            "last": "20:00:00"
-          }
-        },
-        "sb": {
-          "wkd": {
-            "first": "06:55:00",
-            "last": "19:30:00"
-          }
-        }
-      }
-    },
-    "35s": {
-      "title": "Route 35s",
-      "color": "92cca6",
-      "tag": "35s",
-      "oppositeColor": "000000",
-      "max": [
-        38.7984947,
-        -76.9898378
-      ],
-      "min": [
-        38.7246471,
-        -77.01666
-      ],
-      "stops": {
-        "Northbound": [
-          "swanwash",
-          "indhwash_i",
-          "washindi_i",
-          "liviharm_i",
-          "oxhrlivi_i",
-          "oxonjoel_i",
-          "oxonbrya_i",
-          "oxonfoxe_i",
-          "oxonkirb_i",
-          "mgmcent",
-          "oxontang",
-          "oxonharb"
-        ],
-        "Southbound": [
-          "oxhfprlt",
-          "mgmcasi",
-          "gaylord",
-          "georwate",
-          "oxonmano",
-          "oxonempl",
-          "oxonkirb",
-          "oxhrcfox",
-          "oxonpate",
-          "oxonjoel",
-          "oxhrlivi",
-          "washindi",
-          "indhwash",
-          "washindi2",
-          "livialam",
-          "livmedc",
-          "swanhead"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "oxhfprlt_a"
-        ],
-        "outbound": [
-          "oxhfprlt",
-          "gaylord",
-          "indhwash",
-          "livmedc"
-        ]
-      },
-      "scheduledTimeRange": {
-        "nb": {},
-        "sb": {
-          "wkd": {
-            "first": "09:00:00",
-            "last": "15:20:00"
-          }
-        }
-      }
     }
   },
-  "copyright": "All data copyright Prince Georges County 2019."
+  "copyright": "All data copyright Prince Georges County 2020."
 }

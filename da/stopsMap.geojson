@@ -251,22 +251,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.014163,
-          40.7171498
+          -74.014237,
+          40.717136
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Chambers St & West Broadway",
-        "tag": "chamwbro"
+        "title": "Warren St & Greenwich St",
+        "tag": "wargreen",
+        "stopId": "0002"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0089098,
-          40.7152996
+          -74.0114124,
+          40.7157121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Warren St & Church St",
+        "tag": "warrchur",
+        "stopId": "0003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0082545,
+          40.7142863
         ]
       }
     },
@@ -280,8 +296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0074562,
-          40.7131778
+          -74.0074573,
+          40.7131783
         ]
       }
     },
@@ -295,8 +311,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0117681,
-          40.7150002
+          -74.0117693,
+          40.7150004
         ]
       }
     },
@@ -310,8 +326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.015599,
-          40.7155734
+          -74.0155997,
+          40.7155726
         ]
       }
     },
@@ -325,8 +341,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0154375,
-          40.7143571
+          -74.0154364,
+          40.7143566
         ]
       }
     },
@@ -340,8 +356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0161641,
-          40.7107922
+          -74.0161644,
+          40.7107913
         ]
       }
     },
@@ -355,8 +371,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0171071,
-          40.7089337
+          -74.0171077,
+          40.7089328
         ]
       }
     },
@@ -370,8 +386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0169537,
-          40.7082169
+          -74.0169526,
+          40.7082165
         ]
       }
     },
@@ -385,8 +401,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0173185,
-          40.7072872
+          -74.0173191,
+          40.7072863
         ]
       }
     },
@@ -401,7 +417,7 @@
         "type": "Point",
         "coordinates": [
           -74.0180488,
-          40.7057746
+          40.7057737
         ]
       }
     },
@@ -415,8 +431,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0173967,
-          40.7048819
+          -74.0173954,
+          40.7048816
         ]
       }
     },
@@ -430,8 +446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0153604,
-          40.7047349
+          -74.0153591,
+          40.7047348
         ]
       }
     },
@@ -445,8 +461,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.013134,
-          40.7023067
+          -74.0131327,
+          40.7023068
         ]
       }
     },
@@ -460,8 +476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0110256,
-          40.7030241
+          -74.0110244,
+          40.7030244
         ]
       }
     },
@@ -475,8 +491,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0085297,
-          40.7042887
+          -74.0085287,
+          40.7042894
         ]
       }
     },
@@ -490,8 +506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0070682,
-          40.7053075
+          -74.0070673,
+          40.7053081
         ]
       }
     },
@@ -505,8 +521,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0056773,
-          40.7062735
+          -74.0056763,
+          40.7062742
         ]
       }
     },
@@ -529,7 +545,8 @@
       "type": "Feature",
       "properties": {
         "title": "South Street & Peck Slip",
-        "tag": "soutpeck"
+        "tag": "soutpeck",
+        "stopId": "0001"
       },
       "geometry": {
         "type": "Point",
@@ -540,5 +557,5 @@
       }
     }
   ],
-  "copyright": "All data copyright Downtown Connection 2019."
+  "copyright": "All data copyright Downtown Connection 2020."
 }

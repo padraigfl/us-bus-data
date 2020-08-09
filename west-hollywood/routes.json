@@ -61,7 +61,7 @@
       "scheduledStops": {
         "inbound": [
           "S62",
-          "S2",
+          "S56",
           "S60",
           "S61",
           "S54",
@@ -73,7 +73,7 @@
         ],
         "outbound": [
           "S62",
-          "S2",
+          "S56",
           "S60",
           "S61",
           "S54",
@@ -86,15 +86,11 @@
       },
       "scheduledTimeRange": {
         "Eastbound": {
-          "Friday": {
+          "FrSat": {
             "first": "09:00:00",
             "last": "16:32:00"
           },
           "MoTuWeTh": {
-            "first": "09:00:00",
-            "last": "16:32:00"
-          },
-          "Saturday": {
             "first": "09:00:00",
             "last": "16:32:00"
           }
@@ -115,7 +111,7 @@
         -118.38662
       ],
       "stops": {
-        "Westbound": [
+        "westbound": [
           "S50",
           "S79",
           "S24",
@@ -190,18 +186,14 @@
         ]
       },
       "scheduledTimeRange": {
-        "Westbound": {
-          "Friday": {
+        "westbound": {
+          "FrSat": {
             "first": "09:00:00",
-            "last": "16:58:00"
+            "last": "17:01:00"
           },
           "MoTuWeTh": {
             "first": "09:00:00",
-            "last": "16:58:00"
-          },
-          "Saturday": {
-            "first": "09:00:00",
-            "last": "16:58:00"
+            "last": "17:01:00"
           }
         }
       }
@@ -220,11 +212,11 @@
         -118.38392
       ],
       "stops": {
-        "Westbound": [
+        "westbound": [
           "S80",
           "S50_ar"
         ],
-        "Eastbound": [
+        "eastbound": [
           "S48",
           "S66",
           "S67",
@@ -259,8 +251,8 @@
           "S50_ar",
           "S50",
           "S79",
-          "S72_ar",
           "S72",
+          "S34_ar",
           "S34",
           "S73",
           "S74",
@@ -271,32 +263,24 @@
         ]
       },
       "scheduledTimeRange": {
-        "Eastbound": {
-          "Friday": {
+        "eastbound": {
+          "FrSat": {
             "first": "07:00:00",
-            "last": "19:08:00"
+            "last": "19:25:00"
           },
           "MoTuWeTh": {
             "first": "07:00:00",
-            "last": "19:08:00"
-          },
-          "Saturday": {
-            "first": "17:16:00",
-            "last": "19:39:00"
+            "last": "19:25:00"
           }
         },
-        "Westbound": {
-          "Friday": {
+        "westbound": {
+          "FrSat": {
             "first": "07:02:00",
-            "last": "18:55:00"
+            "last": "19:29:00"
           },
           "MoTuWeTh": {
             "first": "07:02:00",
-            "last": "18:55:00"
-          },
-          "Saturday": {
-            "first": "17:39:00",
-            "last": "19:13:00"
+            "last": "19:29:00"
           }
         }
       }
@@ -367,11 +351,7 @@
       },
       "scheduledTimeRange": {
         "Eastbound": {
-          "Friday": {
-            "first": "20:00:00",
-            "last": "02:50:00"
-          },
-          "Saturday": {
+          "FrSat": {
             "first": "20:00:00",
             "last": "02:50:00"
           },
@@ -385,11 +365,7 @@
           }
         },
         "Westbound": {
-          "Friday": {
-            "first": "20:00:00",
-            "last": "02:39:00"
-          },
-          "Saturday": {
+          "FrSat": {
             "first": "20:00:00",
             "last": "02:39:00"
           },
@@ -404,54 +380,6 @@
         }
       }
     },
-    "SHL": {
-      "title": "Shortline",
-      "color": "e73dda",
-      "tag": "SHL",
-      "oppositeColor": "000000",
-      "max": [
-        34.1011699,
-        -118.33882
-      ],
-      "min": [
-        34.0906499,
-        -118.36559
-      ],
-      "stops": {
-        "Westbound": [
-          "S80",
-          "S77_ar"
-        ],
-        "Eastbound": [
-          "S77",
-          "S80_ar"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "S77",
-          "S80_ar"
-        ],
-        "outbound": [
-          "S80",
-          "S77_ar"
-        ]
-      },
-      "scheduledTimeRange": {
-        "Eastbound": {
-          "Saturday": {
-            "first": "19:45:00",
-            "last": "00:51:00"
-          }
-        },
-        "Westbound": {
-          "Saturday": {
-            "first": "19:34:00",
-            "last": "01:01:00"
-          }
-        }
-      }
-    },
     "SNST": {
       "title": "Sunset Trip",
       "color": "00d9d9",
@@ -462,11 +390,12 @@
         -118.36132
       ],
       "min": [
-        34.08077,
+        34.0831199,
         -118.3874599
       ],
       "stops": {
-        "Westbound": [
+        "westbound": [
+          "SUN25",
           "SUN1",
           "SUN2",
           "SUN3",
@@ -478,10 +407,9 @@
           "SUN9",
           "SUN10",
           "SUN11",
-          "SUN12",
-          "S2_ar"
+          "S81_ar"
         ],
-        "Eastbound": [
+        "eastbound": [
           "S56",
           "S3",
           "S58",
@@ -492,51 +420,44 @@
           "SUN21",
           "SUN22",
           "SUN23",
-          "S77",
-          "SUN25_ar"
+          "S77_ar"
         ]
       },
       "scheduledStops": {
         "inbound": [
           "S56",
-          "SUN25_ar"
+          "SUN19",
+          "S77_ar"
         ],
         "outbound": [
-          "SUN1",
-          "S2_ar"
+          "SUN25",
+          "SUN6",
+          "S81_ar"
         ]
       },
       "scheduledTimeRange": {
-        "Eastbound": {
-          "Friday": {
-            "first": "19:05:00",
-            "last": "02:49:00"
-          },
-          "Saturday": {
-            "first": "19:05:00",
-            "last": "02:49:00"
+        "eastbound": {
+          "FrSat": {
+            "first": "17:00:00",
+            "last": "01:06:00"
           },
           "Service1": {
-            "first": "19:05:00",
-            "last": "02:49:00"
+            "first": "17:00:00",
+            "last": "01:06:00"
           }
         },
-        "Westbound": {
-          "Friday": {
-            "first": "19:00:00",
-            "last": "02:44:00"
-          },
-          "Saturday": {
-            "first": "19:00:00",
-            "last": "02:44:00"
+        "westbound": {
+          "FrSat": {
+            "first": "17:00:00",
+            "last": "01:06:00"
           },
           "Service1": {
-            "first": "19:00:00",
-            "last": "02:44:00"
+            "first": "17:00:00",
+            "last": "01:06:00"
           }
         }
       }
     }
   },
-  "copyright": "All data copyright City of West Hollywood 2019."
+  "copyright": "All data copyright City of West Hollywood 2020."
 }

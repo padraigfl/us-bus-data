@@ -304,21 +304,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "OGDEN & PARK",
-        "tag": "ogdepark",
-        "stopId": "0019"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4512102,
-          36.9837131
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "PARK ST. LOT",
         "tag": "parklot",
         "stopId": "0022"
@@ -341,8 +326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.447884,
-          36.9862139
+          -86.4478839,
+          36.986214
         ]
       }
     },
@@ -476,23 +461,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.4603471,
+          -86.460347,
           36.9827889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "MORGANTOWN RD. WAL-MART",
-        "tag": "walmart",
-        "stopId": "0053"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4838807,
-          36.987571
         ]
       }
     },
@@ -522,7 +492,7 @@
         "type": "Point",
         "coordinates": [
           -86.463781,
-          36.980882
+          36.9808819
         ]
       }
     },
@@ -604,33 +574,48 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "CAMPBELL LANE PARK & RIDE",
-        "tag": "cambpknr_d2",
-        "stopId": "0001"
+        "title": "REGENTS & NORMAL",
+        "tag": "regnorm_ob",
+        "stopId": "0040"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.4698028,
-          36.9642662
+          -86.45656,
+          36.981596
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "KROGER",
-        "tag": "kroger",
-        "stopId": "0023"
+        "title": "COLLEGE & COLLEGE HEIGHTS",
+        "tag": "collhght",
+        "stopId": "0055"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.465407,
-          36.960064
+          -86.4506125,
+          36.9879392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "REGENTS & NORMAL",
+        "tag": "regnorm_ib",
+        "stopId": "0054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4565349,
+          36.9816636
         ]
       }
     }
   ],
-  "copyright": "All data copyright Western Kentucky University 2019."
+  "copyright": "All data copyright Western Kentucky University 2020."
 }

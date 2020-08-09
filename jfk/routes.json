@@ -224,7 +224,171 @@
           }
         }
       }
+    },
+    "jf": {
+      "title": "Jamaica AirTrain Station to Federal Circle AirTrain Station",
+      "color": "cd0000",
+      "tag": "jf",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.698746,
+        -73.803333
+      ],
+      "min": [
+        40.660786,
+        -73.8078129
+      ],
+      "stops": {
+        "Loop": [
+          "fedecirc",
+          "jamastat"
+        ]
+      },
+      "scheduledStops": {}
+    },
+    "f1": {
+      "title": "Federal Circle AirTrain Station to Central Terminal Area Group 1",
+      "color": "40e0d0",
+      "tag": "f1",
+      "oppositeColor": "000000",
+      "max": [
+        40.661111,
+        -73.7839403
+      ],
+      "min": [
+        40.6419203,
+        -73.8033551
+      ],
+      "stops": {
+        "Loop": [
+          "fedecirc",
+          "term1",
+          "term2",
+          "term4"
+        ]
+      },
+      "scheduledStops": {}
+    },
+    "f2": {
+      "title": "Federal Circle AirTrain Station to Central Terminal Area Group 2",
+      "color": "eec900",
+      "tag": "f2",
+      "oppositeColor": "000000",
+      "max": [
+        40.661111,
+        -73.77915
+      ],
+      "min": [
+        40.646684,
+        -73.8033551
+      ],
+      "stops": {
+        "Loop": [
+          "fedecirc",
+          "term5",
+          "term7",
+          "term8"
+        ]
+      },
+      "scheduledStops": {}
+    },
+    "lf": {
+      "title": "Federal Circle AirTrain Station to Lefferts Blvd AirTrain Station",
+      "color": "808080",
+      "tag": "lf",
+      "oppositeColor": "000000",
+      "max": [
+        40.6616788,
+        -73.803333
+      ],
+      "min": [
+        40.6607857,
+        -73.8297404
+      ],
+      "stops": {
+        "Loop": [
+          "fedecirc",
+          "stop4",
+          "howabeac"
+        ]
+      },
+      "scheduledStops": {}
+    },
+    "ct": {
+      "title": "Central Terminal Area Loop",
+      "color": "000000",
+      "tag": "ct",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.6485719,
+        -73.7791494
+      ],
+      "min": [
+        40.6419203,
+        -73.789967
+      ],
+      "stops": {
+        "Loop": [
+          "term1",
+          "term2",
+          "term4",
+          "term5",
+          "term7",
+          "term8"
+        ]
+      },
+      "scheduledStops": {}
+    },
+    "hbc3": {
+      "title": "Howard Beach AirTrain Station to Central Terminal Area Group 3",
+      "color": "308014",
+      "tag": "hbc3",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.661678,
+        -73.7839403
+      ],
+      "min": [
+        40.6419203,
+        -73.8298266
+      ],
+      "stops": {
+        "Loop": [
+          "howabeac",
+          "stop4",
+          "term1",
+          "term2",
+          "term4",
+          "stop4_i"
+        ]
+      },
+      "scheduledStops": {}
+    },
+    "hbc4": {
+      "title": "Howard Beach AirTrain Station to Central Terminal Area Group 4",
+      "color": "003f87",
+      "tag": "hbc4",
+      "oppositeColor": "ffffff",
+      "max": [
+        40.6616781,
+        -73.77915
+      ],
+      "min": [
+        40.646684,
+        -73.8298266
+      ],
+      "stops": {
+        "Loop": [
+          "howabeac",
+          "stop4",
+          "term5",
+          "term7",
+          "term8",
+          "stop4_i"
+        ]
+      },
+      "scheduledStops": {}
     }
   },
-  "copyright": "All data copyright JFK International Airport 2019."
+  "copyright": "All data copyright JFK International Airport 2020."
 }

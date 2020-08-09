@@ -2,10 +2,7 @@
   "data": {
     "trma": {
       "routes": {
-        "blue": {
-          "": true
-        },
-        "red": {
+        "blue2": {
           "": true
         }
       },
@@ -17,10 +14,7 @@
     },
     "hng7": {
       "routes": {
-        "blue": {
-          "": true
-        },
-        "red": {
+        "blue2": {
           "": true
         }
       },
@@ -30,68 +24,34 @@
       "tag": "hng7",
       "lat": "40.7710663"
     },
-    "trmb": {
+    "102nd_i": {
       "routes": {
-        "blue": {
-          "": true
-        },
-        "purple": {
+        "blue2": {
           "": true
         }
       },
-      "lon": "-73.870945",
-      "title": "Terminal B",
-      "stopId": "200",
-      "tag": "trmb",
-      "lat": "40.774097"
-    },
-    "stop15": {
-      "routes": {
-        "blue": {
-          "": true
-        },
-        "red": {
-          "": true
-        }
-      },
-      "lon": "-73.8868069",
-      "title": "Stop 15",
-      "tag": "stop15",
-      "lat": "40.7698556"
-    },
-    "trmd": {
-      "routes": {
-        "purple": {
-          "": true
-        },
-        "red": {
-          "": true
-        }
-      },
-      "lon": "-73.8625335",
-      "title": "Terminal D",
-      "stopId": "400",
-      "tag": "trmd",
-      "lat": "40.7685436"
+      "lon": "-73.868611",
+      "title": "102nd St Inbound",
+      "shortTitle": "102nd Inbound",
+      "stopId": "000",
+      "tag": "102nd_i",
+      "lat": "40.769592"
     },
     "trmc": {
       "routes": {
-        "purple": {
-          "": true
-        },
-        "red": {
+        "blue2": {
           "": true
         }
       },
-      "lon": "-73.864853",
+      "lon": "-73.8648525",
       "title": "Terminal C",
       "stopId": "300",
       "tag": "trmc",
-      "lat": "40.770124"
+      "lat": "40.7701237"
     },
     "102st": {
       "routes": {
-        "purple": {
+        "blue2": {
           "": true
         }
       },
@@ -99,11 +59,11 @@
       "title": "102nd Street",
       "shortTitle": "102nd",
       "tag": "102st",
-      "lat": "40.7696969"
+      "lat": "40.769697"
     },
     "mangpark": {
       "routes": {
-        "purple": {
+        "blue2": {
           "": true
         }
       },
@@ -113,95 +73,29 @@
       "tag": "mangpark",
       "lat": "40.768464"
     },
-    "102nd_i": {
+    "trmb": {
       "routes": {
-        "red": {
+        "blue2": {
           "": true
         }
       },
-      "lon": "-73.8686109",
-      "title": "102nd St Inbound",
-      "shortTitle": "102nd Inbound",
-      "stopId": "000",
-      "tag": "102nd_i",
-      "lat": "40.7695921"
+      "lon": "-73.87223",
+      "title": "Terminal B",
+      "stopId": "200",
+      "tag": "trmb",
+      "lat": "40.772615"
     },
-    "102nd_o": {
+    "hng5": {
       "routes": {
-        "red": {
+        "blue2": {
           "": true
         }
       },
-      "lon": "-73.8698323",
-      "title": "102nd St Outbound",
-      "shortTitle": "102nd Outbound",
-      "stopId": "000",
-      "tag": "102nd_o",
-      "lat": "40.7698572"
-    },
-    "trmb2": {
-      "routes": {
-        "tx1": {
-          "": true
-        }
-      },
-      "lon": "-73.8745263",
-      "title": "Taxi Shuttle B Pick Up",
-      "stopId": "319",
-      "tag": "trmb2",
-      "lat": "40.7740346"
-    },
-    "pickup": {
-      "routes": {
-        "tx1": {
-          "": true
-        }
-      },
-      "lon": "-73.8868681",
-      "title": "Taxi Shuttle B Drop Off",
-      "stopId": "320",
-      "tag": "pickup",
-      "lat": "40.7702647"
-    },
-    "trmc2": {
-      "routes": {
-        "tx2": {
-          "": true
-        }
-      },
-      "lon": "-73.864853",
-      "title": "Taxi Shuttle CD Pick Up (C Pick Up)",
-      "stopId": "747",
-      "tag": "trmc2",
-      "lat": "40.770124"
-    },
-    "pickup2": {
-      "routes": {
-        "tx2": {
-          "": true
-        },
-        "tx3": {
-          "": true
-        }
-      },
-      "lon": "-73.886868",
-      "title": "Taxi Shuttle CD Drop Off",
-      "stopId": "757",
-      "tag": "pickup2",
-      "lat": "40.770265"
-    },
-    "trmd2": {
-      "routes": {
-        "tx3": {
-          "": true
-        }
-      },
-      "lon": "-73.8625335",
-      "title": "Taxi Shuttle CD Pick Up (D pick up)",
-      "stopId": "737",
-      "tag": "trmd2",
-      "lat": "40.7685436"
+      "lon": "-73.879838",
+      "title": "Hanger 5",
+      "tag": "hng5",
+      "lat": "40.770815"
     }
   },
-  "copyright": "All data copyright LaGuardia Airport Shuttle 2019."
+  "copyright": "All data copyright LaGuardia Airport Shuttle 2020."
 }

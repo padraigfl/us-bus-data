@@ -347,6 +347,9 @@
       "tag": "amesmain",
       "lat": "42.362385",
       "scheduleRoutes": {
+        "midday": {
+          "paciland": {}
+        },
         "morning": {
           "erie": {
             "wkd": [
@@ -927,7 +930,12 @@
       "title": "Pacific St/Landsdowne (Inbound)",
       "stopId": "20",
       "tag": "paciland_ib",
-      "lat": "42.3599646"
+      "lat": "42.3599646",
+      "scheduleRoutes": {
+        "midday": {
+          "amesmain": {}
+        }
+      }
     },
     "univland": {
       "routes": {
@@ -1360,5 +1368,5 @@
       "lat": "42.360717"
     }
   },
-  "copyright": "All data copyright EZRide - Charles River TMA 2019."
+  "copyright": "All data copyright EZRide - Charles River TMA 2020."
 }

@@ -294,7 +294,9 @@
         ]
       },
       "scheduledTimeRange": {
-        "chap": {},
+        "chap": {
+          "wkd": {}
+        },
         "jac": {
           "wkd": {
             "first": "07:10:00",
@@ -335,8 +337,12 @@
         ]
       },
       "scheduledTimeRange": {
-        "obsv": {},
-        "slot": {}
+        "obsv": {
+          "wkd": {}
+        },
+        "slot": {
+          "wkd": {}
+        }
       }
     },
     "purple": {
@@ -396,12 +402,20 @@
       },
       "scheduledTimeRange": {
         "faukflat": {
+          "wkd": {
+            "first": "08:35:00",
+            "last": "21:35:00"
+          },
           "sat": {
             "first": "08:35:00",
             "last": "21:35:00"
           }
         },
         "walmart": {
+          "wkd": {
+            "first": "08:00:00",
+            "last": "21:00:00"
+          },
           "sat": {
             "first": "08:00:00",
             "last": "21:00:00"
@@ -441,7 +455,9 @@
         ]
       },
       "scheduledTimeRange": {
-        "campcrk": {},
+        "campcrk": {
+          "wkd": {}
+        },
         "obse": {
           "wkd": {
             "first": "07:00:00",
@@ -487,7 +503,10 @@
         ]
       },
       "scheduledTimeRange": {
-        "yatechap": {}
+        "yatechap": {
+          "wkd": {},
+          "sat": {}
+        }
       }
     },
     "grey": {
@@ -584,8 +603,12 @@
         ]
       },
       "scheduledTimeRange": {
-        "cityhall": {},
-        "lyce": {}
+        "cityhall": {
+          "wkd": {}
+        },
+        "lyce": {
+          "wkd": {}
+        }
       }
     },
     "otayexpr": {
@@ -826,32 +849,47 @@
       "tag": "soc",
       "oppositeColor": "ffffff",
       "max": [
-        34.3645119,
+        34.364779,
         -89.520267
       ],
       "min": [
-        34.34774,
+        34.347739,
         -89.5364848
       ],
       "stops": {
         "Observatory": [
-          "southoxf_d"
+          "southoxf_d",
+          "coutler_i"
         ],
         "South Oxford Center": [
-          "observ_d"
+          "observ_d",
+          "coutler_o"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "southoxf_d"
+          "southoxf_d",
+          "coutler_i",
+          "observ_a"
         ],
         "outbound": [
-          "observ_d"
+          "observ_d",
+          "coutler_o"
         ]
       },
       "scheduledTimeRange": {
-        "observ": {},
-        "southoxf": {}
+        "observ": {
+          "wkd": {
+            "first": "07:10:00",
+            "last": "18:50:00"
+          }
+        },
+        "southoxf": {
+          "wkd": {
+            "first": "07:00:00",
+            "last": "19:00:00"
+          }
+        }
       }
     },
     "rednorth": {
@@ -1005,5 +1043,5 @@
       }
     }
   },
-  "copyright": "All data copyright City of Oxford 2019."
+  "copyright": "All data copyright City of Oxford 2020."
 }

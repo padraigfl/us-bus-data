@@ -251,6 +251,9 @@
         },
         "ucexp": {
           "": true
+        },
+        "ocam": {
+          "": true
         }
       },
       "lon": "-80.2432127",
@@ -1375,7 +1378,12 @@
       "shortTitle": "Museum Of Science & Discovery",
       "stopId": "45",
       "tag": "musescie",
-      "lat": "26.1211027"
+      "lat": "26.1211027",
+      "scheduleRoutes": {
+        "dse": {
+          "rhills_n_m": {}
+        }
+      }
     },
     "terry": {
       "routes": {
@@ -1403,7 +1411,20 @@
       "stopId": "46",
       "tag": "publix",
       "lat": "26.062861"
+    },
+    "halmos": {
+      "routes": {
+        "ocam": {
+          "": true
+        }
+      },
+      "lon": "-80.111548",
+      "title": "Halmos College of Natural Sciences and Oceanography",
+      "shortTitle": "Halmos College of Natural Sciences & Oceanography",
+      "stopId": "47",
+      "tag": "halmos",
+      "lat": "26.090529"
     }
   },
-  "copyright": "All data copyright Nova Southeastern University 2019."
+  "copyright": "All data copyright Nova Southeastern University 2020."
 }

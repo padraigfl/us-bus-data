@@ -158,6 +158,9 @@
           "gallmall",
           "bct",
           "lasolas"
+        ],
+        "outbound": [
+          "musescie"
         ]
       },
       "scheduledTimeRange": {
@@ -175,7 +178,11 @@
             "last": "23:00:00"
           }
         },
-        "rhills_n_m": {}
+        "rhills_n_m": {
+          "wkd": {},
+          "sat": {},
+          "sun": {}
+        }
       }
     },
     "cam4": {
@@ -257,7 +264,28 @@
         ]
       },
       "scheduledStops": {}
+    },
+    "ocam": {
+      "title": "Ocean Campus",
+      "color": "01a7ff",
+      "tag": "ocam",
+      "oppositeColor": "000000",
+      "max": [
+        26.090529,
+        -80.111548
+      ],
+      "min": [
+        26.0777321,
+        -80.2432134
+      ],
+      "stops": {
+        "Loop": [
+          "ucenter",
+          "halmos"
+        ]
+      },
+      "scheduledStops": {}
     }
   },
-  "copyright": "All data copyright Nova Southeastern University 2019."
+  "copyright": "All data copyright Nova Southeastern University 2020."
 }

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "BLUE": {
+      "title": "Blue",
+      "color": "165ba2",
+      "tag": "BLUE",
+      "oppositeColor": "ffffff",
+      "max": [
+        38.5846599,
+        -121.4960799
+      ],
+      "min": [
+        37.9281499,
+        -122.12914
+      ],
+      "stops": {
+        "FTC PH BART": [
+          "2455475",
+          "795554",
+          "5424",
+          "5425",
+          "795462",
+          "795555",
+          "5413",
+          "5412",
+          "2455474",
+          "5410",
+          "5351",
+          "2455430",
+          "5416",
+          "5417_ar"
+        ],
+        "FTC SACRAMENTO": [
+          "5417",
+          "807829",
+          "2455431",
+          "5351",
+          "5410",
+          "2455473",
+          "5412",
+          "5413",
+          "5414",
+          "795554",
+          "5424",
+          "5425",
+          "795462",
+          "2455475_ar"
+        ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "5417",
+          "807829",
+          "2455431",
+          "5351_ar"
+        ],
+        "outbound": [
+          "5351",
+          "2455430",
+          "5416",
+          "5417_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Benicia Ftc": {
+          "MoTuWeThFr": {
+            "first": "07:59:00",
+            "last": "16:13:00"
+          },
+          "Saturday": {
+            "first": "10:00:00",
+            "last": "19:04:00"
+          }
+        },
+        "Benicia Ph Bart": {
+          "MoTuWeThFr": {
+            "first": "09:38:00",
+            "last": "09:38:00"
+          },
+          "Saturday": {
+            "first": "08:00:00",
+            "last": "17:04:00"
+          }
+        },
+        "Davis Ftc": {
+          "MoTuWeThFr": {
+            "first": "16:30:00",
+            "last": "16:30:00"
+          }
+        },
+        "Dixon Ftc": {
+          "MoTuWeThFr": {
+            "first": "17:41:00",
+            "last": "17:41:00"
+          }
+        },
+        "Dixon Sac": {
+          "MoTuWeThFr": {
+            "first": "05:27:00",
+            "last": "06:30:00"
+          }
+        },
+        "Ftc Dixon": {
+          "MoTuWeThFr": {
+            "first": "17:13:00",
+            "last": "17:13:00"
+          }
+        },
+        "Ftc Ph Bart": {
+          "MoTuWeThFr": {
+            "first": "04:25:00",
+            "last": "18:50:00"
+          }
+        },
+        "Ftc Sacramento": {
+          "MoTuWeThFr": {
+            "first": "06:28:00",
+            "last": "14:43:00"
+          }
+        },
+        "Ftc Vacaville": {
+          "MoTuWeThFr": {
+            "first": "08:29:00",
+            "last": "19:43:00"
+          }
+        },
+        "Vacaville Ftc": {
+          "MoTuWeThFr": {
+            "first": "07:55:00",
+            "last": "08:55:00"
+          },
+          "Saturday": {
+            "first": "09:00:00",
+            "last": "17:04:00"
+          }
+        },
+        "Vacaville Sac": {
+          "MoTuWeThFr": {
+            "first": "14:33:00",
+            "last": "14:53:00"
+          }
+        },
+        "Ftc Davis": {
+          "Saturday": {
+            "first": "09:00:00",
+            "last": "15:04:00"
+          }
+        },
+        "Vac Davis": {
+          "Saturday": {
+            "first": "08:00:00",
+            "last": "08:00:00"
+          }
+        }
+      }
+    },
+    "GX": {
+      "title": "Gx",
+      "color": "05bb5e",
+      "tag": "GX",
+      "oppositeColor": "000000",
+      "max": [
+        38.2491899,
+        -122.04048
+      ],
+      "min": [
+        37.9248899,
+        -122.31705
+      ],
+      "stops": {
+        "FTC SC AMTRAK": [
+          "9827",
+          "5351",
+          "28635_ar"
+        ],
+        "FTC": [
+          "9827",
+          "5351_ar"
+        ],
+        "FTC DEL NORTE BART": [
+          "28635",
+          "5351",
+          "9827_ar"
+        ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "5351",
+          "9827_ar"
+        ],
+        "outbound": [
+          "9827",
+          "5351_ar"
+        ]
+      },
+      "scheduledTimeRange": {
+        "Del Norte Bart": {
+          "MoTuWeThFr": {
+            "first": "04:10:00",
+            "last": "17:36:00"
+          }
+        },
+        "Ftc": {
+          "MoTuWeThFr": {
+            "first": "07:36:00",
+            "last": "07:36:00"
+          }
+        },
+        "Ftc Del Norte Bart": {
+          "MoTuWeThFr": {
+            "first": "04:56:00",
+            "last": "18:22:00"
+          }
+        },
+        "Ftc Sc Amtrak": {
+          "MoTuWeThFr": {
+            "first": "04:56:00",
+            "last": "19:30:00"
+          }
+        },
+        "Suisun City Amtrak": {
+          "MoTuWeThFr": {
+            "first": "05:56:00",
+            "last": "06:56:00"
+          }
+        }
+      }
+    }
+  },
+  "copyright": "All data copyright SolanoExpress 2020."
+}

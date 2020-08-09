@@ -41,8 +41,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8902459,
-          39.1651929
+          -76.8902412,
+          39.1651918
         ]
       }
     },
@@ -225,7 +225,22 @@
           39.1699266
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MARC Train Station",
+        "tag": "marc",
+        "stopId": "500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.842346,
+          39.101991
+        ]
+      }
     }
   ],
-  "copyright": "All data copyright APL 2019."
+  "copyright": "All data copyright APL 2020."
 }

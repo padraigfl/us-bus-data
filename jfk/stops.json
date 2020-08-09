@@ -1743,6 +1743,15 @@
       "routes": {
         "l": {
           "": true
+        },
+        "lf": {
+          "": true
+        },
+        "hbc3": {
+          "": true
+        },
+        "hbc4": {
+          "": true
         }
       },
       "lon": "-73.8297409",
@@ -2312,6 +2321,15 @@
       "routes": {
         "l": {
           "": true
+        },
+        "lf": {
+          "": true
+        },
+        "hbc3": {
+          "": true
+        },
+        "hbc4": {
+          "": true
         }
       },
       "lon": "-73.8258468",
@@ -2367,7 +2385,155 @@
       "stopId": "909",
       "tag": "noname2",
       "lat": "40.6624571"
+    },
+    "fedecirc": {
+      "routes": {
+        "jf": {
+          "": true
+        },
+        "f1": {
+          "": true
+        },
+        "f2": {
+          "": true
+        },
+        "lf": {
+          "": true
+        }
+      },
+      "lon": "-73.803333",
+      "title": "Federal Circle AirTrain Station",
+      "stopId": "000",
+      "tag": "fedecirc",
+      "lat": "40.661111"
+    },
+    "jamastat": {
+      "routes": {
+        "jf": {
+          "": true
+        }
+      },
+      "lon": "-73.8078129",
+      "title": "Jamaica AirTrain Station",
+      "tag": "jamastat",
+      "lat": "40.698746"
+    },
+    "term1": {
+      "routes": {
+        "f1": {
+          "": true
+        },
+        "ct": {
+          "": true
+        },
+        "hbc3": {
+          "": true
+        }
+      },
+      "lon": "-73.789967",
+      "title": "Terminal 1",
+      "tag": "term1",
+      "lat": "40.643639"
+    },
+    "term2": {
+      "routes": {
+        "f1": {
+          "": true
+        },
+        "ct": {
+          "": true
+        },
+        "hbc3": {
+          "": true
+        }
+      },
+      "lon": "-73.7886905",
+      "title": "Terminal 2",
+      "tag": "term2",
+      "lat": "40.6419203"
+    },
+    "term4": {
+      "routes": {
+        "f1": {
+          "": true
+        },
+        "ct": {
+          "": true
+        },
+        "hbc3": {
+          "": true
+        }
+      },
+      "lon": "-73.7839403",
+      "title": "Terminal 4",
+      "tag": "term4",
+      "lat": "40.6437368"
+    },
+    "term5": {
+      "routes": {
+        "f2": {
+          "": true
+        },
+        "ct": {
+          "": true
+        },
+        "hbc4": {
+          "": true
+        }
+      },
+      "lon": "-73.77915",
+      "title": "Terminal 5",
+      "tag": "term5",
+      "lat": "40.646887"
+    },
+    "term7": {
+      "routes": {
+        "f2": {
+          "": true
+        },
+        "ct": {
+          "": true
+        },
+        "hbc4": {
+          "": true
+        }
+      },
+      "lon": "-73.7827281",
+      "title": "Terminal 7",
+      "tag": "term7",
+      "lat": "40.6485721"
+    },
+    "term8": {
+      "routes": {
+        "f2": {
+          "": true
+        },
+        "ct": {
+          "": true
+        },
+        "hbc4": {
+          "": true
+        }
+      },
+      "lon": "-73.7898116",
+      "title": "Terminal 8",
+      "tag": "term8",
+      "lat": "40.646684"
+    },
+    "stop4_i": {
+      "routes": {
+        "hbc3": {
+          "": true
+        },
+        "hbc4": {
+          "": true
+        }
+      },
+      "lon": "-73.8258469",
+      "title": "Long Term 4",
+      "tag": "stop4_i",
+      "lat": "40.661678"
     }
   },
-  "copyright": "All data copyright JFK International Airport 2019."
+  "copyright": "All data copyright JFK International Airport 2020."
 }
