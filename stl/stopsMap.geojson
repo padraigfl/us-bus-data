@@ -2186,8 +2186,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8221699,
-          45.5309299
+          -73.82217,
+          45.53093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carole / Des Tulipes [41218]",
+        "tag": "41218",
+        "stopId": "41218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8236999,
+          45.5323499
         ]
       }
     },
@@ -2351,8 +2366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.7025399,
-          45.5546599
+          -73.70227,
+          45.5548499
         ]
       }
     },
@@ -2456,8 +2471,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.71138,
-          45.5502899
+          -73.7113799,
+          45.55029
         ]
       }
     },
@@ -5786,7 +5801,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.71792,
+          -73.7179199,
           45.5524799
         ]
       }
@@ -5824,30 +5839,30 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "D'argenteuil / Desmarteau [41517]",
+        "title": "D'argenteuil / Brien [41517]",
         "tag": "41517",
         "stopId": "41517"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.71416,
-          45.55471
+          -73.71475,
+          45.5544299
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "D'argenteuil / Desmarteau [41518]",
+        "title": "D'argenteuil / Brien [41518]",
         "tag": "41518",
         "stopId": "41518"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.71406,
-          45.5548999
+          -73.71465,
+          45.5545999
         ]
       }
     },
@@ -6056,8 +6071,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.78064,
-          45.6211499
+          -73.78068,
+          45.6213099
         ]
       }
     },
@@ -7676,7 +7691,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.7157199,
+          -73.71572,
           45.54992
         ]
       }
@@ -7736,8 +7751,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8208399,
-          45.5280299
+          -73.82084,
+          45.52803
         ]
       }
     },
@@ -7781,8 +7796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.81943,
-          45.52664
+          -73.8194299,
+          45.5266399
         ]
       }
     },
@@ -7946,8 +7961,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8127599,
-          45.5263999
+          -73.81276,
+          45.5264
         ]
       }
     },
@@ -10542,7 +10557,7 @@
         "type": "Point",
         "coordinates": [
           -73.71105,
-          45.5579199
+          45.55792
         ]
       }
     },
@@ -22586,8 +22601,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.6815299,
-          45.60058
+          -73.68153,
+          45.6005799
         ]
       }
     },
@@ -22646,8 +22661,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.6639499,
-          45.61256
+          -73.6647899,
+          45.61222
         ]
       }
     },
@@ -22684,15 +22699,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Vanier / Breault [42880]",
+        "title": "Vanier / Route 125 Nord [42880]",
         "tag": "42880",
         "stopId": "42880"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.66151,
-          45.6135299
+          -73.6619499,
+          45.61336
         ]
       }
     },
@@ -26051,8 +26066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.72882,
-          45.5594999
+          -73.7288199,
+          45.5595
         ]
       }
     },
@@ -27304,7 +27319,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Le Carrefour / Face Au Sears [43295]",
+        "title": "Carrefour Laval [43295]",
         "tag": "43295",
         "stopId": "43295"
       },
@@ -35607,7 +35622,7 @@
         "type": "Point",
         "coordinates": [
           -73.69986,
-          45.61084
+          45.6108399
         ]
       }
     },
@@ -35621,8 +35636,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.70059,
-          45.61181
+          -73.7005899,
+          45.6118099
         ]
       }
     },
@@ -36883,6 +36898,36 @@
         "coordinates": [
           -73.7421899,
           45.53698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Du Souvenir / Aut.15 [46655]",
+        "tag": "46655",
+        "stopId": "46655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7338299,
+          45.55687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "L&#233;vesque / Roger-Lortie [46656]",
+        "tag": "46656",
+        "stopId": "46656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62057,
+          45.6418199
         ]
       }
     },
@@ -40564,15 +40609,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Carole / Des Tulipes [41218]",
-        "tag": "CP41218",
-        "stopId": "41218"
+        "title": "Saint-Martin / Carole [46238]",
+        "tag": "CP46238",
+        "stopId": "46238"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8237,
-          45.5323499
+          -73.82432,
+          45.5328199
         ]
       }
     },
@@ -41299,21 +41344,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Saint-Martin / Des Pivoines [46238]",
-        "tag": "CP46238",
-        "stopId": "46238"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.82301,
-          45.5332999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Samson / Cl&#233;ophas-Charbonneau [43036]",
         "tag": "CP43036",
         "stopId": "43036"
@@ -41374,15 +41404,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Saint-Martin / Des Pivoines [46247]",
+        "title": "Saint-Martin / Carole [46247]",
         "tag": "CP46247",
         "stopId": "46247"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.82319,
-          45.5335799
+          -73.82423,
+          45.5331899
         ]
       }
     },

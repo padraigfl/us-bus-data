@@ -15,30 +15,6 @@
         -77.06939
       ],
       "stops": {
-        "Westbound": [
-          "union_d",
-          "masscap_w",
-          "massnew_w",
-          "mass5th_w",
-          "mass7th_w",
-          "new9th_w",
-          "k12th13th_w",
-          "k14th_w",
-          "k16th_w",
-          "k17th_w",
-          "k19th_w",
-          "21stk_w",
-          "penn22nd_w",
-          "k24th_w",
-          "k30th_w",
-          "kwis_w",
-          "mwisc_w",
-          "wiscdum_w",
-          "wiscp_w",
-          "wiscq_w",
-          "wiscr_w",
-          "wisc34th_w"
-        ],
         "Eastbound": [
           "35thwisc_d",
           "wisc34th_e",
@@ -64,6 +40,30 @@
           "mass5th_e",
           "massnew_e",
           "mass1st_e"
+        ],
+        "Westbound": [
+          "union_d",
+          "masscap_w",
+          "massnew_w",
+          "mass5th_w",
+          "mass7th_w",
+          "new9th_w",
+          "k12th13th_w",
+          "k14th_w",
+          "k16th_w",
+          "k17th_w",
+          "k19th_w",
+          "21stk_w",
+          "penn22nd_w",
+          "k24th_w",
+          "k30th_w",
+          "kwis_w",
+          "mwisc_w",
+          "wiscdum_w",
+          "wiscp_w",
+          "wiscq_w",
+          "wiscr_w",
+          "wisc34th_w"
         ]
       },
       "scheduledStops": {
@@ -138,16 +138,6 @@
         -77.0525699
       ],
       "stops": {
-        "Northbound": [
-          "i14th_n",
-          "14thk_n",
-          "14thrhod_n",
-          "14thu_n",
-          "colu14th_n",
-          "colu16th_n",
-          "coluont_n",
-          "coluadam_n"
-        ],
         "Southbound": [
           "24thcal_s",
           "callan_s",
@@ -157,6 +147,16 @@
           "14thu_s",
           "14thp_s",
           "13thk_s"
+        ],
+        "Northbound": [
+          "i14th_n",
+          "14thk_n",
+          "14thrhod_n",
+          "14thu_n",
+          "colu14th_n",
+          "colu16th_n",
+          "coluont_n",
+          "coluadam_n"
         ]
       },
       "scheduledStops": {
@@ -227,18 +227,6 @@
         -77.0227008
       ],
       "stops": {
-        "Westbound": [
-          "penn8th_s",
-          "8thg_s",
-          "8thl_s",
-          "600m_s",
-          "m3rd_s",
-          "mstnewj_w",
-          "msthalf_w",
-          "mstdela_w",
-          "mst4th_w",
-          "7thist_w"
-        ],
         "Eastbound": [
           "dst7th_s",
           "7thist_e",
@@ -251,6 +239,18 @@
           "600m_n",
           "8thl_n",
           "8thg_n"
+        ],
+        "Westbound": [
+          "penn8th_s",
+          "8thg_s",
+          "8thl_s",
+          "600m_s",
+          "m3rd_s",
+          "mstnewj_w",
+          "msthalf_w",
+          "mstdela_w",
+          "mst4th_w",
+          "7thist_w"
         ]
       },
       "scheduledStops": {
@@ -320,16 +320,6 @@
         -77.07153
       ],
       "stops": {
-        "Westbound": [
-          "n19th_d",
-          "mstnham",
-          "m24th",
-          "m28th",
-          "m30th",
-          "m31st",
-          "mwisc",
-          "m33rd"
-        ],
         "Eastbound": [
           "rossmetr_d",
           "m34th",
@@ -339,6 +329,16 @@
           "mpenn",
           "l24th",
           "massnham"
+        ],
+        "Westbound": [
+          "n19th_d",
+          "mstnham",
+          "m24th",
+          "m28th",
+          "m30th",
+          "m31st",
+          "mwisc",
+          "m33rd"
         ]
       },
       "scheduledStops": {
@@ -409,25 +409,6 @@
         -77.0053599
       ],
       "stops": {
-        "Northbound": [
-          "congheig_d",
-          "stanalab_n",
-          "stanbruc_n",
-          "stanelva_n",
-          "stanpome_n",
-          "stanbrya_n",
-          "stanwash_n",
-          "sherbowe_n",
-          "anmetro_na",
-          "anmetro_n",
-          "mlkwst_e",
-          "mlkhope",
-          "11thost_n",
-          "8thl_w",
-          "8thg_w",
-          "8these_w",
-          "8thcapi_n"
-        ],
         "Southbound": [
           "colucirc_d",
           "8thcapi_s",
@@ -446,6 +427,25 @@
           "stanelva_s",
           "stanbruc_s",
           "stanalab_s"
+        ],
+        "Northbound": [
+          "congheig_d",
+          "stanalab_n",
+          "stanbruc_n",
+          "stanelva_n",
+          "stanpome_n",
+          "stanbrya_n",
+          "stanwash_n",
+          "sherbowe_n",
+          "anmetro_na",
+          "anmetro_n",
+          "mlkwst_e",
+          "mlkhope",
+          "11thost_n",
+          "8thl_w",
+          "8thg_w",
+          "8these_w",
+          "8thcapi_n"
         ]
       },
       "scheduledStops": {

@@ -116,8 +116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.276613,
-          38.863
+          -77.2766126,
+          38.8630005
         ]
       }
     },
@@ -349,7 +349,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rappahannock Ln at Patriot Circle",
+        "title": "GMU Campus - Rappahannock Ln at Patriot Circle",
         "tag": "gmu",
         "stopId": "030"
       },
@@ -371,8 +371,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3115816,
-          38.8351259
+          -77.3115821,
+          38.835126
         ]
       }
     },
@@ -386,8 +386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3120049,
-          38.8373417
+          -77.312005,
+          38.8373421
         ]
       }
     },
@@ -401,8 +401,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3115897,
-          38.8385303
+          -77.3115895,
+          38.8385307
         ]
       }
     },
@@ -416,8 +416,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.310595,
-          38.8399139
+          -77.3105948,
+          38.8399142
         ]
       }
     },
@@ -431,8 +431,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3093617,
-          38.8417224
+          -77.3093615,
+          38.8417227
         ]
       }
     },
@@ -612,7 +612,22 @@
         "type": "Point",
         "coordinates": [
           -77.332504,
-          38.8555019
+          38.855502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jermantown Rd & Fairfax Blvd",
+        "tag": "jermfair",
+        "stopId": "200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.332358,
+          38.855859
         ]
       }
     },
@@ -626,8 +641,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.330984,
-          38.8574629
+          -77.3309842,
+          38.8574627
         ]
       }
     },
@@ -641,8 +656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3292448,
-          38.8593311
+          -77.329245,
+          38.8593309
         ]
       }
     },
@@ -656,8 +671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3269496,
-          38.8616563
+          -77.3269498,
+          38.8616561
         ]
       }
     },
@@ -671,8 +686,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3249831,
-          38.8614831
+          -77.3249834,
+          38.8614832
         ]
       }
     },
@@ -687,7 +702,7 @@
         "type": "Point",
         "coordinates": [
           -77.3264899,
-          38.8594497
+          38.8594499
         ]
       }
     },
@@ -701,8 +716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3258787,
-          38.8592429
+          -77.3258791,
+          38.859243
         ]
       }
     },
@@ -716,8 +731,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3225687,
-          38.8583009
+          -77.322569,
+          38.858301
         ]
       }
     },
@@ -731,8 +746,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3174579,
-          38.8572439
+          -77.3174582,
+          38.857244
         ]
       }
     },
@@ -746,7 +761,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3153756,
+          -77.3153759,
           38.856934
         ]
       }
@@ -761,8 +776,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3110523,
-          38.8569538
+          -77.3110526,
+          38.8569537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fairfax Blvd & Chain Bridge Rd",
+        "tag": "fairchain",
+        "stopId": "066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3072073,
+          38.8582778
         ]
       }
     },
@@ -776,7 +806,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.306171,
+          -77.3061708,
           38.858635
         ]
       }
@@ -791,7 +821,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3040116,
+          -77.3040114,
           38.8594351
         ]
       }

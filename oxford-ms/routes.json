@@ -270,6 +270,11 @@
         -89.5489
       ],
       "stops": {
+        "Chapel": [
+          "jac_d",
+          "jac_w",
+          "fratwest"
+        ],
         "JAC": [
           "chap",
           "guytdorm",
@@ -277,11 +282,6 @@
           "256",
           "rotc",
           "chiomega"
-        ],
-        "Chapel": [
-          "jac_d",
-          "jac_w",
-          "fratwest"
         ]
       },
       "scheduledStops": {
@@ -437,12 +437,12 @@
         -89.54984
       ],
       "stops": {
+        "To Campus Creek": [
+          "obse"
+        ],
         "Observatory": [
           "campwalk",
           "campcrk"
-        ],
-        "To Campus Creek": [
-          "obse"
         ]
       },
       "scheduledStops": {
@@ -523,6 +523,12 @@
         -89.5192189
       ],
       "stops": {
+        "Square": [
+          "oxfohsch",
+          "thotel",
+          "oxfothea",
+          "140_ib"
+        ],
         "Oxford High School": [
           "cityhall_d",
           "140",
@@ -531,12 +537,6 @@
           "convcent",
           "blake",
           "delldavi"
-        ],
-        "Square": [
-          "oxfohsch",
-          "thotel",
-          "oxfothea",
-          "140_ib"
         ]
       },
       "scheduledStops": {
@@ -625,6 +625,11 @@
         -89.547183
       ],
       "stops": {
+        "Faulkner Flats": [
+          "obse",
+          "soucamp_i",
+          "mullotay_ib"
+        ],
         "Observatory": [
           "faukflat",
           "fleudeli",
@@ -632,11 +637,6 @@
           "flat",
           "mullotay_ob",
           "soucamp_o"
-        ],
-        "Faulkner Flats": [
-          "obse",
-          "soucamp_i",
-          "mullotay_ib"
         ]
       },
       "scheduledStops": {
@@ -985,6 +985,13 @@
         -89.528817
       ],
       "stops": {
+        "Colemans": [
+          "oldarm_d",
+          "18garfo",
+          "belk18th",
+          "communi",
+          "coleman_d"
+        ],
         "Old Armory": [
           "vetehome",
           "slamasadd",
@@ -996,13 +1003,6 @@
           "18garf",
           "18ross",
           "18univ"
-        ],
-        "Colemans": [
-          "oldarm_d",
-          "18garfo",
-          "belk18th",
-          "communi",
-          "coleman_d"
         ]
       },
       "scheduledStops": {

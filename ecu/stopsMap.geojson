@@ -19,6 +19,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Mendenhall / West End Bus Terminal",
+        "tag": "westend",
+        "stopId": "21010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3703832,
+          35.6081427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Charles Blvd & Stratford Arms",
         "tag": "stratford",
         "stopId": "23125"
@@ -26,8 +41,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3686211,
-          35.5920903
+          -77.3686207,
+          35.5920895
         ]
       }
     },
@@ -41,7 +56,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3693748,
+          -77.369375,
           35.589919
         ]
       }
@@ -49,14 +64,59 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Charles Boulevard & Ficklen Drive",
+        "tag": "charfick",
+        "stopId": "26005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.369633,
+          35.5986709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ficklen Drive",
+        "tag": "fick",
+        "stopId": "26010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3650192,
+          35.598455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "College Hill East",
+        "tag": "collhill_e",
+        "stopId": "23025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.363207,
+          35.6011478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Christenbury Gym Bus Terminal",
-        "tag": "chrisgym",
+        "tag": "chrisgym_i",
         "stopId": "21005"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3633878,
+          -77.36339,
           35.6044209
         ]
       }
@@ -139,120 +199,30 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Speight Bus Terminal",
-        "tag": "spei",
-        "stopId": "21015"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.36125,
-          35.6067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "5th Street & Founders Drive",
-        "tag": "foun5th_o",
-        "stopId": "23091"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3645393,
-          35.608412
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "5th Street & Summit Street",
-        "tag": "5thsum",
-        "stopId": "23086"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3681224,
-          35.6098721
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "4th and Reade",
-        "tag": "4threade",
-        "stopId": "23063"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3706297,
-          35.6117207
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "HR Building (2nd & Reade)",
-        "tag": "hrbldg",
-        "stopId": "23065"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.370391,
-          35.6139726
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "First Street Place",
-        "tag": "pittfirs",
-        "stopId": "29004"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3751839,
-          35.6156302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "University Book Exchange (UBE)",
-        "tag": "univbook",
-        "stopId": "23080"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3721499,
-          35.6105802
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Reade Street & Chico's (Outbound)",
+        "title": "Reade & Chico's (Inbound)",
         "tag": "readchic",
         "stopId": "23060"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3714599,
-          35.60978
+          -77.371482,
+          35.6098089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5th Street & Reade (Inbound)",
+        "tag": "5thread_i",
+        "stopId": "23084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3704801,
+          35.6106234
         ]
       }
     },
@@ -266,8 +236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3681549,
-          35.6097709
+          -77.3675035,
+          35.6094984
         ]
       }
     },
@@ -281,23 +251,188 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3650267,
-          35.608483
+          -77.3648112,
+          35.6083925
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Mendenhall / West End Bus Terminal",
-        "tag": "westend",
-        "stopId": "21010"
+        "title": "Speight Bus Terminal",
+        "tag": "spei",
+        "stopId": "21015"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3703832,
-          35.6081426
+          -77.361292,
+          35.606717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "College Hill B Lot",
+        "tag": "fldlot",
+        "stopId": "23026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3618567,
+          35.6027129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Christenbury Gym Bus Terminal",
+        "tag": "chrisgym",
+        "stopId": "21005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3633888,
+          35.6044207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5th & Founder's (Outbound)",
+        "tag": "5thfou",
+        "stopId": "23091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3651677,
+          35.6086698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5th & Summit (Outbound)",
+        "tag": "5thsum",
+        "stopId": "23086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3681192,
+          35.6098666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5th Street & Reade (Outbound)",
+        "tag": "5thread",
+        "stopId": "23087"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.370319,
+          35.6106994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Reade & 4th",
+        "tag": "read4th",
+        "stopId": "23063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3706039,
+          35.6117442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "HR Building (2nd & Reade)",
+        "tag": "hrbuild",
+        "stopId": "23065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3702605,
+          35.6139388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "First Street Place",
+        "tag": "firsplac",
+        "stopId": "23070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.375313,
+          35.615936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University Book Exchange",
+        "tag": "ube",
+        "stopId": "23080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3721454,
+          35.6105786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5th & Summit (Inbound)",
+        "tag": "5thsum_i",
+        "stopId": "23085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3681573,
+          35.6097696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5th & Founder's (Inbound)",
+        "tag": "5thfou_i",
+        "stopId": "23090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3647993,
+          35.6083875
         ]
       }
     },
@@ -446,8 +581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3567419,
-          35.6030972
+          -77.3569067,
+          35.6031216
         ]
       }
     },
@@ -461,8 +596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3523578,
-          35.6024625
+          -77.3525227,
+          35.6024864
         ]
       }
     },
@@ -476,8 +611,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3507802,
-          35.6023796
+          -77.3509477,
+          35.6023763
         ]
       }
     },
@@ -491,8 +626,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3454112,
-          35.6032013
+          -77.3455752,
+          35.6031737
         ]
       }
     },
@@ -506,8 +641,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3376315,
-          35.6016457
+          -77.3377745,
+          35.6017165
         ]
       }
     },
@@ -521,8 +656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3318989,
-          35.59738
+          -77.3317843,
+          35.5974783
         ]
       }
     },
@@ -619,231 +754,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Village Green on 5th Street",
-        "tag": "vgrn5th",
-        "stopId": "24060"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3450086,
-          35.6066214
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Beech Street Villas",
-        "tag": "beachvil",
-        "stopId": "24065"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3419498,
-          35.6086205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Riverwalk Apartments",
-        "tag": "rivrwalk",
-        "stopId": "24070"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.34314,
-          35.60925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "University Terrace",
-        "tag": "univterr",
-        "stopId": "24075"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3503898,
-          35.6089562
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "The Gables at Brownlea",
-        "tag": "gablbrow",
-        "stopId": "10040"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.352122,
-          35.6106477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brownlea Drive & Wyndham Circle",
-        "tag": "browwynd",
-        "stopId": "24085"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3536499,
-          35.61073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Wyndham Circle & Willow Street",
-        "tag": "wyndwill",
-        "stopId": "24090"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3532011,
-          35.6125506
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Willow Street & N Ash Street",
-        "tag": "ashwill",
-        "stopId": "24095"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3551897,
-          35.6127899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "The District: Club House",
-        "tag": "ash1st",
-        "stopId": "24100"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3559175,
-          35.6109976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "N Oak Street & Willow Street",
-        "tag": "oakwill",
-        "stopId": "24105"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3562707,
-          35.6124274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Willow Street & N Elm Street",
-        "tag": "willelm",
-        "stopId": "24110"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3574032,
-          35.6128562
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "33 East: Main Office",
-        "tag": "pirtcove_offc",
-        "stopId": "25005"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.328201,
-          35.598728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "33 East: Phase 2",
-        "tag": "pirtcove_phs2",
-        "stopId": "25010"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3277356,
-          35.601212
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "The Davis: Back",
-        "tag": "univmanb",
-        "stopId": "25015"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3191517,
-          35.5946121
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "The Davis: Front",
-        "tag": "univmanf",
-        "stopId": "25020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3204957,
-          35.5937961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Sunchase: Front",
         "tag": "sunfront",
         "stopId": "25025"
@@ -851,8 +761,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.33382,
-          35.60404
+          -77.3337308,
+          35.6039292
         ]
       }
     },
@@ -866,8 +776,293 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3350815,
-          35.6029836
+          -77.3350585,
+          35.6029664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beech Street Villas",
+        "tag": "beachvil",
+        "stopId": "24065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3419446,
+          35.608647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Riverwalk Apartments",
+        "tag": "rivrwalk",
+        "stopId": "24070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.343399,
+          35.60933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "4th & Cedar",
+        "tag": "4thcedar",
+        "stopId": "24071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3441048,
+          35.6076171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "University Terrace",
+        "tag": "univterr",
+        "stopId": "24075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.35039,
+          35.60896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Gables at Brownlea",
+        "tag": "gablbrow",
+        "stopId": "10040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3521214,
+          35.6106476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brownlea Drive & Wyndham Circle",
+        "tag": "browwynd",
+        "stopId": "24085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3536829,
+          35.610683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wyndham Circle & Willow Street",
+        "tag": "wyndwill",
+        "stopId": "24090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.353187,
+          35.6125683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Willow Street & N Ash Street",
+        "tag": "ashwill",
+        "stopId": "24095"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3551815,
+          35.612744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The District: Club House",
+        "tag": "ash1st",
+        "stopId": "24100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3558889,
+          35.6110001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N Oak Street & Willow Street",
+        "tag": "oakwill",
+        "stopId": "24105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.356257,
+          35.6124332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Willow Street & N Elm Street",
+        "tag": "willelm",
+        "stopId": "24110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.357386,
+          35.6128092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Copper Beech: Phase 2",
+        "tag": "copbphs2",
+        "stopId": "25070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3291577,
+          35.596746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Copper Beech: Back",
+        "tag": "copbback",
+        "stopId": "25075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3286354,
+          35.5953005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Copper Beech: Clubhouse",
+        "tag": "copbclub",
+        "stopId": "25080"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3272028,
+          35.5961631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Davis: Back",
+        "tag": "univmanb",
+        "stopId": "25015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3191899,
+          35.5946359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Davis: Front",
+        "tag": "univmanf",
+        "stopId": "25020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3204926,
+          35.5937982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "33 East: Main Office",
+        "tag": "pirtcove_offc",
+        "stopId": "25005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3282019,
+          35.5987226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "33 East: Phase 2",
+        "tag": "pirtcove_phs2",
+        "stopId": "25010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3277376,
+          35.6012111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Charles and Mellow Mushroom",
+        "tag": "charmush",
+        "stopId": "25031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3659521,
+          35.5876472
         ]
       }
     },
@@ -881,8 +1076,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3637003,
-          35.5856482
+          -77.363699,
+          35.5856541
         ]
       }
     },
@@ -896,8 +1091,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3543004,
-          35.5746575
+          -77.3543078,
+          35.5746803
         ]
       }
     },
@@ -911,8 +1106,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3554681,
-          35.5730312
+          -77.355492,
+          35.572974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Bellamy",
+        "tag": "bell",
+        "stopId": "25085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3495859,
+          35.5591889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Signature Dr",
+        "tag": "signatur",
+        "stopId": "25090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3482369,
+          35.5591852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Recreational Complex: Field House",
+        "tag": "nrecfield",
+        "stopId": "25055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3200231,
+          35.6292259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Recreational Complex: Boat House",
+        "tag": "nrecboat",
+        "stopId": "25060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3221648,
+          35.6289722
         ]
       }
     },
@@ -941,173 +1196,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.3819993,
-          35.5909619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Copper Beech: Phase 2",
-        "tag": "copbphs2",
-        "stopId": "25070"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3291576,
-          35.5967461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Copper Beech: Back",
-        "tag": "copbback",
-        "stopId": "25075"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3286365,
-          35.5953008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Copper Beech: Clubhouse",
-        "tag": "copbclub",
-        "stopId": "25080"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3272112,
-          35.5961547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "The Bellamy",
-        "tag": "bell",
-        "stopId": "25085"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.349586,
-          35.559189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Signature Dr",
-        "tag": "signatur",
-        "stopId": "25090"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3482375,
-          35.5591995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "North Recreational Complex: Field House",
-        "tag": "nrecfield",
-        "stopId": "25055"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.319864,
-          35.6292949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "North Recreational Complex: Boat House",
-        "tag": "nrecboat",
-        "stopId": "25060"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3231056,
-          35.6287087
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Christenbury Gym",
-        "tag": "chrisgym_d",
-        "stopId": "21005"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.36209,
-          35.6042554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Charles Boulevard & Ficklen Drive",
-        "tag": "charfick",
-        "stopId": "26005"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3697663,
-          35.5986462
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Ficklen Drive",
-        "tag": "fick",
-        "stopId": "26010"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3650192,
-          35.598455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Berkley & 14th",
-        "tag": "berk14",
-        "stopId": "26012"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3623905,
-          35.5981189
+          -77.3819887,
+          35.5909723
         ]
       }
     },
@@ -1123,36 +1213,6 @@
         "coordinates": [
           -77.37072,
           35.59972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "College Hill East",
-        "tag": "collhill_e",
-        "stopId": "23025"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.363207,
-          35.6011478
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Christenbury Gym Bus Terminal",
-        "tag": "chrisgym_i",
-        "stopId": "21005"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.3633899,
-          35.604421
         ]
       }
     }

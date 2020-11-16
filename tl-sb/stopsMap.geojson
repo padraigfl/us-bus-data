@@ -3004,6 +3004,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Brisbane Rd at Neerim Drive",
+        "tag": "301701",
+        "stopId": "301701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1151799,
+          -26.69312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Brisbane Rd at Tuckers Creek",
         "tag": "301702",
         "stopId": "301702"
@@ -3079,21 +3094,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Mooloolaba, River Esplanade",
-        "tag": "301708",
-        "stopId": "301708"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.1202399,
-          -26.68299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Walan St near Bahlaka St",
         "tag": "301709",
         "stopId": "301709"
@@ -3101,8 +3101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.1178699,
-          -26.68128
+          153.1165599,
+          -26.67869
         ]
       }
     },
@@ -3116,8 +3116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.1179499,
-          -26.68132
+          153.1167599,
+          -26.67854
         ]
       }
     },
@@ -3403,21 +3403,6 @@
         "coordinates": [
           152.9603599,
           -26.62582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Nambour Connection Rd near Erbacher Road",
-        "tag": "301731",
-        "stopId": "301731"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.9630199,
-          -26.64121
         ]
       }
     },
@@ -4459,15 +4444,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "David Low Way at Vernon Street (Temp relocation)",
+        "title": "David Low Way at Vernon Street",
         "tag": "301802",
         "stopId": "301802"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.1087599,
-          -26.4135
+          153.1086099,
+          -26.41534
         ]
       }
     },
@@ -7069,7 +7054,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Maroochydore Rd near Whites Rd",
+        "title": "Old Maroochydore Rd near Whites Rd",
         "tag": "301983",
         "stopId": "301983"
       },
@@ -7459,7 +7444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Maroochydore Rd near Whites Rd",
+        "title": "Old Maroochydore Rd near Whites Rd",
         "tag": "302015",
         "stopId": "302015"
       },
@@ -7489,7 +7474,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Parklands Blvd near Sunset Dr",
+        "title": "Parklands Bvd near Sunset Dr",
         "tag": "302018",
         "stopId": "302018"
       },
@@ -7526,8 +7511,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.1032499,
-          -26.78923
+          153.1023499,
+          -26.78843
         ]
       }
     },
@@ -9874,36 +9859,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ernest St near Goodchap Ave CLOSED from 6th July",
-        "tag": "302196",
-        "stopId": "302196"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.0442699,
-          -26.39802
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Ernest St near Goodchap St CLOSED from 6th July",
-        "tag": "302197",
-        "stopId": "302197"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.0442499,
-          -26.39804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Fairway Dr near Thompson Cr",
         "tag": "302198",
         "stopId": "302198"
@@ -11089,21 +11044,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Stradbroke Dr near Mark Dr (Hail n Ride)",
-        "tag": "315540",
-        "stopId": "315540"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.1023999,
-          -26.78842
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Maud St at Coghlan Court",
         "tag": "315683",
         "stopId": "315683"
@@ -11464,7 +11404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cobbs Rd near Paynter Park Dr",
+        "title": "Cobbs Rd near Paynter Park Dr (Hail n Ride)",
         "tag": "317476",
         "stopId": "317476"
       },
@@ -11479,7 +11419,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cobbs Rd near Countryview St",
+        "title": "Cobbs Rd near Countryview St (Hail n Ride)",
         "tag": "317485",
         "stopId": "317485"
       },
@@ -11494,7 +11434,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cobbs Rd near Countryview St",
+        "title": "Cobbs Rd near Countryview St (Hail n Ride)",
         "tag": "317486",
         "stopId": "317486"
       },
@@ -11509,7 +11449,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cobbs Rd near Paynter Park Dr",
+        "title": "Cobbs Rd near Paynter Park Dr (Hail n Ride)",
         "tag": "317487",
         "stopId": "317487"
       },
@@ -12776,8 +12716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0964099,
-          -26.8025
+          153.0971099,
+          -26.80178
         ]
       }
     },
@@ -12844,7 +12784,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Maroochydore Rd at Vise Road",
+        "title": "Old Maroochydore Rd at Vise Road",
         "tag": "319777",
         "stopId": "319777"
       },
@@ -12859,7 +12799,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Maroochydore Rd at Vise Road",
+        "title": "Old Maroochydore Rd at Vise Road",
         "tag": "319778",
         "stopId": "319778"
       },
@@ -13316,8 +13256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.0958599,
-          -26.79919
+          153.0959099,
+          -26.79894
         ]
       }
     },

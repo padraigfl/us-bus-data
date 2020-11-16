@@ -275,149 +275,29 @@
       "type": "Feature",
       "properties": {
         "title": "CREASON PARK & RIDE",
-        "tag": "creapknrrd",
+        "tag": "creapknr_ob",
         "stopId": "0020"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.4638289,
-          36.9808479
+          -86.463781,
+          36.9808819
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "SOUTH CHESTNUT",
-        "tag": "soutches",
-        "stopId": "0016"
+        "title": "COLLEGE & COLLEGE HEIGHTS",
+        "tag": "collhght",
+        "stopId": "0055"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.4540653,
-          36.9810146
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "PARK ST. LOT",
-        "tag": "parklot",
-        "stopId": "0022"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4474988,
-          36.9844358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "CHESTNUT ST. NORTH",
-        "tag": "chesnort",
-        "stopId": "0004"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4478839,
-          36.986214
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "SOUTH CHESTNUT",
-        "tag": "chessout",
-        "stopId": "0017"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4541474,
-          36.9810495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "UNIVERSITY LOT",
-        "tag": "univlot",
-        "stopId": "0048"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4591,
-          36.9786798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "RANSDELL HALL",
-        "tag": "mimo",
-        "stopId": "0029"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4555551,
-          36.983135
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "HELM LIBRARY",
-        "tag": "helmlib",
-        "stopId": "0032"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4524111,
-          36.9851899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "EST",
-        "tag": "est",
-        "stopId": "0018"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.45031,
-          36.9862499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "CHERRY HALL",
-        "tag": "cherhall",
-        "stopId": "0030"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4505675,
-          36.9877076
+          -86.4506129,
+          36.987939
         ]
       }
     },
@@ -431,8 +311,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.45478,
-          36.9876099
+          -86.4547607,
+          36.9876326
         ]
       }
     },
@@ -469,81 +349,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "RUSSELLVILLE ROAD PARK & RIDE",
-        "tag": "russpknr",
-        "stopId": "0009"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.466864,
-          36.9807709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "CREASON PARK & RIDE",
-        "tag": "creapknr_ob",
-        "stopId": "0020"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.463781,
-          36.9808819
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "JONES JAGGER",
-        "tag": "jagg",
-        "stopId": "0028"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.4608087,
-          36.9797951
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "MCCORMACK HALL",
-        "tag": "mccohall",
-        "stopId": "0033"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.456436,
-          36.98746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "12TH & CENTER STREET",
-        "tag": "12thcent",
-        "stopId": "0052"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.447702,
-          36.99174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "CAMPUS EVOLUTION VILLAGE (CEV)",
         "tag": "evolvill_ib",
         "stopId": "0049"
@@ -574,6 +379,51 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "CREASON PARK & RIDE",
+        "tag": "creapknrrd",
+        "stopId": "0020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4640264,
+          36.9808833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "JONES JAGGER",
+        "tag": "jagg",
+        "stopId": "0028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.460809,
+          36.9797956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "UNIVERSITY LOT",
+        "tag": "univlot",
+        "stopId": "0048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4591,
+          36.9786799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "REGENTS & NORMAL",
         "tag": "regnorm_ob",
         "stopId": "0040"
@@ -589,30 +439,60 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "COLLEGE & COLLEGE HEIGHTS",
-        "tag": "collhght",
-        "stopId": "0055"
+        "title": "SOUTH CHESTNUT",
+        "tag": "soutches",
+        "stopId": "0016"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.4506125,
-          36.9879392
+          -86.4540656,
+          36.9810144
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "REGENTS & NORMAL",
-        "tag": "regnorm_ib",
-        "stopId": "0054"
+        "title": "PARK ST. LOT",
+        "tag": "parklot",
+        "stopId": "0022"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.4565349,
-          36.9816636
+          -86.4474988,
+          36.9844358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MCCORMACK HALL",
+        "tag": "mccohall",
+        "stopId": "0033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.456436,
+          36.98746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "12TH & CENTER STREET",
+        "tag": "12thcent",
+        "stopId": "0052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.447702,
+          36.99174
         ]
       }
     }

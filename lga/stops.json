@@ -6,10 +6,10 @@
           "": true
         }
       },
-      "lon": "-73.886254",
-      "title": "Terminal A",
       "stopId": "110",
+      "lon": "-73.886254",
       "tag": "trma",
+      "title": "Terminal A",
       "lat": "40.773269"
     },
     "hng7": {
@@ -18,10 +18,10 @@
           "": true
         }
       },
-      "lon": "-73.8854193",
-      "title": "Hangar 7 South",
       "stopId": "120",
+      "lon": "-73.8854193",
       "tag": "hng7",
+      "title": "Hangar 7 South",
       "lat": "40.7710663"
     },
     "102nd_i": {
@@ -30,11 +30,11 @@
           "": true
         }
       },
-      "lon": "-73.868611",
-      "title": "102nd St Inbound",
-      "shortTitle": "102nd Inbound",
       "stopId": "000",
+      "lon": "-73.868611",
       "tag": "102nd_i",
+      "shortTitle": "Ditmars & 102nd",
+      "title": "Ditmars and 102nd",
       "lat": "40.769592"
     },
     "trmc": {
@@ -43,10 +43,10 @@
           "": true
         }
       },
-      "lon": "-73.8648525",
-      "title": "Terminal C",
       "stopId": "300",
+      "lon": "-73.8648525",
       "tag": "trmc",
+      "title": "Terminal C",
       "lat": "40.7701237"
     },
     "102st": {
@@ -56,9 +56,9 @@
         }
       },
       "lon": "-73.8689008",
-      "title": "102nd Street",
-      "shortTitle": "102nd",
       "tag": "102st",
+      "shortTitle": "102nd",
+      "title": "102nd Street",
       "lat": "40.769697"
     },
     "mangpark": {
@@ -67,10 +67,10 @@
           "": true
         }
       },
-      "lon": "-73.876212",
-      "title": "Manager's Parking Lot",
       "stopId": "500",
+      "lon": "-73.876212",
       "tag": "mangpark",
+      "title": "Manager's Parking Lot",
       "lat": "40.768464"
     },
     "trmb": {
@@ -79,10 +79,10 @@
           "": true
         }
       },
-      "lon": "-73.87223",
-      "title": "Terminal B",
       "stopId": "200",
+      "lon": "-73.87223",
       "tag": "trmb",
+      "title": "Terminal B",
       "lat": "40.772615"
     },
     "hng5": {
@@ -92,8 +92,8 @@
         }
       },
       "lon": "-73.879838",
-      "title": "Hanger 5",
       "tag": "hng5",
+      "title": "Hanger 5",
       "lat": "40.770815"
     }
   },

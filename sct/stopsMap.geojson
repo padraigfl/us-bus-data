@@ -956,8 +956,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.7962299,
-          38.5331399
+          -122.79623,
+          38.53314
         ]
       }
     },
@@ -972,7 +972,7 @@
         "type": "Point",
         "coordinates": [
           -122.79787,
-          38.5361599
+          38.53616
         ]
       }
     },
@@ -987,7 +987,7 @@
         "type": "Point",
         "coordinates": [
           -122.7979399,
-          38.53899
+          38.5389899
         ]
       }
     },
@@ -2367,7 +2367,7 @@
         "type": "Point",
         "coordinates": [
           -122.8206499,
-          38.54717
+          38.5471699
         ]
       }
     },
@@ -2396,8 +2396,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.8168699,
-          38.54755
+          -122.81687,
+          38.5475499
         ]
       }
     },
@@ -2794,6 +2794,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Old Redwood Hwy & Windsor Rd",
+        "tag": "757250",
+        "stopId": "7713480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.81626,
+          38.5523599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "N Laughlin Rd & Copperhill Parkway",
         "tag": "757254",
         "stopId": "7713700"
@@ -2802,7 +2817,7 @@
         "type": "Point",
         "coordinates": [
           -122.8003799,
-          38.50903
+          38.5090299
         ]
       }
     },
@@ -2832,7 +2847,7 @@
         "type": "Point",
         "coordinates": [
           -122.79574,
-          38.5090699
+          38.50907
         ]
       }
     },
@@ -4211,8 +4226,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.82449,
-          38.4020799
+          -122.8244899,
+          38.40208
         ]
       }
     },
@@ -4699,6 +4714,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Hwy 12 & Oakmont Dr",
+        "tag": "757399",
+        "stopId": "7725410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.60462,
+          38.44491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Oakmont Dr & White Oak",
         "tag": "757400",
         "stopId": "7725500"
@@ -4826,8 +4856,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.5784799,
+          -122.57848,
           38.4348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Los Guilicos",
+        "tag": "757409",
+        "stopId": "7726310"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.58062,
+          38.4400599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 12 & Pythian Rd",
+        "tag": "757410",
+        "stopId": "7726320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5794899,
+          38.4358699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 12 & Lawndale Dr",
+        "tag": "757411",
+        "stopId": "7726400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5640399,
+          38.4293899
         ]
       }
     },
@@ -4841,8 +4916,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.5561399,
-          38.4240799
+          -122.55614,
+          38.42408
         ]
       }
     },
@@ -4918,6 +4993,21 @@
         "coordinates": [
           -122.5144499,
           38.3793199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 12 & Madrone Rd",
+        "tag": "757418",
+        "stopId": "7726910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4975,
+          38.3433399
         ]
       }
     },
@@ -6191,7 +6281,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.5647499,
+          -122.56475,
           38.4299099
         ]
       }
@@ -6221,8 +6311,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.57885,
-          38.4344399
+          -122.5788499,
+          38.43444
         ]
       }
     },
@@ -7106,8 +7196,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.7137499,
-          38.38645
+          -122.71375,
+          38.3864499
         ]
       }
     },
@@ -7136,8 +7226,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.71361,
-          38.37606
+          -122.7136099,
+          38.3760599
         ]
       }
     },
@@ -7197,7 +7287,7 @@
         "type": "Point",
         "coordinates": [
           -122.71493,
-          38.3637
+          38.3636999
         ]
       }
     },
@@ -7249,15 +7339,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "LaBath Ave & Carlson Ct",
+        "title": "Martin Ave & Dowdell Ave",
         "tag": "757588",
         "stopId": "7742840"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.7212899,
-          38.3502499
+          -122.71718,
+          38.35153
         ]
       }
     },
@@ -7272,7 +7362,7 @@
         "type": "Point",
         "coordinates": [
           -122.7137099,
-          38.35441
+          38.3544099
         ]
       }
     },
@@ -7286,15 +7376,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.71499,
-          38.3524699
+          -122.7149899,
+          38.35247
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Redwood Dr & RP Expressway (Chevron Oil Stop)",
+        "title": "Redwood Dr & RP Expressway (Mattress Firm)",
         "tag": "757591",
         "stopId": "7743100"
       },
@@ -7302,7 +7392,7 @@
         "type": "Point",
         "coordinates": [
           -122.7170499,
-          38.34943
+          38.3494299
         ]
       }
     },
@@ -7917,7 +8007,7 @@
         "type": "Point",
         "coordinates": [
           -122.6582199,
-          38.2672999
+          38.2673
         ]
       }
     },
@@ -7948,6 +8038,96 @@
         "coordinates": [
           -122.65249,
           38.2640699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sonoma Mtn Pkwy & Maria Dr",
+        "tag": "757642",
+        "stopId": "7747910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6489,
+          38.2680399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sonoma Mtn Pkwy & Colombard Rd",
+        "tag": "757643",
+        "stopId": "7747920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6428099,
+          38.26883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sonoma Mtn Pkwy & Reisling",
+        "tag": "757644",
+        "stopId": "7747930"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6404,
+          38.26844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sonoma Mtn Pkwy (Ac Petaluma SRJC)",
+        "tag": "757645",
+        "stopId": "7747940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63712,
+          38.2666199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rainier Ave & Acadia Dr",
+        "tag": "757646",
+        "stopId": "7747950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6301799,
+          38.2620199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rainier Ave & Maria Dr",
+        "tag": "757647",
+        "stopId": "7747960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63257,
+          38.2587299
         ]
       }
     },
@@ -8006,8 +8186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.6377,
-          38.25572
+          -122.6376999,
+          38.2557199
         ]
       }
     },
@@ -8021,8 +8201,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.6331899,
-          38.2531999
+          -122.63319,
+          38.2532
         ]
       }
     },
@@ -8231,8 +8411,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.66726,
-          38.2843499
+          -122.6672599,
+          38.28435
         ]
       }
     },
@@ -8539,7 +8719,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Redwood Dr & RP Expressway (Boathouse Sushi)",
+        "title": "Redwood Dr & RP Expressway (Budget Inn)",
         "tag": "757691",
         "stopId": "7751720"
       },
@@ -8562,7 +8742,7 @@
         "type": "Point",
         "coordinates": [
           -122.71445,
-          38.36213
+          38.3621299
         ]
       }
     },
@@ -8974,6 +9154,111 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Rainier Ave & Maria Dr",
+        "tag": "757725",
+        "stopId": "7754610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63271,
+          38.25827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rainier Ave & Acadia Dr",
+        "tag": "757726",
+        "stopId": "7754620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62987,
+          38.262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sonoma Mtn Pkwy & Rainier Ave",
+        "tag": "757727",
+        "stopId": "7754630"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6300499,
+          38.2629399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sonoma Mtn Pkwy (Petaluma SRJC)",
+        "tag": "757728",
+        "stopId": "7754640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63788,
+          38.2673799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sonoma Mtn Pkwy & Reisling",
+        "tag": "757729",
+        "stopId": "7754650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64099,
+          38.26903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sonoma Mtn Pkwy & Ely Rd",
+        "tag": "757730",
+        "stopId": "7754660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6439099,
+          38.26894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sonoma Mtn Pkwy & Maria Dr",
+        "tag": "757731",
+        "stopId": "7754670"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.64908,
+          38.2682399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "N McDowell Blvd & Rainer Ave",
         "tag": "757732",
         "stopId": "7754700"
@@ -9057,7 +9342,7 @@
         "type": "Point",
         "coordinates": [
           -122.65855,
-          38.2677799
+          38.26778
         ]
       }
     },
@@ -9087,7 +9372,7 @@
         "type": "Point",
         "coordinates": [
           -122.66371,
-          38.27252
+          38.2725199
         ]
       }
     },
@@ -9101,8 +9386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.6662,
-          38.27399
+          -122.6661999,
+          38.2739899
         ]
       }
     },
@@ -10721,7 +11006,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.7179799,
+          -122.71798,
           38.3485299
         ]
       }
@@ -10736,8 +11021,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.7219599,
+          -122.72196,
           38.3491699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Martin Ave & Dowdell Ave",
+        "tag": "757898",
+        "stopId": "7772010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7181099,
+          38.35158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Labath & Martin",
+        "tag": "757899",
+        "stopId": "7772020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.72227,
+          38.3554299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Business Park Dr & Redwood Dr",
+        "tag": "757900",
+        "stopId": "7772030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71436,
+          38.35761
         ]
       }
     },
@@ -10826,7 +11156,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.7180199,
+          -122.71802,
           38.34825
         ]
       }
@@ -11907,7 +12237,7 @@
         "type": "Point",
         "coordinates": [
           -122.8168899,
-          38.5443999
+          38.5444
         ]
       }
     },
@@ -11937,7 +12267,7 @@
         "type": "Point",
         "coordinates": [
           -122.8168899,
-          38.5364399
+          38.53644
         ]
       }
     },
@@ -11951,7 +12281,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.8167899,
+          -122.81679,
           38.53444
         ]
       }
@@ -12529,6 +12859,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Valletti Dr  & Lake St",
+        "tag": "758743",
+        "stopId": "7782010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4902899,
+          38.3219099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Bellevue Ave & Moorland Ave",
         "tag": "758745",
         "stopId": "7765410"
@@ -12671,7 +13016,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.7136499,
+          -122.71365,
           38.36499
         ]
       }
@@ -12701,8 +13046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.019,
-          38.80816
+          -123.0189999,
+          38.8081599
         ]
       }
     },
@@ -12717,7 +13062,7 @@
         "type": "Point",
         "coordinates": [
           -123.02089,
-          38.8107
+          38.8106999
         ]
       }
     },
@@ -12731,8 +13076,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.02259,
-          38.8123499
+          -123.0225899,
+          38.81235
         ]
       }
     },
@@ -12988,6 +13333,36 @@
         "coordinates": [
           -123.01583,
           38.8031499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Windsor Rd & Howard Dr",
+        "tag": "849471",
+        "stopId": "7713490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8168899,
+          38.55075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Redwood Hwy & Market St",
+        "tag": "849472",
+        "stopId": "7713470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.81389,
+          38.5499299
         ]
       }
     },
@@ -13264,6 +13639,171 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Skylane Blvd & Airport Blvd",
+        "tag": "2505579",
+        "stopId": "7713320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7995199,
+          38.51233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Skylane Blvd & Aviation Blvd",
+        "tag": "2505580",
+        "stopId": "7713330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79896,
+          38.51617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Skylane Blvd & Shiloh Rd",
+        "tag": "2505581",
+        "stopId": "7713340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80021,
+          38.52295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shiloh Rd & Skylane Blvd",
+        "tag": "2505582",
+        "stopId": "7713350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80203,
+          38.5258399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Windsor Rd & Vintage Greens Dr",
+        "tag": "2505583",
+        "stopId": "7713360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8166,
+          38.5340399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Windsor Rd & Cork St",
+        "tag": "2505584",
+        "stopId": "7713370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.81671,
+          38.5376599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Windsor Rd & Patrick Ln",
+        "tag": "2505585",
+        "stopId": "7713380"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.81672,
+          38.54286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shiloh Rd & Skylane Blvd",
+        "tag": "2505587",
+        "stopId": "7788010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80172,
+          38.52566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Skylane Blvd & Shiloh Rd",
+        "tag": "2505589",
+        "stopId": "7788030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8003699,
+          38.5225999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Skylane Blvd & Aviation Blvd",
+        "tag": "2505590",
+        "stopId": "7788040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7990799,
+          38.5158999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Skylane Blvd & Airport Blvd",
+        "tag": "2505591",
+        "stopId": "7788050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8001999,
+          38.51182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Guerneville Library",
         "tag": "2517386",
         "stopId": "7717910"
@@ -13301,8 +13841,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.0174399,
-          38.80844
+          -123.01744,
+          38.8084399
         ]
       }
     },
@@ -13354,6 +13894,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Sonoma Mtn Pkwy & Wellington Place",
+        "tag": "2574460",
+        "stopId": "7747901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65166,
+          38.26774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Lakeville St & Jefferson St",
         "tag": "2574461",
         "stopId": "7785710"
@@ -13363,6 +13918,21 @@
         "coordinates": [
           -122.6314,
           38.2358499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Labath Ave & RP Expressway",
+        "tag": "2618143",
+        "stopId": "7742850"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7212699,
+          38.35033
         ]
       }
     },
@@ -13429,15 +13999,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Burbank Heights",
-        "tag": "771429_ar",
-        "stopId": "7720812"
+        "title": "Burbank Heights - Experimental Farm",
+        "tag": "2454897_ar",
+        "stopId": "7720810"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.83312,
-          38.3964699
+          -122.83472,
+          38.3966399
         ]
       }
     },
@@ -13519,21 +14089,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hwy 12 & Marin Ave",
-        "tag": "757492_ar",
-        "stopId": "7732700"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4877,
-          38.3242899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Petaluma Transit Mall",
         "tag": "757717_ar",
         "stopId": "7754100"
@@ -13594,15 +14149,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sonoma Co Airport Terminal",
-        "tag": "757241_ar",
-        "stopId": "7713300"
+        "title": "Windsor Rd & Windsor Depot",
+        "tag": "757211_ar",
+        "stopId": "7711110"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.80442,
-          38.5099299
+          -122.81687,
+          38.5475499
         ]
       }
     },

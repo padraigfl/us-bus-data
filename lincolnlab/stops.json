@@ -10,13 +10,10 @@
         }
       },
       "lon": "-71.267467",
-      "title": "MIT Lincoln Laboratory",
       "tag": "linclab",
+      "title": "MIT Lincoln Laboratory",
       "lat": "42.4586261",
       "scheduleRoutes": {
-        "fs": {
-          "5forb": {}
-        },
         "lb": {
           "ib": {}
         }
@@ -29,8 +26,8 @@
         }
       },
       "lon": "-71.091289",
-      "title": "Beaverworks",
       "tag": "200tech_ib",
+      "title": "Beaverworks",
       "lat": "42.363419"
     },
     "60vass_ib": {
@@ -40,8 +37,8 @@
         }
       },
       "lon": "-71.0921206",
-      "title": "Building 39",
       "tag": "60vass_ib",
+      "title": "Building 39",
       "lat": "42.3615631"
     },
     "325main_d": {
@@ -51,8 +48,8 @@
         }
       },
       "lon": "-71.0865669",
-      "title": "Medical Stop",
       "tag": "325main_d",
+      "title": "Medical Stop",
       "lat": "42.3625079",
       "scheduleRoutes": {
         "lb": {
@@ -80,8 +77,8 @@
         }
       },
       "lon": "-71.0921207",
-      "title": "Building 39",
       "tag": "60vass_ob",
+      "title": "Building 39",
       "lat": "42.3615631",
       "scheduleRoutes": {
         "lb": {
@@ -111,8 +108,8 @@
         }
       },
       "lon": "-71.091229",
-      "title": "Beaverworks",
       "tag": "200tech_ob",
+      "title": "Beaverworks",
       "lat": "42.363424",
       "scheduleRoutes": {
         "lb": {
@@ -140,8 +137,8 @@
         }
       },
       "lon": "-71.2674827",
-      "title": "MIT Lincoln Laboratory (arrival)",
       "tag": "linclab_a",
+      "title": "MIT Lincoln Laboratory (arrival)",
       "lat": "42.4587144",
       "scheduleRoutes": {
         "lb": {
@@ -170,17 +167,12 @@
           "": true
         }
       },
-      "lon": "-71.262608",
-      "title": "MIT - 5 Forbes Rd",
-      "shortTitle": "MIT - 5 Forbes",
       "stopId": "0013",
+      "lon": "-71.262608",
       "tag": "5forb",
-      "lat": "42.441487",
-      "scheduleRoutes": {
-        "fs": {
-          "linclab": {}
-        }
-      }
+      "shortTitle": "MIT - 5 Forbes",
+      "title": "MIT - 5 Forbes Rd",
+      "lat": "42.441487"
     }
   },
   "copyright": "All data copyright MIT Lincoln Lab Shuttle 2020."

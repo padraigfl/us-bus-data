@@ -15,10 +15,10 @@
           "": true
         }
       },
-      "lon": "-80.25685",
-      "title": "Rolling Hills Residence Hall (North-A)",
       "stopId": "09",
+      "lon": "-80.25685",
       "tag": "rhills_n",
+      "title": "Rolling Hills Residence Hall (North-A)",
       "lat": "26.07764"
     },
     "rhills_s": {
@@ -36,10 +36,10 @@
           "": true
         }
       },
-      "lon": "-80.2575459",
-      "title": "Rolling Hills Residence Hall (South-C)",
       "stopId": "10",
+      "lon": "-80.2575459",
       "tag": "rhills_s",
+      "title": "Rolling Hills Residence Hall (South-C)",
       "lat": "26.0770681"
     },
     "hpdannex": {
@@ -48,26 +48,11 @@
           "": true
         }
       },
-      "lon": "-80.2520029",
-      "title": "HPD Annex",
       "stopId": "11",
+      "lon": "-80.2520029",
       "tag": "hpdannex",
+      "title": "HPD Annex",
       "lat": "26.078913"
-    },
-    "upp": {
-      "routes": {
-        "rhill": {
-          "": true
-        },
-        "cam4": {
-          "": true
-        }
-      },
-      "lon": "-80.2496609",
-      "title": "UPP North",
-      "stopId": "12",
-      "tag": "upp",
-      "lat": "26.0791469"
     },
     "terradmn": {
       "routes": {
@@ -75,10 +60,10 @@
           "": true
         }
       },
-      "lon": "-80.2498128",
-      "title": "Terry Administration Building (Health Professions)",
       "stopId": "03",
+      "lon": "-80.2498128",
       "tag": "terradmn",
+      "title": "Terry Administration Building (Health Professions)",
       "lat": "26.0810871"
     },
     "sherman_n": {
@@ -93,11 +78,11 @@
           "": true
         }
       },
-      "lon": "-80.2428173",
-      "title": "Alvin Sherman Library, Research and Information Technology Center - North Circle",
-      "shortTitle": "Alvin Sherman Library, Research & Information Technology Center - North Circle",
       "stopId": "04",
+      "lon": "-80.2428173",
       "tag": "sherman_n",
+      "shortTitle": "Alvin Sherman Library, Research & Information Technology Center - North Circle",
+      "title": "Alvin Sherman Library, Research and Information Technology Center - North Circle",
       "lat": "26.0801257"
     },
     "shepard_1": {
@@ -115,10 +100,10 @@
           "": true
         }
       },
-      "lon": "-80.240723",
-      "title": "Shepard Broad Law Center (Leo Goodwin Sr. Hall)",
       "stopId": "05",
+      "lon": "-80.240723",
       "tag": "shepard_1",
+      "title": "Shepard Broad Law Center (Leo Goodwin Sr. Hall)",
       "lat": "26.0806762",
       "scheduleRoutes": {
         "trail": {
@@ -211,10 +196,10 @@
           "": true
         }
       },
-      "lon": "-80.2393202",
-      "title": "Maltz/Psychology",
       "stopId": "13",
+      "lon": "-80.2393202",
       "tag": "maltpsyc",
+      "title": "Maltz/Psychology",
       "lat": "26.0798203"
     },
     "horvitz": {
@@ -229,10 +214,10 @@
           "": true
         }
       },
-      "lon": "-80.239759",
-      "title": "Horvitz Administration Building",
       "stopId": "06",
+      "lon": "-80.239759",
       "tag": "horvitz",
+      "title": "Horvitz Administration Building",
       "lat": "26.0788818"
     },
     "ucenter": {
@@ -241,6 +226,9 @@
           "": true
         },
         "shop": {
+          "": true
+        },
+        "dse": {
           "": true
         },
         "cam4": {
@@ -256,11 +244,43 @@
           "": true
         }
       },
-      "lon": "-80.2432127",
-      "title": "University Center/Rosenthal Student Center",
       "stopId": "07",
+      "lon": "-80.2432127",
       "tag": "ucenter",
-      "lat": "26.077733"
+      "title": "University Center/Rosenthal Student Center",
+      "lat": "26.077733",
+      "scheduleRoutes": {
+        "dse": {
+          "musescie": {
+            "wkd": [
+              "20:07:00",
+              "21:37:00",
+              "23:07:00",
+              "00:37:00",
+              "02:07:00"
+            ],
+            "sat": [
+              "15:07:00",
+              "16:37:00",
+              "18:07:00",
+              "19:37:00",
+              "21:07:00",
+              "22:37:00",
+              "00:07:00",
+              "01:37:00",
+              "03:07:00"
+            ],
+            "sun": [
+              "15:07:00",
+              "16:37:00",
+              "18:07:00",
+              "19:37:00",
+              "21:07:00",
+              "23:07:00"
+            ]
+          }
+        }
+      }
     },
     "airp_d": {
       "routes": {
@@ -268,10 +288,10 @@
           "": true
         }
       },
-      "lon": "-80.1659976",
-      "title": "Tri-Rail Ft Lauderdale Airport",
       "stopId": "34",
+      "lon": "-80.1659976",
       "tag": "airp_d",
+      "title": "Tri-Rail Ft Lauderdale Airport",
       "lat": "26.0621952",
       "scheduleRoutes": {
         "trail": {
@@ -364,10 +384,10 @@
           "": true
         }
       },
-      "lon": "-80.2336094",
-      "title": "Broward College Student Center",
       "stopId": "35",
+      "lon": "-80.2336094",
       "tag": "bcsc",
+      "title": "Broward College Student Center",
       "lat": "26.0789311",
       "scheduleRoutes": {
         "trail": {
@@ -457,10 +477,10 @@
           "": true
         }
       },
-      "lon": "-80.23303",
-      "title": "Broward College Public Safety",
       "stopId": "36",
+      "lon": "-80.23303",
       "tag": "bcps",
+      "title": "Broward College Public Safety",
       "lat": "26.0806799",
       "scheduleRoutes": {
         "trail": {
@@ -547,10 +567,10 @@
           "": true
         }
       },
-      "lon": "-80.2355178",
-      "title": "Florida Atlantic University - Liberal Arts",
       "stopId": "37",
+      "lon": "-80.2355178",
       "tag": "faulib",
+      "title": "Florida Atlantic University - Liberal Arts",
       "lat": "26.0829294",
       "scheduleRoutes": {
         "trail": {
@@ -637,10 +657,10 @@
           "": true
         }
       },
-      "lon": "-80.2372088",
-      "title": "University of Florida",
       "stopId": "38",
+      "lon": "-80.2372088",
       "tag": "uof",
+      "title": "University of Florida",
       "lat": "26.0833697",
       "scheduleRoutes": {
         "trail": {
@@ -727,10 +747,10 @@
           "": true
         }
       },
-      "lon": "-80.25006",
-      "title": "Sanford L. Ziff Health Care Center (Health Professions)",
       "stopId": "11",
+      "lon": "-80.25006",
       "tag": "sanford",
+      "title": "Sanford L. Ziff Health Care Center (Health Professions)",
       "lat": "26.0826301",
       "scheduleRoutes": {
         "trail": {
@@ -829,10 +849,10 @@
           "": true
         }
       },
-      "lon": "-80.2431008",
-      "title": "NSU Transit Hub",
       "stopId": "12",
+      "lon": "-80.2431008",
       "tag": "thub",
+      "title": "NSU Transit Hub",
       "lat": "26.0816403",
       "scheduleRoutes": {
         "trail": {
@@ -919,10 +939,10 @@
           "": true
         }
       },
-      "lon": "-80.2293583",
-      "title": "McFatter Technical School",
       "stopId": "40",
+      "lon": "-80.2293583",
       "tag": "mcfat",
+      "title": "McFatter Technical School",
       "lat": "26.0852045",
       "scheduleRoutes": {
         "trail": {
@@ -1010,8 +1030,8 @@
         }
       },
       "lon": "-80.16597",
-      "title": "Tri-Rail Ft Lauderdale Airport - Arrival",
       "tag": "airp_a",
+      "title": "Tri-Rail Ft Lauderdale Airport - Arrival",
       "lat": "26.06214",
       "scheduleRoutes": {
         "trail": {
@@ -1108,8 +1128,8 @@
         }
       },
       "lon": "-80.252474",
-      "title": "Walmart",
       "tag": "walm",
+      "title": "Walmart",
       "lat": "26.066837"
     },
     "rhills_n_m": {
@@ -1118,10 +1138,10 @@
           "": true
         }
       },
-      "lon": "-80.25685",
-      "title": "Rolling Hills Residence Hall (North-A)",
       "stopId": "09",
+      "lon": "-80.25685",
       "tag": "rhills_n_m",
+      "title": "Rolling Hills Residence Hall (North-A)",
       "lat": "26.07764",
       "scheduleRoutes": {
         "dse": {
@@ -1162,10 +1182,10 @@
           "": true
         }
       },
-      "lon": "-80.2575459",
-      "title": "Rolling Hills Residence Hall (South-C)",
       "stopId": "10",
+      "lon": "-80.2575459",
       "tag": "rhills_s_m",
+      "title": "Rolling Hills Residence Hall (South-C)",
       "lat": "26.077068",
       "scheduleRoutes": {
         "dse": {
@@ -1200,60 +1220,16 @@
         }
       }
     },
-    "goodwin_m": {
-      "routes": {
-        "dse": {
-          "": true
-        }
-      },
-      "lon": "-80.24236",
-      "title": "The Commons Residence Hall",
-      "stopId": "08",
-      "tag": "goodwin_m",
-      "lat": "26.07538",
-      "scheduleRoutes": {
-        "dse": {
-          "musescie": {
-            "wkd": [
-              "20:07:00",
-              "21:37:00",
-              "23:07:00",
-              "00:37:00",
-              "02:07:00"
-            ],
-            "sat": [
-              "15:07:00",
-              "16:37:00",
-              "18:07:00",
-              "19:37:00",
-              "21:07:00",
-              "22:37:00",
-              "00:07:00",
-              "01:37:00",
-              "03:07:00"
-            ],
-            "sun": [
-              "15:07:00",
-              "16:37:00",
-              "18:07:00",
-              "19:37:00",
-              "21:07:00",
-              "23:07:00"
-            ]
-          }
-        }
-      }
-    },
     "gallmall": {
       "routes": {
         "dse": {
           "": true
         }
       },
-      "lon": "-80.1123411",
-      "title": "Galleria Mall",
       "stopId": "43",
+      "lon": "-80.1123403",
       "tag": "gallmall",
+      "title": "Galleria Mall",
       "lat": "26.1376649",
       "scheduleRoutes": {
         "dse": {
@@ -1291,10 +1267,10 @@
           "": true
         }
       },
-      "lon": "-80.105925",
-      "title": "Beach Place A1A",
       "stopId": "42",
+      "lon": "-80.105925",
       "tag": "bct",
+      "title": "Beach Place A1A",
       "lat": "26.1203283",
       "scheduleRoutes": {
         "dse": {
@@ -1332,10 +1308,10 @@
           "": true
         }
       },
-      "lon": "-80.1362704",
-      "title": "Las Olas",
       "stopId": "44",
+      "lon": "-80.1362704",
       "tag": "lasolas",
+      "title": "Las Olas",
       "lat": "26.1184917",
       "scheduleRoutes": {
         "dse": {
@@ -1373,11 +1349,11 @@
           "": true
         }
       },
-      "lon": "-80.1484679",
-      "title": "Museum Of Science and Discovery",
-      "shortTitle": "Museum Of Science & Discovery",
       "stopId": "45",
+      "lon": "-80.1484679",
       "tag": "musescie",
+      "shortTitle": "Museum Of Science & Discovery",
+      "title": "Museum Of Science and Discovery",
       "lat": "26.1211027",
       "scheduleRoutes": {
         "dse": {
@@ -1394,10 +1370,10 @@
           "": true
         }
       },
-      "lon": "-80.2497001",
-      "title": "Terry Administration Building (Health Professions)",
       "stopId": "03",
+      "lon": "-80.2497001",
       "tag": "terry",
+      "title": "Terry Administration Building (Health Professions)",
       "lat": "26.0809497"
     },
     "publix": {
@@ -1406,10 +1382,10 @@
           "": true
         }
       },
-      "lon": "-80.2535064",
-      "title": "Publix",
       "stopId": "46",
+      "lon": "-80.2535064",
       "tag": "publix",
+      "title": "Publix",
       "lat": "26.062861"
     },
     "halmos": {
@@ -1418,11 +1394,11 @@
           "": true
         }
       },
-      "lon": "-80.111548",
-      "title": "Halmos College of Natural Sciences and Oceanography",
-      "shortTitle": "Halmos College of Natural Sciences & Oceanography",
       "stopId": "47",
+      "lon": "-80.111548",
       "tag": "halmos",
+      "shortTitle": "Halmos College of Natural Sciences & Oceanography",
+      "title": "Halmos College of Natural Sciences and Oceanography",
       "lat": "26.090529"
     }
   },

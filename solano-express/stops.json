@@ -3,47 +3,20 @@
     "5351": {
       "routes": {
         "BLUE": {
-          "Ftc Ph Bart": true,
-          "Ftc Sacramento": true
+          "Ftc Sacramento": true,
+          "Ftc Ph Bart": true
         },
         "GX": {
-          "Ftc Sc Amtrak": true,
-          "Ftc Del Norte Bart": true
+          "Ftc Del Norte Bart": true,
+          "Ftc Sc Amtrak": true
         }
       },
-      "lon": "-122.06837",
-      "title": "Fairfield Transportation Center (FTC)",
       "stopId": "75268",
+      "lon": "-122.06837",
       "tag": "5351",
+      "title": "Fairfield Transportation Center (FTC)",
       "lat": "38.2491899",
       "scheduleRoutes": {
-        "GX": {
-          "Del Norte Bart": {
-            "MoTuWeThFr": [
-              "04:10:00",
-              "15:36:00",
-              "16:36:00",
-              "17:36:00"
-            ]
-          },
-          "Ftc Del Norte Bart": {
-            "MoTuWeThFr": [
-              "05:10:00",
-              "06:10:00",
-              "06:50:00",
-              "18:36:00"
-            ]
-          },
-          "Ftc Sc Amtrak": {
-            "MoTuWeThFr": [
-              "05:38:00",
-              "17:12:00",
-              "18:12:00",
-              "19:12:00",
-              "20:12:00"
-            ]
-          }
-        },
         "BLUE": {
           "Benicia Ph Bart": {
             "Saturday": [
@@ -67,10 +40,10 @@
               "04:41:00",
               "05:33:00",
               "06:33:00",
-              "06:59:00",
-              "07:37:00",
+              "06:58:00",
+              "07:33:00",
               "08:38:00",
-              "11:38:00",
+              "11:35:00",
               "13:50:00",
               "14:50:00",
               "15:20:00",
@@ -124,20 +97,47 @@
               "18:04:00"
             ]
           }
+        },
+        "GX": {
+          "Del Norte Bart": {
+            "MoTuWeThFr": [
+              "04:10:00",
+              "15:36:00",
+              "16:36:00",
+              "17:36:00"
+            ]
+          },
+          "Ftc Del Norte Bart": {
+            "MoTuWeThFr": [
+              "05:10:00",
+              "06:10:00",
+              "06:50:00",
+              "18:36:00"
+            ]
+          },
+          "Ftc Sc Amtrak": {
+            "MoTuWeThFr": [
+              "05:38:00",
+              "17:12:00",
+              "18:12:00",
+              "19:12:00",
+              "20:12:00"
+            ]
+          }
         }
       }
     },
     "5410": {
       "routes": {
         "BLUE": {
-          "Ftc Ph Bart": true,
-          "Ftc Sacramento": true
+          "Ftc Sacramento": true,
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.9649",
-      "title": "Vacaville Transportation Center",
       "stopId": "75388",
+      "lon": "-121.9649",
       "tag": "5410",
+      "title": "Vacaville Transportation Center",
       "lat": "38.3586399",
       "scheduleRoutes": {
         "BLUE": {
@@ -158,7 +158,7 @@
               "06:42:00",
               "07:17:00",
               "08:17:00",
-              "11:13:00",
+              "11:10:00",
               "11:32:00",
               "13:33:00",
               "14:33:00",
@@ -167,8 +167,7 @@
               "16:00:00",
               "16:25:00",
               "17:21:00",
-              "18:22:00",
-              "19:14:00"
+              "18:22:00"
             ]
           },
           "Ftc Sacramento": {
@@ -205,6 +204,7 @@
               "15:13:00"
             ]
           },
+          "Vtc Ftc": {},
           "Ftc Davis": {
             "Saturday": [
               "10:12:00",
@@ -220,14 +220,14 @@
     "5412": {
       "routes": {
         "BLUE": {
-          "Ftc Ph Bart": true,
-          "Ftc Sacramento": true
+          "Ftc Sacramento": true,
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.842",
-      "title": "Dixon Park & Ride",
       "stopId": "75392",
+      "lon": "-121.842",
       "tag": "5412",
+      "title": "Dixon Park & Ride",
       "lat": "38.4556899",
       "scheduleRoutes": {
         "BLUE": {
@@ -246,8 +246,7 @@
               "07:57:00",
               "10:49:00",
               "16:01:00",
-              "18:01:00",
-              "18:50:00"
+              "18:01:00"
             ]
           },
           "Ftc Sacramento": {
@@ -288,14 +287,14 @@
     "5413": {
       "routes": {
         "BLUE": {
-          "Ftc Ph Bart": true,
-          "Ftc Sacramento": true
+          "Ftc Sacramento": true,
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.75546",
-      "title": "UC Davis Silo",
       "stopId": "75393",
+      "lon": "-121.75546",
       "tag": "5413",
+      "title": "UC Davis Silo",
       "lat": "38.5390699",
       "scheduleRoutes": {
         "BLUE": {
@@ -337,10 +336,10 @@
           "Ftc Sacramento": true
         }
       },
-      "lon": "-121.50668",
-      "title": "Capitol Mall",
       "stopId": "75395",
+      "lon": "-121.50668",
       "tag": "5414",
+      "title": "Capitol Mall",
       "lat": "38.5799999",
       "scheduleRoutes": {
         "BLUE": {
@@ -373,10 +372,10 @@
           "Ftc Ph Bart": true
         }
       },
-      "lon": "-122.12912",
-      "title": "Benicia Park Road & Industrial Way (SB)",
       "stopId": "75397",
+      "lon": "-122.12912",
       "tag": "5416",
+      "title": "Benicia Park Road & Industrial Way (SB)",
       "lat": "38.0683999",
       "scheduleRoutes": {
         "BLUE": {
@@ -395,10 +394,10 @@
               "05:04:00",
               "05:56:00",
               "06:56:00",
-              "07:27:00",
-              "08:05:00",
+              "07:26:00",
+              "08:01:00",
               "09:07:00",
-              "12:06:00",
+              "12:03:00",
               "14:18:00",
               "15:18:00",
               "15:48:00",
@@ -427,10 +426,10 @@
           "Ftc Sacramento": true
         }
       },
-      "lon": "-122.05601",
-      "title": "Pleasant Hill BART Station",
       "stopId": "75398",
+      "lon": "-122.05601",
       "tag": "5417",
+      "title": "Pleasant Hill BART Station",
       "lat": "37.9281499",
       "scheduleRoutes": {
         "BLUE": {
@@ -489,14 +488,14 @@
     "5424": {
       "routes": {
         "BLUE": {
-          "Ftc Ph Bart": true,
-          "Ftc Sacramento": true
+          "Ftc Sacramento": true,
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.4960799",
-      "title": "9th St and L St",
       "stopId": "75406",
+      "lon": "-121.4960799",
       "tag": "5424",
+      "title": "9th St and L St",
       "lat": "38.5780499",
       "scheduleRoutes": {
         "BLUE": {
@@ -522,14 +521,14 @@
     "5425": {
       "routes": {
         "BLUE": {
-          "Ftc Ph Bart": true,
-          "Ftc Sacramento": true
+          "Ftc Sacramento": true,
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.4973899",
-      "title": "9th St and O St",
       "stopId": "75407",
+      "lon": "-121.4973899",
       "tag": "5425",
+      "title": "9th St and O St",
       "lat": "38.57496"
     },
     "9827": {
@@ -539,10 +538,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.31705",
-      "title": "El Cerrito Del Norte BART",
       "stopId": "75400",
+      "lon": "-122.31705",
       "tag": "9827",
+      "title": "El Cerrito Del Norte BART",
       "lat": "37.9248899",
       "scheduleRoutes": {
         "GX": {
@@ -571,10 +570,10 @@
           "Ftc Del Norte Bart": true
         }
       },
-      "lon": "-122.04048",
-      "title": "Main Street and Lotz Way",
       "stopId": "75172",
+      "lon": "-122.04048",
       "tag": "28635",
+      "title": "Main Street and Lotz Way",
       "lat": "38.2430799",
       "scheduleRoutes": {
         "GX": {
@@ -592,27 +591,27 @@
     "795462": {
       "routes": {
         "BLUE": {
-          "Ftc Ph Bart": true,
-          "Ftc Sacramento": true
+          "Ftc Sacramento": true,
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.50279",
-      "title": "5th St and P St",
       "stopId": "75548",
+      "lon": "-121.5027899",
       "tag": "795462",
+      "title": "5th St and P St",
       "lat": "38.5756"
     },
     "795554": {
       "routes": {
         "BLUE": {
-          "Ftc Ph Bart": true,
-          "Ftc Sacramento": true
+          "Ftc Sacramento": true,
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.49866",
-      "title": "J St. and 6th St.",
       "stopId": "75405",
+      "lon": "-121.49866",
       "tag": "795554",
+      "title": "J St. and 6th St.",
       "lat": "38.5816"
     },
     "795555": {
@@ -621,10 +620,10 @@
           "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.50605",
-      "title": "Capitol Mall",
       "stopId": "75549",
+      "lon": "-121.50605",
       "tag": "795555",
+      "title": "Capitol Mall",
       "lat": "38.58012"
     },
     "807829": {
@@ -633,10 +632,10 @@
           "Ftc Sacramento": true
         }
       },
-      "lon": "-122.12889",
-      "title": "Benicia Park Rd and Industrial Way (NB)",
       "stopId": "75550",
+      "lon": "-122.12889",
       "tag": "807829",
+      "title": "Benicia Park Rd and Industrial Way (NB)",
       "lat": "38.0682499",
       "scheduleRoutes": {
         "BLUE": {
@@ -693,10 +692,10 @@
           "Ftc Ph Bart": true
         }
       },
-      "lon": "-122.12914",
-      "title": "Suisun Valley Rd and Westamerica Dr",
       "stopId": "75576",
+      "lon": "-122.12914",
       "tag": "2455430",
+      "title": "Suisun Valley Rd and Westamerica Dr",
       "lat": "38.2295399",
       "scheduleRoutes": {
         "BLUE": {
@@ -712,10 +711,10 @@
           },
           "Ftc Ph Bart": {
             "MoTuWeThFr": [
-              "07:09:00",
-              "07:47:00",
+              "07:08:00",
+              "07:43:00",
               "08:48:00",
-              "11:48:00",
+              "11:45:00",
               "14:00:00",
               "15:00:00",
               "15:30:00",
@@ -744,10 +743,10 @@
           "Ftc Sacramento": true
         }
       },
-      "lon": "-122.12879",
-      "title": "Suisun Valley Rd and Kaiser Dr",
       "stopId": "75577",
+      "lon": "-122.12879",
       "tag": "2455431",
+      "title": "Suisun Valley Rd and Kaiser Dr",
       "lat": "38.2292099",
       "scheduleRoutes": {
         "BLUE": {
@@ -802,10 +801,10 @@
           "Ftc Sacramento": true
         }
       },
-      "lon": "-121.94317",
-      "title": "Vaca Valley Parkway",
       "stopId": "75578",
+      "lon": "-121.94317",
       "tag": "2455473",
+      "title": "Vaca Valley Parkway",
       "lat": "38.3917899",
       "scheduleRoutes": {
         "BLUE": {
@@ -842,10 +841,10 @@
           "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.94301",
-      "title": "Vaca Valley Parkway",
       "stopId": "75579",
+      "lon": "-121.94301",
       "tag": "2455474",
+      "title": "Vaca Valley Parkway",
       "lat": "38.3920499",
       "scheduleRoutes": {
         "BLUE": {
@@ -856,13 +855,13 @@
               "05:08:00",
               "06:08:00",
               "08:09:00",
-              "11:03:00",
+              "11:01:00",
               "16:15:00",
               "17:11:00",
-              "18:13:00",
-              "19:02:00"
+              "18:13:00"
             ]
           },
+          "Vtc Ftc": {},
           "Vacaville Ftc": {
             "Saturday": [
               "09:26:00",
@@ -881,10 +880,10 @@
           "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.50156",
-      "title": "Sacramento Valley Station",
       "stopId": "75580",
+      "lon": "-121.50156",
       "tag": "2455475",
+      "title": "Sacramento Valley Station",
       "lat": "38.5846599",
       "scheduleRoutes": {
         "BLUE": {
@@ -907,84 +906,16 @@
         }
       }
     },
-    "5351_ar": {
-      "routes": {
-        "GX": {
-          "Ftc": true
-        }
-      },
-      "lon": "-122.06837",
-      "title": "Fairfield Transportation Center (FTC)",
-      "stopId": "75268",
-      "tag": "5351_ar",
-      "lat": "38.2491899",
-      "scheduleRoutes": {
-        "GX": {
-          "Ftc": {}
-        },
-        "BLUE": {
-          "Benicia Ftc": {
-            "MoTuWeThFr": [
-              "08:39:00",
-              "10:09:00",
-              "13:06:00",
-              "16:59:00"
-            ],
-            "Saturday": [
-              "10:40:00",
-              "12:43:00",
-              "14:46:00",
-              "16:45:00",
-              "17:45:00",
-              "18:44:00",
-              "19:38:00"
-            ]
-          },
-          "Davis Ftc": {},
-          "Dixon Ftc": {},
-          "Ftc Ph Bart": {
-            "MoTuWeThFr": [
-              "11:49:00",
-              "19:31:00"
-            ]
-          },
-          "Vacaville Ftc": {
-            "MoTuWeThFr": [
-              "08:58:00",
-              "09:58:00"
-            ]
-          }
-        }
-      }
-    },
-    "2455473_ar": {
-      "routes": {},
-      "lon": "-121.94317",
-      "title": "Vaca Valley Parkway",
-      "stopId": "75578",
-      "tag": "2455473_ar",
-      "lat": "38.3917899",
-      "scheduleRoutes": {
-        "BLUE": {
-          "Ftc Vacaville": {
-            "MoTuWeThFr": [
-              "17:06:00",
-              "19:02:00"
-            ]
-          }
-        }
-      }
-    },
     "2455475_ar": {
       "routes": {
         "BLUE": {
           "Ftc Sacramento": true
         }
       },
-      "lon": "-121.50156",
-      "title": "Sacramento Valley Station",
       "stopId": "75580",
+      "lon": "-121.50156",
       "tag": "2455475_ar",
+      "title": "Sacramento Valley Station",
       "lat": "38.5846599",
       "scheduleRoutes": {
         "BLUE": {
@@ -1011,12 +942,62 @@
         }
       }
     },
+    "5351_ar": {
+      "routes": {
+        "GX": {
+          "Ftc": true
+        }
+      },
+      "stopId": "75268",
+      "lon": "-122.06837",
+      "tag": "5351_ar",
+      "title": "Fairfield Transportation Center (FTC)",
+      "lat": "38.2491899",
+      "scheduleRoutes": {
+        "BLUE": {
+          "Benicia Ftc": {
+            "MoTuWeThFr": [
+              "08:39:00",
+              "10:09:00",
+              "13:06:00",
+              "16:59:00"
+            ],
+            "Saturday": [
+              "10:40:00",
+              "12:43:00",
+              "14:46:00",
+              "16:45:00",
+              "17:45:00",
+              "18:44:00",
+              "19:38:00"
+            ]
+          },
+          "Davis Ftc": {},
+          "Dixon Ftc": {},
+          "Ftc Ph Bart": {
+            "MoTuWeThFr": [
+              "11:49:00"
+            ]
+          },
+          "Vacaville Ftc": {
+            "MoTuWeThFr": [
+              "08:58:00",
+              "09:58:00"
+            ]
+          },
+          "Vtc Ftc": {}
+        },
+        "GX": {
+          "Ftc": {}
+        }
+      }
+    },
     "5412_ar": {
       "routes": {},
-      "lon": "-121.842",
-      "title": "Dixon Park & Ride",
       "stopId": "75392",
+      "lon": "-121.842",
       "tag": "5412_ar",
+      "title": "Dixon Park & Ride",
       "lat": "38.4556899",
       "scheduleRoutes": {
         "BLUE": {
@@ -1031,10 +1012,10 @@
     },
     "5410_ar": {
       "routes": {},
-      "lon": "-121.9649",
-      "title": "Vacaville Transportation Center",
       "stopId": "75388",
+      "lon": "-121.9649",
       "tag": "5410_ar",
+      "title": "Vacaville Transportation Center",
       "lat": "38.3586399",
       "scheduleRoutes": {
         "BLUE": {
@@ -1049,12 +1030,30 @@
         }
       }
     },
+    "2455473_ar": {
+      "routes": {},
+      "stopId": "75578",
+      "lon": "-121.94317",
+      "tag": "2455473_ar",
+      "title": "Vaca Valley Parkway",
+      "lat": "38.3917899",
+      "scheduleRoutes": {
+        "BLUE": {
+          "Ftc Vacaville": {
+            "MoTuWeThFr": [
+              "17:06:00",
+              "19:02:00"
+            ]
+          }
+        }
+      }
+    },
     "5413_ar": {
       "routes": {},
-      "lon": "-121.75546",
-      "title": "UC Davis Silo",
       "stopId": "75393",
+      "lon": "-121.75546",
       "tag": "5413_ar",
+      "title": "UC Davis Silo",
       "lat": "38.5390699",
       "scheduleRoutes": {
         "BLUE": {
@@ -1076,10 +1075,10 @@
           "Ftc Ph Bart": true
         }
       },
-      "lon": "-122.05601",
-      "title": "Pleasant Hill BART Station",
       "stopId": "75398",
+      "lon": "-122.05601",
       "tag": "5417_ar",
+      "title": "Pleasant Hill BART Station",
       "lat": "37.9281499",
       "scheduleRoutes": {
         "BLUE": {
@@ -1099,9 +1098,9 @@
               "06:22:00",
               "07:23:00",
               "07:53:00",
-              "08:22:00",
+              "08:23:00",
               "09:23:00",
-              "12:23:00",
+              "12:20:00",
               "14:35:00",
               "15:35:00",
               "16:05:00",
@@ -1130,10 +1129,10 @@
           "Ftc Del Norte Bart": true
         }
       },
-      "lon": "-122.31705",
-      "title": "El Cerrito Del Norte BART",
       "stopId": "75400",
+      "lon": "-122.31705",
       "tag": "9827_ar",
+      "title": "El Cerrito Del Norte BART",
       "lat": "37.9248899",
       "scheduleRoutes": {
         "GX": {
@@ -1162,10 +1161,10 @@
           "Ftc Sc Amtrak": true
         }
       },
-      "lon": "-122.04048",
-      "title": "Main Street and Lotz Way",
       "stopId": "75172",
+      "lon": "-122.04048",
       "tag": "28635_ar",
+      "title": "Main Street and Lotz Way",
       "lat": "38.2430799",
       "scheduleRoutes": {
         "GX": {

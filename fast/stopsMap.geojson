@@ -2847,7 +2847,7 @@
         "type": "Point",
         "coordinates": [
           -122.02454,
-          38.27978
+          38.27979
         ]
       }
     },
@@ -2877,7 +2877,7 @@
         "type": "Point",
         "coordinates": [
           -122.0066599,
-          38.2741299
+          38.27413
         ]
       }
     },
@@ -3236,7 +3236,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.50279,
+          -121.5027899,
           38.5756
         ]
       }
@@ -3478,6 +3478,36 @@
         "coordinates": [
           -122.02974,
           38.2473199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "B Gale Wilson Boulevard, Fairfield, CA, USA",
+        "tag": "2618156",
+        "stopId": "75559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.04692,
+          38.2611599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "B Gale Wilson Boulevard, Fairfield, CA, USA",
+        "tag": "2618157",
+        "stopId": "75560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0461999,
+          38.26104
         ]
       }
     }

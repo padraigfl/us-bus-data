@@ -14,6 +14,52 @@
         -77.3326011
       ],
       "stops": {
+        "To Metrorail Station": [
+          "gmu",
+          "unibri",
+          "chasch",
+          "chaino",
+          "chawes",
+          "chaarm",
+          "wesmai",
+          "ffxbldg",
+          "mairal",
+          "maikei",
+          "maioak",
+          "maihal",
+          "leechi",
+          "leehil",
+          "leejer",
+          "jerjer",
+          "jerjam",
+          "jermai",
+          "jermfair",
+          "jerkut",
+          "jercop",
+          "jercav",
+          "orcbev",
+          "bevlan",
+          "bevwar",
+          "warhil",
+          "warmer",
+          "warbou",
+          "leemcl",
+          "fairchain",
+          "104lee",
+          "leeuni",
+          "leeeat",
+          "102lee",
+          "leepla",
+          "leesta",
+          "leereb",
+          "faidra",
+          "drabee",
+          "kinkin",
+          "blakin",
+          "blabel",
+          "blafiv",
+          "cousut"
+        ],
         "To George Mason University": [
           "pubstation_bayd",
           "cousut_o",
@@ -38,50 +84,6 @@
           "unifir",
           "geoarm",
           "gmassch_gm"
-        ],
-        "To Metrorail Station": [
-          "gmu",
-          "unibri",
-          "chasch",
-          "chaino",
-          "chawes",
-          "chaarm",
-          "wesmai",
-          "ffxbldg",
-          "mairal",
-          "maikei",
-          "maioak",
-          "maihal",
-          "leechi",
-          "leehil",
-          "leejer",
-          "jerjer",
-          "jerjam",
-          "jermai",
-          "jerkut",
-          "jercop",
-          "jercav",
-          "orcbev",
-          "bevlan",
-          "bevwar",
-          "warhil",
-          "warmer",
-          "warbou",
-          "leemcl",
-          "104lee",
-          "leeuni",
-          "leeeat",
-          "102lee",
-          "leepla",
-          "leesta",
-          "leereb",
-          "faidra",
-          "drabee",
-          "kinkin",
-          "blakin",
-          "blabel",
-          "blafiv",
-          "cousut"
         ]
       },
       "scheduledStops": {
@@ -90,10 +92,11 @@
           "leefhs"
         ],
         "outbound": [
-          "gmu",
-          "jermai",
+          "jermfair",
+          "fairchain",
           "faidra",
-          "station"
+          "station",
+          "gmu"
         ]
       },
       "scheduledTimeRange": {
@@ -118,11 +121,19 @@
         "sta": {
           "f": {
             "first": "05:40:00",
-            "last": "06:10:00"
+            "last": "22:50:00"
           },
           "mtwh": {
             "first": "05:40:00",
-            "last": "06:10:00"
+            "last": "22:50:00"
+          },
+          "sat": {
+            "first": "08:45:00",
+            "last": "20:16:00"
+          },
+          "sun": {
+            "first": "10:21:00",
+            "last": "17:52:00"
           }
         }
       }
@@ -141,6 +152,31 @@
         -77.3328715
       ],
       "stops": {
+        "To Metrorail Station": [
+          "gmu",
+          "gmassch_sta",
+          "uniarm",
+          "unifir",
+          "unisag",
+          "unimai",
+          "uninorth",
+          "leewil",
+          "leelay",
+          "leelaysch",
+          "leeher",
+          "leeemb",
+          "leequeen",
+          "leecor",
+          "leeoak",
+          "leerid",
+          "leepic",
+          "faifai",
+          "blabla",
+          "blakin",
+          "blabel",
+          "blafiv",
+          "cousut"
+        ],
         "To George Mason University": [
           "pubstation",
           "cousut_o",
@@ -185,31 +221,6 @@
           "chinov",
           "chasch",
           "uniocc"
-        ],
-        "To Metrorail Station": [
-          "gmu",
-          "gmassch_sta",
-          "uniarm",
-          "unifir",
-          "unisag",
-          "unimai",
-          "uninorth",
-          "leewil",
-          "leelay",
-          "leelaysch",
-          "leeher",
-          "leeemb",
-          "leequeen",
-          "leecor",
-          "leeoak",
-          "leerid",
-          "leepic",
-          "faifai",
-          "blabla",
-          "blakin",
-          "blabel",
-          "blafiv",
-          "cousut"
         ]
       },
       "scheduledStops": {
@@ -278,6 +289,37 @@
         -77.31199
       ],
       "stops": {
+        "To Metrorail Station": [
+          "gmu",
+          "unibri",
+          "chasch",
+          "chaino",
+          "chawes",
+          "chaarm",
+          "chacou",
+          "chafcc",
+          "chamai",
+          "chawhi",
+          "chaken",
+          "chapro",
+          "leecha",
+          "chaorc",
+          "eatcha",
+          "eatfai",
+          "faieat",
+          "102lee",
+          "leepla",
+          "leesta",
+          "leereb",
+          "leedra",
+          "leespr",
+          "leecam",
+          "arlingpick",
+          "arlingstone",
+          "nutbar",
+          "leehnutl",
+          "nutlee"
+        ],
         "To George Mason University": [
           "pubstation_bayc",
           "nuther",
@@ -309,37 +351,6 @@
           "unifir",
           "geoarm",
           "gmassch_gm"
-        ],
-        "To Metrorail Station": [
-          "gmu",
-          "unibri",
-          "chasch",
-          "chaino",
-          "chawes",
-          "chaarm",
-          "chacou",
-          "chafcc",
-          "chamai",
-          "chawhi",
-          "chaken",
-          "chapro",
-          "leecha",
-          "chaorc",
-          "eatcha",
-          "eatfai",
-          "faieat",
-          "102lee",
-          "leepla",
-          "leesta",
-          "leereb",
-          "leedra",
-          "leespr",
-          "leecam",
-          "arlingpick",
-          "arlingstone",
-          "nutbar",
-          "leehnutl",
-          "nutlee"
         ]
       },
       "scheduledStops": {
@@ -408,35 +419,6 @@
         -77.3121989
       ],
       "stops": {
-        "To George Mason University": [
-          "pubstation_bayb",
-          "nuther",
-          "nutlleeh",
-          "nutbar_o",
-          "arlingstone_o",
-          "arlingpick_o",
-          "leecam",
-          "leespr",
-          "leedra",
-          "leereb",
-          "leesta",
-          "leepla",
-          "102lee",
-          "eatoff",
-          "eatfai",
-          "eatchain",
-          "chorch",
-          "leecha",
-          "chprov",
-          "chaken",
-          "chamai",
-          "chcoun",
-          "chaarm",
-          "chawes",
-          "chinov",
-          "chasch",
-          "uniocc"
-        ],
         "To Metrorail Station": [
           "gmu",
           "gmassch_sta",
@@ -468,6 +450,35 @@
           "nutbar",
           "leehnutl",
           "nutlee"
+        ],
+        "To George Mason University": [
+          "pubstation_bayb",
+          "nuther",
+          "nutlleeh",
+          "nutbar_o",
+          "arlingstone_o",
+          "arlingpick_o",
+          "leecam",
+          "leespr",
+          "leedra",
+          "leereb",
+          "leesta",
+          "leepla",
+          "102lee",
+          "eatoff",
+          "eatfai",
+          "eatchain",
+          "chorch",
+          "leecha",
+          "chprov",
+          "chaken",
+          "chamai",
+          "chcoun",
+          "chaarm",
+          "chawes",
+          "chinov",
+          "chasch",
+          "uniocc"
         ]
       },
       "scheduledStops": {

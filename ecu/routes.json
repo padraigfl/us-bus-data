@@ -6,45 +6,81 @@
       "tag": "301",
       "oppositeColor": "000000",
       "max": [
-        35.6057459,
-        -77.3633878
+        35.6081427,
+        -77.363207
       ],
       "min": [
         35.589919,
-        -77.3693748
+        -77.3703832
       ],
       "stops": {
         "Main Campus Student Center": [
           "currcour",
-          "chrisgym"
+          "charfick",
+          "fick",
+          "collhill_e",
+          "chrisgym_i"
         ],
         "Curry Court": [
           "mainstud",
+          "westend",
           "stratford"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "mainstud"
+          "mainstud",
+          "westend"
         ],
         "outbound": [
-          "currcour"
+          "currcour",
+          "fick"
         ]
       },
       "scheduledTimeRange": {
         "currcour": {
-          "f": {},
-          "m": {},
-          "t": {},
-          "th": {},
-          "w": {}
+          "f": {
+            "first": "07:30:00",
+            "last": "17:45:00"
+          },
+          "m": {
+            "first": "07:30:00",
+            "last": "17:45:00"
+          },
+          "t": {
+            "first": "07:30:00",
+            "last": "17:45:00"
+          },
+          "th": {
+            "first": "07:30:00",
+            "last": "17:45:00"
+          },
+          "w": {
+            "first": "07:30:00",
+            "last": "17:45:00"
+          }
         },
         "mainstud": {
-          "f": {},
-          "m": {},
-          "t": {},
-          "th": {},
-          "w": {}
+          "f": {
+            "first": "07:40:00",
+            "last": "17:55:00"
+          },
+          "m": {
+            "first": "07:40:00",
+            "last": "17:55:00"
+          },
+          "t": {
+            "first": "07:40:00",
+            "last": "17:55:00"
+          },
+          "th": {
+            "first": "07:40:00",
+            "last": "17:55:00"
+          },
+          "w": {
+            "first": "07:40:00",
+            "last": "17:55:00"
+          }
         }
       }
     },
@@ -86,55 +122,54 @@
       "scheduledTimeRange": {
         "healscib": {
           "f": {
-            "first": "07:00:00",
-            "last": "18:30:00"
+            "first": "07:30:00",
+            "last": "17:30:00"
           },
           "m": {
-            "first": "07:00:00",
-            "last": "18:30:00"
+            "first": "07:30:00",
+            "last": "17:30:00"
           },
           "t": {
-            "first": "07:00:00",
-            "last": "18:30:00"
+            "first": "07:30:00",
+            "last": "17:30:00"
           },
           "th": {
-            "first": "07:00:00",
-            "last": "18:30:00"
+            "first": "07:30:00",
+            "last": "17:30:00"
           },
           "w": {
-            "first": "07:00:00",
-            "last": "18:30:00"
+            "first": "07:30:00",
+            "last": "17:30:00"
           }
         }
       }
     },
-    "305": {
-      "title": "305 Uptown",
-      "color": "4c7a5e",
-      "tag": "305",
+    "304": {
+      "title": "304 Campus Circulator",
+      "color": "415a68",
+      "tag": "304",
       "oppositeColor": "ffffff",
       "max": [
-        35.6156302,
-        -77.36125
+        35.6106234,
+        -77.361292
       ],
       "min": [
-        35.6067,
-        -77.3751839
+        35.6027129,
+        -77.371482
       ],
       "stops": {
         "Speight Bus Terminal": [
-          "pittfirs",
-          "univbook",
+          "mainstud",
+          "westend",
           "readchic",
+          "5thread_i",
           "summ5th",
           "foun5th"
         ],
-        "First St Place": [
+        "Main Campus Student Center": [
           "spei",
-          "foun5th_o",
-          "5thsum",
-          "4threade",
-          "hrbldg"
+          "fldlot",
+          "chrisgym"
         ]
       },
       "scheduledStops": {
@@ -142,7 +177,79 @@
           "spei"
         ],
         "outbound": [
-          "spei_a"
+          "mainstud",
+          "westend"
+        ]
+      },
+      "scheduledTimeRange": {
+        "mainstud": {
+          "f": {},
+          "m": {},
+          "t": {},
+          "th": {},
+          "w": {}
+        },
+        "speight": {
+          "f": {
+            "first": "07:40:00",
+            "last": "17:40:00"
+          },
+          "m": {
+            "first": "07:40:00",
+            "last": "17:40:00"
+          },
+          "t": {
+            "first": "07:40:00",
+            "last": "17:40:00"
+          },
+          "th": {
+            "first": "07:40:00",
+            "last": "17:40:00"
+          },
+          "w": {
+            "first": "07:40:00",
+            "last": "17:40:00"
+          }
+        }
+      }
+    },
+    "305": {
+      "title": "305 Uptown Shuttle",
+      "color": "00ddb1",
+      "tag": "305",
+      "oppositeColor": "000000",
+      "max": [
+        35.615936,
+        -77.36125
+      ],
+      "min": [
+        35.6066999,
+        -77.375313
+      ],
+      "stops": {
+        "Speight Bus Terminal": [
+          "firsplac",
+          "ube",
+          "readchic",
+          "5thread_i",
+          "5thsum_i",
+          "5thfou_i"
+        ],
+        "First St Place": [
+          "spei",
+          "5thfou",
+          "5thsum",
+          "5thread",
+          "read4th",
+          "hrbuild"
+        ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "spei"
+        ],
+        "outbound": [
+          "firsplac"
         ]
       },
       "scheduledTimeRange": {
@@ -205,38 +312,38 @@
       "scheduledTimeRange": {
         "mainstud": {
           "sat": {
-            "first": "14:25:00",
+            "first": "12:55:00",
             "last": "18:10:00"
           },
           "sun": {
-            "first": "14:25:00",
+            "first": "12:55:00",
             "last": "18:10:00"
           }
         },
         "walmart": {
           "sat": {
-            "first": "14:00:00",
+            "first": "12:30:00",
             "last": "17:45:00"
           },
           "sun": {
-            "first": "14:00:00",
+            "first": "12:30:00",
             "last": "17:45:00"
           }
         }
       }
     },
-    "401": {
-      "title": "401 Purple",
-      "color": "472783",
-      "tag": "401",
+    "801": {
+      "title": "801 Purple",
+      "color": "7d26cd",
+      "tag": "801",
       "oppositeColor": "ffffff",
       "max": [
-        35.6044209,
-        -77.3318989
+        35.6042596,
+        -77.3317843
       ],
       "min": [
         35.5953406,
-        -77.3633877
+        -77.362118
       ],
       "stops": {
         "Christenbury Gym": [
@@ -271,298 +378,288 @@
       "scheduledTimeRange": {
         "canncour": {
           "f": {
-            "first": "07:00:00",
-            "last": "18:30:00"
+            "first": "07:30:00",
+            "last": "17:30:00"
           },
           "m": {
-            "first": "07:00:00",
-            "last": "18:30:00"
-          },
-          "reading": {
-            "first": "07:00:00",
-            "last": "18:00:00"
+            "first": "07:30:00",
+            "last": "17:30:00"
           },
           "t": {
-            "first": "07:00:00",
-            "last": "18:30:00"
+            "first": "07:30:00",
+            "last": "17:30:00"
           },
           "th": {
-            "first": "07:00:00",
-            "last": "18:30:00"
+            "first": "07:30:00",
+            "last": "17:30:00"
           },
           "w": {
-            "first": "07:00:00",
-            "last": "18:30:00"
+            "first": "07:30:00",
+            "last": "17:30:00"
           }
         },
         "chrisgym": {
           "f": {},
           "m": {},
-          "reading": {},
           "t": {},
           "th": {},
           "w": {}
         }
       }
     },
-    "402": {
-      "title": "402 Brown",
-      "color": "0581e0",
-      "tag": "402",
+    "802": {
+      "title": "802 Brown/Sunchase",
+      "color": "000000",
+      "tag": "802",
       "oppositeColor": "ffffff",
       "max": [
-        35.6128562,
-        -77.3419498
+        35.6128092,
+        -77.3337308
       ],
       "min": [
-        35.6066214,
-        -77.361495
+        35.6029664,
+        -77.362118
       ],
       "stops": {
-        "River Walk": [
-          "spei",
-          "vgrn5th",
-          "beachvil"
-        ],
-        "Speight Bus Terminal": [
-          "rivrwalk",
-          "univterr",
-          "gablbrow",
+        "Christenbury Gym": [
           "browwynd",
           "wyndwill",
           "ashwill",
           "ash1st",
           "oakwill",
           "willelm"
+        ],
+        "Brownlea Drive & Wyndham Circle": [
+          "chrisgym",
+          "sunfront",
+          "sunback",
+          "beachvil",
+          "rivrwalk",
+          "4thcedar",
+          "univterr",
+          "gablbrow"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "spei"
+          "chrisgym",
+          "sunfront",
+          "rivrwalk"
         ],
         "outbound": [
-          "rivrwalk",
           "browwynd"
         ]
       },
       "scheduledTimeRange": {
-        "rivrwalk": {
-          "f": {},
-          "m": {},
-          "reading": {},
-          "t": {},
-          "th": {},
-          "w": {}
-        },
-        "speight": {
+        "browwynd": {
           "f": {
-            "first": "07:05:00",
-            "last": "18:45:00"
+            "first": "07:30:00",
+            "last": "17:30:00"
           },
           "m": {
-            "first": "07:05:00",
-            "last": "18:45:00"
-          },
-          "reading": {
-            "first": "07:05:00",
-            "last": "18:05:00"
+            "first": "07:30:00",
+            "last": "17:30:00"
           },
           "t": {
-            "first": "07:05:00",
-            "last": "18:45:00"
+            "first": "07:30:00",
+            "last": "17:30:00"
           },
           "th": {
-            "first": "07:05:00",
-            "last": "18:45:00"
+            "first": "07:30:00",
+            "last": "17:30:00"
           },
           "w": {
-            "first": "07:05:00",
-            "last": "18:45:00"
+            "first": "07:30:00",
+            "last": "17:30:00"
           }
-        }
-      }
-    },
-    "501": {
-      "title": "501 33 East",
-      "color": "601951",
-      "tag": "501",
-      "oppositeColor": "ffffff",
-      "max": [
-        35.6066999,
-        -77.3277356
-      ],
-      "min": [
-        35.598728,
-        -77.36125
-      ],
-      "stops": {
-        "Speight": [
-          "pirtcove_offc",
-          "pirtcove_phs2"
-        ],
-        "33 East": [
-          "spei"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "spei"
-        ],
-        "outbound": [
-          "pirtcove_offc"
-        ]
-      },
-      "scheduledTimeRange": {
-        "pirtcove": {
-          "f": {},
-          "m": {},
-          "reading": {},
-          "t": {},
-          "th": {},
-          "w": {}
         },
-        "spei": {
+        "chrisgym": {
           "f": {},
           "m": {},
-          "reading": {},
           "t": {},
           "th": {},
           "w": {}
         }
       }
     },
-    "502": {
-      "title": "502 The Davis",
-      "color": "064f8b",
-      "tag": "502",
+    "803": {
+      "title": "803 Cop Beech/The Davis/33 East",
+      "color": "7f7159",
+      "tag": "803",
       "oppositeColor": "ffffff",
       "max": [
         35.6044209,
-        -77.3191517
+        -77.3191899
       ],
       "min": [
-        35.5937961,
+        35.5937982,
         -77.3633877
       ],
       "stops": {
-        "The Davis": [
-          "chrisgym",
-          "univmanb"
-        ],
         "Christenbury Gym": [
-          "univmanf"
+          "univmanb",
+          "univmanf",
+          "pirtcove_offc",
+          "pirtcove_phs2"
+        ],
+        "The Davis: Back": [
+          "chrisgym",
+          "10thceda",
+          "copbphs2",
+          "copbback",
+          "copbclub"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "chrisgym",
-          "univmanb"
+          "univmanb",
+          "pirtcove_offc"
         ],
         "outbound": [
           "chrisgym",
-          "univmanb"
+          "copbphs2"
         ]
       },
       "scheduledTimeRange": {
-        "univmanf": {
+        "chrisgym": {
           "f": {
-            "first": "07:00:00",
-            "last": "18:40:00"
+            "first": "07:39:00",
+            "last": "17:39:00"
           },
           "m": {
-            "first": "07:00:00",
-            "last": "18:40:00"
+            "first": "07:39:00",
+            "last": "17:39:00"
           },
           "t": {
-            "first": "07:00:00",
-            "last": "18:40:00"
+            "first": "07:39:00",
+            "last": "17:39:00"
           },
           "th": {
-            "first": "07:00:00",
-            "last": "18:40:00"
+            "first": "07:39:00",
+            "last": "17:39:00"
           },
           "w": {
-            "first": "07:00:00",
-            "last": "18:40:00"
+            "first": "07:39:00",
+            "last": "17:39:00"
+          }
+        },
+        "univmanb": {
+          "f": {
+            "first": "07:30:00",
+            "last": "17:30:00"
+          },
+          "m": {
+            "first": "07:30:00",
+            "last": "17:30:00"
+          },
+          "t": {
+            "first": "07:30:00",
+            "last": "17:30:00"
+          },
+          "th": {
+            "first": "07:30:00",
+            "last": "17:30:00"
+          },
+          "w": {
+            "first": "07:30:00",
+            "last": "17:30:00"
           }
         }
       }
     },
-    "503": {
-      "title": "503 Sunchase",
-      "color": "fecd6b",
-      "tag": "503",
-      "oppositeColor": "000000",
-      "max": [
-        35.60689,
-        -77.33382
-      ],
-      "min": [
-        35.6029836,
-        -77.36173
-      ],
-      "stops": {
-        "Speight Bus Terminal": [
-          "sunfront",
-          "sunback"
-        ],
-        "Sunchase: Front": [
-          "spei"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "sunfront"
-        ],
-        "outbound": [
-          "spei"
-        ]
-      },
-      "scheduledTimeRange": {
-        "speight": {
-          "f": {},
-          "m": {},
-          "reading": {},
-          "t": {},
-          "th": {},
-          "w": {}
-        },
-        "sunfront": {
-          "f": {},
-          "m": {},
-          "reading": {},
-          "t": {},
-          "th": {},
-          "w": {}
-        }
-      }
-    },
-    "504": {
-      "title": "504 The Landing",
+    "804": {
+      "title": "804 The Landing/The Bellamy",
       "color": "542c7a",
-      "tag": "504",
+      "tag": "804",
       "oppositeColor": "ffffff",
       "max": [
         35.6044209,
-        -77.3543004
+        -77.3482369
       ],
       "min": [
-        35.5730312,
-        -77.3637003
+        35.5591852,
+        -77.3659521
       ],
       "stops": {
         "Christenbury Gym": [
-          "land"
+          "land",
+          "bell",
+          "signatur"
         ],
         "The Landing": [
           "chrisgym",
+          "charmush",
           "greecent",
           "hyde"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "land"
+          "land",
+          "bell"
+        ],
+        "outbound": [
+          "chrisgym"
+        ]
+      },
+      "scheduledTimeRange": {
+        "chrisgym": {
+          "f": {
+            "first": "07:40:00",
+            "last": "17:40:00"
+          },
+          "m": {
+            "first": "07:40:00",
+            "last": "17:40:00"
+          },
+          "t": {
+            "first": "07:40:00",
+            "last": "17:40:00"
+          },
+          "th": {
+            "first": "07:40:00",
+            "last": "17:40:00"
+          },
+          "w": {
+            "first": "07:40:00",
+            "last": "17:40:00"
+          }
+        },
+        "land": {
+          "f": {},
+          "m": {},
+          "t": {},
+          "th": {},
+          "w": {}
+        }
+      }
+    },
+    "805": {
+      "title": "805 North Rec Complex/Paramount 3800",
+      "color": "00aa4f",
+      "tag": "805",
+      "oppositeColor": "ffffff",
+      "max": [
+        35.6292259,
+        -77.3200231
+      ],
+      "min": [
+        35.6042597,
+        -77.3621179
+      ],
+      "stops": {
+        "N Rec Complex": [
+          "chrisgym",
+          "nrecfield",
+          "nrecboat"
+        ],
+        "Christenbury Gym": [
+          "ncamcros"
+        ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "ncamcros"
         ],
         "outbound": [
           "chrisgym"
@@ -572,103 +669,52 @@
         "chrisgym": {
           "f": {},
           "m": {},
-          "reading": {},
           "t": {},
           "th": {},
           "w": {}
         },
-        "land": {
+        "nrec": {
           "f": {},
           "m": {},
-          "reading": {},
           "t": {},
           "th": {},
           "w": {}
         }
       }
     },
-    "505": {
-      "title": "505 Paramount 3800",
-      "color": "00aa4f",
-      "tag": "505",
-      "oppositeColor": "ffffff",
-      "max": [
-        35.62895,
-        -77.32647
-      ],
-      "min": [
-        35.6066999,
-        -77.36125
-      ],
-      "stops": {
-        "Speight": [
-          "ncamcros"
-        ],
-        "Paramount 3800": [
-          "spei"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "spei"
-        ],
-        "outbound": [
-          "ncamcros"
-        ]
-      },
-      "scheduledTimeRange": {
-        "ncamcros": {
-          "f": {},
-          "m": {},
-          "reading": {},
-          "t": {},
-          "th": {},
-          "w": {}
-        },
-        "spei": {
-          "f": {},
-          "m": {},
-          "reading": {},
-          "t": {},
-          "th": {},
-          "w": {}
-        }
-      }
-    },
-    "506": {
-      "title": "506 Carolina Creek",
+    "806": {
+      "title": "806 Carolina Creek",
       "color": "086038",
-      "tag": "506",
+      "tag": "806",
       "oppositeColor": "ffffff",
       "max": [
-        35.6044192,
-        -77.3633892
+        35.6042994,
+        -77.3623869
       ],
       "min": [
-        35.5909619,
-        -77.3819993
+        35.5909723,
+        -77.3819887
       ],
       "stops": {
-        "Carolina Creek": [
-          "chrisgym"
+        "Christenbury Gym": [
+          "univsuit"
         ],
         "Christenbury Gym Bus Terminal": [
-          "univsuit"
+          "chrisgym"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "chrisgym"
+          "univsuit"
         ],
         "outbound": [
-          "univsuit"
+          "chrisgym"
         ]
       },
       "scheduledTimeRange": {
-        "christgym": {
+        "chrisgym": {
           "f": {},
           "m": {},
-          "reading": {},
           "t": {},
           "th": {},
           "w": {}
@@ -676,206 +722,6 @@
         "univsuit": {
           "f": {},
           "m": {},
-          "reading": {},
-          "t": {},
-          "th": {},
-          "w": {}
-        }
-      }
-    },
-    "507": {
-      "title": "507 Copper Beech",
-      "color": "993233",
-      "tag": "507",
-      "oppositeColor": "ffffff",
-      "max": [
-        35.6044209,
-        -77.3272112
-      ],
-      "min": [
-        35.5953008,
-        -77.3633877
-      ],
-      "stops": {
-        "Christenbury Gym": [
-          "copbphs2",
-          "copbback",
-          "copbclub"
-        ],
-        "Copper Beech": [
-          "chrisgym"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "copbphs2"
-        ],
-        "outbound": [
-          "chrisgym"
-        ]
-      },
-      "scheduledTimeRange": {
-        "chrisgym": {
-          "f": {},
-          "m": {},
-          "reading": {},
-          "t": {},
-          "th": {},
-          "w": {}
-        },
-        "copb": {
-          "f": {},
-          "m": {},
-          "reading": {},
-          "t": {},
-          "th": {},
-          "w": {}
-        }
-      }
-    },
-    "508": {
-      "title": "508 The Bellamy",
-      "color": "b51f63",
-      "tag": "508",
-      "oppositeColor": "ffffff",
-      "max": [
-        35.6044209,
-        -77.3482375
-      ],
-      "min": [
-        35.5590819,
-        -77.3633877
-      ],
-      "stops": {
-        "Christenbury Gym": [
-          "bell",
-          "signatur"
-        ],
-        "The Bellamy": [
-          "chrisgym"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "chrisgym"
-        ],
-        "outbound": [
-          "bell"
-        ]
-      },
-      "scheduledTimeRange": {
-        "bell": {
-          "f": {},
-          "m": {},
-          "reading": {},
-          "t": {},
-          "th": {},
-          "w": {}
-        },
-        "chrisgym": {
-          "f": {},
-          "m": {},
-          "reading": {},
-          "t": {},
-          "th": {},
-          "w": {}
-        }
-      }
-    },
-    "555": {
-      "title": "555 North Rec Complex/Paramount 3800",
-      "color": "00aa4f",
-      "tag": "555",
-      "oppositeColor": "ffffff",
-      "max": [
-        35.6292949,
-        -77.319864
-      ],
-      "min": [
-        35.6066999,
-        -77.36125
-      ],
-      "stops": {
-        "Speight Bus Terminal": [
-          "nrecfield",
-          "nrecboat",
-          "ncamcros"
-        ],
-        "N Rec Complex": [
-          "spei"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "spei"
-        ],
-        "outbound": [
-          "ncamcros"
-        ]
-      },
-      "scheduledTimeRange": {
-        "nrecfield": {
-          "f": {},
-          "m": {},
-          "reading": {},
-          "t": {},
-          "th": {},
-          "w": {}
-        },
-        "speight": {
-          "f": {},
-          "m": {},
-          "reading": {},
-          "t": {},
-          "th": {},
-          "w": {}
-        }
-      }
-    },
-    "610": {
-      "title": "610 Minges P & R",
-      "color": "f78f1e",
-      "tag": "610",
-      "oppositeColor": "000000",
-      "max": [
-        35.6042554,
-        -77.36209
-      ],
-      "min": [
-        35.5981189,
-        -77.3697663
-      ],
-      "stops": {
-        "Christenbury Gym": [
-          "charfick",
-          "fick",
-          "berk14"
-        ],
-        "Minges - Bottom Lot": [
-          "chrisgym_d"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "chrisgym_d"
-        ],
-        "outbound": [
-          "charfick"
-        ]
-      },
-      "scheduledTimeRange": {
-        "charfick": {
-          "f": {},
-          "m": {},
-          "reading": {},
-          "t": {},
-          "th": {},
-          "w": {}
-        },
-        "chrisgym": {
-          "f": {},
-          "m": {},
-          "reading": {},
           "t": {},
           "th": {},
           "w": {}
@@ -923,61 +769,61 @@
       "scheduledTimeRange": {
         "currcour": {
           "f": {
-            "first": "19:00:00",
+            "first": "18:00:00",
             "last": "22:30:00"
           },
           "m": {
-            "first": "19:00:00",
+            "first": "18:00:00",
             "last": "22:30:00"
           },
           "sat": {
-            "first": "18:30:00",
+            "first": "10:00:00",
             "last": "22:30:00"
           },
           "sun": {
-            "first": "18:30:00",
+            "first": "10:00:00",
             "last": "22:30:00"
           },
           "t": {
-            "first": "19:00:00",
+            "first": "18:00:00",
             "last": "22:30:00"
           },
           "th": {
-            "first": "19:00:00",
+            "first": "18:00:00",
             "last": "22:30:00"
           },
           "w": {
-            "first": "19:00:00",
+            "first": "18:00:00",
             "last": "22:30:00"
           }
         },
         "mainstud": {
           "f": {
-            "first": "19:10:00",
+            "first": "18:10:00",
             "last": "22:40:00"
           },
           "m": {
-            "first": "19:10:00",
+            "first": "18:10:00",
             "last": "22:40:00"
           },
           "sat": {
-            "first": "18:40:00",
+            "first": "10:10:00",
             "last": "22:40:00"
           },
           "sun": {
-            "first": "18:40:00",
+            "first": "10:10:00",
             "last": "22:40:00"
           },
           "t": {
-            "first": "19:10:00",
+            "first": "18:10:00",
             "last": "22:40:00"
           },
           "th": {
-            "first": "19:10:00",
+            "first": "18:10:00",
             "last": "22:40:00"
           },
           "w": {
-            "first": "19:10:00",
+            "first": "18:10:00",
             "last": "22:40:00"
           }
         }

@@ -9,10 +9,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8208599",
-      "title": "Urraween Rd near Madsens Rd",
       "stopId": "840000",
+      "lon": "152.8208599",
       "tag": "840000",
+      "title": "Urraween Rd near Madsens Rd",
       "lat": "-25.30038",
       "scheduleRoutes": {
         "710": {
@@ -32,10 +32,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8228399",
-      "title": "Nissen St at Hospital",
       "stopId": "840001",
+      "lon": "152.8228399",
       "tag": "840001",
+      "title": "Nissen St at Hospital",
       "lat": "-25.2985",
       "scheduleRoutes": {
         "710": {
@@ -65,10 +65,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8250199",
-      "title": "Nissen Street near Caddy Ave",
       "stopId": "840002",
+      "lon": "152.8250199",
       "tag": "840002",
+      "title": "Nissen Street near Caddy Ave",
       "lat": "-25.29108",
       "scheduleRoutes": {
         "710": {
@@ -115,10 +115,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8264599",
-      "title": "Nissen Street near Boat Harbour Dr",
       "stopId": "840003",
+      "lon": "152.8264599",
       "tag": "840003",
+      "title": "Nissen Street near Boat Harbour Dr",
       "lat": "-25.28835",
       "scheduleRoutes": {
         "710": {
@@ -143,10 +143,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8279199",
-      "title": "Boat Harbour Dr near Nissen St",
       "stopId": "840004",
+      "lon": "152.8279199",
       "tag": "840004",
+      "title": "Boat Harbour Dr near Nissen St",
       "lat": "-25.28682",
       "scheduleRoutes": {
         "720": {
@@ -168,10 +168,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8249099",
-      "title": "Nissen Street near Chancellor Dr",
       "stopId": "840005",
+      "lon": "152.8249099",
       "tag": "840005",
+      "title": "Nissen Street near Chancellor Dr",
       "lat": "-25.29128",
       "scheduleRoutes": {
         "710": {
@@ -201,10 +201,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8223399",
-      "title": "Nissen St near Urraween Rd (Hail n Ride)",
       "stopId": "840006",
+      "lon": "152.8223399",
       "tag": "840006",
+      "title": "Nissen St near Urraween Rd (Hail n Ride)",
       "lat": "-25.30008",
       "scheduleRoutes": {
         "710": {
@@ -254,10 +254,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8291799",
-      "title": "Urraween Rd at Hervey Bay TAFE",
       "stopId": "840007",
+      "lon": "152.8291799",
       "tag": "840007",
+      "title": "Urraween Rd at Hervey Bay TAFE",
       "lat": "-25.30125",
       "scheduleRoutes": {
         "710": {
@@ -306,10 +306,10 @@
           "Clockwise": true
         }
       },
-      "lon": "152.8432799",
-      "title": "Boat Harbour Drive near Taylor St",
       "stopId": "840008",
+      "lon": "152.8432799",
       "tag": "840008",
+      "title": "Boat Harbour Drive near Taylor St",
       "lat": "-25.28882",
       "scheduleRoutes": {
         "713": {
@@ -330,7 +330,18 @@
         },
         "KGH": {
           "Clockwise": {
-            "MoTuWeThFr": [],
+            "MoTuWeThFr": [
+              "08:34:00",
+              "09:34:00",
+              "10:03:00",
+              "11:03:00",
+              "12:03:00",
+              "13:03:00",
+              "13:47:00",
+              "14:47:00",
+              "17:22:00",
+              "18:06:00"
+            ],
             "Saturday": [
               "08:34:00",
               "09:34:00",
@@ -353,10 +364,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8496299",
-      "title": "Boat Harbour Drive near McNally St",
       "stopId": "840009",
+      "lon": "152.8496299",
       "tag": "840009",
+      "title": "Boat Harbour Drive near McNally St",
       "lat": "-25.28964",
       "scheduleRoutes": {
         "713": {
@@ -383,10 +394,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8517899",
-      "title": "Boat Harbour Drive near Queens Rd",
       "stopId": "840010",
+      "lon": "152.8517899",
       "tag": "840010",
+      "title": "Boat Harbour Drive near Queens Rd",
       "lat": "-25.28986",
       "scheduleRoutes": {
         "713": {
@@ -413,10 +424,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8557599",
-      "title": "Hillcrest Avenue near Kululu Cr",
       "stopId": "840011",
+      "lon": "152.8557599",
       "tag": "840011",
+      "title": "Hillcrest Avenue near Kululu Cr",
       "lat": "-25.29117",
       "scheduleRoutes": {
         "713": {
@@ -443,10 +454,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8538599",
-      "title": "Kululu Crescent near Junjaree St",
       "stopId": "840012",
+      "lon": "152.8538599",
       "tag": "840012",
+      "title": "Kululu Crescent near Junjaree St",
       "lat": "-25.29423",
       "scheduleRoutes": {
         "713": {
@@ -473,10 +484,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8519599",
-      "title": "Honeysuckle Ave at Kawungan School",
       "stopId": "840013",
+      "lon": "152.8519599",
       "tag": "840013",
+      "title": "Honeysuckle Ave at Kawungan School",
       "lat": "-25.29924",
       "scheduleRoutes": {
         "713": {
@@ -503,10 +514,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8561499",
-      "title": "Magnolia St near Honeysuckle Ave",
       "stopId": "840014",
+      "lon": "152.8561499",
       "tag": "840014",
+      "title": "Magnolia St near Honeysuckle Ave",
       "lat": "-25.29814",
       "scheduleRoutes": {
         "713": {
@@ -533,10 +544,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8447599",
-      "title": "Doolong Road near Bream St",
       "stopId": "840015",
+      "lon": "152.8447599",
       "tag": "840015",
+      "title": "Doolong Road near Bream St",
       "lat": "-25.30551",
       "scheduleRoutes": {
         "713": {
@@ -563,10 +574,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8377999",
-      "title": "Ian Avenue near Victor Dr",
       "stopId": "840016",
+      "lon": "152.8377999",
       "tag": "840016",
+      "title": "Ian Avenue near Victor Dr",
       "lat": "-25.30735",
       "scheduleRoutes": {
         "713": {
@@ -614,10 +625,10 @@
           "Clockwise": true
         }
       },
-      "lon": "152.8345899",
-      "title": "Central Ave at Stockland Hervey Bay",
       "stopId": "840017",
+      "lon": "152.8345899",
       "tag": "840017",
+      "title": "Central Ave at Stockland Hervey Bay",
       "lat": "-25.28919",
       "scheduleRoutes": {
         "710": {
@@ -722,7 +733,15 @@
         },
         "KGH": {
           "Clockwise": {
-            "MoTuWeThFr": [],
+            "MoTuWeThFr": [
+              "08:45:00",
+              "09:45:00",
+              "10:14:00",
+              "11:14:00",
+              "12:14:00",
+              "13:14:00",
+              "17:33:00"
+            ],
             "Saturday": []
           }
         }
@@ -741,10 +760,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8165799",
-      "title": "Maryborough-Hervey Bay Road near Fairway Dr",
       "stopId": "840018",
+      "lon": "152.8165799",
       "tag": "840018",
+      "title": "Maryborough-Hervey Bay Road near Fairway Dr",
       "lat": "-25.28723",
       "scheduleRoutes": {
         "710": {
@@ -781,10 +800,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8161899",
-      "title": "Maryborough-Hervey Bay Road near Fairway Dr",
       "stopId": "840019",
+      "lon": "152.8161899",
       "tag": "840019",
+      "title": "Maryborough-Hervey Bay Road near Fairway Dr",
       "lat": "-25.28742",
       "scheduleRoutes": {
         "710": {
@@ -807,10 +826,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8147199",
-      "title": "Ibis Boulevard near Wattlebird Lane",
       "stopId": "840020",
+      "lon": "152.8147199",
       "tag": "840020",
+      "title": "Ibis Boulevard near Wattlebird Lane",
       "lat": "-25.28385",
       "scheduleRoutes": {
         "720": {
@@ -833,10 +852,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8158899",
-      "title": "Ibis Boulevard near Lake View Ct",
       "stopId": "840021",
+      "lon": "152.8158899",
       "tag": "840021",
+      "title": "Ibis Boulevard near Lake View Ct",
       "lat": "-25.28552",
       "scheduleRoutes": {
         "720": {
@@ -859,10 +878,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8256499",
-      "title": "Old Maryborough Rd nr Hastings St (Hail n Ride)",
       "stopId": "840022",
+      "lon": "152.8256499",
       "tag": "840022",
+      "title": "Old Maryborough Rd nr Hastings St (Hail n Ride)",
       "lat": "-25.28259"
     },
     "840023": {
@@ -871,10 +890,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8256099",
-      "title": "Old Maryborough Road near Hastings St",
       "stopId": "840023",
+      "lon": "152.8256099",
       "tag": "840023",
+      "title": "Old Maryborough Road near Hastings St",
       "lat": "-25.28258"
     },
     "840024": {
@@ -886,10 +905,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8313799",
-      "title": "Beach Road near Boat Harbour Dr",
       "stopId": "840024",
+      "lon": "152.8313799",
       "tag": "840024",
+      "title": "Beach Road near Boat Harbour Dr",
       "lat": "-25.28663",
       "scheduleRoutes": {
         "716": {
@@ -924,10 +943,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8313899",
-      "title": "Beach Road near Boat Harbour Dr",
       "stopId": "840025",
+      "lon": "152.8313899",
       "tag": "840025",
+      "title": "Beach Road near Boat Harbour Dr",
       "lat": "-25.28658",
       "scheduleRoutes": {
         "716": {
@@ -976,10 +995,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8303699",
-      "title": "Old Maryborough Rd nr Newhaven St (Hail n Ride)",
       "stopId": "840026",
+      "lon": "152.8303699",
       "tag": "840026",
+      "title": "Old Maryborough Rd nr Newhaven St (Hail n Ride)",
       "lat": "-25.28323"
     },
     "840027": {
@@ -988,10 +1007,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8313299",
-      "title": "Old Maryborough Road near Beach Rd (Hail n Ride)",
       "stopId": "840027",
+      "lon": "152.8313299",
       "tag": "840027",
+      "title": "Old Maryborough Road near Beach Rd (Hail n Ride)",
       "lat": "-25.28335"
     },
     "840028": {
@@ -1003,10 +1022,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8326499",
-      "title": "Old Maryborough Rd at Hervey Bay High",
       "stopId": "840028",
+      "lon": "152.8326499",
       "tag": "840028",
+      "title": "Old Maryborough Rd at Hervey Bay High",
       "lat": "-25.28351",
       "scheduleRoutes": {
         "716": {
@@ -1050,10 +1069,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8376699",
-      "title": "Old Maryborough Road opposite University",
       "stopId": "840029",
+      "lon": "152.8376699",
       "tag": "840029",
+      "title": "Old Maryborough Road opposite University",
       "lat": "-25.28415",
       "scheduleRoutes": {
         "716": {
@@ -1100,10 +1119,10 @@
           "Clockwise": true
         }
       },
-      "lon": "152.8377399",
-      "title": "Old Maryborough Rd at Library/Uni",
       "stopId": "840030",
+      "lon": "152.8377399",
       "tag": "840030",
+      "title": "Old Maryborough Rd at Library/Uni",
       "lat": "-25.28416",
       "scheduleRoutes": {
         "716": {
@@ -1127,7 +1146,16 @@
         "KGH": {
           "Clockwise": {
             "MoTuWeThFr": [
-              "16:28:00"
+              "08:40:00",
+              "09:40:00",
+              "10:09:00",
+              "11:09:00",
+              "12:09:00",
+              "13:09:00",
+              "13:53:00",
+              "14:53:00",
+              "16:28:00",
+              "17:28:00"
             ],
             "Saturday": []
           }
@@ -1143,10 +1171,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8330699",
-      "title": "Old Maryborough Rd near Liuzzi St",
       "stopId": "840031",
+      "lon": "152.8330699",
       "tag": "840031",
+      "title": "Old Maryborough Rd near Liuzzi St",
       "lat": "-25.28357",
       "scheduleRoutes": {
         "716": {
@@ -1200,10 +1228,10 @@
           "Clockwise": true
         }
       },
-      "lon": "152.8390799",
-      "title": "Main St at Pialba Place Shops",
       "stopId": "840032",
+      "lon": "152.8390799",
       "tag": "840032",
+      "title": "Main St at Pialba Place Shops",
       "lat": "-25.28264",
       "scheduleRoutes": {
         "710": {
@@ -1301,7 +1329,16 @@
         "KGH": {
           "Clockwise": {
             "MoTuWeThFr": [
-              "16:27:00"
+              "08:39:00",
+              "09:39:00",
+              "10:08:00",
+              "11:08:00",
+              "12:08:00",
+              "13:08:00",
+              "13:52:00",
+              "14:52:00",
+              "16:27:00",
+              "17:27:00"
             ],
             "Saturday": [
               "08:39:00",
@@ -1350,10 +1387,10 @@
           "Clockwise": true
         }
       },
-      "lon": "152.8407699",
-      "title": "Torquay Road near Hunter St",
       "stopId": "840033",
+      "lon": "152.8407699",
       "tag": "840033",
+      "title": "Torquay Road near Hunter St",
       "lat": "-25.28175",
       "scheduleRoutes": {
         "710": {
@@ -1453,7 +1490,17 @@
         "KGH": {
           "Clockwise": {
             "MoTuWeThFr": [
-              "16:27:00"
+              "08:39:00",
+              "09:39:00",
+              "10:08:00",
+              "11:08:00",
+              "12:08:00",
+              "13:08:00",
+              "13:52:00",
+              "14:52:00",
+              "16:27:00",
+              "17:27:00",
+              "18:12:00"
             ],
             "Saturday": [
               "08:39:00",
@@ -1487,10 +1534,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8404199",
-      "title": "Torquay Road opposite RSL",
       "stopId": "840034",
+      "lon": "152.8404199",
       "tag": "840034",
+      "title": "Torquay Road opposite RSL",
       "lat": "-25.28171",
       "scheduleRoutes": {
         "716": {
@@ -1577,10 +1624,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8385399",
-      "title": "Main Street near Rose St",
       "stopId": "840035",
+      "lon": "152.8385399",
       "tag": "840035",
+      "title": "Main Street near Rose St",
       "lat": "-25.28586",
       "scheduleRoutes": {
         "710": {
@@ -1670,10 +1717,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8384999",
-      "title": "Main Street near Boat Harbour Dr",
       "stopId": "840036",
+      "lon": "152.8384999",
       "tag": "840036",
+      "title": "Main Street near Boat Harbour Dr",
       "lat": "-25.28612",
       "scheduleRoutes": {
         "717": {
@@ -1723,10 +1770,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8418699",
-      "title": "Torquay Road near Bryant St",
       "stopId": "840037",
+      "lon": "152.8418699",
       "tag": "840037",
+      "title": "Torquay Road near Bryant St",
       "lat": "-25.28222",
       "scheduleRoutes": {
         "716": {
@@ -1806,10 +1853,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8449799",
-      "title": "Torquay Road near Neils St",
       "stopId": "840038",
+      "lon": "152.8449799",
       "tag": "840038",
+      "title": "Torquay Road near Neils St",
       "lat": "-25.28426",
       "scheduleRoutes": {
         "716": {
@@ -1889,10 +1936,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8481299",
-      "title": "Torquay Road near Zephyr St",
       "stopId": "840039",
+      "lon": "152.8481299",
       "tag": "840039",
+      "title": "Torquay Road near Zephyr St",
       "lat": "-25.28547",
       "scheduleRoutes": {
         "716": {
@@ -1969,10 +2016,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8528799",
-      "title": "Torquay Road near Queens Rd",
       "stopId": "840040",
+      "lon": "152.8528799",
       "tag": "840040",
+      "title": "Torquay Road near Queens Rd",
       "lat": "-25.28635",
       "scheduleRoutes": {
         "716": {
@@ -2049,10 +2096,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8578799",
-      "title": "Torquay Rd at Backpackers",
       "stopId": "840041",
+      "lon": "152.8578799",
       "tag": "840041",
+      "title": "Torquay Rd at Backpackers",
       "lat": "-25.28681",
       "scheduleRoutes": {
         "716": {
@@ -2123,10 +2170,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8607899",
-      "title": "Denmans Camp Rd at Sen Citzens Ctr",
       "stopId": "840042",
+      "lon": "152.8607899",
       "tag": "840042",
+      "title": "Denmans Camp Rd at Sen Citzens Ctr",
       "lat": "-25.28823",
       "scheduleRoutes": {
         "716": {
@@ -2167,10 +2214,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8608199",
-      "title": "Denmans Camp Road near Totness St",
       "stopId": "840043",
+      "lon": "152.8608199",
       "tag": "840043",
+      "title": "Denmans Camp Road near Totness St",
       "lat": "-25.28805"
     },
     "840044": {
@@ -2179,10 +2226,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8648299",
-      "title": "Tavistock St at Torquay Pre School",
       "stopId": "840044",
+      "lon": "152.8648299",
       "tag": "840044",
+      "title": "Tavistock St at Torquay Pre School",
       "lat": "-25.28977",
       "scheduleRoutes": {
         "718": {
@@ -2209,10 +2256,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8652399",
-      "title": "Travistock St at Torquay State School",
       "stopId": "840045",
+      "lon": "152.8652399",
       "tag": "840045",
+      "title": "Travistock St at Torquay State School",
       "lat": "-25.28727",
       "scheduleRoutes": {
         "718": {
@@ -2239,10 +2286,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8662999",
-      "title": "Torquay Tce near Tavistock St (Hail n Ride)",
       "stopId": "840046",
+      "lon": "152.8662999",
       "tag": "840046",
+      "title": "Torquay Tce near Tavistock St (Hail n Ride)",
       "lat": "-25.28671",
       "scheduleRoutes": {
         "717": {
@@ -2267,10 +2314,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8701199",
-      "title": "Torquay Terrace near Bideford St",
       "stopId": "840047",
+      "lon": "152.8701199",
       "tag": "840047",
+      "title": "Torquay Terrace near Bideford St",
       "lat": "-25.2882",
       "scheduleRoutes": {
         "718": {
@@ -2300,23 +2347,23 @@
           "Outbound": true
         }
       },
-      "lon": "152.8645199",
-      "title": "Torquay Tce at Torquay State School",
       "stopId": "840048",
+      "lon": "152.8645199",
       "tag": "840048",
+      "title": "Torquay Tce at Torquay State School",
       "lat": "-25.28673",
       "scheduleRoutes": {
         "717": {
           "Outbound": {
             "MoTuWeThFr": [
-              "11:35:00",
-              "13:45:00",
-              "10:35:00"
+              "11:36:00",
+              "13:46:00",
+              "10:36:00"
             ],
             "Saturday": [
-              "10:35:00",
-              "11:35:00",
-              "13:45:00"
+              "10:36:00",
+              "11:36:00",
+              "13:46:00"
             ]
           }
         },
@@ -2338,7 +2385,7 @@
         }
       }
     },
-    "840050": {
+    "840049": {
       "routes": {
         "705": {
           "Inbound": true
@@ -2350,11 +2397,11 @@
           "Outbound": true
         }
       },
-      "lon": "152.8520099",
-      "title": "Torquay Road near Down St",
-      "stopId": "840050",
-      "tag": "840050",
-      "lat": "-25.28619",
+      "stopId": "840049",
+      "lon": "152.8570099",
+      "tag": "840049",
+      "title": "Torquay Road near Gossner St",
+      "lat": "-25.28674",
       "scheduleRoutes": {
         "717": {
           "Outbound": {
@@ -2388,6 +2435,56 @@
         }
       }
     },
+    "840050": {
+      "routes": {
+        "705": {
+          "Inbound": true
+        },
+        "717": {
+          "Outbound": true
+        },
+        "718": {
+          "Outbound": true
+        }
+      },
+      "stopId": "840050",
+      "lon": "152.8520099",
+      "tag": "840050",
+      "title": "Torquay Road near Down St",
+      "lat": "-25.28619",
+      "scheduleRoutes": {
+        "717": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "11:39:00",
+              "13:49:00",
+              "10:39:00"
+            ],
+            "Saturday": [
+              "10:39:00",
+              "11:39:00",
+              "13:49:00"
+            ]
+          }
+        },
+        "718": {
+          "Outbound": {
+            "MoTuWeThFr": [
+              "09:50:00",
+              "12:50:00",
+              "11:40:00",
+              "14:40:00"
+            ],
+            "Saturday": [
+              "09:50:00",
+              "11:40:00",
+              "12:50:00",
+              "14:40:00"
+            ]
+          }
+        }
+      }
+    },
     "840051": {
       "routes": {
         "705": {
@@ -2403,10 +2500,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8478599",
-      "title": "Torquay Road near Stephenson St",
       "stopId": "840051",
+      "lon": "152.8478599",
       "tag": "840051",
+      "title": "Torquay Road near Stephenson St",
       "lat": "-25.28543",
       "scheduleRoutes": {
         "716": {
@@ -2477,10 +2574,10 @@
           "Clockwise": true
         }
       },
-      "lon": "152.8448599",
-      "title": "Torquay Road near Neils St",
       "stopId": "840052",
+      "lon": "152.8448599",
       "tag": "840052",
+      "title": "Torquay Road near Neils St",
       "lat": "-25.28421",
       "scheduleRoutes": {
         "716": {
@@ -2504,36 +2601,47 @@
         "717": {
           "Outbound": {
             "MoTuWeThFr": [
-              "11:39:00",
-              "13:49:00",
-              "10:39:00"
+              "11:40:00",
+              "13:50:00",
+              "10:40:00"
             ],
             "Saturday": [
-              "10:39:00",
-              "11:39:00",
-              "13:49:00"
+              "10:40:00",
+              "11:40:00",
+              "13:50:00"
             ]
           }
         },
         "718": {
           "Outbound": {
             "MoTuWeThFr": [
-              "09:50:00",
-              "12:50:00",
-              "11:40:00",
-              "14:40:00"
+              "09:51:00",
+              "12:51:00",
+              "11:41:00",
+              "14:41:00"
             ],
             "Saturday": [
-              "09:50:00",
-              "11:40:00",
-              "12:50:00",
-              "14:40:00"
+              "09:51:00",
+              "11:41:00",
+              "12:51:00",
+              "14:41:00"
             ]
           }
         },
         "KGH": {
           "Clockwise": {
-            "MoTuWeThFr": [],
+            "MoTuWeThFr": [
+              "08:36:00",
+              "09:36:00",
+              "10:05:00",
+              "11:05:00",
+              "12:05:00",
+              "13:05:00",
+              "13:49:00",
+              "14:49:00",
+              "17:24:00",
+              "18:08:00"
+            ],
             "Saturday": [
               "08:36:00",
               "09:36:00",
@@ -2581,10 +2689,10 @@
           "Clockwise": true
         }
       },
-      "lon": "152.8426499",
-      "title": "Torquay Road near Taylor St",
       "stopId": "840053",
+      "lon": "152.8426499",
       "tag": "840053",
+      "title": "Torquay Road near Taylor St",
       "lat": "-25.2827",
       "scheduleRoutes": {
         "710": {
@@ -2693,7 +2801,17 @@
         "KGH": {
           "Clockwise": {
             "MoTuWeThFr": [
-              "16:25:00"
+              "08:37:00",
+              "09:37:00",
+              "10:06:00",
+              "11:06:00",
+              "12:06:00",
+              "13:06:00",
+              "13:50:00",
+              "14:50:00",
+              "16:25:00",
+              "17:25:00",
+              "18:08:00"
             ],
             "Saturday": [
               "08:37:00",
@@ -2718,10 +2836,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8559199",
-      "title": "Esplanade near Frank St",
       "stopId": "840054",
+      "lon": "152.8559199",
       "tag": "840054",
+      "title": "Esplanade near Frank St",
       "lat": "-25.28423"
     },
     "840055": {
@@ -2730,10 +2848,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8601999",
-      "title": "Esplanade near Denmans Camp Rd",
       "stopId": "840055",
+      "lon": "152.8601999",
       "tag": "840055",
+      "title": "Esplanade near Denmans Camp Rd",
       "lat": "-25.28432"
     },
     "840056": {
@@ -2742,10 +2860,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8650099",
-      "title": "Esplanade near Tavistock St",
       "stopId": "840056",
+      "lon": "152.8650099",
       "tag": "840056",
+      "title": "Esplanade near Tavistock St",
       "lat": "-25.28425"
     },
     "840057": {
@@ -2754,10 +2872,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8696799",
-      "title": "Esplanade near Bideford St",
       "stopId": "840057",
+      "lon": "152.8696799",
       "tag": "840057",
+      "title": "Esplanade near Bideford St",
       "lat": "-25.28424"
     },
     "840058": {
@@ -2766,10 +2884,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8738699",
-      "title": "Esplanade near Fraser St",
       "stopId": "840058",
+      "lon": "152.8738699",
       "tag": "840058",
+      "title": "Esplanade near Fraser St",
       "lat": "-25.28401"
     },
     "840059": {
@@ -2778,10 +2896,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8776699",
-      "title": "Esplanade near Robert St",
       "stopId": "840059",
+      "lon": "152.8776699",
       "tag": "840059",
+      "title": "Esplanade near Robert St",
       "lat": "-25.28317"
     },
     "840060": {
@@ -2790,10 +2908,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8824999",
-      "title": "Esplanade near Ann St",
       "stopId": "840060",
+      "lon": "152.8824999",
       "tag": "840060",
+      "title": "Esplanade near Ann St",
       "lat": "-25.2821"
     },
     "840061": {
@@ -2802,10 +2920,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8696699",
-      "title": "Esplanade near Bideford St",
       "stopId": "840061",
+      "lon": "152.8696699",
       "tag": "840061",
+      "title": "Esplanade near Bideford St",
       "lat": "-25.28424",
       "scheduleRoutes": {
         "716": {
@@ -2846,10 +2964,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8660899",
-      "title": "Esplanade near Tavistock St",
       "stopId": "840062",
+      "lon": "152.8660899",
       "tag": "840062",
+      "title": "Esplanade near Tavistock St",
       "lat": "-25.28425",
       "scheduleRoutes": {
         "716": {
@@ -2878,10 +2996,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8626699",
-      "title": "Esplanade near Denmans Camp Rd",
       "stopId": "840063",
+      "lon": "152.8626699",
       "tag": "840063",
+      "title": "Esplanade near Denmans Camp Rd",
       "lat": "-25.28426",
       "scheduleRoutes": {
         "716": {
@@ -2910,10 +3028,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8555799",
-      "title": "Esplanade near Queens Rd",
       "stopId": "840064",
+      "lon": "152.8555799",
       "tag": "840064",
+      "title": "Esplanade near Queens Rd",
       "lat": "-25.28412",
       "scheduleRoutes": {
         "716": {
@@ -2942,10 +3060,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8723999",
-      "title": "Fraser Street near Truro St",
       "stopId": "840065",
+      "lon": "152.8723999",
       "tag": "840065",
+      "title": "Fraser Street near Truro St",
       "lat": "-25.28688",
       "scheduleRoutes": {
         "718": {
@@ -2972,10 +3090,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8729199",
-      "title": "Truro Street near Fraser St",
       "stopId": "840066",
+      "lon": "152.8729199",
       "tag": "840066",
+      "title": "Truro Street near Fraser St",
       "lat": "-25.28631",
       "scheduleRoutes": {
         "717": {
@@ -3000,10 +3118,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8770599",
-      "title": "Truro Street near Robert St",
       "stopId": "840067",
+      "lon": "152.8770599",
       "tag": "840067",
+      "title": "Truro Street near Robert St",
       "lat": "-25.28681",
       "scheduleRoutes": {
         "718": {
@@ -3030,10 +3148,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8809699",
-      "title": "Truro Street near Ann St",
       "stopId": "840068",
+      "lon": "152.8809699",
       "tag": "840068",
+      "title": "Truro Street near Ann St",
       "lat": "-25.28607",
       "scheduleRoutes": {
         "718": {
@@ -3060,10 +3178,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8821299",
-      "title": "Ann Street near Cypress St",
       "stopId": "840069",
+      "lon": "152.8821299",
       "tag": "840069",
+      "title": "Ann Street near Cypress St",
       "lat": "-25.28366",
       "scheduleRoutes": {
         "718": {
@@ -3090,10 +3208,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8827999",
-      "title": "Cypress Street near Ann St",
       "stopId": "840070",
+      "lon": "152.8827999",
       "tag": "840070",
+      "title": "Cypress Street near Ann St",
       "lat": "-25.28314",
       "scheduleRoutes": {
         "717": {
@@ -3118,10 +3236,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8863799",
-      "title": "Esplanade near Alexander St",
       "stopId": "840071",
+      "lon": "152.8863799",
       "tag": "840071",
+      "title": "Esplanade near Alexander St",
       "lat": "-25.28124"
     },
     "840072": {
@@ -3130,10 +3248,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8916099",
-      "title": "Cypress St near Margaret Street",
       "stopId": "840072",
+      "lon": "152.8916099",
       "tag": "840072",
+      "title": "Cypress St near Margaret Street",
       "lat": "-25.28218",
       "scheduleRoutes": {
         "717": {
@@ -3158,10 +3276,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8931699",
-      "title": "Esplanade near New St",
       "stopId": "840073",
+      "lon": "152.8931699",
       "tag": "840073",
+      "title": "Esplanade near New St",
       "lat": "-25.28094"
     },
     "840074": {
@@ -3170,10 +3288,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8974899",
-      "title": "Esplanade near Elizabeth St",
       "stopId": "840074",
+      "lon": "152.8974899",
       "tag": "840074",
+      "title": "Esplanade near Elizabeth St",
       "lat": "-25.28083"
     },
     "840075": {
@@ -3182,10 +3300,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.9023299",
-      "title": "Charlton Esp near Pier St (Hail n Ride)",
       "stopId": "840075",
+      "lon": "152.9023299",
       "tag": "840075",
+      "title": "Charlton Esp near Pier St (Hail n Ride)",
       "lat": "-25.28247"
     },
     "840076": {
@@ -3194,10 +3312,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.9022499",
-      "title": "Pier Street East near Hibiscus St",
       "stopId": "840076",
+      "lon": "152.9022499",
       "tag": "840076",
+      "title": "Pier Street East near Hibiscus St",
       "lat": "-25.28389"
     },
     "840077": {
@@ -3206,10 +3324,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.9020999",
-      "title": "Pier Street near Hibiscus St",
       "stopId": "840077",
+      "lon": "152.9020999",
       "tag": "840077",
+      "title": "Pier Street near Hibiscus St",
       "lat": "-25.28406",
       "scheduleRoutes": {
         "716": {
@@ -3250,10 +3368,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.9023299",
-      "title": "Charlton Esp near Pier St (Hail n Ride)",
       "stopId": "840078",
+      "lon": "152.9023299",
       "tag": "840078",
+      "title": "Charlton Esp near Pier St (Hail n Ride)",
       "lat": "-25.28247",
       "scheduleRoutes": {
         "716": {
@@ -3294,10 +3412,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8987099",
-      "title": "Charlton Esp near Elizabeth St",
       "stopId": "840079",
+      "lon": "152.8987099",
       "tag": "840079",
+      "title": "Charlton Esp near Elizabeth St",
       "lat": "-25.2809",
       "scheduleRoutes": {
         "716": {
@@ -3338,10 +3456,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.9015199",
-      "title": "Pilot Street near Shell St",
       "stopId": "840080",
+      "lon": "152.9015199",
       "tag": "840080",
+      "title": "Pilot Street near Shell St",
       "lat": "-25.28578"
     },
     "840081": {
@@ -3350,10 +3468,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.9014099",
-      "title": "Dayman Street near Hansen St",
       "stopId": "840081",
+      "lon": "152.9014099",
       "tag": "840081",
+      "title": "Dayman Street near Hansen St",
       "lat": "-25.28832"
     },
     "840082": {
@@ -3362,10 +3480,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.9037199",
-      "title": "King Street near Kent St",
       "stopId": "840082",
+      "lon": "152.9037199",
       "tag": "840082",
+      "title": "King Street near Kent St",
       "lat": "-25.28675",
       "scheduleRoutes": {
         "716": {
@@ -3406,10 +3524,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.9056999",
-      "title": "Dayman Street near Pulgul St",
       "stopId": "840083",
+      "lon": "152.9056999",
       "tag": "840083",
+      "title": "Dayman Street near Pulgul St",
       "lat": "-25.28889"
     },
     "840084": {
@@ -3418,10 +3536,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.9058199",
-      "title": "Pulgul Street near Dayman St",
       "stopId": "840084",
+      "lon": "152.9058199",
       "tag": "840084",
+      "title": "Pulgul Street near Dayman St",
       "lat": "-25.28942",
       "scheduleRoutes": {
         "716": {
@@ -3462,10 +3580,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.9071199",
-      "title": "Dayman Street near Pulgul St",
       "stopId": "840085",
+      "lon": "152.9071199",
       "tag": "840085",
+      "title": "Dayman Street near Pulgul St",
       "lat": "-25.2894"
     },
     "840086": {
@@ -3477,10 +3595,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.9088499",
-      "title": "Buccaneer Drive near Miller Street",
       "stopId": "840086",
+      "lon": "152.9088499",
       "tag": "840086",
+      "title": "Buccaneer Drive near Miller Street",
       "lat": "-25.29418",
       "scheduleRoutes": {
         "716": {
@@ -3524,10 +3642,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.9047899",
-      "title": "Miller Street near Pulgul St",
       "stopId": "840087",
+      "lon": "152.9047899",
       "tag": "840087",
+      "title": "Miller Street near Pulgul St",
       "lat": "-25.2926",
       "scheduleRoutes": {
         "716": {
@@ -3571,10 +3689,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.9023299",
-      "title": "Pulgul Street near Boat Harbour Dr",
       "stopId": "840088",
+      "lon": "152.9023299",
       "tag": "840088",
+      "title": "Pulgul Street near Boat Harbour Dr",
       "lat": "-25.29524",
       "scheduleRoutes": {
         "718": {
@@ -3601,10 +3719,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.9040899",
-      "title": "Boat Harbour Drive near Charlton St",
       "stopId": "840089",
+      "lon": "152.9040899",
       "tag": "840089",
+      "title": "Boat Harbour Drive near Charlton St",
       "lat": "-25.29662",
       "scheduleRoutes": {
         "716": {
@@ -3645,10 +3763,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8988299",
-      "title": "Boat Harbour Drive near Hansen St",
       "stopId": "840090",
+      "lon": "152.8988299",
       "tag": "840090",
+      "title": "Boat Harbour Drive near Hansen St",
       "lat": "-25.29401"
     },
     "840091": {
@@ -3657,10 +3775,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.9002399",
-      "title": "Boat Harbour Drive near Caringa St",
       "stopId": "840091",
+      "lon": "152.9002399",
       "tag": "840091",
+      "title": "Boat Harbour Drive near Caringa St",
       "lat": "-25.29471",
       "scheduleRoutes": {
         "716": {
@@ -3701,10 +3819,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8981999",
-      "title": "Boat Harbour Drive near Hansen St",
       "stopId": "840092",
+      "lon": "152.8981999",
       "tag": "840092",
+      "title": "Boat Harbour Drive near Hansen St",
       "lat": "-25.2937",
       "scheduleRoutes": {
         "716": {
@@ -3745,10 +3863,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8949199",
-      "title": "Boat Harbour Drive near Riley St",
       "stopId": "840093",
+      "lon": "152.8949199",
       "tag": "840093",
+      "title": "Boat Harbour Drive near Riley St",
       "lat": "-25.29319"
     },
     "840094": {
@@ -3757,10 +3875,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8948799",
-      "title": "Boat Harbour Drive near Riley St",
       "stopId": "840094",
+      "lon": "152.8948799",
       "tag": "840094",
+      "title": "Boat Harbour Drive near Riley St",
       "lat": "-25.29321",
       "scheduleRoutes": {
         "716": {
@@ -3804,10 +3922,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8932299",
-      "title": "Boat Harbour Dr near Elizabeth St",
       "stopId": "840095",
+      "lon": "152.8932299",
       "tag": "840095",
+      "title": "Boat Harbour Dr near Elizabeth St",
       "lat": "-25.29244",
       "scheduleRoutes": {
         "716": {
@@ -3865,10 +3983,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8928999",
-      "title": "Boat Harbour Drive near Elizabeth St",
       "stopId": "840096",
+      "lon": "152.8928999",
       "tag": "840096",
+      "title": "Boat Harbour Drive near Elizabeth St",
       "lat": "-25.29328",
       "scheduleRoutes": {
         "718": {
@@ -3895,10 +4013,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8871199",
-      "title": "Boat Harbour Drive near Edith St",
       "stopId": "840097",
+      "lon": "152.8871199",
       "tag": "840097",
+      "title": "Boat Harbour Drive near Edith St",
       "lat": "-25.29248"
     },
     "840098": {
@@ -3907,10 +4025,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8831199",
-      "title": "Boat Harbour Drive near Robertson St",
       "stopId": "840098",
+      "lon": "152.8831199",
       "tag": "840098",
+      "title": "Boat Harbour Drive near Robertson St",
       "lat": "-25.29198"
     },
     "840099": {
@@ -3919,10 +4037,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8761799",
-      "title": "Boat Harbour Drive near Robert St",
       "stopId": "840099",
+      "lon": "152.8761799",
       "tag": "840099",
+      "title": "Boat Harbour Drive near Robert St",
       "lat": "-25.29104"
     },
     "840100": {
@@ -3931,10 +4049,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8740399",
-      "title": "Boat Harbour Drive near Honiton St",
       "stopId": "840100",
+      "lon": "152.8740399",
       "tag": "840100",
+      "title": "Boat Harbour Drive near Honiton St",
       "lat": "-25.29075"
     },
     "840101": {
@@ -3943,10 +4061,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8702499",
-      "title": "Boat Harbour Drive near Urangan St",
       "stopId": "840101",
+      "lon": "152.8702499",
       "tag": "840101",
+      "title": "Boat Harbour Drive near Urangan St",
       "lat": "-25.29163"
     },
     "840102": {
@@ -3955,10 +4073,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8625199",
-      "title": "Boat Harbour Drive near Dartmouth St",
       "stopId": "840102",
+      "lon": "152.8625199",
       "tag": "840102",
+      "title": "Boat Harbour Drive near Dartmouth St",
       "lat": "-25.2913"
     },
     "840103": {
@@ -3967,10 +4085,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8630499",
-      "title": "Boat Harbour Drive near Macbel Ct",
       "stopId": "840103",
+      "lon": "152.8630499",
       "tag": "840103",
+      "title": "Boat Harbour Drive near Macbel Ct",
       "lat": "-25.29137",
       "scheduleRoutes": {
         "716": {
@@ -4011,10 +4129,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8700499",
-      "title": "Boat Harbour Drive near Urangan St",
       "stopId": "840104",
+      "lon": "152.8700499",
       "tag": "840104",
+      "title": "Boat Harbour Drive near Urangan St",
       "lat": "-25.29168",
       "scheduleRoutes": {
         "716": {
@@ -4055,10 +4173,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8744499",
-      "title": "Boat Harbour Drive near Honiton St",
       "stopId": "840105",
+      "lon": "152.8744499",
       "tag": "840105",
+      "title": "Boat Harbour Drive near Honiton St",
       "lat": "-25.29079",
       "scheduleRoutes": {
         "716": {
@@ -4099,10 +4217,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8772099",
-      "title": "Boat Harbour Drive near Robert St",
       "stopId": "840106",
+      "lon": "152.8772099",
       "tag": "840106",
+      "title": "Boat Harbour Drive near Robert St",
       "lat": "-25.29108",
       "scheduleRoutes": {
         "716": {
@@ -4143,10 +4261,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8817199",
-      "title": "Boat Harbour Drive near Torquay Tce",
       "stopId": "840107",
+      "lon": "152.8817199",
       "tag": "840107",
+      "title": "Boat Harbour Drive near Torquay Tce",
       "lat": "-25.29171",
       "scheduleRoutes": {
         "716": {
@@ -4187,10 +4305,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8848499",
-      "title": "Boat Harbour Drive near Robertson St",
       "stopId": "840108",
+      "lon": "152.8848499",
       "tag": "840108",
+      "title": "Boat Harbour Drive near Robertson St",
       "lat": "-25.29218",
       "scheduleRoutes": {
         "716": {
@@ -4234,10 +4352,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8879899",
-      "title": "Boat Harbour Drive near Toni St",
       "stopId": "840109",
+      "lon": "152.8879899",
       "tag": "840109",
+      "title": "Boat Harbour Drive near Toni St",
       "lat": "-25.2926",
       "scheduleRoutes": {
         "716": {
@@ -4292,10 +4410,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8640599",
-      "title": "Tavistock St at Torbay Retirement Villiage",
       "stopId": "840110",
+      "lon": "152.8640599",
       "tag": "840110",
+      "title": "Tavistock St at Torbay Retirement Villiage",
       "lat": "-25.29455",
       "scheduleRoutes": {
         "717": {
@@ -4320,10 +4438,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8640799",
-      "title": "Tavistock Street near Exeter St",
       "stopId": "840111",
+      "lon": "152.8640799",
       "tag": "840111",
+      "title": "Tavistock Street near Exeter St",
       "lat": "-25.29443",
       "scheduleRoutes": {
         "718": {
@@ -4350,10 +4468,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8637099",
-      "title": "Tavistock Street near Moonlight Ave",
       "stopId": "840112",
+      "lon": "152.8637099",
       "tag": "840112",
+      "title": "Tavistock Street near Moonlight Ave",
       "lat": "-25.29671",
       "scheduleRoutes": {
         "718": {
@@ -4395,10 +4513,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7019199",
-      "title": "Kent St near Lennox St",
       "stopId": "840113",
+      "lon": "152.7019199",
       "tag": "840113",
+      "title": "Kent St near Lennox St",
       "lat": "-25.53742",
       "scheduleRoutes": {
         "701": {
@@ -4548,10 +4666,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7040999",
-      "title": "Richmond Street near Kent St",
       "stopId": "840114",
+      "lon": "152.7040999",
       "tag": "840114",
+      "title": "Richmond Street near Kent St",
       "lat": "-25.5394",
       "scheduleRoutes": {
         "701": {
@@ -4677,10 +4795,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7010099",
-      "title": "Alice St near Bazaar Street",
       "stopId": "840115",
+      "lon": "152.7010099",
       "tag": "840115",
+      "title": "Alice St near Bazaar Street",
       "lat": "-25.5419",
       "scheduleRoutes": {
         "701": {
@@ -4793,10 +4911,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7032599",
-      "title": "Albert Street near Zante St",
       "stopId": "840116",
+      "lon": "152.7032599",
       "tag": "840116",
+      "title": "Albert Street near Zante St",
       "lat": "-25.54618",
       "scheduleRoutes": {
         "704": {
@@ -4823,10 +4941,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7062699",
-      "title": "Guava Street near Alice St",
       "stopId": "840117",
+      "lon": "152.7062699",
       "tag": "840117",
+      "title": "Guava Street near Alice St",
       "lat": "-25.54638",
       "scheduleRoutes": {
         "704": {
@@ -4853,10 +4971,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7158899",
-      "title": "Dundas Street near Odessa St",
       "stopId": "840118",
+      "lon": "152.7158899",
       "tag": "840118",
+      "title": "Dundas Street near Odessa St",
       "lat": "-25.54261",
       "scheduleRoutes": {
         "704": {
@@ -4887,10 +5005,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7185399",
-      "title": "Dundas Street near Cardigan St",
       "stopId": "840119",
+      "lon": "152.7185399",
       "tag": "840119",
+      "title": "Dundas Street near Cardigan St",
       "lat": "-25.54437",
       "scheduleRoutes": {
         "704": {
@@ -4921,10 +5039,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7197799",
-      "title": "Cardigan Street near Cambridge St",
       "stopId": "840120",
+      "lon": "152.7197799",
       "tag": "840120",
+      "title": "Cardigan Street near Cambridge St",
       "lat": "-25.54339",
       "scheduleRoutes": {
         "704": {
@@ -4955,10 +5073,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7205899",
-      "title": "Cambridge St near Blackbourn Street",
       "stopId": "840121",
+      "lon": "152.7205899",
       "tag": "840121",
+      "title": "Cambridge St near Blackbourn Street",
       "lat": "-25.54353",
       "scheduleRoutes": {
         "704": {
@@ -4989,10 +5107,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7226899",
-      "title": "Cambridge St near Louis St",
       "stopId": "840122",
+      "lon": "152.7226899",
       "tag": "840122",
+      "title": "Cambridge St near Louis St",
       "lat": "-25.54512",
       "scheduleRoutes": {
         "704": {
@@ -5023,10 +5141,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7243799",
-      "title": "Hoffmann Street near Arnaud St",
       "stopId": "840123",
+      "lon": "152.7243799",
       "tag": "840123",
+      "title": "Hoffmann Street near Arnaud St",
       "lat": "-25.54434",
       "scheduleRoutes": {
         "704": {
@@ -5057,10 +5175,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7222599",
-      "title": "Arnaud St near Cardigan Street",
       "stopId": "840124",
+      "lon": "152.7222599",
       "tag": "840124",
+      "title": "Arnaud St near Cardigan Street",
       "lat": "-25.5422",
       "scheduleRoutes": {
         "704": {
@@ -5091,10 +5209,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7236999",
-      "title": "Cardigan St near Banana St",
       "stopId": "840125",
+      "lon": "152.7236999",
       "tag": "840125",
+      "title": "Cardigan St near Banana St",
       "lat": "-25.53908",
       "scheduleRoutes": {
         "704": {
@@ -5125,10 +5243,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7220899",
-      "title": "Banana Street near Murray St",
       "stopId": "840126",
+      "lon": "152.7220899",
       "tag": "840126",
+      "title": "Banana Street near Murray St",
       "lat": "-25.53716",
       "scheduleRoutes": {
         "704": {
@@ -5159,10 +5277,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7201099",
-      "title": "Banana St near Dale St",
       "stopId": "840127",
+      "lon": "152.7201099",
       "tag": "840127",
+      "title": "Banana St near Dale St",
       "lat": "-25.53564",
       "scheduleRoutes": {
         "704": {
@@ -5185,10 +5303,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7152899",
-      "title": "Wolseley Street near Banana St",
       "stopId": "840128",
+      "lon": "152.7152899",
       "tag": "840128",
+      "title": "Wolseley Street near Banana St",
       "lat": "-25.53299",
       "scheduleRoutes": {
         "704": {
@@ -5211,10 +5329,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7177299",
-      "title": "Steindl Street near Regent St",
       "stopId": "840129",
+      "lon": "152.7177299",
       "tag": "840129",
+      "title": "Steindl Street near Regent St",
       "lat": "-25.53635",
       "scheduleRoutes": {
         "704": {
@@ -5231,10 +5349,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7191399",
-      "title": "Steindl Street near Odessa St",
       "stopId": "840130",
+      "lon": "152.7191399",
       "tag": "840130",
+      "title": "Steindl Street near Odessa St",
       "lat": "-25.5374",
       "scheduleRoutes": {
         "704": {
@@ -5251,10 +5369,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7178199",
-      "title": "Odessa Street near Arnaud St",
       "stopId": "840131",
+      "lon": "152.7178199",
       "tag": "840131",
+      "title": "Odessa Street near Arnaud St",
       "lat": "-25.53949",
       "scheduleRoutes": {
         "704": {
@@ -5271,10 +5389,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7157899",
-      "title": "Odessa Street near Miramont St",
       "stopId": "840132",
+      "lon": "152.7157899",
       "tag": "840132",
+      "title": "Odessa Street near Miramont St",
       "lat": "-25.5417",
       "scheduleRoutes": {
         "704": {
@@ -5297,10 +5415,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6948899",
-      "title": "Ann Street near John Street Sth",
       "stopId": "840133",
+      "lon": "152.6948899",
       "tag": "840133",
+      "title": "Ann Street near John Street Sth",
       "lat": "-25.54251",
       "scheduleRoutes": {
         "703": {
@@ -5347,10 +5465,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6918999",
-      "title": "Ann Street near Ferry St",
       "stopId": "840134",
+      "lon": "152.6918999",
       "tag": "840134",
+      "title": "Ann Street near Ferry St",
       "lat": "-25.54028",
       "scheduleRoutes": {
         "703": {
@@ -5381,10 +5499,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6893299",
-      "title": "Ann Street near Tooley Street Sth",
       "stopId": "840135",
+      "lon": "152.6893299",
       "tag": "840135",
+      "title": "Ann Street near Tooley Street Sth",
       "lat": "-25.53835",
       "scheduleRoutes": {
         "703": {
@@ -5415,10 +5533,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6872399",
-      "title": "Ann Street near Pleasant St",
       "stopId": "840136",
+      "lon": "152.6872399",
       "tag": "840136",
+      "title": "Ann Street near Pleasant St",
       "lat": "-25.53678",
       "scheduleRoutes": {
         "703": {
@@ -5449,10 +5567,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6889199",
-      "title": "Cheapside St Sth near Alice St",
       "stopId": "840137",
+      "lon": "152.6889199",
       "tag": "840137",
+      "title": "Cheapside St Sth near Alice St",
       "lat": "-25.53333",
       "scheduleRoutes": {
         "703": {
@@ -5483,10 +5601,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6808099",
-      "title": "Cheapside St Sth near Richard St",
       "stopId": "840138",
+      "lon": "152.6808099",
       "tag": "840138",
+      "title": "Cheapside St Sth near Richard St",
       "lat": "-25.52931",
       "scheduleRoutes": {
         "703": {
@@ -5517,10 +5635,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6786099",
-      "title": "George St near Morning Street",
       "stopId": "840139",
+      "lon": "152.6786099",
       "tag": "840139",
+      "title": "George St near Morning Street",
       "lat": "-25.52935",
       "scheduleRoutes": {
         "703": {
@@ -5551,10 +5669,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6768899",
-      "title": "George Street near Jupiter St Sth",
       "stopId": "840140",
+      "lon": "152.6768899",
       "tag": "840140",
+      "title": "George Street near Jupiter St Sth",
       "lat": "-25.52748",
       "scheduleRoutes": {
         "703": {
@@ -5585,10 +5703,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6779399",
-      "title": "Jupiter Street near Alice St",
       "stopId": "840141",
+      "lon": "152.6779399",
       "tag": "840141",
+      "title": "Jupiter Street near Alice St",
       "lat": "-25.52625",
       "scheduleRoutes": {
         "703": {
@@ -5608,10 +5726,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6771199",
-      "title": "Alice Street near Russell St",
       "stopId": "840142",
+      "lon": "152.6771199",
       "tag": "840142",
+      "title": "Alice Street near Russell St",
       "lat": "-25.52463",
       "scheduleRoutes": {
         "703": {
@@ -5642,10 +5760,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6582099",
-      "title": "Maryborough Biggenden Road near Gayndah Road",
       "stopId": "840144",
+      "lon": "152.6582099",
       "tag": "840144",
+      "title": "Maryborough Biggenden Road near Gayndah Road",
       "lat": "-25.51382",
       "scheduleRoutes": {
         "703": {
@@ -5665,10 +5783,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6788999",
-      "title": "Russell St near Raven St",
       "stopId": "840145",
+      "lon": "152.6788999",
       "tag": "840145",
+      "title": "Russell St near Raven St",
       "lat": "-25.52292",
       "scheduleRoutes": {
         "703": {
@@ -5698,10 +5816,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6809299",
-      "title": "Kent Street near Russell St",
       "stopId": "840146",
+      "lon": "152.6809299",
       "tag": "840146",
+      "title": "Kent Street near Russell St",
       "lat": "-25.52187",
       "scheduleRoutes": {
         "703": {
@@ -5740,10 +5858,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6836299",
-      "title": "Jupiter St near Clayton St",
       "stopId": "840147",
+      "lon": "152.6836299",
       "tag": "840147",
+      "title": "Jupiter St near Clayton St",
       "lat": "-25.52197",
       "scheduleRoutes": {
         "701": {
@@ -5808,10 +5926,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6816499",
-      "title": "Stafford St near Alan Street",
       "stopId": "840148",
+      "lon": "152.6816499",
       "tag": "840148",
+      "title": "Stafford St near Alan Street",
       "lat": "-25.51967",
       "scheduleRoutes": {
         "701": {
@@ -5864,10 +5982,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6797699",
-      "title": "Stafford St near Croydon St",
       "stopId": "840149",
+      "lon": "152.6797699",
       "tag": "840149",
+      "title": "Stafford St near Croydon St",
       "lat": "-25.5183",
       "scheduleRoutes": {
         "701": {
@@ -5923,10 +6041,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6814399",
-      "title": "Walker Street near Matthies St",
       "stopId": "840150",
+      "lon": "152.6814399",
       "tag": "840150",
+      "title": "Walker Street near Matthies St",
       "lat": "-25.51688",
       "scheduleRoutes": {
         "701": {
@@ -5988,10 +6106,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6835699",
-      "title": "Walker Street near Price St",
       "stopId": "840151",
+      "lon": "152.6835699",
       "tag": "840151",
+      "title": "Walker Street near Price St",
       "lat": "-25.51851",
       "scheduleRoutes": {
         "701": {
@@ -6053,10 +6171,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6851099",
-      "title": "Walker Street near Stevenson St",
       "stopId": "840152",
+      "lon": "152.6851099",
       "tag": "840152",
+      "title": "Walker Street near Stevenson St",
       "lat": "-25.51967",
       "scheduleRoutes": {
         "701": {
@@ -6115,10 +6233,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6872099",
-      "title": "Walker St near Saint Clair Ave",
       "stopId": "840153",
+      "lon": "152.6872099",
       "tag": "840153",
+      "title": "Walker St near Saint Clair Ave",
       "lat": "-25.52125",
       "scheduleRoutes": {
         "703": {
@@ -6156,10 +6274,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6892599",
-      "title": "Walker St near Neptune St",
       "stopId": "840154",
+      "lon": "152.6892599",
       "tag": "840154",
+      "title": "Walker St near Neptune St",
       "lat": "-25.52279",
       "scheduleRoutes": {
         "701": {
@@ -6207,10 +6325,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6893699",
-      "title": "Yaralla Street near Sussex St",
       "stopId": "840155",
+      "lon": "152.6893699",
       "tag": "840155",
+      "title": "Yaralla Street near Sussex St",
       "lat": "-25.52523",
       "scheduleRoutes": {
         "703": {
@@ -6233,10 +6351,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6907899",
-      "title": "Sussex Street near Amity St",
       "stopId": "840156",
+      "lon": "152.6907899",
       "tag": "840156",
+      "title": "Sussex Street near Amity St",
       "lat": "-25.52658",
       "scheduleRoutes": {
         "703": {
@@ -6259,10 +6377,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6930299",
-      "title": "Sussex St near Cheapside St",
       "stopId": "840157",
+      "lon": "152.6930299",
       "tag": "840157",
+      "title": "Sussex St near Cheapside St",
       "lat": "-25.52823",
       "scheduleRoutes": {
         "703": {
@@ -6285,10 +6403,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6962399",
-      "title": "Tooley Street near Wood St",
       "stopId": "840158",
+      "lon": "152.6962399",
       "tag": "840158",
+      "title": "Tooley Street near Wood St",
       "lat": "-25.53155",
       "scheduleRoutes": {
         "703": {
@@ -6311,10 +6429,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6941799",
-      "title": "Ellena St near Tooley Street South",
       "stopId": "840159",
+      "lon": "152.6941799",
       "tag": "840159",
+      "title": "Ellena St near Tooley Street South",
       "lat": "-25.53422",
       "scheduleRoutes": {
         "706": {
@@ -6340,10 +6458,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6954599",
-      "title": "Alice St at Senior Citizens Ctr",
       "stopId": "840160",
+      "lon": "152.6954599",
       "tag": "840160",
+      "title": "Alice St at Senior Citizens Ctr",
       "lat": "-25.53763",
       "scheduleRoutes": {
         "703": {
@@ -6396,10 +6514,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6983399",
-      "title": "Service Rd near Alice St",
       "stopId": "840161",
+      "lon": "152.6983399",
       "tag": "840161",
+      "title": "Service Rd near Alice St",
       "lat": "-25.53877",
       "scheduleRoutes": {
         "701": {
@@ -6513,10 +6631,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7022299",
-      "title": "Kent St near Adelaide St",
       "stopId": "840162",
+      "lon": "152.7022299",
       "tag": "840162",
+      "title": "Kent St near Adelaide St",
       "lat": "-25.53765",
       "scheduleRoutes": {
         "707": {
@@ -6540,10 +6658,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7010099",
-      "title": "John St at Maryborough Central School",
       "stopId": "840163",
+      "lon": "152.7010099",
       "tag": "840163",
+      "title": "John St at Maryborough Central School",
       "lat": "-25.53518",
       "scheduleRoutes": {
         "702": {
@@ -6588,10 +6706,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7025399",
-      "title": "John St at St Stephens Hospital",
       "stopId": "840164",
+      "lon": "152.7025399",
       "tag": "840164",
+      "title": "John St at St Stephens Hospital",
       "lat": "-25.53346",
       "scheduleRoutes": {
         "702": {
@@ -6631,10 +6749,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7053599",
-      "title": "John Street near Churchill St",
       "stopId": "840165",
+      "lon": "152.7053599",
       "tag": "840165",
+      "title": "John Street near Churchill St",
       "lat": "-25.53046",
       "scheduleRoutes": {
         "702": {
@@ -6666,10 +6784,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7071999",
-      "title": "Saltwater Creek Rd near Woodstock St",
       "stopId": "840166",
+      "lon": "152.7071999",
       "tag": "840166",
+      "title": "Saltwater Creek Rd near Woodstock St",
       "lat": "-25.52672"
     },
     "840167": {
@@ -6681,10 +6799,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7076799",
-      "title": "Saltwater Creek Rd near Demaine St",
       "stopId": "840167",
+      "lon": "152.7076799",
       "tag": "840167",
+      "title": "Saltwater Creek Rd near Demaine St",
       "lat": "-25.52331",
       "scheduleRoutes": {
         "702": {
@@ -6717,10 +6835,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7083699",
-      "title": "Saltwater Creek Road near Airport Dr",
       "stopId": "840168",
+      "lon": "152.7083699",
       "tag": "840168",
+      "title": "Saltwater Creek Road near Airport Dr",
       "lat": "-25.51852"
     },
     "840169": {
@@ -6729,10 +6847,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7084999",
-      "title": "Saltwater Creek Rd at Maryborough Airport",
       "stopId": "840169",
+      "lon": "152.7084999",
       "tag": "840169",
+      "title": "Saltwater Creek Rd at Maryborough Airport",
       "lat": "-25.5182"
     },
     "840170": {
@@ -6741,10 +6859,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7080399",
-      "title": "Saltwater Creek Road near Gaynor St",
       "stopId": "840170",
+      "lon": "152.7080399",
       "tag": "840170",
+      "title": "Saltwater Creek Road near Gaynor St",
       "lat": "-25.52142"
     },
     "840171": {
@@ -6753,10 +6871,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7078099",
-      "title": "Saltwater Creek Rd near Demaine St",
       "stopId": "840171",
+      "lon": "152.7078099",
       "tag": "840171",
+      "title": "Saltwater Creek Rd near Demaine St",
       "lat": "-25.52301"
     },
     "840172": {
@@ -6765,10 +6883,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7074499",
-      "title": "Saltwater Creek Road near Woodstock St",
       "stopId": "840172",
+      "lon": "152.7074499",
       "tag": "840172",
+      "title": "Saltwater Creek Road near Woodstock St",
       "lat": "-25.5255"
     },
     "840173": {
@@ -6777,10 +6895,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7072599",
-      "title": "Saltwater Creek Rd near Ashton St",
       "stopId": "840173",
+      "lon": "152.7072599",
       "tag": "840173",
+      "title": "Saltwater Creek Rd near Ashton St",
       "lat": "-25.52691"
     },
     "840174": {
@@ -6792,10 +6910,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7060299",
-      "title": "John Street near Churchill St",
       "stopId": "840174",
+      "lon": "152.7060299",
       "tag": "840174",
+      "title": "John Street near Churchill St",
       "lat": "-25.52977",
       "scheduleRoutes": {
         "702": {
@@ -6843,10 +6961,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7026699",
-      "title": "John St at St Marys School",
       "stopId": "840175",
+      "lon": "152.7026699",
       "tag": "840175",
+      "title": "John St at St Marys School",
       "lat": "-25.53331",
       "scheduleRoutes": {
         "701": {
@@ -6917,10 +7035,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6983499",
-      "title": "Kent St near Ferry St",
       "stopId": "840176",
+      "lon": "152.6983499",
       "tag": "840176",
+      "title": "Kent St near Ferry St",
       "lat": "-25.5348",
       "scheduleRoutes": {
         "701": {
@@ -6980,10 +7098,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6975299",
-      "title": "Kent St near Ferry St",
       "stopId": "840177",
+      "lon": "152.6975299",
       "tag": "840177",
+      "title": "Kent St near Ferry St",
       "lat": "-25.53417",
       "scheduleRoutes": {
         "703": {
@@ -7024,10 +7142,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6941399",
-      "title": "Kent Street near Pallas St",
       "stopId": "840178",
+      "lon": "152.6941399",
       "tag": "840178",
+      "title": "Kent Street near Pallas St",
       "lat": "-25.53163",
       "scheduleRoutes": {
         "701": {
@@ -7084,10 +7202,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6897699",
-      "title": "Kent Street near Amity St",
       "stopId": "840179",
+      "lon": "152.6897699",
       "tag": "840179",
+      "title": "Kent Street near Amity St",
       "lat": "-25.52842",
       "scheduleRoutes": {
         "701": {
@@ -7136,10 +7254,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6879899",
-      "title": "Kent St near Yaralla St",
       "stopId": "840180",
+      "lon": "152.6879899",
       "tag": "840180",
+      "title": "Kent St near Yaralla St",
       "lat": "-25.52711",
       "scheduleRoutes": {
         "701": {
@@ -7188,10 +7306,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6852599",
-      "title": "Kent St near Neptune St",
       "stopId": "840181",
+      "lon": "152.6852599",
       "tag": "840181",
+      "title": "Kent St near Neptune St",
       "lat": "-25.5251",
       "scheduleRoutes": {
         "701": {
@@ -7237,10 +7355,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6889099",
-      "title": "Dunn Street near Boys Ave",
       "stopId": "840183",
+      "lon": "152.6889099",
       "tag": "840183",
+      "title": "Dunn Street near Boys Ave",
       "lat": "-25.5172",
       "scheduleRoutes": {
         "701": {
@@ -7281,10 +7399,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6911199",
-      "title": "Boys Avenue near Bryant St",
       "stopId": "840184",
+      "lon": "152.6911199",
       "tag": "840184",
+      "title": "Boys Avenue near Bryant St",
       "lat": "-25.51708",
       "scheduleRoutes": {
         "701": {
@@ -7330,10 +7448,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6918699",
-      "title": "Neptune St near Corser Ave",
       "stopId": "840185",
+      "lon": "152.6918699",
       "tag": "840185",
+      "title": "Neptune St near Corser Ave",
       "lat": "-25.51853",
       "scheduleRoutes": {
         "701": {
@@ -7385,10 +7503,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6902899",
-      "title": "Neptune St near Winston Noble Dr",
       "stopId": "840186",
+      "lon": "152.6902899",
       "tag": "840186",
+      "title": "Neptune St near Winston Noble Dr",
       "lat": "-25.52026",
       "scheduleRoutes": {
         "701": {
@@ -7433,10 +7551,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6927199",
-      "title": "Walker Street near Amity St",
       "stopId": "840187",
+      "lon": "152.6927199",
       "tag": "840187",
+      "title": "Walker Street near Amity St",
       "lat": "-25.52539",
       "scheduleRoutes": {
         "701": {
@@ -7478,10 +7596,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6956599",
-      "title": "Ariadne Street near Churchill St",
       "stopId": "840188",
+      "lon": "152.6956599",
       "tag": "840188",
+      "title": "Ariadne Street near Churchill St",
       "lat": "-25.52271",
       "scheduleRoutes": {
         "701": {
@@ -7513,10 +7631,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6972599",
-      "title": "Churchill St near Cheapside St",
       "stopId": "840189",
+      "lon": "152.6972599",
       "tag": "840189",
+      "title": "Churchill St near Cheapside St",
       "lat": "-25.52355",
       "scheduleRoutes": {
         "701": {
@@ -7542,10 +7660,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6988399",
-      "title": "Churchill Street near Pallas St",
       "stopId": "840190",
+      "lon": "152.6988399",
       "tag": "840190",
+      "title": "Churchill Street near Pallas St",
       "lat": "-25.52472",
       "scheduleRoutes": {
         "701": {
@@ -7571,10 +7689,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6973399",
-      "title": "Pallas Street near Milton St",
       "stopId": "840191",
+      "lon": "152.6973399",
       "tag": "840191",
+      "title": "Pallas Street near Milton St",
       "lat": "-25.52716",
       "scheduleRoutes": {
         "701": {
@@ -7606,10 +7724,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6992999",
-      "title": "Walker Street near Ferry St",
       "stopId": "840192",
+      "lon": "152.6992999",
       "tag": "840192",
+      "title": "Walker Street near Ferry St",
       "lat": "-25.53035",
       "scheduleRoutes": {
         "701": {
@@ -7639,10 +7757,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7029099",
-      "title": "Churchill Street near Goodwin Lane",
       "stopId": "840193",
+      "lon": "152.7029099",
       "tag": "840193",
+      "title": "Churchill Street near Goodwin Lane",
       "lat": "-25.52784",
       "scheduleRoutes": {
         "702": {
@@ -7674,10 +7792,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7013699",
-      "title": "Tooley Street near Ella St",
       "stopId": "840194",
+      "lon": "152.7013699",
       "tag": "840194",
+      "title": "Tooley Street near Ella St",
       "lat": "-25.52592",
       "scheduleRoutes": {
         "702": {
@@ -7709,10 +7827,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7031899",
-      "title": "Tooley Street near Frank St",
       "stopId": "840195",
+      "lon": "152.7031899",
       "tag": "840195",
+      "title": "Tooley Street near Frank St",
       "lat": "-25.5239",
       "scheduleRoutes": {
         "702": {
@@ -7744,10 +7862,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7004899",
-      "title": "Woodstock Street near Cheapside St",
       "stopId": "840196",
+      "lon": "152.7004899",
       "tag": "840196",
+      "title": "Woodstock Street near Cheapside St",
       "lat": "-25.52102",
       "scheduleRoutes": {
         "702": {
@@ -7780,10 +7898,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7002399",
-      "title": "Ariadne St near Bedford St",
       "stopId": "840197",
+      "lon": "152.7002399",
       "tag": "840197",
+      "title": "Ariadne St near Bedford St",
       "lat": "-25.51769",
       "scheduleRoutes": {
         "702": {
@@ -7816,10 +7934,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7006699",
-      "title": "Thurecht St near Victory St",
       "stopId": "840198",
+      "lon": "152.7006699",
       "tag": "840198",
+      "title": "Thurecht St near Victory St",
       "lat": "-25.5139",
       "scheduleRoutes": {
         "702": {
@@ -7852,10 +7970,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7035899",
-      "title": "Victory Street near James St",
       "stopId": "840199",
+      "lon": "152.7035899",
       "tag": "840199",
+      "title": "Victory Street near James St",
       "lat": "-25.51558",
       "scheduleRoutes": {
         "702": {
@@ -7888,10 +8006,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7053999",
-      "title": "Cheapside St near Margaret St",
       "stopId": "840200",
+      "lon": "152.7053999",
       "tag": "840200",
+      "title": "Cheapside St near Margaret St",
       "lat": "-25.51518",
       "scheduleRoutes": {
         "702": {
@@ -7924,10 +8042,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7070499",
-      "title": "Pallas Street near Robinson St",
       "stopId": "840202",
+      "lon": "152.7070499",
       "tag": "840202",
+      "title": "Pallas Street near Robinson St",
       "lat": "-25.51651",
       "scheduleRoutes": {
         "702": {
@@ -7960,10 +8078,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7059399",
-      "title": "Wilson St near Gaynor St",
       "stopId": "840203",
+      "lon": "152.7059399",
       "tag": "840203",
+      "title": "Wilson St near Gaynor St",
       "lat": "-25.5206",
       "scheduleRoutes": {
         "702": {
@@ -7996,10 +8114,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7089099",
-      "title": "Gaynor St near Salwater Creek Rd",
       "stopId": "840204",
+      "lon": "152.7089099",
       "tag": "840204",
+      "title": "Gaynor St near Salwater Creek Rd",
       "lat": "-25.52122",
       "scheduleRoutes": {
         "702": {
@@ -8032,10 +8150,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7088699",
-      "title": "Grosvenor St near Treasure St",
       "stopId": "840205",
+      "lon": "152.7088699",
       "tag": "840205",
+      "title": "Grosvenor St near Treasure St",
       "lat": "-25.52263",
       "scheduleRoutes": {
         "702": {
@@ -8068,10 +8186,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7108299",
-      "title": "Treasure Street near John St",
       "stopId": "840206",
+      "lon": "152.7108299",
       "tag": "840206",
+      "title": "Treasure Street near John St",
       "lat": "-25.52381",
       "scheduleRoutes": {
         "702": {
@@ -8104,10 +8222,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7133099",
-      "title": "Treasure Street near Waratah St",
       "stopId": "840207",
+      "lon": "152.7133099",
       "tag": "840207",
+      "title": "Treasure Street near Waratah St",
       "lat": "-25.52568",
       "scheduleRoutes": {
         "702": {
@@ -8128,10 +8246,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7173599",
-      "title": "Smith St near Iris Street",
       "stopId": "840208",
+      "lon": "152.7173599",
       "tag": "840208",
+      "title": "Smith St near Iris Street",
       "lat": "-25.52329",
       "scheduleRoutes": {
         "702": {
@@ -8152,10 +8270,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7122099",
-      "title": "Moreton Street near John St",
       "stopId": "840209",
+      "lon": "152.7122099",
       "tag": "840209",
+      "title": "Moreton Street near John St",
       "lat": "-25.5235",
       "scheduleRoutes": {
         "702": {
@@ -8176,10 +8294,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7100999",
-      "title": "John Street near Doon Villa Ave",
       "stopId": "840210",
+      "lon": "152.7100999",
       "tag": "840210",
+      "title": "John Street near Doon Villa Ave",
       "lat": "-25.52528",
       "scheduleRoutes": {
         "702": {
@@ -8212,10 +8330,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7473399",
-      "title": "Sawmill Rd near Annette St",
       "stopId": "840212",
+      "lon": "152.7473399",
       "tag": "840212",
+      "title": "Sawmill Rd near Annette St",
       "lat": "-25.28024",
       "scheduleRoutes": {
         "710": {
@@ -8241,10 +8359,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7525899",
-      "title": "Sempfs Rd near Palm Way",
       "stopId": "840213",
+      "lon": "152.7525899",
       "tag": "840213",
+      "title": "Sempfs Rd near Palm Way",
       "lat": "-25.27314",
       "scheduleRoutes": {
         "710": {
@@ -8270,10 +8388,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7591399",
-      "title": "Sempfs Rd near Panorama Dr",
       "stopId": "840214",
+      "lon": "152.7591399",
       "tag": "840214",
+      "title": "Sempfs Rd near Panorama Dr",
       "lat": "-25.27404",
       "scheduleRoutes": {
         "710": {
@@ -8299,10 +8417,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7506199",
-      "title": "Karraschs Rd near Broadway Dr",
       "stopId": "840215",
+      "lon": "152.7506199",
       "tag": "840215",
+      "title": "Karraschs Rd near Broadway Dr",
       "lat": "-25.28831",
       "scheduleRoutes": {
         "710": {
@@ -8328,10 +8446,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7351899",
-      "title": "Cedar Rd near Pacific St",
       "stopId": "840216",
+      "lon": "152.7351899",
       "tag": "840216",
+      "title": "Cedar Rd near Pacific St",
       "lat": "-25.26913",
       "scheduleRoutes": {
         "710": {
@@ -8358,10 +8476,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7149899",
-      "title": "Pialba Burrum Heads Rd near Mitchell Ave",
       "stopId": "840217",
+      "lon": "152.7149899",
       "tag": "840217",
+      "title": "Pialba Burrum Heads Rd near Mitchell Ave",
       "lat": "-25.28043",
       "scheduleRoutes": {
         "711": {
@@ -8383,10 +8501,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6904199",
-      "title": "Jeppeson Rd near Desmond Dr (Hail n Ride)",
       "stopId": "840218",
+      "lon": "152.6904199",
       "tag": "840218",
+      "title": "Jeppeson Rd near Desmond Dr (Hail n Ride)",
       "lat": "-25.25644",
       "scheduleRoutes": {
         "711": {
@@ -8405,10 +8523,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6667499",
-      "title": "Toogoom Rd near Delrose Ct",
       "stopId": "840219",
+      "lon": "152.6667499",
       "tag": "840219",
+      "title": "Toogoom Rd near Delrose Ct",
       "lat": "-25.26018",
       "scheduleRoutes": {
         "711": {
@@ -8428,10 +8546,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6136199",
-      "title": "Howard St at Burrum Heads Hall",
       "stopId": "840221",
+      "lon": "152.6136199",
       "tag": "840221",
+      "title": "Howard St at Burrum Heads Hall",
       "lat": "-25.18523",
       "scheduleRoutes": {
         "711": {
@@ -8454,10 +8572,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.5960599",
-      "title": "Robertson St near Crawford St",
       "stopId": "840222",
+      "lon": "152.5960599",
       "tag": "840222",
+      "title": "Robertson St near Crawford St",
       "lat": "-25.34625",
       "scheduleRoutes": {
         "707": {
@@ -8478,10 +8596,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.5584699",
-      "title": "Coal St near Watkins St (Hail n Ride)",
       "stopId": "840223",
+      "lon": "152.5584699",
       "tag": "840223",
+      "title": "Coal St near Watkins St (Hail n Ride)",
       "lat": "-25.31642",
       "scheduleRoutes": {
         "707": {
@@ -8502,10 +8620,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7079399",
-      "title": "Pallas St near Margaret Street",
       "stopId": "840227",
+      "lon": "152.7079399",
       "tag": "840227",
+      "title": "Pallas St near Margaret Street",
       "lat": "-25.51551",
       "scheduleRoutes": {
         "702": {
@@ -8541,10 +8659,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6833399",
-      "title": "Kent St near Christensen Cr",
       "stopId": "840228",
+      "lon": "152.6833399",
       "tag": "840228",
+      "title": "Kent St near Christensen Cr",
       "lat": "-25.52363",
       "scheduleRoutes": {
         "701": {
@@ -8580,10 +8698,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6899799",
-      "title": "Queen St near Queens Pl (Hail n Ride)",
       "stopId": "840229",
+      "lon": "152.6899799",
       "tag": "840229",
+      "title": "Queen St near Queens Pl (Hail n Ride)",
       "lat": "-25.54161",
       "scheduleRoutes": {
         "706": {
@@ -8609,10 +8727,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6845999",
-      "title": "Gympie Rd near Cran Street",
       "stopId": "840230",
+      "lon": "152.6845999",
       "tag": "840230",
+      "title": "Gympie Rd near Cran Street",
       "lat": "-25.54587",
       "scheduleRoutes": {
         "706": {
@@ -8638,10 +8756,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6822599",
-      "title": "Woongool Rd near Uhlmann St (Hail n Ride)",
       "stopId": "840231",
+      "lon": "152.6822599",
       "tag": "840231",
+      "title": "Woongool Rd near Uhlmann St (Hail n Ride)",
       "lat": "-25.55186",
       "scheduleRoutes": {
         "706": {
@@ -8667,10 +8785,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6749899",
-      "title": "Teddington Rd near Iindah Rd East (Hail n Ride)",
       "stopId": "840233",
+      "lon": "152.6749899",
       "tag": "840233",
+      "title": "Teddington Rd near Iindah Rd East (Hail n Ride)",
       "lat": "-25.56052",
       "scheduleRoutes": {
         "706": {
@@ -8694,10 +8812,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6680999",
-      "title": "Gympie Rd near Bluebell Rd (Hail n Ride)",
       "stopId": "840234",
+      "lon": "152.6680999",
       "tag": "840234",
+      "title": "Gympie Rd near Bluebell Rd (Hail n Ride)",
       "lat": "-25.55901",
       "scheduleRoutes": {
         "706": {
@@ -8715,10 +8833,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6710899",
-      "title": "Gympie Rd near Oleander Drive",
       "stopId": "840235",
+      "lon": "152.6710899",
       "tag": "840235",
+      "title": "Gympie Rd near Oleander Drive",
       "lat": "-25.55649",
       "scheduleRoutes": {
         "706": {
@@ -8743,10 +8861,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6657399",
-      "title": "Kurrajong Way near Cedar Ct (Hail n Ride)",
       "stopId": "840236",
+      "lon": "152.6657399",
       "tag": "840236",
+      "title": "Kurrajong Way near Cedar Ct (Hail n Ride)",
       "lat": "-25.5552",
       "scheduleRoutes": {
         "706": {
@@ -8770,10 +8888,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6725799",
-      "title": "Walworth St near Gympie Rd (Hail n Ride)",
       "stopId": "840237",
+      "lon": "152.6725799",
       "tag": "840237",
+      "title": "Walworth St near Gympie Rd (Hail n Ride)",
       "lat": "-25.55386",
       "scheduleRoutes": {
         "706": {
@@ -8797,10 +8915,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6791499",
-      "title": "Gympie Rd near Eatonvale Rd (Hail n Ride)",
       "stopId": "840238",
+      "lon": "152.6791499",
       "tag": "840238",
+      "title": "Gympie Rd near Eatonvale Rd (Hail n Ride)",
       "lat": "-25.54918",
       "scheduleRoutes": {
         "706": {
@@ -8826,10 +8944,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6842399",
-      "title": "Gympie Rd near Cran St",
       "stopId": "840240",
+      "lon": "152.6842399",
       "tag": "840240",
+      "title": "Gympie Rd near Cran St",
       "lat": "-25.54579",
       "scheduleRoutes": {
         "706": {
@@ -8851,10 +8969,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6892999",
-      "title": "Ferry St near South St",
       "stopId": "840241",
+      "lon": "152.6892999",
       "tag": "840241",
+      "title": "Ferry St near South St",
       "lat": "-25.54235",
       "scheduleRoutes": {
         "706": {
@@ -8872,10 +8990,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.5582099",
-      "title": "William St near Charles St (Hail n Ride)",
       "stopId": "840243",
+      "lon": "152.5582099",
       "tag": "840243",
+      "title": "William St near Charles St (Hail n Ride)",
       "lat": "-25.3214",
       "scheduleRoutes": {
         "707": {
@@ -8896,10 +9014,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.5630499",
-      "title": "Steley St near William St",
       "stopId": "840244",
+      "lon": "152.5630499",
       "tag": "840244",
+      "title": "Steley St near William St",
       "lat": "-25.31805",
       "scheduleRoutes": {
         "707": {
@@ -8920,10 +9038,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8587299",
-      "title": "Oleander Rd near Denmans Camp Rd (Hail n Ride)",
       "stopId": "840245",
+      "lon": "152.8587299",
       "tag": "840245",
+      "title": "Oleander Rd near Denmans Camp Rd (Hail n Ride)",
       "lat": "-25.29597",
       "scheduleRoutes": {
         "713": {
@@ -8950,10 +9068,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8705499",
-      "title": "Colyton St near Madeleine St (Hail n Ride)",
       "stopId": "840246",
+      "lon": "152.8705499",
       "tag": "840246",
+      "title": "Colyton St near Madeleine St (Hail n Ride)",
       "lat": "-25.29845",
       "scheduleRoutes": {
         "717": {
@@ -8978,10 +9096,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8296499",
-      "title": "Johnston Blvd near Andersen Ave (Hail n Ride)",
       "stopId": "840247",
+      "lon": "152.8296499",
       "tag": "840247",
+      "title": "Johnston Blvd near Andersen Ave (Hail n Ride)",
       "lat": "-25.30518",
       "scheduleRoutes": {
         "713": {
@@ -9004,10 +9122,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8982999",
-      "title": "Pulgul St near Aimee Dr",
       "stopId": "840249",
+      "lon": "152.8982999",
       "tag": "840249",
+      "title": "Pulgul St near Aimee Dr",
       "lat": "-25.30198",
       "scheduleRoutes": {
         "717": {
@@ -9032,10 +9150,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8739899",
-      "title": "Southerden St near Honiton St (Hail n Ride)",
       "stopId": "840250",
+      "lon": "152.8739899",
       "tag": "840250",
+      "title": "Southerden St near Honiton St (Hail n Ride)",
       "lat": "-25.29242",
       "scheduleRoutes": {
         "718": {
@@ -9062,10 +9180,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8190099",
-      "title": "Bunker Ave near Fairway Dr (Hail n Ride)",
       "stopId": "840251",
+      "lon": "152.8190099",
       "tag": "840251",
+      "title": "Bunker Ave near Fairway Dr (Hail n Ride)",
       "lat": "-25.28757",
       "scheduleRoutes": {
         "720": {
@@ -9089,10 +9207,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8136399",
-      "title": "Ibis Blvd near Wattlebird Lane (Hail n Ride)",
       "stopId": "840252",
+      "lon": "152.8136399",
       "tag": "840252",
+      "title": "Ibis Blvd near Wattlebird Lane (Hail n Ride)",
       "lat": "-25.28321",
       "scheduleRoutes": {
         "720": {
@@ -9116,10 +9234,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8051599",
-      "title": "Urraween Rd near Scrub Hill Rd (Hail n Ride)",
       "stopId": "840253",
+      "lon": "152.8051599",
       "tag": "840253",
+      "title": "Urraween Rd near Scrub Hill Rd (Hail n Ride)",
       "lat": "-25.29827",
       "scheduleRoutes": {
         "710": {
@@ -9145,10 +9263,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7671199",
-      "title": "Lower Mountain Rd near Dundowran Rd",
       "stopId": "840254",
+      "lon": "152.7671199",
       "tag": "840254",
+      "title": "Lower Mountain Rd near Dundowran Rd",
       "lat": "-25.29506",
       "scheduleRoutes": {
         "710": {
@@ -9174,10 +9292,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7587099",
-      "title": "Carls Rd near Plantation St (Hail n Ride)",
       "stopId": "840255",
+      "lon": "152.7587099",
       "tag": "840255",
+      "title": "Carls Rd near Plantation St (Hail n Ride)",
       "lat": "-25.29064",
       "scheduleRoutes": {
         "710": {
@@ -9207,10 +9325,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7483899",
-      "title": "Pialba Burrum Heads Rd near Karraschs Rd (HnR)",
       "stopId": "840256",
+      "lon": "152.7483899",
       "tag": "840256",
+      "title": "Pialba Burrum Heads Rd near Karraschs Rd (HnR)",
       "lat": "-25.2822",
       "scheduleRoutes": {
         "710": {
@@ -9248,10 +9366,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7347599",
-      "title": "Craignish Rd near McCarthy Rd (Hail n Ride)",
       "stopId": "840257",
+      "lon": "152.7347599",
       "tag": "840257",
+      "title": "Craignish Rd near McCarthy Rd (Hail n Ride)",
       "lat": "-25.28966",
       "scheduleRoutes": {
         "710": {
@@ -9277,10 +9395,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7353499",
-      "title": "Petersen Rd near Straits Outlook (Hail n Ride)",
       "stopId": "840258",
+      "lon": "152.7353499",
       "tag": "840258",
+      "title": "Petersen Rd near Straits Outlook (Hail n Ride)",
       "lat": "-25.2813",
       "scheduleRoutes": {
         "710": {
@@ -9306,10 +9424,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7274099",
-      "title": "Hamilton Dr near Castles Rd (Hail n Ride)",
       "stopId": "840259",
+      "lon": "152.7274099",
       "tag": "840259",
+      "title": "Hamilton Dr near Castles Rd (Hail n Ride)",
       "lat": "-25.27622",
       "scheduleRoutes": {
         "710": {
@@ -9335,10 +9453,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7383999",
-      "title": "Straits Outlook near Estate St (Hail n Ride)",
       "stopId": "840260",
+      "lon": "152.7383999",
       "tag": "840260",
+      "title": "Straits Outlook near Estate St (Hail n Ride)",
       "lat": "-25.27835",
       "scheduleRoutes": {
         "710": {
@@ -9364,10 +9482,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7473899",
-      "title": "Sawmill Rd near Homebush Rd (Hail n Ride)",
       "stopId": "840261",
+      "lon": "152.7473899",
       "tag": "840261",
+      "title": "Sawmill Rd near Homebush Rd (Hail n Ride)",
       "lat": "-25.27478",
       "scheduleRoutes": {
         "710": {
@@ -9393,10 +9511,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7481899",
-      "title": "Sawmill Rd near Ocean Park Dr (Hail n Ride)",
       "stopId": "840262",
+      "lon": "152.7481899",
       "tag": "840262",
+      "title": "Sawmill Rd near Ocean Park Dr (Hail n Ride)",
       "lat": "-25.2699",
       "scheduleRoutes": {
         "710": {
@@ -9422,10 +9540,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7614299",
-      "title": "Panorama Dr near Hennessy Dr (Hail n Ride)",
       "stopId": "840263",
+      "lon": "152.7614299",
       "tag": "840263",
+      "title": "Panorama Dr near Hennessy Dr (Hail n Ride)",
       "lat": "-25.28",
       "scheduleRoutes": {
         "710": {
@@ -9446,10 +9564,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7680299",
-      "title": "Ansons Rd near Hennessy Dr (Hail n Ride)",
       "stopId": "840264",
+      "lon": "152.7680299",
       "tag": "840264",
+      "title": "Ansons Rd near Hennessy Dr (Hail n Ride)",
       "lat": "-25.28386",
       "scheduleRoutes": {
         "710": {
@@ -9467,10 +9585,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6108999",
-      "title": "Burrum Heads Rd near Orchid Dr (Hail n Ride)",
       "stopId": "840265",
+      "lon": "152.6108999",
       "tag": "840265",
+      "title": "Burrum Heads Rd near Orchid Dr (Hail n Ride)",
       "lat": "-25.20406",
       "scheduleRoutes": {
         "711": {
@@ -9494,10 +9612,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6071599",
-      "title": "Riverview Dr near Sunrise Cr (Hail n Ride)",
       "stopId": "840267",
+      "lon": "152.6071599",
       "tag": "840267",
+      "title": "Riverview Dr near Sunrise Cr (Hail n Ride)",
       "lat": "-25.18617",
       "scheduleRoutes": {
         "711": {
@@ -9521,10 +9639,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6101299",
-      "title": "Riverview Dr near Ross St (Hail n Ride)",
       "stopId": "840268",
+      "lon": "152.6101299",
       "tag": "840268",
+      "title": "Riverview Dr near Ross St (Hail n Ride)",
       "lat": "-25.18634",
       "scheduleRoutes": {
         "711": {
@@ -9548,10 +9666,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6113099",
-      "title": "Burrum St near Ross St (Hail n Ride)",
       "stopId": "840270",
+      "lon": "152.6113099",
       "tag": "840270",
+      "title": "Burrum St near Ross St (Hail n Ride)",
       "lat": "-25.18403",
       "scheduleRoutes": {
         "711": {
@@ -9575,10 +9693,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6155999",
-      "title": "Burrum Street near Torbanlea St",
       "stopId": "840271",
+      "lon": "152.6155999",
       "tag": "840271",
+      "title": "Burrum Street near Torbanlea St",
       "lat": "-25.18532",
       "scheduleRoutes": {
         "711": {
@@ -9602,10 +9720,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6148199",
-      "title": "Howard St near Torbanlea St",
       "stopId": "840272",
+      "lon": "152.6148199",
       "tag": "840272",
+      "title": "Howard St near Torbanlea St",
       "lat": "-25.18614",
       "scheduleRoutes": {
         "711": {
@@ -9628,10 +9746,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6551099",
-      "title": "Pialba Burum Heads Rd near Belbi Crk Rd (HnR)",
       "stopId": "840273",
+      "lon": "152.6551099",
       "tag": "840273",
+      "title": "Pialba Burum Heads Rd near Belbi Crk Rd (HnR)",
       "lat": "-25.26829",
       "scheduleRoutes": {
         "711": {
@@ -9654,10 +9772,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6629999",
-      "title": "Pialba Burrum Heads Rd near Toogoom Rd (HnR)",
       "stopId": "840274",
+      "lon": "152.6629999",
       "tag": "840274",
+      "title": "Pialba Burrum Heads Rd near Toogoom Rd (HnR)",
       "lat": "-25.26749",
       "scheduleRoutes": {
         "711": {
@@ -9677,10 +9795,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6657999",
-      "title": "Toogoom Rd near Lorikeet Ave (Hail n Ride)",
       "stopId": "840275",
+      "lon": "152.6657999",
       "tag": "840275",
+      "title": "Toogoom Rd near Lorikeet Ave (Hail n Ride)",
       "lat": "-25.24882",
       "scheduleRoutes": {
         "711": {
@@ -9699,10 +9817,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6696999",
-      "title": "Mark Ave near Lorikeet Ave (Hail n Ride)",
       "stopId": "840276",
+      "lon": "152.6696999",
       "tag": "840276",
+      "title": "Mark Ave near Lorikeet Ave (Hail n Ride)",
       "lat": "-25.24697",
       "scheduleRoutes": {
         "711": {
@@ -9721,10 +9839,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6798099",
-      "title": "Kingfisher Pde near Morris Rd (Hail n Ride)",
       "stopId": "840277",
+      "lon": "152.6798099",
       "tag": "840277",
+      "title": "Kingfisher Pde near Morris Rd (Hail n Ride)",
       "lat": "-25.24911",
       "scheduleRoutes": {
         "711": {
@@ -9743,10 +9861,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6846699",
-      "title": "Kingfisher Pde near Sea Beach Way (Hail n Ride)",
       "stopId": "840278",
+      "lon": "152.6846699",
       "tag": "840278",
+      "title": "Kingfisher Pde near Sea Beach Way (Hail n Ride)",
       "lat": "-25.25302",
       "scheduleRoutes": {
         "711": {
@@ -9765,10 +9883,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6945199",
-      "title": "ORegan Creek Rd near Yram Pl (Hail n Ride)",
       "stopId": "840279",
+      "lon": "152.6945199",
       "tag": "840279",
+      "title": "ORegan Creek Rd near Yram Pl (Hail n Ride)",
       "lat": "-25.26032",
       "scheduleRoutes": {
         "711": {
@@ -9787,10 +9905,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7011499",
-      "title": "ORegan Creek Rd near Carkeet Rd (Hail n Ride)",
       "stopId": "840280",
+      "lon": "152.7011499",
       "tag": "840280",
+      "title": "ORegan Creek Rd near Carkeet Rd (Hail n Ride)",
       "lat": "-25.26174",
       "scheduleRoutes": {
         "711": {
@@ -9809,10 +9927,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8386099",
-      "title": "Doolong Rd near Ian Ave (Hail n Ride)",
       "stopId": "840281",
+      "lon": "152.8386099",
       "tag": "840281",
+      "title": "Doolong Rd near Ian Ave (Hail n Ride)",
       "lat": "-25.30468",
       "scheduleRoutes": {
         "713": {
@@ -9839,10 +9957,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8817899",
-      "title": "Esplanade near Ann St",
       "stopId": "840282",
+      "lon": "152.8817899",
       "tag": "840282",
+      "title": "Esplanade near Ann St",
       "lat": "-25.28226",
       "scheduleRoutes": {
         "716": {
@@ -9883,10 +10001,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8821299",
-      "title": "Ann St near Cypress St (Hail n Ride)",
       "stopId": "840283",
+      "lon": "152.8821299",
       "tag": "840283",
+      "title": "Ann St near Cypress St (Hail n Ride)",
       "lat": "-25.2837",
       "scheduleRoutes": {
         "717": {
@@ -9911,10 +10029,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8809599",
-      "title": "Truro St near Ann St (Hail n Ride)",
       "stopId": "840284",
+      "lon": "152.8809599",
       "tag": "840284",
+      "title": "Truro St near Ann St (Hail n Ride)",
       "lat": "-25.28607",
       "scheduleRoutes": {
         "717": {
@@ -9939,10 +10057,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8769699",
-      "title": "Truro St near Robert St (Hail n Ride)",
       "stopId": "840285",
+      "lon": "152.8769699",
       "tag": "840285",
+      "title": "Truro St near Robert St (Hail n Ride)",
       "lat": "-25.2868",
       "scheduleRoutes": {
         "717": {
@@ -9967,10 +10085,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8652999",
-      "title": "Tavistock St near Torquay Tce",
       "stopId": "840286",
+      "lon": "152.8652999",
       "tag": "840286",
+      "title": "Tavistock St near Torquay Tce",
       "lat": "-25.28692",
       "scheduleRoutes": {
         "717": {
@@ -9995,10 +10113,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.9024399",
-      "title": "Pulgul St near Boat Harbour Dr (Hail n Ride)",
       "stopId": "840287",
+      "lon": "152.9024399",
       "tag": "840287",
+      "title": "Pulgul St near Boat Harbour Dr (Hail n Ride)",
       "lat": "-25.29506",
       "scheduleRoutes": {
         "717": {
@@ -10023,10 +10141,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8663199",
-      "title": "Torquay Terrace near Tavistock St",
       "stopId": "840288",
+      "lon": "152.8663199",
       "tag": "840288",
+      "title": "Torquay Terrace near Tavistock St",
       "lat": "-25.28671",
       "scheduleRoutes": {
         "718": {
@@ -10053,10 +10171,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8830999",
-      "title": "Cypress St near Ann St (Hail n Ride)",
       "stopId": "840289",
+      "lon": "152.8830999",
       "tag": "840289",
+      "title": "Cypress St near Ann St (Hail n Ride)",
       "lat": "-25.28308",
       "scheduleRoutes": {
         "718": {
@@ -10083,10 +10201,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8912799",
-      "title": "Cypress Street near Margaret St",
       "stopId": "840290",
+      "lon": "152.8912799",
       "tag": "840290",
+      "title": "Cypress Street near Margaret St",
       "lat": "-25.28219",
       "scheduleRoutes": {
         "718": {
@@ -10116,10 +10234,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8223499",
-      "title": "Nissen St near Urraween Rd (Hail n Ride)",
       "stopId": "840291",
+      "lon": "152.8223499",
       "tag": "840291",
+      "title": "Nissen St near Urraween Rd (Hail n Ride)",
       "lat": "-25.30006",
       "scheduleRoutes": {
         "710": {
@@ -10143,10 +10261,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.5960099",
-      "title": "Robertson St near Crawford St",
       "stopId": "840292",
+      "lon": "152.5960099",
       "tag": "840292",
+      "title": "Robertson St near Crawford St",
       "lat": "-25.34621",
       "scheduleRoutes": {
         "707": {
@@ -10164,10 +10282,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6108299",
-      "title": "Ross St near Sunrise Cr (Hail n Ride)",
       "stopId": "840295",
+      "lon": "152.6108299",
       "tag": "840295",
+      "title": "Ross St near Sunrise Cr (Hail n Ride)",
       "lat": "-25.18854",
       "scheduleRoutes": {
         "711": {
@@ -10191,10 +10309,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6101599",
-      "title": "Ross St near Howard St (Hail n Ride)",
       "stopId": "840296",
+      "lon": "152.6101599",
       "tag": "840296",
+      "title": "Ross St near Howard St (Hail n Ride)",
       "lat": "-25.18509",
       "scheduleRoutes": {
         "711": {
@@ -10217,10 +10335,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.7011799",
-      "title": "ORegan Creek Rd near Carkeet Rd (Hail n Ride)",
       "stopId": "840297",
+      "lon": "152.7011799",
       "tag": "840297",
+      "title": "ORegan Creek Rd near Carkeet Rd (Hail n Ride)",
       "lat": "-25.26174",
       "scheduleRoutes": {
         "711": {
@@ -10239,10 +10357,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.6944999",
-      "title": "ORegan Creek Rd near Yram Pl (Hail n Ride)",
       "stopId": "840298",
+      "lon": "152.6944999",
       "tag": "840298",
+      "title": "ORegan Creek Rd near Yram Pl (Hail n Ride)",
       "lat": "-25.2604",
       "scheduleRoutes": {
         "711": {
@@ -10261,10 +10379,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.6904299",
-      "title": "Jeppeson Rd near Desmond Dr",
       "stopId": "840299",
+      "lon": "152.6904299",
       "tag": "840299",
+      "title": "Jeppeson Rd near Desmond Dr",
       "lat": "-25.25644",
       "scheduleRoutes": {
         "711": {
@@ -10283,10 +10401,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.6846799",
-      "title": "Kingfisher Pde near Silverleaf Tce (Hail n Ride)",
       "stopId": "840300",
+      "lon": "152.6846799",
       "tag": "840300",
+      "title": "Kingfisher Pde near Silverleaf Tce (Hail n Ride)",
       "lat": "-25.2532",
       "scheduleRoutes": {
         "711": {
@@ -10305,10 +10423,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.6805099",
-      "title": "Kingfisher Pde near Morris Rd (Hail n Ride)",
       "stopId": "840301",
+      "lon": "152.6805099",
       "tag": "840301",
+      "title": "Kingfisher Pde near Morris Rd (Hail n Ride)",
       "lat": "-25.24958",
       "scheduleRoutes": {
         "711": {
@@ -10327,10 +10445,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.6697199",
-      "title": "Mark Ave near Lorikeet Ave (Hail n Ride)",
       "stopId": "840302",
+      "lon": "152.6697199",
       "tag": "840302",
+      "title": "Mark Ave near Lorikeet Ave (Hail n Ride)",
       "lat": "-25.24696",
       "scheduleRoutes": {
         "711": {
@@ -10349,10 +10467,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.6657999",
-      "title": "Toogoom Rd near Lorikeet Ave (Hail n Ride)",
       "stopId": "840303",
+      "lon": "152.6657999",
       "tag": "840303",
+      "title": "Toogoom Rd near Lorikeet Ave (Hail n Ride)",
       "lat": "-25.24896",
       "scheduleRoutes": {
         "711": {
@@ -10372,10 +10490,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6625399",
-      "title": "Pialba Burrum Heads Rd near Toogoom Rd (HnR)",
       "stopId": "840304",
+      "lon": "152.6625399",
       "tag": "840304",
+      "title": "Pialba Burrum Heads Rd near Toogoom Rd (HnR)",
       "lat": "-25.26754",
       "scheduleRoutes": {
         "711": {
@@ -10399,10 +10517,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6552299",
-      "title": "Pialba Burrum Heads Rd near Belbi Creek Rd (HnR)",
       "stopId": "840305",
+      "lon": "152.6552299",
       "tag": "840305",
+      "title": "Pialba Burrum Heads Rd near Belbi Creek Rd (HnR)",
       "lat": "-25.26828",
       "scheduleRoutes": {
         "711": {
@@ -10425,10 +10543,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8237599",
-      "title": "Caddy Ave near Gumtree Dr (Hail n Ride)",
       "stopId": "840306",
+      "lon": "152.8237599",
       "tag": "840306",
+      "title": "Caddy Ave near Gumtree Dr (Hail n Ride)",
       "lat": "-25.29044",
       "scheduleRoutes": {
         "720": {
@@ -10456,10 +10574,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7296699",
-      "title": "Maryborough-Hervey Bay Rd at Dundathu",
       "stopId": "840309",
+      "lon": "152.7296699",
       "tag": "840309",
+      "title": "Maryborough-Hervey Bay Rd at Dundathu",
       "lat": "-25.46504"
     },
     "840315": {
@@ -10468,10 +10586,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6543799",
-      "title": "Nagel Street near Copenhagen St",
       "stopId": "840315",
+      "lon": "152.6543799",
       "tag": "840315",
+      "title": "Nagel Street near Copenhagen St",
       "lat": "-25.51016",
       "scheduleRoutes": {
         "703": {
@@ -10491,10 +10609,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6593499",
-      "title": "Eatonvale Rd near Lamerton Dr",
       "stopId": "840316",
+      "lon": "152.6593499",
       "tag": "840316",
+      "title": "Eatonvale Rd near Lamerton Dr",
       "lat": "-25.52528",
       "scheduleRoutes": {
         "706": {
@@ -10506,66 +10624,16 @@
         }
       }
     },
-    "840317": {
-      "routes": {
-        "705": {
-          "Inbound": true
-        },
-        "717": {
-          "Outbound": true
-        },
-        "718": {
-          "Outbound": true
-        }
-      },
-      "lon": "152.8535299",
-      "title": "Queens Rd near Scarborough St (HnR)",
-      "stopId": "840317",
-      "tag": "840317",
-      "lat": "-25.28575",
-      "scheduleRoutes": {
-        "717": {
-          "Outbound": {
-            "MoTuWeThFr": [
-              "11:38:00",
-              "13:48:00",
-              "10:38:00"
-            ],
-            "Saturday": [
-              "10:38:00",
-              "11:38:00",
-              "13:48:00"
-            ]
-          }
-        },
-        "718": {
-          "Outbound": {
-            "MoTuWeThFr": [
-              "09:49:00",
-              "12:49:00",
-              "11:39:00",
-              "14:39:00"
-            ],
-            "Saturday": [
-              "09:49:00",
-              "11:39:00",
-              "12:49:00",
-              "14:39:00"
-            ]
-          }
-        }
-      }
-    },
     "840318": {
       "routes": {
         "705": {
           "Inbound": true
         }
       },
-      "lon": "152.7554599",
-      "title": "Maryborough-Hervey Bay Road near Noble Rd",
       "stopId": "840318",
+      "lon": "152.7554599",
       "tag": "840318",
+      "title": "Maryborough-Hervey Bay Road near Noble Rd",
       "lat": "-25.42473"
     },
     "840320": {
@@ -10574,10 +10642,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6989799",
-      "title": "Thurecht Street near Bedford St",
       "stopId": "840320",
+      "lon": "152.6989799",
       "tag": "840320",
+      "title": "Thurecht Street near Bedford St",
       "lat": "-25.51575",
       "scheduleRoutes": {
         "702": {
@@ -10610,10 +10678,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8556499",
-      "title": "Kululu Crescent near Wuruma St",
       "stopId": "840321",
+      "lon": "152.8556499",
       "tag": "840321",
+      "title": "Kululu Crescent near Wuruma St",
       "lat": "-25.2922",
       "scheduleRoutes": {
         "713": {
@@ -10640,10 +10708,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7186699",
-      "title": "Smith St near Dawson Street",
       "stopId": "840322",
+      "lon": "152.7186699",
       "tag": "840322",
+      "title": "Smith St near Dawson Street",
       "lat": "-25.52185",
       "scheduleRoutes": {
         "702": {
@@ -10664,10 +10732,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7076399",
-      "title": "John St near Saltwater Creek Rd",
       "stopId": "840324",
+      "lon": "152.7076399",
       "tag": "840324",
+      "title": "John St near Saltwater Creek Rd",
       "lat": "-25.52795",
       "scheduleRoutes": {
         "702": {
@@ -10703,10 +10771,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6873399",
-      "title": "Reed Avenue near Hunter St",
       "stopId": "840328",
+      "lon": "152.6873399",
       "tag": "840328",
+      "title": "Reed Avenue near Hunter St",
       "lat": "-25.51876",
       "scheduleRoutes": {
         "701": {
@@ -10750,10 +10818,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8227299",
-      "title": "Nissen St at Hospital",
       "stopId": "840329",
+      "lon": "152.8227299",
       "tag": "840329",
+      "title": "Nissen St at Hospital",
       "lat": "-25.29878",
       "scheduleRoutes": {
         "710": {
@@ -10807,10 +10875,10 @@
           "Clockwise": true
         }
       },
-      "lon": "152.8290199",
-      "title": "Boat Harbour Dr at Fraser Shores Shops",
       "stopId": "840330",
+      "lon": "152.8290199",
       "tag": "840330",
+      "title": "Boat Harbour Dr at Fraser Shores Shops",
       "lat": "-25.28697",
       "scheduleRoutes": {
         "710": {
@@ -10869,10 +10937,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8941199",
-      "title": "Aimee Drive near Twolyn St",
       "stopId": "840331",
+      "lon": "152.8941199",
       "tag": "840331",
+      "title": "Aimee Drive near Twolyn St",
       "lat": "-25.29853",
       "scheduleRoutes": {
         "717": {
@@ -10897,10 +10965,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8833699",
-      "title": "Robertson Street near Hammon St",
       "stopId": "840333",
+      "lon": "152.8833699",
       "tag": "840333",
+      "title": "Robertson Street near Hammon St",
       "lat": "-25.29353",
       "scheduleRoutes": {
         "718": {
@@ -10927,10 +10995,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7254699",
-      "title": "Jocelyn Parade near Hoffman St",
       "stopId": "840336",
+      "lon": "152.7254699",
       "tag": "840336",
+      "title": "Jocelyn Parade near Hoffman St",
       "lat": "-25.54628",
       "scheduleRoutes": {
         "704": {
@@ -10961,10 +11029,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7274699",
-      "title": "Bushnell Street near Grevillea Dr",
       "stopId": "840337",
+      "lon": "152.7274699",
       "tag": "840337",
+      "title": "Bushnell Street near Grevillea Dr",
       "lat": "-25.54698",
       "scheduleRoutes": {
         "704": {
@@ -10995,10 +11063,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7244199",
-      "title": "Cambridge Street near Matthew Pde",
       "stopId": "840338",
+      "lon": "152.7244199",
       "tag": "840338",
+      "title": "Cambridge Street near Matthew Pde",
       "lat": "-25.54641",
       "scheduleRoutes": {
         "704": {
@@ -11029,10 +11097,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6621299",
-      "title": "Vaughan St near Smelter St (Hail n Ride)",
       "stopId": "840341",
+      "lon": "152.6621299",
       "tag": "840341",
+      "title": "Vaughan St near Smelter St (Hail n Ride)",
       "lat": "-25.46384",
       "scheduleRoutes": {
         "707": {
@@ -11054,10 +11122,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8976899",
-      "title": "Aimee Drive near Seaspray Ct",
       "stopId": "840343",
+      "lon": "152.8976899",
       "tag": "840343",
+      "title": "Aimee Drive near Seaspray Ct",
       "lat": "-25.3022",
       "scheduleRoutes": {
         "718": {
@@ -11084,10 +11152,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6822499",
-      "title": "High St near Groth St (Hail n Ride)",
       "stopId": "840345",
+      "lon": "152.6822499",
       "tag": "840345",
+      "title": "High St near Groth St (Hail n Ride)",
       "lat": "-25.55497",
       "scheduleRoutes": {
         "706": {
@@ -11113,10 +11181,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6808499",
-      "title": "Taylor St near Mackay Dr (Hail n Ride)",
       "stopId": "840346",
+      "lon": "152.6808499",
       "tag": "840346",
+      "title": "Taylor St near Mackay Dr (Hail n Ride)",
       "lat": "-25.54591",
       "scheduleRoutes": {
         "706": {
@@ -11140,10 +11208,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6736999",
-      "title": "Gympie Rd near Walworth St (Hail n Ride)",
       "stopId": "840347",
+      "lon": "152.6736999",
       "tag": "840347",
+      "title": "Gympie Rd near Walworth St (Hail n Ride)",
       "lat": "-25.55429",
       "scheduleRoutes": {
         "706": {
@@ -11168,10 +11236,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6680999",
-      "title": "Gympie Rd near Bluebell Rd (Hail n Ride)",
       "stopId": "840348",
+      "lon": "152.6680999",
       "tag": "840348",
+      "title": "Gympie Rd near Bluebell Rd (Hail n Ride)",
       "lat": "-25.55901",
       "scheduleRoutes": {
         "706": {
@@ -11189,10 +11257,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6954699",
-      "title": "Ann St near Lennox St (Hail n Ride)",
       "stopId": "840349",
+      "lon": "152.6954699",
       "tag": "840349",
+      "title": "Ann St near Lennox St (Hail n Ride)",
       "lat": "-25.54294",
       "scheduleRoutes": {
         "706": {
@@ -11208,10 +11276,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8154999",
-      "title": "Bowerbird Avenue (Hail n Ride)",
       "stopId": "840350",
+      "lon": "152.8154999",
       "tag": "840350",
+      "title": "Bowerbird Avenue (Hail n Ride)",
       "lat": "-25.28385",
       "scheduleRoutes": {
         "720": {
@@ -11238,10 +11306,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6880199",
-      "title": "Boys Ave near Jupter St (Hail n Ride)",
       "stopId": "840351",
+      "lon": "152.6880199",
       "tag": "840351",
+      "title": "Boys Ave near Jupter St (Hail n Ride)",
       "lat": "-25.51662",
       "scheduleRoutes": {
         "703": {
@@ -11263,10 +11331,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6791699",
-      "title": "Jupiter St near Sunbury Preschool (Hail n Ride)",
       "stopId": "840352",
+      "lon": "152.6791699",
       "tag": "840352",
+      "title": "Jupiter St near Sunbury Preschool (Hail n Ride)",
       "lat": "-25.52533",
       "scheduleRoutes": {
         "703": {
@@ -11282,10 +11350,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6937399",
-      "title": "North St near Maryborough West School (HnR)",
       "stopId": "840353",
+      "lon": "152.6937399",
       "tag": "840353",
+      "title": "North St near Maryborough West School (HnR)",
       "lat": "-25.52354",
       "scheduleRoutes": {
         "703": {
@@ -11301,10 +11369,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6964599",
-      "title": "Lennox Street at St Marys College (Hail n Ride)",
       "stopId": "840354",
+      "lon": "152.6964599",
       "tag": "840354",
+      "title": "Lennox Street at St Marys College (Hail n Ride)",
       "lat": "-25.54278",
       "scheduleRoutes": {
         "707": {
@@ -11323,10 +11391,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6965299",
-      "title": "Lennox Street at St Marys College (Hail n Ride)",
       "stopId": "840355",
+      "lon": "152.6965299",
       "tag": "840355",
+      "title": "Lennox Street at St Marys College (Hail n Ride)",
       "lat": "-25.5427",
       "scheduleRoutes": {
         "706": {
@@ -11342,10 +11410,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.5645899",
-      "title": "Steley Street near William St (Hail n Ride)",
       "stopId": "840356",
+      "lon": "152.5645899",
       "tag": "840356",
+      "title": "Steley Street near William St (Hail n Ride)",
       "lat": "-25.31934",
       "scheduleRoutes": {
         "707": {
@@ -11368,10 +11436,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6876399",
-      "title": "Searle St at Aldridge High (Hail n Ride)",
       "stopId": "840358",
+      "lon": "152.6876399",
       "tag": "840358",
+      "title": "Searle St at Aldridge High (Hail n Ride)",
       "lat": "-25.51492",
       "scheduleRoutes": {
         "701": {
@@ -11409,10 +11477,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6931899",
-      "title": "North St near Maryborough West School (HnR)",
       "stopId": "840359",
+      "lon": "152.6931899",
       "tag": "840359",
+      "title": "North St near Maryborough West School (HnR)",
       "lat": "-25.52313",
       "scheduleRoutes": {
         "706": {
@@ -11430,10 +11498,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.6109199",
-      "title": "Burrum Heads Rd near Orchid Dr (Hail n Ride)",
       "stopId": "840360",
+      "lon": "152.6109199",
       "tag": "840360",
+      "title": "Burrum Heads Rd near Orchid Dr (Hail n Ride)",
       "lat": "-25.20299",
       "scheduleRoutes": {
         "711": {
@@ -11452,10 +11520,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8324799",
-      "title": "Beach Rd at Pialba School (Hail n Ride)",
       "stopId": "840361",
+      "lon": "152.8324799",
       "tag": "840361",
+      "title": "Beach Rd at Pialba School (Hail n Ride)",
       "lat": "-25.27991",
       "scheduleRoutes": {
         "716": {
@@ -11477,10 +11545,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6890899",
-      "title": "Boys Ave near Dunn St (Hail n Ride)",
       "stopId": "840363",
+      "lon": "152.6890899",
       "tag": "840363",
+      "title": "Boys Ave near Dunn St (Hail n Ride)",
       "lat": "-25.51678",
       "scheduleRoutes": {
         "701": {
@@ -11517,10 +11585,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6920499",
-      "title": "Winston Noble Dr at Churchill St (Hail n Ride)",
       "stopId": "840364",
+      "lon": "152.6920499",
       "tag": "840364",
+      "title": "Winston Noble Dr at Churchill St (Hail n Ride)",
       "lat": "-25.52094",
       "scheduleRoutes": {
         "706": {
@@ -11538,10 +11606,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6932799",
-      "title": "Ariadne St at Walker St (Hail n Ride)",
       "stopId": "840365",
+      "lon": "152.6932799",
       "tag": "840365",
+      "title": "Ariadne St at Walker St (Hail n Ride)",
       "lat": "-25.52531",
       "scheduleRoutes": {
         "706": {
@@ -11565,10 +11633,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6934999",
-      "title": "Ariadne St at Milton St (Hail n Ride)",
       "stopId": "840367",
+      "lon": "152.6934999",
       "tag": "840367",
+      "title": "Ariadne St at Milton St (Hail n Ride)",
       "lat": "-25.52507",
       "scheduleRoutes": {
         "701": {
@@ -11604,10 +11672,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6756799",
-      "title": "Alice St near Aldridge St (Hail n Ride)",
       "stopId": "840369",
+      "lon": "152.6756799",
       "tag": "840369",
+      "title": "Alice St near Aldridge St (Hail n Ride)",
       "lat": "-25.52305",
       "scheduleRoutes": {
         "703": {
@@ -11627,10 +11695,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7589799",
-      "title": "Panorama Drv near Akarra Lagoons (HnR)",
       "stopId": "840370",
+      "lon": "152.7589799",
       "tag": "840370",
+      "title": "Panorama Drv near Akarra Lagoons (HnR)",
       "lat": "-25.27521",
       "scheduleRoutes": {
         "710": {
@@ -11657,10 +11725,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7875499",
-      "title": "Pialba Burrum Heads Rd near Valfern Ct (HnR)",
       "stopId": "840376",
+      "lon": "152.7875499",
       "tag": "840376",
+      "title": "Pialba Burrum Heads Rd near Valfern Ct (HnR)",
       "lat": "-25.28718",
       "scheduleRoutes": {
         "711": {
@@ -11686,10 +11754,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8237699",
-      "title": "Nissen St at Fraser Shores Village (Hail n Ride)",
       "stopId": "840377",
+      "lon": "152.8237699",
       "tag": "840377",
+      "title": "Nissen St at Fraser Shores Village (Hail n Ride)",
       "lat": "-25.29546",
       "scheduleRoutes": {
         "710": {
@@ -11713,10 +11781,10 @@
           "Outbound": true
         }
       },
-      "lon": "152.8916299",
-      "title": "Cypress St near Margaret St (Hail n Ride)",
       "stopId": "840381",
+      "lon": "152.8916299",
       "tag": "840381",
+      "title": "Cypress St near Margaret St (Hail n Ride)",
       "lat": "-25.28218",
       "scheduleRoutes": {
         "718": {
@@ -11743,10 +11811,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6640099",
-      "title": "Kurrajong Way at Tinana Greens (Hail n Ride)",
       "stopId": "840382",
+      "lon": "152.6640099",
       "tag": "840382",
+      "title": "Kurrajong Way at Tinana Greens (Hail n Ride)",
       "lat": "-25.55328",
       "scheduleRoutes": {
         "706": {
@@ -11770,10 +11838,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6962899",
-      "title": "Ann St near Lennox St (HnR)",
       "stopId": "840383",
+      "lon": "152.6962899",
       "tag": "840383",
+      "title": "Ann St near Lennox St (HnR)",
       "lat": "-25.54355",
       "scheduleRoutes": {
         "703": {
@@ -11804,10 +11872,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7151199",
-      "title": "Raglan St near Wolseley St (Hail n Ride)",
       "stopId": "840384",
+      "lon": "152.7151199",
       "tag": "840384",
+      "title": "Raglan St near Wolseley St (Hail n Ride)",
       "lat": "-25.5364",
       "scheduleRoutes": {
         "704": {
@@ -11824,10 +11892,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6618899",
-      "title": "Maryborough Biggenden Rd near Royale St (HnR)",
       "stopId": "840385",
+      "lon": "152.6618899",
       "tag": "840385",
+      "title": "Maryborough Biggenden Rd near Royale St (HnR)",
       "lat": "-25.51587",
       "scheduleRoutes": {
         "703": {
@@ -11847,10 +11915,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8071899",
-      "title": "Hervey Bay Rd near Scrubhill Rd (Hail n Ride)",
       "stopId": "840386",
+      "lon": "152.8071899",
       "tag": "840386",
+      "title": "Hervey Bay Rd near Scrubhill Rd (Hail n Ride)",
       "lat": "-25.30746"
     },
     "840387": {
@@ -11862,10 +11930,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8122599",
-      "title": "Uraween Rd near Cooks Rd (Hail n Ride)",
       "stopId": "840387",
+      "lon": "152.8122599",
       "tag": "840387",
+      "title": "Uraween Rd near Cooks Rd (Hail n Ride)",
       "lat": "-25.29923",
       "scheduleRoutes": {
         "710": {
@@ -11889,10 +11957,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8128999",
-      "title": "Uraween Rd near Cooks Rd (Hail n Ride)",
       "stopId": "840388",
+      "lon": "152.8128999",
       "tag": "840388",
+      "title": "Uraween Rd near Cooks Rd (Hail n Ride)",
       "lat": "-25.29931",
       "scheduleRoutes": {
         "710": {
@@ -11912,10 +11980,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8197899",
-      "title": "Urraween Rd near Madsen Rd (Hail n Ride)",
       "stopId": "840389",
+      "lon": "152.8197899",
       "tag": "840389",
+      "title": "Urraween Rd near Madsen Rd (Hail n Ride)",
       "lat": "-25.30024",
       "scheduleRoutes": {
         "710": {
@@ -11936,10 +12004,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.5979999",
-      "title": "Bruce Hwy at Torbanlea Service Station (HnR)",
       "stopId": "840391",
+      "lon": "152.5979999",
       "tag": "840391",
+      "title": "Bruce Hwy at Torbanlea Service Station (HnR)",
       "lat": "-25.35812",
       "scheduleRoutes": {
         "707": {
@@ -11958,10 +12026,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7092699",
-      "title": "Saltwater Crk Rd at Maryborough Sports Club (HnR)",
       "stopId": "840392",
+      "lon": "152.7092699",
       "tag": "840392",
+      "title": "Saltwater Crk Rd at Maryborough Sports Club (HnR)",
       "lat": "-25.51308"
     },
     "840393": {
@@ -11970,10 +12038,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7092099",
-      "title": "Saltwater Ck Rd near Maryborough Sports Club (HnR)",
       "stopId": "840393",
+      "lon": "152.7092099",
       "tag": "840393",
+      "title": "Saltwater Ck Rd near Maryborough Sports Club (HnR)",
       "lat": "-25.51341"
     },
     "840394": {
@@ -11982,10 +12050,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7279399",
-      "title": "Hervey Bay Rd at Churchill Mine Rd (Hail n Ride)",
       "stopId": "840394",
+      "lon": "152.7279399",
       "tag": "840394",
+      "title": "Hervey Bay Rd at Churchill Mine Rd (Hail n Ride)",
       "lat": "-25.46566"
     },
     "840395": {
@@ -11994,10 +12062,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7603999",
-      "title": "Hervey Bay Rd near Sunnyside Dr (Hail n Ride)",
       "stopId": "840395",
+      "lon": "152.7603999",
       "tag": "840395",
+      "title": "Hervey Bay Rd near Sunnyside Dr (Hail n Ride)",
       "lat": "-25.40928"
     },
     "840396": {
@@ -12006,10 +12074,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7688599",
-      "title": "Hervey Bay Rd near Sunnyside Dr (Hail n Ride)",
       "stopId": "840396",
+      "lon": "152.7688599",
       "tag": "840396",
+      "title": "Hervey Bay Rd near Sunnyside Dr (Hail n Ride)",
       "lat": "-25.38923"
     },
     "840397": {
@@ -12018,10 +12086,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7709399",
-      "title": "Hervey Bay Rd near Torbanlea roundabout (HnR)",
       "stopId": "840397",
+      "lon": "152.7709399",
       "tag": "840397",
+      "title": "Hervey Bay Rd near Torbanlea roundabout (HnR)",
       "lat": "-25.3609"
     },
     "840398": {
@@ -12030,10 +12098,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7942399",
-      "title": "Hervey Bay Rd at Moes Rd (Hail n Ride)",
       "stopId": "840398",
+      "lon": "152.7942399",
       "tag": "840398",
+      "title": "Hervey Bay Rd at Moes Rd (Hail n Ride)",
       "lat": "-25.3359"
     },
     "840399": {
@@ -12042,10 +12110,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7931199",
-      "title": "Hervey Bay Rd at Lord St (Hail n Ride)",
       "stopId": "840399",
+      "lon": "152.7931199",
       "tag": "840399",
+      "title": "Hervey Bay Rd at Lord St (Hail n Ride)",
       "lat": "-25.33667"
     },
     "840400": {
@@ -12054,10 +12122,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7987799",
-      "title": "Hervey Bay Rd at Piggford Lane (Hail n Ride)",
       "stopId": "840400",
+      "lon": "152.7987799",
       "tag": "840400",
+      "title": "Hervey Bay Rd at Piggford Lane (Hail n Ride)",
       "lat": "-25.32754"
     },
     "840401": {
@@ -12066,10 +12134,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8018799",
-      "title": "Hervey Bay Rd at Nikenbah Dundowran Rd (HnR)",
       "stopId": "840401",
+      "lon": "152.8018799",
       "tag": "840401",
+      "title": "Hervey Bay Rd at Nikenbah Dundowran Rd (HnR)",
       "lat": "-25.31652"
     },
     "840403": {
@@ -12078,10 +12146,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6715499",
-      "title": "Eatonvale Rd near O'Connor Rd (Hail n Ride)",
       "stopId": "840403",
+      "lon": "152.6715499",
       "tag": "840403",
+      "title": "Eatonvale Rd near O'Connor Rd (Hail n Ride)",
       "lat": "-25.54392",
       "scheduleRoutes": {
         "706": {
@@ -12099,10 +12167,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6712899",
-      "title": "Eatonvale Rd near O'Connor Rd (Hail n Ride)",
       "stopId": "840404",
+      "lon": "152.6712899",
       "tag": "840404",
+      "title": "Eatonvale Rd near O'Connor Rd (Hail n Ride)",
       "lat": "-25.54364",
       "scheduleRoutes": {
         "706": {
@@ -12120,10 +12188,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6594999",
-      "title": "Eatonvale Rd near Lamerton Dr (Hail n Ride)",
       "stopId": "840405",
+      "lon": "152.6594999",
       "tag": "840405",
+      "title": "Eatonvale Rd near Lamerton Dr (Hail n Ride)",
       "lat": "-25.52546",
       "scheduleRoutes": {
         "706": {
@@ -12141,10 +12209,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6472199",
-      "title": "River Rd at Tinana (Hail n Ride)",
       "stopId": "840406",
+      "lon": "152.6472199",
       "tag": "840406",
+      "title": "River Rd at Tinana (Hail n Ride)",
       "lat": "-25.5294",
       "scheduleRoutes": {
         "706": {
@@ -12162,10 +12230,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6467799",
-      "title": "River Rd at Tinana (Hail n Ride)",
       "stopId": "840407",
+      "lon": "152.6467799",
       "tag": "840407",
+      "title": "River Rd at Tinana (Hail n Ride)",
       "lat": "-25.53022",
       "scheduleRoutes": {
         "706": {
@@ -12183,10 +12251,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6467699",
-      "title": "Central Rd near Bosel Rd (Hail n Ride)",
       "stopId": "840408",
+      "lon": "152.6467699",
       "tag": "840408",
+      "title": "Central Rd near Bosel Rd (Hail n Ride)",
       "lat": "-25.5383",
       "scheduleRoutes": {
         "706": {
@@ -12204,10 +12272,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6467799",
-      "title": "Central Rd near Bosel Rd (Hail n Ride)",
       "stopId": "840409",
+      "lon": "152.6467799",
       "tag": "840409",
+      "title": "Central Rd near Bosel Rd (Hail n Ride)",
       "lat": "-25.53831",
       "scheduleRoutes": {
         "706": {
@@ -12225,10 +12293,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6410499",
-      "title": "Bosel Rd near Timbrell Cr (Hail n Ride)",
       "stopId": "840410",
+      "lon": "152.6410499",
       "tag": "840410",
+      "title": "Bosel Rd near Timbrell Cr (Hail n Ride)",
       "lat": "-25.55428",
       "scheduleRoutes": {
         "706": {
@@ -12246,10 +12314,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6407799",
-      "title": "Bosel Rd near Timbrell Cr (Hail n Ride)",
       "stopId": "840411",
+      "lon": "152.6407799",
       "tag": "840411",
+      "title": "Bosel Rd near Timbrell Cr (Hail n Ride)",
       "lat": "-25.55478",
       "scheduleRoutes": {
         "706": {
@@ -12267,10 +12335,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6547099",
-      "title": "Lindah Rd near Hardie St (Hail n Ride)",
       "stopId": "840412",
+      "lon": "152.6547099",
       "tag": "840412",
+      "title": "Lindah Rd near Hardie St (Hail n Ride)",
       "lat": "-25.558",
       "scheduleRoutes": {
         "706": {
@@ -12288,10 +12356,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6551599",
-      "title": "Lindah Rd near Hardie St (Hail n Ride)",
       "stopId": "840413",
+      "lon": "152.6551599",
       "tag": "840413",
+      "title": "Lindah Rd near Hardie St (Hail n Ride)",
       "lat": "-25.55806",
       "scheduleRoutes": {
         "706": {
@@ -12309,10 +12377,10 @@
           "Clockwise": true
         }
       },
-      "lon": "152.8277299",
-      "title": "Nissen St near Old Maryborough (Hail n Ride)",
       "stopId": "840467",
+      "lon": "152.8277299",
       "tag": "840467",
+      "title": "Nissen St near Old Maryborough (Hail n Ride)",
       "lat": "-25.28399",
       "scheduleRoutes": {
         "KGH": {
@@ -12345,10 +12413,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8913499",
-      "title": "Esplanade near Margaret St",
       "stopId": "840477",
+      "lon": "152.8913499",
       "tag": "840477",
+      "title": "Esplanade near Margaret St",
       "lat": "-25.28099",
       "scheduleRoutes": {
         "716": {
@@ -12389,10 +12457,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8740099",
-      "title": "Esplanade near Fraser St",
       "stopId": "840478",
+      "lon": "152.8740099",
       "tag": "840478",
+      "title": "Esplanade near Fraser St",
       "lat": "-25.28398",
       "scheduleRoutes": {
         "716": {
@@ -12433,10 +12501,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.6951999",
-      "title": "Sussex St near Palmas St (Hail n Ride)",
       "stopId": "840479",
+      "lon": "152.6951999",
       "tag": "840479",
+      "title": "Sussex St near Palmas St (Hail n Ride)",
       "lat": "-25.52983",
       "scheduleRoutes": {
         "703": {
@@ -12459,10 +12527,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.7557999",
-      "title": "Crawford Dr near Pedelty Lane (Hail n Ride)",
       "stopId": "840480",
+      "lon": "152.7557999",
       "tag": "840480",
+      "title": "Crawford Dr near Pedelty Lane (Hail n Ride)",
       "lat": "-25.28265",
       "scheduleRoutes": {
         "710": {
@@ -12488,10 +12556,10 @@
           "Inbound": true
         }
       },
-      "lon": "152.8874699",
-      "title": "Esplanade near Alexander St (Hail n Ride)",
       "stopId": "840488",
+      "lon": "152.8874699",
       "tag": "840488",
+      "title": "Esplanade near Alexander St (Hail n Ride)",
       "lat": "-25.28112",
       "scheduleRoutes": {
         "716": {
@@ -12521,106 +12589,6 @@
               "16:02:00",
               "17:12:00",
               "18:17:00"
-            ]
-          }
-        }
-      }
-    },
-    "840489": {
-      "routes": {
-        "705": {
-          "Inbound": true
-        },
-        "717": {
-          "Outbound": true
-        },
-        "718": {
-          "Outbound": true
-        }
-      },
-      "lon": "152.8611299",
-      "title": "Denmans Camp Rd nr Freshwater St (HnR)",
-      "stopId": "840489",
-      "tag": "840489",
-      "lat": "-25.28605",
-      "scheduleRoutes": {
-        "717": {
-          "Outbound": {
-            "MoTuWeThFr": [
-              "11:36:00",
-              "13:46:00",
-              "10:36:00"
-            ],
-            "Saturday": [
-              "10:36:00",
-              "11:36:00",
-              "13:46:00"
-            ]
-          }
-        },
-        "718": {
-          "Outbound": {
-            "MoTuWeThFr": [
-              "09:48:00",
-              "12:48:00",
-              "11:38:00",
-              "14:38:00"
-            ],
-            "Saturday": [
-              "09:48:00",
-              "11:38:00",
-              "12:48:00",
-              "14:38:00"
-            ]
-          }
-        }
-      }
-    },
-    "840490": {
-      "routes": {
-        "705": {
-          "Inbound": true
-        },
-        "717": {
-          "Outbound": true
-        },
-        "718": {
-          "Outbound": true
-        }
-      },
-      "lon": "152.8562799",
-      "title": "Freshwater St nr Queens Rd (HnR)",
-      "stopId": "840490",
-      "tag": "840490",
-      "lat": "-25.28559",
-      "scheduleRoutes": {
-        "717": {
-          "Outbound": {
-            "MoTuWeThFr": [
-              "11:37:00",
-              "13:47:00",
-              "10:37:00"
-            ],
-            "Saturday": [
-              "10:37:00",
-              "11:37:00",
-              "13:47:00"
-            ]
-          }
-        },
-        "718": {
-          "Outbound": {
-            "MoTuWeThFr": [
-              "09:48:00",
-              "12:48:00",
-              "11:38:00",
-              "14:38:00"
-            ],
-            "Saturday": [
-              "09:48:00",
-              "11:38:00",
-              "12:48:00",
-              "14:38:00"
             ]
           }
         }

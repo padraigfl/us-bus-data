@@ -86,6 +86,16 @@
       },
       "scheduledStops": {
         "inbound": [
+          "whyatt_nb",
+          "agernich_nb",
+          "pgplaza_nb",
+          "belc6505",
+          "42ndogle_nb",
+          "rhodcoun_w",
+          "hami38th_nb",
+          "whs_a_nb"
+        ],
+        "outbound": [
           "whs_d_sb",
           "hami38th",
           "rhodcoun_e",
@@ -97,9 +107,15 @@
         ]
       },
       "scheduledTimeRange": {
+        "loopa": {
+          "mtwthfrsatsun": {
+            "first": "06:00:00",
+            "last": "18:00:00"
+          }
+        },
         "loopb": {
           "mtwthfrsatsun": {
-            "first": "07:00:00",
+            "first": "06:00:00",
             "last": "18:00:00"
           }
         }
@@ -119,57 +135,6 @@
         -76.9172299
       ],
       "stops": {
-        "Northbound": [
-          "ncs_d",
-          "529585",
-          "540185",
-          "annarive",
-          "rivecarr",
-          "riveheri",
-          "rivemaho",
-          "7602rive",
-          "lamontdr_n",
-          "lamowest",
-          "lamolarc",
-          "lamocarr_n",
-          "lamoquen_n",
-          "lamofair_n",
-          "lamontdt_n",
-          "goodterr_n",
-          "goodcath_n",
-          "gooddawn_n",
-          "docthosp_n",
-          "hanogree_n",
-          "hanospri_nb",
-          "hanomega_n",
-          "hanovill_n",
-          "hanohunt_n",
-          "hanogreeb_n",
-          "hanoverw_n",
-          "hanoorag_n",
-          "greenway_n",
-          "greelkcr",
-          "greenber",
-          "pontedmo_n",
-          "pont63rd_n",
-          "pont60th_n",
-          "pontcunn_n",
-          "58thberw_n",
-          "57thberw_n",
-          "queb58th_n",
-          "60thqueb_n",
-          "60thsemi_n",
-          "60thgree",
-          "breezewo_n",
-          "breezewd_n",
-          "springhn_n",
-          "16_45_n",
-          "springhi_n",
-          "16_49_n",
-          "springhl_n",
-          "springhd_n",
-          "greecher_n"
-        ],
         "Southbound": [
           "gms_d",
           "greecher_s",
@@ -223,6 +188,57 @@
           "16_5",
           "16_2",
           "16_1"
+        ],
+        "Northbound": [
+          "ncs_d",
+          "529585",
+          "540185",
+          "annarive",
+          "rivecarr",
+          "riveheri",
+          "rivemaho",
+          "7602rive",
+          "lamontdr_n",
+          "lamowest",
+          "lamolarc",
+          "lamocarr_n",
+          "lamoquen_n",
+          "lamofair_n",
+          "lamontdt_n",
+          "goodterr_n",
+          "goodcath_n",
+          "gooddawn_n",
+          "docthosp_n",
+          "hanogree_n",
+          "hanospri_nb",
+          "hanomega_n",
+          "hanovill_n",
+          "hanohunt_n",
+          "hanogreeb_n",
+          "hanoverw_n",
+          "hanoorag_n",
+          "greenway_n",
+          "greelkcr",
+          "greenber",
+          "pontedmo_n",
+          "pont63rd_n",
+          "pont60th_n",
+          "pontcunn_n",
+          "58thberw_n",
+          "57thberw_n",
+          "queb58th_n",
+          "60thqueb_n",
+          "60thsemi_n",
+          "60thgree",
+          "breezewo_n",
+          "breezewd_n",
+          "springhn_n",
+          "16_45_n",
+          "springhi_n",
+          "16_49_n",
+          "springhl_n",
+          "springhd_n",
+          "greecher_n"
         ]
       },
       "scheduledStops": {
@@ -251,13 +267,13 @@
         "nb": {
           "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "18:01:00"
+            "last": "18:30:00"
           }
         },
         "sb": {
           "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "18:00:00"
+            "last": "18:30:00"
           }
         }
       }
@@ -277,45 +293,6 @@
         -76.9600497
       ],
       "stops": {
-        "Northbound": [
-          "mtraterm_d",
-          "rhod37th",
-          "rhod38th_n",
-          "rhodbunk",
-          "rhodvolt_n",
-          "rhodwebs_n",
-          "rhodwall_n",
-          "rhodchar",
-          "rhod41st",
-          "rhod42pl_n",
-          "cosvbldg_n",
-          "balthami",
-          "baltlong_n",
-          "baltogle_n",
-          "baltharr",
-          "baltrive",
-          "balteawe_n",
-          "baltsher",
-          "baltunde_n",
-          "baltvanb_n",
-          "baltamhe",
-          "baltguil_n",
-          "cps_t8_n",
-          "balthart_n",
-          "baltknox",
-          "baltross_n",
-          "baltlake_n",
-          "baltbhous",
-          "baltberw_n",
-          "balttecu",
-          "baltuniv_n",
-          "baltchero_n",
-          "balterie_n",
-          "baltindia_n",
-          "baltholly_n",
-          "baltcher",
-          "ikea2"
-        ],
         "Southbound": [
           "ikea_d",
           "baltcher_s",
@@ -354,6 +331,45 @@
           "rhod38th",
           "rhod37pl",
           "mtraterm_a"
+        ],
+        "Northbound": [
+          "mtraterm_d",
+          "rhod37th",
+          "rhod38th_n",
+          "rhodbunk",
+          "rhodvolt_n",
+          "rhodwebs_n",
+          "rhodwall_n",
+          "rhodchar",
+          "rhod41st",
+          "rhod42pl_n",
+          "cosvbldg_n",
+          "balthami",
+          "baltlong_n",
+          "baltogle_n",
+          "baltharr",
+          "baltrive",
+          "balteawe_n",
+          "baltsher",
+          "baltunde_n",
+          "baltvanb_n",
+          "baltamhe",
+          "baltguil_n",
+          "cps_t8_n",
+          "balthart_n",
+          "baltknox",
+          "baltross_n",
+          "baltlake_n",
+          "baltbhous",
+          "baltberw_n",
+          "balttecu",
+          "baltuniv_n",
+          "baltchero_n",
+          "balterie_n",
+          "baltindia_n",
+          "baltholly_n",
+          "baltcher",
+          "ikea2"
         ]
       },
       "scheduledStops": {
@@ -362,12 +378,10 @@
           "cosvbldg_n",
           "balteawe_n",
           "cps_t8_n",
-          "baltlake_n",
           "ikea_a"
         ],
         "outbound": [
           "ikea_d",
-          "baltlake",
           "cps_t8_s",
           "balteawe",
           "cosvbldg",
@@ -384,7 +398,7 @@
         "sb": {
           "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "18:00:00"
+            "last": "18:30:00"
           }
         }
       }
@@ -403,99 +417,6 @@
         -76.9884362
       ],
       "stops": {
-        "Northbound": [
-          "ars_d",
-          "18_30_n",
-          "18_31_n",
-          "18_32_n",
-          "18_33_n",
-          "18_34_n",
-          "18_35_n",
-          "18_37",
-          "mlkjrhwy",
-          "mlkjrhw6_n",
-          "mlkjrhw9_n",
-          "mlkjrhwc",
-          "mlkjrhwg_n",
-          "mlkjrhwb_n",
-          "18_97",
-          "mlkjrhwh",
-          "mlkjrhwt_n",
-          "18_103_n",
-          "18_98_n",
-          "18_104_n",
-          "18_99_n",
-          "18_69_n",
-          "18_74",
-          "18_68_n",
-          "18_71_n",
-          "18_73",
-          "18_67_n",
-          "18_65_n",
-          "columbir_n",
-          "18_27",
-          "columbia_n",
-          "18_63_n",
-          "18_56_n",
-          "18_53_n",
-          "18_57_n",
-          "18_55",
-          "18_58_n",
-          "18_59_n",
-          "18_60_n",
-          "18_61_n",
-          "18_62_n",
-          "18_88",
-          "18_86_n",
-          "18_90_n",
-          "anna54th",
-          "18_40",
-          "18_26",
-          "18_44_n",
-          "18_39_n",
-          "18_38_n",
-          "18_51_n",
-          "18_50",
-          "18_47_n",
-          "18_17_n",
-          "18_18_n",
-          "18_13_n",
-          "18_19_n",
-          "18_20",
-          "18_21",
-          "18_23",
-          "38thstai_n",
-          "38thstal_n",
-          "38thstat_n",
-          "38thstaa_n",
-          "hamiltoa_n",
-          "hamiltot_n",
-          "hamilto3_n",
-          "hamilto5_n",
-          "18_109",
-          "18_110_n",
-          "18_28_n",
-          "18_111_n",
-          "queensch_n",
-          "belcrest_n",
-          "18_45_n",
-          "18_75_n",
-          "18_10_n",
-          "18_11",
-          "18_5_n",
-          "18_7_n",
-          "18_8",
-          "18_6",
-          "23rdavea_n",
-          "23lewis",
-          "18_116_n",
-          "18_115_n",
-          "18_117_n",
-          "18_3_n",
-          "18_84_n",
-          "18_83",
-          "18_2_n"
-        ],
         "Southbound": [
           "edwanewh_d",
           "18_108",
@@ -590,6 +511,99 @@
           "18_32",
           "18_31",
           "18_30"
+        ],
+        "Northbound": [
+          "ars_d",
+          "18_30_n",
+          "18_31_n",
+          "18_32_n",
+          "18_33_n",
+          "18_34_n",
+          "18_35_n",
+          "18_37",
+          "mlkjrhwy",
+          "mlkjrhw6_n",
+          "mlkjrhw9_n",
+          "mlkjrhwc",
+          "mlkjrhwg_n",
+          "mlkjrhwb_n",
+          "18_97",
+          "mlkjrhwh",
+          "mlkjrhwt_n",
+          "18_103_n",
+          "18_98_n",
+          "18_104_n",
+          "18_99_n",
+          "18_69_n",
+          "18_74",
+          "18_68_n",
+          "18_71_n",
+          "18_73",
+          "18_67_n",
+          "18_65_n",
+          "columbir_n",
+          "18_27",
+          "columbia_n",
+          "18_63_n",
+          "18_56_n",
+          "18_53_n",
+          "18_57_n",
+          "18_55",
+          "18_58_n",
+          "18_59_n",
+          "18_60_n",
+          "18_61_n",
+          "18_62_n",
+          "18_88",
+          "18_86_n",
+          "18_90_n",
+          "anna54th",
+          "18_40",
+          "18_26",
+          "18_44_n",
+          "18_39_n",
+          "18_38_n",
+          "18_51_n",
+          "18_50",
+          "18_47_n",
+          "18_17_n",
+          "18_18_n",
+          "18_13_n",
+          "18_19_n",
+          "18_20",
+          "18_21",
+          "18_23",
+          "38thstai_n",
+          "38thstal_n",
+          "38thstat_n",
+          "38thstaa_n",
+          "hamiltoa_n",
+          "hamiltot_n",
+          "hamilto3_n",
+          "hamilto5_n",
+          "18_109",
+          "18_110_n",
+          "18_28_n",
+          "18_111_n",
+          "queensch_n",
+          "belcrest_n",
+          "18_45_n",
+          "18_75_n",
+          "18_10_n",
+          "18_11",
+          "18_5_n",
+          "18_7_n",
+          "18_8",
+          "18_6",
+          "23rdavea_n",
+          "23lewis",
+          "18_116_n",
+          "18_115_n",
+          "18_117_n",
+          "18_3_n",
+          "18_84_n",
+          "18_83",
+          "18_2_n"
         ]
       },
       "scheduledStops": {
@@ -618,13 +632,13 @@
         "nb": {
           "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "17:45:00"
+            "last": "18:30:00"
           }
         },
         "sb": {
           "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "18:00:00"
+            "last": "18:30:00"
           }
         }
       }
@@ -643,55 +657,6 @@
         -76.8992629
       ],
       "stops": {
-        "Westbound": [
-          "cab_d",
-          "judgesdr",
-          "courthou",
-          "oldmarlo",
-          "oldmarlr",
-          "oldmarlb",
-          "oldmstar_wb",
-          "oldmmapl_wb",
-          "omarlmta_w",
-          "20_34",
-          "20_33",
-          "20_31",
-          "marlathe_wb",
-          "marlweld_wb",
-          "marlderb_wb",
-          "marlchar_wb",
-          "20_25",
-          "20_32",
-          "20_28",
-          "20_29",
-          "20_38",
-          "20_19",
-          "20_18",
-          "20_20",
-          "dowepike_wb",
-          "20_40",
-          "5620pike_wb",
-          "pikedowe_wb",
-          "dowemarl_wb",
-          "20_35",
-          "20_12",
-          "2900donn",
-          "pennmars",
-          "marlbore",
-          "marlbora",
-          "marlbori",
-          "marlboro",
-          "counfost_wb",
-          "20_9",
-          "countyrd",
-          "20_10",
-          "20_36",
-          "20_5",
-          "20_3",
-          "addiwilb_wb",
-          "addiheal",
-          "20_4"
-        ],
         "Eastbound": [
           "ars_d",
           "20_4_e",
@@ -743,6 +708,55 @@
           "judgesdr_e",
           "courthou_e",
           "elmstatg"
+        ],
+        "Westbound": [
+          "cab_d",
+          "judgesdr",
+          "courthou",
+          "oldmarlo",
+          "oldmarlr",
+          "oldmarlb",
+          "oldmstar_wb",
+          "oldmmapl_wb",
+          "omarlmta_w",
+          "20_34",
+          "20_33",
+          "20_31",
+          "marlathe_wb",
+          "marlweld_wb",
+          "marlderb_wb",
+          "marlchar_wb",
+          "20_25",
+          "20_32",
+          "20_28",
+          "20_29",
+          "20_38",
+          "20_19",
+          "20_18",
+          "20_20",
+          "dowepike_wb",
+          "20_40",
+          "5620pike_wb",
+          "pikedowe_wb",
+          "dowemarl_wb",
+          "20_35",
+          "20_12",
+          "2900donn",
+          "pennmars",
+          "marlbore",
+          "marlbora",
+          "marlbori",
+          "marlboro",
+          "counfost_wb",
+          "20_9",
+          "countyrd",
+          "20_10",
+          "20_36",
+          "20_5",
+          "20_3",
+          "addiwilb_wb",
+          "addiheal",
+          "20_4"
         ]
       },
       "scheduledStops": {
@@ -771,13 +785,13 @@
         "eb": {
           "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "18:00:00"
+            "last": "18:30:00"
           }
         },
         "wb": {
           "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "18:00:00"
+            "last": "18:30:00"
           }
         }
       }
@@ -933,13 +947,13 @@
         "courthou": {
           "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "18:00:00"
+            "last": "18:30:00"
           }
         },
         "ncs": {
           "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "18:00:00"
+            "last": "18:30:00"
           }
         }
       }
@@ -958,73 +972,6 @@
         -76.9178117
       ],
       "stops": {
-        "To Capitol Heights Metro": [
-          "morstation_d",
-          "ritctruc_wb",
-          "ashwritc",
-          "ashwdunm_wb",
-          "dunmedge_wb",
-          "edgerit_o",
-          "ritedge",
-          "ritchrit_o",
-          "ritrit",
-          "ritfor",
-          "ritcashv",
-          "ritalb",
-          "ritden_o",
-          "ritnap_o",
-          "ritove_o",
-          "24_63_o",
-          "24_61_o",
-          "vinritch_o",
-          "richfarr_wb",
-          "24_52_o",
-          "24_26_o",
-          "ritchspur",
-          "24_64_o",
-          "24_62_o",
-          "24_60_o",
-          "24_36_o",
-          "24_27_o",
-          "24_37_o",
-          "24_30_o",
-          "kiplglen_wb",
-          "24_33_o",
-          "24_17_o",
-          "24_20_o",
-          "24_21_o",
-          "24_18_o",
-          "24_19_o",
-          "24_22_o",
-          "24_65_o",
-          "24_10_o",
-          "24_11",
-          "24_12",
-          "kipmar_o",
-          "24_58_o",
-          "24_56",
-          "oldslibr_wb",
-          "silverhi_o",
-          "24_59_o",
-          "brooksdr_o",
-          "24_4_o",
-          "broorid",
-          "walkmarl_o",
-          "24_72",
-          "24_73",
-          "24_67_o",
-          "1507roll",
-          "24_68_o",
-          "24_14_o",
-          "24_16_o",
-          "24_15_o",
-          "rollmodu_wb",
-          "24_66_o",
-          "rollhanl",
-          "centroll_o",
-          "24_25",
-          "eastcapi_o"
-        ],
         "To Morgan Blvd Metro Center": [
           "captiolh_d",
           "eastcapi",
@@ -1093,14 +1040,81 @@
           "ashwritc_eb",
           "ritctruc_eb",
           "ritccent_i"
+        ],
+        "To Capitol Heights Metro": [
+          "morstation_d",
+          "ritctruc_wb",
+          "ashwritc",
+          "ashwdunm_wb",
+          "dunmedge_wb",
+          "edgerit_o",
+          "ritedge",
+          "ritchrit_o",
+          "ritrit",
+          "ritfor",
+          "ritcashv",
+          "ritalb",
+          "ritden_o",
+          "ritnap_o",
+          "ritove_o",
+          "24_63_o",
+          "24_61_o",
+          "vinritch_o",
+          "richfarr_wb",
+          "24_52_o",
+          "24_26_o",
+          "ritchspur",
+          "24_64_o",
+          "24_62_o",
+          "24_60_o",
+          "24_36_o",
+          "24_27_o",
+          "24_37_o",
+          "24_30_o",
+          "kiplglen_wb",
+          "24_33_o",
+          "24_17_o",
+          "24_20_o",
+          "24_21_o",
+          "24_18_o",
+          "24_19_o",
+          "24_22_o",
+          "24_65_o",
+          "24_10_o",
+          "24_11",
+          "24_12",
+          "kipmar_o",
+          "24_58_o",
+          "24_56",
+          "oldslibr_wb",
+          "silverhi_o",
+          "24_59_o",
+          "brooksdr_o",
+          "24_4_o",
+          "broorid",
+          "walkmarl_o",
+          "24_72",
+          "24_73",
+          "24_67_o",
+          "1507roll",
+          "24_68_o",
+          "24_14_o",
+          "24_16_o",
+          "24_15_o",
+          "rollmodu_wb",
+          "24_66_o",
+          "rollhanl",
+          "centroll_o",
+          "24_25",
+          "eastcapi_o"
         ]
       },
       "scheduledStops": {
         "inbound": [
           "morstation_d",
           "24_52_o",
-          "24_17_o",
           "24_12",
+          "silverhi_o",
           "24_4_o",
           "24_14_o",
           "capitolh_a"
@@ -1109,8 +1123,8 @@
           "captiolh_d",
           "24_14",
           "brooridl",
+          "oldslibr_eb",
           "kipcoun",
-          "24_17",
           "24_52",
           "morstation_a"
         ]
@@ -1208,10 +1222,12 @@
           "morgstat_d",
           "hampstee_eb",
           "campuswa",
+          "motorveh_d",
           "largo_a"
         ],
         "outbound": [
           "largo_d",
+          "motorveh_d_wb",
           "campuswa_wb",
           "hampstee_wb",
           "morstation_a"
@@ -1246,6 +1262,36 @@
         -76.8539382
       ],
       "stops": {
+        "To Campus Way at Grey Gables - Loop A": [
+          "largoe_d",
+          "lothst_n",
+          "8951lot_n",
+          "lotzac_n",
+          "arenshop_n",
+          "seatpeeb_n",
+          "jeriresi_n",
+          "seataren_n",
+          "arenshop_cg",
+          "apoare_n",
+          "1400mer_n",
+          "tecmer_n",
+          "appomerc_n",
+          "apolot_n",
+          "mcclot_n",
+          "1221car_n",
+          "1441mcc",
+          "mccpep_n",
+          "9400pep_n",
+          "mccbas_n",
+          "rubycam_n",
+          "cwynlgro_n",
+          "campstjo_n",
+          "cwynbywa_n",
+          "cwynhilla_n",
+          "camtul",
+          "camgrey_d",
+          "9617lott"
+        ],
         "To Largo Metro Station via Campus Way N/Woodmore Towne Center - Loop B": [
           "lottsmcco",
           "largoe_d2",
@@ -1280,43 +1326,24 @@
           "lotzac",
           "8951lot",
           "lothst"
-        ],
-        "To Campus Way at Grey Gables - Loop A": [
-          "largoe_d",
-          "lothst_n",
-          "8951lot_n",
-          "lotzac_n",
-          "arenshop_n",
-          "seatpeeb_n",
-          "jeriresi_n",
-          "seataren_n",
-          "arenshop_cg",
-          "apoare_n",
-          "1400mer_n",
-          "tecmer_n",
-          "appomerc_n",
-          "apolot_n",
-          "mcclot_n",
-          "1221car_n",
-          "1441mcc",
-          "mccpep_n",
-          "9400pep_n",
-          "mccbas_n",
-          "rubycam_n",
-          "cwynlgro_n",
-          "campstjo_n",
-          "cwynbywa_n",
-          "cwynhilla_n",
-          "camtul",
-          "camgrey_d",
-          "9617lott"
         ]
       },
       "scheduledStops": {
         "inbound": [
+          "largoe_d",
+          "arenshop_n",
+          "jeriresi_n",
+          "1400mer_n",
+          "9400pep_n",
+          "rubycam_n",
+          "camgrey_d",
+          "largoe_a2"
+        ],
+        "outbound": [
           "largoe_d2",
           "camgrey_d2",
           "rubycam_s",
+          "9400pep",
           "1400mer",
           "jeriresi_s",
           "arenshop_lg",
@@ -1324,10 +1351,16 @@
         ]
       },
       "scheduledTimeRange": {
+        "campgrey": {
+          "mtwthfrsatsun": {
+            "first": "06:00:00",
+            "last": "18:45:00"
+          }
+        },
         "largo": {
           "mtwthfrsatsun": {
             "first": "06:00:00",
-            "last": "18:00:00"
+            "last": "18:45:00"
           }
         }
       }
@@ -1455,8 +1488,8 @@
       "scheduledTimeRange": {
         "bas": {
           "mtwthfrsatsun": {
-            "first": "06:01:00",
-            "last": "18:01:00"
+            "first": "06:00:00",
+            "last": "18:00:00"
           }
         },
         "maryhosp": {
@@ -1481,64 +1514,6 @@
         -76.9616831
       ],
       "stops": {
-        "To Naylor Road Station": [
-          "clintonf_d",
-          "32_30_o",
-          "32_11_o",
-          "32_22_o",
-          "32_65",
-          "32_66_o",
-          "32_37_o",
-          "32_32_o",
-          "32_36",
-          "alexhigh",
-          "32_35_o",
-          "32_33_o",
-          "alexmalc",
-          "32_41_o",
-          "32_40_o",
-          "32_43_o",
-          "oldbranc_o",
-          "allecamp",
-          "allentot_o",
-          "32_17",
-          "32_16",
-          "32_14",
-          "32_18_o",
-          "32_19_o",
-          "brinkley_o",
-          "32_55_o",
-          "32_52_o",
-          "32_63_o",
-          "32_54_o",
-          "32_57_o",
-          "tempcomc",
-          "32_56_o",
-          "32_58_o",
-          "templehr_o",
-          "templehi_o",
-          "templehl_o",
-          "manvp_o",
-          "templehd_o",
-          "32_48_o",
-          "32_46_o",
-          "32_47_o",
-          "32_44_o",
-          "32_50_o",
-          "28thkent_nb",
-          "28thkeit_nb",
-          "28thkeat",
-          "32_25",
-          "32_26_o",
-          "32_24_o",
-          "32_23",
-          "28thdugg",
-          "32_6_o",
-          "32_4",
-          "32_5_o",
-          "32_45_o",
-          "nayldrop"
-        ],
         "To Clinton Fringe Lot": [
           "naylor_d",
           "32_45",
@@ -1597,6 +1572,64 @@
           "32_11",
           "32_22",
           "woodwood"
+        ],
+        "To Naylor Road Station": [
+          "clintonf_d",
+          "32_30_o",
+          "32_11_o",
+          "32_22_o",
+          "32_65",
+          "32_66_o",
+          "32_37_o",
+          "32_32_o",
+          "32_36",
+          "alexhigh",
+          "32_35_o",
+          "32_33_o",
+          "alexmalc",
+          "32_41_o",
+          "32_40_o",
+          "32_43_o",
+          "oldbranc_o",
+          "allecamp",
+          "allentot_o",
+          "32_17",
+          "32_16",
+          "32_14",
+          "32_18_o",
+          "32_19_o",
+          "brinkley_o",
+          "32_55_o",
+          "32_52_o",
+          "32_63_o",
+          "32_54_o",
+          "32_57_o",
+          "tempcomc",
+          "32_56_o",
+          "32_58_o",
+          "templehr_o",
+          "templehi_o",
+          "templehl_o",
+          "manvp_o",
+          "templehd_o",
+          "32_48_o",
+          "32_46_o",
+          "32_47_o",
+          "32_44_o",
+          "32_50_o",
+          "28thkent_nb",
+          "28thkeit_nb",
+          "28thkeat",
+          "32_25",
+          "32_26_o",
+          "32_24_o",
+          "32_23",
+          "28thdugg",
+          "32_6_o",
+          "32_4",
+          "32_5_o",
+          "32_45_o",
+          "nayldrop"
         ]
       },
       "scheduledStops": {
@@ -1932,6 +1965,7 @@
           "smetsta_d",
           "oxonpark",
           "gaylhote",
+          "oxonprkf",
           "oxon6192",
           "padgetts",
           "oxonrive",
@@ -1958,10 +1992,25 @@
         -76.8719413
       ],
       "min": [
-        38.6716149,
+        38.671615,
         -76.898051
       ],
       "stops": {
+        "Northbound": [
+          "brancros_o",
+          "gwynnhs",
+          "branlytt",
+          "branold_i",
+          "brangrov",
+          "brannopa",
+          "brancork",
+          "brankill",
+          "bransurr",
+          "branclin",
+          "branhors",
+          "8924wood",
+          "woodwood"
+        ],
         "Southbound": [
           "clinton_d",
           "woodwood_o",
@@ -1972,38 +2021,27 @@
           "brandenn",
           "branclin_o",
           "branbroo",
+          "brangrov_o",
           "branold",
           "branlytt_o",
           "gwynnhs_o",
           "timosafe_o"
-        ],
-        "Northbound": [
-          "brancros_o",
-          "gwynnhs",
-          "branlytt",
-          "branold_i",
-          "brannopa",
-          "brancork",
-          "brankill",
-          "bransurr",
-          "branclin",
-          "branhors",
-          "8924wood",
-          "woodwood"
         ]
       },
       "scheduledStops": {
         "inbound": [
           "brancros_o",
           "gwynnhs",
+          "brangrov",
           "bransurr",
           "clinton_a"
         ],
         "outbound": [
           "clinton_d",
           "bransurr_o",
+          "brangrov_o",
           "gwynnhs_o",
-          "brancros_a"
+          "timosafe_o"
         ]
       },
       "scheduledTimeRange": {
@@ -2169,49 +2207,213 @@
         "south": {
           "mtwthfrsatsun": {
             "first": "16:00:00",
+            "last": "19:00:00"
+          }
+        }
+      }
+    },
+    "51A": {
+      "title": "Route 51 Loop A",
+      "color": "8cff01",
+      "tag": "51A",
+      "oppositeColor": "000000",
+      "max": [
+        38.8411209,
+        -76.709027
+      ],
+      "min": [
+        38.81206,
+        -76.752184
+      ],
+      "stops": {
+        "To County Admin Bldg": [
+          "eque3",
+          "eque4",
+          "watmain",
+          "odenelm"
+        ],
+        "To Clairfield Lane": [
+          "countyad",
+          "oldpeer",
+          "marl301",
+          "3808oldc",
+          "marlm_c",
+          "villmcco",
+          "villhallo_s",
+          "villhalo_n",
+          "villbish",
+          "villclai"
+        ],
+        "To Equestrian Center": [
+          "bishvill",
+          "villeyer_s",
+          "hallvill",
+          "mccovill",
+          "marlm",
+          "1809oldc",
+          "301marl",
+          "marlpeer",
+          "judgesdr",
+          "courthou",
+          "eque4_i"
+        ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "eque3",
+          "eque4",
+          "odenelm"
+        ],
+        "outbound": [
+          "countyad",
+          "oldpeer",
+          "marl301",
+          "villmcco",
+          "villhalo_n",
+          "villclai"
+        ]
+      },
+      "scheduledTimeRange": {
+        "cab": {
+          "mtwthfrsatsun": {
+            "first": "06:25:00",
+            "last": "18:25:00"
+          }
+        },
+        "clair": {
+          "mtwthfrsatsun": {
+            "first": "06:28:00",
+            "last": "18:28:00"
+          }
+        },
+        "equ": {
+          "mtwthfrsatsun": {
+            "first": "06:00:00",
             "last": "18:00:00"
           }
         }
       }
     },
-    "51": {
-      "title": "Route 51",
-      "color": "ffff00",
-      "tag": "51",
+    "51B": {
+      "title": "Route 51 Loop B",
+      "color": "0dff01",
+      "tag": "51B",
       "oppositeColor": "000000",
       "max": [
-        38.8181423,
-        -76.7453655
+        38.8300809,
+        -76.746337
       ],
       "min": [
-        38.8120595,
-        -76.7521835
+        38.81206,
+        -76.7722238
       ],
       "stops": {
-        "To Equestrian Center": [
-          "countyad",
-          "courthou_s",
-          "eque3_i",
-          "eque4_i"
-        ],
-        "To County Admin Bldg": [
-          "eque1",
+        "To DWI Facility": [
           "eque3",
           "eque4",
-          "courthou_n",
-          "accewest",
-          "odenelm"
+          "courthou",
+          "watmain",
+          "odenelm",
+          "oldmarlo",
+          "oldmarlr",
+          "johnoldm",
+          "rogefarn",
+          "johncolo",
+          "johngov",
+          "johnlord",
+          "johncapt",
+          "dillbrow",
+          "dillecorr"
+        ],
+        "To Equestrian Center": [
+          "brodill",
+          "lordbrow",
+          "lordster",
+          "lordfair",
+          "lordjohn",
+          "johnasco",
+          "johncour",
+          "rogefarn_i",
+          "johnoldm_i",
+          "marloldm",
+          "oldmill",
+          "countyad",
+          "judgesdr",
+          "courthou_i",
+          "eque4_i"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "eque1",
-          "courthou_n"
+          "eque3",
+          "courthou",
+          "odenelm",
+          "johncolo",
+          "dillecorr"
+        ],
+        "outbound": [
+          "brodill",
+          "lordfair",
+          "lordjohn",
+          "oldmill",
+          "countyad",
+          "judgesdr",
+          "courthou_i",
+          "eque3_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "dwi": {
+          "mtwthfrsatsun": {
+            "first": "06:00:00",
+            "last": "17:00:00"
+          }
+        },
+        "equ": {
+          "mtwthfrsatsun": {
+            "first": "06:30:00",
+            "last": "17:30:00"
+          }
+        }
+      }
+    },
+    "51X": {
+      "title": "Route 51 Loop X",
+      "color": "01ff74",
+      "tag": "51X",
+      "oppositeColor": "000000",
+      "max": [
+        38.818142,
+        -76.746337
+      ],
+      "min": [
+        38.81206,
+        -76.752184
+      ],
+      "stops": {
+        "To County Admin Bldg": [
+          "eque3",
+          "eque4",
+          "watmain",
+          "odenelm"
+        ],
+        "To Equestrian Center": [
+          "countyad",
+          "judgesdr",
+          "courthou",
+          "eque4_i"
+        ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "eque3",
+          "odenelm"
         ],
         "outbound": [
           "countyad",
-          "courthou_s",
-          "eque1_a"
+          "judgesdr",
+          "courthou",
+          "eque3_a"
         ]
       },
       "scheduledTimeRange": {
@@ -2223,8 +2425,8 @@
         },
         "equ": {
           "mtwthfrsatsun": {
-            "first": "06:06:00",
-            "last": "18:51:00"
+            "first": "06:03:00",
+            "last": "18:48:00"
           }
         }
       }

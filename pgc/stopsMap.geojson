@@ -41,7 +41,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.968359,
+          -76.9683589,
           38.956321
         ]
       }
@@ -4748,8 +4748,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.972679,
-          38.9698391
+          -76.9725519,
+          38.9690139
         ]
       }
     },
@@ -4763,8 +4763,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9717878,
-          38.9722823
+          -76.972226,
+          38.9714891
         ]
       }
     },
@@ -4778,8 +4778,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.971676,
-          38.9752586
+          -76.9716419,
+          38.9743975
         ]
       }
     },
@@ -4793,8 +4793,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.97164,
-          38.9764209
+          -76.9716762,
+          38.9755642
         ]
       }
     },
@@ -4808,8 +4808,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9707735,
-          38.9796347
+          -76.9707918,
+          38.9787916
         ]
       }
     },
@@ -4823,8 +4823,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.971007,
-          38.981303
+          -76.9709141,
+          38.9804665
         ]
       }
     },
@@ -10688,8 +10688,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9062098,
-          38.85368
+          -76.9062198,
+          38.8536773
         ]
       }
     },
@@ -10703,7 +10703,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9040921,
+          -76.9040923,
           38.8543593
         ]
       }
@@ -10718,8 +10718,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9033115,
-          38.854587
+          -76.9033117,
+          38.8545869
         ]
       }
     },
@@ -10733,7 +10733,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9016976,
+          -76.9016978,
           38.8550706
         ]
       }
@@ -10748,8 +10748,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8962146,
-          38.8534705
+          -76.8962148,
+          38.8534704
         ]
       }
     },
@@ -18817,7 +18817,7 @@
         "type": "Point",
         "coordinates": [
           -76.9992226,
-          38.822796
+          38.8227961
         ]
       }
     },
@@ -19079,6 +19079,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Brandywine Rd at Groveton Dr",
+        "tag": "brangrov_o",
+        "stopId": "36007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8955789,
+          38.732197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Brandywine Rd at Old Marbury Rd",
         "tag": "branold",
         "stopId": "33360"
@@ -19161,8 +19176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.872031,
-          38.700997
+          -76.8720309,
+          38.7009969
         ]
       }
     },
@@ -19193,6 +19208,21 @@
         "coordinates": [
           -76.8924782,
           38.7202496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brandywine Rd at Groveton Dr",
+        "tag": "brangrov",
+        "stopId": "33359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.895554,
+          38.731731
         ]
       }
     },
@@ -20788,15 +20818,135 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Equestrian Center Lot 1",
-        "tag": "eque1",
-        "stopId": "37091"
+        "title": "Village Dr West at Bishopmill Dr",
+        "tag": "bishvill",
+        "stopId": "33426"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7453655,
-          38.8126522
+          -76.715163,
+          38.836459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr West at Eyre Dr South",
+        "tag": "villeyer_s",
+        "stopId": "33427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.717479,
+          38.8384511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Halloway South at Village Dr West",
+        "tag": "hallvill",
+        "stopId": "33428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.719899,
+          38.840813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "McConnell Dr at Village Dr West",
+        "tag": "mccovill",
+        "stopId": "33429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7250871,
+          38.8411209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Crain Hwy at Villiage Drive West",
+        "tag": "marlm",
+        "stopId": "33430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.727116,
+          38.8405351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "3807 Old Crain Hwy",
+        "tag": "1809oldc",
+        "stopId": "33431"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.726754,
+          38.836194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marlboro Pike & Crain Hwy",
+        "tag": "301marl",
+        "stopId": "33432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7346807,
+          38.824031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Marlboro Pike  at Peerless Ave",
+        "tag": "marlpeer",
+        "stopId": "33433"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.743067,
+          38.821808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Equestrian Center Lot 4",
+        "tag": "eque4_i",
+        "stopId": "33419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.74833,
+          38.81206
         ]
       }
     },
@@ -20825,38 +20975,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7481572,
-          38.8121851
+          -76.7483657,
+          38.812154
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Courthouse",
-        "tag": "courthou_n",
-        "stopId": "33434"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.7496351,
-          38.8147827
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Access rd at West Court Dr",
-        "tag": "accewest",
+        "title": "Water St & Main St",
+        "tag": "watmain",
         "stopId": "33420"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7515756,
-          38.8159188
+          -76.7515759,
+          38.8159189
         ]
       }
     },
@@ -20870,7 +21005,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7521835,
+          -76.752184,
           38.817027
         ]
       }
@@ -20878,45 +21013,435 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Chrysler Dr at US RT 301",
-        "tag": "courthou_s",
-        "stopId": "33422"
+        "title": "Old Marlboro Pike at Peerless Ave",
+        "tag": "oldpeer",
+        "stopId": "33452"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7496169,
-          38.8146629
+          -76.7426304,
+          38.8220435
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Equestrian Center Lot 3",
-        "tag": "eque3_i",
-        "stopId": "37090"
+        "title": "Marlboro Pike & Crain Hwy",
+        "tag": "marl301",
+        "stopId": "33453"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7463362,
-          38.8124406
+          -76.734373,
+          38.823856
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Equestrian Center Lot 4",
-        "tag": "eque4_i",
-        "stopId": "33419"
+        "title": "3807 Old Crain Hwy - opposite",
+        "tag": "3808oldc",
+        "stopId": "33454"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.7483295,
-          38.8120595
+          -76.7266309,
+          38.8363949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Crain Hwy at Villiage Drive West",
+        "tag": "marlm_c",
+        "stopId": "33455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.726951,
+          38.8405989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr West at McConnell Dr",
+        "tag": "villmcco",
+        "stopId": "33456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7249025,
+          38.8409697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr West at Halloway South",
+        "tag": "villhallo_s",
+        "stopId": "33457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.719889,
+          38.840612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr West at Halloway North",
+        "tag": "villhalo_n",
+        "stopId": "33458"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.717707,
+          38.83841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr West at Bishopmill Dr",
+        "tag": "villbish",
+        "stopId": "33459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7151536,
+          38.8362899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr West at Clairfield Ln",
+        "tag": "villclai",
+        "stopId": "33425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.709027,
+          38.839973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "John Rogers Blvd at Old Marlboro Pike",
+        "tag": "johnoldm",
+        "stopId": "32042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.761287,
+          38.819627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "John Rogers Blvd at Farnsworth Ln",
+        "tag": "rogefarn",
+        "stopId": "33436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.761666,
+          38.8209229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "John Rogers Blvd at Colonel's Choice",
+        "tag": "johncolo",
+        "stopId": "33437"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.760732,
+          38.8223679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "John Rogers Blvd at Governor's Grove",
+        "tag": "johngov",
+        "stopId": "33438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7615719,
+          38.8240979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "John Rogers Blvd at Lord's Landing Rd",
+        "tag": "johnlord",
+        "stopId": "33439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7651066,
+          38.825957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "John Rogers Blvd at Captain Duval Dr",
+        "tag": "johncapt",
+        "stopId": "33440"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7672596,
+          38.825759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dille Dr at Brown Station Rd",
+        "tag": "dillbrow",
+        "stopId": "33441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7694868,
+          38.825132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dille Dr at Correctional Center",
+        "tag": "dillecorr",
+        "stopId": "33442"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7722238,
+          38.823157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brown Station Rd at Dille Dr",
+        "tag": "brodill",
+        "stopId": "33443"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.769169,
+          38.825085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lords Landing Rd at Brown Station Rd",
+        "tag": "lordbrow",
+        "stopId": "33444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.770032,
+          38.8291099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lords Landing Rd at Lord Sterling Pl",
+        "tag": "lordster",
+        "stopId": "33445"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7676977,
+          38.8300809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lords Landing Rd at Lord Fairfax Pl",
+        "tag": "lordfair",
+        "stopId": "33446"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.766075,
+          38.82877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lords Landing Rd at John Rogers Blvd",
+        "tag": "lordjohn",
+        "stopId": "33447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.764858,
+          38.826212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "John Rogers Blvd at Ascott Dr",
+        "tag": "johnasco",
+        "stopId": "33448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.761816,
+          38.823968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "John Rogers Blvd at Courtland Ln",
+        "tag": "johncour",
+        "stopId": "33449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.761024,
+          38.8223809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "John Rogers Blvd at Farnsworth Ln",
+        "tag": "rogefarn_i",
+        "stopId": "33436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.76209,
+          38.8205139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "John Rogers Blvd at Old Marlboro Pike",
+        "tag": "johnoldm_i",
+        "stopId": "32042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7618479,
+          38.8195129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Marlborough Dr at Old Marlboro Pike",
+        "tag": "marloldm",
+        "stopId": "33434"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7581779,
+          38.8184679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Marlboro Pike at Old Mill Rd",
+        "tag": "oldmill",
+        "stopId": "33451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.756883,
+          38.817913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Courthouse",
+        "tag": "courthou_i",
+        "stopId": "33434"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7496986,
+          38.8147708
         ]
       }
     }

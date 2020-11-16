@@ -2629,6 +2629,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Oak St and Walmart Service Rd",
+        "tag": "oakwalms",
+        "stopId": "866"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0560252,
+          42.098481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Oak St at Pine Estates",
         "tag": "oakpine",
         "stopId": "213"
@@ -2636,7 +2651,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0585904,
+          -71.0585903,
           42.1010828
         ]
       }
@@ -2651,8 +2666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0623121,
-          42.1004074
+          -71.0623118,
+          42.100407
         ]
       }
     },
@@ -2667,7 +2682,7 @@
         "type": "Point",
         "coordinates": [
           -71.062512,
-          42.097933
+          42.0979329
         ]
       }
     },
@@ -2681,8 +2696,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0632288,
-          42.1002659
+          -71.0632287,
+          42.100266
         ]
       }
     },
@@ -2696,8 +2711,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.065405,
-          42.0999684
+          -71.0654047,
+          42.099968
         ]
       }
     },
@@ -2711,8 +2726,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0660308,
-          42.0981428
+          -71.0660309,
+          42.0981429
         ]
       }
     },
@@ -2726,8 +2741,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0651834,
-          42.0951098
+          -71.065183,
+          42.09511
         ]
       }
     },
@@ -2742,7 +2757,7 @@
         "type": "Point",
         "coordinates": [
           -71.0648139,
-          42.0933507
+          42.0933508
         ]
       }
     },
@@ -2756,8 +2771,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0645251,
-          42.0918171
+          -71.064525,
+          42.0918172
         ]
       }
     },
@@ -2771,8 +2786,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0643751,
-          42.0900973
+          -71.0643749,
+          42.0900974
         ]
       }
     },
@@ -2787,7 +2802,7 @@
         "type": "Point",
         "coordinates": [
           -71.0636947,
-          42.0890615
+          42.0890619
         ]
       }
     },
@@ -2801,8 +2816,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0631164,
-          42.0889274
+          -71.0631167,
+          42.0889271
         ]
       }
     },
@@ -2816,8 +2831,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0619979,
-          42.0886528
+          -71.061998,
+          42.088653
         ]
       }
     },
@@ -2831,8 +2846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0599618,
-          42.0881182
+          -71.059962,
+          42.088118
         ]
       }
     },
@@ -2846,8 +2861,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0556008,
-          42.0875027
+          -71.0556009,
+          42.087503
         ]
       }
     },
@@ -2861,8 +2876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0524898,
-          42.0878848
+          -71.0524899,
+          42.087885
         ]
       }
     },
@@ -2876,8 +2891,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0498831,
-          42.0882055
+          -71.0498832,
+          42.0882059
         ]
       }
     },
@@ -2891,7 +2906,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0481269,
+          -71.048127,
           42.0884229
         ]
       }
@@ -2907,7 +2922,7 @@
         "type": "Point",
         "coordinates": [
           -71.045698,
-          42.0889461
+          42.0889459
         ]
       }
     },
@@ -2921,8 +2936,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0430461,
-          42.0894651
+          -71.0430462,
+          42.0894649
         ]
       }
     },
@@ -2936,8 +2951,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0401548,
-          42.0894152
+          -71.0401549,
+          42.0894149
         ]
       }
     },
@@ -2951,8 +2966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0373282,
-          42.0888173
+          -71.0373284,
+          42.088817
         ]
       }
     },
@@ -2966,8 +2981,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0355,
-          42.0884359
+          -71.0355001,
+          42.088436
         ]
       }
     },
@@ -2981,7 +2996,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0330981,
+          -71.0330982,
           42.087927
         ]
       }
@@ -2996,8 +3011,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.031295,
-          42.0875457
+          -71.0312949,
+          42.0875459
         ]
       }
     },
@@ -3011,8 +3026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0304505,
-          42.087365
+          -71.0304506,
+          42.0873649
         ]
       }
     },
@@ -3026,7 +3041,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0288172,
+          -71.0288173,
           42.087017
         ]
       }
@@ -3041,8 +3056,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0263243,
-          42.0864913
+          -71.0263245,
+          42.0864911
         ]
       }
     },
@@ -3056,8 +3071,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0233753,
-          42.0852967
+          -71.0233749,
+          42.0852968
         ]
       }
     },
@@ -3071,7 +3086,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0230986,
+          -71.023099,
           42.0841363
         ]
       }
@@ -3086,8 +3101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0224716,
-          42.0838135
+          -71.0224717,
+          42.083814
         ]
       }
     },
@@ -10834,21 +10849,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Oak St and Walmart Service Rd",
-        "tag": "oakwalms",
-        "stopId": "866"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0560253,
-          42.098481
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Campanelli Dr and Westgate Dr",
         "tag": "campwest",
         "stopId": "868"
@@ -11120,7 +11120,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0521905,
+          -71.05219,
           42.093967
         ]
       }
@@ -11178,23 +11178,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0555903,
-          42.1014294
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Good Samaritan Hospital 2nd Pole",
-        "tag": "gsh2pole",
-        "stopId": "891"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0624223,
-          42.0998118
+          -71.0555902,
+          42.1014288
         ]
       }
     },
@@ -11208,8 +11193,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0632291,
-          42.1002667
+          -71.0632293,
+          42.1002669
         ]
       }
     },
@@ -11223,8 +11208,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0654051,
-          42.0999686
+          -71.0654053,
+          42.0999689
         ]
       }
     },
@@ -11238,8 +11223,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0668521,
-          42.1006678
+          -71.0668519,
+          42.1006679
         ]
       }
     },
@@ -11253,8 +11238,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0673387,
-          42.1017686
+          -71.0673388,
+          42.1017687
         ]
       }
     },
@@ -11268,8 +11253,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0680229,
-          42.1032375
+          -71.0680228,
+          42.1032376
         ]
       }
     },
@@ -11283,7 +11268,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0683578,
+          -71.068358,
           42.1039611
         ]
       }
@@ -11298,8 +11283,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0689871,
-          42.1053027
+          -71.0689869,
+          42.1053028
         ]
       }
     },
@@ -11313,7 +11298,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0709105,
+          -71.070911,
           42.109379
         ]
       }
@@ -11328,8 +11313,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0726465,
-          42.1112442
+          -71.0726471,
+          42.111244
         ]
       }
     },
@@ -11343,8 +11328,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0742939,
-          42.1121374
+          -71.0742944,
+          42.1121371
         ]
       }
     },
@@ -11358,7 +11343,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0773704,
+          -71.0773706,
           42.1135322
         ]
       }
@@ -11373,8 +11358,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0845923,
-          42.118331
+          -71.0845922,
+          42.1183312
         ]
       }
     },
@@ -11388,8 +11373,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0859554,
-          42.11951
+          -71.0859553,
+          42.1195103
         ]
       }
     },
@@ -11404,7 +11389,7 @@
         "type": "Point",
         "coordinates": [
           -71.0904278,
-          42.1201207
+          42.1201209
         ]
       }
     },
@@ -11418,8 +11403,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0941564,
-          42.121089
+          -71.0941565,
+          42.1210891
         ]
       }
     },
@@ -11433,8 +11418,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0961924,
-          42.121624
+          -71.0961925,
+          42.1216241
         ]
       }
     },
@@ -11448,8 +11433,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0992936,
-          42.1225998
+          -71.0992938,
+          42.1225999
         ]
       }
     },
@@ -11463,8 +11448,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1021152,
-          42.1257462
+          -71.1021149,
+          42.1257463
         ]
       }
     },
@@ -11803,21 +11788,6 @@
       "properties": {
         "title": "Cobbs Corner",
         "tag": "cobbcorn",
-        "stopId": "935"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.1452378,
-          42.1404975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Cobbs Corner (WGM)",
-        "tag": "cobbcorn_d",
         "stopId": "935"
       },
       "geometry": {
@@ -12431,36 +12401,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Good Samaritan Main Entrance",
-        "tag": "goodsamh_i",
-        "stopId": "892"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.062108,
-          42.09852
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Good Samaritan Rd at Oak St",
-        "tag": "goodoak_i",
-        "stopId": "979"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.0623463,
-          42.0998221
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Oak St at Pine Estates",
         "tag": "oakpine_i",
         "stopId": "889"
@@ -12476,15 +12416,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Oak St at Walmart",
-        "tag": "oakwalm_i",
-        "stopId": "980"
+        "title": "Oak St and Walmart Service Rd",
+        "tag": "oakwalms_i",
+        "stopId": "866"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0555862,
-          42.1013689
+          -71.0560252,
+          42.098481
         ]
       }
     },
@@ -12498,8 +12438,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0541923,
-          42.1015197
+          -71.0541921,
+          42.1015199
         ]
       }
     },
@@ -12514,7 +12454,7 @@
         "type": "Point",
         "coordinates": [
           -71.052796,
-          42.1014962
+          42.101496
         ]
       }
     },
@@ -12528,8 +12468,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0525886,
-          42.0993341
+          -71.0525889,
+          42.0993339
         ]
       }
     },
@@ -12544,7 +12484,7 @@
         "type": "Point",
         "coordinates": [
           -71.0545613,
-          42.0965126
+          42.0965124
         ]
       }
     },
@@ -12558,8 +12498,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.052191,
-          42.0939671
+          -71.0521909,
+          42.093967
         ]
       }
     },
@@ -12574,7 +12514,7 @@
         "type": "Point",
         "coordinates": [
           -71.052511,
-          42.0994873
+          42.099487
         ]
       }
     },
@@ -12589,7 +12529,7 @@
         "type": "Point",
         "coordinates": [
           -71.0526579,
-          42.1007857
+          42.1007853
         ]
       }
     },
@@ -12603,7 +12543,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.050231,
+          -71.0502315,
           42.1017263
         ]
       }
@@ -12618,7 +12558,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0482145,
+          -71.0482149,
           42.1017412
         ]
       }
@@ -12633,8 +12573,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.044983,
-          42.1015876
+          -71.0449834,
+          42.1015877
         ]
       }
     },
@@ -12648,8 +12588,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0395704,
-          42.1011461
+          -71.0395708,
+          42.1011462
         ]
       }
     },
@@ -12664,7 +12604,7 @@
         "type": "Point",
         "coordinates": [
           -71.0388833,
-          42.0992854
+          42.0992857
         ]
       }
     },
@@ -12678,8 +12618,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.03868,
-          42.0979582
+          -71.0386801,
+          42.0979585
         ]
       }
     },
@@ -12693,8 +12633,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0383548,
-          42.0959068
+          -71.0383549,
+          42.0959071
         ]
       }
     },
@@ -12708,8 +12648,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0379227,
-          42.0933767
+          -71.0379228,
+          42.093377
         ]
       }
     },
@@ -12724,7 +12664,7 @@
         "type": "Point",
         "coordinates": [
           -71.0375859,
-          42.0918861
+          42.0918864
         ]
       }
     },
@@ -12738,8 +12678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0374226,
-          42.0908859
+          -71.0374227,
+          42.0908862
         ]
       }
     },
@@ -12753,8 +12693,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0372999,
-          42.0891499
+          -71.0373,
+          42.0891503
         ]
       }
     },
@@ -12768,8 +12708,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0355002,
-          42.0884359
+          -71.0355006,
+          42.088436
         ]
       }
     },
@@ -12783,8 +12723,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0330968,
-          42.0879267
+          -71.0330972,
+          42.0879268
         ]
       }
     },
@@ -12798,8 +12738,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0313187,
-          42.0875507
+          -71.0313191,
+          42.0875508
         ]
       }
     },
@@ -12813,8 +12753,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0288153,
-          42.0870166
+          -71.0288157,
+          42.0870167
         ]
       }
     },
@@ -12828,8 +12768,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0263171,
-          42.0864898
+          -71.0263175,
+          42.0864899
         ]
       }
     },
@@ -12843,8 +12783,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0235723,
-          42.0859008
+          -71.0235727,
+          42.0859009
         ]
       }
     },

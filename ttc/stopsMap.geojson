@@ -327,7 +327,7 @@
         "type": "Point",
         "coordinates": [
           -79.42565,
-          43.63483
+          43.6348299
         ]
       }
     },
@@ -454,21 +454,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2495 Eglinton Ave East At South Service Rd (East)",
-        "tag": "311",
-        "stopId": "1031"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2597599,
-          43.73404
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Eglinton Ave East At Bayview Ave East Side",
         "tag": "312",
         "stopId": "2240"
@@ -568,21 +553,6 @@
         "coordinates": [
           -79.40796,
           43.7046399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eglinton Ave West At Everden Rd (Eglinton West Station)",
-        "tag": "334",
-        "stopId": "9896"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.43565,
-          43.69876
         ]
       }
     },
@@ -1316,8 +1286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.52317,
-          43.6448499
+          -79.5231699,
+          43.64485
         ]
       }
     },
@@ -1332,7 +1302,7 @@
         "type": "Point",
         "coordinates": [
           -79.48462,
-          43.6491199
+          43.64912
         ]
       }
     },
@@ -1346,8 +1316,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.44629,
-          43.6576499
+          -79.4462899,
+          43.65765
         ]
       }
     },
@@ -1663,21 +1633,6 @@
         "coordinates": [
           -79.53543,
           43.64231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Laird Dr At Eglinton Ave East",
-        "tag": "443",
-        "stopId": "5139"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3644599,
-          43.7131199
         ]
       }
     },
@@ -2292,7 +2247,7 @@
         "type": "Point",
         "coordinates": [
           -79.53399,
-          43.6996199
+          43.69962
         ]
       }
     },
@@ -5044,21 +4999,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Kingston Rd At Overture Rd",
-        "tag": "769",
-        "stopId": "4249"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.1976,
-          43.7591799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Mt Pleasant Rd At Glengowan Rd",
         "tag": "770",
         "stopId": "5819"
@@ -5719,21 +5659,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "St Basil The Great College School",
-        "tag": "827",
-        "stopId": "13467"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.53396,
-          43.7267999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Steeles Ave East At Birchmount Rd West Side",
         "tag": "828",
         "stopId": "11413"
@@ -6214,21 +6139,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Victoria Park Rd At McNicoll Ave North Side",
-        "tag": "870",
-        "stopId": "14261"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.33642,
-          43.8047299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Victoria Park Ave At Sheppard Ave East North Side",
         "tag": "871",
         "stopId": "7424"
@@ -6448,6 +6358,21 @@
         "coordinates": [
           -79.33035,
           43.6549599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wicksteed Ave At Laird Dr",
+        "tag": "890",
+        "stopId": "6210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3633199,
+          43.7104799
         ]
       }
     },
@@ -7048,6 +6973,21 @@
         "coordinates": [
           -79.29569,
           43.7212899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vanderhoof Ave At Brentcliffe Rd",
+        "tag": "947",
+        "stopId": "12838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3581599,
+          43.71312
         ]
       }
     },
@@ -8029,21 +7969,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Queens Plate Dr (East) At Harness Rd",
-        "tag": "1026",
-        "stopId": "12036"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.5941,
-          43.72002
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Kipling Ave At Penlea Ave",
         "tag": "1027",
         "stopId": "4355"
@@ -8336,8 +8261,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.1879399,
-          43.7728199
+          -79.18794,
+          43.77282
         ]
       }
     },
@@ -9536,8 +9461,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4842699,
-          43.64945
+          -79.48427,
+          43.6494499
         ]
       }
     },
@@ -9551,8 +9476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4761299,
-          43.65124
+          -79.47613,
+          43.6512399
         ]
       }
     },
@@ -9881,8 +9806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3167,
-          43.8215799
+          -79.3166999,
+          43.82158
         ]
       }
     },
@@ -10197,7 +10122,7 @@
         "type": "Point",
         "coordinates": [
           -79.2679899,
-          43.7318499
+          43.73185
         ]
       }
     },
@@ -10288,21 +10213,6 @@
         "coordinates": [
           -79.3329,
           43.79609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dundas St West At Sorauren Ave",
-        "tag": "1195",
-        "stopId": "0988"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4450099,
-          43.6511999
         ]
       }
     },
@@ -12319,7 +12229,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Danforth Ave At Linsmore Cres",
+        "title": "Danforth Ave At Linnsmore Cres",
         "tag": "1352",
         "stopId": "0898"
       },
@@ -12686,8 +12596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5852499,
-          43.64853
+          -79.58525,
+          43.6485299
         ]
       }
     },
@@ -13331,8 +13241,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5552699,
-          43.7151399
+          -79.55527,
+          43.71514
         ]
       }
     },
@@ -13346,8 +13256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.6015499,
-          43.72277
+          -79.60119,
+          43.7228699
         ]
       }
     },
@@ -13588,21 +13498,6 @@
         "coordinates": [
           -79.31754,
           43.6962899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bloor St West At Quebec Ave",
-        "tag": "1448",
-        "stopId": "0572"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4667499,
-          43.6533
         ]
       }
     },
@@ -15589,21 +15484,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Dundas St West At Lansdowne Ave",
-        "tag": "1606",
-        "stopId": "2170"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4401299,
-          43.6501099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Opposite 1275 Morningside Ave",
         "tag": "1607",
         "stopId": "2929"
@@ -17187,7 +17067,7 @@
         "type": "Point",
         "coordinates": [
           -79.5359,
-          43.72929
+          43.7292899
         ]
       }
     },
@@ -18686,8 +18566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5060299,
-          43.64863
+          -79.50603,
+          43.6486299
         ]
       }
     },
@@ -19286,8 +19166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5015999,
-          43.7438
+          -79.5016,
+          43.7437999
         ]
       }
     },
@@ -19603,6 +19483,21 @@
         "coordinates": [
           -79.5138599,
           43.59897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brimley Rd At Strode Dr",
+        "tag": "1927",
+        "stopId": "0646"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2494099,
+          43.7394399
         ]
       }
     },
@@ -20036,7 +19931,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.48773,
+          -79.4877299,
           43.64767
         ]
       }
@@ -20293,21 +20188,6 @@
         "coordinates": [
           -79.32857,
           43.7155599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "4301 Kingston Rd",
-        "tag": "1989",
-        "stopId": "4201"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.19343,
-          43.7632099
         ]
       }
     },
@@ -20899,6 +20779,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Beth Nealson Dr At Wicksteed Ave",
+        "tag": "2037",
+        "stopId": "7546"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.34625,
+          43.71302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Thistle Down Blvd At Albion Rd",
         "tag": "2038",
         "stopId": "11575"
@@ -20922,7 +20817,7 @@
         "type": "Point",
         "coordinates": [
           -79.4908599,
-          43.64801
+          43.6480099
         ]
       }
     },
@@ -22151,8 +22046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.59029,
-          43.71584
+          -79.5902899,
+          43.7158399
         ]
       }
     },
@@ -22256,8 +22151,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.23477,
-          43.79441
+          -79.2347699,
+          43.7944099
         ]
       }
     },
@@ -22468,21 +22363,6 @@
         "coordinates": [
           -79.4886899,
           43.6151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bloor St West At Glendonwynne Rd",
-        "tag": "2157",
-        "stopId": "0516"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4741399,
-          43.65152
         ]
       }
     },
@@ -23494,21 +23374,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Dundas St West At Sorauren Ave",
-        "tag": "2243",
-        "stopId": "0987"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.44576,
-          43.65125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Senlac Rd At Finch Ave West",
         "tag": "2244",
         "stopId": "7120"
@@ -23591,8 +23456,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.24757,
-          43.73529
+          -79.2475699,
+          43.7352899
         ]
       }
     },
@@ -23726,8 +23591,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5817999,
-          43.65067
+          -79.5818,
+          43.6506699
         ]
       }
     },
@@ -24491,8 +24356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2416499,
-          43.7210699
+          -79.24165,
+          43.72107
         ]
       }
     },
@@ -25939,21 +25804,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Eglinton Ave East At Huntington Ave",
-        "tag": "2447",
-        "stopId": "1035"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2558899,
-          43.73487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Lawrence Ave East At Megan Ave",
         "tag": "2448",
         "stopId": "4422"
@@ -26173,21 +26023,6 @@
         "coordinates": [
           -79.41178,
           43.6421299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eglinton Ave East At Brimley Rd",
-        "tag": "2463",
-        "stopId": "10140"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2479,
-          43.7368599
         ]
       }
     },
@@ -26833,6 +26668,21 @@
         "coordinates": [
           -79.3069599,
           43.74261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thorncliffe Park Dr East At Overlea Blvd North Side",
+        "tag": "2512",
+        "stopId": "8363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.34371,
+          43.7079499
         ]
       }
     },
@@ -29119,21 +28969,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "4314 Kingston Rd",
-        "tag": "2682",
-        "stopId": "4202"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.19284,
-          43.7643299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Rogers Rd At Kane Ave",
         "tag": "2683",
         "stopId": "6029"
@@ -29186,7 +29021,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.48598,
+          -79.4859799,
           43.64803
         ]
       }
@@ -29953,21 +29788,6 @@
         "coordinates": [
           -79.3797199,
           43.71045
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bloor St West At Thompson Ave East Side",
-        "tag": "2752",
-        "stopId": "0593"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.51378,
-          43.6467099
         ]
       }
     },
@@ -31466,8 +31286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2511099,
-          43.7435299
+          -79.25111,
+          43.74353
         ]
       }
     },
@@ -31888,21 +31708,6 @@
         "coordinates": [
           -79.52321,
           43.71836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eglinton Ave East At Oswego Rd",
-        "tag": "2909",
-        "stopId": "2297"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2435,
-          43.7378199
         ]
       }
     },
@@ -32464,21 +32269,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Dundas St West At Howard Park Ave",
-        "tag": "2954",
-        "stopId": "2167"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4485199,
-          43.6522299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Pharmacy Ave At Rannock St",
         "tag": "2955",
         "stopId": "6740"
@@ -32494,7 +32284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Danforth Ave At Linsmore Cres",
+        "title": "Danforth Ave At Linnsmore Cres",
         "tag": "2956",
         "stopId": "0899"
       },
@@ -32591,8 +32381,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.24315,
-          43.72468
+          -79.2431499,
+          43.7246799
         ]
       }
     },
@@ -34114,21 +33904,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Eglinton Ave East At Oswego Rd",
-        "tag": "3083",
-        "stopId": "2296"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.24401,
-          43.7374399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "McCowan Rd At Wilfred Murison Ave",
         "tag": "3084",
         "stopId": "14158"
@@ -34677,7 +34452,7 @@
         "type": "Point",
         "coordinates": [
           -79.32495,
-          43.71626
+          43.7162599
         ]
       }
     },
@@ -37909,6 +37684,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Brimley Rd At Elgar Ave",
+        "tag": "3375",
+        "stopId": "0627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.25008,
+          43.74108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Park Lawn Rd At Gardiner Expressway (WB On Ramp)",
         "tag": "3376",
         "stopId": "13697"
@@ -38233,21 +38023,6 @@
         "coordinates": [
           -79.46653,
           43.6634099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "237 Queens Plate Dr (East)",
-        "tag": "3403",
-        "stopId": "13875"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.59477,
-          43.72156
         ]
       }
     },
@@ -38666,8 +38441,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5793799,
-          43.7133399
+          -79.57938,
+          43.71334
         ]
       }
     },
@@ -39386,8 +39161,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.21919,
-          43.7429899
+          -79.2191899,
+          43.74299
         ]
       }
     },
@@ -39754,21 +39529,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Kingston Rd At Payzac Ave East Side",
-        "tag": "3521",
-        "stopId": "4252"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.1971,
-          43.7592299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Dufferin St At Stayner Ave",
         "tag": "3522",
         "stopId": "2095"
@@ -39897,7 +39657,7 @@
         "type": "Point",
         "coordinates": [
           -79.5308,
-          43.6921
+          43.6920999
         ]
       }
     },
@@ -41674,21 +41434,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Eglinton Ave East At Bellamy Rd South",
-        "tag": "3679",
-        "stopId": "2245"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2274,
-          43.7411599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "106 Lansdowne Ave",
         "tag": "3680",
         "stopId": "5205"
@@ -43332,7 +43077,7 @@
         "type": "Point",
         "coordinates": [
           -79.4191699,
-          43.63534
+          43.6353399
         ]
       }
     },
@@ -43947,7 +43692,7 @@
         "type": "Point",
         "coordinates": [
           -79.4829499,
-          43.74844
+          43.7484399
         ]
       }
     },
@@ -45131,8 +44876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2525999,
-          43.7471599
+          -79.2526,
+          43.74716
         ]
       }
     },
@@ -45866,7 +45611,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.49566,
+          -79.4956599,
           43.64957
         ]
       }
@@ -47066,8 +46811,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.51879,
-          43.6458199
+          -79.5187899,
+          43.64582
         ]
       }
     },
@@ -48551,8 +48296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.53782,
-          43.7188099
+          -79.5378199,
+          43.71881
         ]
       }
     },
@@ -48859,6 +48604,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Vanderhoof Ave At Thomas Elgie Dr",
+        "tag": "4253",
+        "stopId": "13708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3559799,
+          43.71357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Kipling Ave At Norseman St",
         "tag": "4254",
         "stopId": "4344"
@@ -49061,7 +48821,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.46444,
+          -79.4644399,
           43.7595199
         ]
       }
@@ -49331,8 +49091,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.577,
-          43.71276
+          -79.5769999,
+          43.7127599
         ]
       }
     },
@@ -51131,7 +50891,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.24134,
+          -79.2413399,
           43.7807199
         ]
       }
@@ -51371,8 +51131,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.18709,
-          43.77071
+          -79.1870899,
+          43.7707099
         ]
       }
     },
@@ -52603,21 +52363,6 @@
         "coordinates": [
           -79.28492,
           43.6957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eglinton Ave East At Barbados Blvd",
-        "tag": "4553",
-        "stopId": "2237"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2411299,
-          43.73835
         ]
       }
     },
@@ -54266,8 +54011,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.25761,
-          43.73304
+          -79.2576099,
+          43.7330399
         ]
       }
     },
@@ -55346,8 +55091,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2447699,
-          43.7285199
+          -79.24477,
+          43.72852
         ]
       }
     },
@@ -56171,8 +55916,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.47108,
-          43.75614
+          -79.4710799,
+          43.7561399
         ]
       }
     },
@@ -56734,21 +56479,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Kingston Rd At Guildcrest Dr",
-        "tag": "4882",
-        "stopId": "2781"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2076499,
-          43.74758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Markham Rd At Denison St",
         "tag": "4883",
         "stopId": "13634"
@@ -56869,21 +56599,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Morningside Ave At Beath St",
-        "tag": "4892",
-        "stopId": "2934"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.18848,
-          43.77462
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Anglesey Blvd At The Kingsway",
         "tag": "4894",
         "stopId": "0012"
@@ -56983,21 +56698,6 @@
         "coordinates": [
           -79.55974,
           43.61368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dundas St West At Sterling Rd",
-        "tag": "4902",
-        "stopId": "0990"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.44278,
-          43.6506799
         ]
       }
     },
@@ -58511,8 +58211,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4601099,
-          43.75082
+          -79.46011,
+          43.7508199
         ]
       }
     },
@@ -58586,8 +58286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2322099,
-          43.74004
+          -79.23221,
+          43.7400399
         ]
       }
     },
@@ -59089,21 +58789,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Dundas St West At Roncesvalles Ave",
-        "tag": "5074",
-        "stopId": "2182"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4513599,
-          43.6536899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Markland Dr At Silverthorne Bush Dr",
         "tag": "5076",
         "stopId": "1274"
@@ -59262,7 +58947,7 @@
         "type": "Point",
         "coordinates": [
           -79.5016699,
-          43.7416599
+          43.74166
         ]
       }
     },
@@ -59368,21 +59053,6 @@
         "coordinates": [
           -79.30959,
           43.7422999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dundas St West At Howard Park Ave",
-        "tag": "5094",
-        "stopId": "0986"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.44746,
-          43.65192
         ]
       }
     },
@@ -60431,8 +60101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5944099,
-          43.7201799
+          -79.59441,
+          43.72018
         ]
       }
     },
@@ -61361,8 +61031,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.19922,
-          43.7568399
+          -79.1992199,
+          43.75684
         ]
       }
     },
@@ -61451,8 +61121,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.58541,
-          43.71471
+          -79.5854099,
+          43.7147099
         ]
       }
     },
@@ -61571,8 +61241,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4660799,
-          43.7541799
+          -79.46608,
+          43.75418
         ]
       }
     },
@@ -62187,7 +61857,7 @@
         "type": "Point",
         "coordinates": [
           -79.1863799,
-          43.76858
+          43.7685799
         ]
       }
     },
@@ -62248,21 +61918,6 @@
         "coordinates": [
           -79.2749,
           43.6940299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bloor St West At Glendonwynne Rd",
-        "tag": "5323",
-        "stopId": "0515"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.47393,
-          43.6517199
         ]
       }
     },
@@ -63364,21 +63019,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bloor St West At Montgomery Rd",
-        "tag": "5419",
-        "stopId": "0553"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.51427,
-          43.6468199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Oakwood Ave At Clovelly Ave",
         "tag": "5420",
         "stopId": "5896"
@@ -63626,8 +63266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.47487,
-          43.7574099
+          -79.4748699,
+          43.75741
         ]
       }
     },
@@ -63949,21 +63589,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "2466 Eglinton Ave East (Rainbow Village)",
-        "tag": "5465",
-        "stopId": "6365"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2604799,
-          43.73415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Opposite 1750 Brimley Rd",
         "tag": "5466",
         "stopId": "10718"
@@ -64271,8 +63896,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.26733,
-          43.73028
+          -79.2673299,
+          43.7302799
         ]
       }
     },
@@ -67384,21 +67009,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Morningside Ave At Warnsworth St",
-        "tag": "5728",
-        "stopId": "2972"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.18862,
-          43.7744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "150 Neptune Dr",
         "tag": "5729",
         "stopId": "6611"
@@ -69461,8 +69071,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4688299,
-          43.7548299
+          -79.46883,
+          43.75483
         ]
       }
     },
@@ -69566,8 +69176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.25508,
-          43.75316
+          -79.2550799,
+          43.7531599
         ]
       }
     },
@@ -70211,7 +69821,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.41106,
+          -79.4110599,
           43.6650099
         ]
       }
@@ -71411,7 +71021,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4737999,
+          -79.4738,
           43.7556099
         ]
       }
@@ -72491,8 +72101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4827699,
-          43.75299
+          -79.48277,
+          43.7529899
         ]
       }
     },
@@ -72851,8 +72461,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.18958,
-          43.7678799
+          -79.1895799,
+          43.76788
         ]
       }
     },
@@ -73061,8 +72671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2437599,
-          43.7261399
+          -79.24376,
+          43.72614
         ]
       }
     },
@@ -75589,21 +75199,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Eglinton Ave East At Barbados Blvd",
-        "tag": "6371",
-        "stopId": "2236"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2417399,
-          43.73796
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "250 Carlaw Ave",
         "tag": "6372",
         "stopId": "6284"
@@ -77569,21 +77164,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Kingston Rd At Dale Ave",
-        "tag": "6525",
-        "stopId": "4248"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2042099,
-          43.75189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Bathurst St At Davenport Rd",
         "tag": "6526",
         "stopId": "7518"
@@ -78523,21 +78103,6 @@
         "coordinates": [
           -79.56486,
           43.6549799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dundas St West At Roncesvalles Ave East Side",
-        "tag": "6600",
-        "stopId": "2181"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.45126,
-          43.6534799
         ]
       }
     },
@@ -80126,8 +79691,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2334799,
-          43.7882099
+          -79.23348,
+          43.78821
         ]
       }
     },
@@ -80351,8 +79916,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4860999,
-          43.74497
+          -79.4861,
+          43.7449699
         ]
       }
     },
@@ -80517,7 +80082,7 @@
         "type": "Point",
         "coordinates": [
           -79.2342399,
-          43.79246
+          43.7924599
         ]
       }
     },
@@ -80831,8 +80396,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.47647,
-          43.6509899
+          -79.4764699,
+          43.65099
         ]
       }
     },
@@ -81701,8 +81266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3263399,
-          43.7176299
+          -79.32634,
+          43.71763
         ]
       }
     },
@@ -82228,21 +81793,6 @@
         "coordinates": [
           -79.4827799,
           43.78413
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Queens Plate Dr (East) At Rexdale Blvd",
-        "tag": "6894",
-        "stopId": "12042"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.5930099,
-          43.7177299
         ]
       }
     },
@@ -82984,21 +82534,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bloor St West At Oakmount Rd",
-        "tag": "6950",
-        "stopId": "0557"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.46286,
-          43.6539799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Cosburn Ave At Gledhill Ave",
         "tag": "6951",
         "stopId": "1780"
@@ -83591,8 +83126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.24827,
-          43.7365099
+          -79.2482699,
+          43.73651
         ]
       }
     },
@@ -86831,8 +86366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4654499,
-          43.7630799
+          -79.46545,
+          43.76308
         ]
       }
     },
@@ -86892,7 +86427,7 @@
         "type": "Point",
         "coordinates": [
           -79.538,
-          43.73347
+          43.7334699
         ]
       }
     },
@@ -87424,21 +86959,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bloor St West At Quebec Ave",
-        "tag": "7304",
-        "stopId": "0571"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4667899,
-          43.65312
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Lawson Rd At Brumwell St East Side",
         "tag": "7305",
         "stopId": "7923"
@@ -87799,6 +87319,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Opposite 50 Beth Nealson Dr",
+        "tag": "7333",
+        "stopId": "7545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.34573,
+          43.71172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Victoria Park Ave At Edge Park Ave",
         "tag": "7334",
         "stopId": "8451"
@@ -87926,8 +87461,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5250199,
-          43.6788999
+          -79.5251599,
+          43.6792399
         ]
       }
     },
@@ -88153,21 +87688,6 @@
         "coordinates": [
           -79.28509,
           43.6918599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Rathburn Rd At Meadowbank Rd",
-        "tag": "7362",
-        "stopId": "1492"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.5607299,
-          43.65572
         ]
       }
     },
@@ -89854,21 +89374,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Brentcliffe Rd At Eglinton Ave South Side",
-        "tag": "7496",
-        "stopId": "4809"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.35966,
-          43.7140699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Wynford Dr At Don Mills Rd East Side",
         "tag": "7497",
         "stopId": "4720"
@@ -89968,21 +89473,6 @@
         "coordinates": [
           -79.38388,
           43.65583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dundas St West At Sterling Rd",
-        "tag": "7506",
-        "stopId": "0991"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.44325,
-          43.65063
         ]
       }
     },
@@ -90146,8 +89636,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.25425,
-          43.75111
+          -79.2542499,
+          43.7511099
         ]
       }
     },
@@ -90176,8 +89666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.48613,
-          43.7551399
+          -79.4861299,
+          43.75514
         ]
       }
     },
@@ -90896,8 +90386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.57462,
-          43.71222
+          -79.5746199,
+          43.7122199
         ]
       }
     },
@@ -90911,8 +90401,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2064599,
-          43.7494
+          -79.20646,
+          43.7493999
         ]
       }
     },
@@ -91811,8 +91301,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5637599,
-          43.71226
+          -79.56376,
+          43.7122599
         ]
       }
     },
@@ -92366,8 +91856,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.52976,
-          43.6966999
+          -79.5297599,
+          43.6967
         ]
       }
     },
@@ -92443,6 +91933,21 @@
         "coordinates": [
           -79.16089,
           43.7725099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brimley Rd At Dallyn Cres",
+        "tag": "7700",
+        "stopId": "0622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2503899,
+          43.7412099
         ]
       }
     },
@@ -94421,7 +93926,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2484199,
+          -79.24842,
           43.73686
         ]
       }
@@ -94751,8 +94256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4653799,
-          43.65343
+          -79.46538,
+          43.6534299
         ]
       }
     },
@@ -94797,7 +94302,7 @@
         "type": "Point",
         "coordinates": [
           -79.2343699,
-          43.79049
+          43.7904899
         ]
       }
     },
@@ -96223,6 +95728,21 @@
         "coordinates": [
           -79.4208599,
           43.6494399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brimley Rd At Strode Dr South Side",
+        "tag": "7990",
+        "stopId": "0645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.24961,
+          43.73943
         ]
       }
     },
@@ -98156,8 +97676,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2457599,
-          43.73734
+          -79.24576,
+          43.7373399
         ]
       }
     },
@@ -98681,8 +98201,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.18959,
-          43.7673599
+          -79.1895899,
+          43.76736
         ]
       }
     },
@@ -98854,21 +98374,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rathburn Rd At Cottrelle Gate",
-        "tag": "8191",
-        "stopId": "1471"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.5613299,
-          43.65572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "McCowan Rd At Anson Ave",
         "tag": "8192",
         "stopId": "1285"
@@ -98891,8 +98396,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4435,
-          43.7543699
+          -79.4434999,
+          43.75437
         ]
       }
     },
@@ -99701,8 +99206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.1931099,
-          43.7851899
+          -79.19311,
+          43.78519
         ]
       }
     },
@@ -100091,8 +99596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.18883,
-          43.77547
+          -79.1888299,
+          43.7754699
         ]
       }
     },
@@ -100736,8 +100241,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4597,
-          43.75522
+          -79.4596999,
+          43.7552199
         ]
       }
     },
@@ -101891,8 +101396,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.50212,
-          43.74589
+          -79.5021199,
+          43.7458899
         ]
       }
     },
@@ -102193,21 +101698,6 @@
         "coordinates": [
           -79.48163,
           43.7570299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Harold Evans Cres At McNicoll Ave",
-        "tag": "8460",
-        "stopId": "2692"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.34203,
-          43.8035299
         ]
       }
     },
@@ -103241,8 +102731,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.1993499,
-          43.75722
+          -79.19935,
+          43.7572199
         ]
       }
     },
@@ -103423,21 +102913,6 @@
         "coordinates": [
           -79.3162999,
           43.70504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Eglinton Ave East At Huntington Ave West Side",
-        "tag": "8550",
-        "stopId": "1034"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.25608,
-          43.7351199
         ]
       }
     },
@@ -103737,7 +103212,7 @@
         "type": "Point",
         "coordinates": [
           -79.23399,
-          43.79241
+          43.7924099
         ]
       }
     },
@@ -103916,7 +103391,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.26156,
+          -79.2615599,
           43.71675
         ]
       }
@@ -104021,8 +103496,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.21549,
-          43.7440899
+          -79.2154899,
+          43.74409
         ]
       }
     },
@@ -104727,7 +104202,7 @@
         "type": "Point",
         "coordinates": [
           -79.32472,
-          43.7123599
+          43.71236
         ]
       }
     },
@@ -105897,7 +105372,7 @@
         "type": "Point",
         "coordinates": [
           -79.2319699,
-          43.7834699
+          43.78347
         ]
       }
     },
@@ -106363,6 +105838,21 @@
         "coordinates": [
           -79.31433,
           43.8161299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wicksteed Ave At Leslie St",
+        "tag": "8792",
+        "stopId": "9790"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3504099,
+          43.71294
         ]
       }
     },
@@ -107929,21 +107419,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Kingston Rd At Saunders Rd",
-        "tag": "8916",
-        "stopId": "2791"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.20756,
-          43.7481999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Dundas St West At Scarlett Rd",
         "tag": "8917",
         "stopId": "3522"
@@ -108011,8 +107486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.47218,
-          43.75826
+          -79.4721799,
+          43.7582599
         ]
       }
     },
@@ -108724,21 +108199,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Brentcliffe Rd At Vanderhoof Ave",
-        "tag": "8979",
-        "stopId": "4811"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3592,
-          43.71293
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Coxwell Ave At Upper Gerrard St East",
         "tag": "8980",
         "stopId": "1800"
@@ -108836,8 +108296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2533099,
-          43.73545
+          -79.25331,
+          43.7354499
         ]
       }
     },
@@ -109962,7 +109422,7 @@
         "type": "Point",
         "coordinates": [
           -79.46493,
-          43.7608699
+          43.76087
         ]
       }
     },
@@ -110351,8 +109811,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2461799,
-          43.7319299
+          -79.24618,
+          43.73193
         ]
       }
     },
@@ -110629,21 +110089,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Howard Park Ave At Roncesvalles Ave",
-        "tag": "9132",
-        "stopId": "1155"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4508099,
-          43.65159
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Caledonia Rd At Leswyn Rd",
         "tag": "9133",
         "stopId": "0732"
@@ -110831,8 +110276,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4805699,
-          43.65008
+          -79.48057,
+          43.6500799
         ]
       }
     },
@@ -111102,7 +110547,7 @@
         "type": "Point",
         "coordinates": [
           -79.53356,
-          43.6985199
+          43.69852
         ]
       }
     },
@@ -111116,8 +110561,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.60289,
-          43.7203699
+          -79.60323,
+          43.7193199
         ]
       }
     },
@@ -112391,8 +111836,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2553099,
-          43.7276699
+          -79.25531,
+          43.72767
         ]
       }
     },
@@ -112633,6 +112078,21 @@
         "coordinates": [
           -79.31461,
           43.7578799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "220 Wicksteed Ave",
+        "tag": "9292",
+        "stopId": "8781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3478699,
+          43.71316
         ]
       }
     },
@@ -114739,6 +114199,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Spanbridge Rd At Grenoble Dr East Side",
+        "tag": "9457",
+        "stopId": "10268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.32649,
+          43.7128199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Dawes Rd At Brenton St",
         "tag": "9458",
         "stopId": "13621"
@@ -115196,8 +114671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5371399,
-          43.7232
+          -79.53714,
+          43.7231999
         ]
       }
     },
@@ -115286,8 +114761,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.48059,
-          43.7543199
+          -79.4805899,
+          43.75432
         ]
       }
     },
@@ -115946,8 +115421,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2386399,
-          43.73865
+          -79.23864,
+          43.7386499
         ]
       }
     },
@@ -115963,21 +115438,6 @@
         "coordinates": [
           -79.33042,
           43.69736
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pope John Paul Ii S.s.",
-        "tag": "9556",
-        "stopId": "11868"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.19991,
-          43.7905899
         ]
       }
     },
@@ -116606,8 +116066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.50779,
-          43.6480499
+          -79.5077899,
+          43.64805
         ]
       }
     },
@@ -116848,6 +116308,21 @@
         "coordinates": [
           -79.4687499,
           43.7197099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thorncliffe Park Dr At Pat Moore Dr",
+        "tag": "9632",
+        "stopId": "8366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.34431,
+          43.7092299
         ]
       }
     },
@@ -117538,21 +117013,6 @@
         "coordinates": [
           -79.2445099,
           43.7203
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Opposite 237 Queens Plate Dr (East)",
-        "tag": "9686",
-        "stopId": "13876"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.5951199,
-          43.72178
         ]
       }
     },
@@ -118468,21 +117928,6 @@
         "coordinates": [
           -79.44538,
           43.72348
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Kingston Rd At Livingston Rd",
-        "tag": "9755",
-        "stopId": "4200"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2039099,
-          43.75171
         ]
       }
     },
@@ -119921,8 +119366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2533,
-          43.74877
+          -79.2532999,
+          43.7487699
         ]
       }
     },
@@ -120641,8 +120086,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5799399,
-          43.65145
+          -79.57994,
+          43.6514499
         ]
       }
     },
@@ -120972,7 +120417,7 @@
         "type": "Point",
         "coordinates": [
           -79.53753,
-          43.7319099
+          43.73191
         ]
       }
     },
@@ -123341,8 +122786,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.2254799,
-          43.74158
+          -79.22548,
+          43.7415799
         ]
       }
     },
@@ -124624,21 +124069,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rathburn Rd At West Deane Park Dr West Side",
-        "tag": "10240",
-        "stopId": "1503"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.5580899,
-          43.6565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Kipling Ave At Princess Margaret Blvd",
         "tag": "10241",
         "stopId": "4358"
@@ -125353,21 +124783,6 @@
         "coordinates": [
           -79.26825,
           43.7603
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Steeles Ave East At Kennedy Rd",
-        "tag": "10301",
-        "stopId": "13448"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.30682,
-          43.8238999
         ]
       }
     },
@@ -127474,21 +126889,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Carl Hall Rd At Internal Roadway (Aerospace Museum)",
-        "tag": "12864",
-        "stopId": "14369"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4768699,
-          43.74745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Bayview Ave At Merton St",
         "tag": "12871",
         "stopId": "14491"
@@ -127736,7 +127136,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.42466,
+          -79.4246599,
           43.6327699
         ]
       }
@@ -127811,8 +127211,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4798199,
-          43.74682
+          -79.4798899,
+          43.74677
         ]
       }
     },
@@ -128464,6 +127864,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Nunavut Rd (Horse Palace)",
+        "tag": "14103",
+        "stopId": "14309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4166599,
+          43.6346999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Carrier Dr At Woodbine Downs Blvd East Side",
         "tag": "14104",
         "stopId": "14560"
@@ -129035,14 +128450,29 @@
       "type": "Feature",
       "properties": {
         "title": "Sheppard West Station",
-        "tag": "14175",
-        "stopId": "14654"
+        "tag": "14173",
+        "stopId": "14651"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4621,
-          43.7493499
+          -79.46219,
+          43.74957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sheppard West Station",
+        "tag": "14174",
+        "stopId": "14652"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46255,
+          43.7495299
         ]
       }
     },
@@ -129094,6 +128524,51 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Sheppard West Station",
+        "tag": "14180",
+        "stopId": "14659"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46237,
+          43.7490499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sheppard West Station",
+        "tag": "14181",
+        "stopId": "14660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46243,
+          43.7492099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sheppard West Station",
+        "tag": "14182",
+        "stopId": "14661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46249,
+          43.7493599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Dundas West Station",
         "tag": "14183",
         "stopId": "14662"
@@ -129133,21 +128608,6 @@
         "coordinates": [
           -79.45346,
           43.6568199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dundas West Station",
-        "tag": "14187",
-        "stopId": "14666"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.45346,
-          43.6566999
         ]
       }
     },
@@ -129493,6 +128953,21 @@
         "coordinates": [
           -79.26325,
           43.7327399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kennedy Station",
+        "tag": "14228",
+        "stopId": "14708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.26331,
+          43.7324999
         ]
       }
     },
@@ -130265,21 +129740,6 @@
       "type": "Feature",
       "properties": {
         "title": "Scarborough Centre Station",
-        "tag": "14285",
-        "stopId": "14766"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.25725,
-          43.7744999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Scarborough Centre Station",
         "tag": "14286",
         "stopId": "14767"
       },
@@ -130834,21 +130294,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "York Mills Station",
-        "tag": "14330",
-        "stopId": "14814"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.40582,
-          43.74521
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Spadina Station",
         "tag": "14339",
         "stopId": "14816"
@@ -130858,21 +130303,6 @@
         "coordinates": [
           -79.40366,
           43.6672199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "75 Carl Hall Rd (The Hangar)",
-        "tag": "14340",
-        "stopId": "14821"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.47396,
-          43.7472899
         ]
       }
     },
@@ -130901,8 +130331,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4647599,
-          43.7575699
+          -79.46476,
+          43.75757
         ]
       }
     },
@@ -131456,8 +130886,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5056899,
-          43.64851
+          -79.50569,
+          43.6485099
         ]
       }
     },
@@ -131884,6 +131314,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Sheppard West Station",
+        "tag": "14619",
+        "stopId": "14653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46257,
+          43.7496599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "St Clair Station",
         "tag": "14625",
         "stopId": "14818"
@@ -132058,6 +131503,21 @@
         "coordinates": [
           -79.4321,
           43.6802299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Princes Blvd At Newfoundland Rd West Side (Direct Energy)",
+        "tag": "14653",
+        "stopId": "14930"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4128299,
+          43.63395
         ]
       }
     },
@@ -134059,6 +133519,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Canada Blvd At Princes Blvd",
+        "tag": "15069",
+        "stopId": "15229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41018,
+          43.6352799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Sheppard Ave East At Midland Ave",
         "tag": "15071",
         "stopId": "15244"
@@ -134247,7 +133722,7 @@
         "type": "Point",
         "coordinates": [
           -79.41081,
-          43.6639
+          43.6638999
         ]
       }
     },
@@ -134959,22 +134434,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Birchmount Rd At Rougeside Prom",
-        "tag": "15229",
-        "stopId": "15414"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.3238,
-          43.8559599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Birchmount Rd At Rougeside Prom South Side",
+        "title": "Birchmount Rd At Rougeside Promenade South Side",
         "tag": "15232",
         "stopId": "15417"
       },
@@ -135671,8 +135131,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40351,
-          43.6374899
+          -79.4035099,
+          43.63749
         ]
       }
     },
@@ -135686,8 +135146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40081,
-          43.6386399
+          -79.4008099,
+          43.63864
         ]
       }
     },
@@ -135956,7 +135416,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.41135,
+          -79.4113499,
           43.6652399
         ]
       }
@@ -136121,8 +135581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5756299,
-          43.6524
+          -79.57563,
+          43.6523999
         ]
       }
     },
@@ -136213,21 +135673,6 @@
         "coordinates": [
           -79.32415,
           43.85642
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dundas West Station",
-        "tag": "15462",
-        "stopId": "15287"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.45323,
-          43.6568499
         ]
       }
     },
@@ -136363,21 +135808,6 @@
         "coordinates": [
           -79.28656,
           43.87501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "St Basil The Great College School",
-        "tag": "15680",
-        "stopId": "15598"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.53382,
-          43.7268199
         ]
       }
     },
@@ -137383,51 +136813,6 @@
         "coordinates": [
           -79.4980699,
           43.6971399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bluffer'S Park Rd At Brimley Rd East Side",
-        "tag": "24032",
-        "stopId": "15693"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2345899,
-          43.7084
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bluffer'S Park Rd At Brimley Rd",
-        "tag": "24033",
-        "stopId": "15694"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2348,
-          43.7083899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Scarborough Bluffs Beach Loop At Bluffer'S Park Rd",
-        "tag": "24049",
-        "stopId": "15695"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.22858,
-          43.7127999
         ]
       }
     },
@@ -138904,51 +138289,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Sheppard West Station",
-        "tag": "24254",
-        "stopId": "15858"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.46157,
-          43.7490499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sheppard West Station",
-        "tag": "24255",
-        "stopId": "15859"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.46108,
-          43.7491299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sheppard West Station",
-        "tag": "24256",
-        "stopId": "15860"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.46077,
-          43.7491699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Opposite 1042 Sheppard Ave West- Sheppard West Station",
         "tag": "24258",
         "stopId": "13151"
@@ -138956,8 +138296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.46172,
-          43.7505199
+          -79.4617199,
+          43.75052
         ]
       }
     },
@@ -139144,36 +138484,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Brimley Rd At Chillery Ave South Side",
-        "tag": "24277",
-        "stopId": "15876"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2498599,
-          43.7399999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brimley Rd At Chillery Ave",
-        "tag": "24278",
-        "stopId": "15877"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.24972,
-          43.74025
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Turtle Island Rd At Lawrence Heights Way",
         "tag": "24279",
         "stopId": "15878"
@@ -139271,8 +138581,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.22945,
-          43.7862399
+          -79.22913,
+          43.7857499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Centennial College Bus Terminal",
+        "tag": "24286",
+        "stopId": "15885"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.22923,
+          43.7858899
         ]
       }
     },
@@ -139286,8 +138611,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.22927,
-          43.7859499
+          -79.22935,
+          43.7860899
         ]
       }
     },
@@ -139333,6 +138658,96 @@
         "coordinates": [
           -79.60594,
           43.7158599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bloor St West At Montgomery Rd West Side",
+        "tag": "24293",
+        "stopId": "15892"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5152199,
+          43.6466699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bloor St West At Thompson Ave West Side",
+        "tag": "24294",
+        "stopId": "15893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5148299,
+          43.64655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "344 Rathburn Rd At Walkway To Merrygale Crescent",
+        "tag": "24295",
+        "stopId": "15894"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5593899,
+          43.6562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Carl Hall Rd At Centennial College",
+        "tag": "24296",
+        "stopId": "15913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.47604,
+          43.7476199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Queens Plate Dr At Harness Rd North Side",
+        "tag": "24298",
+        "stopId": "15915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5943899,
+          43.7206199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Trehorne Dr At Royal York Rd",
+        "tag": "24299",
+        "stopId": "15916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.53045,
+          43.6902899
         ]
       }
     },
@@ -139619,21 +139034,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Brimley Rd At St Clair Ave East South Side",
-        "tag": "4405_IB",
-        "stopId": "3367"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2414299,
-          43.7204999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Bingham Loop",
         "tag": "3243_IB",
         "stopId": "13519"
@@ -139657,6 +139057,21 @@
         "coordinates": [
           -79.28864,
           43.6943299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brimley Rd At St Clair Ave East South Side",
+        "tag": "4405_IB",
+        "stopId": "3367"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.24143,
+          43.7205
         ]
       }
     },
@@ -139761,14 +139176,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Birchmount Rd At Rougeside Prom",
-        "tag": "15229_ar"
+        "title": "Rougeside Promenade At Uptown Dr",
+        "tag": "15458_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.3238,
-          43.8559599
+          -79.32498,
+          43.8563199
         ]
       }
     },
@@ -139804,13 +139219,13 @@
       "type": "Feature",
       "properties": {
         "title": "Kennedy Station",
-        "tag": "14229_ar"
+        "tag": "14228_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.26352,
-          43.7324299
+          -79.26331,
+          43.7324999
         ]
       }
     },
@@ -140142,14 +139557,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Princes' Gate Loop At Canada Blvd (Cne East Entrance)",
-        "tag": "10415_ar"
+        "title": "Canada Blvd At Princes Blvd",
+        "tag": "15069_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.40989,
-          43.6355799
+          -79.41018,
+          43.6352799
         ]
       }
     },
@@ -140297,20 +139712,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Emmett Ave At Verona Ave",
-        "tag": "7204_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.50399,
-          43.6885899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Pine St At Lawrence Ave West",
         "tag": "2780_ar"
       },
@@ -140319,6 +139720,20 @@
         "coordinates": [
           -79.50792,
           43.7013499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Emmett Ave At Verona Ave",
+        "tag": "7204_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.50399,
+          43.6885899
         ]
       }
     },
@@ -140367,14 +139782,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Grenoble Dr At Spanbridge Rd",
-        "tag": "5965_ar"
+        "title": "Spanbridge Rd At Grenoble Dr East Side",
+        "tag": "9457_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.32692,
-          43.7131399
+          -79.32649,
+          43.7128199
         ]
       }
     },
@@ -140674,21 +140089,7 @@
         "type": "Point",
         "coordinates": [
           -79.60594,
-          43.7158599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Scarborough Centre Station",
-        "tag": "14285_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.25725,
-          43.7744999
+          43.71586
         ]
       }
     },
@@ -140829,20 +140230,6 @@
         "coordinates": [
           -79.50883,
           43.7768399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Gordon Baker Rd At Victoria Park Ave West Side",
-        "tag": "6436_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.34006,
-          43.8104999
         ]
       }
     },
@@ -141243,6 +140630,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Victory Cres At McNaughton Ave",
+        "tag": "8612_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.64483,
+          43.7087199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Martin Grove Rd At Tollington Rd",
         "tag": "8800_ar"
       },
@@ -141257,28 +140658,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Royal York Rd At Dixon Rd",
-        "tag": "522_ar"
+        "title": "Trehorne Dr At Royal York Rd",
+        "tag": "24299_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.53399,
-          43.6996199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Victory Cres At McNaughton Ave",
-        "tag": "8612_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.64483,
-          43.7087199
+          -79.53045,
+          43.6902899
         ]
       }
     },
@@ -141341,20 +140728,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Brimorton Dr At Orton Park Rd",
-        "tag": "2804_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.20899,
-          43.7713399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Starspray Loop At Lawrence Ave East",
         "tag": "3256_ar"
       },
@@ -141383,14 +140756,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Eglinton Station",
-        "tag": "14194_ar"
+        "title": "Brimorton Dr At Orton Park Rd",
+        "tag": "2804_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.39924,
-          43.7055299
+          -79.20899,
+          43.7713399
         ]
       }
     },
@@ -141405,6 +140778,20 @@
         "coordinates": [
           -79.2705,
           43.7506699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eglinton Station",
+        "tag": "14194_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39924,
+          43.7055299
         ]
       }
     },
@@ -141447,20 +140834,6 @@
         "coordinates": [
           -79.33779,
           43.6808499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brentcliffe Rd At Eglinton Ave South Side",
-        "tag": "7496_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.35966,
-          43.7140699
         ]
       }
     },
@@ -141902,14 +141275,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Front St West At Bay St East Side (Union Station)",
-        "tag": "641_ar"
+        "title": "Runnymede Station",
+        "tag": "14274_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.37852,
-          43.6459999
+          -79.47595,
+          43.6517299
         ]
       }
     },
@@ -141924,6 +141297,20 @@
         "coordinates": [
           -79.33902,
           43.6587499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Front St West At Bay St East Side (Union Station)",
+        "tag": "641_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37852,
+          43.6459999
         ]
       }
     },
@@ -142073,6 +141460,20 @@
       "type": "Feature",
       "properties": {
         "title": "South Dr At Glen Rd",
+        "tag": "1761_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.37497,
+          43.6776599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Dr At Glen Rd",
         "tag": "1761_IB",
         "stopId": "7335"
       },
@@ -142095,20 +141496,6 @@
         "coordinates": [
           -79.37769,
           43.6857299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "South Dr At Glen Rd",
-        "tag": "1761_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.37497,
-          43.6776599
         ]
       }
     },
@@ -142151,6 +141538,20 @@
         "coordinates": [
           -79.47108,
           43.6381399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Runnymede Station",
+        "tag": "14899_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.47554,
+          43.6518199
         ]
       }
     },
@@ -142689,13 +142090,13 @@
       "type": "Feature",
       "properties": {
         "title": "Kennedy Station",
-        "tag": "14230_ar"
+        "tag": "14229_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.26374,
-          43.7323599
+          -79.26352,
+          43.7324299
         ]
       }
     },
@@ -143082,20 +142483,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Wilson Station",
-        "tag": "14827_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.45104,
-          43.7347799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Davisville Station",
         "tag": "14167_ar"
       },
@@ -143146,6 +142533,20 @@
         "coordinates": [
           -79.41789,
           43.7983399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sheppard-Yonge Station",
+        "tag": "14289_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41239,
+          43.7618899
         ]
       }
     },
@@ -143208,14 +142609,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "75 Carl Hall Rd (The Hangar)",
-        "tag": "14340_ar"
+        "title": "Carl Hall Rd At Centennial College",
+        "tag": "24296_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.47396,
-          43.7472899
+          -79.47604,
+          43.7476199
         ]
       }
     },
@@ -143236,20 +142637,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Major Mackenzie Dr East At Markham Rd",
-        "tag": "15193_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.26858,
-          43.9097099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Markham Rd At Steeles Ave East South Side",
         "tag": "9736_ar"
       },
@@ -143264,14 +142651,28 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Major Mackenzie Dr East At Markham Rd",
+        "tag": "15193_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.26858,
+          43.9097099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Centennial College Bus Terminal",
         "tag": "24285_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.22945,
-          43.7862399
+          -79.22913,
+          43.7857499
         ]
       }
     },
@@ -143293,13 +142694,27 @@
       "type": "Feature",
       "properties": {
         "title": "Sheppard West Station",
-        "tag": "24254_ar"
+        "tag": "14619_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.46157,
-          43.7490499
+          -79.46257,
+          43.7496599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sheppard West Station",
+        "tag": "14174_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46255,
+          43.7495299
         ]
       }
     },
@@ -143314,20 +142729,6 @@
         "coordinates": [
           -79.45089,
           43.7348699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Sheppard West Station",
-        "tag": "24255_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.46108,
-          43.7491299
         ]
       }
     },
@@ -143420,13 +142821,13 @@
       "type": "Feature",
       "properties": {
         "title": "Sheppard West Station",
-        "tag": "14175_ar"
+        "tag": "14181_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.4621,
-          43.7493499
+          -79.46243,
+          43.7492099
         ]
       }
     },
@@ -144196,13 +143597,13 @@
       "type": "Feature",
       "properties": {
         "title": "Sheppard West Station",
-        "tag": "24256_ar"
+        "tag": "14182_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.46077,
-          43.7491699
+          -79.46249,
+          43.7493599
         ]
       }
     },
@@ -144591,6 +143992,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Mill St At Cherry St West Side",
+        "tag": "15075_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35788,
+          43.6512699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Remembrance Dr At Ontario Place Central Entrance",
         "tag": "24078_ar"
       },
@@ -144599,6 +144014,20 @@
         "coordinates": [
           -79.41372,
           43.6308199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Princes' Gate Loop At Canada Blvd (Cne East Entrance)",
+        "tag": "10415_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40989,
+          43.6355799
         ]
       }
     },
@@ -145481,6 +144910,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Baldoon Rd At Finch Ave East South Side",
+        "tag": "2532_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.23228,
+          43.8148799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Finchdene Sq At Finch Ave East",
         "tag": "3427_ar"
       },
@@ -145501,22 +144944,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.22927,
-          43.7859499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baldoon Rd At Finch Ave East South Side",
-        "tag": "2532_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.23228,
-          43.8148799
+          -79.22935,
+          43.7860899
         ]
       }
     },
@@ -145882,20 +145311,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Scarborough Bluffs Beach Loop At Bluffer'S Park Rd",
-        "tag": "24049_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.22858,
-          43.7127999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "High Park Station",
         "tag": "14216_ar"
       },
@@ -145932,6 +145347,36 @@
         "coordinates": [
           -79.27503,
           43.6941799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Warden Ave At Danforth Rd South Side",
+        "tag": "873_IB",
+        "stopId": "9905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.27463,
+          43.69647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Warden Ave At Danforth Ave",
+        "tag": "7377_IB",
+        "stopId": "8554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2738699,
+          43.6945499
         ]
       }
     },
@@ -145991,36 +145436,6 @@
         "coordinates": [
           -79.55709,
           43.6391499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Warden Ave At Danforth Rd South Side",
-        "tag": "873_IB",
-        "stopId": "9905"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.27463,
-          43.69647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Warden Ave At Danforth Ave",
-        "tag": "7377_IB",
-        "stopId": "8554"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.2738699,
-          43.6945499
         ]
       }
     },
@@ -146134,20 +145549,6 @@
         "coordinates": [
           -79.35822,
           43.67738
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pape Ave At Eastern Ave",
-        "tag": "5201_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.33674,
-          43.6590299
         ]
       }
     },
@@ -146427,6 +145828,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Ossington Ave At Dundas St West North Side",
+        "tag": "2155_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42079,
+          43.6497199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Broadview Station",
         "tag": "14162_ar"
       },
@@ -146441,14 +145856,14 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Dundas West Station",
-        "tag": "14187_ar"
+        "title": "Lansdowne Ave At Dundas St West",
+        "tag": "3310_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.45346,
-          43.6566999
+          -79.43986,
+          43.6503699
         ]
       }
     },
@@ -146463,20 +145878,6 @@
         "coordinates": [
           -79.3018,
           43.6888599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Dundas West Station",
-        "tag": "15462_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.45323,
-          43.6568499
         ]
       }
     },
@@ -146561,6 +145962,20 @@
         "coordinates": [
           -79.53568,
           43.6375799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kennedy Station",
+        "tag": "14230_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.26374,
+          43.7323599
         ]
       }
     },

@@ -25,18 +25,18 @@
           "evolvill",
           "cambpknr"
         ],
-        "GORDON WILSON HALL": [
-          "creapknr_d",
-          "13thkent",
-          "ps1",
-          "sndrhall"
-        ],
         "CREASON PARK & RIDE": [
           "wmrt",
           "greemall",
           "barnsnob",
           "cambpknr_d",
           "evolvill_ob"
+        ],
+        "GORDON WILSON HALL": [
+          "creapknr_d",
+          "13thkent",
+          "ps1",
+          "sndrhall"
         ]
       },
       "scheduledStops": {
@@ -88,194 +88,41 @@
         }
       }
     },
-    "red": {
-      "title": "Big Red",
-      "color": "cd0000",
-      "tag": "red",
-      "oppositeColor": "ffffff",
-      "max": [
-        36.9878899,
-        -86.4474988
-      ],
-      "min": [
-        36.9786798,
-        -86.466864
-      ],
-      "stops": {
-        "PARK ST. LOT": [
-          "creapknrrd",
-          "ps1",
-          "sndrhall",
-          "wilshall",
-          "cohh",
-          "gris",
-          "mmth",
-          "soutches"
-        ],
-        "CREASON PARK & RIDE": [
-          "parklot",
-          "chesnort",
-          "chessout",
-          "univlot",
-          "mimo",
-          "helmlib",
-          "est",
-          "cherhall",
-          "vall",
-          "duc",
-          "keen",
-          "russpknr"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "russpknr",
-          "creapknrrd_a",
-          "parklot",
-          "chessout",
-          "univlot",
-          "mimo",
-          "est",
-          "vall",
-          "keen"
-        ],
-        "outbound": [
-          "creapknrrd",
-          "ps1",
-          "wilshall",
-          "cohh",
-          "mmth",
-          "soutches"
-        ]
-      },
-      "scheduledTimeRange": {
-        "creapknrrd": {
-          "all": {
-            "first": "07:19:00",
-            "last": "20:30:00"
-          }
-        },
-        "parklot": {
-          "all": {
-            "first": "07:24:00",
-            "last": "19:55:00"
-          }
-        }
-      }
-    },
-    "white": {
-      "title": "Hilltopper",
-      "color": "82cffd",
-      "tag": "white",
-      "oppositeColor": "000000",
-      "max": [
-        36.99174,
-        -86.447702
-      ],
-      "min": [
-        36.9640027,
-        -86.4700058
-      ],
-      "stops": {
-        "Main Campus": [
-          "cambpknr_d",
-          "evolvill_ob",
-          "creapknr_ob",
-          "jagg",
-          "univlot",
-          "mimo",
-          "helmlib",
-          "est"
-        ],
-        "Campbell Lane Park and Ride": [
-          "cherhall",
-          "vall",
-          "mccohall",
-          "13thkent",
-          "12thcent",
-          "cohh",
-          "gris",
-          "mmth",
-          "pft",
-          "merehall",
-          "creapknr",
-          "evolvill_ib",
-          "scamp_pknr"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "cherhall",
-          "vall",
-          "13thkent",
-          "12thcent",
-          "cohh",
-          "mmth",
-          "merehall",
-          "evolvill_ib",
-          "scamp_pknr",
-          "cambpknr_a"
-        ],
-        "outbound": [
-          "cambpknr_d",
-          "evolvill_ob",
-          "creapknr_ob",
-          "jagg",
-          "univlot",
-          "mimo",
-          "est"
-        ]
-      },
-      "scheduledTimeRange": {
-        "cambpknr": {
-          "all": {
-            "first": "07:22:00",
-            "last": "20:33:00"
-          }
-        },
-        "cherhall": {
-          "all": {
-            "first": "07:15:00",
-            "last": "20:17:00"
-          }
-        }
-      }
-    },
     "black": {
       "title": "College Heights",
       "color": "000000",
       "tag": "black",
       "oppositeColor": "ffffff",
       "max": [
-        36.9878899,
-        -86.450468
+        36.987939,
+        -86.4506129
       ],
       "min": [
         36.9640028,
         -86.4700061
       ],
       "stops": {
-        "Main Campus": [
-          "cambpknr_d",
-          "evolvill_ob",
-          "creapknr_ob",
-          "ps1",
-          "sndrhall",
-          "wilshall"
-        ],
         "Campbell Lane Park and Ride": [
-          "cherhall",
+          "collhght",
           "vall",
           "duc",
           "keen",
           "creapknr",
           "evolvill_ib",
           "scamp_pknr"
+        ],
+        "COLLEGE & COLLEGE HEIGHTS": [
+          "cambpknr_d",
+          "evolvill_ob",
+          "creapknr_ob",
+          "ps1",
+          "sndrhall",
+          "wilshall"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "cherhall",
+          "collhght",
           "vall",
           "duc",
           "keen",
@@ -296,14 +143,14 @@
       "scheduledTimeRange": {
         "cambpknr": {
           "all": {
-            "first": "07:29:00",
-            "last": "20:39:00"
+            "first": "07:31:00",
+            "last": "20:53:00"
           }
         },
-        "cherhall": {
+        "collhght": {
           "all": {
             "first": "07:15:00",
-            "last": "20:25:00"
+            "last": "20:37:00"
           }
         }
       }
@@ -319,7 +166,7 @@
       ],
       "min": [
         36.9786799,
-        -86.4668641
+        -86.4640264
       ],
       "stops": {
         "PARK ST. LOT": [
@@ -331,59 +178,55 @@
         ],
         "COLLEGE & COLLEGE HEIGHTS": [
           "parklot",
-          "cherhall",
+          "collhght",
           "vall",
           "mccohall",
           "13thkent",
           "12thcent"
         ],
         "CREASON PARK & RIDE": [
-          "collhght",
-          "chesnort",
-          "chessout",
-          "regnorm_ib",
+          "cohh",
+          "gris",
+          "mmth",
           "pft",
-          "merehall",
-          "russpknr"
+          "merehall"
         ]
       },
       "scheduledStops": {
         "inbound": [
           "parklot",
-          "cherhall",
+          "collhght",
           "vall",
           "mccohall",
           "13thkent",
           "12thcent"
         ],
         "outbound": [
-          "russpknr",
-          "creapknrrd_a",
-          "collhght",
-          "chesnort",
-          "chessout",
-          "regnorm_ib",
+          "cohh",
+          "gris",
+          "mmth",
           "pft",
-          "merehall"
+          "merehall",
+          "creapknrrd_a"
         ]
       },
       "scheduledTimeRange": {
         "collhght": {
           "all": {
             "first": "07:27:00",
-            "last": "20:52:00"
+            "last": "20:42:00"
           }
         },
         "creapknrrd": {
           "all": {
-            "first": "07:16:00",
-            "last": "21:14:00"
+            "first": "07:40:00",
+            "last": "20:55:00"
           }
         },
         "parklot": {
           "all": {
             "first": "07:20:00",
-            "last": "20:45:00"
+            "last": "20:35:00"
           }
         }
       }

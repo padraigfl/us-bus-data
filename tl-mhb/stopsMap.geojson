@@ -739,6 +739,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Torquay Road near Gossner St",
+        "tag": "840049",
+        "stopId": "840049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8570099,
+          -25.28674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Torquay Road near Down St",
         "tag": "840050",
         "stopId": "840050"
@@ -4399,21 +4414,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Queens Rd near Scarborough St (HnR)",
-        "tag": "840317",
-        "stopId": "840317"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.8535299,
-          -25.28575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Maryborough-Hervey Bay Road near Noble Rd",
         "tag": "840318",
         "stopId": "840318"
@@ -5548,36 +5548,6 @@
         "coordinates": [
           152.8874699,
           -25.28112
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Denmans Camp Rd nr Freshwater St (HnR)",
-        "tag": "840489",
-        "stopId": "840489"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.8611299,
-          -25.28605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Freshwater St nr Queens Rd (HnR)",
-        "tag": "840490",
-        "stopId": "840490"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.8562799,
-          -25.28559
         ]
       }
     }

@@ -47,7 +47,46 @@
           "yosepier"
         ]
       },
-      "scheduledStops": {}
+      "scheduledStops": {
+        "inbound": [
+          "trancent_d",
+          "nortcott",
+          "yosepest",
+          "pestyose",
+          "sprenorm",
+          "yosesher_i",
+          "centmagn",
+          "staddani",
+          "thomwint",
+          "yoseunio_i",
+          "trancent_a"
+        ],
+        "outbound": [
+          "trancent_d",
+          "nortcott",
+          "yosepest",
+          "pestyose",
+          "sprenorm",
+          "yosesher_i",
+          "centmagn",
+          "staddani",
+          "thomwint",
+          "yoseunio_i",
+          "trancent_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:00:00"
+          },
+          "sat": {
+            "first": "09:00:00",
+            "last": "15:00:00"
+          }
+        }
+      }
     },
     "2": {
       "title": "2",
@@ -73,9 +112,6 @@
           "athevan",
           "athetinn",
           "promshop",
-          "daniroya",
-          "danijunc",
-          "danfish",
           "staddani",
           "fishwawo",
           "thomwint",
@@ -88,7 +124,48 @@
           "mainwetm_i"
         ]
       },
-      "scheduledStops": {}
+      "scheduledStops": {
+        "inbound": [
+          "trancent_d",
+          "mainmiss",
+          "woodwel",
+          "athevan",
+          "promshop",
+          "staddani",
+          "thomwint",
+          "yoseunio",
+          "centmagn",
+          "wawcar",
+          "mainpark",
+          "trancent_a"
+        ],
+        "outbound": [
+          "trancent_d",
+          "mainmiss",
+          "woodwel",
+          "athevan",
+          "promshop",
+          "staddani",
+          "thomwint",
+          "yoseunio",
+          "centmagn",
+          "wawcar",
+          "mainpark",
+          "trancent_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "18:00:00"
+          },
+          "sat": {
+            "first": "09:00:00",
+            "last": "15:00:00"
+          }
+        }
+      }
     },
     "3": {
       "title": "3",

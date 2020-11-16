@@ -1039,6 +1039,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Wilshire / Normandie Station",
+        "tag": "80215_1",
+        "stopId": "80215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.30146,
+          34.0617499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wilshire / Western Station",
+        "tag": "80216_1",
+        "stopId": "80216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.30876,
+          34.0616899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Redondo Beach Station",
         "tag": "80301_0",
         "stopId": "80301"
@@ -1558,21 +1588,6 @@
         "coordinates": [
           -118.22594,
           34.0476299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Little Tokyo / Arts District Station",
-        "tag": "80408_0",
-        "stopId": "80408"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2379,
-          34.0500999
         ]
       }
     },
@@ -2149,21 +2164,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Little Tokyo / Arts District Station",
-        "tag": "80408_1",
-        "stopId": "80408"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2379,
-          34.0500999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Pico / Aliso Station",
         "tag": "80407_1",
         "stopId": "80407"
@@ -2293,36 +2293,6 @@
         "coordinates": [
           -118.30146,
           34.0617499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Wilshire / Normandie Station",
-        "tag": "80215_1",
-        "stopId": "80215"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.30146,
-          34.0617499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Wilshire / Western Station",
-        "tag": "80216_1",
-        "stopId": "80216"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.30876,
-          34.0616899
         ]
       }
     },

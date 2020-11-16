@@ -15,24 +15,6 @@
         -74.0180488
       ],
       "stops": {
-        "Westbound": [
-          "watful_d",
-          "watmaid",
-          "watwall_o",
-          "wathano",
-          "watcoen",
-          "watwhit",
-          "statbrid",
-          "battwash_o",
-          "battwest_o",
-          "batfirst_o",
-          "batthird_o",
-          "seavwtha_o",
-          "seavrec_o",
-          "seavalba",
-          "vesworld_o",
-          "neavmury_o"
-        ],
         "Eastbound": [
           "neavwar_d",
           "wargreen",
@@ -55,6 +37,24 @@
           "watflet",
           "pearfult",
           "soutpeck"
+        ],
+        "Westbound": [
+          "watful_d",
+          "watmaid",
+          "watwall_o",
+          "wathano",
+          "watcoen",
+          "watwhit",
+          "statbrid",
+          "battwash_o",
+          "battwest_o",
+          "batfirst_o",
+          "batthird_o",
+          "seavwtha_o",
+          "seavrec_o",
+          "seavalba",
+          "vesworld_o",
+          "neavmury_o"
         ]
       },
       "scheduledStops": {

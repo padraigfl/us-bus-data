@@ -304,7 +304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "South Rd at Country Club Rd",
+        "title": "South Rd at Country Club",
         "tag": "soutcoun",
         "stopId": "3430"
       },
@@ -664,7 +664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "South Rd at Student Stores",
+        "title": "South Road at Student Union",
         "tag": "soutstud",
         "stopId": "3360"
       },
@@ -889,7 +889,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Longview St at N Columbia S",
+        "title": "Columbia at Longview",
         "tag": "colulong_n",
         "stopId": "3046"
       },
@@ -1018,6 +1018,797 @@
         "coordinates": [
           -79.0631071,
           35.9272527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "East Dr at Jackson Circle",
+        "tag": "eastjack",
+        "stopId": "3237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0507305,
+          35.9018682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Manning Dr at Gravely",
+        "tag": "manngrav",
+        "stopId": "3703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0505992,
+          35.9031719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Manning Dr at UNC Hospitals",
+        "tag": "mannunch_d",
+        "stopId": "3239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.051856,
+          35.903559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Health Sciences Library",
+        "tag": "coluheal",
+        "stopId": "3223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0534682,
+          35.905412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Carrington Hall",
+        "tag": "colucarr",
+        "stopId": "3222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0527798,
+          35.9069413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Coffee Shop",
+        "tag": "francoffe",
+        "stopId": "3427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05407,
+          35.9136999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Planetarium",
+        "tag": "franplan_n",
+        "stopId": "3257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0509297,
+          35.91493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Raleigh St",
+        "tag": "franralei",
+        "stopId": "3254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0486095,
+          35.9158301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at S Boundary St",
+        "tag": "franboun_n",
+        "stopId": "3255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0461092,
+          35.9167702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Park Pl",
+        "tag": "franpark",
+        "stopId": "3250"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0437467,
+          35.9167999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Glendale Dr",
+        "tag": "franglen",
+        "stopId": "3269"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0399968,
+          35.9181015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Howell Ln",
+        "tag": "franhowe_n",
+        "stopId": "3268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0386691,
+          35.9222868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Elizabeth St",
+        "tag": "franeliz_n",
+        "stopId": "3266"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0382395,
+          35.9240107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Plant Rd",
+        "tag": "franplant",
+        "stopId": "3264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0357598,
+          35.9268101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Estes Dr",
+        "tag": "franeste_n",
+        "stopId": "3260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03443,
+          35.9288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at #1512",
+        "tag": "fran1512",
+        "stopId": "3370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0330403,
+          35.9311696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at #1520",
+        "tag": "fran1520",
+        "stopId": "3367"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0318602,
+          35.9324097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Elliott Rd",
+        "tag": "franelli_n",
+        "stopId": "3365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.02959,
+          35.9347299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Eastgate Shopping Center",
+        "tag": "franeast",
+        "stopId": "3453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0261665,
+          35.9366922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eastowne Rd at Pinegate",
+        "tag": "eastpine",
+        "stopId": "3296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0079289,
+          35.9485004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Sterling Rd at Eastowne Rd",
+        "tag": "oldsterl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.008236,
+          35.95044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Sterling Rd at Notting Hill Apts",
+        "tag": "oldsternot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0114496,
+          35.9512304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Sterling Rd at Bible Church",
+        "tag": "oldbible"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0141266,
+          35.9507716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Coleridge Rd at Presque Isle",
+        "tag": "colepres",
+        "stopId": "3285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0164399,
+          35.94943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Coleridge Rd at Sage Rd",
+        "tag": "colewald_d",
+        "stopId": "3286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0150614,
+          35.94719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sage Rd at Lowe's/Borders",
+        "tag": "sagelowe_s",
+        "stopId": "3126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0132809,
+          35.9457118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dobbins Dr at Cosgrove Hills",
+        "tag": "dobbcosg",
+        "stopId": "3113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0141634,
+          35.9443197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Oxford Rd at Kirkwood",
+        "tag": "oxfokirk_s",
+        "stopId": "3468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0209918,
+          35.94666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Oxford Rd at Booker Creek Rd",
+        "tag": "oxfobook_s",
+        "stopId": "3462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0236692,
+          35.9457505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Summerfield Crossing at Grist Mill Ln",
+        "tag": "summgrist_s",
+        "stopId": "3001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.025334,
+          35.9436486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Summerfield Crossing at Berry Patch",
+        "tag": "summberry",
+        "stopId": "3116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0221521,
+          35.9436422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Summerfield Crossing at Beaver Dam C",
+        "tag": "summbeav",
+        "stopId": "3117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0212624,
+          35.9415314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dobbins Dr at Foxcroft",
+        "tag": "dobbfoxc",
+        "stopId": "3120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.02202,
+          35.94081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dobbins Dr at Franklin Square",
+        "tag": "dobbfrank",
+        "stopId": "3121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0245604,
+          35.9386793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Booker Ck Greenway",
+        "tag": "franbook",
+        "stopId": "3273"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0263501,
+          35.9368299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Elliott Rd",
+        "tag": "franelli_s",
+        "stopId": "3366"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0298525,
+          35.9347474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Franklin Woods",
+        "tag": "franfran",
+        "stopId": "3368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0321902,
+          35.9323497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Etna Gas Station",
+        "tag": "franetna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0330402,
+          35.9314596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Estes Dr",
+        "tag": "franeste_s",
+        "stopId": "3259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0346545,
+          35.9287083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Vet Hospital",
+        "tag": "franveth",
+        "stopId": "3263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0360097,
+          35.9267802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Elizabeth St",
+        "tag": "franeliz_s",
+        "stopId": "3265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0383796,
+          35.9242205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Howell Ln",
+        "tag": "franhowe_s",
+        "stopId": "3267"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03888,
+          35.9225264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Carolina Ave",
+        "tag": "francaro",
+        "stopId": "3251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0402195,
+          35.9182103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at N Boundary St",
+        "tag": "franboun_s",
+        "stopId": "3256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0467931,
+          35.9166887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Hillsborough St",
+        "tag": "franhill",
+        "stopId": "3253"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0490394,
+          35.9158301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Planetarium",
+        "tag": "franplan_s",
+        "stopId": "3258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0508205,
+          35.9151497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Henderson St",
+        "tag": "franhend",
+        "stopId": "3447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0527808,
+          35.9143996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Franklin St at Varsity Theatre",
+        "tag": "franvars",
+        "stopId": "3428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0548588,
+          35.91358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pittsboro St at McCauley St (Newman Center)",
+        "tag": "pittnewm",
+        "stopId": "3211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0548105,
+          35.9089109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pittsboro St at Vance St (Credit Union)",
+        "tag": "pittcred",
+        "stopId": "3226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0548699,
+          35.9068908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pittsboro at University Dr",
+        "tag": "pittuniv",
+        "stopId": "3224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0551398,
+          35.9052806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mason Farm Rd at Ambulatory Care Center",
+        "tag": "masoambu_n",
+        "stopId": "3221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0559485,
+          35.90205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mason Farm Rd at Odum Village",
+        "tag": "masoodum",
+        "stopId": "3436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0522805,
+          35.9015603
         ]
       }
     },
@@ -1324,81 +2115,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Pittsboro St at McCauley St (Newman Center)",
-        "tag": "pittnewm",
-        "stopId": "3211"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0548107,
-          35.9089111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pittsboro St at Vance St (Credit Union)",
-        "tag": "pittcred",
-        "stopId": "3226"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0548699,
-          35.906788
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Pittsboro St at University Dr",
-        "tag": "pittuniv",
-        "stopId": "3224"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.05514,
-          35.9052798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S Columbia St at Health Sciences Library",
-        "tag": "coluheal",
-        "stopId": "3223"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0534781,
-          35.9054029
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S Columbia St at Carrington Hall",
-        "tag": "colucarr",
-        "stopId": "3222"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0527819,
-          35.9069292
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Cameron Av at Granville Towers",
         "tag": "camegran",
         "stopId": "3209"
@@ -1601,7 +2317,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0932409,
+          -79.0932406,
           35.9176101
         ]
       }
@@ -1616,8 +2332,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0915082,
-          35.9171633
+          -79.0915079,
+          35.9171632
         ]
       }
     },
@@ -1631,8 +2347,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0889206,
-          35.9163765
+          -79.0889203,
+          35.9163764
         ]
       }
     },
@@ -1646,8 +2362,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0859719,
-          35.9161695
+          -79.0859716,
+          35.9161697
         ]
       }
     },
@@ -1661,8 +2377,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0837017,
-          35.9175496
+          -79.0837015,
+          35.9175497
         ]
       }
     },
@@ -1676,8 +2392,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0816916,
-          35.9160226
+          -79.0816914,
+          35.9160224
         ]
       }
     },
@@ -1691,8 +2407,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0797376,
-          35.9139417
+          -79.0797374,
+          35.9139415
         ]
       }
     },
@@ -1706,8 +2422,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0775524,
-          35.9120403
+          -79.0775522,
+          35.9120401
         ]
       }
     },
@@ -1721,7 +2437,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0758056,
+          -79.0758052,
           35.9111769
         ]
       }
@@ -1736,8 +2452,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0718308,
-          35.9108504
+          -79.0718305,
+          35.9108503
         ]
       }
     },
@@ -2194,21 +2910,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "East Dr at Jackson Circle",
-        "tag": "eastjack",
-        "stopId": "3237"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0507308,
-          35.9018683
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Manning Dr at Gravely (UNCH Parking Deck)",
         "tag": "mannpark",
         "stopId": "3703"
@@ -2218,201 +2919,6 @@
         "coordinates": [
           -79.0506012,
           35.903168
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Manning Dr at UNC Hospitals",
-        "tag": "mannunch_d",
-        "stopId": "3239"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0518565,
-          35.9035588
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Coffee Shop",
-        "tag": "francoffe",
-        "stopId": "3427"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.05407,
-          35.9137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Planetarium",
-        "tag": "franplan_n",
-        "stopId": "3257"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0509297,
-          35.91493
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Raleigh St",
-        "tag": "franralei",
-        "stopId": "3254"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0486095,
-          35.9158301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at S Boundary St",
-        "tag": "franboun_n",
-        "stopId": "3255"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0461092,
-          35.9167702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Park Pl",
-        "tag": "franpark",
-        "stopId": "3250"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0437467,
-          35.9167999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Glendale Dr",
-        "tag": "franglen",
-        "stopId": "3269"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0399968,
-          35.9181015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Howell Ln",
-        "tag": "franhowe_n",
-        "stopId": "3268"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0386691,
-          35.9222868
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Elizabeth St",
-        "tag": "franeliz_n",
-        "stopId": "3266"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0382395,
-          35.9240107
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Plant Rd",
-        "tag": "franplant",
-        "stopId": "3264"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0357598,
-          35.9268101
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Estes Dr",
-        "tag": "franeste_n",
-        "stopId": "3260"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.03443,
-          35.9288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at #1512",
-        "tag": "fran1512",
-        "stopId": "3370"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0330403,
-          35.9311696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at #1520",
-        "tag": "fran1520",
-        "stopId": "3367"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0318602,
-          35.9324097
         ]
       }
     },
@@ -2742,202 +3248,7 @@
         "type": "Point",
         "coordinates": [
           -79.0284299,
-          35.9343348
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Elliott Rd",
-        "tag": "franelli_s",
-        "stopId": "3366"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0298489,
-          35.934756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Franklin Woods",
-        "tag": "franfran",
-        "stopId": "3368"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0321978,
-          35.9323471
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Etna Gas Station",
-        "tag": "franetna",
-        "stopId": "3369"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0330409,
-          35.931455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Estes Dr",
-        "tag": "franeste_s",
-        "stopId": "3259"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0346598,
-          35.9287102
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Vet Hospital",
-        "tag": "franveth",
-        "stopId": "3263"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0360097,
-          35.9267802
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Elizabeth St",
-        "tag": "franeliz_s",
-        "stopId": "3265"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0383796,
-          35.9242205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Howell Ln",
-        "tag": "franhowe_s",
-        "stopId": "3267"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.03888,
-          35.9225264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Carolina Ave",
-        "tag": "francaro",
-        "stopId": "3251"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0402195,
-          35.9182103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at N Boundary St",
-        "tag": "franboun_s",
-        "stopId": "3256"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0467931,
-          35.9166887
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Hillsborough St",
-        "tag": "franhill",
-        "stopId": "3253"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0490394,
-          35.9158301
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Planetarium",
-        "tag": "franplan_s",
-        "stopId": "3258"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0508205,
-          35.9151497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Henderson St",
-        "tag": "franhend",
-        "stopId": "3447"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0527808,
-          35.9143996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E Franklin St at Varsity Theatre",
-        "tag": "franvars",
-        "stopId": "3428"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.054859,
-          35.9135803
+          35.9343349
         ]
       }
     },
@@ -2968,21 +3279,6 @@
         "coordinates": [
           -79.0544183,
           35.902127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Mason Farm Rd at Odum Village",
-        "tag": "masoodum",
-        "stopId": "3436"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0515443,
-          35.901394
         ]
       }
     },
@@ -3213,7 +3509,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Raleigh Rd at Finley Golf Course Rd",
+        "title": "Raleigh Rd at Best Western",
         "tag": "ralebest",
         "stopId": "3013"
       },
@@ -4436,7 +4732,7 @@
         "type": "Point",
         "coordinates": [
           -79.0713978,
-          35.9920825
+          35.9920826
         ]
       }
     },
@@ -4451,7 +4747,7 @@
         "type": "Point",
         "coordinates": [
           -79.0800199,
-          36.0277498
+          36.0277499
         ]
       }
     },
@@ -4517,15 +4813,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Churton Street at North Hills Shopping Center",
-        "tag": "maxway_d",
+        "title": "Maxway Shopping Center",
+        "tag": "maxway",
         "stopId": "1757"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0998301,
-          36.0844901
+          -79.0998299,
+          36.0844899
         ]
       }
     },
@@ -4614,8 +4910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0907427,
-          36.0387048
+          -79.0907534,
+          36.0386952
         ]
       }
     },
@@ -4629,8 +4925,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0801356,
-          36.027792
+          -79.080136,
+          36.0277921
         ]
       }
     },
@@ -4644,8 +4940,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0714802,
-          35.99207
+          -79.07148,
+          35.9920701
         ]
       }
     },
@@ -4660,7 +4956,7 @@
         "type": "Point",
         "coordinates": [
           -79.059597,
-          35.9665111
+          35.9665112
         ]
       }
     },
@@ -4674,8 +4970,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0557399,
-          35.9325399
+          -79.05574,
+          35.93254
         ]
       }
     },
@@ -4706,21 +5002,6 @@
         "coordinates": [
           -79.0550015,
           35.9116816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Mason Farm Rd at Ambulatory Care Center",
-        "tag": "masoambu_n",
-        "stopId": "3221"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.0543502,
-          35.9020742
         ]
       }
     },
@@ -4961,6 +5242,81 @@
         "coordinates": [
           -79.0714994,
           35.9104719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main Street at IFC",
+        "tag": "mainifc",
+        "stopId": "3717"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0738627,
+          35.9101522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jones Ferry Rd at Main St",
+        "tag": "jonemain",
+        "stopId": "3716"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0754699,
+          35.909916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jones Ferry at OWASA",
+        "tag": "joneowas",
+        "stopId": "3718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0797879,
+          35.908245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jones Ferry Rd at Alabama Ave",
+        "tag": "jonealab",
+        "stopId": "3631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.084473,
+          35.9064556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "NC 54 East at Canterbury Apts",
+        "tag": "nc54cant",
+        "stopId": "3457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.077003,
+          35.902496
         ]
       }
     },
@@ -5267,6 +5623,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Highland Hills",
+        "tag": "highhill",
+        "stopId": "3654"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0859099,
+          35.8936499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Smith Level Rd at BPW Club",
+        "tag": "smitbpw",
+        "stopId": "3661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.07652,
+          35.8952499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Rock Haven Rd at Smith Level Rd",
         "tag": "rocksmit",
         "stopId": "3173"
@@ -5276,6 +5662,575 @@
         "coordinates": [
           -79.0800487,
           35.8918899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Estes Park Apts - Departure",
+        "tag": "estepark",
+        "stopId": "3270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0710058,
+          35.9216277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr at Estes Dr",
+        "tag": "villeste",
+        "stopId": "3405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.071114,
+          35.9227938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr at Oakland Dr",
+        "tag": "villoakl",
+        "stopId": "3084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0696554,
+          35.9213553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr at Fernwood Ln",
+        "tag": "villfern",
+        "stopId": "3036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0673161,
+          35.9206862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr at Winding Creek",
+        "tag": "villwind",
+        "stopId": "3037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0658607,
+          35.9219268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Umstead Dr at Bolinwood Apts",
+        "tag": "umstboli_s",
+        "stopId": "3039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.065081,
+          35.922589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Umstead Dr at Umstead Park",
+        "tag": "umstpark_s",
+        "stopId": "3041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.062236,
+          35.9217293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Umstead Dr at Pritchard Ave Ext",
+        "tag": "umstprit_s",
+        "stopId": "3429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0606154,
+          35.9225187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Columbia at Longview",
+        "tag": "colulong_s",
+        "stopId": "4001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0598487,
+          35.9195381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N Columbia St at Town Hall",
+        "tag": "colutown",
+        "stopId": "3052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0579528,
+          35.9164704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Rd at Fetzer Gym",
+        "tag": "southfetz",
+        "stopId": "3359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.047717,
+          35.909646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh Rd at UNC Administration",
+        "tag": "raleuncadmin",
+        "stopId": "3386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.030233,
+          35.909352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh Rd at Hamilton Rd",
+        "tag": "ralehamilton",
+        "stopId": "3396"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0233094,
+          35.9078138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Exchange at Meadowmont",
+        "tag": "exchmead",
+        "stopId": "3353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0166175,
+          35.9036033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Franklin Trust Building",
+        "tag": "franktrust",
+        "stopId": "3352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0138352,
+          35.902431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Friday Center Park & Ride",
+        "tag": "fridaycent",
+        "stopId": "3588"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.012411,
+          35.9016469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Friday Center at Park & Ride Driveway",
+        "tag": "fridaydrive",
+        "stopId": "3358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0114944,
+          35.90059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Friday Center Drive at NC 54",
+        "tag": "friday54",
+        "stopId": "3609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0109961,
+          35.9010586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Meadowmont Lane at Village Crossing D",
+        "tag": "meadvillage",
+        "stopId": "3355"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.009137,
+          35.9049489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "W Barbee Chapel Rd at Meadowmont Village Circle",
+        "tag": "barbee",
+        "stopId": "3356"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0102227,
+          35.9060119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "W Barbee Chapel Rd at Weaver Mine Trail",
+        "tag": "barbweav",
+        "stopId": "3357"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0128872,
+          35.906063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "W Barbee Chapel Rd at Old Barn Ln",
+        "tag": "barbbarn",
+        "stopId": "3354"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0149478,
+          35.9070661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh Rd at Glen Lennox Shopping Ctr",
+        "tag": "raleighglen",
+        "stopId": "3387"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0247291,
+          35.9083578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh Rd at UNC Administration",
+        "tag": "raleighuncad",
+        "stopId": "3114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0290994,
+          35.909302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh Rd at Greenwood Rd",
+        "tag": "raleighgreen",
+        "stopId": "3106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.032464,
+          35.909951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Rd at Country Club Rd",
+        "tag": "soutcountry",
+        "stopId": "3431"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0427937,
+          35.9107917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Rd at Raleigh St",
+        "tag": "soutraleigh",
+        "stopId": "3398"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0463277,
+          35.9100827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Rd at Student Stores",
+        "tag": "southstores",
+        "stopId": "3360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.048259,
+          35.909505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Rd at Kenan Labs",
+        "tag": "soutkenan",
+        "stopId": "3215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0511101,
+          35.908704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "N Columbia St at Town Hall",
+        "tag": "ncoltown",
+        "stopId": "3416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0577201,
+          35.9164202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Umstead Dr at Pritchard Ave Ext",
+        "tag": "umstprit_n",
+        "stopId": "3089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0604186,
+          35.9226504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Umstead Dr at Umstead Park",
+        "tag": "umstpark_n",
+        "stopId": "3040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0623499,
+          35.92177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Umstead Dr at Bolinwood Apts",
+        "tag": "umstboli_n",
+        "stopId": "3039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0650389,
+          35.9226627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr at Winding Creek",
+        "tag": "villwind_n",
+        "stopId": "3038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0661269,
+          35.921691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr at Fernwood Ln",
+        "tag": "villfern_n",
+        "stopId": "3406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0673548,
+          35.9208863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr at Oakland Dr",
+        "tag": "villoakl_n",
+        "stopId": "3085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0693519,
+          35.9212426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Village Dr at Estes Dr",
+        "tag": "villeste_n",
+        "stopId": "3035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0708337,
+          35.9227038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Estes Park Apts - Arrival",
+        "tag": "estepark_a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0710964,
+          35.9215402
         ]
       }
     },
@@ -5544,8 +6499,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0587908,
-          35.8918094
+          -79.0587914,
+          35.8918091
         ]
       }
     },
@@ -5559,8 +6514,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0613477,
-          35.8850195
+          -79.0613474,
+          35.8850189
         ]
       }
     },
@@ -5574,8 +6529,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0656514,
-          35.8800993
+          -79.0656521,
+          35.880099
         ]
       }
     },
@@ -5831,6 +6786,785 @@
         "coordinates": [
           -79.0662277,
           35.9694599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "RR Lot",
+        "tag": "railrlot_d",
+        "stopId": "3058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0648985,
+          35.9305824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Airport Dr at Estes Dr Ext",
+        "tag": "airpesext_w",
+        "stopId": "3657"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0598229,
+          35.9330975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Airport Dr at Martin Luther King Jr Blvd",
+        "tag": "airpairp_w",
+        "stopId": "3241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0560717,
+          35.9321597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Martin Luther King Jr Blvd  at Barclay",
+        "tag": "mlkbbarc_w",
+        "stopId": "3242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0552219,
+          35.9307369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillsborough St at Martin Luther King Jr Blvd",
+        "tag": "hillsmlk",
+        "stopId": "3247"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0531073,
+          35.924956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillsborough St at Brookside Condos",
+        "tag": "hillsbroo",
+        "stopId": "3032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0517922,
+          35.9234263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillsborough St at Townhouse Apts",
+        "tag": "hillstown",
+        "stopId": "3031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0515638,
+          35.9197417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillsborough St at North St",
+        "tag": "hillsnort",
+        "stopId": "3107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0504369,
+          35.9177608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillsborough St at E Rosemary St",
+        "tag": "hillsrose",
+        "stopId": "3473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0496111,
+          35.9162341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh St at Spencer Hall",
+        "tag": "ralespen",
+        "stopId": "3252"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0487591,
+          35.9146892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh St at Mangum Hall",
+        "tag": "ralemang",
+        "stopId": "3029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0474462,
+          35.9123801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh St at Davis Library",
+        "tag": "raledavi",
+        "stopId": "3127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0468069,
+          35.9107535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stadium Dr at Stadium Gate #2",
+        "tag": "stadstad",
+        "stopId": "3216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.046629,
+          35.90805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stadium Dr at Ridge Rd",
+        "tag": "stadridg",
+        "stopId": "3163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0446987,
+          35.9067786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ridge Rd at Rams Head Center",
+        "tag": "ridgrams",
+        "stopId": "3628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0454679,
+          35.9053958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Manning Dr at Hibbard Dr",
+        "tag": "mannhibb_w",
+        "stopId": "3235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0490059,
+          35.90301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Manning Dr at UNC Hospitals",
+        "tag": "mannunch_e",
+        "stopId": "3239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0518598,
+          35.9035599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Health Sciences Library",
+        "tag": "scolheal",
+        "stopId": "3223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.05347,
+          35.9054099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "S Columbia St at Carrington Hall",
+        "tag": "scolcarr",
+        "stopId": "3222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0527803,
+          35.9069382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh St at Connor Hall",
+        "tag": "raleconn",
+        "stopId": "3381"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.046646,
+          35.9107382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh St at Lewis Hall",
+        "tag": "ralelewi",
+        "stopId": "3028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.047371,
+          35.912485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh St at Alderman Hall",
+        "tag": "ralealde",
+        "stopId": "3439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.048302,
+          35.914171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillsborough St at E Rosemary",
+        "tag": "hillrose",
+        "stopId": "3108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0498557,
+          35.9169145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hillsborough St at Bollingwood Dr",
+        "tag": "hillboll",
+        "stopId": "3248"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0517479,
+          35.9235809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Martin Luther King Jr Blvd  at Barclay",
+        "tag": "mlkbbarc_e",
+        "stopId": "3243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0548912,
+          35.9302738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Airport Dr at Martin Luther King Jr Blvd",
+        "tag": "airpairp_e",
+        "stopId": "3054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0563081,
+          35.9323201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Airport Dr at Estes Dr Ext",
+        "tag": "airpesext",
+        "stopId": "3656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0598043,
+          35.9334159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "F Parking Lot at Family Practice Bld",
+        "tag": "fparfami_d",
+        "stopId": "3232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.03824,
+          35.8993699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "F Parking Lot at Middle of Lot",
+        "tag": "fparmidd",
+        "stopId": "3231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0390169,
+          35.9002376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowles Dr at S11 Lot Driveway",
+        "tag": "bowlflotd_w",
+        "stopId": "3230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0408345,
+          35.9004621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowles Dr at Smith Center",
+        "tag": "bowlsmit_w",
+        "stopId": "3464"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0431197,
+          35.9003599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowles Dr at Hinton James Tennis Courts",
+        "tag": "bowlhint",
+        "stopId": "3227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.04392,
+          35.9016866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ridge Rd at Ehringhaus Hall - Departure",
+        "tag": "ridgehri",
+        "stopId": "3161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0442803,
+          35.9038789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ridge Rd at Stadium",
+        "tag": "ridgstad",
+        "stopId": "3162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.044831,
+          35.9061394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ridge Rd at Law School",
+        "tag": "ridgglaws",
+        "stopId": "3399"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0413905,
+          35.9092462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh St at Lewis Hall",
+        "tag": "raleilewi",
+        "stopId": "3028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0473892,
+          35.9124887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cameron Av at New East Hall",
+        "tag": "camenewe",
+        "stopId": "3425"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0499065,
+          35.9124612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cameron Ave at Columbia St",
+        "tag": "cameswai",
+        "stopId": "3426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0535399,
+          35.91108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Manning Dr at Hibbard Dr",
+        "tag": "mannhibb_e",
+        "stopId": "3236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.049054,
+          35.9028397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Manning Dr at Craige Parking Deck",
+        "tag": "manncrai",
+        "stopId": "3233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0464392,
+          35.9035402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowles Dr at Craige Dorm",
+        "tag": "bowlcrai",
+        "stopId": "3160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0444003,
+          35.9030117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowles Dr at Kenan-Flagler Lot",
+        "tag": "bowlkena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0440903,
+          35.9016808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowles Dr at Smith Center",
+        "tag": "bowlsmit_e",
+        "stopId": "3228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0431686,
+          35.9001814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Friday Center Park and Ride (UNC)",
+        "tag": "fripnr",
+        "stopId": "3588"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.012264,
+          35.90141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "McCauley at Whitehead Dorm",
+        "tag": "mccawhit",
+        "stopId": "3212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0536856,
+          35.9086467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mason Farm Rd at Ambulatory Care Ct",
+        "tag": "masamb",
+        "stopId": "3221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.054417,
+          35.902129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mason Farm Rd at Odum Village",
+        "tag": "masodu",
+        "stopId": "3436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0515064,
+          35.9014211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "East Dr at Jackson St",
+        "tag": "easjac",
+        "stopId": "3237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0507272,
+          35.9018664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Manning Dr and UNC Hospitals",
+        "tag": "manunc",
+        "stopId": "3239"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0518565,
+          35.9035528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Rd at Country Club Rd",
+        "tag": "soutcoun_e",
+        "stopId": "2709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0425495,
+          35.91065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Raleigh Rd at Greenwood Rd",
+        "tag": "ralegree_e",
+        "stopId": "2708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0316455,
+          35.9096188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Manning Dr at Hinton James",
+        "tag": "mannhint",
+        "stopId": "3590"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0429482,
+          35.902939
         ]
       }
     }

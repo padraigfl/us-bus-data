@@ -14,6 +14,25 @@
         -87.178505
       ],
       "stops": {
+        "Eastbound": [
+          "park_e",
+          "trist_e",
+          "seah_e",
+          "cros",
+          "holxp_e",
+          "mvis_e",
+          "boar_e",
+          "casi_e",
+          "side_e",
+          "holi_e",
+          "beac_e",
+          "spri_e",
+          "29av14_e",
+          "chur_e",
+          "aven21",
+          "regt_e",
+          "calleherm"
+        ],
         "Westbound": [
           "port_w",
           "seashore",
@@ -33,25 +52,6 @@
           "emer_w",
           "lfit",
           "trisv_w"
-        ],
-        "Eastbound": [
-          "park_e",
-          "trist_e",
-          "seah_e",
-          "cros",
-          "holxp_e",
-          "mvis_e",
-          "boar_e",
-          "casi_e",
-          "side_e",
-          "holi_e",
-          "beac_e",
-          "spri_e",
-          "29av14_e",
-          "chur_e",
-          "aven21",
-          "regt_e",
-          "calleherm"
         ]
       },
       "scheduledStops": {}

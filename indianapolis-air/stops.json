@@ -12,10 +12,10 @@
           "": true
         }
       },
-      "lon": "-86.2993629",
-      "title": "Employee Curb",
       "stopId": "0010",
+      "lon": "-86.2993629",
       "tag": "econcurb",
+      "title": "Employee Curb",
       "lat": "39.7141749"
     },
     "gtc_exit": {
@@ -30,10 +30,10 @@
           "": true
         }
       },
-      "lon": "-86.300244",
-      "title": "GTC Exit",
       "stopId": "0011",
+      "lon": "-86.300244",
       "tag": "gtc_exit",
+      "title": "GTC Exit",
       "lat": "39.714793"
     },
     "busshelt_10": {
@@ -42,10 +42,10 @@
           "": true
         }
       },
-      "lon": "-86.310229",
-      "title": "Bus Shelter 10",
       "stopId": "0012",
+      "lon": "-86.310229",
       "tag": "busshelt_10",
+      "title": "Bus Shelter 10",
       "lat": "39.7069189"
     },
     "busshelt_11": {
@@ -54,10 +54,10 @@
           "": true
         }
       },
-      "lon": "-86.3090431",
-      "title": "Bus Shelter 11",
       "stopId": "0013",
+      "lon": "-86.3090431",
       "tag": "busshelt_11",
+      "title": "Bus Shelter 11",
       "lat": "39.7078613"
     },
     "busshelt_12": {
@@ -66,10 +66,10 @@
           "": true
         }
       },
-      "lon": "-86.3076991",
-      "title": "Bus Shelter 12",
       "stopId": "0014",
+      "lon": "-86.3076991",
       "tag": "busshelt_12",
+      "title": "Bus Shelter 12",
       "lat": "39.7089183"
     },
     "busshelt_13": {
@@ -78,10 +78,10 @@
           "": true
         }
       },
-      "lon": "-86.3066359",
-      "title": "Bus Shelter 13",
       "stopId": "0015",
+      "lon": "-86.3066359",
       "tag": "busshelt_13",
+      "title": "Bus Shelter 13",
       "lat": "39.7097423"
     },
     "busshelt_14": {
@@ -93,11 +93,71 @@
           "": true
         }
       },
-      "lon": "-86.305607",
-      "title": "Bus Shelter 14",
       "stopId": "0016",
+      "lon": "-86.305607",
       "tag": "busshelt_14",
+      "title": "Bus Shelter 14",
       "lat": "39.7089389"
+    },
+    "busshelt_15": {
+      "routes": {
+        "4": {
+          "": true
+        },
+        "5": {
+          "": true
+        }
+      },
+      "stopId": "0017",
+      "lon": "-86.3066498",
+      "tag": "busshelt_15",
+      "title": "Bus Shelter 15",
+      "lat": "39.7081191"
+    },
+    "busshelt_16": {
+      "routes": {
+        "4": {
+          "": true
+        },
+        "5": {
+          "": true
+        }
+      },
+      "stopId": "0018",
+      "lon": "-86.3079964",
+      "tag": "busshelt_16",
+      "title": "Bus Shelter 16",
+      "lat": "39.7070608"
+    },
+    "busshelt_21": {
+      "routes": {
+        "4": {
+          "": true
+        },
+        "5": {
+          "": true
+        }
+      },
+      "stopId": "0023",
+      "lon": "-86.3068547",
+      "tag": "busshelt_21",
+      "title": "Bus Shelter 21",
+      "lat": "39.7061936"
+    },
+    "busshelt_22": {
+      "routes": {
+        "4": {
+          "": true
+        },
+        "5": {
+          "": true
+        }
+      },
+      "stopId": "0024",
+      "lon": "-86.3056716",
+      "tag": "busshelt_22",
+      "title": "Bus Shelter 22",
+      "lat": "39.7071502"
     },
     "gtc_entr": {
       "routes": {
@@ -111,35 +171,11 @@
           "": true
         }
       },
-      "lon": "-86.2978904",
-      "title": "GTC Entrance",
       "stopId": "0025",
+      "lon": "-86.2978905",
       "tag": "gtc_entr",
+      "title": "GTC Entrance",
       "lat": "39.7129526"
-    },
-    "busshelt_15": {
-      "routes": {
-        "5": {
-          "": true
-        }
-      },
-      "lon": "-86.3066495",
-      "title": "Bus Shelter 15",
-      "stopId": "0017",
-      "tag": "busshelt_15",
-      "lat": "39.7081187"
-    },
-    "busshelt_16": {
-      "routes": {
-        "5": {
-          "": true
-        }
-      },
-      "lon": "-86.3079965",
-      "title": "Bus Shelter 16",
-      "stopId": "0018",
-      "tag": "busshelt_16",
-      "lat": "39.7070608"
     },
     "busshelt_17": {
       "routes": {
@@ -147,10 +183,10 @@
           "": true
         }
       },
-      "lon": "-86.3091822",
-      "title": "Bus Shelter 17",
       "stopId": "0019",
+      "lon": "-86.3091822",
       "tag": "busshelt_17",
+      "title": "Bus Shelter 17",
       "lat": "39.7061219"
     },
     "busshelt_18": {
@@ -159,10 +195,10 @@
           "": true
         }
       },
-      "lon": "-86.3103756",
-      "title": "Bus Shelter 18",
       "stopId": "0020",
+      "lon": "-86.3103756",
       "tag": "busshelt_18",
+      "title": "Bus Shelter 18",
       "lat": "39.7051772"
     },
     "busshelt_19": {
@@ -171,10 +207,10 @@
           "": true
         }
       },
-      "lon": "-86.3088189",
-      "title": "Bus Shelter 19",
       "stopId": "0021",
+      "lon": "-86.3088189",
       "tag": "busshelt_19",
+      "title": "Bus Shelter 19",
       "lat": "39.7046835"
     },
     "busshelt_20": {
@@ -183,35 +219,11 @@
           "": true
         }
       },
-      "lon": "-86.3080423",
-      "title": "Bus Shelter 20",
       "stopId": "0022",
+      "lon": "-86.3080423",
       "tag": "busshelt_20",
+      "title": "Bus Shelter 20",
       "lat": "39.7052558"
-    },
-    "busshelt_21": {
-      "routes": {
-        "5": {
-          "": true
-        }
-      },
-      "lon": "-86.3068544",
-      "title": "Bus Shelter 21",
-      "stopId": "0023",
-      "tag": "busshelt_21",
-      "lat": "39.7061938"
-    },
-    "busshelt_22": {
-      "routes": {
-        "5": {
-          "": true
-        }
-      },
-      "lon": "-86.3056715",
-      "title": "Bus Shelter 22",
-      "stopId": "0024",
-      "tag": "busshelt_22",
-      "lat": "39.7071506"
     },
     "busshelt_01": {
       "routes": {
@@ -219,10 +231,10 @@
           "": true
         }
       },
-      "lon": "-86.305267",
-      "title": "Bus Shelter 1",
       "stopId": "0026",
+      "lon": "-86.305267",
       "tag": "busshelt_01",
+      "title": "Bus Shelter 1",
       "lat": "39.711038"
     },
     "busshelt_04": {
@@ -231,10 +243,10 @@
           "": true
         }
       },
-      "lon": "-86.3041257",
-      "title": "Bus Shelter 4",
       "stopId": "0027",
+      "lon": "-86.3041257",
       "tag": "busshelt_04",
+      "title": "Bus Shelter 4",
       "lat": "39.7117228"
     },
     "busshelt_03": {
@@ -243,10 +255,10 @@
           "": true
         }
       },
-      "lon": "-86.3030188",
-      "title": "Bus Shelter 3",
       "stopId": "0028",
+      "lon": "-86.3030188",
       "tag": "busshelt_03",
+      "title": "Bus Shelter 3",
       "lat": "39.7108858"
     },
     "busshelt_02": {
@@ -255,10 +267,10 @@
           "": true
         }
       },
-      "lon": "-86.3036076",
-      "title": "Bus Shelter 2",
       "stopId": "0029",
+      "lon": "-86.3036076",
       "tag": "busshelt_02",
+      "title": "Bus Shelter 2",
       "lat": "39.7101964"
     },
     "busshelt_09": {
@@ -267,10 +279,10 @@
           "": true
         }
       },
-      "lon": "-86.302778",
-      "title": "Bus Shelter 9",
       "stopId": "0030",
+      "lon": "-86.302778",
       "tag": "busshelt_09",
+      "title": "Bus Shelter 9",
       "lat": "39.709344"
     }
   },

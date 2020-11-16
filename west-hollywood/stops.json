@@ -6,10 +6,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.38058",
-      "title": "Gracie Allen/Cedars Sinai",
       "stopId": "313",
+      "lon": "-118.38058",
       "tag": "S62",
+      "title": "Gracie Allen/Cedars Sinai",
       "lat": "34.0752299",
       "scheduleRoutes": {
         "CLEB": {
@@ -58,10 +58,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.37945",
-      "title": "San Vicente/Beverly",
       "stopId": "101",
+      "lon": "-118.37945",
       "tag": "S1",
+      "title": "San Vicente/Beverly",
       "lat": "34.07694"
     },
     "S2": {
@@ -70,10 +70,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.3833199",
-      "title": "San Vicente/Melrose",
       "stopId": "102",
+      "lon": "-118.3833199",
       "tag": "S2",
+      "title": "San Vicente/Melrose",
       "lat": "34.0818699"
     },
     "S56": {
@@ -88,12 +88,50 @@
           "eastbound": true
         }
       },
-      "lon": "-118.38417",
-      "title": "820 San Vicente",
       "stopId": "307",
+      "lon": "-118.38417",
       "tag": "S56",
+      "title": "820 San Vicente",
       "lat": "34.0852699",
       "scheduleRoutes": {
+        "CLEB": {
+          "Eastbound": {
+            "FrSat": [
+              "09:05:00",
+              "09:35:00",
+              "10:09:00",
+              "10:39:00",
+              "11:17:00",
+              "11:48:00",
+              "12:23:00",
+              "12:54:00",
+              "13:24:00",
+              "13:50:00",
+              "14:22:00",
+              "14:55:00",
+              "15:34:00",
+              "16:05:00",
+              "16:36:00"
+            ],
+            "MoTuWeTh": [
+              "09:05:00",
+              "09:35:00",
+              "10:09:00",
+              "10:39:00",
+              "11:17:00",
+              "11:48:00",
+              "12:23:00",
+              "12:54:00",
+              "13:24:00",
+              "13:50:00",
+              "14:22:00",
+              "14:55:00",
+              "15:34:00",
+              "16:05:00",
+              "16:36:00"
+            ]
+          }
+        },
         "SNST": {
           "eastbound": {
             "FrSat": [
@@ -157,44 +195,6 @@
               "01:06:00"
             ]
           }
-        },
-        "CLEB": {
-          "Eastbound": {
-            "FrSat": [
-              "09:05:00",
-              "09:35:00",
-              "10:09:00",
-              "10:39:00",
-              "11:17:00",
-              "11:48:00",
-              "12:23:00",
-              "12:54:00",
-              "13:24:00",
-              "13:50:00",
-              "14:22:00",
-              "14:55:00",
-              "15:34:00",
-              "16:05:00",
-              "16:36:00"
-            ],
-            "MoTuWeTh": [
-              "09:05:00",
-              "09:35:00",
-              "10:09:00",
-              "10:39:00",
-              "11:17:00",
-              "11:48:00",
-              "12:23:00",
-              "12:54:00",
-              "13:24:00",
-              "13:50:00",
-              "14:22:00",
-              "14:55:00",
-              "15:34:00",
-              "16:05:00",
-              "16:36:00"
-            ]
-          }
         }
       }
     },
@@ -210,10 +210,10 @@
           "eastbound": true
         }
       },
-      "lon": "-118.38532",
-      "title": "San Vicente/Cynthia",
       "stopId": "109",
+      "lon": "-118.38532",
       "tag": "S3",
+      "title": "San Vicente/Cynthia",
       "lat": "34.0870899"
     },
     "S58": {
@@ -228,10 +228,10 @@
           "eastbound": true
         }
       },
-      "lon": "-118.38542",
-      "title": "San Vicente at Sunset",
       "stopId": "309",
+      "lon": "-118.38542",
       "tag": "S58",
+      "title": "San Vicente at Sunset",
       "lat": "34.09045"
     },
     "S59": {
@@ -243,10 +243,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.38306",
-      "title": "Holloway/Palm",
       "stopId": "310",
+      "lon": "-118.38306",
       "tag": "S59",
+      "title": "Holloway/Palm",
       "lat": "34.09061"
     },
     "S60": {
@@ -258,10 +258,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.383",
-      "title": "959 Palm",
       "stopId": "311",
+      "lon": "-118.383",
       "tag": "S60",
+      "title": "959 Palm",
       "lat": "34.0891199",
       "scheduleRoutes": {
         "CLEB": {
@@ -356,10 +356,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.3844",
-      "title": "Santa Monica/San Vicente",
       "stopId": "224",
+      "lon": "-118.3844",
       "tag": "S46",
+      "title": "Santa Monica/San Vicente",
       "lat": "34.0849599"
     },
     "S61": {
@@ -371,10 +371,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.38662",
-      "title": "Pavillions",
       "stopId": "312",
+      "lon": "-118.38662",
       "tag": "S61",
+      "title": "Pavillions",
       "lat": "34.0832799",
       "scheduleRoutes": {
         "CLEB": {
@@ -469,10 +469,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.3836299",
-      "title": "Santa Monica/San Vicente",
       "stopId": "407",
+      "lon": "-118.3836299",
       "tag": "S66",
+      "title": "Santa Monica/San Vicente",
       "lat": "34.08491",
       "scheduleRoutes": {
         "HHL": {
@@ -530,10 +530,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.37755",
-      "title": "838 N.W. Knoll",
       "stopId": "305",
+      "lon": "-118.37755",
       "tag": "S54",
+      "title": "838 N.W. Knoll",
       "lat": "34.0859999",
       "scheduleRoutes": {
         "CLEB": {
@@ -625,10 +625,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3793099",
-      "title": "Rugby/Westbourne",
       "stopId": "306",
+      "lon": "-118.3793099",
       "tag": "S55",
+      "title": "Rugby/Westbourne",
       "lat": "34.0868899"
     },
     "S67": {
@@ -643,10 +643,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.3794499",
-      "title": "Santa Monica/Westbourne",
       "stopId": "408",
+      "lon": "-118.3794499",
       "tag": "S67",
+      "title": "Santa Monica/Westbourne",
       "lat": "34.08754",
       "scheduleRoutes": {
         "HHL": {
@@ -707,10 +707,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.37608",
-      "title": "Santa Monica/La Cienega",
       "stopId": "409",
+      "lon": "-118.37608",
       "tag": "S68",
+      "title": "Santa Monica/La Cienega",
       "lat": "34.0893299",
       "scheduleRoutes": {
         "HHL": {
@@ -765,10 +765,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.37449",
-      "title": "Santa Monica/Croft",
       "stopId": "115",
+      "lon": "-118.37449",
       "tag": "S4",
+      "title": "Santa Monica/Croft",
       "lat": "34.0902899"
     },
     "S5": {
@@ -777,10 +777,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.37202",
-      "title": "Santa Monica/Kings Rd",
       "stopId": "116",
+      "lon": "-118.37202",
       "tag": "S5",
+      "title": "Santa Monica/Kings Rd",
       "lat": "34.09061"
     },
     "S6": {
@@ -789,10 +789,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.3718499",
-      "title": "Kings/Romaine",
       "stopId": "117",
+      "lon": "-118.3718499",
       "tag": "S6",
+      "title": "Kings/Romaine",
       "lat": "34.08909"
     },
     "S7": {
@@ -801,10 +801,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.37193",
-      "title": "801 N. Kings Rd.",
       "stopId": "118",
+      "lon": "-118.37193",
       "tag": "S7",
+      "title": "801 N. Kings Rd.",
       "lat": "34.0855999",
       "scheduleRoutes": {
         "CLEB": {
@@ -853,10 +853,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.37015",
-      "title": "Sweetzer/Willoughby",
       "stopId": "406",
+      "lon": "-118.37015",
       "tag": "S65",
+      "title": "Sweetzer/Willoughby",
       "lat": "34.0874399"
     },
     "S8": {
@@ -865,10 +865,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.3701799",
-      "title": "Sweetzer/Santa Monica",
       "stopId": "119",
+      "lon": "-118.3701799",
       "tag": "S8",
+      "title": "Sweetzer/Santa Monica",
       "lat": "34.0905699"
     },
     "S9": {
@@ -880,10 +880,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.3677899",
-      "title": "Santa Monica/La Jolla",
       "stopId": "120",
+      "lon": "-118.3677899",
       "tag": "S9",
+      "title": "Santa Monica/La Jolla",
       "lat": "34.09063"
     },
     "S10": {
@@ -892,10 +892,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.36584",
-      "title": "Crescent Heights/Norton",
       "stopId": "121",
+      "lon": "-118.36584",
       "tag": "S10",
+      "title": "Crescent Heights/Norton",
       "lat": "34.09165"
     },
     "S11": {
@@ -904,10 +904,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.36581",
-      "title": "Crescent Heights/Fountain",
       "stopId": "122",
+      "lon": "-118.36581",
       "tag": "S11",
+      "title": "Crescent Heights/Fountain",
       "lat": "34.09428"
     },
     "S12": {
@@ -916,10 +916,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.3642299",
-      "title": "Fountain/Laurel",
       "stopId": "123",
+      "lon": "-118.3642299",
       "tag": "S12",
+      "title": "Fountain/Laurel",
       "lat": "34.09437"
     },
     "S13": {
@@ -928,10 +928,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.3616999",
-      "title": "Fairfax/Fountain",
       "stopId": "124",
+      "lon": "-118.3616999",
       "tag": "S13",
+      "title": "Fairfax/Fountain",
       "lat": "34.0941999"
     },
     "S14": {
@@ -940,10 +940,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.3616199",
-      "title": "Fairfax/Norton",
       "stopId": "125",
+      "lon": "-118.3616199",
       "tag": "S14",
+      "title": "Fairfax/Norton",
       "lat": "34.09191"
     },
     "S15": {
@@ -952,10 +952,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.36089",
-      "title": "Santa Monica/Fairfax",
       "stopId": "126",
+      "lon": "-118.36089",
       "tag": "S15",
+      "title": "Santa Monica/Fairfax",
       "lat": "34.0907499",
       "scheduleRoutes": {
         "CLEB": {
@@ -1007,10 +1007,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.3575799",
-      "title": "Santa Monica/Spaulding",
       "stopId": "127",
+      "lon": "-118.3575799",
       "tag": "S16",
+      "title": "Santa Monica/Spaulding",
       "lat": "34.0906899"
     },
     "S69": {
@@ -1028,10 +1028,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.35443",
-      "title": "Santa Monica/Sierra Bonita",
       "stopId": "410",
+      "lon": "-118.35443",
       "tag": "S69",
+      "title": "Santa Monica/Sierra Bonita",
       "lat": "34.0906599",
       "scheduleRoutes": {
         "CLEB": {
@@ -1127,10 +1127,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.35361",
-      "title": "Willoughby/Gardner",
       "stopId": "302",
+      "lon": "-118.35361",
       "tag": "S51",
+      "title": "Willoughby/Gardner",
       "lat": "34.08706"
     },
     "S52": {
@@ -1142,10 +1142,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.35526",
-      "title": "Curson/Romaine",
       "stopId": "303",
+      "lon": "-118.35526",
       "tag": "S52",
+      "title": "Curson/Romaine",
       "lat": "34.089",
       "scheduleRoutes": {
         "CLWB": {
@@ -1199,10 +1199,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.35526",
-      "title": "Curson/Santa Monica",
       "stopId": "304",
+      "lon": "-118.35526",
       "tag": "S53",
+      "title": "Curson/Santa Monica",
       "lat": "34.09071"
     },
     "S17": {
@@ -1211,10 +1211,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.3549",
-      "title": "Curson/Norton",
       "stopId": "132",
+      "lon": "-118.3549",
       "tag": "S17",
+      "title": "Curson/Norton",
       "lat": "34.09162"
     },
     "S18": {
@@ -1223,10 +1223,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.3548899",
-      "title": "Curson/Lexington",
       "stopId": "133",
+      "lon": "-118.3548899",
       "tag": "S18",
+      "title": "Curson/Lexington",
       "lat": "34.09246"
     },
     "S19": {
@@ -1235,10 +1235,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.35277",
-      "title": "Gardner/Fountain",
       "stopId": "134",
+      "lon": "-118.35277",
       "tag": "S19",
+      "title": "Gardner/Fountain",
       "lat": "34.09429"
     },
     "S20": {
@@ -1247,10 +1247,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.35193",
-      "title": "Fountain/Vista",
       "stopId": "135",
+      "lon": "-118.35193",
       "tag": "S20",
+      "title": "Fountain/Vista",
       "lat": "34.09431"
     },
     "S21": {
@@ -1259,10 +1259,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.35019",
-      "title": "Plummer Park/Fuller",
       "stopId": "136",
+      "lon": "-118.35019",
       "tag": "S21",
+      "title": "Plummer Park/Fuller",
       "lat": "34.0928199",
       "scheduleRoutes": {
         "CLEB": {
@@ -1317,10 +1317,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.3495399",
-      "title": "Santa Monica/Fuller",
       "stopId": "137",
+      "lon": "-118.3495399",
       "tag": "S22",
+      "title": "Santa Monica/Fuller",
       "lat": "34.09065",
       "scheduleRoutes": {
         "HHL": {
@@ -1378,10 +1378,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.34616",
-      "title": "Formosa/Santa Monica",
       "stopId": "138",
+      "lon": "-118.34616",
       "tag": "S23",
+      "title": "Formosa/Santa Monica",
       "lat": "34.09108"
     },
     "S50_ar": {
@@ -1393,10 +1393,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3442",
-      "title": "La Brea/Fountain",
       "stopId": "300",
+      "lon": "-118.3442",
       "tag": "S50_ar",
+      "title": "La Brea/Fountain",
       "lat": "34.0941499",
       "scheduleRoutes": {
         "CLEB": {
@@ -1458,10 +1458,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3442",
-      "title": "La Brea/Fountain",
       "stopId": "300",
+      "lon": "-118.3442",
       "tag": "S50",
+      "title": "La Brea/Fountain",
       "lat": "34.0941499",
       "scheduleRoutes": {
         "CLWB": {
@@ -1564,12 +1564,58 @@
           "Westbound": true
         }
       },
-      "lon": "-118.3445699",
-      "title": "Santa Monica/La Brea",
       "stopId": "602",
+      "lon": "-118.3445699",
       "tag": "S79",
+      "title": "Santa Monica/La Brea",
       "lat": "34.0908499",
       "scheduleRoutes": {
+        "HHL": {
+          "westbound": {
+            "FrSat": [
+              "07:09:00",
+              "07:19:00",
+              "07:33:00",
+              "07:42:00",
+              "08:01:00",
+              "08:10:00",
+              "08:23:00",
+              "08:40:00",
+              "09:09:00",
+              "17:27:00",
+              "17:49:00",
+              "18:01:00",
+              "18:25:00",
+              "18:38:00",
+              "18:47:00",
+              "18:58:00",
+              "19:09:00",
+              "19:22:00",
+              "19:37:00"
+            ],
+            "MoTuWeTh": [
+              "07:09:00",
+              "07:19:00",
+              "07:33:00",
+              "07:42:00",
+              "08:01:00",
+              "08:10:00",
+              "08:23:00",
+              "08:40:00",
+              "09:09:00",
+              "17:27:00",
+              "17:49:00",
+              "18:01:00",
+              "18:25:00",
+              "18:38:00",
+              "18:47:00",
+              "18:58:00",
+              "19:09:00",
+              "19:22:00",
+              "19:37:00"
+            ]
+          }
+        },
         "PU": {
           "Westbound": {
             "FrSat": [
@@ -1673,52 +1719,6 @@
               "21:33:00"
             ]
           }
-        },
-        "HHL": {
-          "westbound": {
-            "FrSat": [
-              "07:09:00",
-              "07:19:00",
-              "07:33:00",
-              "07:42:00",
-              "08:01:00",
-              "08:10:00",
-              "08:23:00",
-              "08:40:00",
-              "09:09:00",
-              "17:27:00",
-              "17:49:00",
-              "18:01:00",
-              "18:25:00",
-              "18:38:00",
-              "18:47:00",
-              "18:58:00",
-              "19:09:00",
-              "19:22:00",
-              "19:37:00"
-            ],
-            "MoTuWeTh": [
-              "07:09:00",
-              "07:19:00",
-              "07:33:00",
-              "07:42:00",
-              "08:01:00",
-              "08:10:00",
-              "08:23:00",
-              "08:40:00",
-              "09:09:00",
-              "17:27:00",
-              "17:49:00",
-              "18:01:00",
-              "18:25:00",
-              "18:38:00",
-              "18:47:00",
-              "18:58:00",
-              "19:09:00",
-              "19:22:00",
-              "19:37:00"
-            ]
-          }
         }
       }
     },
@@ -1728,10 +1728,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3465599",
-      "title": "Santa Monica/Formosa",
       "stopId": "201",
+      "lon": "-118.3465599",
       "tag": "S24",
+      "title": "Santa Monica/Formosa",
       "lat": "34.0908599"
     },
     "S25": {
@@ -1740,10 +1740,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3503999",
-      "title": "Santa Monica/Fuller",
       "stopId": "202",
+      "lon": "-118.3503999",
       "tag": "S25",
+      "title": "Santa Monica/Fuller",
       "lat": "34.0908899"
     },
     "S26": {
@@ -1752,10 +1752,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.35176",
-      "title": "Vista/Lexington",
       "stopId": "203",
+      "lon": "-118.35176",
       "tag": "S26",
+      "title": "Vista/Lexington",
       "lat": "34.0925299",
       "scheduleRoutes": {
         "CLWB": {
@@ -1806,10 +1806,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3529299",
-      "title": "Gardner/Fountain",
       "stopId": "204",
+      "lon": "-118.3529299",
       "tag": "S27",
+      "title": "Gardner/Fountain",
       "lat": "34.0942899"
     },
     "S28": {
@@ -1818,10 +1818,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3529399",
-      "title": "Gardner/Lexington",
       "stopId": "205",
+      "lon": "-118.3529399",
       "tag": "S28",
+      "title": "Gardner/Lexington",
       "lat": "34.09291"
     },
     "S29": {
@@ -1830,10 +1830,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3548399",
-      "title": "Lexington/Curson",
       "stopId": "206",
+      "lon": "-118.3548399",
       "tag": "S29",
+      "title": "Lexington/Curson",
       "lat": "34.09265"
     },
     "S30": {
@@ -1842,10 +1842,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3551499",
-      "title": "Curson/Norton",
       "stopId": "207",
+      "lon": "-118.3551499",
       "tag": "S30",
+      "title": "Curson/Norton",
       "lat": "34.0915899"
     },
     "S31": {
@@ -1857,10 +1857,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.3571099",
-      "title": "Santa Monica/Spaulding",
       "stopId": "208",
+      "lon": "-118.3571099",
       "tag": "S31",
+      "title": "Santa Monica/Spaulding",
       "lat": "34.0909299"
     },
     "S32": {
@@ -1872,10 +1872,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.3583599",
-      "title": "Santa Monica/Genessee",
       "stopId": "209",
+      "lon": "-118.3583599",
       "tag": "S32",
+      "title": "Santa Monica/Genessee",
       "lat": "34.0909499"
     },
     "S33": {
@@ -1884,10 +1884,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3590399",
-      "title": "Santa Monica/Ogden",
       "stopId": "210",
+      "lon": "-118.3590399",
       "tag": "S33",
+      "title": "Santa Monica/Ogden",
       "lat": "34.09093"
     },
     "S34": {
@@ -1902,10 +1902,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.36133",
-      "title": "Santa Monica/Fairfax",
       "stopId": "211",
+      "lon": "-118.36133",
       "tag": "S34",
+      "title": "Santa Monica/Fairfax",
       "lat": "34.0909199",
       "scheduleRoutes": {
         "CLWB": {
@@ -2000,10 +2000,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.36131",
-      "title": "1222 N. Fairfax",
       "stopId": "212",
+      "lon": "-118.36131",
       "tag": "S35",
+      "title": "1222 N. Fairfax",
       "lat": "34.09226"
     },
     "S36": {
@@ -2012,10 +2012,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.36274",
-      "title": "Fountain/Hayworth",
       "stopId": "213",
+      "lon": "-118.36274",
       "tag": "S36",
+      "title": "Fountain/Hayworth",
       "lat": "34.0945299"
     },
     "S37": {
@@ -2024,10 +2024,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3660399",
-      "title": "Crescent Heights/Fountain",
       "stopId": "214",
+      "lon": "-118.3660399",
       "tag": "S37",
+      "title": "Crescent Heights/Fountain",
       "lat": "34.0941399"
     },
     "S38": {
@@ -2036,10 +2036,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3661799",
-      "title": "Crescent Heights/Santa Monica",
       "stopId": "215",
+      "lon": "-118.3661799",
       "tag": "S38",
+      "title": "Crescent Heights/Santa Monica",
       "lat": "34.09135"
     },
     "S63": {
@@ -2051,10 +2051,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.36787",
-      "title": "Santa Monica/La Jolla",
       "stopId": "400",
+      "lon": "-118.36787",
       "tag": "S63",
+      "title": "Santa Monica/La Jolla",
       "lat": "34.0908799",
       "scheduleRoutes": {
         "PU": {
@@ -2169,10 +2169,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3703899",
-      "title": "Sweetzer/Santa Monica",
       "stopId": "401",
+      "lon": "-118.3703899",
       "tag": "S64",
+      "title": "Sweetzer/Santa Monica",
       "lat": "34.09049"
     },
     "S39": {
@@ -2181,10 +2181,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3703999",
-      "title": "Sweetzer/Willoughby",
       "stopId": "216",
+      "lon": "-118.3703999",
       "tag": "S39",
+      "title": "Sweetzer/Willoughby",
       "lat": "34.08742"
     },
     "S40": {
@@ -2193,10 +2193,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.37162",
-      "title": "800 N. Kings Road",
       "stopId": "217",
+      "lon": "-118.37162",
       "tag": "S40",
+      "title": "800 N. Kings Road",
       "lat": "34.0855999",
       "scheduleRoutes": {
         "CLWB": {
@@ -2247,10 +2247,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.37169",
-      "title": "Kings Rd./Romaine",
       "stopId": "218",
+      "lon": "-118.37169",
       "tag": "S41",
+      "title": "Kings Rd./Romaine",
       "lat": "34.0891199"
     },
     "S42": {
@@ -2259,10 +2259,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.37168",
-      "title": "Kings Rd./Santa Monica Blvd.",
       "stopId": "219",
+      "lon": "-118.37168",
       "tag": "S42",
+      "title": "Kings Rd./Santa Monica Blvd.",
       "lat": "34.09054"
     },
     "S43": {
@@ -2274,10 +2274,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.3720499",
-      "title": "Santa Monica/Kings Rd",
       "stopId": "220",
+      "lon": "-118.3720499",
       "tag": "S43",
+      "title": "Santa Monica/Kings Rd",
       "lat": "34.0907799"
     },
     "S70": {
@@ -2292,10 +2292,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.3760399",
-      "title": "Santa Monica/La Cienega",
       "stopId": "411",
+      "lon": "-118.3760399",
       "tag": "S70",
+      "title": "Santa Monica/La Cienega",
       "lat": "34.08988",
       "scheduleRoutes": {
         "HHL": {
@@ -2353,10 +2353,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.3779999",
-      "title": "Santa Monica/West Knoll",
       "stopId": "222",
+      "lon": "-118.3779999",
       "tag": "S44",
+      "title": "Santa Monica/West Knoll",
       "lat": "34.08878"
     },
     "S45": {
@@ -2368,10 +2368,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.3818399",
-      "title": "Santa Monica/Hancock",
       "stopId": "223",
+      "lon": "-118.3818399",
       "tag": "S45",
+      "title": "Santa Monica/Hancock",
       "lat": "34.0867"
     },
     "S57": {
@@ -2380,10 +2380,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3855499",
-      "title": "San Vicente/Cynthia",
       "stopId": "308",
+      "lon": "-118.3855499",
       "tag": "S57",
+      "title": "San Vicente/Cynthia",
       "lat": "34.0870699"
     },
     "S47": {
@@ -2395,10 +2395,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3839199",
-      "title": "San Vicente/Santa Monica",
       "stopId": "225",
+      "lon": "-118.3839199",
       "tag": "S47",
+      "title": "San Vicente/Santa Monica",
       "lat": "34.0844499",
       "scheduleRoutes": {
         "HHL": {
@@ -2444,10 +2444,10 @@
           "eastbound": true
         }
       },
-      "lon": "-118.38365",
-      "title": "Library",
       "stopId": "226",
+      "lon": "-118.38365",
       "tag": "S48",
+      "title": "Library",
       "lat": "34.0820499",
       "scheduleRoutes": {
         "CLWB": {
@@ -2542,10 +2542,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.37968",
-      "title": "San Vicente/Beverly",
       "stopId": "227",
+      "lon": "-118.37968",
       "tag": "S49",
+      "title": "San Vicente/Beverly",
       "lat": "34.07686"
     },
     "S62_ar": {
@@ -2554,10 +2554,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.38058",
-      "title": "Gracie Allen/Cedars Sinai",
       "stopId": "313",
+      "lon": "-118.38058",
       "tag": "S62_ar",
+      "title": "Gracie Allen/Cedars Sinai",
       "lat": "34.0752299",
       "scheduleRoutes": {
         "CLWB": {
@@ -2611,10 +2611,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.37044",
-      "title": "Santa Monica/Sweetzer",
       "stopId": "523",
+      "lon": "-118.37044",
       "tag": "S76",
+      "title": "Santa Monica/Sweetzer",
       "lat": "34.0905899",
       "scheduleRoutes": {
         "HHL": {
@@ -2672,12 +2672,56 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.36559",
-      "title": "Santa Monica/Crescent Heights",
       "stopId": "525",
+      "lon": "-118.36559",
       "tag": "S77",
+      "title": "Santa Monica/Crescent Heights",
       "lat": "34.0906499",
       "scheduleRoutes": {
+        "HHL": {
+          "eastbound": {
+            "FrSat": [
+              "07:09:00",
+              "07:19:00",
+              "07:36:00",
+              "07:47:00",
+              "07:59:00",
+              "08:14:00",
+              "08:31:00",
+              "08:44:00",
+              "17:28:00",
+              "17:53:00",
+              "18:07:00",
+              "18:17:00",
+              "18:28:00",
+              "18:39:00",
+              "18:52:00",
+              "19:07:00",
+              "19:22:00",
+              "19:37:00"
+            ],
+            "MoTuWeTh": [
+              "07:09:00",
+              "07:19:00",
+              "07:36:00",
+              "07:47:00",
+              "07:59:00",
+              "08:14:00",
+              "08:31:00",
+              "08:44:00",
+              "17:28:00",
+              "17:53:00",
+              "18:07:00",
+              "18:17:00",
+              "18:28:00",
+              "18:39:00",
+              "18:52:00",
+              "19:07:00",
+              "19:22:00",
+              "19:37:00"
+            ]
+          }
+        },
         "PU": {
           "Eastbound": {
             "FrSat": [
@@ -2781,50 +2825,6 @@
               "21:50:00"
             ]
           }
-        },
-        "HHL": {
-          "eastbound": {
-            "FrSat": [
-              "07:09:00",
-              "07:19:00",
-              "07:36:00",
-              "07:47:00",
-              "07:59:00",
-              "08:14:00",
-              "08:31:00",
-              "08:44:00",
-              "17:28:00",
-              "17:53:00",
-              "18:07:00",
-              "18:17:00",
-              "18:28:00",
-              "18:39:00",
-              "18:52:00",
-              "19:07:00",
-              "19:22:00",
-              "19:37:00"
-            ],
-            "MoTuWeTh": [
-              "07:09:00",
-              "07:19:00",
-              "07:36:00",
-              "07:47:00",
-              "07:59:00",
-              "08:14:00",
-              "08:31:00",
-              "08:44:00",
-              "17:28:00",
-              "17:53:00",
-              "18:07:00",
-              "18:17:00",
-              "18:28:00",
-              "18:39:00",
-              "18:52:00",
-              "19:07:00",
-              "19:22:00",
-              "19:37:00"
-            ]
-          }
         }
       }
     },
@@ -2837,10 +2837,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.36171",
-      "title": "Santa Monica/Fairfax",
       "stopId": "526",
+      "lon": "-118.36171",
       "tag": "S78",
+      "title": "Santa Monica/Fairfax",
       "lat": "34.0906999",
       "scheduleRoutes": {
         "HHL": {
@@ -2895,10 +2895,10 @@
           "eastbound": true
         }
       },
-      "lon": "-118.3443",
-      "title": "Santa Monica/La Brea",
       "stopId": "609",
+      "lon": "-118.3443",
       "tag": "S86",
+      "title": "Santa Monica/La Brea",
       "lat": "34.0905899",
       "scheduleRoutes": {
         "HHL": {
@@ -2953,10 +2953,10 @@
           "eastbound": true
         }
       },
-      "lon": "-118.34393",
-      "title": "La Brea/Fountain",
       "stopId": "412",
+      "lon": "-118.34393",
       "tag": "S71",
+      "title": "La Brea/Fountain",
       "lat": "34.0941499",
       "scheduleRoutes": {
         "HHL": {
@@ -3011,10 +3011,10 @@
           "eastbound": true
         }
       },
-      "lon": "-118.33882",
-      "title": "Hollywood/Highland",
       "stopId": "603",
+      "lon": "-118.33882",
       "tag": "S80_ar",
+      "title": "Hollywood/Highland",
       "lat": "34.1011699",
       "scheduleRoutes": {
         "HHL": {
@@ -3069,10 +3069,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.33882",
-      "title": "Hollywood/Highland",
       "stopId": "603",
+      "lon": "-118.33882",
       "tag": "S80",
+      "title": "Hollywood/Highland",
       "lat": "34.1011699",
       "scheduleRoutes": {
         "HHL": {
@@ -3134,10 +3134,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.35357",
-      "title": "Santa Monica/Gardner",
       "stopId": "503",
+      "lon": "-118.35357",
       "tag": "S72",
+      "title": "Santa Monica/Gardner",
       "lat": "34.0909099",
       "scheduleRoutes": {
         "HHL": {
@@ -3197,10 +3197,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.36575",
-      "title": "Santa Monica/Crescent Heights",
       "stopId": "507",
+      "lon": "-118.36575",
       "tag": "S73",
+      "title": "Santa Monica/Crescent Heights",
       "lat": "34.0909099",
       "scheduleRoutes": {
         "HHL": {
@@ -3258,10 +3258,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.37062",
-      "title": "Santa Monica/Sweetzer",
       "stopId": "509",
+      "lon": "-118.37062",
       "tag": "S74",
+      "title": "Santa Monica/Sweetzer",
       "lat": "34.0908499",
       "scheduleRoutes": {
         "HHL": {
@@ -3319,10 +3319,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.38005",
-      "title": "Santa Monica/Westbourne",
       "stopId": "513",
+      "lon": "-118.38005",
       "tag": "S75",
+      "title": "Santa Monica/Westbourne",
       "lat": "34.0877299",
       "scheduleRoutes": {
         "HHL": {
@@ -3377,10 +3377,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.38365",
-      "title": "Library",
       "stopId": "226",
+      "lon": "-118.38365",
       "tag": "S48_ar",
+      "title": "Library",
       "lat": "34.0820499",
       "scheduleRoutes": {
         "HHL": {
@@ -3431,10 +3431,10 @@
     },
     "S34_ar": {
       "routes": {},
-      "lon": "-118.36133",
-      "title": "Santa Monica/Fairfax",
       "stopId": "211",
+      "lon": "-118.36133",
       "tag": "S34_ar",
+      "title": "Santa Monica/Fairfax",
       "lat": "34.0909199",
       "scheduleRoutes": {
         "HHL": {
@@ -3455,10 +3455,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.38651",
-      "title": "Santa Monica/La Peer",
       "stopId": "604",
+      "lon": "-118.38651",
       "tag": "S81",
+      "title": "Santa Monica/La Peer",
       "lat": "34.0831199",
       "scheduleRoutes": {
         "PU": {
@@ -3573,10 +3573,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.38107",
-      "title": "Santa Monica/Hancock",
       "stopId": "605",
+      "lon": "-118.38107",
       "tag": "S82",
+      "title": "Santa Monica/Hancock",
       "lat": "34.08666"
     },
     "S83": {
@@ -3585,10 +3585,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.37326",
-      "title": "Santa Monica/Orlando",
       "stopId": "606",
+      "lon": "-118.37326",
       "tag": "S83",
+      "title": "Santa Monica/Orlando",
       "lat": "34.09059"
     },
     "S84": {
@@ -3597,10 +3597,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.35214",
-      "title": "Santa Monica/Vista",
       "stopId": "607",
+      "lon": "-118.35214",
       "tag": "S84",
+      "title": "Santa Monica/Vista",
       "lat": "34.09064"
     },
     "S85": {
@@ -3609,10 +3609,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.3464",
-      "title": "Santa Monica/Formosa",
       "stopId": "608",
+      "lon": "-118.3464",
       "tag": "S85",
+      "title": "Santa Monica/Formosa",
       "lat": "34.09061"
     },
     "S86_ar": {
@@ -3621,10 +3621,10 @@
           "Eastbound": true
         }
       },
-      "lon": "-118.3443",
-      "title": "Santa Monica/La Brea",
       "stopId": "609",
+      "lon": "-118.3443",
       "tag": "S86_ar",
+      "title": "Santa Monica/La Brea",
       "lat": "34.0905899",
       "scheduleRoutes": {
         "PU": {
@@ -3739,10 +3739,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.3493499",
-      "title": "Santa Monica/Greenacre",
       "stopId": "610",
+      "lon": "-118.3493499",
       "tag": "S87",
+      "title": "Santa Monica/Greenacre",
       "lat": "34.09078"
     },
     "S61_ar": {
@@ -3751,10 +3751,10 @@
           "Westbound": true
         }
       },
-      "lon": "-118.38662",
-      "title": "Pavillions",
       "stopId": "312",
+      "lon": "-118.38662",
       "tag": "S61_ar",
+      "title": "Pavillions",
       "lat": "34.0832799",
       "scheduleRoutes": {
         "PU": {
@@ -3869,10 +3869,10 @@
           "eastbound": true
         }
       },
-      "lon": "-118.38292",
-      "title": "Sunset/Horn",
       "stopId": "816",
+      "lon": "-118.38292",
       "tag": "SUN17",
+      "title": "Sunset/Horn",
       "lat": "34.09082"
     },
     "SUN18": {
@@ -3881,10 +3881,10 @@
           "eastbound": true
         }
       },
-      "lon": "-118.3796499",
-      "title": "Sunset/Sunset Plaza",
       "stopId": "817",
+      "lon": "-118.3796499",
       "tag": "SUN18",
+      "title": "Sunset/Sunset Plaza",
       "lat": "34.09218"
     },
     "SUN19": {
@@ -3893,10 +3893,10 @@
           "eastbound": true
         }
       },
-      "lon": "-118.37796",
-      "title": "Sunset/Alta Loma",
       "stopId": "818",
+      "lon": "-118.37796",
       "tag": "SUN19",
+      "title": "Sunset/Alta Loma",
       "lat": "34.0931799",
       "scheduleRoutes": {
         "SNST": {
@@ -3971,10 +3971,10 @@
           "eastbound": true
         }
       },
-      "lon": "-118.3764799",
-      "title": "Sunset/La Cienega",
       "stopId": "819",
+      "lon": "-118.3764799",
       "tag": "SUN20",
+      "title": "Sunset/La Cienega",
       "lat": "34.09415"
     },
     "SUN21": {
@@ -3983,10 +3983,10 @@
           "eastbound": true
         }
       },
-      "lon": "-118.3727899",
-      "title": "Sunset/Kings Rd.",
       "stopId": "820",
+      "lon": "-118.3727899",
       "tag": "SUN21",
+      "title": "Sunset/Kings Rd.",
       "lat": "34.09509"
     },
     "SUN22": {
@@ -3995,10 +3995,10 @@
           "eastbound": true
         }
       },
-      "lon": "-118.3704",
-      "title": "Sunset/Sweetzer",
       "stopId": "821",
+      "lon": "-118.3704",
       "tag": "SUN22",
+      "title": "Sunset/Sweetzer",
       "lat": "34.09637"
     },
     "SUN23": {
@@ -4007,10 +4007,10 @@
           "eastbound": true
         }
       },
-      "lon": "-118.3660399",
-      "title": "Crescent Heights/Sunset",
       "stopId": "822",
+      "lon": "-118.3660399",
       "tag": "SUN23",
+      "title": "Crescent Heights/Sunset",
       "lat": "34.0970399"
     },
     "S77_ar": {
@@ -4019,10 +4019,10 @@
           "eastbound": true
         }
       },
-      "lon": "-118.36559",
-      "title": "Santa Monica/Crescent Heights",
       "stopId": "525",
+      "lon": "-118.36559",
       "tag": "S77_ar",
+      "title": "Santa Monica/Crescent Heights",
       "lat": "34.0906499",
       "scheduleRoutes": {
         "SNST": {
@@ -4097,10 +4097,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.36132",
-      "title": "Fairfax/Santa Monica Blvd.",
       "stopId": "824",
+      "lon": "-118.36132",
       "tag": "SUN25",
+      "title": "Fairfax/Santa Monica Blvd.",
       "lat": "34.0911099",
       "scheduleRoutes": {
         "SNST": {
@@ -4175,10 +4175,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.36138",
-      "title": "Fairfax/Fountain",
       "stopId": "800",
+      "lon": "-118.36138",
       "tag": "SUN1",
+      "title": "Fairfax/Fountain",
       "lat": "34.09475"
     },
     "SUN2": {
@@ -4187,10 +4187,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.36187",
-      "title": "Sunset/Fairfax",
       "stopId": "801",
+      "lon": "-118.36187",
       "tag": "SUN2",
+      "title": "Sunset/Fairfax",
       "lat": "34.0981799"
     },
     "SUN3": {
@@ -4199,10 +4199,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3654799",
-      "title": "Sunset/Crescent Heights",
       "stopId": "802",
+      "lon": "-118.3654799",
       "tag": "SUN3",
+      "title": "Sunset/Crescent Heights",
       "lat": "34.0981399"
     },
     "SUN4": {
@@ -4211,10 +4211,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3689699",
-      "title": "Sunset/Harper",
       "stopId": "803",
+      "lon": "-118.3689699",
       "tag": "SUN4",
+      "title": "Sunset/Harper",
       "lat": "34.09736"
     },
     "SUN5": {
@@ -4223,10 +4223,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3708299",
-      "title": "Sunset/Sweetzer",
       "stopId": "804",
+      "lon": "-118.3708299",
       "tag": "SUN5",
+      "title": "Sunset/Sweetzer",
       "lat": "34.09648"
     },
     "SUN6": {
@@ -4235,10 +4235,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.37259",
-      "title": "Sunset/Kings Rd.",
       "stopId": "805",
+      "lon": "-118.37259",
       "tag": "SUN6",
+      "title": "Sunset/Kings Rd.",
       "lat": "34.0954199",
       "scheduleRoutes": {
         "SNST": {
@@ -4313,10 +4313,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3768399",
-      "title": "Sunset/Miller",
       "stopId": "806",
+      "lon": "-118.3768399",
       "tag": "SUN7",
+      "title": "Sunset/Miller",
       "lat": "34.09424"
     },
     "SUN8": {
@@ -4325,10 +4325,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3795199",
-      "title": "Sunset/Sunset Plaza",
       "stopId": "807",
+      "lon": "-118.3795199",
       "tag": "SUN8",
+      "title": "Sunset/Sunset Plaza",
       "lat": "34.09254"
     },
     "SUN9": {
@@ -4337,10 +4337,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.38322",
-      "title": "Sunset/Horn",
       "stopId": "808",
+      "lon": "-118.38322",
       "tag": "SUN9",
+      "title": "Sunset/Horn",
       "lat": "34.0909199"
     },
     "SUN10": {
@@ -4349,10 +4349,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3853699",
-      "title": "Sunset/Clark",
       "stopId": "809",
+      "lon": "-118.3853699",
       "tag": "SUN10",
+      "title": "Sunset/Clark",
       "lat": "34.0907699"
     },
     "SUN11": {
@@ -4361,10 +4361,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.3874599",
-      "title": "Sunset/Hammond",
       "stopId": "810",
+      "lon": "-118.3874599",
       "tag": "SUN11",
+      "title": "Sunset/Hammond",
       "lat": "34.0907599"
     },
     "S81_ar": {
@@ -4373,10 +4373,10 @@
           "westbound": true
         }
       },
-      "lon": "-118.38651",
-      "title": "Santa Monica/La Peer",
       "stopId": "604",
+      "lon": "-118.38651",
       "tag": "S81_ar",
+      "title": "Santa Monica/La Peer",
       "lat": "34.0831199",
       "scheduleRoutes": {
         "SNST": {

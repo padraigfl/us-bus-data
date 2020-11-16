@@ -14,17 +14,17 @@
         -71.1007411
       ],
       "stops": {
+        "To Boston": [
+          "mass84_d",
+          "massbeac",
+          "comm487"
+        ],
         "To 84 Mass Ave": [
           "commsilb_d",
           "comm478",
           "beacmass",
           "mass77",
           "edge"
-        ],
-        "To Boston": [
-          "mass84_d",
-          "massbeac",
-          "comm487"
         ]
       },
       "scheduledStops": {
@@ -204,6 +204,12 @@
         -71.098872
       ],
       "stops": {
+        "To Somerville": [
+          "mass84_d",
+          "browin",
+          "bronor",
+          "proscam"
+        ],
         "To 84 Mass Ave": [
           "prossom",
           "someshop",
@@ -214,12 +220,6 @@
           "bin3rd",
           "amesmain",
           "mass77"
-        ],
-        "To Somerville": [
-          "mass84_d",
-          "browin",
-          "bronor",
-          "proscam"
         ]
       },
       "scheduledStops": {
@@ -288,17 +288,6 @@
         -71.1066941
       ],
       "stops": {
-        "To Kendall Square": [
-          "w98vass",
-          "simmhall",
-          "zcent",
-          "edge",
-          "albapaci",
-          "paci70",
-          "masssydn",
-          "mainwinds",
-          "mainvass"
-        ],
         "To 84 Mass Ave": [
           "kendsq",
           "amhewads",
@@ -310,6 +299,17 @@
           "amhekres",
           "burthous",
           "tangwest"
+        ],
+        "To Kendall Square": [
+          "w98vass",
+          "simmhall",
+          "zcent",
+          "edge",
+          "albapaci",
+          "paci70",
+          "masssydn",
+          "mainwinds",
+          "mainvass"
         ]
       },
       "scheduledStops": {
@@ -394,6 +394,20 @@
         -71.1024843
       ],
       "stops": {
+        "To 84 Mass Ave": [
+          "kendsq",
+          "amhewads",
+          "medilab",
+          "mass77",
+          "comm478",
+          "beacmass"
+        ],
+        "To West Campus": [
+          "mass84_d",
+          "amhekres",
+          "burthous",
+          "tangwest"
+        ],
         "To Kendall Square": [
           "simmhall",
           "zcent",
@@ -410,20 +424,6 @@
           "massnewb",
           "comm487",
           "silb"
-        ],
-        "To 84 Mass Ave": [
-          "kendsq",
-          "amhewads",
-          "medilab",
-          "mass77",
-          "comm478",
-          "beacmass"
-        ],
-        "To West Campus": [
-          "mass84_d",
-          "amhekres",
-          "burthous",
-          "tangwest"
         ]
       },
       "scheduledStops": {
@@ -527,10 +527,6 @@
         -71.1007408
       ],
       "stops": {
-        "To 84 Mass Ave": [
-          "beacmass",
-          "mass77"
-        ],
         "To Boston": [
           "mass84_d",
           "massbeac",
@@ -538,6 +534,10 @@
           "comm487",
           "silb",
           "comm478"
+        ],
+        "To 84 Mass Ave": [
+          "beacmass",
+          "mass77"
         ]
       },
       "scheduledStops": {
@@ -608,15 +608,6 @@
         -71.1238864
       ],
       "stops": {
-        "To 84 Mass Ave": [
-          "manc58",
-          "stpaul259",
-          "broo350",
-          "brooputn",
-          "brootudo",
-          "broogree",
-          "mass84_a"
-        ],
         "To Brookline": [
           "mitmus",
           "adp",
@@ -625,6 +616,15 @@
           "pearalls",
           "granbroo",
           "stpaul"
+        ],
+        "To 84 Mass Ave": [
+          "manc58",
+          "stpaul259",
+          "broo350",
+          "brooputn",
+          "brootudo",
+          "broogree",
+          "mass84_a"
         ]
       },
       "scheduledStops": {
@@ -703,23 +703,6 @@
         -71.1238864
       ],
       "stops": {
-        "To Brookline": [
-          "mass84",
-          "mitmus",
-          "adp",
-          "pearfrank",
-          "pearlawr",
-          "pearalls",
-          "granbroo",
-          "stpaul"
-        ],
-        "To Somerville": [
-          "mass84_d",
-          "browin",
-          "bronor",
-          "proscam",
-          "prossom"
-        ],
         "To 84 Mass Ave": [
           "someshop",
           "lammed",
@@ -736,6 +719,23 @@
           "brootudo",
           "broogree",
           "mass84_a"
+        ],
+        "To Somerville": [
+          "mass84_d",
+          "browin",
+          "bronor",
+          "proscam",
+          "prossom"
+        ],
+        "To Brookline": [
+          "mass84",
+          "mitmus",
+          "adp",
+          "pearfrank",
+          "pearlawr",
+          "pearalls",
+          "granbroo",
+          "stpaul"
         ]
       },
       "scheduledStops": {
@@ -829,6 +829,15 @@
         -71.1022784
       ],
       "stops": {
+        "to Campus": [
+          "6thcharl",
+          "elotmain",
+          "amesbld66",
+          "mitmed",
+          "kendsq",
+          "wadse40",
+          "mass77"
+        ],
         "from Campus": [
           "mass84_d",
           "nw10",
@@ -839,15 +848,6 @@
           "porthamp",
           "camb638",
           "camb5th"
-        ],
-        "to Campus": [
-          "6thcharl",
-          "elotmain",
-          "amesbld66",
-          "mitmed",
-          "kendsq",
-          "wadse40",
-          "mass77"
         ]
       },
       "scheduledStops": {

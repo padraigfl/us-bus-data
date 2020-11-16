@@ -109,21 +109,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "GTC Entrance",
-        "tag": "gtc_entr",
-        "stopId": "0025"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.2978904,
-          39.7129526
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Bus Shelter 15",
         "tag": "busshelt_15",
         "stopId": "0017"
@@ -131,8 +116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.3066495,
-          39.7081187
+          -86.3066498,
+          39.7081191
         ]
       }
     },
@@ -146,8 +131,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.3079965,
+          -86.3079964,
           39.7070608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Shelter 21",
+        "tag": "busshelt_21",
+        "stopId": "0023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3068547,
+          39.7061936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bus Shelter 22",
+        "tag": "busshelt_22",
+        "stopId": "0024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3056716,
+          39.7071502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GTC Entrance",
+        "tag": "gtc_entr",
+        "stopId": "0025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2978905,
+          39.7129526
         ]
       }
     },
@@ -208,36 +238,6 @@
         "coordinates": [
           -86.3080423,
           39.7052558
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bus Shelter 21",
-        "tag": "busshelt_21",
-        "stopId": "0023"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.3068544,
-          39.7061938
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bus Shelter 22",
-        "tag": "busshelt_22",
-        "stopId": "0024"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.3056715,
-          39.7071506
         ]
       }
     },

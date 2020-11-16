@@ -387,7 +387,7 @@
         "type": "Point",
         "coordinates": [
           -119.78898,
-          39.4905699
+          39.49057
         ]
       }
     },
@@ -431,8 +431,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.80477,
-          39.50924
+          -119.8047699,
+          39.5092399
         ]
       }
     },
@@ -454,36 +454,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "S Virginia Street and Vassar Street",
-        "tag": "51",
-        "stopId": "0051"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.80671,
-          39.51321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S Virginia Street and S Center Street",
-        "tag": "52",
-        "stopId": "0052"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.80764,
-          39.5150999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "S Virginia Street and E Taylor Street",
         "tag": "53",
         "stopId": "0053"
@@ -491,23 +461,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8082499,
-          39.5163899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S Virginia Street and California Avenue",
-        "tag": "55",
-        "stopId": "0055"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.81012,
-          39.5201399
+          -119.80825,
+          39.51639
         ]
       }
     },
@@ -1766,7 +1721,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8567899,
+          -119.85679,
           39.54204
         ]
       }
@@ -1796,7 +1751,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8520999,
+          -119.8521,
           39.53811
         ]
       }
@@ -1811,7 +1766,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.84679,
+          -119.8467899,
           39.53711
         ]
       }
@@ -1841,7 +1796,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8391599,
+          -119.83916,
           39.53675
         ]
       }
@@ -2607,7 +2562,7 @@
         "type": "Point",
         "coordinates": [
           -119.7711799,
-          39.59662
+          39.5966199
         ]
       }
     },
@@ -2621,8 +2576,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.77116,
-          39.59293
+          -119.7711599,
+          39.5929299
         ]
       }
     },
@@ -2636,7 +2591,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7754399,
+          -119.77544,
           39.5928299
         ]
       }
@@ -2908,6 +2863,21 @@
         "coordinates": [
           -119.8821899,
           39.62846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Prater Way and Parlanti Lane",
+        "tag": "281",
+        "stopId": "0281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7241999,
+          39.54178
         ]
       }
     },
@@ -3521,8 +3491,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.88185,
-          39.6420399
+          -119.8818499,
+          39.64204
         ]
       }
     },
@@ -3552,7 +3522,7 @@
         "type": "Point",
         "coordinates": [
           -119.8820799,
-          39.6328899
+          39.63289
         ]
       }
     },
@@ -3581,7 +3551,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8358499,
+          -119.83585,
           39.59219
         ]
       }
@@ -3597,7 +3567,7 @@
         "type": "Point",
         "coordinates": [
           -119.8353899,
-          39.59048
+          39.5904799
         ]
       }
     },
@@ -3612,7 +3582,7 @@
         "type": "Point",
         "coordinates": [
           -119.8304399,
-          39.58408
+          39.5840799
         ]
       }
     },
@@ -3897,7 +3867,7 @@
         "type": "Point",
         "coordinates": [
           -119.78925,
-          39.51671
+          39.5167099
         ]
       }
     },
@@ -4092,7 +4062,7 @@
         "type": "Point",
         "coordinates": [
           -119.78895,
-          39.49334
+          39.4933399
         ]
       }
     },
@@ -4107,7 +4077,7 @@
         "type": "Point",
         "coordinates": [
           -119.7889,
-          39.49537
+          39.4953699
         ]
       }
     },
@@ -4168,6 +4138,21 @@
         "coordinates": [
           -119.78903,
           39.5177699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kietzke Lane and Roberts Street",
+        "tag": "478",
+        "stopId": "0478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.78902,
+          39.5200799
         ]
       }
     },
@@ -4474,6 +4459,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "E Prater Way and Howard Drive",
+        "tag": "539",
+        "stopId": "0539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7315899,
+          39.54174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Howard Drive and E Lincoln Way",
         "tag": "542",
         "stopId": "0542"
@@ -4564,6 +4564,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "E Prater Way and E Greenbrae Drive",
+        "tag": "559",
+        "stopId": "0559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7268399,
+          39.54179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Prater Way and Sullivan Lane",
         "tag": "560",
         "stopId": "0560"
@@ -4646,8 +4661,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7513599,
-          39.5405
+          -119.75136,
+          39.5404999
         ]
       }
     },
@@ -4661,8 +4676,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7483999,
-          39.54106
+          -119.7484,
+          39.5410599
         ]
       }
     },
@@ -4676,7 +4691,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7418,
+          -119.7417999,
           39.54185
         ]
       }
@@ -4691,8 +4706,143 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7370499,
-          39.5418
+          -119.73705,
+          39.5417899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Prater Way and Marina Gateway Drive",
+        "tag": "579",
+        "stopId": "0579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.72198,
+          39.5418399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Prater Way and Pullman Drive",
+        "tag": "580",
+        "stopId": "0580"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.71785,
+          39.54182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northern Nevada Medical Center",
+        "tag": "588",
+        "stopId": "0588"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.69789,
+          39.5410599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Prater Way and Feeder Street",
+        "tag": "589",
+        "stopId": "0589"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.707,
+          39.5420299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Prater Way and Lillard Drive",
+        "tag": "590",
+        "stopId": "0590"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.71149,
+          39.5420299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Prater Way and Pullman Drive",
+        "tag": "591",
+        "stopId": "0591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7175399,
+          39.5420999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Prater Way and Station Street",
+        "tag": "592",
+        "stopId": "0592"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7231699,
+          39.542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Prater Way and E Greenbrae Drive",
+        "tag": "593",
+        "stopId": "0593"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7265499,
+          39.5419999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Prater Way and Howard Drive",
+        "tag": "594",
+        "stopId": "0594"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.729,
+          39.5419799
         ]
       }
     },
@@ -4706,8 +4856,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7374999,
-          39.5419699
+          -119.73753,
+          39.54199
         ]
       }
     },
@@ -4721,8 +4871,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7406799,
-          39.5419999
+          -119.7407299,
+          39.5420299
         ]
       }
     },
@@ -4766,7 +4916,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.75023,
+          -119.7502299,
           39.5408899
         ]
       }
@@ -5172,7 +5322,7 @@
         "type": "Point",
         "coordinates": [
           -119.7934299,
-          39.52332
+          39.5233199
         ]
       }
     },
@@ -5651,7 +5801,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.83485,
+          -119.8348499,
           39.51971
         ]
       }
@@ -5666,8 +5816,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8306,
-          39.51985
+          -119.8305999,
+          39.5198499
         ]
       }
     },
@@ -5681,8 +5831,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8270305,
-          39.5199402
+          -119.8270304,
+          39.5199403
         ]
       }
     },
@@ -5697,7 +5847,7 @@
         "type": "Point",
         "coordinates": [
           -119.8265499,
-          39.5176699
+          39.51767
         ]
       }
     },
@@ -5712,7 +5862,7 @@
         "type": "Point",
         "coordinates": [
           -119.82528,
-          39.5234999
+          39.5235
         ]
       }
     },
@@ -5741,8 +5891,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.82315,
-          39.5249899
+          -119.8231499,
+          39.52499
         ]
       }
     },
@@ -5756,8 +5906,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.81869,
-          39.5258299
+          -119.8186899,
+          39.52583
         ]
       }
     },
@@ -6132,7 +6282,7 @@
         "type": "Point",
         "coordinates": [
           -119.75265,
-          39.5409199
+          39.54092
         ]
       }
     },
@@ -6147,7 +6297,7 @@
         "type": "Point",
         "coordinates": [
           -119.75255,
-          39.5454799
+          39.54548
         ]
       }
     },
@@ -6836,8 +6986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.75257,
-          39.5434699
+          -119.7525699,
+          39.54347
         ]
       }
     },
@@ -6979,6 +7129,51 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "E Prater Way and Dolce Drive",
+        "tag": "1159",
+        "stopId": "1159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70084,
+          39.54212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Prater Way and Pete's Way",
+        "tag": "1167",
+        "stopId": "1167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6989999,
+          39.5425899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Prater Way and Vista Boulevard",
+        "tag": "1168",
+        "stopId": "1168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7032899,
+          39.5420199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "N Virginia Street and N McCarran Boulevard",
         "tag": "1188",
         "stopId": "1188"
@@ -7018,6 +7213,36 @@
         "coordinates": [
           -119.76586,
           39.4770099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Prater Way and Lillard Drive",
+        "tag": "1201",
+        "stopId": "1201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.71022,
+          39.5418199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Prater Way and Feeder Street",
+        "tag": "1202",
+        "stopId": "1202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7062499,
+          39.54178
         ]
       }
     },
@@ -7204,6 +7429,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Kietzke Lane and S Virginia Street",
+        "tag": "1267",
+        "stopId": "1267"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7926899,
+          39.4818099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "W 7th Street and Robb Drive",
         "tag": "1270",
         "stopId": "1270"
@@ -7257,7 +7497,7 @@
         "type": "Point",
         "coordinates": [
           -119.8819699,
-          39.63734
+          39.6373399
         ]
       }
     },
@@ -7273,6 +7513,21 @@
         "coordinates": [
           -119.81722,
           39.5292499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northern Nevada Medical Center",
+        "tag": "1295",
+        "stopId": "1295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6985799,
+          39.5407399
         ]
       }
     },
@@ -7886,8 +8141,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7447099,
+          -119.74471,
           39.54176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "E Prater Way and Vista Boulevard",
+        "tag": "1414",
+        "stopId": "1414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.70307,
+          39.54182
         ]
       }
     },
@@ -8606,8 +8876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7889999,
-          39.48822
+          -119.789,
+          39.4882199
         ]
       }
     },
@@ -9109,21 +9379,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "N McCarran Boulevard and Las Brisas Boulevard",
-        "tag": "1560",
-        "stopId": "1560"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.8617899,
-          39.53988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Kings Row and King James Court",
         "tag": "1561",
         "stopId": "1561"
@@ -9131,7 +9386,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8369999,
+          -119.837,
           39.5366
         ]
       }
@@ -10287,7 +10542,7 @@
         "type": "Point",
         "coordinates": [
           -119.89048,
-          39.6547399
+          39.65474
         ]
       }
     },
@@ -10316,8 +10571,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.89698,
-          39.6514799
+          -119.8969799,
+          39.65148
         ]
       }
     },
@@ -10331,8 +10586,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8970099,
-          39.6475899
+          -119.89702,
+          39.6475599
         ]
       }
     },
@@ -11059,6 +11314,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "E Peckham Lane and Kietzke Lane",
+        "tag": "1857",
+        "stopId": "1857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7905899,
+          39.48739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "E Greg Street and Deming Way",
         "tag": "1859",
         "stopId": "1859"
@@ -11381,7 +11651,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.8438399,
+          -119.84384,
           39.59988
         ]
       }
@@ -11398,21 +11668,6 @@
         "coordinates": [
           -119.84153,
           39.5991299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "E 8th Avenue and Sun Valley Boulevard",
-        "tag": "1889",
-        "stopId": "1889"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.7797299,
-          39.60354
         ]
       }
     },
@@ -11441,7 +11696,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.88658,
+          -119.8865799,
           39.64238
         ]
       }
@@ -11456,7 +11711,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7713899,
+          -119.77139,
           39.60362
         ]
       }
@@ -12057,7 +12312,7 @@
         "type": "Point",
         "coordinates": [
           -119.80176,
-          39.5030599
+          39.50306
         ]
       }
     },
@@ -13114,6 +13369,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "N Virginia Street and Golden Valley Road",
+        "tag": "2058",
+        "stopId": "2058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8409799,
+          39.5985999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Lemmon Drive and Heindel Road",
         "tag": "2059",
         "stopId": "2059"
@@ -13436,7 +13706,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.75503,
+          -119.7550299,
           39.53978
         ]
       }
@@ -13467,7 +13737,7 @@
         "type": "Point",
         "coordinates": [
           -119.7893299,
-          39.5127299
+          39.51273
         ]
       }
     },
@@ -13497,7 +13767,7 @@
         "type": "Point",
         "coordinates": [
           -119.78888,
-          39.4998999
+          39.4999
         ]
       }
     },
@@ -13534,6 +13804,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "South Virginia Street and Saint Lawrence Avenue",
+        "tag": "2096",
+        "stopId": "2096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8095999,
+          39.5185699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Rue Avenue Station - R Stn",
+        "tag": "2097",
+        "stopId": "2097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8083399,
+          39.51603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Robb Drive and Sharlands Avenue",
         "tag": "2101",
         "stopId": "2101"
@@ -13558,6 +13858,21 @@
         "coordinates": [
           -119.7735699,
           39.44455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Virginia Street and Plumb Lane",
+        "tag": "2103",
+        "stopId": "2103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.80227,
+          39.5041699
         ]
       }
     },
@@ -13646,8 +13961,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7933299,
-          39.4748299
+          -119.79333,
+          39.47483
         ]
       }
     },
@@ -13661,8 +13976,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.79192,
-          39.46925
+          -119.7919199,
+          39.4692499
         ]
       }
     },
@@ -14044,30 +14359,210 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "East Lincoln Way and North McCarran Boulevard",
-        "tag": "3032",
-        "stopId": "3032"
+        "title": "Regency Way Station - R Stn",
+        "tag": "3028",
+        "stopId": "3028"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.7343599,
-          39.53686
+          -119.8047899,
+          39.5092799
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Howard Drive and East Prater Way",
-        "tag": "3033",
-        "stopId": "3033"
+        "title": "Liberty Street Station - R Stn",
+        "tag": "3029",
+        "stopId": "3029"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.73157,
-          39.5400999
+          -119.8110299,
+          39.5214499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sun Valley Boulevard and East 8th Avenue",
+        "tag": "3034",
+        "stopId": "3034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.78054,
+          39.6040799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sun Valley Boulevard and Middle Fork Drive",
+        "tag": "3035",
+        "stopId": "3035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7780899,
+          39.60959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sun Valley Boulevard and Leon Drive",
+        "tag": "3036",
+        "stopId": "3036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7718999,
+          39.61364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Highland Ranch Parkway & Sun Valley Boulevard",
+        "tag": "3037",
+        "stopId": "3037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7674599,
+          39.61583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donatello Drive and Highland Ranch Parkway",
+        "tag": "3038",
+        "stopId": "3038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.76404,
+          39.61474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donatello Drive and Baroque Court",
+        "tag": "3039",
+        "stopId": "3039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.76331,
+          39.61823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Donatello Drive at Desert Skies Middle School",
+        "tag": "3040",
+        "stopId": "3040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.76566,
+          39.6208299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "DeBussey Drive and Carmen Court",
+        "tag": "3041",
+        "stopId": "3041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7682899,
+          39.6179599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sun Valley Boulevard And DeBussey Drive",
+        "tag": "3042",
+        "stopId": "3042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7687199,
+          39.6159899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sun Valley Boulevard and East 8th Street",
+        "tag": "3043",
+        "stopId": "3043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7807499,
+          39.60412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "East Second Street at Renown (Northside)",
+        "tag": "3044",
+        "stopId": "3044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.79599,
+          39.5274599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Virginia Street at Amazon",
+        "tag": "3045",
+        "stopId": "3045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.84866,
+          39.60192
         ]
       }
     }

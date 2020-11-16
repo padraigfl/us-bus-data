@@ -176,7 +176,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.50279,
+          -121.5027899,
           38.5756
         ]
       }
@@ -304,36 +304,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Fairfield Transportation Center (FTC)",
-        "tag": "5351_ar",
-        "stopId": "75268"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.06837,
-          38.2491899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vaca Valley Parkway",
-        "tag": "2455473_ar",
-        "stopId": "75578"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.94317,
-          38.3917899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Sacramento Valley Station",
         "tag": "2455475_ar",
         "stopId": "75580"
@@ -343,6 +313,21 @@
         "coordinates": [
           -121.50156,
           38.5846599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fairfield Transportation Center (FTC)",
+        "tag": "5351_ar",
+        "stopId": "75268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.06837,
+          38.2491899
         ]
       }
     },
@@ -373,6 +358,21 @@
         "coordinates": [
           -121.9649,
           38.3586399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vaca Valley Parkway",
+        "tag": "2455473_ar",
+        "stopId": "75578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.94317,
+          38.3917899
         ]
       }
     },

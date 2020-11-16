@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "title": "Glendale Transportation Center",
-        "tag": "GTC_d",
-        "stopId": "0133"
+        "tag": "gtc_d",
+        "stopId": "0136"
       },
       "geometry": {
         "type": "Point",
@@ -20,8 +20,8 @@
       "type": "Feature",
       "properties": {
         "title": "Central At Laurel",
-        "tag": "CenLau_n",
-        "stopId": "0131"
+        "tag": "cenlau",
+        "stopId": "0134"
       },
       "geometry": {
         "type": "Point",
@@ -35,8 +35,8 @@
       "type": "Feature",
       "properties": {
         "title": "Central At Los Feliz",
-        "tag": "CenLos",
-        "stopId": "0121"
+        "tag": "cenlos",
+        "stopId": "0124"
       },
       "geometry": {
         "type": "Point",
@@ -50,8 +50,8 @@
       "type": "Feature",
       "properties": {
         "title": "Central At Magnolia",
-        "tag": "CenMag",
-        "stopId": "0122"
+        "tag": "cenmag",
+        "stopId": "0125"
       },
       "geometry": {
         "type": "Point",
@@ -64,24 +64,24 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Central At Chevy Chase",
-        "tag": "CenChe",
-        "stopId": "0116"
+        "title": "Central at Chevy Chase",
+        "tag": "cenche",
+        "stopId": "0119"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -118.25776,
-          34.1337
+          34.1336999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Central At Windsor",
-        "tag": "CenWin",
-        "stopId": "0125"
+        "title": "Central at Windsor",
+        "tag": "cenwin",
+        "stopId": "0128"
       },
       "geometry": {
         "type": "Point",
@@ -95,8 +95,8 @@
       "type": "Feature",
       "properties": {
         "title": "Central At Lomita",
-        "tag": "CenLom",
-        "stopId": "0120"
+        "tag": "cenlom",
+        "stopId": "0123"
       },
       "geometry": {
         "type": "Point",
@@ -110,8 +110,8 @@
       "type": "Feature",
       "properties": {
         "title": "Central At Colorado",
-        "tag": "CenCol",
-        "stopId": "0117"
+        "tag": "cencol",
+        "stopId": "0120"
       },
       "geometry": {
         "type": "Point",
@@ -125,8 +125,8 @@
       "type": "Feature",
       "properties": {
         "title": "Central At Americana",
-        "tag": "CenHar",
-        "stopId": "0113"
+        "tag": "cename",
+        "stopId": "0116"
       },
       "geometry": {
         "type": "Point",
@@ -140,8 +140,8 @@
       "type": "Feature",
       "properties": {
         "title": "Central At Broadway",
-        "tag": "CenBro",
-        "stopId": "0130"
+        "tag": "cenbro",
+        "stopId": "0133"
       },
       "geometry": {
         "type": "Point",
@@ -155,8 +155,8 @@
       "type": "Feature",
       "properties": {
         "title": "Central At California",
-        "tag": "CenCal",
-        "stopId": "0115"
+        "tag": "cencal",
+        "stopId": "0118"
       },
       "geometry": {
         "type": "Point",
@@ -169,9 +169,24 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Central at Lexington",
+        "tag": "cenlex",
+        "stopId": "0475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2578729,
+          34.1520261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Central At Milford",
-        "tag": "CenMil",
-        "stopId": "0123"
+        "tag": "cenmil",
+        "stopId": "0126"
       },
       "geometry": {
         "type": "Point",
@@ -185,8 +200,8 @@
       "type": "Feature",
       "properties": {
         "title": "Central At Doran",
-        "tag": "CenDor",
-        "stopId": "0118"
+        "tag": "cendor",
+        "stopId": "0121"
       },
       "geometry": {
         "type": "Point",
@@ -200,8 +215,8 @@
       "type": "Feature",
       "properties": {
         "title": "Central At Arden",
-        "tag": "CenArd",
-        "stopId": "0114"
+        "tag": "cenard",
+        "stopId": "0117"
       },
       "geometry": {
         "type": "Point",
@@ -214,45 +229,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Central At Glenoaks",
-        "tag": "CenGle",
-        "stopId": "0126"
+        "title": "Brand At Fairview",
+        "tag": "brafai",
+        "stopId": "0168"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.2573761,
-          34.1596939
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Central At Dryden",
-        "tag": "CenDry",
-        "stopId": "0119"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.256809,
-          34.1616378
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Central At Stocker",
-        "tag": "CenSto",
-        "stopId": "0124"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.256806,
-          34.1635269
+          -118.254934,
+          34.1604175
         ]
       }
     },
@@ -260,299 +245,104 @@
       "type": "Feature",
       "properties": {
         "title": "Stocker At Brand",
-        "tag": "StoBra",
-        "stopId": "0135"
+        "tag": "stobra",
+        "stopId": "0169"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.255391,
-          34.16364
+          -118.2557773,
+          34.163722
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Brand At Dryden",
-        "tag": "BraDry",
-        "stopId": "0134"
+        "title": "Central At Stocker",
+        "tag": "censto_i",
+        "stopId": "0157"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.2552239,
-          34.161275
+          -118.2569449,
+          34.1631349
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Brand At Glenoaks",
-        "tag": "BraGle",
-        "stopId": "0105"
+        "title": "Central At Dryden",
+        "tag": "cendry_i",
+        "stopId": "0152"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.2552289,
-          34.1588151
+          -118.2569319,
+          34.1612167
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Brand At Monterey",
-        "tag": "BraMon",
-        "stopId": "0111"
+        "title": "Central at Glenoaks",
+        "tag": "cengle_i",
+        "stopId": "0445"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.255203,
-          34.1572524
+          -118.257745,
+          34.1596468
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Brand At Doran",
-        "tag": "BraDor",
-        "stopId": "0128"
+        "title": "Central At Arden",
+        "tag": "cenard_i",
+        "stopId": "0148"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.25516,
-          34.1544603
+          -118.258079,
+          34.158184
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Brand At Milford",
-        "tag": "BraMil",
-        "stopId": "0110"
+        "title": "Central At Doran",
+        "tag": "cendor_i",
+        "stopId": "0151"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.255139,
-          34.15269
+          -118.2580479,
+          34.1540871
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Brand At Lexington",
-        "tag": "BraLex",
-        "stopId": "0129"
+        "title": "Central At Milford",
+        "tag": "cenmil_i",
+        "stopId": "0156"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.2551409,
-          34.1514273
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brand At California",
-        "tag": "BraCal",
-        "stopId": "0102"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2551349,
-          34.1497057
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brand At Wilson",
-        "tag": "BraWil",
-        "stopId": "0112"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2551199,
-          34.1477876
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brand At Broadway",
-        "tag": "BraBro",
-        "stopId": "0101"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2550999,
-          34.1460193
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brand At Colorado",
-        "tag": "BraCol",
-        "stopId": "0127"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2551377,
-          34.1421224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brand At Lomita",
-        "tag": "BraLom",
-        "stopId": "0106"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2551276,
-          34.1403692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brand At Maple",
-        "tag": "BraMap",
-        "stopId": "0109"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2550869,
-          34.1384508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brand At Garfield",
-        "tag": "BraGarf",
-        "stopId": "0104"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2550798,
-          34.1355554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brand At Chevy Chase",
-        "tag": "BraChe",
-        "stopId": "0103"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.255044,
-          34.133245
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brand At Magnolia",
-        "tag": "BraMag",
-        "stopId": "0108"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2550338,
-          34.1311371
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brand At Los Feliz",
-        "tag": "BraLos",
-        "stopId": "0107"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2550191,
-          34.1288305
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Central At Laurel",
-        "tag": "CenLau",
-        "stopId": "0132"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.25789,
-          34.127511
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brand At Harvard",
-        "tag": "BraHar",
-        "stopId": "0160"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2548771,
-          34.1446863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brand At Fairview",
-        "tag": "BraFai",
-        "stopId": "0165"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2549341,
-          34.1604173
+          -118.2580419,
+          34.1530442
         ]
       }
     },
@@ -560,14 +350,164 @@
       "type": "Feature",
       "properties": {
         "title": "Central At Lexington",
-        "tag": "CenLex",
-        "stopId": "0150"
+        "tag": "cenlex_i",
+        "stopId": "0153"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -118.2580388,
           34.1514815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Central At California",
+        "tag": "cencal_i",
+        "stopId": "0149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2580249,
+          34.1496083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Central At Broadway",
+        "tag": "cenbro_i",
+        "stopId": "0165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2579971,
+          34.1464774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Central At Americana",
+        "tag": "cename_i",
+        "stopId": "0164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2579809,
+          34.1443353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Central At Colorado",
+        "tag": "cencol_i",
+        "stopId": "0167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2579739,
+          34.1421956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Central At Lomita",
+        "tag": "cenlom_i",
+        "stopId": "0166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2579699,
+          34.1401465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Central At Windsor",
+        "tag": "cenwin_i",
+        "stopId": "0158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2579518,
+          34.1364061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Central At Chevy Chase",
+        "tag": "cenche_i",
+        "stopId": "0150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2579368,
+          34.1337481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Central At Magnolia",
+        "tag": "cenmag_i",
+        "stopId": "0155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2579279,
+          34.1309314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Central At Los Feliz",
+        "tag": "cenlos_i",
+        "stopId": "0154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2579009,
+          34.1288473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Central At Laurel",
+        "tag": "cenlau_i",
+        "stopId": "0135"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2578898,
+          34.1275105
         ]
       }
     },
@@ -784,7 +724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Verdugo at Civic Aud. / GCC",
+        "title": "Verdugo at Towne (Glendale College)",
         "tag": "gcc",
         "stopId": "0274"
       },
@@ -2478,9 +2418,24 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Chevy Chase at Central",
+        "tag": "chevcent",
+        "stopId": "0705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.257457,
+          34.133426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Chevy Chase At Brand",
         "tag": "chevbran_d",
-        "stopId": "0285"
+        "stopId": "0288"
       },
       "geometry": {
         "type": "Point",
@@ -2495,7 +2450,7 @@
       "properties": {
         "title": "Chevy Chase At Glendale",
         "tag": "chevglen",
-        "stopId": "0293"
+        "stopId": "0296"
       },
       "geometry": {
         "type": "Point",
@@ -2510,7 +2465,7 @@
       "properties": {
         "title": "Chevy Chase At Boynton",
         "tag": "chevboyn",
-        "stopId": "0283"
+        "stopId": "0286"
       },
       "geometry": {
         "type": "Point",
@@ -2525,7 +2480,7 @@
       "properties": {
         "title": "Chevy Chase Mid-block",
         "tag": "chevmidb",
-        "stopId": "0287"
+        "stopId": "0290"
       },
       "geometry": {
         "type": "Point",
@@ -2540,7 +2495,7 @@
       "properties": {
         "title": "Chevy Chase At Adams",
         "tag": "chevadam",
-        "stopId": "0281"
+        "stopId": "0284"
       },
       "geometry": {
         "type": "Point",
@@ -2555,7 +2510,7 @@
       "properties": {
         "title": "Chevy Chase At Garfield",
         "tag": "chevgarf",
-        "stopId": "0291"
+        "stopId": "0294"
       },
       "geometry": {
         "type": "Point",
@@ -2570,7 +2525,7 @@
       "properties": {
         "title": "Chevy Chase At Maple",
         "tag": "chevmapl",
-        "stopId": "0294"
+        "stopId": "0297"
       },
       "geometry": {
         "type": "Point",
@@ -2585,7 +2540,7 @@
       "properties": {
         "title": "Chevy Chase At Colorado",
         "tag": "chevcolo",
-        "stopId": "0290"
+        "stopId": "0292"
       },
       "geometry": {
         "type": "Point",
@@ -2600,7 +2555,7 @@
       "properties": {
         "title": "Chevy Chase At Carlton",
         "tag": "chevcarlt",
-        "stopId": "0286"
+        "stopId": "0289"
       },
       "geometry": {
         "type": "Point",
@@ -2615,7 +2570,7 @@
       "properties": {
         "title": "Broadway At Adams",
         "tag": "broaadam",
-        "stopId": "0277"
+        "stopId": "0280"
       },
       "geometry": {
         "type": "Point",
@@ -2630,7 +2585,7 @@
       "properties": {
         "title": "Broadway At Cedar",
         "tag": "broaceda",
-        "stopId": "0279"
+        "stopId": "0282"
       },
       "geometry": {
         "type": "Point",
@@ -2645,7 +2600,7 @@
       "properties": {
         "title": "Glendale At Broadway",
         "tag": "glenbroa",
-        "stopId": "0296"
+        "stopId": "0299"
       },
       "geometry": {
         "type": "Point",
@@ -2660,7 +2615,7 @@
       "properties": {
         "title": "Harvard At Isabel",
         "tag": "harvisab",
-        "stopId": "0299"
+        "stopId": "0302"
       },
       "geometry": {
         "type": "Point",
@@ -2675,7 +2630,7 @@
       "properties": {
         "title": "Harvard At Louise",
         "tag": "harvloui",
-        "stopId": "0300"
+        "stopId": "0269"
       },
       "geometry": {
         "type": "Point",
@@ -2690,7 +2645,7 @@
       "properties": {
         "title": "Brand At Harvard",
         "tag": "branharv",
-        "stopId": "0160"
+        "stopId": "0163"
       },
       "geometry": {
         "type": "Point",
@@ -2705,7 +2660,7 @@
       "properties": {
         "title": "Broadway At Brand",
         "tag": "branbroa",
-        "stopId": "0301"
+        "stopId": "0304"
       },
       "geometry": {
         "type": "Point",
@@ -2720,7 +2675,7 @@
       "properties": {
         "title": "Central At Broadway",
         "tag": "centbroa",
-        "stopId": "0162"
+        "stopId": "0165"
       },
       "geometry": {
         "type": "Point",
@@ -2735,7 +2690,7 @@
       "properties": {
         "title": "Central At Americana",
         "tag": "centharv",
-        "stopId": "0161"
+        "stopId": "0164"
       },
       "geometry": {
         "type": "Point",
@@ -2750,7 +2705,7 @@
       "properties": {
         "title": "Colorado At Central",
         "tag": "colcent_d",
-        "stopId": "0304"
+        "stopId": "0307"
       },
       "geometry": {
         "type": "Point",
@@ -2763,9 +2718,24 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Brand At Colorado",
+        "tag": "BraCol",
+        "stopId": "0161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2548999,
+          34.1429585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Harvard At Louise",
         "tag": "louiharv",
-        "stopId": "0266"
+        "stopId": "0303"
       },
       "geometry": {
         "type": "Point",
@@ -2780,7 +2750,7 @@
       "properties": {
         "title": "Harvard At Isabel",
         "tag": "isabharv",
-        "stopId": "0298"
+        "stopId": "0301"
       },
       "geometry": {
         "type": "Point",
@@ -2795,7 +2765,7 @@
       "properties": {
         "title": "Broadway At Glendale",
         "tag": "broaglen",
-        "stopId": "0280"
+        "stopId": "0283"
       },
       "geometry": {
         "type": "Point",
@@ -2810,7 +2780,7 @@
       "properties": {
         "title": "Broadway At Cedar",
         "tag": "cedabroa",
-        "stopId": "0278"
+        "stopId": "0281"
       },
       "geometry": {
         "type": "Point",
@@ -2825,7 +2795,7 @@
       "properties": {
         "title": "Broadway At Adams",
         "tag": "adambroa",
-        "stopId": "0276"
+        "stopId": "0279"
       },
       "geometry": {
         "type": "Point",
@@ -2840,7 +2810,7 @@
       "properties": {
         "title": "Chevy Chase At Broadway",
         "tag": "broachev",
-        "stopId": "0302"
+        "stopId": "0305"
       },
       "geometry": {
         "type": "Point",
@@ -2855,7 +2825,7 @@
       "properties": {
         "title": "Chevy Chase At Colorado",
         "tag": "colochev",
-        "stopId": "0289"
+        "stopId": "0293"
       },
       "geometry": {
         "type": "Point",
@@ -2870,7 +2840,7 @@
       "properties": {
         "title": "Chevy Chase At Maple",
         "tag": "maplchev",
-        "stopId": "0295"
+        "stopId": "0298"
       },
       "geometry": {
         "type": "Point",
@@ -2885,7 +2855,7 @@
       "properties": {
         "title": "Chevy Chase At Garfield",
         "tag": "garfchev",
-        "stopId": "0292"
+        "stopId": "0295"
       },
       "geometry": {
         "type": "Point",
@@ -2900,7 +2870,7 @@
       "properties": {
         "title": "Chevy Chase At Adams",
         "tag": "adamchev",
-        "stopId": "0282"
+        "stopId": "0285"
       },
       "geometry": {
         "type": "Point",
@@ -2915,7 +2885,7 @@
       "properties": {
         "title": "Chevy Chase Mid-block",
         "tag": "midbchev",
-        "stopId": "0288"
+        "stopId": "0291"
       },
       "geometry": {
         "type": "Point",
@@ -2930,7 +2900,7 @@
       "properties": {
         "title": "Chevy Chase At Boynton",
         "tag": "boynchev",
-        "stopId": "0284"
+        "stopId": "0287"
       },
       "geometry": {
         "type": "Point",
@@ -2943,45 +2913,60 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendale At Palmer",
-        "tag": "palmglen",
-        "stopId": "0297"
+        "title": "Chevy Chase at Glendale",
+        "tag": "chevglen_i",
+        "stopId": "0461"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.2522516,
-          34.1323783
+          -118.2524349,
+          34.133586
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Palmer At Brand",
-        "tag": "branpalm",
-        "stopId": "0303"
+        "title": "Chevy Chase at Brand",
+        "tag": "chevbran_i",
+        "stopId": "0471"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.2546932,
-          34.1323106
+          -118.254523,
+          34.133575
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Riverdale at Pacific",
-        "tag": "rivpac_d",
-        "stopId": "0321"
+        "title": "Chevy Chase at Central",
+        "tag": "chevcent_i",
+        "stopId": "0472"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.26425,
-          34.13879
+          -118.256958,
+          34.1336019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pacific at Riverdale",
+        "tag": "pacriv_d",
+        "stopId": "0457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2643699,
+          34.1388897
         ]
       }
     },
@@ -2990,7 +2975,7 @@
       "properties": {
         "title": "Pacific at Vine",
         "tag": "pacvin",
-        "stopId": "0317"
+        "stopId": "0320"
       },
       "geometry": {
         "type": "Point",
@@ -3005,7 +2990,7 @@
       "properties": {
         "title": "Pacific at Colorado",
         "tag": "paccol",
-        "stopId": "0309"
+        "stopId": "0312"
       },
       "geometry": {
         "type": "Point",
@@ -3020,7 +3005,7 @@
       "properties": {
         "title": "Pacific at Harvard",
         "tag": "pacharv_n",
-        "stopId": "0312"
+        "stopId": "0315"
       },
       "geometry": {
         "type": "Point",
@@ -3035,7 +3020,7 @@
       "properties": {
         "title": "Pacific at Wilson",
         "tag": "pacwil_n",
-        "stopId": "0318"
+        "stopId": "0321"
       },
       "geometry": {
         "type": "Point",
@@ -3050,7 +3035,7 @@
       "properties": {
         "title": "Pacific at California",
         "tag": "paccal_n",
-        "stopId": "0307"
+        "stopId": "0310"
       },
       "geometry": {
         "type": "Point",
@@ -3065,7 +3050,7 @@
       "properties": {
         "title": "Pacific at Lexington",
         "tag": "paclex_n",
-        "stopId": "0315"
+        "stopId": "0318"
       },
       "geometry": {
         "type": "Point",
@@ -3080,7 +3065,7 @@
       "properties": {
         "title": "Pacific at Doran",
         "tag": "pacdor_n",
-        "stopId": "0310"
+        "stopId": "0313"
       },
       "geometry": {
         "type": "Point",
@@ -3095,7 +3080,7 @@
       "properties": {
         "title": "Pacific at Arden",
         "tag": "pacard_n",
-        "stopId": "0305"
+        "stopId": "0308"
       },
       "geometry": {
         "type": "Point",
@@ -3110,7 +3095,7 @@
       "properties": {
         "title": "Pacific at Palm",
         "tag": "pacpal",
-        "stopId": "0326"
+        "stopId": "0329"
       },
       "geometry": {
         "type": "Point",
@@ -3125,7 +3110,7 @@
       "properties": {
         "title": "Glenwood at Concord (Hoover High)",
         "tag": "glecon_d",
-        "stopId": "0324"
+        "stopId": "0327"
       },
       "geometry": {
         "type": "Point",
@@ -3140,7 +3125,7 @@
       "properties": {
         "title": "Stocker at Pacific",
         "tag": "stopac",
-        "stopId": "0327"
+        "stopId": "0330"
       },
       "geometry": {
         "type": "Point",
@@ -3155,7 +3140,7 @@
       "properties": {
         "title": "Pacific at Dryden",
         "tag": "pacdry",
-        "stopId": "0325"
+        "stopId": "0328"
       },
       "geometry": {
         "type": "Point",
@@ -3170,7 +3155,7 @@
       "properties": {
         "title": "Pacific at Arden",
         "tag": "pacard",
-        "stopId": "0306"
+        "stopId": "0309"
       },
       "geometry": {
         "type": "Point",
@@ -3185,7 +3170,7 @@
       "properties": {
         "title": "Pacific at Doran",
         "tag": "pacdor",
-        "stopId": "0311"
+        "stopId": "0314"
       },
       "geometry": {
         "type": "Point",
@@ -3200,7 +3185,7 @@
       "properties": {
         "title": "Pacific at Lexington",
         "tag": "paclex",
-        "stopId": "0316"
+        "stopId": "0319"
       },
       "geometry": {
         "type": "Point",
@@ -3215,7 +3200,7 @@
       "properties": {
         "title": "Pacific at California",
         "tag": "paccal",
-        "stopId": "0308"
+        "stopId": "0311"
       },
       "geometry": {
         "type": "Point",
@@ -3230,7 +3215,7 @@
       "properties": {
         "title": "Pacific at Wilson",
         "tag": "pacwil",
-        "stopId": "0319"
+        "stopId": "0322"
       },
       "geometry": {
         "type": "Point",
@@ -3245,7 +3230,7 @@
       "properties": {
         "title": "Pacific at Ivy",
         "tag": "pacivy",
-        "stopId": "0314"
+        "stopId": "0317"
       },
       "geometry": {
         "type": "Point",
@@ -3260,7 +3245,7 @@
       "properties": {
         "title": "Pacific at Harvard",
         "tag": "pacharv",
-        "stopId": "0313"
+        "stopId": "0316"
       },
       "geometry": {
         "type": "Point",
@@ -3275,7 +3260,7 @@
       "properties": {
         "title": "Colorado at Pacific",
         "tag": "colpac",
-        "stopId": "0323"
+        "stopId": "0326"
       },
       "geometry": {
         "type": "Point",
@@ -3290,7 +3275,7 @@
       "properties": {
         "title": "Colorado at Columbus",
         "tag": "colcol",
-        "stopId": "0322"
+        "stopId": "0325"
       },
       "geometry": {
         "type": "Point",
@@ -3303,15 +3288,45 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Riverdale at Columbus",
-        "tag": "rivcol",
-        "stopId": "0320"
+        "title": "Central At Colorado",
+        "tag": "CenCol",
+        "stopId": "0167"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.2606272,
-          34.1387803
+          -118.2579398,
+          34.1421626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Central At Lomita",
+        "tag": "CenLom",
+        "stopId": "0166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25794,
+          34.1400317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pacific at San Fernando",
+        "tag": "pacsan",
+        "stopId": "0474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2643389,
+          34.1374871
         ]
       }
     },
@@ -4700,7 +4715,7 @@
       "properties": {
         "title": "Glendale Transportation Center (Morning)",
         "tag": "gtc_n",
-        "stopId": "0133"
+        "stopId": "0136"
       },
       "geometry": {
         "type": "Point",
@@ -4713,15 +4728,45 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Brand At Colorado",
-        "tag": "brancolo_n",
-        "stopId": "0158"
+        "title": "Central at Laurel",
+        "tag": "cenlau_n",
+        "stopId": "0134"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.2549,
-          34.1428611
+          -118.25774,
+          34.1279322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brand at Chevy Chase",
+        "tag": "brache_n",
+        "stopId": "0150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.254837,
+          34.134204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brand At Colorado",
+        "tag": "brancolo_n",
+        "stopId": "0161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2548999,
+          34.1428607
         ]
       }
     },
@@ -4730,13 +4775,28 @@
       "properties": {
         "title": "Brand At Broadway",
         "tag": "branbroa_n",
-        "stopId": "0156"
+        "stopId": "0159"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.25493,
-          34.1465399
+          -118.2549299,
+          34.1465396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brand at California",
+        "tag": "bracal_n",
+        "stopId": "0139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2549257,
+          34.1502038
         ]
       }
     },
@@ -4745,13 +4805,13 @@
       "properties": {
         "title": "Brand At Lexington",
         "tag": "branlexi_n",
-        "stopId": "0157"
+        "stopId": "0160"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.25492,
-          34.1513899
+          -118.254916,
+          34.1519324
         ]
       }
     },
@@ -4760,12 +4820,12 @@
       "properties": {
         "title": "Brand At Milford",
         "tag": "branmilf_n",
-        "stopId": "0159"
+        "stopId": "0162"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.25492,
+          -118.2549199,
           34.1537677
         ]
       }
@@ -4775,103 +4835,43 @@
       "properties": {
         "title": "Monterey at Brand",
         "tag": "montbran_n",
-        "stopId": "0399"
+        "stopId": "0402"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.25454,
-          34.15738
+          -118.2545401,
+          34.1573799
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Wilson at Glendale (Morning)",
-        "tag": "wilsglen_n",
-        "stopId": "0401"
+        "title": "Brand at Glenoaks",
+        "tag": "branglen_s",
+        "stopId": "0108"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.2471958,
-          34.1481197
+          -118.2552619,
+          34.1587247
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Colorado at Jackson (Morning)",
-        "tag": "colojack_n",
-        "stopId": "0403"
+        "title": "Brand at Monterey",
+        "tag": "branmont_s",
+        "stopId": "0114"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.2505699,
-          34.14269
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brand At Colorado (Morning)",
-        "tag": "colobran_n",
-        "stopId": "0127"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2550711,
-          34.1421754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Glendale Transportation Center (Afternoon)",
-        "tag": "gtc_s",
-        "stopId": "0133"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.25984,
-          34.12459
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Central At Broadway",
-        "tag": "centbroa_s",
-        "stopId": "0130"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2578399,
-          34.1466494
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Monterey at Brand",
-        "tag": "montbran_s",
-        "stopId": "0400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2544529,
-          34.15751
+          -118.2551799,
+          34.1572198
         ]
       }
     },
@@ -4880,13 +4880,28 @@
       "properties": {
         "title": "Brand At Doran",
         "tag": "dorabran_s",
-        "stopId": "0128"
+        "stopId": "0131"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.25515,
-          34.1540648
+          -118.2551499,
+          34.1540646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Brand at Milford",
+        "tag": "branmilf_s",
+        "stopId": "0113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25512,
+          34.1527213
         ]
       }
     },
@@ -4895,88 +4910,73 @@
       "properties": {
         "title": "Brand At Lexington",
         "tag": "branlexi_s",
-        "stopId": "0129"
+        "stopId": "0132"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -118.25512,
-          34.1514112
+          34.1514111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Wilson at Maryland",
-        "tag": "wilsmary_s",
-        "stopId": "0402"
+        "title": "Brand at California",
+        "tag": "brancali_s",
+        "stopId": "0105"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.253667,
-          34.14804
+          -118.2550979,
+          34.1496734
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Wilson at Glendale (Afternoon)",
-        "tag": "wilsglen_s",
-        "stopId": "0401"
+        "title": "Brand at Broadway",
+        "tag": "branbroa_s",
+        "stopId": "0104"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.2471958,
-          34.14812
+          -118.255127,
+          34.145612
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Colorado at Jackson (Afternoon)",
-        "tag": "colojack_s",
-        "stopId": "0403"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.25057,
-          34.14269
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Brand at Colorado (Afternoon)",
+        "title": "Brand At Colorado",
         "tag": "colobran_s",
-        "stopId": "0127"
+        "stopId": "0130"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.2550711,
-          34.1421754
+          -118.255071,
+          34.1421757
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Glendale Transportation Center",
-        "tag": "gtc_d",
-        "stopId": "0133"
+        "title": "Brand at Chevy Chase",
+        "tag": "branchev_s",
+        "stopId": "0106"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.25984,
-          34.12459
+          -118.255003,
+          34.1332422
         ]
       }
     },
@@ -5463,21 +5463,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "San Fernando at Pacific",
-        "tag": "pacsan",
-        "stopId": "0433"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.2648729,
-          34.1369604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "San Fernando at Chevy Chase",
         "tag": "chevsan",
         "stopId": "0426"
@@ -5487,6 +5472,516 @@
         "coordinates": [
           -118.2626606,
           34.1336313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Fernando at Cerritos",
+        "tag": "sancer",
+        "stopId": "0444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2564341,
+          34.1250671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Fernando at Brand",
+        "tag": "sanbra",
+        "stopId": "0446"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2546461,
+          34.1233411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at San Fernando",
+        "tag": "glesan",
+        "stopId": "0456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2537379,
+          34.123164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Cerritos",
+        "tag": "glecer",
+        "stopId": "0447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2530619,
+          34.126043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Los Feliz",
+        "tag": "glelos",
+        "stopId": "0455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2526749,
+          34.128452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Palmer",
+        "tag": "glepal",
+        "stopId": "0453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2520959,
+          34.13211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Chevy Chase",
+        "tag": "gleche",
+        "stopId": "0448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25182,
+          34.1338549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Windsor",
+        "tag": "glewin",
+        "stopId": "0454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2513079,
+          34.136971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Maple",
+        "tag": "glemap",
+        "stopId": "0452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2506699,
+          34.139261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Lomita",
+        "tag": "glelom",
+        "stopId": "0451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2500269,
+          34.140784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Colorado",
+        "tag": "glecol",
+        "stopId": "0449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2492279,
+          34.14254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Harvard",
+        "tag": "glehar",
+        "stopId": "0450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2479699,
+          34.14438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Verdugo at Civic Auditorium",
+        "tag": "verciv",
+        "stopId": "0277"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.230317,
+          34.1667589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ca&#241;ada at Towne",
+        "tag": "cantow",
+        "stopId": "0268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.229172,
+          34.1685799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Verdugo",
+        "tag": "glever_i",
+        "stopId": "0274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.237113,
+          34.1609399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Glenoaks",
+        "tag": "glegle_i",
+        "stopId": "0271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.239868,
+          34.1590899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Monterey",
+        "tag": "glemon_i",
+        "stopId": "0215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242267,
+          34.1559809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Doran",
+        "tag": "gledor_i",
+        "stopId": "0212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243938,
+          34.1532939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Lexington",
+        "tag": "glelex_i",
+        "stopId": "0214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.245376,
+          34.1511338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at California",
+        "tag": "glecal_i",
+        "stopId": "0442"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.246017,
+          34.1496119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Wilson",
+        "tag": "glewil_i",
+        "stopId": "0217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24654,
+          34.1482889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Broadway",
+        "tag": "glebro_i",
+        "stopId": "0299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.247438,
+          34.146081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Harvard",
+        "tag": "glehar_i",
+        "stopId": "0465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2480449,
+          34.144673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Colorado",
+        "tag": "glecol_i",
+        "stopId": "0464"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2493499,
+          34.1428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Lomita",
+        "tag": "glelom_i",
+        "stopId": "0466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2500629,
+          34.141269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Maple",
+        "tag": "glemap_i",
+        "stopId": "0468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.250951,
+          34.1391689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Windsor",
+        "tag": "glewin_i",
+        "stopId": "0469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25148,
+          34.1373449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Chevy Chase",
+        "tag": "gleche_i",
+        "stopId": "0463"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25206,
+          34.133716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Palmer",
+        "tag": "glepal_i",
+        "stopId": "0300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.252264,
+          34.1324329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Los Feliz",
+        "tag": "glelos_i",
+        "stopId": "0467"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.252928,
+          34.1282589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale at Cerritos",
+        "tag": "glecer_i",
+        "stopId": "0462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.253412,
+          34.1252389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Fernando at Brand",
+        "tag": "sanbra_i",
+        "stopId": "0458"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2545829,
+          34.1236068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Fernando at Cerritos",
+        "tag": "sancer_i",
+        "stopId": "0459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2569499,
+          34.1258629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Glendale Transportation Center (Arrival)",
+        "tag": "gtc_a",
+        "stopId": "0136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.260299,
+          34.1252253
         ]
       }
     }

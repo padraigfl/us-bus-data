@@ -566,8 +566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.1617499,
-          39.12779
+          -120.16175,
+          39.1277899
         ]
       }
     },
@@ -611,7 +611,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.1537299,
+          -120.15373,
           39.14446
         ]
       }
@@ -627,7 +627,7 @@
         "type": "Point",
         "coordinates": [
           -120.14565,
-          39.1512099
+          39.15121
         ]
       }
     },
@@ -657,7 +657,7 @@
         "type": "Point",
         "coordinates": [
           -120.14561,
-          39.15857
+          39.1585699
         ]
       }
     },
@@ -1159,7 +1159,7 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hwy 28 at Coon St (7-11)",
+        "title": "Hwy 28 at Raccoon St (7-11)",
         "tag": "231",
         "stopId": "0231"
       },
@@ -1436,8 +1436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.1055599,
-          39.19171
+          -120.1050399,
+          39.1923299
         ]
       }
     },
@@ -1721,7 +1721,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.94674,
+          -119.9467399,
           39.2488999
         ]
       }
@@ -1752,7 +1752,7 @@
         "type": "Point",
         "coordinates": [
           -119.9497199,
-          39.2442999
+          39.24431
         ]
       }
     },
@@ -1993,6 +1993,21 @@
         "coordinates": [
           -120.00586,
           39.2273699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alpine Transport Center",
+        "tag": "400",
+        "stopId": "0400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1991,
+          39.1876699
         ]
       }
     },
@@ -2636,8 +2651,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.1676499,
-          39.3237299
+          -120.16765,
+          39.32373
         ]
       }
     },
@@ -2666,7 +2681,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.17687,
+          -120.1768699,
           39.3263899
         ]
       }
@@ -2892,7 +2907,7 @@
         "type": "Point",
         "coordinates": [
           -120.1693399,
-          39.3243099
+          39.32431
         ]
       }
     },
@@ -3017,6 +3032,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Squaw Valley Rd at New Park (Near Entrance)",
+        "tag": "408_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.20087,
+          39.2048099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Truckee Depot - Arrive",
         "tag": "2227_ar"
       },
@@ -3045,34 +3074,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Tunnel Creek Bonanza (Arrive)",
-        "tag": "3049_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.92895,
-          39.2366799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hwy 28 at Tahoe Biltmore (Shelter) - Arrive",
-        "tag": "1760_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.00576,
-          39.2274199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Sugar Pine Point State Park",
         "tag": "2091_ar"
       },
@@ -3087,6 +3088,20 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Tunnel Creek Bonanza (Arrive)",
+        "tag": "3049_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.92895,
+          39.2366799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Arrive",
         "tag": "1747_ar"
       },
@@ -3095,6 +3110,20 @@
         "coordinates": [
           -119.94377,
           39.2393499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hwy 28 at Tahoe Biltmore (Shelter) - Arrive",
+        "tag": "1760_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.00576,
+          39.2274199
         ]
       }
     },
@@ -3129,14 +3158,28 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Edwin Rd at Henness Rd (Bus Shelter)",
-        "tag": "614_ar"
+        "title": "Estates Dr at Senior Apartments",
+        "tag": "617_ar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.17111,
-          39.3415099
+          -120.1686,
+          39.3268699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Edwin Rd at Henness Rd (Bus Shelter)",
+        "tag": "3047_ar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.17101,
+          39.3415499
         ]
       }
     },

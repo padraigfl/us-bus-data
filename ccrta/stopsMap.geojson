@@ -349,6 +349,51 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "St. Francis/Pope John Paul, Hyannis",
+        "tag": "800577",
+        "stopId": "032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28499,
+          41.6483399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sturgis Charter School -- Main Street, Hyannis",
+        "tag": "800578",
+        "stopId": "033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28539,
+          41.6521199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sturgis Charter School @ South Street, Hyannis",
+        "tag": "800579",
+        "stopId": "034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28435,
+          41.6506899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Sturgis Charter School -- West Main Street, Hyannis",
         "tag": "800580",
         "stopId": "035"
@@ -664,6 +709,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Cape Cod Lighthouse Charter School, East Harwich",
+        "tag": "800601",
+        "stopId": "058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.02467,
+          41.7113899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Underpass Road & Snow Road, Brewster",
         "tag": "800602",
         "stopId": "059"
@@ -762,7 +822,7 @@
         "type": "Point",
         "coordinates": [
           -69.9685999,
-          41.85837
+          41.8583699
         ]
       }
     },
@@ -874,6 +934,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Falmouth Plaza",
+        "tag": "800619",
+        "stopId": "078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59978,
+          41.5561699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Colonial Plaza, Falmouth",
+        "tag": "800620",
+        "stopId": "079"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6000909,
+          41.5550582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Falmouth Library",
         "tag": "800621",
         "stopId": "080"
@@ -883,6 +973,81 @@
         "coordinates": [
           -70.61407,
           41.5520999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shining Sea Bike Path, Falmouth",
+        "tag": "800622",
+        "stopId": "081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6270899,
+          41.55152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Oyster Pond Road, Falmouth",
+        "tag": "800623",
+        "stopId": "082"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64843,
+          41.5437399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Woods Hole Oceanographic Institution",
+        "tag": "800624",
+        "stopId": "083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6530999,
+          41.5345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Falmouth Chamber of Commerce",
+        "tag": "800625",
+        "stopId": "084"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.61667,
+          41.55233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Water Street/Luscombe Avenue, Woods Hole",
+        "tag": "800626",
+        "stopId": "085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.66941,
+          41.5238499
         ]
       }
     },
@@ -911,7 +1076,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.0847899,
+          -70.08479,
           42.0340999
         ]
       }
@@ -927,7 +1092,7 @@
         "type": "Point",
         "coordinates": [
           -70.06498,
-          42.03876
+          42.0387599
         ]
       }
     },
@@ -941,98 +1106,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.0749399,
-          42.038
+          -70.07494,
+          42.0379999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Beech Forest, Provincetown",
-        "tag": "800631",
-        "stopId": "090"
+        "title": "JFK Museum, Hyannis",
+        "tag": "800637",
+        "stopId": "096"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.19272,
-          42.06563
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Herring Cove Beach, Provincetown",
-        "tag": "800632",
-        "stopId": "091"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.21645,
-          42.0438099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "First Pilgrims Park/Provincetown Inn, Provincetown",
-        "tag": "800633",
-        "stopId": "092"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.19615,
-          42.0372399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Race Point, Provincetown",
-        "tag": "800634",
-        "stopId": "093"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.21812,
-          42.0793099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Province Lands Visitor Center, Provincetown",
-        "tag": "800635",
-        "stopId": "094"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.20574,
-          42.0738599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Provincetown Municipal Airport",
-        "tag": "800636",
-        "stopId": "095"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.2171599,
-          42.07617
+          -70.28437,
+          41.6525799
         ]
       }
     },
@@ -1324,6 +1414,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Sea Crest Hotel, North Falmouth",
+        "tag": "800662",
+        "stopId": "127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6378199,
+          41.62613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Cotuit Road & Farmersville Road, Sandwich",
         "tag": "800663",
         "stopId": "128"
@@ -1399,21 +1504,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Head of the Meadow Beach, North Truro",
-        "tag": "800669",
-        "stopId": "136"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.08543,
-          42.03807
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Old Cobb Library, Truro",
         "tag": "800671",
         "stopId": "138"
@@ -1459,6 +1549,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Island Queen Ferry, Falmouth",
+        "tag": "800674",
+        "stopId": "141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60053,
+          41.5521799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Buzzards Bay Train Station",
         "tag": "800675",
         "stopId": "142"
@@ -1496,8 +1601,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.1839699,
-          42.05849
+          -70.18397,
+          42.0584899
         ]
       }
     },
@@ -1511,7 +1616,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.0565299,
+          -70.05653,
           42.0312899
         ]
       }
@@ -1543,6 +1648,21 @@
         "coordinates": [
           -70.59854,
           41.7530699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bourne Scenic Park",
+        "tag": "800681",
+        "stopId": "148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59095,
+          41.7516699
         ]
       }
     },
@@ -1699,6 +1819,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Trinity Christian Academy",
+        "tag": "805283",
+        "stopId": "157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28086,
+          41.6840799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Maurice's Market",
         "tag": "811989",
         "stopId": "162"
@@ -1759,6 +1894,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Sandwich High School",
+        "tag": "2327016",
+        "stopId": "166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.45819,
+          41.7354799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Broad Reach Healthcare",
         "tag": "2383148",
         "stopId": "167"
@@ -1797,22 +1947,37 @@
         "type": "Point",
         "coordinates": [
           -70.28718,
-          41.66702
+          41.6670199
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Provincetown Monument",
-        "tag": "2455484",
-        "stopId": "180"
+        "title": "JFK Memorial Beach",
+        "tag": "2455545",
+        "stopId": "196"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.1892522,
-          42.0527884
+          -70.27811,
+          41.6409599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bucatino Restaurant - Route 151",
+        "tag": "2483595",
+        "stopId": "171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.612,
+          41.6463799
         ]
       }
     },
@@ -1858,6 +2023,81 @@
         "coordinates": [
           -70.62141,
           41.5639499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Trial Court",
+        "tag": "2536007",
+        "stopId": "174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.61356,
+          41.5620799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bourne Recreation Area",
+        "tag": "2536010",
+        "stopId": "175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58871,
+          41.7467699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Resort and Conference Center at Hyannis",
+        "tag": "2537677",
+        "stopId": "197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.29757,
+          41.6459999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kalmus Beach",
+        "tag": "2537678",
+        "stopId": "182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28085,
+          41.6356099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Falmouth Public Library",
+        "tag": "2558941",
+        "stopId": "175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.61524,
+          41.5531299
         ]
       }
     },
@@ -1963,6 +2203,201 @@
         "coordinates": [
           -70.59887,
           41.5610999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stone Horse Motel",
+        "tag": "2615660",
+        "stopId": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.04888,
+          41.6752399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Adventure Camping Ground",
+        "tag": "2615662",
+        "stopId": "191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.07952,
+          42.0446599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Provincetown Visitor Center",
+        "tag": "2615663",
+        "stopId": "187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.20568,
+          42.0737199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seagull Motel",
+        "tag": "2615664",
+        "stopId": "184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.14357,
+          42.0610799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bismore Park",
+        "tag": "2615666",
+        "stopId": "183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.27985,
+          41.6491099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beech Forest Parking Lot",
+        "tag": "2615667",
+        "stopId": "185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19363,
+          42.0663399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Provincetown Airport",
+        "tag": "2615668",
+        "stopId": "186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.21707,
+          42.0762299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Race Point Beach",
+        "tag": "2615669",
+        "stopId": "188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2195,
+          42.0793699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Herring Cove Beach",
+        "tag": "2615670",
+        "stopId": "189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.22023,
+          42.0484599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Provincetown Inn",
+        "tag": "2615671",
+        "stopId": "190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19549,
+          42.0373899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hampton Inn Bourne",
+        "tag": "2618268",
+        "stopId": "192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60286,
+          41.7465599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Keystone Place",
+        "tag": "2618269",
+        "stopId": "193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60485,
+          41.7469799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bourne Town Hall",
+        "tag": "2618270",
+        "stopId": "194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.60196,
+          41.7478899
         ]
       }
     }

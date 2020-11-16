@@ -7,15 +7,15 @@
           "Suisun Senior Center": true
         }
       },
-      "lon": "-122.04149",
-      "title": "Railroad Ave @ Amtrak (Suisun City Amtrak Station)",
       "stopId": "75173",
+      "lon": "-122.04149",
       "tag": "5230",
+      "title": "Railroad Ave @ Amtrak (Suisun City Amtrak Station)",
       "lat": "38.2429599",
       "scheduleRoutes": {
         "5": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "05:43:00",
               "06:43:00",
               "07:43:00",
@@ -31,7 +31,7 @@
               "17:43:00",
               "18:43:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:43:00",
               "10:43:00",
               "11:43:00",
@@ -42,7 +42,7 @@
             ]
           },
           "Suisun Senior Center": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:14:00",
               "07:14:00",
               "08:14:00",
@@ -58,7 +58,7 @@
               "18:14:00",
               "19:14:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:14:00",
               "11:14:00",
               "12:14:00",
@@ -86,30 +86,23 @@
           "Solano College/Cordelia Library": true
         },
         "BLUE": {
-          "Ftc Davis": true,
-          "Ftc Ph Bart": true,
           "Ftc Sacramento": true,
-          "Ftc Vacaville": true,
-          "Vacaville Ftc": true,
-          "Ftc Dixon": true,
-          "Dixon Sac": true,
-          "Vacaville Sac": true
+          "Ftc Ph Bart": true
         },
         "GX": {
-          "Del Norte Bart": true,
-          "Ftc Sc Amtrak": true,
-          "Ftc Del Norte Bart": true
+          "Ftc Del Norte Bart": true,
+          "Ftc Sc Amtrak": true
         }
       },
-      "lon": "-122.06837",
-      "title": "Fairfield Transportation Center (FTC)",
       "stopId": "75268",
+      "lon": "-122.06837",
       "tag": "5351",
+      "title": "Fairfield Transportation Center (FTC)",
       "lat": "38.2491899",
       "scheduleRoutes": {
         "1": {
           "Walmart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:00:00",
               "06:30:00",
               "07:00:00",
@@ -141,7 +134,7 @@
               "18:30:00",
               "19:00:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:00:00",
               "10:00:00",
               "11:00:00",
@@ -155,7 +148,7 @@
         },
         "3": {
           "Walmart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:00:00",
               "06:30:00",
               "07:00:00",
@@ -184,7 +177,7 @@
               "18:30:00",
               "19:00:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:00:00",
               "10:00:00",
               "11:00:00",
@@ -198,7 +191,7 @@
         },
         "5": {
           "Suisun Senior Center": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:00:00",
               "07:00:00",
               "08:00:00",
@@ -214,7 +207,7 @@
               "18:00:00",
               "19:00:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:00:00",
               "11:00:00",
               "12:00:00",
@@ -227,7 +220,7 @@
         },
         "7": {
           "Solano College/Cordelia Library": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:00:00",
               "07:00:00",
               "08:00:00",
@@ -242,7 +235,7 @@
               "17:00:00",
               "18:00:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:00:00",
               "11:00:00",
               "12:00:00",
@@ -253,36 +246,9 @@
             ]
           }
         },
-        "GX": {
-          "Del Norte Bart": {
-            "wkd": [
-              "04:10:00",
-              "15:36:00",
-              "16:36:00",
-              "17:36:00"
-            ]
-          },
-          "Ftc Del Norte Bart": {
-            "wkd": [
-              "05:10:00",
-              "06:10:00",
-              "06:50:00",
-              "18:36:00"
-            ]
-          },
-          "Ftc Sc Amtrak": {
-            "wkd": [
-              "05:38:00",
-              "17:12:00",
-              "18:12:00",
-              "19:12:00",
-              "20:12:00"
-            ]
-          }
-        },
         "BLUE": {
           "Benicia Ph Bart": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "08:00:00",
               "09:00:00",
               "11:00:00",
@@ -292,21 +258,21 @@
             ]
           },
           "Dixon Sac": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:00:00",
               "06:30:00"
             ]
           },
           "Ftc Dixon": {},
           "Ftc Ph Bart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "04:41:00",
               "05:33:00",
               "06:33:00",
-              "06:59:00",
-              "07:37:00",
+              "06:58:00",
+              "07:33:00",
               "08:38:00",
-              "11:38:00",
+              "11:35:00",
               "13:50:00",
               "14:50:00",
               "15:20:00",
@@ -318,7 +284,7 @@
             ]
           },
           "Ftc Sacramento": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:13:00",
               "08:14:00",
               "13:33:00",
@@ -326,7 +292,7 @@
             ]
           },
           "Ftc Vacaville": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "09:14:00",
               "11:14:00",
               "16:34:00",
@@ -337,13 +303,13 @@
             ]
           },
           "Vacaville Sac": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "14:33:00",
               "14:53:00"
             ]
           },
           "Ftc Davis": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:55:00",
               "11:55:00",
               "13:59:00",
@@ -352,12 +318,39 @@
           },
           "Vac Davis": {},
           "Vacaville Ftc": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:00:00",
               "12:00:00",
               "14:00:00",
               "16:04:00",
               "18:04:00"
+            ]
+          }
+        },
+        "GX": {
+          "Del Norte Bart": {
+            "c_20140_b_26749_d_31": [
+              "04:10:00",
+              "15:36:00",
+              "16:36:00",
+              "17:36:00"
+            ]
+          },
+          "Ftc Del Norte Bart": {
+            "c_20140_b_26749_d_31": [
+              "05:10:00",
+              "06:10:00",
+              "06:50:00",
+              "18:36:00"
+            ]
+          },
+          "Ftc Sc Amtrak": {
+            "c_20140_b_26749_d_31": [
+              "05:38:00",
+              "17:12:00",
+              "18:12:00",
+              "19:12:00",
+              "20:12:00"
             ]
           }
         }
@@ -366,41 +359,35 @@
     "5410": {
       "routes": {
         "BLUE": {
-          "Vacaville Ftc": true,
-          "Ftc Davis": true,
-          "Ftc Ph Bart": true,
           "Ftc Sacramento": true,
-          "Ftc Dixon": true,
-          "Dixon Sac": true,
-          "Vacaville Sac": true,
-          "Ftc Vacaville": true
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.9649",
-      "title": "Vacaville Transportation Center",
       "stopId": "75388",
+      "lon": "-121.9649",
       "tag": "5410",
+      "title": "Vacaville Transportation Center",
       "lat": "38.3586399",
       "scheduleRoutes": {
         "BLUE": {
           "Davis Ftc": {},
           "Dixon Ftc": {},
           "Dixon Sac": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:14:00",
               "06:44:00"
             ]
           },
           "Ftc Dixon": {},
           "Ftc Ph Bart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "04:25:00",
               "05:17:00",
               "06:17:00",
               "06:42:00",
               "07:17:00",
               "08:17:00",
-              "11:13:00",
+              "11:10:00",
               "11:32:00",
               "13:33:00",
               "14:33:00",
@@ -409,12 +396,11 @@
               "16:00:00",
               "16:25:00",
               "17:21:00",
-              "18:22:00",
-              "19:14:00"
+              "18:22:00"
             ]
           },
           "Ftc Sacramento": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:29:00",
               "08:30:00",
               "13:52:00",
@@ -422,18 +408,18 @@
             ]
           },
           "Ftc Vacaville": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "16:54:00",
               "18:54:00",
               "19:50:00"
             ]
           },
           "Vacaville Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "08:42:00",
               "09:42:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:35:00",
               "11:35:00",
               "13:37:00",
@@ -442,13 +428,14 @@
             ]
           },
           "Vacaville Sac": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "14:53:00",
               "15:13:00"
             ]
           },
+          "Vtc Ftc": {},
           "Ftc Davis": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:12:00",
               "12:13:00",
               "14:17:00",
@@ -462,42 +449,37 @@
     "5412": {
       "routes": {
         "BLUE": {
-          "Ftc Davis": true,
-          "Ftc Ph Bart": true,
           "Ftc Sacramento": true,
-          "Vacaville Ftc": true,
-          "Dixon Sac": true,
-          "Vacaville Sac": true
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.842",
-      "title": "Dixon Park & Ride",
       "stopId": "75392",
+      "lon": "-121.842",
       "tag": "5412",
+      "title": "Dixon Park & Ride",
       "lat": "38.4556899",
       "scheduleRoutes": {
         "BLUE": {
           "Davis Ftc": {},
           "Dixon Ftc": {},
           "Dixon Sac": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:28:00",
               "06:58:00"
             ]
           },
           "Ftc Ph Bart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "04:56:00",
               "05:56:00",
               "07:57:00",
               "10:49:00",
               "16:01:00",
-              "18:01:00",
-              "18:50:00"
+              "18:01:00"
             ]
           },
           "Ftc Sacramento": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:49:00",
               "08:50:00",
               "14:12:00",
@@ -505,13 +487,13 @@
             ]
           },
           "Vacaville Sac": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "15:13:00",
               "15:34:00"
             ]
           },
           "Ftc Davis": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:33:00",
               "12:34:00",
               "14:39:00",
@@ -520,7 +502,7 @@
           },
           "Vac Davis": {},
           "Vacaville Ftc": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:14:00",
               "11:14:00",
               "13:15:00",
@@ -534,41 +516,39 @@
     "5413": {
       "routes": {
         "BLUE": {
-          "Ftc Ph Bart": true,
           "Ftc Sacramento": true,
-          "Vacaville Ftc": true,
-          "Vacaville Sac": true
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.75546",
-      "title": "UC Davis Silo",
       "stopId": "75393",
+      "lon": "-121.75546",
       "tag": "5413",
+      "title": "UC Davis Silo",
       "lat": "38.5390699",
       "scheduleRoutes": {
         "BLUE": {
           "Davis Ftc": {},
           "Ftc Ph Bart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "10:35:00",
               "15:47:00"
             ]
           },
           "Ftc Sacramento": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "08:01:00",
               "09:02:00",
               "16:29:00"
             ]
           },
           "Vacaville Sac": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "15:25:00",
               "15:46:00"
             ]
           },
           "Vacaville Ftc": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:00:00",
               "11:00:00",
               "13:00:00",
@@ -582,26 +562,24 @@
     "5414": {
       "routes": {
         "BLUE": {
-          "Ftc Sacramento": true,
-          "Dixon Sac": true,
-          "Vacaville Sac": true
+          "Ftc Sacramento": true
         }
       },
-      "lon": "-121.50668",
-      "title": "Capitol Mall",
       "stopId": "75395",
+      "lon": "-121.50668",
       "tag": "5414",
+      "title": "Capitol Mall",
       "lat": "38.5799999",
       "scheduleRoutes": {
         "BLUE": {
           "Dixon Sac": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:53:00",
               "07:24:00"
             ]
           },
           "Ftc Sacramento": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "08:26:00",
               "09:26:00",
               "14:37:00",
@@ -609,7 +587,7 @@
             ]
           },
           "Vacaville Sac": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "16:04:00",
               "16:28:00"
             ]
@@ -620,19 +598,18 @@
     "5416": {
       "routes": {
         "BLUE": {
-          "Ftc Ph Bart": true,
-          "Vacaville Ftc": true
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-122.12912",
-      "title": "Benicia Park Road & Industrial Way (SB)",
       "stopId": "75397",
+      "lon": "-122.12912",
       "tag": "5416",
+      "title": "Benicia Park Road & Industrial Way (SB)",
       "lat": "38.0683999",
       "scheduleRoutes": {
         "BLUE": {
           "Benicia Ph Bart": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "08:27:00",
               "09:27:00",
               "11:28:00",
@@ -642,14 +619,14 @@
             ]
           },
           "Ftc Ph Bart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "05:04:00",
               "05:56:00",
               "06:56:00",
-              "07:27:00",
-              "08:05:00",
+              "07:26:00",
+              "08:01:00",
               "09:07:00",
-              "12:06:00",
+              "12:03:00",
               "14:18:00",
               "15:18:00",
               "15:48:00",
@@ -661,7 +638,7 @@
             ]
           },
           "Vacaville Ftc": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:28:00",
               "12:28:00",
               "14:28:00",
@@ -675,28 +652,24 @@
     "5417": {
       "routes": {
         "BLUE": {
-          "Ftc Davis": true,
-          "Ftc Sacramento": true,
-          "Ftc Vacaville": true,
-          "Ftc Dixon": true,
-          "Dixon Sac": true
+          "Ftc Sacramento": true
         }
       },
-      "lon": "-122.05601",
-      "title": "Pleasant Hill BART Station",
       "stopId": "75398",
+      "lon": "-122.05601",
       "tag": "5417",
+      "title": "Pleasant Hill BART Station",
       "lat": "37.9281499",
       "scheduleRoutes": {
         "BLUE": {
           "Benicia Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:59:00",
               "09:29:00",
               "12:26:00",
               "16:13:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:00:00",
               "12:00:00",
               "14:04:00",
@@ -707,20 +680,20 @@
             ]
           },
           "Dixon Sac": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "05:27:00"
             ]
           },
           "Ftc Dixon": {},
           "Ftc Sacramento": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:28:00",
               "07:29:00",
               "14:43:00"
             ]
           },
           "Ftc Vacaville": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "08:29:00",
               "10:29:00",
               "15:43:00",
@@ -731,7 +704,7 @@
             ]
           },
           "Ftc Davis": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:00:00",
               "11:00:00",
               "13:04:00",
@@ -744,24 +717,21 @@
     "5424": {
       "routes": {
         "BLUE": {
-          "Vacaville Ftc": true,
-          "Ftc Ph Bart": true,
           "Ftc Sacramento": true,
-          "Dixon Sac": true,
-          "Vacaville Sac": true
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.4960799",
-      "title": "9th St and L St",
       "stopId": "75406",
+      "lon": "-121.4960799",
       "tag": "5424",
+      "title": "9th St and L St",
       "lat": "38.5780499",
       "scheduleRoutes": {
         "BLUE": {
           "Davis Ftc": {},
           "Dixon Ftc": {},
           "Ftc Ph Bart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:25:00",
               "10:01:00",
               "15:13:00",
@@ -769,7 +739,7 @@
             ]
           },
           "Vacaville Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "08:01:00",
               "09:00:00"
             ]
@@ -780,37 +750,32 @@
     "5425": {
       "routes": {
         "BLUE": {
-          "Vacaville Ftc": true,
-          "Ftc Ph Bart": true,
           "Ftc Sacramento": true,
-          "Dixon Sac": true,
-          "Vacaville Sac": true
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.4973899",
-      "title": "9th St and O St",
       "stopId": "75407",
+      "lon": "-121.4973899",
       "tag": "5425",
+      "title": "9th St and O St",
       "lat": "38.57496"
     },
     "9827": {
       "routes": {
         "GX": {
-          "Suisun City Amtrak": true,
-          "Ftc Sc Amtrak": true,
-          "Ftc": true
+          "Ftc Sc Amtrak": true
         }
       },
-      "lon": "-122.31705",
-      "title": "El Cerrito Del Norte BART",
       "stopId": "75400",
+      "lon": "-122.31705",
       "tag": "9827",
+      "title": "El Cerrito Del Norte BART",
       "lat": "37.9248899",
       "scheduleRoutes": {
         "GX": {
           "Ftc": {},
           "Ftc Sc Amtrak": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "04:56:00",
               "16:30:00",
               "17:30:00",
@@ -819,7 +784,7 @@
             ]
           },
           "Suisun City Amtrak": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "05:56:00",
               "06:56:00"
             ]
@@ -833,10 +798,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.04515",
-      "title": "Fairfield Ave and Stratford Lane",
       "stopId": "75003",
+      "lon": "-122.04515",
       "tag": "28540",
+      "title": "Fairfield Ave and Stratford Lane",
       "lat": "38.26726"
     },
     "28541": {
@@ -845,10 +810,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.0428",
-      "title": "Heath Dr and Breton Dr",
       "stopId": "75005",
+      "lon": "-122.0428",
       "tag": "28541",
+      "title": "Heath Dr and Breton Dr",
       "lat": "38.27089"
     },
     "28542": {
@@ -857,10 +822,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0342799",
-      "title": "N Texas St and Alaska Ave",
       "stopId": "75007",
+      "lon": "-122.0342799",
       "tag": "28542",
+      "title": "N Texas St and Alaska Ave",
       "lat": "38.2711"
     },
     "28543": {
@@ -869,10 +834,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0342999",
-      "title": "N Texas St and E Pacific Ave",
       "stopId": "75008",
+      "lon": "-122.0342999",
       "tag": "28543",
+      "title": "N Texas St and E Pacific Ave",
       "lat": "38.26817"
     },
     "28544": {
@@ -881,10 +846,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0343099",
-      "title": "N Texas St and E Tabor Ave",
       "stopId": "75009",
+      "lon": "-122.0343099",
       "tag": "28544",
+      "title": "N Texas St and E Tabor Ave",
       "lat": "38.26601"
     },
     "28545": {
@@ -896,15 +861,15 @@
           "Solano Town Ctr": true
         }
       },
-      "lon": "-122.03433",
-      "title": "N Texas St and Acacia Ave (Foodmax)",
       "stopId": "75010",
+      "lon": "-122.03433",
       "tag": "28545",
+      "title": "N Texas St and Acacia Ave (Foodmax)",
       "lat": "38.2635599",
       "scheduleRoutes": {
         "1": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:38:00",
               "07:08:00",
               "07:38:00",
@@ -936,7 +901,7 @@
               "19:08:00",
               "19:38:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:38:00",
               "10:38:00",
               "11:38:00",
@@ -950,7 +915,7 @@
         },
         "2": {
           "Solano Town Ctr": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:04:00",
               "07:34:00",
               "08:04:00",
@@ -973,7 +938,7 @@
               "18:34:00",
               "19:04:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:34:00",
               "11:34:00",
               "12:34:00",
@@ -995,10 +960,10 @@
           "Solano Town Ctr": true
         }
       },
-      "lon": "-122.0343599",
-      "title": "N Texas St and Travis Blvd",
       "stopId": "75012",
+      "lon": "-122.0343599",
       "tag": "28546",
+      "title": "N Texas St and Travis Blvd",
       "lat": "38.25882"
     },
     "28547": {
@@ -1010,10 +975,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.03856",
-      "title": "Travis Blvd. & Clay St.",
       "stopId": "75013",
+      "lon": "-122.03856",
       "tag": "28547",
+      "title": "Travis Blvd. & Clay St.",
       "lat": "38.2583599"
     },
     "28548": {
@@ -1022,10 +987,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.04051",
-      "title": "Union Ave and Kennedy Ct",
       "stopId": "75014",
+      "lon": "-122.04051",
       "tag": "28548",
+      "title": "Union Ave and Kennedy Ct",
       "lat": "38.2571799"
     },
     "28549": {
@@ -1034,10 +999,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.0405799",
-      "title": "Union Ave and Carpenter St",
       "stopId": "75015",
+      "lon": "-122.0405799",
       "tag": "28549",
+      "title": "Union Ave and Carpenter St",
       "lat": "38.2532799"
     },
     "28550": {
@@ -1046,10 +1011,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.04083",
-      "title": "Kentucky St and Union Ave",
       "stopId": "75016",
+      "lon": "-122.04083",
       "tag": "28550",
+      "title": "Kentucky St and Union Ave",
       "lat": "38.25151"
     },
     "28551": {
@@ -1061,10 +1026,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.0438899",
-      "title": "Kentucky St and Webster St",
       "stopId": "75017",
+      "lon": "-122.0438899",
       "tag": "28551",
+      "title": "Kentucky St and Webster St",
       "lat": "38.2515299"
     },
     "28552": {
@@ -1076,15 +1041,15 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.04637",
-      "title": "Kentucky St Madison St (Civic Center)",
       "stopId": "75018",
+      "lon": "-122.04637",
       "tag": "28552",
+      "title": "Kentucky St Madison St (Civic Center)",
       "lat": "38.2515299",
       "scheduleRoutes": {
         "1": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:47:00",
               "07:17:00",
               "07:47:00",
@@ -1116,7 +1081,7 @@
               "19:17:00",
               "19:47:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:47:00",
               "10:47:00",
               "11:47:00",
@@ -1130,7 +1095,7 @@
         },
         "6": {
           "Solano Town Center": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:28:00",
               "08:13:00",
               "08:58:00",
@@ -1149,7 +1114,7 @@
               "18:43:00",
               "19:28:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:28:00",
               "11:13:00",
               "11:58:00",
@@ -1170,10 +1135,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.05005",
-      "title": "Pennsylvania Ave and Kansas St",
       "stopId": "75020",
+      "lon": "-122.05005",
       "tag": "28553",
+      "title": "Pennsylvania Ave and Kansas St",
       "lat": "38.2574"
     },
     "28554": {
@@ -1182,10 +1147,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.04036",
-      "title": "Union Ave and Louisiana St",
       "stopId": "75024",
+      "lon": "-122.04036",
       "tag": "28554",
+      "title": "Union Ave and Louisiana St",
       "lat": "38.2527199"
     },
     "28555": {
@@ -1197,15 +1162,15 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.03944",
-      "title": "Travis Blvd. and Washington St.",
       "stopId": "75025",
+      "lon": "-122.03944",
       "tag": "28555",
+      "title": "Travis Blvd. and Washington St.",
       "lat": "38.2581799",
       "scheduleRoutes": {
         "2": {
           "Ff Vac Train Station": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:20:00",
               "06:50:00",
               "07:20:00",
@@ -1229,7 +1194,7 @@
               "18:20:00",
               "18:50:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:50:00",
               "10:50:00",
               "11:50:00",
@@ -1251,10 +1216,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.0377799",
-      "title": "Travis Blvd. and Clay St.",
       "stopId": "75026",
+      "lon": "-122.0377799",
       "tag": "28556",
+      "title": "Travis Blvd. and Clay St.",
       "lat": "38.25817"
     },
     "28558": {
@@ -1266,10 +1231,10 @@
           "Ff Vac Train Station": true
         }
       },
-      "lon": "-122.03406",
-      "title": "N Texas St and E Travis Blvd",
       "stopId": "75027",
+      "lon": "-122.03406",
       "tag": "28558",
+      "title": "N Texas St and E Travis Blvd",
       "lat": "38.2591199"
     },
     "28559": {
@@ -1281,15 +1246,15 @@
           "Ff Vac Train Station": true
         }
       },
-      "lon": "-122.03407",
-      "title": "N Texas and Acacia Ave (Mexico Meat Market)",
       "stopId": "75029",
+      "lon": "-122.03407",
       "tag": "28559",
+      "title": "N Texas and Acacia Ave (Mexico Meat Market)",
       "lat": "38.2638699",
       "scheduleRoutes": {
         "1": {
           "Walmart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:15:00",
               "06:45:00",
               "07:15:00",
@@ -1321,7 +1286,7 @@
               "18:45:00",
               "19:15:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:15:00",
               "10:15:00",
               "11:15:00",
@@ -1335,7 +1300,7 @@
         },
         "2": {
           "Ff Vac Train Station": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:23:00",
               "06:53:00",
               "07:23:00",
@@ -1359,7 +1324,7 @@
               "18:23:00",
               "18:53:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:53:00",
               "10:53:00",
               "11:53:00",
@@ -1378,10 +1343,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.0340599",
-      "title": "N Texas St and E Tabor Ave",
       "stopId": "75030",
+      "lon": "-122.0340599",
       "tag": "28560",
+      "title": "N Texas St and E Tabor Ave",
       "lat": "38.26699"
     },
     "28561": {
@@ -1390,10 +1355,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.0340299",
-      "title": "N Texas St and E Pacific Ave",
       "stopId": "75031",
+      "lon": "-122.0340299",
       "tag": "28561",
+      "title": "N Texas St and E Pacific Ave",
       "lat": "38.26949"
     },
     "28562": {
@@ -1402,10 +1367,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.0339899",
-      "title": "N Texas St and Alaska Ave",
       "stopId": "75032",
+      "lon": "-122.0339899",
       "tag": "28562",
+      "title": "N Texas St and Alaska Ave",
       "lat": "38.27187"
     },
     "28563": {
@@ -1417,10 +1382,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.03398",
-      "title": "N Texas St and Air Base Parkway",
       "stopId": "75033",
+      "lon": "-122.03398",
       "tag": "28563",
+      "title": "N Texas St and Air Base Parkway",
       "lat": "38.27464"
     },
     "28564": {
@@ -1429,10 +1394,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0429699",
-      "title": "Heath Dr and Breton Dr",
       "stopId": "75034",
+      "lon": "-122.0429699",
       "tag": "28564",
+      "title": "Heath Dr and Breton Dr",
       "lat": "38.2709599"
     },
     "28565": {
@@ -1441,10 +1406,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.04477",
-      "title": "Pacific Ave and Fairfield Ave",
       "stopId": "75035",
+      "lon": "-122.04477",
       "tag": "28565",
+      "title": "Pacific Ave and Fairfield Ave",
       "lat": "38.2686299"
     },
     "28567": {
@@ -1453,10 +1418,10 @@
           "Ff Vac Train Station": true
         }
       },
-      "lon": "-122.0299399",
-      "title": "E Tabor Ave and Kidder Ave",
       "stopId": "75038",
+      "lon": "-122.0299399",
       "tag": "28567",
+      "title": "E Tabor Ave and Kidder Ave",
       "lat": "38.2654199"
     },
     "28568": {
@@ -1465,10 +1430,10 @@
           "Ff Vac Train Station": true
         }
       },
-      "lon": "-122.02456",
-      "title": "E Tabor Ave and Dover Ave",
       "stopId": "75039",
+      "lon": "-122.02456",
       "tag": "28568",
+      "title": "E Tabor Ave and Dover Ave",
       "lat": "38.26532"
     },
     "28569": {
@@ -1477,10 +1442,10 @@
           "Ff Vac Train Station": true
         }
       },
-      "lon": "-122.02062",
-      "title": "E Tabor Ave and Sunset Ave",
       "stopId": "75040",
+      "lon": "-122.02062",
       "tag": "28569",
+      "title": "E Tabor Ave and Sunset Ave",
       "lat": "38.26527"
     },
     "28570": {
@@ -1489,15 +1454,15 @@
           "Ff Vac Train Station": true
         }
       },
-      "lon": "-122.01688",
-      "title": "E Tabor Ave and Falcon Dr (Grange Middle School)",
       "stopId": "75041",
+      "lon": "-122.01688",
       "tag": "28570",
+      "title": "E Tabor Ave and Falcon Dr (Grange Middle School)",
       "lat": "38.2651899",
       "scheduleRoutes": {
         "2": {
           "Ff Vac Train Station": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:26:00",
               "06:56:00",
               "07:26:00",
@@ -1521,7 +1486,7 @@
               "18:26:00",
               "18:56:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:56:00",
               "10:56:00",
               "11:56:00",
@@ -1540,10 +1505,10 @@
           "Ff Vac Train Station": true
         }
       },
-      "lon": "-122.0127499",
-      "title": "E Tabor Ave and Manor Place",
       "stopId": "75043",
+      "lon": "-122.0127499",
       "tag": "28571",
+      "title": "E Tabor Ave and Manor Place",
       "lat": "38.2651499"
     },
     "28572": {
@@ -1552,10 +1517,10 @@
           "Ff Vac Train Station": true
         }
       },
-      "lon": "-122.0087499",
-      "title": "E Tabor Ave and Grande Circle (E)",
       "stopId": "75044",
+      "lon": "-122.0087499",
       "tag": "28572",
+      "title": "E Tabor Ave and Grande Circle (E)",
       "lat": "38.2650999"
     },
     "28574": {
@@ -1567,10 +1532,10 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-121.9968199",
-      "title": "E Tabor Ave and Tolenas Rd",
       "stopId": "75046",
+      "lon": "-121.9968199",
       "tag": "28574",
+      "title": "E Tabor Ave and Tolenas Rd",
       "lat": "38.2649099"
     },
     "28575": {
@@ -1582,10 +1547,10 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-121.9927899",
-      "title": "E Tabor Ave and Solano Rd.",
       "stopId": "75047",
+      "lon": "-121.9927899",
       "tag": "28575",
+      "title": "E Tabor Ave and Solano Rd.",
       "lat": "38.26485"
     },
     "28576": {
@@ -1597,10 +1562,10 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-121.98788",
-      "title": "Walters Rd and E Tabor Ave",
       "stopId": "75048",
+      "lon": "-121.98788",
       "tag": "28576",
+      "title": "Walters Rd and E Tabor Ave",
       "lat": "38.26545"
     },
     "28577": {
@@ -1612,15 +1577,15 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-121.98788",
-      "title": "Walters Rd and Walters Ct",
       "stopId": "75049",
+      "lon": "-121.98788",
       "tag": "28577",
+      "title": "Walters Rd and Walters Ct",
       "lat": "38.2697799",
       "scheduleRoutes": {
         "2": {
           "Ff Vac Train Station": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:31:00",
               "07:01:00",
               "07:31:00",
@@ -1643,7 +1608,7 @@
               "18:01:00",
               "18:31:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:01:00",
               "11:01:00",
               "12:01:00",
@@ -1656,7 +1621,7 @@
         },
         "4": {
           "Tafb-David Grant": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:38:00",
               "07:38:00",
               "08:38:00",
@@ -1667,7 +1632,7 @@
               "16:38:00",
               "17:38:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:38:00",
               "11:38:00",
               "12:38:00",
@@ -1688,15 +1653,15 @@
           "Smart And Final": true
         }
       },
-      "lon": "-121.98812",
-      "title": "Walters Rd and Walters Ct",
       "stopId": "75051",
+      "lon": "-121.98812",
       "tag": "28579",
+      "title": "Walters Rd and Walters Ct",
       "lat": "38.2692399",
       "scheduleRoutes": {
         "2": {
           "Solano Town Ctr": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:53:00",
               "07:23:00",
               "07:53:00",
@@ -1719,7 +1684,7 @@
               "18:23:00",
               "18:53:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:23:00",
               "11:23:00",
               "12:23:00",
@@ -1741,10 +1706,10 @@
           "Smart And Final": true
         }
       },
-      "lon": "-121.9881499",
-      "title": "Walters Rd and Granada Dr",
       "stopId": "75052",
+      "lon": "-121.9881499",
       "tag": "28580",
+      "title": "Walters Rd and Granada Dr",
       "lat": "38.26709"
     },
     "28581": {
@@ -1756,10 +1721,10 @@
           "Smart And Final": true
         }
       },
-      "lon": "-121.9938199",
-      "title": "E Tabor Ave and Solano Rd",
       "stopId": "75053",
+      "lon": "-121.9938199",
       "tag": "28581",
+      "title": "E Tabor Ave and Solano Rd",
       "lat": "38.2650199"
     },
     "28582": {
@@ -1771,10 +1736,10 @@
           "Smart And Final": true
         }
       },
-      "lon": "-121.9989999",
-      "title": "E Tabor Ave and Tolenas Rd",
       "stopId": "75054",
+      "lon": "-121.9989999",
       "tag": "28582",
+      "title": "E Tabor Ave and Tolenas Rd",
       "lat": "38.2650599"
     },
     "28583": {
@@ -1786,10 +1751,10 @@
           "Smart And Final": true
         }
       },
-      "lon": "-122.0019199",
-      "title": "E Tabor Ave and Davis Dr",
       "stopId": "75055",
+      "lon": "-122.0019199",
       "tag": "28583",
+      "title": "E Tabor Ave and Davis Dr",
       "lat": "38.2651199"
     },
     "28584": {
@@ -1798,10 +1763,10 @@
           "Solano Town Ctr": true
         }
       },
-      "lon": "-122.0087699",
-      "title": "E Tabor Ave and Villa Ct",
       "stopId": "75056",
+      "lon": "-122.0087699",
       "tag": "28584",
+      "title": "E Tabor Ave and Villa Ct",
       "lat": "38.2652499"
     },
     "28585": {
@@ -1810,10 +1775,10 @@
           "Solano Town Ctr": true
         }
       },
-      "lon": "-122.0133999",
-      "title": "E Tabor Ave and Manor Pl  (Tabor Park)",
       "stopId": "75057",
+      "lon": "-122.0133999",
       "tag": "28585",
+      "title": "E Tabor Ave and Manor Pl  (Tabor Park)",
       "lat": "38.2653199"
     },
     "28586": {
@@ -1822,15 +1787,15 @@
           "Solano Town Ctr": true
         }
       },
-      "lon": "-122.01778",
-      "title": "E Tabor and Falcon Dr (Grange Middle School)",
       "stopId": "75058",
+      "lon": "-122.01778",
       "tag": "28586",
+      "title": "E Tabor and Falcon Dr (Grange Middle School)",
       "lat": "38.2653999",
       "scheduleRoutes": {
         "2": {
           "Solano Town Ctr": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:00:00",
               "07:30:00",
               "08:00:00",
@@ -1853,7 +1818,7 @@
               "18:30:00",
               "19:00:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:30:00",
               "11:30:00",
               "12:30:00",
@@ -1872,10 +1837,10 @@
           "Solano Town Ctr": true
         }
       },
-      "lon": "-122.02185",
-      "title": "E Tabor Ave and Cardinal Way",
       "stopId": "75059",
+      "lon": "-122.02185",
       "tag": "28587",
+      "title": "E Tabor Ave and Cardinal Way",
       "lat": "38.26545"
     },
     "28588": {
@@ -1884,10 +1849,10 @@
           "Solano Town Ctr": true
         }
       },
-      "lon": "-122.0254899",
-      "title": "E Tabor Ave and Dover Ave",
       "stopId": "75060",
+      "lon": "-122.0254899",
       "tag": "28588",
+      "title": "E Tabor Ave and Dover Ave",
       "lat": "38.2655399"
     },
     "28589": {
@@ -1896,10 +1861,10 @@
           "Solano Town Ctr": true
         }
       },
-      "lon": "-122.0293399",
-      "title": "E Tabor Ave and San Salvador St",
       "stopId": "75061",
+      "lon": "-122.0293399",
       "tag": "28589",
+      "title": "E Tabor Ave and San Salvador St",
       "lat": "38.2655799"
     },
     "28590": {
@@ -1908,10 +1873,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.02583",
-      "title": "Travis fs Dover",
       "stopId": "75065",
+      "lon": "-122.02583",
       "tag": "28590",
+      "title": "Travis fs Dover",
       "lat": "38.25832"
     },
     "28591": {
@@ -1920,10 +1885,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.0296999",
-      "title": "Travis Blvd. & Kidder Ave.",
       "stopId": "75066",
+      "lon": "-122.0296999",
       "tag": "28591",
+      "title": "Travis Blvd. & Kidder Ave.",
       "lat": "38.2583399"
     },
     "28592": {
@@ -1932,10 +1897,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.0321299",
-      "title": "Travis Blvd. & Chamberlain Dr.",
       "stopId": "75067",
+      "lon": "-122.0321299",
       "tag": "28592",
+      "title": "Travis Blvd. & Chamberlain Dr.",
       "lat": "38.2583399"
     },
     "28593": {
@@ -1944,10 +1909,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.03432",
-      "title": "N Texas fs E Bell",
       "stopId": "75069",
+      "lon": "-122.03432",
       "tag": "28593",
+      "title": "N Texas fs E Bell",
       "lat": "38.2547099"
     },
     "28594": {
@@ -1956,10 +1921,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0343299",
-      "title": "N Texas St and E Kentucky St",
       "stopId": "75070",
+      "lon": "-122.0343299",
       "tag": "28594",
+      "title": "N Texas St and E Kentucky St",
       "lat": "38.2528299"
     },
     "28595": {
@@ -1968,10 +1933,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.03731",
-      "title": "Texas St and Clay St",
       "stopId": "75071",
+      "lon": "-122.03731",
       "tag": "28595",
+      "title": "Texas St and Clay St",
       "lat": "38.2492899"
     },
     "28596": {
@@ -1980,10 +1945,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.0433399",
-      "title": "Webster St and Kentucky St",
       "stopId": "75074",
+      "lon": "-122.0433399",
       "tag": "28596",
+      "title": "Webster St and Kentucky St",
       "lat": "38.25079"
     },
     "28597": {
@@ -1992,10 +1957,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.05057",
-      "title": "W Texas St and Pennsylvania Ave",
       "stopId": "75076",
+      "lon": "-122.05057",
       "tag": "28597",
+      "title": "W Texas St and Pennsylvania Ave",
       "lat": "38.24935"
     },
     "28598": {
@@ -2004,10 +1969,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0637999",
-      "title": "Woolner Ave and Vine Dr.",
       "stopId": "75080",
+      "lon": "-122.0637999",
       "tag": "28598",
+      "title": "Woolner Ave and Vine Dr.",
       "lat": "38.2452799"
     },
     "28599": {
@@ -2019,10 +1984,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.06614",
-      "title": "Beck Ave and Woolner Ave",
       "stopId": "75081",
+      "lon": "-122.06614",
       "tag": "28599",
+      "title": "Beck Ave and Woolner Ave",
       "lat": "38.2456899"
     },
     "28600": {
@@ -2031,10 +1996,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.0641999",
-      "title": "W Texas St and Beck Ave",
       "stopId": "75083",
+      "lon": "-122.0641999",
       "tag": "28600",
+      "title": "W Texas St and Beck Ave",
       "lat": "38.24917"
     },
     "28601": {
@@ -2043,10 +2008,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.0362599",
-      "title": "Texas St and State St",
       "stopId": "75088",
+      "lon": "-122.0362599",
       "tag": "28601",
+      "title": "Texas St and State St",
       "lat": "38.2491"
     },
     "28602": {
@@ -2055,10 +2020,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.03409",
-      "title": "N Texas St and  E Kentucky St",
       "stopId": "75089",
+      "lon": "-122.03409",
       "tag": "28602",
+      "title": "N Texas St and  E Kentucky St",
       "lat": "38.2517199"
     },
     "28603": {
@@ -2067,10 +2032,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.03409",
-      "title": "N Texas St and  E Bell St",
       "stopId": "75090",
+      "lon": "-122.03409",
       "tag": "28603",
+      "title": "N Texas St and  E Bell St",
       "lat": "38.25412"
     },
     "28604": {
@@ -2079,10 +2044,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.0329699",
-      "title": "Travis fs N Texas St.",
       "stopId": "75092",
+      "lon": "-122.0329699",
       "tag": "28604",
+      "title": "Travis fs N Texas St.",
       "lat": "38.25816"
     },
     "28606": {
@@ -2094,10 +2059,10 @@
           "Smart And Final": true
         }
       },
-      "lon": "-122.0255799",
-      "title": "Cement Hill Rd and Dover Ave",
       "stopId": "75101",
+      "lon": "-122.0255799",
       "tag": "28606",
+      "title": "Cement Hill Rd and Dover Ave",
       "lat": "38.2799699"
     },
     "28607": {
@@ -2109,10 +2074,10 @@
           "Smart And Final": true
         }
       },
-      "lon": "-122.0295099",
-      "title": "Cement Hill Rd and Camrose Ave",
       "stopId": "75103",
+      "lon": "-122.0295099",
       "tag": "28607",
+      "title": "Cement Hill Rd and Camrose Ave",
       "lat": "38.2781"
     },
     "28608": {
@@ -2124,10 +2089,10 @@
           "Smart And Final": true
         }
       },
-      "lon": "-122.03258",
-      "title": "Cement Hill Rd and  Elmhurst Cir (Fairfield High School)",
       "stopId": "75104",
+      "lon": "-122.03258",
       "tag": "28608",
+      "title": "Cement Hill Rd and  Elmhurst Cir (Fairfield High School)",
       "lat": "38.2764199"
     },
     "28609": {
@@ -2139,15 +2104,15 @@
           "Ftc": true
         }
       },
-      "lon": "-122.03598",
-      "title": "Atlantic Ave and Orchid St (Walmart)",
       "stopId": "75105",
+      "lon": "-122.03598",
       "tag": "28609",
+      "title": "Atlantic Ave and Orchid St (Walmart)",
       "lat": "38.2764899",
       "scheduleRoutes": {
         "1": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:21:00",
               "06:51:00",
               "07:21:00",
@@ -2179,7 +2144,7 @@
               "18:51:00",
               "19:21:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:21:00",
               "10:21:00",
               "11:21:00",
@@ -2193,7 +2158,7 @@
         },
         "3": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:01:00",
               "06:31:00",
               "07:01:00",
@@ -2223,7 +2188,7 @@
               "19:01:00",
               "19:31:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:31:00",
               "10:31:00",
               "11:31:00",
@@ -2243,15 +2208,15 @@
           "Walmart": true
         }
       },
-      "lon": "-122.06586",
-      "title": "Travis Blvd and Holiday Ln (Raley's",
       "stopId": "75117",
+      "lon": "-122.06586",
       "tag": "28612",
+      "title": "Travis Blvd and Holiday Ln (Raley's",
       "lat": "38.2582199",
       "scheduleRoutes": {
         "3": {
           "Walmart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:06:00",
               "06:36:00",
               "07:06:00",
@@ -2280,7 +2245,7 @@
               "18:36:00",
               "19:06:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:06:00",
               "10:06:00",
               "11:06:00",
@@ -2300,10 +2265,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.05741",
-      "title": "GatewayBlvd and Courtyard",
       "stopId": "75118",
+      "lon": "-122.05741",
       "tag": "28613",
+      "title": "GatewayBlvd and Courtyard",
       "lat": "38.25992"
     },
     "28614": {
@@ -2312,10 +2277,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.0564599",
-      "title": "Gateway Blvd @ Mall (west)",
       "stopId": "75119",
+      "lon": "-122.0564599",
       "tag": "28614",
+      "title": "Gateway Blvd @ Mall (west)",
       "lat": "38.26231"
     },
     "28615": {
@@ -2324,10 +2289,10 @@
           "Smart And Final": true
         }
       },
-      "lon": "-122.0064",
-      "title": "Clay Bank Rd and Horizon Dr",
       "stopId": "75131",
+      "lon": "-122.0064",
       "tag": "28615",
+      "title": "Clay Bank Rd and Horizon Dr",
       "lat": "38.2748899"
     },
     "28617": {
@@ -2336,10 +2301,10 @@
           "Smart And Final": true
         }
       },
-      "lon": "-122.0097299",
-      "title": "Cement Hill and Bay Tree Dr",
       "stopId": "75133",
+      "lon": "-122.0097299",
       "tag": "28617",
+      "title": "Cement Hill and Bay Tree Dr",
       "lat": "38.2799599"
     },
     "28618": {
@@ -2348,10 +2313,10 @@
           "Smart And Final": true
         }
       },
-      "lon": "-122.0136899",
-      "title": "Cement Hill fs Peppertree Dr (E)",
       "stopId": "75134",
+      "lon": "-122.0136899",
       "tag": "28618",
+      "title": "Cement Hill fs Peppertree Dr (E)",
       "lat": "38.27995"
     },
     "28619": {
@@ -2360,10 +2325,10 @@
           "Smart And Final": true
         }
       },
-      "lon": "-122.01649",
-      "title": "Cement Hill op Peppertree Dr (W)",
       "stopId": "75135",
+      "lon": "-122.01649",
       "tag": "28619",
+      "title": "Cement Hill op Peppertree Dr (W)",
       "lat": "38.2799599"
     },
     "28620": {
@@ -2375,10 +2340,10 @@
           "Smart And Final": true
         }
       },
-      "lon": "-122.03504",
-      "title": "Hawthorne Dr and N Texas St",
       "stopId": "75148",
+      "lon": "-122.03504",
       "tag": "28620",
+      "title": "Hawthorne Dr and N Texas St",
       "lat": "38.2800699"
     },
     "28621": {
@@ -2390,10 +2355,10 @@
           "Smart And Final": true
         }
       },
-      "lon": "-122.0370399",
-      "title": "Orchid St and Larkspur Ln",
       "stopId": "75150",
+      "lon": "-122.0370399",
       "tag": "28621",
+      "title": "Orchid St and Larkspur Ln",
       "lat": "38.27808"
     },
     "28622": {
@@ -2402,10 +2367,10 @@
           "Suisun Senior Center": true
         }
       },
-      "lon": "-122.0441799",
-      "title": "Cordelia Rd. and West St",
       "stopId": "75153",
+      "lon": "-122.0441799",
       "tag": "28622",
+      "title": "Cordelia Rd. and West St",
       "lat": "38.23584"
     },
     "28623": {
@@ -2415,15 +2380,15 @@
           "Suisun Senior Center": true
         }
       },
-      "lon": "-122.03642",
-      "title": "Civic Center Dr @ Suisun City Hall",
       "stopId": "75156",
+      "lon": "-122.03642",
       "tag": "28623",
+      "title": "Civic Center Dr @ Suisun City Hall",
       "lat": "38.2378299",
       "scheduleRoutes": {
         "5": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "05:40:00",
               "06:40:00",
               "07:40:00",
@@ -2440,7 +2405,7 @@
               "18:40:00",
               "19:40:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:40:00",
               "10:40:00",
               "11:40:00",
@@ -2451,7 +2416,7 @@
             ]
           },
           "Suisun Senior Center": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:18:00",
               "07:18:00",
               "08:18:00",
@@ -2467,7 +2432,7 @@
               "18:18:00",
               "19:18:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:18:00",
               "11:18:00",
               "12:18:00",
@@ -2486,10 +2451,10 @@
           "Suisun Senior Center": true
         }
       },
-      "lon": "-122.03101",
-      "title": "Driftwood Dr. and Marina Blvd.",
       "stopId": "75158",
+      "lon": "-122.03101",
       "tag": "28624",
+      "title": "Driftwood Dr. and Marina Blvd.",
       "lat": "38.2414"
     },
     "28625": {
@@ -2498,10 +2463,10 @@
           "Suisun Senior Center": true
         }
       },
-      "lon": "-122.0314099",
-      "title": "Buena Vista Ave and Marina Blvd",
       "stopId": "75159",
+      "lon": "-122.0314099",
       "tag": "28625",
+      "title": "Buena Vista Ave and Marina Blvd",
       "lat": "38.2464"
     },
     "28626": {
@@ -2510,10 +2475,10 @@
           "Suisun Senior Center": true
         }
       },
-      "lon": "-122.02746",
-      "title": "Buena Vista Ave and Pittier Way",
       "stopId": "75160",
+      "lon": "-122.02746",
       "tag": "28626",
+      "title": "Buena Vista Ave and Pittier Way",
       "lat": "38.2483999"
     },
     "28627": {
@@ -2522,10 +2487,10 @@
           "Suisun Senior Center": true
         }
       },
-      "lon": "-122.0234799",
-      "title": "Pintail Dr. and Parkside Dr.",
       "stopId": "75162",
+      "lon": "-122.0234799",
       "tag": "28627",
+      "title": "Pintail Dr. and Parkside Dr.",
       "lat": "38.2495999"
     },
     "28628": {
@@ -2534,15 +2499,15 @@
           "Ftc": true
         }
       },
-      "lon": "-122.01785",
-      "title": "Merganser Dr. and Wigeon Way (Suisun City Post Office)",
       "stopId": "75531",
+      "lon": "-122.01785",
       "tag": "28628",
+      "title": "Merganser Dr. and Wigeon Way (Suisun City Post Office)",
       "lat": "38.2465699",
       "scheduleRoutes": {
         "5": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "05:31:00",
               "06:31:00",
               "07:31:00",
@@ -2559,7 +2524,7 @@
               "18:31:00",
               "19:31:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:31:00",
               "10:31:00",
               "11:31:00",
@@ -2578,10 +2543,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0254324",
-      "title": "Buena Vista Ave and Village Dr.",
       "stopId": "75165",
+      "lon": "-122.0254324",
       "tag": "28629",
+      "title": "Buena Vista Ave and Village Dr.",
       "lat": "38.2494787"
     },
     "28630": {
@@ -2590,10 +2555,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0268699",
-      "title": "Buena Vista Ave. and Pittier Way",
       "stopId": "75166",
+      "lon": "-122.0268699",
       "tag": "28630",
+      "title": "Buena Vista Ave. and Pittier Way",
       "lat": "38.24875"
     },
     "28631": {
@@ -2602,10 +2567,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.03148",
-      "title": "Buena Vista Ave and Marina Blvd.",
       "stopId": "75168",
+      "lon": "-122.03148",
       "tag": "28631",
+      "title": "Buena Vista Ave and Marina Blvd.",
       "lat": "38.2464099"
     },
     "28632": {
@@ -2614,10 +2579,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0313399",
-      "title": "Marina Blvd. and Lotz Way",
       "stopId": "75169",
+      "lon": "-122.0313399",
       "tag": "28632",
+      "title": "Marina Blvd. and Lotz Way",
       "lat": "38.2428599"
     },
     "28633": {
@@ -2626,10 +2591,10 @@
           "Suisun Senior Center": true
         }
       },
-      "lon": "-122.0344099",
-      "title": "Driftwood @ Josiah Circle",
       "stopId": "75170",
+      "lon": "-122.0344099",
       "tag": "28633",
+      "title": "Driftwood @ Josiah Circle",
       "lat": "38.24142"
     },
     "28634": {
@@ -2638,10 +2603,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.03445",
-      "title": "Driftwood Dr. and Josiah Way",
       "stopId": "75171",
+      "lon": "-122.03445",
       "tag": "28634",
+      "title": "Driftwood Dr. and Josiah Way",
       "lat": "38.24145"
     },
     "28635": {
@@ -2654,15 +2619,15 @@
           "Ftc Del Norte Bart": true
         }
       },
-      "lon": "-122.04048",
-      "title": "Main Street and Lotz Way",
       "stopId": "75172",
+      "lon": "-122.04048",
       "tag": "28635",
+      "title": "Main Street and Lotz Way",
       "lat": "38.2430799",
       "scheduleRoutes": {
         "GX": {
           "Ftc Del Norte Bart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "04:56:00",
               "05:56:00",
               "06:36:00",
@@ -2678,10 +2643,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.04065",
-      "title": "Main St. and Driftwood Dr.",
       "stopId": "75174",
+      "lon": "-122.04065",
       "tag": "28637",
+      "title": "Main St. and Driftwood Dr.",
       "lat": "38.2413099"
     },
     "28638": {
@@ -2690,10 +2655,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0406699",
-      "title": "Main St. and California St.",
       "stopId": "75176",
+      "lon": "-122.0406699",
       "tag": "28638",
+      "title": "Main St. and California St.",
       "lat": "38.2376299"
     },
     "28639": {
@@ -2702,10 +2667,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0438",
-      "title": "Cordelia St. and West St.",
       "stopId": "75177",
+      "lon": "-122.0438",
       "tag": "28639",
+      "title": "Cordelia St. and West St.",
       "lat": "38.2358799"
     },
     "28642": {
@@ -2714,10 +2679,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.0082899",
-      "title": "Pintail ns East Wigeon Way (KROC CENTER)",
       "stopId": "75193",
+      "lon": "-122.0082899",
       "tag": "28642",
+      "title": "Pintail ns East Wigeon Way (KROC CENTER)",
       "lat": "38.24904"
     },
     "28643": {
@@ -2726,10 +2691,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.0046",
-      "title": "Pintail fs Emperor",
       "stopId": "75194",
+      "lon": "-122.0046",
       "tag": "28643",
+      "title": "Pintail fs Emperor",
       "lat": "38.24777"
     },
     "28644": {
@@ -2738,10 +2703,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-121.99195",
-      "title": "Portreo Cir. and Lawler Ranch Pkwy",
       "stopId": "75206",
+      "lon": "-121.99195",
       "tag": "28644",
+      "title": "Portreo Cir. and Lawler Ranch Pkwy",
       "lat": "38.2387199"
     },
     "28645": {
@@ -2750,10 +2715,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.00029",
-      "title": "Mayfield Circle and Engell Dr",
       "stopId": "75207",
+      "lon": "-122.00029",
       "tag": "28645",
+      "title": "Mayfield Circle and Engell Dr",
       "lat": "38.23961"
     },
     "28646": {
@@ -2762,15 +2727,15 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.00513",
-      "title": "Mayfield Cir. & Lawler Ranch Pkwy",
       "stopId": "75208",
+      "lon": "-122.00513",
       "tag": "28646",
+      "title": "Mayfield Cir. & Lawler Ranch Pkwy",
       "lat": "38.2407499",
       "scheduleRoutes": {
         "6": {
           "Solano Town Center": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:00:00",
               "07:45:00",
               "08:30:00",
@@ -2789,7 +2754,7 @@
               "18:15:00",
               "19:00:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:00:00",
               "10:45:00",
               "11:30:00",
@@ -2810,10 +2775,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.0203799",
-      "title": "Sunset fs Pintail",
       "stopId": "75215",
+      "lon": "-122.0203799",
       "tag": "28647",
+      "title": "Sunset fs Pintail",
       "lat": "38.2498099"
     },
     "28648": {
@@ -2822,10 +2787,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.01979",
-      "title": "Sunset Ave. and Canvasback Dr.",
       "stopId": "75217",
+      "lon": "-122.01979",
       "tag": "28648",
+      "title": "Sunset Ave. and Canvasback Dr.",
       "lat": "38.2533899"
     },
     "28649": {
@@ -2834,10 +2799,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.02324",
-      "title": "Travis op Phoenix",
       "stopId": "75219",
+      "lon": "-122.02324",
       "tag": "28649",
+      "title": "Travis op Phoenix",
       "lat": "38.25827"
     },
     "28650": {
@@ -2846,10 +2811,10 @@
           "Ff Vac Train Station": true
         }
       },
-      "lon": "-122.0470699",
-      "title": "Travis Blvd and Webster St.",
       "stopId": "75222",
+      "lon": "-122.0470699",
       "tag": "28650",
+      "title": "Travis Blvd and Webster St.",
       "lat": "38.25812"
     },
     "28651": {
@@ -2858,10 +2823,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.0205799",
-      "title": "Travis Blvd and Sunset Ave",
       "stopId": "75224",
+      "lon": "-122.0205799",
       "tag": "28651",
+      "title": "Travis Blvd and Sunset Ave",
       "lat": "38.25804"
     },
     "28653": {
@@ -2870,10 +2835,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-121.9953399",
-      "title": "Pintail fs Harrier",
       "stopId": "75232",
+      "lon": "-121.9953399",
       "tag": "28653",
+      "title": "Pintail fs Harrier",
       "lat": "38.24833"
     },
     "28655": {
@@ -2882,10 +2847,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.0101671",
-      "title": "Pintail op Scoter Way",
       "stopId": "75235",
+      "lon": "-122.0101671",
       "tag": "28655",
+      "title": "Pintail op Scoter Way",
       "lat": "38.2493497"
     },
     "28656": {
@@ -2894,10 +2859,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.04978",
-      "title": "Pennsylvania Ave and Kentucky St",
       "stopId": "75237",
+      "lon": "-122.04978",
       "tag": "28656",
+      "title": "Pennsylvania Ave and Kentucky St",
       "lat": "38.25095"
     },
     "28657": {
@@ -2906,10 +2871,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-121.9998599",
-      "title": "Pintail Dr and Woodlark Lane",
       "stopId": "75238",
+      "lon": "-121.9998599",
       "tag": "28657",
+      "title": "Pintail Dr and Woodlark Lane",
       "lat": "38.24734"
     },
     "28658": {
@@ -2918,10 +2883,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-121.99579",
-      "title": "Pintail ns Seagull",
       "stopId": "75239",
+      "lon": "-121.99579",
       "tag": "28658",
+      "title": "Pintail ns Seagull",
       "lat": "38.2481699"
     },
     "28659": {
@@ -2930,10 +2895,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-121.98543",
-      "title": "Montebello Dr. & El Mar Ct.",
       "stopId": "75242",
+      "lon": "-121.98543",
       "tag": "28659",
+      "title": "Montebello Dr. & El Mar Ct.",
       "lat": "38.2467699"
     },
     "28660": {
@@ -2942,15 +2907,15 @@
           "Walmart": true
         }
       },
-      "lon": "-122.02505",
-      "title": "Dover fs Amherst Ct (Dover Avenue)",
       "stopId": "75247",
+      "lon": "-122.02505",
       "tag": "28660",
+      "title": "Dover fs Amherst Ct (Dover Avenue)",
       "lat": "38.2746099",
       "scheduleRoutes": {
         "3": {
           "Walmart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:26:00",
               "06:56:00",
               "07:26:00",
@@ -2979,7 +2944,7 @@
               "18:56:00",
               "19:26:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:26:00",
               "10:26:00",
               "11:26:00",
@@ -2999,10 +2964,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.0250499",
-      "title": "Dover Ave and Sunrise Dr",
       "stopId": "75248",
+      "lon": "-122.0250499",
       "tag": "28661",
+      "title": "Dover Ave and Sunrise Dr",
       "lat": "38.27829"
     },
     "28663": {
@@ -3014,10 +2979,10 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-122.0315",
-      "title": "Cement Hill Rd and Elmhurst Cir (Fairfield High School)",
       "stopId": "75252",
+      "lon": "-122.0315",
       "tag": "28663",
+      "title": "Cement Hill Rd and Elmhurst Cir (Fairfield High School)",
       "lat": "38.27644"
     },
     "28666": {
@@ -3032,15 +2997,15 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-122.03496",
-      "title": "Atlantic Ave and North Texas St.",
       "stopId": "75256",
+      "lon": "-122.03496",
       "tag": "28666",
+      "title": "Atlantic Ave and North Texas St.",
       "lat": "38.2762299",
       "scheduleRoutes": {
         "1": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:35:00",
               "07:05:00",
               "07:35:00",
@@ -3072,7 +3037,7 @@
               "19:05:00",
               "19:35:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:35:00",
               "10:35:00",
               "11:35:00",
@@ -3086,7 +3051,7 @@
         },
         "3": {
           "Walmart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:22:00",
               "06:52:00",
               "07:22:00",
@@ -3115,7 +3080,7 @@
               "18:52:00",
               "19:22:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:22:00",
               "10:22:00",
               "11:22:00",
@@ -3129,7 +3094,7 @@
         },
         "4": {
           "Tafb-David Grant": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:25:00",
               "07:25:00",
               "08:25:00",
@@ -3140,7 +3105,7 @@
               "16:25:00",
               "17:25:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:25:00",
               "11:25:00",
               "12:25:00",
@@ -3158,10 +3123,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-121.98878",
-      "title": "Pintail fs Walters",
       "stopId": "75259",
+      "lon": "-121.98878",
       "tag": "28667",
+      "title": "Pintail fs Walters",
       "lat": "38.2489399"
     },
     "28668": {
@@ -3170,10 +3135,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.02243",
-      "title": "E. Travis Blvd. and Phoenix Dr.",
       "stopId": "75261",
+      "lon": "-122.02243",
       "tag": "28668",
+      "title": "E. Travis Blvd. and Phoenix Dr.",
       "lat": "38.25809"
     },
     "28669": {
@@ -3182,10 +3147,10 @@
           "Solano Town Ctr": true
         }
       },
-      "lon": "-122.04567",
-      "title": "Travis Blvd. & Fairfield Ave.",
       "stopId": "75265",
+      "lon": "-122.04567",
       "tag": "28669",
+      "title": "Travis Blvd. & Fairfield Ave.",
       "lat": "38.2583099"
     },
     "28670": {
@@ -3194,10 +3159,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0569899",
-      "title": "W Texas St and Gregory Lane",
       "stopId": "75266",
+      "lon": "-122.0569899",
       "tag": "28670",
+      "title": "W Texas St and Gregory Lane",
       "lat": "38.2493899"
     },
     "28671": {
@@ -3206,10 +3171,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.06111",
-      "title": "W Texas St and 5th St",
       "stopId": "75267",
+      "lon": "-122.06111",
       "tag": "28671",
+      "title": "W Texas St and 5th St",
       "lat": "38.2493799"
     },
     "28672": {
@@ -3218,10 +3183,10 @@
           "Solano College/Cordelia Library": true
         }
       },
-      "lon": "-122.0664799",
-      "title": "Beck Ave and Woolner Ave",
       "stopId": "75269",
+      "lon": "-122.0664799",
       "tag": "28672",
+      "title": "Beck Ave and Woolner Ave",
       "lat": "38.24474"
     },
     "28673": {
@@ -3231,15 +3196,15 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0675",
-      "title": "Human Services Center",
       "stopId": "75270",
+      "lon": "-122.0675",
       "tag": "28673",
+      "title": "Human Services Center",
       "lat": "38.2359699",
       "scheduleRoutes": {
         "7": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:47:00",
               "07:47:00",
               "08:47:00",
@@ -3254,7 +3219,7 @@
               "17:47:00",
               "18:47:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:47:00",
               "11:47:00",
               "12:47:00",
@@ -3264,7 +3229,7 @@
             ]
           },
           "Solano College/Cordelia Library": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:04:00",
               "07:04:00",
               "08:04:00",
@@ -3279,7 +3244,7 @@
               "17:04:00",
               "18:04:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:04:00",
               "11:04:00",
               "12:04:00",
@@ -3298,10 +3263,10 @@
           "Solano College/Cordelia Library": true
         }
       },
-      "lon": "-122.0794299",
-      "title": "Courage Dr and N Watney Way",
       "stopId": "75272",
+      "lon": "-122.0794299",
       "tag": "28674",
+      "title": "Courage Dr and N Watney Way",
       "lat": "38.2343"
     },
     "28675": {
@@ -3310,10 +3275,10 @@
           "Solano College/Cordelia Library": true
         }
       },
-      "lon": "-122.0824799",
-      "title": "Courage ns Chadbourne",
       "stopId": "75273",
+      "lon": "-122.0824799",
       "tag": "28675",
+      "title": "Courage ns Chadbourne",
       "lat": "38.2342999"
     },
     "28676": {
@@ -3322,15 +3287,15 @@
           "Solano College/Cordelia Library": true
         }
       },
-      "lon": "-122.08392",
-      "title": "Chadbourne and Busch Dr",
       "stopId": "75274",
+      "lon": "-122.08392",
       "tag": "28676",
+      "title": "Chadbourne and Busch Dr",
       "lat": "38.2372099",
       "scheduleRoutes": {
         "7": {
           "Solano College/Cordelia Library": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:09:00",
               "07:09:00",
               "08:09:00",
@@ -3345,7 +3310,7 @@
               "17:09:00",
               "18:09:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:09:00",
               "11:09:00",
               "12:09:00",
@@ -3365,10 +3330,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.12566",
-      "title": "Suisun Valley Rd and Snowberry Way",
       "stopId": "75275",
+      "lon": "-122.12566",
       "tag": "28677",
+      "title": "Suisun Valley Rd and Snowberry Way",
       "lat": "38.2363699"
     },
     "28678": {
@@ -3378,15 +3343,15 @@
           "Ftc": true
         }
       },
-      "lon": "-122.12508",
-      "title": "Solano Community College",
       "stopId": "75276",
+      "lon": "-122.12508",
       "tag": "28678",
+      "title": "Solano Community College",
       "lat": "38.2348099",
       "scheduleRoutes": {
         "7": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:33:00",
               "07:33:00",
               "08:33:00",
@@ -3401,7 +3366,7 @@
               "17:33:00",
               "18:33:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:33:00",
               "11:33:00",
               "12:33:00",
@@ -3411,7 +3376,7 @@
             ]
           },
           "Solano College/Cordelia Library": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:17:00",
               "07:17:00",
               "08:17:00",
@@ -3426,7 +3391,7 @@
               "17:17:00",
               "18:17:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:17:00",
               "11:17:00",
               "12:17:00",
@@ -3445,10 +3410,10 @@
           "Oakbrook Dr": true
         }
       },
-      "lon": "-122.1385799",
-      "title": "Lopes Rd and Cordelia Rd",
       "stopId": "75280",
+      "lon": "-122.1385799",
       "tag": "28679",
+      "title": "Lopes Rd and Cordelia Rd",
       "lat": "38.20938"
     },
     "28680": {
@@ -3457,10 +3422,10 @@
           "Oakbrook Dr": true
         }
       },
-      "lon": "-122.1420599",
-      "title": "Fulton Dr and Edison Ct",
       "stopId": "75306",
+      "lon": "-122.1420599",
       "tag": "28680",
+      "title": "Fulton Dr and Edison Ct",
       "lat": "38.2071899"
     },
     "28681": {
@@ -3469,10 +3434,10 @@
           "Oakbrook Dr": true
         }
       },
-      "lon": "-122.1472299",
-      "title": "Watt Dr and Watt Ct",
       "stopId": "75282",
+      "lon": "-122.1472299",
       "tag": "28681",
+      "title": "Watt Dr and Watt Ct",
       "lat": "38.2066899"
     },
     "28682": {
@@ -3481,15 +3446,15 @@
           "Oakbrook Dr": true
         }
       },
-      "lon": "-122.14664",
-      "title": "Oakbrook and Red Top Rd (RHS)",
       "stopId": "75283",
+      "lon": "-122.14664",
       "tag": "28682",
+      "title": "Oakbrook and Red Top Rd (RHS)",
       "lat": "38.1975399",
       "scheduleRoutes": {
         "8": {
           "Oakbrook Dr": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:44:00",
               "11:44:00",
               "12:44:00",
@@ -3507,10 +3472,10 @@
           "Oakbrook Dr": true
         }
       },
-      "lon": "-122.1407",
-      "title": "Silverado Dr and Meadows Ct",
       "stopId": "75285",
+      "lon": "-122.1407",
       "tag": "28684",
+      "title": "Silverado Dr and Meadows Ct",
       "lat": "38.19493"
     },
     "28685": {
@@ -3519,10 +3484,10 @@
           "Oakbrook Dr": true
         }
       },
-      "lon": "-122.1382599",
-      "title": "Lopes Rd and Silver Creek Rd",
       "stopId": "75286",
+      "lon": "-122.1382599",
       "tag": "28685",
+      "title": "Lopes Rd and Silver Creek Rd",
       "lat": "38.1898699"
     },
     "28686": {
@@ -3531,10 +3496,10 @@
           "Oakbrook Dr": true
         }
       },
-      "lon": "-122.1378599",
-      "title": "Lopes Rd and Gold Hill Rd",
       "stopId": "75287",
+      "lon": "-122.1378599",
       "tag": "28686",
+      "title": "Lopes Rd and Gold Hill Rd",
       "lat": "38.1809799"
     },
     "28687": {
@@ -3543,10 +3508,10 @@
           "Oakbrook Dr": true
         }
       },
-      "lon": "-122.1326499",
-      "title": "Lopes Rd and Woodside Way (North)",
       "stopId": "75288",
+      "lon": "-122.1326499",
       "tag": "28687",
+      "title": "Lopes Rd and Woodside Way (North)",
       "lat": "38.17876"
     },
     "28688": {
@@ -3555,10 +3520,10 @@
           "Oakbrook Dr": true
         }
       },
-      "lon": "-122.13113",
-      "title": "Lopes Rd fs Woodside Way (South)",
       "stopId": "75289",
+      "lon": "-122.13113",
       "tag": "28688",
+      "title": "Lopes Rd fs Woodside Way (South)",
       "lat": "38.17598"
     },
     "28689": {
@@ -3567,15 +3532,15 @@
           "Oakbrook Dr": true
         }
       },
-      "lon": "-122.1296",
-      "title": "Lopes Rd and Canyon Hills Dr",
       "stopId": "75290",
+      "lon": "-122.1296",
       "tag": "28689",
+      "title": "Lopes Rd and Canyon Hills Dr",
       "lat": "38.1732999",
       "scheduleRoutes": {
         "8": {
           "Oakbrook Dr": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:51:00",
               "07:51:00",
               "08:51:00",
@@ -3588,7 +3553,7 @@
               "16:51:00",
               "17:51:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:51:00",
               "10:51:00",
               "11:51:00",
@@ -3607,10 +3572,10 @@
           "Oakbrook Dr": true
         }
       },
-      "lon": "-122.1326",
-      "title": "Canyon Hills Dr and Firwood Way",
       "stopId": "75291",
+      "lon": "-122.1326",
       "tag": "28690",
+      "title": "Canyon Hills Dr and Firwood Way",
       "lat": "38.1715099"
     },
     "28691": {
@@ -3619,10 +3584,10 @@
           "Oakbrook Dr": true
         }
       },
-      "lon": "-122.13561",
-      "title": "Gold Hill Rd and Canyon Hills Dr",
       "stopId": "75292",
+      "lon": "-122.13561",
       "tag": "28691",
+      "title": "Gold Hill Rd and Canyon Hills Dr",
       "lat": "38.16862"
     },
     "28692": {
@@ -3631,33 +3596,33 @@
           "Oakbrook Dr": true
         }
       },
-      "lon": "-122.13633",
-      "title": "Gold Hill Rd and Northwood Dr",
       "stopId": "75293",
+      "lon": "-122.13633",
       "tag": "28692",
+      "title": "Gold Hill Rd and Northwood Dr",
       "lat": "38.17283"
     },
     "28693": {
       "routes": {
         "8": {
-          "Oakbrook Dr": true,
-          "Cordelia Library": true
+          "Cordelia Library": true,
+          "Oakbrook Dr": true
         }
       },
-      "lon": "-122.13708",
-      "title": "Gold Hill Rd fs Stonewood Dr (Green Valley MS)",
       "stopId": "75294",
+      "lon": "-122.13708",
       "tag": "28693",
+      "title": "Gold Hill Rd fs Stonewood Dr (Green Valley MS)",
       "lat": "38.1756499",
       "scheduleRoutes": {
         "8": {
           "Cordelia Library": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "15:20:00"
             ]
           },
           "Oakbrook Dr": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:54:00",
               "07:54:00",
               "08:54:00",
@@ -3670,7 +3635,7 @@
               "16:54:00",
               "17:54:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:54:00",
               "10:54:00",
               "11:54:00",
@@ -3686,27 +3651,27 @@
     "28694": {
       "routes": {
         "8": {
-          "Oakbrook Dr": true,
-          "Cordelia Library": true
+          "Cordelia Library": true,
+          "Oakbrook Dr": true
         }
       },
-      "lon": "-122.13866",
-      "title": "Gold Hill Rd and Northwood Dr",
       "stopId": "75295",
+      "lon": "-122.13866",
       "tag": "28694",
+      "title": "Gold Hill Rd and Northwood Dr",
       "lat": "38.1778099"
     },
     "28695": {
       "routes": {
         "8": {
-          "Oakbrook Dr": true,
-          "Cordelia Library": true
+          "Cordelia Library": true,
+          "Oakbrook Dr": true
         }
       },
-      "lon": "-122.1383",
-      "title": "Lopes Rd and Gold Hill Rd",
       "stopId": "75296",
+      "lon": "-122.1383",
       "tag": "28695",
+      "title": "Lopes Rd and Gold Hill Rd",
       "lat": "38.1824699"
     },
     "28696": {
@@ -3715,15 +3680,15 @@
           "Cordelia Library": true
         }
       },
-      "lon": "-122.13915",
-      "title": "Oakbrook Dr and Lopes Rd",
       "stopId": "75297",
+      "lon": "-122.13915",
       "tag": "28696",
+      "title": "Oakbrook Dr and Lopes Rd",
       "lat": "38.1838099",
       "scheduleRoutes": {
         "8": {
           "Cordelia Library": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:00:00",
               "08:00:00",
               "09:00:00",
@@ -3737,7 +3702,7 @@
               "17:00:00",
               "18:00:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:00:00",
               "11:00:00",
               "12:00:00",
@@ -3756,10 +3721,10 @@
           "Cordelia Library": true
         }
       },
-      "lon": "-122.14215",
-      "title": "Oakbrook Dr and Rainier Ct",
       "stopId": "75298",
+      "lon": "-122.14215",
       "tag": "28697",
+      "title": "Oakbrook Dr and Rainier Ct",
       "lat": "38.1874"
     },
     "28699": {
@@ -3768,10 +3733,10 @@
           "Cordelia Library": true
         }
       },
-      "lon": "-122.14402",
-      "title": "Oakbrook Dr and Oakbrook Ct",
       "stopId": "75300",
+      "lon": "-122.14402",
       "tag": "28699",
+      "title": "Oakbrook Dr and Oakbrook Ct",
       "lat": "38.19173"
     },
     "28700": {
@@ -3780,10 +3745,10 @@
           "Cordelia Library": true
         }
       },
-      "lon": "-122.14596",
-      "title": "Oakbrook Dr and Oakbrook Cir",
       "stopId": "75301",
+      "lon": "-122.14596",
       "tag": "28700",
+      "title": "Oakbrook Dr and Oakbrook Cir",
       "lat": "38.1933599"
     },
     "28701": {
@@ -3792,10 +3757,10 @@
           "Cordelia Library": true
         }
       },
-      "lon": "-122.14666",
-      "title": "Oakbrook Dr and Amberwood Cir",
       "stopId": "75302",
+      "lon": "-122.14666",
       "tag": "28701",
+      "title": "Oakbrook Dr and Amberwood Cir",
       "lat": "38.19561"
     },
     "28702": {
@@ -3804,10 +3769,10 @@
           "Cordelia Library": true
         }
       },
-      "lon": "-122.14866",
-      "title": "Watt Dr and Fermi Dr",
       "stopId": "75304",
+      "lon": "-122.14866",
       "tag": "28702",
+      "title": "Watt Dr and Fermi Dr",
       "lat": "38.1995799"
     },
     "28703": {
@@ -3816,10 +3781,10 @@
           "Cordelia Library": true
         }
       },
-      "lon": "-122.14702",
-      "title": "Watt Dr and Watt Ct",
       "stopId": "75305",
+      "lon": "-122.14702",
       "tag": "28703",
+      "title": "Watt Dr and Watt Ct",
       "lat": "38.2058399"
     },
     "28704": {
@@ -3828,67 +3793,67 @@
           "Cordelia Library": true
         }
       },
-      "lon": "-122.14209",
-      "title": "Fulton Dr and  Edison Ct",
       "stopId": "75281",
+      "lon": "-122.14209",
       "tag": "28704",
+      "title": "Fulton Dr and  Edison Ct",
       "lat": "38.20704"
     },
     "28706": {
       "routes": {
         "8": {
-          "Oakbrook Dr": true,
-          "Cordelia Library": true
+          "Cordelia Library": true,
+          "Oakbrook Dr": true
         }
       },
-      "lon": "-122.1371599",
-      "title": "Central Way op Ritchie",
       "stopId": "75310",
+      "lon": "-122.1371599",
       "tag": "28706",
+      "title": "Central Way op Ritchie",
       "lat": "38.21364"
     },
     "28707": {
       "routes": {
         "8": {
-          "Oakbrook Dr": true,
-          "Cordelia Library": true
+          "Cordelia Library": true,
+          "Oakbrook Dr": true
         }
       },
-      "lon": "-122.1374",
-      "title": "Central Way fs Ritchie Rd",
       "stopId": "75311",
+      "lon": "-122.1374",
       "tag": "28707",
+      "title": "Central Way fs Ritchie Rd",
       "lat": "38.2146099"
     },
     "28708": {
       "routes": {
         "8": {
-          "Oakbrook Dr": true,
-          "Cordelia Library": true
+          "Cordelia Library": true,
+          "Oakbrook Dr": true
         }
       },
-      "lon": "-122.13642",
-      "title": "Central Way ns Grobric Ct",
       "stopId": "75312",
+      "lon": "-122.13642",
       "tag": "28708",
+      "title": "Central Way ns Grobric Ct",
       "lat": "38.2168299"
     },
     "28709": {
       "routes": {
         "8": {
-          "Oakbrook Dr": true,
-          "Cordelia Library": true
+          "Cordelia Library": true,
+          "Oakbrook Dr": true
         }
       },
-      "lon": "-122.1271",
-      "title": "Pittman Rd and Central Way (Pittman)",
       "stopId": "75313",
+      "lon": "-122.1271",
       "tag": "28709",
+      "title": "Pittman Rd and Central Way (Pittman)",
       "lat": "38.2200899",
       "scheduleRoutes": {
         "8": {
           "Cordelia Library": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:11:00",
               "08:11:00",
               "09:11:00",
@@ -3902,7 +3867,7 @@
               "17:11:00",
               "18:11:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:11:00",
               "11:11:00",
               "12:11:00",
@@ -3913,7 +3878,7 @@
             ]
           },
           "Oakbrook Dr": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:36:00",
               "07:36:00",
               "08:36:00",
@@ -3926,7 +3891,7 @@
               "16:36:00",
               "17:36:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:36:00",
               "11:36:00",
               "12:36:00",
@@ -3944,15 +3909,15 @@
           "Ftc": true
         }
       },
-      "lon": "-122.08417",
-      "title": "Chadbourne and Busch Dr",
       "stopId": "75314",
+      "lon": "-122.08417",
       "tag": "28710",
+      "title": "Chadbourne and Busch Dr",
       "lat": "38.2372699",
       "scheduleRoutes": {
         "7": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:42:00",
               "07:42:00",
               "08:42:00",
@@ -3967,7 +3932,7 @@
               "17:42:00",
               "18:42:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:42:00",
               "11:42:00",
               "12:42:00",
@@ -3985,10 +3950,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0840599",
-      "title": "Chadbourne fs Low Ct",
       "stopId": "75315",
+      "lon": "-122.0840599",
       "tag": "28711",
+      "title": "Chadbourne fs Low Ct",
       "lat": "38.2352799"
     },
     "28712": {
@@ -3997,10 +3962,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0797599",
-      "title": "Courage ns S Watney",
       "stopId": "75316",
+      "lon": "-122.0797599",
       "tag": "28712",
+      "title": "Courage ns S Watney",
       "lat": "38.23409"
     },
     "28713": {
@@ -4009,10 +3974,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.0602299",
-      "title": "W Texas St and 5th St (Allan Witt Park)",
       "stopId": "75319",
+      "lon": "-122.0602299",
       "tag": "28713",
+      "title": "W Texas St and 5th St (Allan Witt Park)",
       "lat": "38.2491899"
     },
     "28714": {
@@ -4021,15 +3986,15 @@
           "Smart And Final": true
         }
       },
-      "lon": "-121.96389",
-      "title": "Hickam Ave and Pacific St (David Grant Med Ctr)",
       "stopId": "75320",
+      "lon": "-121.96389",
       "tag": "28714",
+      "title": "Hickam Ave and Pacific St (David Grant Med Ctr)",
       "lat": "38.2687199",
       "scheduleRoutes": {
         "4": {
           "Smart And Final": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:59:00",
               "07:59:00",
               "08:59:00",
@@ -4040,7 +4005,7 @@
               "16:59:00",
               "17:59:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:59:00",
               "11:59:00",
               "12:59:00",
@@ -4064,10 +4029,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.0500999",
-      "title": "Pennsylvania Ave. & B.Gale Wilson",
       "stopId": "75322",
+      "lon": "-122.0500999",
       "tag": "28715",
+      "title": "Pennsylvania Ave. & B.Gale Wilson",
       "lat": "38.2605999"
     },
     "28717": {
@@ -4083,15 +4048,15 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.05271",
-      "title": "Solano Town Center",
       "stopId": "75325",
+      "lon": "-122.05271",
       "tag": "28717",
+      "title": "Solano Town Center",
       "lat": "38.2629099",
       "scheduleRoutes": {
         "2": {
           "Ff Vac Train Station": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:15:00",
               "06:45:00",
               "07:15:00",
@@ -4115,7 +4080,7 @@
               "18:15:00",
               "18:45:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:45:00",
               "10:45:00",
               "11:45:00",
@@ -4128,7 +4093,7 @@
         },
         "3": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:10:00",
               "06:40:00",
               "07:10:00",
@@ -4158,7 +4123,7 @@
               "19:10:00",
               "19:40:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:40:00",
               "10:40:00",
               "11:40:00",
@@ -4170,7 +4135,7 @@
             ]
           },
           "Walmart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:13:00",
               "06:43:00",
               "07:13:00",
@@ -4199,7 +4164,7 @@
               "18:43:00",
               "19:13:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:13:00",
               "10:13:00",
               "11:13:00",
@@ -4213,7 +4178,7 @@
         },
         "6": {
           "Suisun Walmart/Lawler Ranch": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:15:00",
               "07:00:00",
               "07:45:00",
@@ -4232,7 +4197,7 @@
               "17:30:00",
               "18:15:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:15:00",
               "10:00:00",
               "10:45:00",
@@ -4259,10 +4224,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.0542999",
-      "title": "Solano Town Center @ North Entrance",
       "stopId": "75327",
+      "lon": "-122.0542999",
       "tag": "28719",
+      "title": "Solano Town Center @ North Entrance",
       "lat": "38.2619399"
     },
     "28720": {
@@ -4271,10 +4236,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.01778",
-      "title": "Pintail Dr. and Wigeon Way",
       "stopId": "75329",
+      "lon": "-122.01778",
       "tag": "28720",
+      "title": "Pintail Dr. and Wigeon Way",
       "lat": "38.2494499"
     },
     "28721": {
@@ -4283,10 +4248,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.0098399",
-      "title": "Pintail ns White Wing Lane",
       "stopId": "75330",
+      "lon": "-122.0098399",
       "tag": "28721",
+      "title": "Pintail ns White Wing Lane",
       "lat": "38.2493499"
     },
     "28722": {
@@ -4295,10 +4260,10 @@
           "Suisun Senior Center": true
         }
       },
-      "lon": "-122.0572",
-      "title": "Woolner Ave and Gregory Ln.",
       "stopId": "75334",
+      "lon": "-122.0572",
       "tag": "28722",
+      "title": "Woolner Ave and Gregory Ln.",
       "lat": "38.24508"
     },
     "28723": {
@@ -4307,10 +4272,10 @@
           "Suisun Senior Center": true
         }
       },
-      "lon": "-122.0589999",
-      "title": "Woolner fs Enterprise",
       "stopId": "75335",
+      "lon": "-122.0589999",
       "tag": "28723",
+      "title": "Woolner fs Enterprise",
       "lat": "38.24508"
     },
     "28724": {
@@ -4319,10 +4284,10 @@
           "Suisun Senior Center": true
         }
       },
-      "lon": "-122.0641799",
-      "title": "Woolner Ave and Vine St",
       "stopId": "75336",
+      "lon": "-122.0641799",
       "tag": "28724",
+      "title": "Woolner Ave and Vine St",
       "lat": "38.2451399"
     },
     "28725": {
@@ -4331,15 +4296,15 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-121.93535",
-      "title": "Travis Ave ns Burgan Blvd  (Air Force Inn)",
       "stopId": "75419",
+      "lon": "-121.93535",
       "tag": "28725",
+      "title": "Travis Ave ns Burgan Blvd  (Air Force Inn)",
       "lat": "38.2720699",
       "scheduleRoutes": {
         "4": {
           "Tafb-David Grant": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:48:00",
               "07:48:00",
               "08:48:00",
@@ -4350,7 +4315,7 @@
               "16:48:00",
               "17:48:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:48:00",
               "11:48:00",
               "12:48:00",
@@ -4368,10 +4333,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-121.98892",
-      "title": "Pintail Dr and Walters Rd",
       "stopId": "75500",
+      "lon": "-121.98892",
       "tag": "28726",
+      "title": "Pintail Dr and Walters Rd",
       "lat": "38.24886"
     },
     "28727": {
@@ -4380,10 +4345,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.0552099",
-      "title": "W Texas St and Gregory Ln",
       "stopId": "75502",
+      "lon": "-122.0552099",
       "tag": "28727",
+      "title": "W Texas St and Gregory Ln",
       "lat": "38.2491799"
     },
     "28728": {
@@ -4392,10 +4357,10 @@
           "Walmart": true
         }
       },
-      "lon": "-122.05249",
-      "title": "W Texas St and 1st St",
       "stopId": "75503",
+      "lon": "-122.05249",
       "tag": "28728",
+      "title": "W Texas St and 1st St",
       "lat": "38.24917"
     },
     "28729": {
@@ -4407,15 +4372,15 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.04691",
-      "title": "Kentucky St and Taylor St (Civic Center)",
       "stopId": "75504",
+      "lon": "-122.04691",
       "tag": "28729",
+      "title": "Kentucky St and Taylor St (Civic Center)",
       "lat": "38.2513999",
       "scheduleRoutes": {
         "1": {
           "Walmart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:07:00",
               "06:37:00",
               "07:07:00",
@@ -4447,7 +4412,7 @@
               "18:37:00",
               "19:07:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:07:00",
               "10:07:00",
               "11:07:00",
@@ -4467,15 +4432,15 @@
           "Walmart": true
         }
       },
-      "lon": "-122.03929",
-      "title": "Washington St and Empire St (Armijo High School)",
       "stopId": "75505",
+      "lon": "-122.03929",
       "tag": "28730",
+      "title": "Washington St and Empire St (Armijo High School)",
       "lat": "38.2499499",
       "scheduleRoutes": {
         "1": {
           "Walmart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:10:00",
               "06:40:00",
               "07:10:00",
@@ -4507,7 +4472,7 @@
               "18:40:00",
               "19:10:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:10:00",
               "10:10:00",
               "11:10:00",
@@ -4527,10 +4492,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0339199",
-      "title": "N Texas St and Marigold Dr",
       "stopId": "75506",
+      "lon": "-122.0339199",
       "tag": "28731",
+      "title": "N Texas St and Marigold Dr",
       "lat": "38.28471"
     },
     "28732": {
@@ -4539,10 +4504,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0335599",
-      "title": "Dickson Hill Rd and N Texas St",
       "stopId": "75507",
+      "lon": "-122.0335599",
       "tag": "28732",
+      "title": "Dickson Hill Rd and N Texas St",
       "lat": "38.29064"
     },
     "28733": {
@@ -4551,10 +4516,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0288799",
-      "title": "Dickson Hill Rd and El Camino Dr",
       "stopId": "75508",
+      "lon": "-122.0288799",
       "tag": "28733",
+      "title": "Dickson Hill Rd and El Camino Dr",
       "lat": "38.29019"
     },
     "28734": {
@@ -4563,10 +4528,10 @@
           "Ftc": true
         }
       },
-      "lon": "-122.02502",
-      "title": "Dover Ave and Dickson Hill Rd",
       "stopId": "75509",
+      "lon": "-122.02502",
       "tag": "28734",
+      "title": "Dover Ave and Dickson Hill Rd",
       "lat": "38.2885299"
     },
     "28735": {
@@ -4575,15 +4540,15 @@
           "Ftc": true
         }
       },
-      "lon": "-122.02505",
-      "title": "Doverwood Apartments",
       "stopId": "75510",
+      "lon": "-122.02505",
       "tag": "28735",
+      "title": "Doverwood Apartments",
       "lat": "38.2816399",
       "scheduleRoutes": {
         "1": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:28:00",
               "06:58:00",
               "07:28:00",
@@ -4615,7 +4580,7 @@
               "18:58:00",
               "19:28:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:28:00",
               "10:28:00",
               "11:28:00",
@@ -4635,15 +4600,15 @@
           "Ftc": true
         }
       },
-      "lon": "-122.03906",
-      "title": "Washington St and Empire St (Armijo High School)",
       "stopId": "75511",
+      "lon": "-122.03906",
       "tag": "28736",
+      "title": "Washington St and Empire St (Armijo High School)",
       "lat": "38.2500599",
       "scheduleRoutes": {
         "1": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:43:00",
               "07:13:00",
               "07:43:00",
@@ -4675,7 +4640,7 @@
               "19:13:00",
               "19:43:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:43:00",
               "10:43:00",
               "11:43:00",
@@ -4695,10 +4660,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.04973",
-      "title": "Pennsylvania Ave and Grant St",
       "stopId": "75517",
+      "lon": "-122.04973",
       "tag": "28742",
+      "title": "Pennsylvania Ave and Grant St",
       "lat": "38.25593"
     },
     "28743": {
@@ -4707,15 +4672,15 @@
           "Ftc": true
         }
       },
-      "lon": "-122.06787",
-      "title": "Oliver Rd and Holiday Lane",
       "stopId": "75518",
+      "lon": "-122.06787",
       "tag": "28743",
+      "title": "Oliver Rd and Holiday Lane",
       "lat": "38.2568999",
       "scheduleRoutes": {
         "3": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:18:00",
               "06:48:00",
               "07:18:00",
@@ -4745,7 +4710,7 @@
               "19:18:00",
               "19:48:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:48:00",
               "10:48:00",
               "11:48:00",
@@ -4765,11 +4730,11 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-122.02454",
-      "title": "Cement Hill fs Dover",
       "stopId": "75519",
+      "lon": "-122.02454",
       "tag": "28744",
-      "lat": "38.27978"
+      "title": "Cement Hill fs Dover",
+      "lat": "38.27979"
     },
     "28745": {
       "routes": {
@@ -4777,10 +4742,10 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-122.0122799",
-      "title": "Cement Hill Rd and Peppertree Dr (E)",
       "stopId": "75520",
+      "lon": "-122.0122799",
       "tag": "28745",
+      "title": "Cement Hill Rd and Peppertree Dr (E)",
       "lat": "38.27973"
     },
     "28746": {
@@ -4789,11 +4754,11 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-122.0066599",
-      "title": "Claybank Rd and Western Dr",
       "stopId": "75521",
+      "lon": "-122.0066599",
       "tag": "28746",
-      "lat": "38.2741299"
+      "title": "Claybank Rd and Western Dr",
+      "lat": "38.27413"
     },
     "28747": {
       "routes": {
@@ -4801,10 +4766,10 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-121.9505699",
-      "title": "Travis Ave. and Ragsdale St",
       "stopId": "75522",
+      "lon": "-121.9505699",
       "tag": "28747",
+      "title": "Travis Ave. and Ragsdale St",
       "lat": "38.27179"
     },
     "28748": {
@@ -4813,10 +4778,10 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-121.94621",
-      "title": "Travis Ave. and Broadway",
       "stopId": "75523",
+      "lon": "-121.94621",
       "tag": "28748",
+      "title": "Travis Ave. and Broadway",
       "lat": "38.27204"
     },
     "28749": {
@@ -4825,10 +4790,10 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-121.94049",
-      "title": "Travis Ave. and 1st St",
       "stopId": "75524",
+      "lon": "-121.94049",
       "tag": "28749",
+      "title": "Travis Ave. and 1st St",
       "lat": "38.27207"
     },
     "28751": {
@@ -4837,10 +4802,10 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-121.9359099",
-      "title": "Hickam Ave and Windward Dr.",
       "stopId": "75526",
+      "lon": "-121.9359099",
       "tag": "28751",
+      "title": "Hickam Ave and Windward Dr.",
       "lat": "38.2680499"
     },
     "28752": {
@@ -4849,10 +4814,10 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-121.9488299",
-      "title": "Hickam Ave and Skymaster Dr",
       "stopId": "75527",
+      "lon": "-121.9488299",
       "tag": "28752",
+      "title": "Hickam Ave and Skymaster Dr",
       "lat": "38.2683899"
     },
     "28753": {
@@ -4861,10 +4826,10 @@
           "Tafb-David Grant": true
         }
       },
-      "lon": "-121.9594999",
-      "title": "Air Base Pkwy and Parker Rd",
       "stopId": "75542",
+      "lon": "-121.9594999",
       "tag": "28753",
+      "title": "Air Base Pkwy and Parker Rd",
       "lat": "38.27191"
     },
     "28754": {
@@ -4873,10 +4838,10 @@
           "Suisun Senior Center": true
         }
       },
-      "lon": "-122.04055",
-      "title": "Main St fs Morgan St",
       "stopId": "75529",
+      "lon": "-122.04055",
       "tag": "28754",
+      "title": "Main St fs Morgan St",
       "lat": "38.2375399"
     },
     "28755": {
@@ -4885,28 +4850,28 @@
           "Suisun Senior Center": true
         }
       },
-      "lon": "-122.0405299",
-      "title": "Main St op Sacramento St",
       "stopId": "75530",
+      "lon": "-122.0405299",
       "tag": "28755",
+      "title": "Main St op Sacramento St",
       "lat": "38.23951"
     },
     "28756": {
       "routes": {
         "6": {
-          "Solano Town Center": true,
-          "Suisun Walmart/Lawler Ranch": true
+          "Suisun Walmart/Lawler Ranch": true,
+          "Solano Town Center": true
         }
       },
-      "lon": "-122.01844",
-      "title": "Merganser Dr and Wigeon Way (SS Senior Center)",
       "stopId": "75163",
+      "lon": "-122.01844",
       "tag": "28756",
+      "title": "Merganser Dr and Wigeon Way (SS Senior Center)",
       "lat": "38.2466499",
       "scheduleRoutes": {
         "6": {
           "Solano Town Center": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:15:00",
               "08:00:00",
               "08:45:00",
@@ -4925,7 +4890,7 @@
               "18:30:00",
               "19:15:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:15:00",
               "11:00:00",
               "11:45:00",
@@ -4938,7 +4903,7 @@
             ]
           },
           "Suisun Walmart/Lawler Ranch": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:39:00",
               "07:24:00",
               "08:09:00",
@@ -4957,7 +4922,7 @@
               "17:54:00",
               "18:39:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:39:00",
               "10:24:00",
               "11:09:00",
@@ -4978,10 +4943,10 @@
           "Suisun Senior Center": true
         }
       },
-      "lon": "-122.0501499",
-      "title": "Pennsylvania Ave and Woolner Ave",
       "stopId": "75178",
+      "lon": "-122.0501499",
       "tag": "28757",
+      "title": "Pennsylvania Ave and Woolner Ave",
       "lat": "38.24446"
     },
     "28758": {
@@ -4990,15 +4955,15 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-121.98211",
-      "title": "Bella Vista and Ventura Way",
       "stopId": "75534",
+      "lon": "-121.98211",
       "tag": "28758",
+      "title": "Bella Vista and Ventura Way",
       "lat": "38.2495299",
       "scheduleRoutes": {
         "6": {
           "Solano Town Center": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:06:00",
               "07:51:00",
               "08:36:00",
@@ -5017,7 +4982,7 @@
               "18:21:00",
               "19:06:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:06:00",
               "10:51:00",
               "11:36:00",
@@ -5038,10 +5003,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-121.9862005",
-      "title": "Bella Vista and Charleston St",
       "stopId": "75535",
+      "lon": "-121.9862005",
       "tag": "28759",
+      "title": "Bella Vista and Charleston St",
       "lat": "38.25297"
     },
     "28761": {
@@ -5050,19 +5015,19 @@
           "Ftc": true
         },
         "8": {
-          "Oakbrook Dr": true,
-          "Cordelia Library": true
+          "Cordelia Library": true,
+          "Oakbrook Dr": true
         }
       },
-      "lon": "-122.14413",
-      "title": "Fairfield - Cordelia Library",
       "stopId": "75537",
+      "lon": "-122.14413",
       "tag": "28761",
+      "title": "Fairfield - Cordelia Library",
       "lat": "38.2177599",
       "scheduleRoutes": {
         "7": {
           "Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:26:00",
               "07:26:00",
               "08:26:00",
@@ -5077,7 +5042,7 @@
               "17:26:00",
               "18:26:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:26:00",
               "11:26:00",
               "12:26:00",
@@ -5089,12 +5054,12 @@
         },
         "8": {
           "Cordelia Library": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "15:48:00"
             ]
           },
           "Oakbrook Dr": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:30:00",
               "07:30:00",
               "08:30:00",
@@ -5107,7 +5072,7 @@
               "16:30:00",
               "17:30:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:30:00",
               "11:30:00",
               "12:30:00",
@@ -5122,14 +5087,14 @@
     "28762": {
       "routes": {
         "8": {
-          "Oakbrook Dr": true,
-          "Cordelia Library": true
+          "Cordelia Library": true,
+          "Oakbrook Dr": true
         }
       },
-      "lon": "-122.1323899",
-      "title": "Central Way op Link Rd",
       "stopId": "75538",
+      "lon": "-122.1323899",
       "tag": "28762",
+      "title": "Central Way op Link Rd",
       "lat": "38.21907"
     },
     "28763": {
@@ -5138,15 +5103,15 @@
           "Cordelia Library": true
         }
       },
-      "lon": "-122.14671",
-      "title": "Red Top Rd op Oakbrook Dr (RHS)",
       "stopId": "75541",
+      "lon": "-122.14671",
       "tag": "28763",
+      "title": "Red Top Rd op Oakbrook Dr (RHS)",
       "lat": "38.1985999",
       "scheduleRoutes": {
         "8": {
           "Cordelia Library": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:04:00",
               "08:04:00",
               "09:04:00",
@@ -5160,7 +5125,7 @@
               "17:04:00",
               "18:04:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:04:00",
               "11:04:00",
               "12:04:00",
@@ -5179,15 +5144,15 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-121.98862",
-      "title": "Walters Rd and  Walmart driveway fs (Suisun City Walmart)",
       "stopId": "75543",
+      "lon": "-121.98862",
       "tag": "795052",
+      "title": "Walters Rd and  Walmart driveway fs (Suisun City Walmart)",
       "lat": "38.2415499",
       "scheduleRoutes": {
         "6": {
           "Suisun Walmart/Lawler Ranch": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:51:00",
               "07:36:00",
               "08:21:00",
@@ -5206,7 +5171,7 @@
               "18:06:00",
               "18:51:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:51:00",
               "10:36:00",
               "11:21:00",
@@ -5227,10 +5192,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.0034199",
-      "title": "Lawler Ranch Pwky and Spinney Way",
       "stopId": "75545",
+      "lon": "-122.0034199",
       "tag": "795053",
+      "title": "Lawler Ranch Pwky and Spinney Way",
       "lat": "38.2386799"
     },
     "795054": {
@@ -5239,10 +5204,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-121.99927",
-      "title": "Lawler Ranch Pkwy and Fennie Way",
       "stopId": "75546",
+      "lon": "-121.99927",
       "tag": "795054",
+      "title": "Lawler Ranch Pkwy and Fennie Way",
       "lat": "38.23671"
     },
     "795055": {
@@ -5251,10 +5216,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-121.9930299",
-      "title": "Lawler Ranch Pkwy and Peytonia Lane",
       "stopId": "75547",
+      "lon": "-121.9930299",
       "tag": "795055",
+      "title": "Lawler Ranch Pkwy and Peytonia Lane",
       "lat": "38.23676"
     },
     "795056": {
@@ -5263,15 +5228,15 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-121.98807",
-      "title": "Walters Rd and Petersen Rd  ns (Suisun City Walmart)",
       "stopId": "75544",
+      "lon": "-121.98807",
       "tag": "795056",
+      "title": "Walters Rd and Petersen Rd  ns (Suisun City Walmart)",
       "lat": "38.2421399",
       "scheduleRoutes": {
         "6": {
           "Solano Town Center": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:04:00",
               "07:49:00",
               "08:34:00",
@@ -5290,7 +5255,7 @@
               "18:19:00",
               "19:04:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:04:00",
               "10:49:00",
               "11:34:00",
@@ -5311,10 +5276,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-121.99951",
-      "title": "Pintail Dr. and Woodlark Dr.",
       "stopId": "75540",
+      "lon": "-121.99951",
       "tag": "795057",
+      "title": "Pintail Dr. and Woodlark Dr.",
       "lat": "38.2474599"
     },
     "795460": {
@@ -5323,10 +5288,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.02972",
-      "title": "E. Travis Blvd. and Eisenhower St.",
       "stopId": "75093",
+      "lon": "-122.02972",
       "tag": "795460",
+      "title": "E. Travis Blvd. and Eisenhower St.",
       "lat": "38.25815"
     },
     "795461": {
@@ -5335,26 +5300,23 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.0199724",
-      "title": "Sunset Ave. and Railroad Ave",
       "stopId": "75225",
+      "lon": "-122.0199724",
       "tag": "795461",
+      "title": "Sunset Ave. and Railroad Ave",
       "lat": "38.2533135"
     },
     "795462": {
       "routes": {
         "BLUE": {
-          "Vacaville Ftc": true,
-          "Ftc Ph Bart": true,
           "Ftc Sacramento": true,
-          "Dixon Sac": true,
-          "Vacaville Sac": true
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.50279",
-      "title": "5th St and P St",
       "stopId": "75548",
+      "lon": "-121.5027899",
       "tag": "795462",
+      "title": "5th St and P St",
       "lat": "38.5756"
     },
     "795553": {
@@ -5363,39 +5325,35 @@
           "Ftc": true
         }
       },
-      "lon": "-122.0498",
-      "title": "Pennsylvania Ave. & Ohio St.",
       "stopId": "75532",
+      "lon": "-122.0498",
       "tag": "795553",
+      "title": "Pennsylvania Ave. & Ohio St.",
       "lat": "38.2444299"
     },
     "795554": {
       "routes": {
         "BLUE": {
-          "Vacaville Ftc": true,
-          "Ftc Ph Bart": true,
           "Ftc Sacramento": true,
-          "Dixon Sac": true,
-          "Vacaville Sac": true
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.49866",
-      "title": "J St. and 6th St.",
       "stopId": "75405",
+      "lon": "-121.49866",
       "tag": "795554",
+      "title": "J St. and 6th St.",
       "lat": "38.5816"
     },
     "795555": {
       "routes": {
         "BLUE": {
-          "Vacaville Ftc": true,
           "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.50605",
-      "title": "Capitol Mall",
       "stopId": "75549",
+      "lon": "-121.50605",
       "tag": "795555",
+      "title": "Capitol Mall",
       "lat": "38.58012"
     },
     "805313": {
@@ -5404,10 +5362,10 @@
           "Smart And Final": true
         }
       },
-      "lon": "-121.95941",
-      "title": "Air Base Pkwy and Parker Rd",
       "stopId": "75528",
+      "lon": "-121.95941",
       "tag": "805313",
+      "title": "Air Base Pkwy and Parker Rd",
       "lat": "38.27222"
     },
     "805482": {
@@ -5416,36 +5374,33 @@
           "Ftc": true
         }
       },
-      "lon": "-122.05639",
-      "title": "Woolner Ave and Gregory St",
       "stopId": "75533",
+      "lon": "-122.05639",
       "tag": "805482",
+      "title": "Woolner Ave and Gregory St",
       "lat": "38.24521"
     },
     "807829": {
       "routes": {
         "BLUE": {
-          "Ftc Davis": true,
-          "Ftc Sacramento": true,
-          "Ftc Vacaville": true,
-          "Ftc Dixon": true
+          "Ftc Sacramento": true
         }
       },
-      "lon": "-122.12889",
-      "title": "Benicia Park Rd and Industrial Way (NB)",
       "stopId": "75550",
+      "lon": "-122.12889",
       "tag": "807829",
+      "title": "Benicia Park Rd and Industrial Way (NB)",
       "lat": "38.0682499",
       "scheduleRoutes": {
         "BLUE": {
           "Benicia Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "08:14:00",
               "09:44:00",
               "12:41:00",
               "16:33:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:15:00",
               "12:17:00",
               "14:20:00",
@@ -5457,14 +5412,14 @@
           },
           "Ftc Dixon": {},
           "Ftc Sacramento": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:43:00",
               "07:44:00",
               "15:03:00"
             ]
           },
           "Ftc Vacaville": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "08:44:00",
               "10:44:00",
               "16:03:00",
@@ -5475,7 +5430,7 @@
             ]
           },
           "Ftc Davis": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:15:00",
               "11:16:00",
               "13:21:00",
@@ -5491,10 +5446,10 @@
           "Solano Town Center": true
         }
       },
-      "lon": "-122.0497",
-      "title": "Fairfield Senior Ctr/Penn Ave",
       "stopId": "75552",
+      "lon": "-122.0497",
       "tag": "2335944",
+      "title": "Fairfield Senior Ctr/Penn Ave",
       "lat": "38.2536899"
     },
     "2436157": {
@@ -5503,15 +5458,15 @@
           "Solano Town Ctr": true
         }
       },
-      "lon": "-121.96707",
-      "title": "FF Vacaville Train Station",
       "stopId": "75555",
+      "lon": "-121.96707",
       "tag": "2436157",
+      "title": "FF Vacaville Train Station",
       "lat": "38.2861199",
       "scheduleRoutes": {
         "2": {
           "Solano Town Ctr": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:45:00",
               "07:15:00",
               "07:45:00",
@@ -5534,7 +5489,7 @@
               "18:15:00",
               "18:45:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:15:00",
               "11:15:00",
               "12:15:00",
@@ -5553,15 +5508,15 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-121.98227",
-      "title": "Montebello Dr and Arroyo Grande Lane (Montebello Vista Park)",
       "stopId": "75556",
+      "lon": "-121.98227",
       "tag": "2436313",
+      "title": "Montebello Dr and Arroyo Grande Lane (Montebello Vista Park)",
       "lat": "38.2486099",
       "scheduleRoutes": {
         "6": {
           "Suisun Walmart/Lawler Ranch": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:47:00",
               "07:32:00",
               "08:17:00",
@@ -5580,7 +5535,7 @@
               "18:02:00",
               "18:47:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:47:00",
               "10:32:00",
               "11:17:00",
@@ -5602,19 +5557,18 @@
           "Ftc": true
         },
         "BLUE": {
-          "Ftc Ph Bart": true,
-          "Vacaville Ftc": true
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-122.12914",
-      "title": "Suisun Valley Rd and Westamerica Dr",
       "stopId": "75576",
+      "lon": "-122.12914",
       "tag": "2455430",
+      "title": "Suisun Valley Rd and Westamerica Dr",
       "lat": "38.2295399",
       "scheduleRoutes": {
         "BLUE": {
           "Benicia Ph Bart": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "08:10:00",
               "09:10:00",
               "11:10:00",
@@ -5624,11 +5578,11 @@
             ]
           },
           "Ftc Ph Bart": {
-            "wkd": [
-              "07:09:00",
-              "07:47:00",
+            "c_20140_b_26749_d_31": [
+              "07:08:00",
+              "07:43:00",
               "08:48:00",
-              "11:48:00",
+              "11:45:00",
               "14:00:00",
               "15:00:00",
               "15:30:00",
@@ -5640,7 +5594,7 @@
             ]
           },
           "Vacaville Ftc": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:10:00",
               "12:10:00",
               "14:10:00",
@@ -5658,27 +5612,24 @@
           "Ftc": true
         },
         "BLUE": {
-          "Ftc Davis": true,
-          "Ftc Sacramento": true,
-          "Ftc Dixon": true,
-          "Ftc Vacaville": true
+          "Ftc Sacramento": true
         }
       },
-      "lon": "-122.12879",
-      "title": "Suisun Valley Rd and Kaiser Dr",
       "stopId": "75577",
+      "lon": "-122.12879",
       "tag": "2455431",
+      "title": "Suisun Valley Rd and Kaiser Dr",
       "lat": "38.2292099",
       "scheduleRoutes": {
         "BLUE": {
           "Benicia Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "08:30:00",
               "10:00:00",
               "12:57:00",
               "16:50:00"
             ],
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:31:00",
               "12:34:00",
               "14:37:00",
@@ -5689,14 +5640,14 @@
           },
           "Ftc Dixon": {},
           "Ftc Sacramento": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "06:59:00",
               "08:00:00",
               "15:20:00"
             ]
           },
           "Ftc Vacaville": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "09:00:00",
               "11:00:00",
               "16:20:00",
@@ -5706,7 +5657,7 @@
             ]
           },
           "Ftc Davis": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:31:00",
               "11:33:00",
               "13:38:00",
@@ -5719,22 +5670,19 @@
     "2455473": {
       "routes": {
         "BLUE": {
-          "Ftc Davis": true,
-          "Ftc Sacramento": true,
-          "Ftc Dixon": true,
-          "Vacaville Sac": true
+          "Ftc Sacramento": true
         }
       },
-      "lon": "-121.94317",
-      "title": "Vaca Valley Parkway",
       "stopId": "75578",
+      "lon": "-121.94317",
       "tag": "2455473",
+      "title": "Vaca Valley Parkway",
       "lat": "38.3917899",
       "scheduleRoutes": {
         "BLUE": {
           "Ftc Dixon": {},
           "Ftc Sacramento": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:37:00",
               "08:38:00",
               "14:00:00",
@@ -5742,13 +5690,13 @@
             ]
           },
           "Vacaville Sac": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "15:01:00",
               "15:21:00"
             ]
           },
           "Ftc Davis": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "10:20:00",
               "12:21:00",
               "14:25:00",
@@ -5762,33 +5710,32 @@
     "2455474": {
       "routes": {
         "BLUE": {
-          "Ftc Ph Bart": true,
-          "Vacaville Ftc": true
+          "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.94301",
-      "title": "Vaca Valley Parkway",
       "stopId": "75579",
+      "lon": "-121.94301",
       "tag": "2455474",
+      "title": "Vaca Valley Parkway",
       "lat": "38.3920499",
       "scheduleRoutes": {
         "BLUE": {
           "Davis Ftc": {},
           "Dixon Ftc": {},
           "Ftc Ph Bart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "05:08:00",
               "06:08:00",
               "08:09:00",
-              "11:03:00",
+              "11:01:00",
               "16:15:00",
               "17:11:00",
-              "18:13:00",
-              "19:02:00"
+              "18:13:00"
             ]
           },
+          "Vtc Ftc": {},
           "Vacaville Ftc": {
-            "sat": [
+            "c_20140_b_26749_d_32": [
               "09:26:00",
               "11:26:00",
               "13:28:00",
@@ -5802,21 +5749,20 @@
     "2455475": {
       "routes": {
         "BLUE": {
-          "Vacaville Ftc": true,
           "Ftc Ph Bart": true
         }
       },
-      "lon": "-121.50156",
-      "title": "Sacramento Valley Station",
       "stopId": "75580",
+      "lon": "-121.50156",
       "tag": "2455475",
+      "title": "Sacramento Valley Station",
       "lat": "38.5846599",
       "scheduleRoutes": {
         "BLUE": {
           "Davis Ftc": {},
           "Dixon Ftc": {},
           "Ftc Ph Bart": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:19:00",
               "09:55:00",
               "15:07:00",
@@ -5824,7 +5770,7 @@
             ]
           },
           "Vacaville Ftc": {
-            "wkd": [
+            "c_20140_b_26749_d_31": [
               "07:55:00",
               "08:55:00"
             ]
@@ -5838,10 +5784,10 @@
           "Suisun Walmart/Lawler Ranch": true
         }
       },
-      "lon": "-122.0500599",
-      "title": "Pennsylvania Ave and Utah St",
       "stopId": "75557",
+      "lon": "-122.0500599",
       "tag": "2501905",
+      "title": "Pennsylvania Ave and Utah St",
       "lat": "38.2543399"
     },
     "2617959": {
@@ -5850,11 +5796,35 @@
           "Ftc": true
         }
       },
-      "lon": "-122.02974",
-      "title": "Buena Vista Ave and Rio Verde",
       "stopId": "75558",
+      "lon": "-122.02974",
       "tag": "2617959",
+      "title": "Buena Vista Ave and Rio Verde",
       "lat": "38.2473199"
+    },
+    "2618156": {
+      "routes": {
+        "3": {
+          "Ftc": true
+        }
+      },
+      "stopId": "75559",
+      "lon": "-122.04692",
+      "tag": "2618156",
+      "title": "B Gale Wilson Boulevard, Fairfield, CA, USA",
+      "lat": "38.2611599"
+    },
+    "2618157": {
+      "routes": {
+        "3": {
+          "Walmart": true
+        }
+      },
+      "stopId": "75560",
+      "lon": "-122.0461999",
+      "tag": "2618157",
+      "title": "B Gale Wilson Boulevard, Fairfield, CA, USA",
+      "lat": "38.26104"
     }
   },
   "copyright": "All data copyright FAST 2020."

@@ -109,30 +109,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Battery St & Broadway",
-        "tag": "3025",
-        "stopId": "13025"
+        "title": "Baker St & Greenwich St",
+        "tag": "3024",
+        "stopId": "13024"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4010899,
-          37.7983099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Battery St & Jackson St",
-        "tag": "3030",
-        "stopId": "13030"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.40077,
-          37.7968599
+          -122.4456899,
+          37.7976099
         ]
       }
     },
@@ -799,6 +784,111 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "6th Ave & Balboa St",
+        "tag": "3177",
+        "stopId": "13177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4639199,
+          37.7771499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "6th Ave & Balboa St",
+        "tag": "3178",
+        "stopId": "13178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46409,
+          37.77699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "6th Ave & Clement St",
+        "tag": "3180",
+        "stopId": "13180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46438,
+          37.78305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "6th Ave & Clement St",
+        "tag": "3181",
+        "stopId": "13181"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4645299,
+          37.7830299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "6th Ave & Fulton St",
+        "tag": "3183",
+        "stopId": "13183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46374,
+          37.7738099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "6th Ave & Geary Blvd",
+        "tag": "3184",
+        "stopId": "13184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46418,
+          37.7808799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "6th Ave & Geary Blvd",
+        "tag": "3185",
+        "stopId": "13185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46435,
+          37.7807699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "1697 7th Ave",
         "tag": "3188",
         "stopId": "13188"
@@ -836,8 +926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.40337,
-          37.77327
+          -122.4033699,
+          37.7732699
         ]
       }
     },
@@ -851,8 +941,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4078999,
-          37.7768599
+          -122.4079,
+          37.77686
         ]
       }
     },
@@ -866,8 +956,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.40646,
-          37.77573
+          -122.4064599,
+          37.7757299
         ]
       }
     },
@@ -881,8 +971,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4092199,
-          37.7779399
+          -122.40922,
+          37.77794
         ]
       }
     },
@@ -896,8 +986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4110299,
-          37.7793299
+          -122.41103,
+          37.77933
         ]
       }
     },
@@ -919,15 +1009,30 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "7th St & Townsend St",
-        "tag": "3197",
-        "stopId": "13197"
+        "title": "8th Ave & Fulton St",
+        "tag": "3201",
+        "stopId": "13201"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.40182,
-          37.7720299
+          -122.46581,
+          37.7736399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "8th Ave & Fulton St",
+        "tag": "3202",
+        "stopId": "13202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4659799,
+          37.7734799
         ]
       }
     },
@@ -956,8 +1061,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.40713,
-          37.77254
+          -122.4069299,
+          37.7724499
         ]
       }
     },
@@ -1018,6 +1123,36 @@
         "coordinates": [
           -122.4146,
           37.7785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "9th Ave & Irving St",
+        "tag": "3211",
+        "stopId": "13211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46624,
+          37.76429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "9th Ave & Irving St",
+        "tag": "3213",
+        "stopId": "13213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4663899,
+          37.7638
         ]
       }
     },
@@ -1093,6 +1228,36 @@
         "coordinates": [
           -122.46602,
           37.75853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "9th Ave & Lincoln Way",
+        "tag": "3220",
+        "stopId": "13220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4663399,
+          37.7658499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "9th Ave & Lincoln Way",
+        "tag": "3221",
+        "stopId": "13221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4665199,
+          37.7656899
         ]
       }
     },
@@ -1579,6 +1744,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "17th St & Diamond St",
+        "tag": "3314",
+        "stopId": "13314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4374899,
+          37.76242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "17th St & Kansas St",
         "tag": "3317",
         "stopId": "13317"
@@ -1781,8 +1961,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4770399,
-          37.7634299
+          -122.47704,
+          37.76343
         ]
       }
     },
@@ -1841,8 +2021,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4769299,
-          37.7615999
+          -122.47693,
+          37.7616
         ]
       }
     },
@@ -1864,36 +2044,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "19th Ave & Kirkham St",
-        "tag": "3366",
-        "stopId": "13366"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.47671,
-          37.76015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th Ave & Kirkham St",
-        "tag": "3367",
-        "stopId": "13367"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4769499,
-          37.7599499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "19th Ave & Lawton St",
         "tag": "3368",
         "stopId": "13368"
@@ -1901,8 +2051,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.47654,
-          37.75786
+          -122.4765399,
+          37.7578599
         ]
       }
     },
@@ -1939,36 +2089,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "19th Ave & Moraga St",
-        "tag": "3372",
-        "stopId": "13372"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4766899,
-          37.7562199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th Ave & Moraga St",
-        "tag": "3373",
-        "stopId": "13373"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4764199,
-          37.7559899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "19th Ave & Noriega St",
         "tag": "3374",
         "stopId": "13374"
@@ -1991,8 +2111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.47653,
-          37.75392
+          -122.4765299,
+          37.7539199
         ]
       }
     },
@@ -2014,36 +2134,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "19th Ave & Ocean Ave",
-        "tag": "3377",
-        "stopId": "13377"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4751,
-          37.73279
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th Ave & Ocean Ave",
-        "tag": "3378",
-        "stopId": "13378"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4747999,
-          37.7321199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "19th Ave & Ortega St",
         "tag": "3379",
         "stopId": "13379"
@@ -2051,8 +2141,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.47619,
-          37.75272
+          -122.4761899,
+          37.7527199
         ]
       }
     },
@@ -2068,36 +2158,6 @@
         "coordinates": [
           -122.4764,
           37.75206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th Ave & Pacheco St",
-        "tag": "3381",
-        "stopId": "13381"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4760299,
-          37.7503999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th Ave & Pacheco St",
-        "tag": "3382",
-        "stopId": "13382"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.47627,
-          37.7502
         ]
       }
     },
@@ -2224,36 +2284,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "19th Ave & Santiago St",
-        "tag": "3392",
-        "stopId": "13392"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.47567,
-          37.74524
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th Ave & Santiago St",
-        "tag": "3393",
-        "stopId": "13393"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4759,
-          37.74507
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "19th Ave & Taraval St",
         "tag": "3394",
         "stopId": "13394"
@@ -2276,38 +2306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4757799,
-          37.7431799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th Ave & Ulloa St",
-        "tag": "3396",
-        "stopId": "13396"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.47543,
-          37.74149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th Ave & Ulloa St",
-        "tag": "3397",
-        "stopId": "13397"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.47568,
-          37.74129
+          -122.47578,
+          37.74318
         ]
       }
     },
@@ -2336,38 +2336,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4755299,
-          37.7390099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th Ave & Wawona St",
-        "tag": "3400",
-        "stopId": "13400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4754199,
-          37.7375699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "19th Ave & Wawona St",
-        "tag": "3401",
-        "stopId": "13401"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4751499,
-          37.7373399
+          -122.47553,
+          37.73901
         ]
       }
     },
@@ -2398,6 +2368,21 @@
         "coordinates": [
           -122.38871,
           37.7605399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "20th St & 3rd St",
+        "tag": "3411",
+        "stopId": "13411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38841,
+          37.7604699
         ]
       }
     },
@@ -2509,6 +2494,81 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "22nd St & 3rd St",
+        "tag": "3432",
+        "stopId": "13432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3880899,
+          37.75801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "22nd St & Iowa St",
+        "tag": "3435",
+        "stopId": "13435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39227,
+          37.7577499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "22nd St & Minnesota St",
+        "tag": "3436",
+        "stopId": "13436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39008,
+          37.7578699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "22nd St & Minnesota St",
+        "tag": "3437",
+        "stopId": "13437"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3902699,
+          37.75781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "22nd St & Iowa St",
+        "tag": "3439",
+        "stopId": "13439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39231,
+          37.7576699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "23rd Ave & Irving St",
         "tag": "3441",
         "stopId": "13441"
@@ -2614,6 +2674,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "23rd St & Kansas St",
+        "tag": "3450",
+        "stopId": "13450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40267,
+          37.7544499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "23rd St & Rhode Island St",
         "tag": "3452",
         "stopId": "13452"
@@ -2623,6 +2698,441 @@
         "coordinates": [
           -122.4016899,
           37.75451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "23rd St & Utah St",
+        "tag": "3453",
+        "stopId": "13453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40494,
+          37.7544199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "23rd St & Utah St",
+        "tag": "3454",
+        "stopId": "13454"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4052999,
+          37.7543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "23rd St & Vermont St",
+        "tag": "3455",
+        "stopId": "13455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40391,
+          37.7544799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "23rd St & Vermont St",
+        "tag": "3456",
+        "stopId": "13456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4036299,
+          37.7544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Bryant St",
+        "tag": "3458",
+        "stopId": "13458"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4092799,
+          37.75285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Bryant St",
+        "tag": "3459",
+        "stopId": "13459"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40897,
+          37.7527599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Church St",
+        "tag": "3460",
+        "stopId": "13460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4273299,
+          37.75178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Church St",
+        "tag": "3461",
+        "stopId": "13461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42754,
+          37.7516399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Castro St",
+        "tag": "3462",
+        "stopId": "13462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43425,
+          37.7513599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Castro St",
+        "tag": "3463",
+        "stopId": "13463"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43394,
+          37.7512599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Diamond St",
+        "tag": "3464",
+        "stopId": "13464"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4361799,
+          37.75123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Dolores St",
+        "tag": "3466",
+        "stopId": "13466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4253099,
+          37.7519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Dolores St",
+        "tag": "3467",
+        "stopId": "13467"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4252599,
+          37.75179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Folsom St",
+        "tag": "3469",
+        "stopId": "13469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41424,
+          37.7525599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Folsom St",
+        "tag": "3470",
+        "stopId": "13470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4139299,
+          37.75246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Guerrero St",
+        "tag": "3471",
+        "stopId": "13471"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42277,
+          37.7520499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Guerrero St",
+        "tag": "3472",
+        "stopId": "13472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42298,
+          37.7519099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Harrison St",
+        "tag": "3473",
+        "stopId": "13473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4120499,
+          37.75269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Harrison St",
+        "tag": "3474",
+        "stopId": "13474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41174,
+          37.7525899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Mission St",
+        "tag": "3476",
+        "stopId": "13476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41833,
+          37.7523199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Mission St",
+        "tag": "3477",
+        "stopId": "13477"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41855,
+          37.7521799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Noe St",
+        "tag": "3478",
+        "stopId": "13478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4317699,
+          37.75151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Potrero Ave",
+        "tag": "3480",
+        "stopId": "13480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40669,
+          37.7529899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Sanchez St",
+        "tag": "3481",
+        "stopId": "13481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42955,
+          37.7516499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Sanchez St",
+        "tag": "3482",
+        "stopId": "13482"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4297699,
+          37.75151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & South Van Ness Ave",
+        "tag": "3483",
+        "stopId": "13483"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4161599,
+          37.75245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & South Van Ness Ave",
+        "tag": "3484",
+        "stopId": "13484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41637,
+          37.7523099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Valencia St",
+        "tag": "3485",
+        "stopId": "13485"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42056,
+          37.7521799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Valencia St",
+        "tag": "3486",
+        "stopId": "13486"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4205099,
+          37.75206
         ]
       }
     },
@@ -2825,6 +3335,21 @@
       "type": "Feature",
       "properties": {
         "title": "25th St & Connecticut St",
+        "tag": "3504",
+        "stopId": "13504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3963399,
+          37.75236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "25th St & Connecticut St",
         "tag": "3505",
         "stopId": "13505"
       },
@@ -2832,6 +3357,36 @@
         "type": "Point",
         "coordinates": [
           -122.3966199,
+          37.75224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "25th St & Dakota St",
+        "tag": "3507",
+        "stopId": "13507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39483,
+          37.7524999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "25th St & Wisconsin St",
+        "tag": "3512",
+        "stopId": "13512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3983099,
           37.75224
         ]
       }
@@ -3011,8 +3566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4244599,
-          37.74217
+          -122.42446,
+          37.7421699
         ]
       }
     },
@@ -3094,6 +3649,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "32nd Ave & Balboa St",
+        "tag": "3545",
+        "stopId": "13545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.49195,
+          37.7766799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "32nd Ave & California St",
         "tag": "3546",
         "stopId": "13546"
@@ -3169,6 +3739,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "33rd Ave & Anza St",
+        "tag": "3551",
+        "stopId": "13551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.49325,
+          37.77786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "33rd Ave & Balboa St",
+        "tag": "3554",
+        "stopId": "13554"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4931299,
+          37.7759999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "33rd Ave & Clement St",
         "tag": "3555",
         "stopId": "13555"
@@ -3178,6 +3778,21 @@
         "coordinates": [
           -122.49335,
           37.78154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "33rd Ave & Geary Blvd",
+        "tag": "3560",
+        "stopId": "13560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.49338,
+          37.7795699
         ]
       }
     },
@@ -3221,8 +3836,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.50299,
-          37.78109
+          -122.5029899,
+          37.7810899
         ]
       }
     },
@@ -3343,6 +3958,81 @@
         "coordinates": [
           -122.50941,
           37.7790199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alemany Blvd & Arch St",
+        "tag": "3621",
+        "stopId": "13621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4669,
+          37.7116299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alemany Blvd & Arch St",
+        "tag": "3622",
+        "stopId": "13622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46717,
+          37.7114199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alemany Blvd & St Charles Ave",
+        "tag": "3628",
+        "stopId": "13628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4694599,
+          37.71036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alemany Blvd & Victoria St",
+        "tag": "3630",
+        "stopId": "13630"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4650699,
+          37.7118299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alemany Blvd & Victoria St",
+        "tag": "3631",
+        "stopId": "13631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4649199,
+          37.7116399
         ]
       }
     },
@@ -3484,6 +4174,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Bernal Heights Blvd & Bradford St",
+        "tag": "3690",
+        "stopId": "13690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40978,
+          37.7418299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bernal Heights Blvd & Powhattan Ave",
+        "tag": "3691",
+        "stopId": "13691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4106699,
+          37.74151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Bosworth St & Elk St",
         "tag": "3694",
         "stopId": "13694"
@@ -3598,6 +4318,81 @@
         "coordinates": [
           -122.48119,
           37.7922199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bradford St & Bernal Heights Blvd",
+        "tag": "3708",
+        "stopId": "13708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4094,
+          37.74201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bradford St & Bernal Heights Blvd",
+        "tag": "3709",
+        "stopId": "13709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4094,
+          37.74286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bradford St & Esmeralda Ave",
+        "tag": "3710",
+        "stopId": "13710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40934,
+          37.7428499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burnett Ave & Crestline Dr",
+        "tag": "3712",
+        "stopId": "13712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4449399,
+          37.74912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burnett Ave & Dawnview Way",
+        "tag": "3713",
+        "stopId": "13713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4450899,
+          37.7480799
         ]
       }
     },
@@ -3896,8 +4691,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.40378,
-          37.7111399
+          -122.4037799,
+          37.71114
         ]
       }
     },
@@ -4601,8 +5396,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.45259,
-          37.7654999
+          -122.4525899,
+          37.7655
         ]
       }
     },
@@ -4781,8 +5576,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.43962,
-          37.8003099
+          -122.4396199,
+          37.80031
         ]
       }
     },
@@ -4924,6 +5719,186 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Church St & 16th St",
+        "tag": "3985",
+        "stopId": "13985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4286099,
+          37.7643799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & 18th St",
+        "tag": "3987",
+        "stopId": "13987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42842,
+          37.76147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & 22nd St",
+        "tag": "3994",
+        "stopId": "13994"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42764,
+          37.75474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & 24th St",
+        "tag": "3995",
+        "stopId": "13995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4275,
+          37.7517999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & 24th St",
+        "tag": "3996",
+        "stopId": "13996"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42735,
+          37.7515899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & 27th St",
+        "tag": "3997",
+        "stopId": "13997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4270699,
+          37.7469899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & 27th St",
+        "tag": "3998",
+        "stopId": "13998"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42689,
+          37.74678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & 29th St",
+        "tag": "3999",
+        "stopId": "13999"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42658,
+          37.74359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & 30th St",
+        "tag": "4000",
+        "stopId": "14000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42646,
+          37.7422199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & Clipper St",
+        "tag": "4002",
+        "stopId": "14002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42729,
+          37.74939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & Clipper St",
+        "tag": "4003",
+        "stopId": "14003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42712,
+          37.74918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & Day St",
+        "tag": "4004",
+        "stopId": "14004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4266499,
+          37.7428099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Church St & Duboce Ave",
         "tag": "4005",
         "stopId": "14005"
@@ -4946,7 +5921,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4290899,
+          -122.42909,
           37.7692999
         ]
       }
@@ -5224,6 +6199,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Clipper St & Diamond Heights Blvd",
+        "tag": "4071",
+        "stopId": "14071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44396,
+          37.7468899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clipper St & Portola Dr",
+        "tag": "4072",
+        "stopId": "14072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4449999,
+          37.7466999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Cole St & Carl St",
         "tag": "4091",
         "stopId": "14091"
@@ -5261,8 +6266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4501999,
-          37.7668299
+          -122.4502,
+          37.76683
         ]
       }
     },
@@ -5292,7 +6297,7 @@
         "type": "Point",
         "coordinates": [
           -122.4507699,
-          37.76945
+          37.7694499
         ]
       }
     },
@@ -5944,6 +6949,411 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "211 Corbett Ave",
+        "tag": "4162",
+        "stopId": "14162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44284,
+          37.7617999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "211 Corbett Ave",
+        "tag": "4163",
+        "stopId": "14163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44294,
+          37.76165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "328 Corbett Ave",
+        "tag": "4164",
+        "stopId": "14164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4453299,
+          37.75993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "341 Corbett Ave",
+        "tag": "4165",
+        "stopId": "14165"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44507,
+          37.7599099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "539 Corbett Ave",
+        "tag": "4166",
+        "stopId": "14166"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44415,
+          37.7575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "795 Corbett Ave",
+        "tag": "4167",
+        "stopId": "14167"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4430099,
+          37.75412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "800 Corbett Ave",
+        "tag": "4168",
+        "stopId": "14168"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.443,
+          37.7539899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "925 Corbett Ave",
+        "tag": "4169",
+        "stopId": "14169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44341,
+          37.75208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "956 Corbett Ave",
+        "tag": "4170",
+        "stopId": "14170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44371,
+          37.7516799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Clayton St",
+        "tag": "4171",
+        "stopId": "14171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4461399,
+          37.7589399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Clayton St",
+        "tag": "4172",
+        "stopId": "14172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4459,
+          37.75866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Cuesta Ct",
+        "tag": "4173",
+        "stopId": "14173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44396,
+          37.7508499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Danvers St",
+        "tag": "4174",
+        "stopId": "14174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4440399,
+          37.7612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Danvers St",
+        "tag": "4175",
+        "stopId": "14175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44408,
+          37.7613299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Douglass St",
+        "tag": "4176",
+        "stopId": "14176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4396199,
+          37.76208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Graystone Ter",
+        "tag": "4177",
+        "stopId": "14177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4432799,
+          37.7564099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Graystone Ter",
+        "tag": "4178",
+        "stopId": "14178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4434199,
+          37.7564499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Hattie St",
+        "tag": "4179",
+        "stopId": "14179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44112,
+          37.7617099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Hattie St",
+        "tag": "4180",
+        "stopId": "14180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44112,
+          37.76161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Hopkins Ave",
+        "tag": "4181",
+        "stopId": "14181"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4438099,
+          37.75287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Iron Aly",
+        "tag": "4182",
+        "stopId": "14182"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4447399,
+          37.75783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Mars St",
+        "tag": "4183",
+        "stopId": "14183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44425,
+          37.76054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Mars St",
+        "tag": "4184",
+        "stopId": "14184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4444799,
+          37.76048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Ord St",
+        "tag": "4185",
+        "stopId": "14185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44022,
+          37.7618999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Romain St",
+        "tag": "4186",
+        "stopId": "14186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44279,
+          37.7554799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Corbett Ave & Romain St",
+        "tag": "4187",
+        "stopId": "14187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4428299,
+          37.75535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Crescent Ave & Putnam St",
+        "tag": "4202",
+        "stopId": "14202"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41128,
+          37.7349099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Crespi Dr & Varela Ave",
         "tag": "4207",
         "stopId": "14207"
@@ -5953,6 +7363,36 @@
         "coordinates": [
           -122.4759399,
           37.7200999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "40 Crestline Dr",
+        "tag": "4209",
+        "stopId": "14209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44658,
+          37.7503899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "74 Crestline Dr",
+        "tag": "4210",
+        "stopId": "14210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4462,
+          37.7517599
         ]
       }
     },
@@ -7639,6 +9079,51 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Diamond St & 24th St",
+        "tag": "4371",
+        "stopId": "14371"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43622,
+          37.75108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Diamond St & 25th St",
+        "tag": "4372",
+        "stopId": "14372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4362099,
+          37.7496499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Diamond St & 25th St",
+        "tag": "4373",
+        "stopId": "14373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43606,
+          37.7494899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Diamond St & Bosworth St",
         "tag": "4386",
         "stopId": "14386"
@@ -8330,21 +9815,6 @@
       "type": "Feature",
       "properties": {
         "title": "The Embarcadero & Howard St",
-        "tag": "4519",
-        "stopId": "14519"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3911499,
-          37.7926899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "The Embarcadero & Howard St",
         "tag": "4520",
         "stopId": "14520"
       },
@@ -8396,8 +9866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.38832,
-          37.7835999
+          -122.3883199,
+          37.7836
         ]
       }
     },
@@ -8668,6 +10138,66 @@
         "coordinates": [
           -122.3828099,
           37.7397199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "909 Ellsworth St",
+        "tag": "4565",
+        "stopId": "14565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41679,
+          37.73284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "945 Ellsworth St",
+        "tag": "4566",
+        "stopId": "14566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4177599,
+          37.73281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "989 Ellsworth St",
+        "tag": "4567",
+        "stopId": "14567"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41893,
+          37.73262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ellsworth St & Crescent Ave",
+        "tag": "4568",
+        "stopId": "14568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41491,
+          37.7347099
         ]
       }
     },
@@ -9499,6 +11029,276 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Folsom St & 25th St",
+        "tag": "4680",
+        "stopId": "14680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41405,
+          37.751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folsom St & 25th St",
+        "tag": "4681",
+        "stopId": "14681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41384,
+          37.75083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folsom St & Bessie St",
+        "tag": "4686",
+        "stopId": "14686"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4136199,
+          37.7468699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folsom St & Cortland Ave",
+        "tag": "4687",
+        "stopId": "14687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4133,
+          37.7388799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folsom St & Cortland Ave",
+        "tag": "4688",
+        "stopId": "14688"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41337,
+          37.7387999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folsom St & Crescent Ave",
+        "tag": "4689",
+        "stopId": "14689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41365,
+          37.7349399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folsom St & Crescent Ave",
+        "tag": "4690",
+        "stopId": "14690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4137199,
+          37.73483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folsom St & Ogden Ave",
+        "tag": "4695",
+        "stopId": "14695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41352,
+          37.7360499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folsom St & Ogden Ave",
+        "tag": "4696",
+        "stopId": "14696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41364,
+          37.7357899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folsom St & Precita Ave",
+        "tag": "4697",
+        "stopId": "14697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41349,
+          37.7471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folsom St & Stoneman St",
+        "tag": "4698",
+        "stopId": "14698"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41336,
+          37.7453199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folsom St & Stoneman St",
+        "tag": "4699",
+        "stopId": "14699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41345,
+          37.74521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folsom St & Tompkins Ave",
+        "tag": "4700",
+        "stopId": "14700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41344,
+          37.7371799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folsom St & Tompkins Ave",
+        "tag": "4701",
+        "stopId": "14701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41352,
+          37.7371599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Frederick St & Arguello Blvd",
+        "tag": "4714",
+        "stopId": "14714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4576,
+          37.76606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Frederick St & Stanyan St",
+        "tag": "4718",
+        "stopId": "14718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4532599,
+          37.7664099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Frederick St & Willard St",
+        "tag": "4719",
+        "stopId": "14719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4549099,
+          37.7662099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Frederick St & Willard St",
+        "tag": "4720",
+        "stopId": "14720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4546999,
+          37.76609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Fremont St & Market St",
         "tag": "4725",
         "stopId": "14725"
@@ -9979,6 +11779,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Academy of Sciences",
+        "tag": "4771",
+        "stopId": "14771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46615,
+          37.7704399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Golden Gate Park Museums",
+        "tag": "4772",
+        "stopId": "14772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4689199,
+          37.77053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Gilman Ave & 3rd St",
         "tag": "4783",
         "stopId": "14783"
@@ -10121,8 +11951,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4467399,
-          37.7207999
+          -122.44674,
+          37.7208
         ]
       }
     },
@@ -10181,8 +12011,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4435499,
-          37.7189299
+          -122.44355,
+          37.71893
         ]
       }
     },
@@ -10511,7 +12341,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4499799,
+          -122.44998,
           37.7221199
         ]
       }
@@ -10556,8 +12386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.43803,
-          37.71514
+          -122.4380299,
+          37.7151399
         ]
       }
     },
@@ -10571,7 +12401,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4408699,
+          -122.44087,
           37.7164699
         ]
       }
@@ -10601,8 +12431,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.43396,
-          37.71333
+          -122.4339599,
+          37.7133299
         ]
       }
     },
@@ -10646,8 +12476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4318,
-          37.71283
+          -122.4317999,
+          37.7128299
         ]
       }
     },
@@ -10706,8 +12536,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.42035,
-          37.70848
+          -122.4203499,
+          37.7084799
         ]
       }
     },
@@ -10759,6 +12589,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Grafton Ave & Harold Ave",
+        "tag": "4911",
+        "stopId": "14911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453,
+          37.72008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Grafton Ave & Jules Ave",
         "tag": "4912",
         "stopId": "14912"
@@ -10768,6 +12613,21 @@
         "coordinates": [
           -122.4613299,
           37.71995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grafton Ave & Lee St",
+        "tag": "4913",
+        "stopId": "14913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45421,
+          37.71999
         ]
       }
     },
@@ -10857,7 +12717,7 @@
         "type": "Point",
         "coordinates": [
           -122.4160499,
-          37.71203
+          37.7120299
         ]
       }
     },
@@ -10871,8 +12731,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4402599,
-          37.77093
+          -122.44026,
+          37.7709299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Haight St & Buchanan St",
+        "tag": "4941",
+        "stopId": "14941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42706,
+          37.7726099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Haight St & Buchanan St",
+        "tag": "4942",
+        "stopId": "14942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4273199,
+          37.77243
         ]
       }
     },
@@ -10886,8 +12776,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.44055,
-          37.7707499
+          -122.4405499,
+          37.77075
         ]
       }
     },
@@ -10901,8 +12791,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4484699,
-          37.76989
+          -122.44847,
+          37.7698899
         ]
       }
     },
@@ -10916,8 +12806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4486599,
-          37.76971
+          -122.44866,
+          37.7697099
         ]
       }
     },
@@ -10931,7 +12821,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4373699,
+          -122.43737,
           37.7712899
         ]
       }
@@ -10963,6 +12853,51 @@
         "coordinates": [
           -122.43076,
           37.7721399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Haight St & Fillmore St",
+        "tag": "4953",
+        "stopId": "14953"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4303499,
+          37.7721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Haight St & Gough St",
+        "tag": "4954",
+        "stopId": "14954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4225499,
+          37.7731799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Haight St & Laguna St",
+        "tag": "4955",
+        "stopId": "14955"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42584,
+          37.7727599
         ]
       }
     },
@@ -11021,8 +12956,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4338499,
-          37.77161
+          -122.43385,
+          37.7716099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Haight St & Stanyan St",
+        "tag": "4962",
+        "stopId": "14962"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45284,
+          37.7693299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Haight St & Stanyan St",
+        "tag": "4963",
+        "stopId": "14963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4530699,
+          37.76917
         ]
       }
     },
@@ -11188,6 +13153,51 @@
         "coordinates": [
           -122.47271,
           37.7214899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Howth St & Geneva Ave",
+        "tag": "5038",
+        "stopId": "15038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45028,
+          37.7219299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Howth St & Mt Vernon Ave",
+        "tag": "5039",
+        "stopId": "15039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4516399,
+          37.71978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Howth St & Niagra Ave",
+        "tag": "5040",
+        "stopId": "15040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4510999,
+          37.72063
         ]
       }
     },
@@ -11764,66 +13774,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Irving St & 4th Ave",
-        "tag": "5119",
-        "stopId": "15119"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.46082,
-          37.7642999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Irving St & 4th Ave",
-        "tag": "5120",
-        "stopId": "15120"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.46106,
-          37.7642299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Irving St & 7th Ave",
-        "tag": "5121",
-        "stopId": "15121"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.46403,
-          37.7641599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Irving St & 7th Ave",
-        "tag": "5122",
-        "stopId": "15122"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4642799,
-          37.76409
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Irving St & Arguello Blvd",
         "tag": "5124",
         "stopId": "15124"
@@ -11831,8 +13781,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4580199,
-          37.76437
+          -122.45802,
+          37.7643699
         ]
       }
     },
@@ -12206,7 +14156,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4666899,
+          -122.46669,
           37.7622299
         ]
       }
@@ -12971,8 +14921,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.44273,
-          37.7988799
+          -122.44248,
+          37.7989699
         ]
       }
     },
@@ -12986,8 +14936,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.44286,
-          37.7990799
+          -122.4428599,
+          37.79908
         ]
       }
     },
@@ -13001,8 +14951,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4361299,
-          37.79971
+          -122.43588,
+          37.7998199
         ]
       }
     },
@@ -13016,8 +14966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4359599,
-          37.79988
+          -122.4362699,
+          37.79985
         ]
       }
     },
@@ -13031,8 +14981,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.43101,
-          37.8005699
+          -122.43133,
+          37.8005099
         ]
       }
     },
@@ -13046,8 +14996,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.43121,
-          37.8003699
+          -122.4309399,
+          37.80044
         ]
       }
     },
@@ -13061,8 +15011,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4394199,
-          37.79929
+          -122.4391599,
+          37.7994
         ]
       }
     },
@@ -13076,8 +15026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.43919,
-          37.7995399
+          -122.43956,
+          37.7994799
         ]
       }
     },
@@ -13129,6 +15079,111 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Louisburg St & Geneva Ave",
+        "tag": "5291",
+        "stopId": "15291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44935,
+          37.7216299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Louisburg St & Niagra Ave",
+        "tag": "5292",
+        "stopId": "15292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45013,
+          37.7203899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lincoln Way & 3rd Ave",
+        "tag": "5295",
+        "stopId": "15295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4601399,
+          37.76612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lincoln Way & 5th Ave",
+        "tag": "5296",
+        "stopId": "15296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46246,
+          37.7661799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lincoln Way & 5th Ave",
+        "tag": "5297",
+        "stopId": "15297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46189,
+          37.7660499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lincoln Way & 9th Ave",
+        "tag": "5300",
+        "stopId": "15300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4667499,
+          37.766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lincoln Way & 9th Ave",
+        "tag": "5301",
+        "stopId": "15301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46623,
+          37.7658599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Lincoln Way & 15th Ave",
         "tag": "5304",
         "stopId": "15304"
@@ -13136,8 +15191,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.47322,
-          37.7657199
+          -122.4732199,
+          37.76572
         ]
       }
     },
@@ -13399,6 +15454,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Lincoln Way & Arguello Blvd",
+        "tag": "5325",
+        "stopId": "15325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45796,
+          37.76598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Lincoln Way & Funston Ave",
         "tag": "5326",
         "stopId": "15326"
@@ -13406,8 +15476,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.47103,
-          37.7658099
+          -122.4710299,
+          37.76581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lincoln Way & Funston Ave",
+        "tag": "5327",
+        "stopId": "15327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47086,
+          37.7656499
         ]
       }
     },
@@ -13423,6 +15508,21 @@
         "coordinates": [
           -122.43133,
           37.73064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lyon St & Greenwich St",
+        "tag": "5331",
+        "stopId": "15331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44721,
+          37.7974299
         ]
       }
     },
@@ -14098,6 +16198,36 @@
         "coordinates": [
           -122.4558299,
           37.73127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mt Vernon Ave & Howth St",
+        "tag": "5446",
+        "stopId": "15446"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4517699,
+          37.7196899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mt Vernon Ave & Louisburg St",
+        "tag": "5447",
+        "stopId": "15447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4509399,
+          37.7193699
         ]
       }
     },
@@ -14966,8 +17096,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.41431,
-          37.7764499
+          -122.4143099,
+          37.77645
         ]
       }
     },
@@ -15236,7 +17366,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4181799,
+          -122.41818,
           37.7485699
         ]
       }
@@ -15251,8 +17381,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.42194,
-          37.7424099
+          -122.4219399,
+          37.74241
         ]
       }
     },
@@ -15566,8 +17696,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4241999,
-          37.73706
+          -122.4242,
+          37.7370599
         ]
       }
     },
@@ -16016,8 +18146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.40131,
-          37.7893499
+          -122.4013099,
+          37.78935
         ]
       }
     },
@@ -16031,8 +18161,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4035199,
-          37.78753
+          -122.40352,
+          37.7875299
         ]
       }
     },
@@ -16106,8 +18236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4081399,
-          37.78389
+          -122.40814,
+          37.7838899
         ]
       }
     },
@@ -16136,8 +18266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4103999,
-          37.7821
+          -122.4104,
+          37.7820999
         ]
       }
     },
@@ -16153,6 +18283,21 @@
         "coordinates": [
           -122.41133,
           37.7812899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Market St Bet 7th & 8th St",
+        "tag": "5649",
+        "stopId": "15649"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41319,
+          37.7798099
         ]
       }
     },
@@ -16181,8 +18326,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4148299,
-          37.77861
+          -122.41483,
+          37.7786099
         ]
       }
     },
@@ -16198,6 +18343,21 @@
         "coordinates": [
           -122.41634,
           37.7774099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Market St & 15th St",
+        "tag": "5653",
+        "stopId": "15653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4314,
+          37.7656899
         ]
       }
     },
@@ -16256,8 +18416,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3990699,
-          37.79111
+          -122.39907,
+          37.7911099
         ]
       }
     },
@@ -16271,8 +18431,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.39702,
-          37.7925699
+          -122.3970199,
+          37.79257
         ]
       }
     },
@@ -16301,8 +18461,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.42878,
-          37.7677099
+          -122.4287799,
+          37.76771
         ]
       }
     },
@@ -16316,8 +18476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.42921,
-          37.7672499
+          -122.4292099,
+          37.76725
         ]
       }
     },
@@ -16481,8 +18641,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.40337,
-          37.7877299
+          -122.4033699,
+          37.78773
         ]
       }
     },
@@ -16827,7 +18987,7 @@
         "type": "Point",
         "coordinates": [
           -122.44722,
-          37.7825299
+          37.78253
         ]
       }
     },
@@ -17434,6 +19594,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Nevada St & Cortland Ave",
+        "tag": "5769",
+        "stopId": "15769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41131,
+          37.7400699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nevada St & Cortland Ave",
+        "tag": "5770",
+        "stopId": "15770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4114099,
+          37.73992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Ocean Ave & Aptos Ave",
         "tag": "5779",
         "stopId": "15779"
@@ -17531,7 +19721,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.46106,
+          -122.4610599,
           37.7249599
         ]
       }
@@ -17546,8 +19736,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4640699,
-          37.7260099
+          -122.46407,
+          37.72601
         ]
       }
     },
@@ -17621,8 +19811,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.454,
-          37.72346
+          -122.4539999,
+          37.7234599
         ]
       }
     },
@@ -17756,8 +19946,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4690999,
-          37.7299899
+          -122.4691,
+          37.72999
         ]
       }
     },
@@ -17771,8 +19961,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4694699,
-          37.7299499
+          -122.46947,
+          37.72995
         ]
       }
     },
@@ -17786,8 +19976,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4643399,
-          37.7260299
+          -122.46434,
+          37.72603
         ]
       }
     },
@@ -17801,8 +19991,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4664799,
-          37.7271999
+          -122.46648,
+          37.7272
         ]
       }
     },
@@ -18041,8 +20231,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4067299,
-          37.79698
+          -122.40673,
+          37.7969799
         ]
       }
     },
@@ -18116,8 +20306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.40522,
-          37.7971699
+          -122.4052199,
+          37.79717
         ]
       }
     },
@@ -18221,8 +20411,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.40358,
-          37.7973899
+          -122.4035799,
+          37.79739
         ]
       }
     },
@@ -18296,7 +20486,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4023699,
+          -122.40237,
           37.7975399
         ]
       }
@@ -19399,6 +21589,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Plymouth Ave & Broad St",
+        "tag": "5954",
+        "stopId": "15954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45601,
+          37.71334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Gilman Ave & Giants Dr",
         "tag": "5955",
         "stopId": "15955"
@@ -19408,6 +21613,21 @@
         "coordinates": [
           -122.38699,
           37.7175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plymouth Ave & Grafton Ave",
+        "tag": "5958",
+        "stopId": "15958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45601,
+          37.7198799
         ]
       }
     },
@@ -19459,6 +21679,66 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Plymouth Ave & Lakeview Ave",
+        "tag": "5963",
+        "stopId": "15963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45606,
+          37.7181699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plymouth Ave & Lakeview Ave",
+        "tag": "5964",
+        "stopId": "15964"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4562099,
+          37.7184499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plymouth Ave & Lobos St",
+        "tag": "5965",
+        "stopId": "15965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45613,
+          37.7150099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plymouth Ave & Lobos St",
+        "tag": "5966",
+        "stopId": "15966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4560499,
+          37.7148399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Plymouth Ave & Mangels Ave",
         "tag": "5967",
         "stopId": "15967"
@@ -19483,6 +21763,36 @@
         "coordinates": [
           -122.4577699,
           37.7322399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plymouth Ave & Montana St",
+        "tag": "5971",
+        "stopId": "15971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45605,
+          37.7165499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plymouth Ave & Montana St",
+        "tag": "5972",
+        "stopId": "15972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45613,
+          37.71666
         ]
       }
     },
@@ -19528,6 +21838,66 @@
         "coordinates": [
           -122.4562299,
           37.72364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plymouth Ave & Sagamore St",
+        "tag": "5976",
+        "stopId": "15976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45599,
+          37.7117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plymouth Ave & Sagamore St OB",
+        "tag": "5977",
+        "stopId": "15977"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4560799,
+          37.7115499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plymouth Ave & Thrift St",
+        "tag": "5978",
+        "stopId": "15978"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4561399,
+          37.7175699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plymouth Ave & Thrift St",
+        "tag": "5979",
+        "stopId": "15979"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4560699,
+          37.71773
         ]
       }
     },
@@ -19826,8 +22196,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4434799,
-          37.74995
+          -122.44348,
+          37.7499499
         ]
       }
     },
@@ -19856,8 +22226,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4448699,
+          -122.44487,
           37.7470299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Portola Dr & Claremont Ave",
+        "tag": "6011",
+        "stopId": "16011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4651199,
+          37.73969
         ]
       }
     },
@@ -19872,7 +22257,7 @@
         "type": "Point",
         "coordinates": [
           -122.4442,
-          37.74715
+          37.7471499
         ]
       }
     },
@@ -19894,6 +22279,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Portola Dr & Dorchester Way",
+        "tag": "6014",
+        "stopId": "16014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4634399,
+          37.7401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Portola Dr & Glenview Dr",
         "tag": "6015",
         "stopId": "16015"
@@ -19901,7 +22301,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.44792,
+          -122.4479199,
           37.7464599
         ]
       }
@@ -20209,6 +22609,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Parkridge Dr & Burnett Ave",
+        "tag": "6086",
+        "stopId": "16086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44578,
+          37.7504099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "90 Parkridge Dr",
+        "tag": "6087",
+        "stopId": "16087"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44608,
+          37.75235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Point Lobos Ave & 42nd Ave",
         "tag": "6109",
         "stopId": "16109"
@@ -20254,6 +22684,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Portola Dr & Laguna Honda Blvd",
+        "tag": "6113",
+        "stopId": "16113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45526,
+          37.7430999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Portola Dr & Laguna Honda Blvd",
+        "tag": "6114",
+        "stopId": "16114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45524,
+          37.74287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "McAteer High School",
         "tag": "6115",
         "stopId": "16115"
@@ -20263,6 +22723,36 @@
         "coordinates": [
           -122.44957,
           37.7459299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Portola Dr & San Pablo Ave",
+        "tag": "6116",
+        "stopId": "16116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46107,
+          37.7403999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Portola Dr & San Pablo Ave",
+        "tag": "6117",
+        "stopId": "16117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4608299,
+          37.74023
         ]
       }
     },
@@ -20299,6 +22789,36 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Portola Dr & San Lorenzo Ave",
+        "tag": "6120",
+        "stopId": "16120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4636799,
+          37.73993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Portola Dr & O'Shaughnessy",
+        "tag": "6121",
+        "stopId": "16121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4519,
+          37.7453199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Portola Dr & Waithman Way",
         "tag": "6122",
         "stopId": "16122"
@@ -20308,6 +22828,21 @@
         "coordinates": [
           -122.4565199,
           37.74163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Portola Dr & Woodside Ave",
+        "tag": "6123",
+        "stopId": "16123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4523799,
+          37.7453299
         ]
       }
     },
@@ -20719,6 +23254,66 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Ripley St & Alabama St",
+        "tag": "6208",
+        "stopId": "16208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4104599,
+          37.7443699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ripley St & Alabama St",
+        "tag": "6209",
+        "stopId": "16209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4105099,
+          37.74428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ripley St & Folsom St",
+        "tag": "6210",
+        "stopId": "16210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4131499,
+          37.74418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ripley St & Folsom St",
+        "tag": "6211",
+        "stopId": "16211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4130099,
+          37.74414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Rousseau St & Cayuga Ave",
         "tag": "6212",
         "stopId": "16212"
@@ -20728,6 +23323,21 @@
         "coordinates": [
           -122.4296499,
           37.7313999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & 22nd St",
+        "tag": "6218",
+        "stopId": "16218"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42775,
+          37.75461
         ]
       }
     },
@@ -20885,6 +23495,21 @@
       "type": "Feature",
       "properties": {
         "title": "San Jose Ave & Geneva Ave",
+        "tag": "6260",
+        "stopId": "16260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4464699,
+          37.72083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Jose Ave & Geneva Ave",
         "tag": "6263",
         "stopId": "16263"
       },
@@ -20938,6 +23563,96 @@
         "coordinates": [
           -122.44859,
           37.7182799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Jose Ave & Ocean Ave",
+        "tag": "6274",
+        "stopId": "16274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4446999,
+          37.72309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Jose Ave & Ocean Ave",
+        "tag": "6275",
+        "stopId": "16275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44479,
+          37.7228599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Jose Ave & Santa Rosa Ave",
+        "tag": "6284",
+        "stopId": "16284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4399199,
+          37.72899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Jose Ave & Santa Rosa Ave",
+        "tag": "6285",
+        "stopId": "16285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44002,
+          37.7289999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Jose Ave & Santa Ynez Ave",
+        "tag": "6287",
+        "stopId": "16287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4423599,
+          37.72588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Jose Ave & Santa Ynez Ave",
+        "tag": "6288",
+        "stopId": "16288"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4424399,
+          37.72568
         ]
       }
     },
@@ -21349,6 +24064,141 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "274 Sagamore St",
+        "tag": "6321",
+        "stopId": "16321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46156,
+          37.7114399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sagamore St & Capitol Ave",
+        "tag": "6322",
+        "stopId": "16322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45888,
+          37.7114899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sagamore St & Capitol Ave",
+        "tag": "6323",
+        "stopId": "16323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4591299,
+          37.71129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sagamore St & Orizaba Ave",
+        "tag": "6324",
+        "stopId": "16324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4619799,
+          37.71128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sansome St & California St",
+        "tag": "6327",
+        "stopId": "16327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40122,
+          37.79318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sansome St & Clay St",
+        "tag": "6328",
+        "stopId": "16328"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40149,
+          37.79447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sansome St & Pine St",
+        "tag": "6332",
+        "stopId": "16332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40086,
+          37.79202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sansome St & Sacramento St",
+        "tag": "6333",
+        "stopId": "16333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40131,
+          37.7940599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sansome St & Sutter St",
+        "tag": "6334",
+        "stopId": "16334"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40061,
+          37.79034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Sansome St & Washington St",
         "tag": "6337",
         "stopId": "16337"
@@ -21357,7 +24207,7 @@
         "type": "Point",
         "coordinates": [
           -122.40166,
-          37.7960599
+          37.79606
         ]
       }
     },
@@ -21372,7 +24222,7 @@
         "type": "Point",
         "coordinates": [
           -122.4188599,
-          37.7117
+          37.7116999
         ]
       }
     },
@@ -21446,8 +24296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4194299,
-          37.71003
+          -122.41943,
+          37.7100299
         ]
       }
     },
@@ -21461,8 +24311,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.40057,
-          37.7147899
+          -122.4005699,
+          37.71479
         ]
       }
     },
@@ -21521,8 +24371,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.40365,
-          37.72752
+          -122.4036499,
+          37.7275199
         ]
       }
     },
@@ -21536,8 +24386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4021999,
-          37.7240799
+          -122.4022,
+          37.72408
         ]
       }
     },
@@ -21566,8 +24416,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.40122,
-          37.7216
+          -122.4012199,
+          37.7215999
         ]
       }
     },
@@ -21642,7 +24492,7 @@
         "type": "Point",
         "coordinates": [
           -122.4021299,
-          37.71384
+          37.7138399
         ]
       }
     },
@@ -21671,8 +24521,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4004899,
-          37.7190499
+          -122.40049,
+          37.71905
         ]
       }
     },
@@ -21701,8 +24551,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4027099,
-          37.7253099
+          -122.40271,
+          37.72531
         ]
       }
     },
@@ -22369,6 +25219,66 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Stanyan St & Frederick St",
+        "tag": "6478",
+        "stopId": "16478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45291,
+          37.7664499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stanyan St & Waller St",
+        "tag": "6483",
+        "stopId": "16483"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45346,
+          37.76833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "St Charles Ave & Alemany Blvd",
+        "tag": "6484",
+        "stopId": "16484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4693299,
+          37.71028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "St Charles Ave & Belle Ave",
+        "tag": "6485",
+        "stopId": "16485"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4693199,
+          37.7087399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Steiner St & California St",
         "tag": "6486",
         "stopId": "16486"
@@ -22489,6 +25399,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Steuart St & Mission St",
+        "tag": "6497",
+        "stopId": "16497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39423,
+          37.7941399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Steuart & Mission St",
         "tag": "6498",
         "stopId": "16498"
@@ -22512,7 +25437,7 @@
         "type": "Point",
         "coordinates": [
           -122.39454,
-          37.7944099
+          37.79441
         ]
       }
     },
@@ -23396,7 +26321,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.41818,
+          -122.4181799,
           37.7124199
         ]
       }
@@ -23899,15 +26824,105 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Ulloa St & West Portal Ave",
-        "tag": "6744",
-        "stopId": "16744"
+        "title": "Union St & Baker St",
+        "tag": "6745",
+        "stopId": "16745"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.46601,
-          37.7409199
+          -122.44531,
+          37.7958999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Baker St",
+        "tag": "6746",
+        "stopId": "16746"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44551,
+          37.7957499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Buchanan St",
+        "tag": "6748",
+        "stopId": "16748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4322999,
+          37.79743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Columbus Ave",
+        "tag": "6750",
+        "stopId": "16750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41008,
+          37.8004099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Columbus Ave",
+        "tag": "6751",
+        "stopId": "16751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41031,
+          37.8002799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Divisadero St",
+        "tag": "6752",
+        "stopId": "16752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4419899,
+          37.79632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Divisadero St",
+        "tag": "6753",
+        "stopId": "16753"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4421799,
+          37.79617
         ]
       }
     },
@@ -23923,6 +26938,351 @@
         "coordinates": [
           -122.43566,
           37.7971199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Fillmore St",
+        "tag": "6755",
+        "stopId": "16755"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43533,
+          37.7970399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Gough St",
+        "tag": "6756",
+        "stopId": "16756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4271799,
+          37.79821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Gough St",
+        "tag": "6757",
+        "stopId": "16757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42737,
+          37.7980599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Hyde St",
+        "tag": "6760",
+        "stopId": "16760"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41896,
+          37.7992699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Hyde St",
+        "tag": "6761",
+        "stopId": "16761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41915,
+          37.7991199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Jones St",
+        "tag": "6762",
+        "stopId": "16762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41566,
+          37.7996899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Jones St",
+        "tag": "6763",
+        "stopId": "16763"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41586,
+          37.7995399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Larkin St",
+        "tag": "6766",
+        "stopId": "16766"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4206099,
+          37.7990699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Larkin St",
+        "tag": "6767",
+        "stopId": "16767"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4205299,
+          37.79895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Leavenworth St",
+        "tag": "6768",
+        "stopId": "16768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4175399,
+          37.79945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Leavenworth St",
+        "tag": "6769",
+        "stopId": "16769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41751,
+          37.7993199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Laguna St",
+        "tag": "6770",
+        "stopId": "16770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43046,
+          37.7977899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Laguna St",
+        "tag": "6771",
+        "stopId": "16771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4306499,
+          37.79764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Mason St",
+        "tag": "6773",
+        "stopId": "16773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4123699,
+          37.80011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Mason St",
+        "tag": "6774",
+        "stopId": "16774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41257,
+          37.7999599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Pierce St",
+        "tag": "6777",
+        "stopId": "16777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43869,
+          37.7967399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Pierce St",
+        "tag": "6778",
+        "stopId": "16778"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43888,
+          37.7965899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Polk St",
+        "tag": "6779",
+        "stopId": "16779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4224999,
+          37.7987999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Polk St",
+        "tag": "6780",
+        "stopId": "16780"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42243,
+          37.7986799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Taylor St",
+        "tag": "6783",
+        "stopId": "16783"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4140199,
+          37.7999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Taylor St",
+        "tag": "6785",
+        "stopId": "16785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41422,
+          37.7997399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Van Ness Ave",
+        "tag": "6786",
+        "stopId": "16786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42424,
+          37.7985899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Van Ness Ave",
+        "tag": "6787",
+        "stopId": "16787"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42415,
+          37.7984699
         ]
       }
     },
@@ -24319,6 +27679,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Vicente St & West Portal Dr",
+        "tag": "6837",
+        "stopId": "16837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46677,
+          37.7396799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Van Dyke Ave & Jennings St",
         "tag": "6839",
         "stopId": "16839"
@@ -24416,8 +27791,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4123699,
-          37.7127699
+          -122.41237,
+          37.71277
         ]
       }
     },
@@ -24476,8 +27851,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4077899,
-          37.7114899
+          -122.40779,
+          37.71149
         ]
       }
     },
@@ -24506,8 +27881,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.41424,
-          37.71328
+          -122.4142399,
+          37.7132799
         ]
       }
     },
@@ -24536,8 +27911,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4104999,
-          37.7122499
+          -122.4105,
+          37.71225
         ]
       }
     },
@@ -24566,8 +27941,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4690399,
-          37.73786
+          -122.46904,
+          37.7378599
         ]
       }
     },
@@ -24656,7 +28031,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.45243,
+          -122.4524299,
           37.7457699
         ]
       }
@@ -25106,8 +28481,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.405,
-          37.77459
+          -122.4049999,
+          37.7745899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Crestline Dr & Burnett Ave",
+        "tag": "7020",
+        "stopId": "17020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4450799,
+          37.7492999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "831 Ellsworth St",
+        "tag": "7023",
+        "stopId": "17023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4152599,
+          37.73327
         ]
       }
     },
@@ -25121,8 +28526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4154899,
-          37.7133
+          -122.41549,
+          37.7132999
         ]
       }
     },
@@ -25136,8 +28541,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4524499,
-          37.7230299
+          -122.45245,
+          37.72303
         ]
       }
     },
@@ -25153,6 +28558,21 @@
         "coordinates": [
           -122.41214,
           37.8076399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union St & Buchanan St",
+        "tag": "7056",
+        "stopId": "17056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43211,
+          37.7975799
         ]
       }
     },
@@ -25182,7 +28602,7 @@
         "type": "Point",
         "coordinates": [
           -122.42893,
-          37.7675099
+          37.76751
         ]
       }
     },
@@ -25301,8 +28721,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4105,
-          37.7793499
+          -122.4104999,
+          37.77935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Portola Dr & Claremont Blvd",
+        "tag": "7151",
+        "stopId": "17151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46504,
+          37.7398499
         ]
       }
     },
@@ -25489,6 +28924,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Plymouth Ave & Broad St",
+        "tag": "7230",
+        "stopId": "17230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4561699,
+          37.71328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Townsend & 4th",
         "tag": "7235",
         "stopId": "17235"
@@ -25498,6 +28948,36 @@
         "coordinates": [
           -122.39463,
           37.7772799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grafton Ave & Plymouth Ave",
+        "tag": "7249",
+        "stopId": "17249"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4559199,
+          37.7201399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Noe St",
+        "tag": "7263",
+        "stopId": "17263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43199,
+          37.7513799
         ]
       }
     },
@@ -25706,7 +29186,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.42322,
+          -122.4232199,
           37.7093099
         ]
       }
@@ -25744,6 +29224,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Folsom St & 24th St",
+        "tag": "7312",
+        "stopId": "17312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4141299,
+          37.7524399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Church St & 14th St",
         "tag": "7316",
         "stopId": "17316"
@@ -25752,7 +29247,7 @@
         "type": "Point",
         "coordinates": [
           -122.429,
-          37.76779
+          37.7677899
         ]
       }
     },
@@ -26029,6 +29524,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "3rd St & 22nd St",
+        "tag": "7473",
+        "stopId": "17473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38824,
+          37.75807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Van Ness & North Point",
         "tag": "7476",
         "stopId": "17476"
@@ -26059,6 +29569,156 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Pennsylvania Ave & 23 St",
+        "tag": "7523",
+        "stopId": "17523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39301,
+          37.75516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pennsylvania Ave & 25 St",
+        "tag": "7524",
+        "stopId": "17524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39276,
+          37.7526199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "25th Ave & Dakota",
+        "tag": "7525",
+        "stopId": "17525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3946899,
+          37.75235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "25 St & Pennsylvania",
+        "tag": "7526",
+        "stopId": "17526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39277,
+          37.7524599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pennsylvania Ave & 23rd St",
+        "tag": "7527",
+        "stopId": "17527"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3927899,
+          37.7550199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Van Ness & 24st.",
+        "tag": "7532",
+        "stopId": "17532"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4161699,
+          37.7522799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cabrillo & 7th Ave.",
+        "tag": "7538",
+        "stopId": "17538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46483,
+          37.7753799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cabrillo & 7th Ave.",
+        "tag": "7539",
+        "stopId": "17539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4650099,
+          37.77526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sansome St & Sutter St",
+        "tag": "7550",
+        "stopId": "17550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4005,
+          37.7903499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folsom St & Cesar Chavez St",
+        "tag": "7552",
+        "stopId": "17552"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41358,
+          37.7483799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Mission St & Flournoy St",
         "tag": "7554",
         "stopId": "17554"
@@ -26068,6 +29728,21 @@
         "coordinates": [
           -122.4591999,
           37.70661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Avenue H & 5th TI St",
+        "tag": "7556",
+        "stopId": "17556"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3679699,
+          37.8223799
         ]
       }
     },
@@ -26128,6 +29803,66 @@
         "coordinates": [
           -122.4433299,
           37.8019099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bernal Heights Blvd & Powhattan Ave",
+        "tag": "7577",
+        "stopId": "17577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4112199,
+          37.7414499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Daly City BART West Station Rd.",
+        "tag": "7606",
+        "stopId": "17606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46865,
+          37.7070499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "5th St & Brannan St",
+        "tag": "7622",
+        "stopId": "17622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3987199,
+          37.7764499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Alemany Blvd & Folsom St",
+        "tag": "7626",
+        "stopId": "17626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4139199,
+          37.73327
         ]
       }
     },
@@ -26218,6 +29953,21 @@
         "coordinates": [
           -122.41161,
           37.77613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burnett Ave & Dawnview Way",
+        "tag": "7685",
+        "stopId": "17685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4448999,
+          37.7480599
         ]
       }
     },
@@ -26381,8 +30131,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4085799,
-          37.79673
+          -122.40858,
+          37.7967299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Folsom St & Cesar Chavez St",
+        "tag": "7746",
+        "stopId": "17746"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41376,
+          37.7480799
         ]
       }
     },
@@ -26413,6 +30178,21 @@
         "coordinates": [
           -122.39289,
           37.73516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Haight St & Gough St",
+        "tag": "7757",
+        "stopId": "17757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4222999,
+          37.77308
         ]
       }
     },
@@ -26516,8 +30296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4193999,
-          37.74625
+          -122.4194,
+          37.7462499
         ]
       }
     },
@@ -26533,6 +30313,21 @@
         "coordinates": [
           -122.46863,
           37.7065099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "California St & 6th Ave",
+        "tag": "7844",
+        "stopId": "17844"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46447,
+          37.7849499
         ]
       }
     },
@@ -26629,6 +30424,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Sansome St & Jackson St",
+        "tag": "7863",
+        "stopId": "17863"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40191,
+          37.79653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Bayshore Blvd & Flower St",
         "tag": "7886",
         "stopId": "17886"
@@ -26711,8 +30521,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.40463,
-          37.72991
+          -122.4046299,
+          37.7299099
         ]
       }
     },
@@ -26974,6 +30784,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Townsend St & 7th St",
+        "tag": "7960",
+        "stopId": "17960"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40238,
+          37.7711399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "3rd Street & Evans Ave",
         "tag": "7961",
         "stopId": "17961"
@@ -26983,6 +30808,111 @@
         "coordinates": [
           -122.3877999,
           37.74279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & 21th St",
+        "tag": "7965",
+        "stopId": "17965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4278,
+          37.75634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & Liberty St",
+        "tag": "7966",
+        "stopId": "17966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4278799,
+          37.7571499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & 20th St",
+        "tag": "7967",
+        "stopId": "17967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4279599,
+          37.7579399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & 18th St",
+        "tag": "7968",
+        "stopId": "17968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42829,
+          37.76146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & 20th St",
+        "tag": "7970",
+        "stopId": "17970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4281799,
+          37.7582099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & Liberty St",
+        "tag": "7971",
+        "stopId": "17971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42812,
+          37.75742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Church St & 21st St",
+        "tag": "7972",
+        "stopId": "17972"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4279999,
+          37.7563199
         ]
       }
     },
@@ -27139,30 +31069,30 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Marketr St & Clayton St",
-        "tag": "8015",
-        "stopId": "18015"
+        "title": "Lyon St & Union St",
+        "tag": "8012",
+        "stopId": "18012"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4439199,
-          37.7582299
+          -122.44696,
+          37.79572
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Funston Ave & Irving St",
-        "tag": "8016",
-        "stopId": "18016"
+        "title": "Ocean Ave & Geneva Ave",
+        "tag": "8014",
+        "stopId": "18014"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.47053,
-          37.7640799
+          -122.4521299,
+          37.7231199
         ]
       }
     },
@@ -27244,6 +31174,231 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "11thst & Market St",
+        "tag": "8022",
+        "stopId": "18022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41786,
+          37.7750299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mason St & Marina St",
+        "tag": "8023",
+        "stopId": "18023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4485,
+          37.8050199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mason St & Halleck St",
+        "tag": "8024",
+        "stopId": "18024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45417,
+          37.8042899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sports Basement Parking Lot",
+        "tag": "8025",
+        "stopId": "18025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45827,
+          37.8030399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mason St & Halleck St",
+        "tag": "8027",
+        "stopId": "18027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4540699,
+          37.80416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mason St & Ebch St",
+        "tag": "8028",
+        "stopId": "18028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44895,
+          37.8048199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Irving St & 5th Ave",
+        "tag": "8031",
+        "stopId": "18031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46214,
+          37.7641799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Irving St & 6th Ave",
+        "tag": "8032",
+        "stopId": "18032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4629899,
+          37.76424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sports Basement Parking Lot",
+        "tag": "8033",
+        "stopId": "18033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45876,
+          37.8030999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clipper St & Douglass St.",
+        "tag": "8034",
+        "stopId": "18034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4384299,
+          37.7487299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clipper St & Douglass St.",
+        "tag": "8035",
+        "stopId": "18035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4383699,
+          37.74862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ulloa St & Wawona Ave",
+        "tag": "8036",
+        "stopId": "18036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46662,
+          37.7412399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ulloa St & Wawona St",
+        "tag": "8037",
+        "stopId": "18037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46664,
+          37.7413599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Jose Ave & Geneva Ave",
+        "tag": "8038",
+        "stopId": "18038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44652,
+          37.7210099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ulloa & Claremontl",
+        "tag": "8039",
+        "stopId": "18039"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46557,
+          37.7408299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "43rd Ave & Clement St",
         "tag": "13567",
         "stopId": "113567"
@@ -27289,15 +31444,60 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Geneva Ave & Castillo St",
-        "tag": "14809",
-        "stopId": "114809"
+        "title": "Divisadero St & Beach St",
+        "tag": "14407",
+        "stopId": "114407"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.41841,
-          37.7077
+          -122.4437,
+          37.80377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Divisadero St & Francisco St",
+        "tag": "14418",
+        "stopId": "114418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44314,
+          37.80097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Divisadero St & North Point St",
+        "tag": "14430",
+        "stopId": "114430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44351,
+          37.80284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jefferson St & Divisadero St",
+        "tag": "15173",
+        "stopId": "115173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44389,
+          37.8045599
         ]
       }
     },
@@ -27334,105 +31534,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Santos St & Brookdale Ave",
-        "tag": "16339",
-        "stopId": "116339"
+        "title": "Divisadero St & Bay St.",
+        "tag": "17568",
+        "stopId": "117568"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4188599,
-          37.7116999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Santos St & Geneva Ave",
-        "tag": "16344",
-        "stopId": "116344"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4200799,
-          37.7085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Santos St & Velasco Ave",
-        "tag": "16346",
-        "stopId": "116346"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.41943,
-          37.7100299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "1725 Sunnydale Ave",
-        "tag": "16565",
-        "stopId": "116565"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.41954,
-          37.71279
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "1901 Sunnydale Ave",
-        "tag": "16568",
-        "stopId": "116568"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.42115,
-          37.71322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "McLaren School",
-        "tag": "16575",
-        "stopId": "116575"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.42388,
-          37.7140199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Battery St & Jackson St",
-        "tag": "33030",
-        "stopId": "133030"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.40077,
-          37.7968599
+          -122.4433299,
+          37.8019099
         ]
       }
     },
@@ -27493,6 +31603,36 @@
         "coordinates": [
           -122.38871,
           37.7605399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "20th St & 3rd St",
+        "tag": "33411",
+        "stopId": "133411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38841,
+          37.7604699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "24th St & Mission St",
+        "tag": "33476",
+        "stopId": "133476"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41833,
+          37.7523199
         ]
       }
     },
@@ -27589,6 +31729,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Geary Blvd & 32nd Ave",
+        "tag": "34275",
+        "stopId": "134275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.49194,
+          37.7796099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Geary Blvd & 33rd Ave",
         "tag": "34277",
         "stopId": "134277"
@@ -27649,6 +31804,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Ellsworth St & Crescent Ave",
+        "tag": "34568",
+        "stopId": "134568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.41491,
+          37.7347099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Fillmore St & Bay St",
         "tag": "34603",
         "stopId": "134603"
@@ -27688,21 +31858,6 @@
         "coordinates": [
           -122.40721,
           37.8071799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Geneva Ave & Rio Verde St",
-        "tag": "34895",
-        "stopId": "134895"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.41553,
-          37.7069399
         ]
       }
     },
@@ -27784,6 +31939,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Lyon St & Greenwich St",
+        "tag": "35331",
+        "stopId": "135331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44721,
+          37.7974299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Main St & Mission St",
         "tag": "35335",
         "stopId": "135335"
@@ -27807,7 +31977,7 @@
         "type": "Point",
         "coordinates": [
           -122.50411,
-          37.78183
+          37.7818299
         ]
       }
     },
@@ -27889,6 +32059,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Parkridge Dr & Burnett Ave",
+        "tag": "36086",
+        "stopId": "136086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44578,
+          37.7504099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "San Jose Ave & Geneva Ave",
         "tag": "36263",
         "stopId": "136263"
@@ -27904,6 +32089,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Steuart St & Mission St",
+        "tag": "36497",
+        "stopId": "136497"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39423,
+          37.7941399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Steuart & Mission St",
         "tag": "36498",
         "stopId": "136498"
@@ -27913,21 +32113,6 @@
         "coordinates": [
           -122.39328,
           37.7932499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Steuart St & Market St",
-        "tag": "36501",
-        "stopId": "136501"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.39454,
-          37.7944099
         ]
       }
     },
@@ -28054,6 +32239,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Sansome St & Sutter St",
+        "tag": "37550",
+        "stopId": "137550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4005,
+          37.7903499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Avenue H & 13th TI St.",
         "tag": "37558",
         "stopId": "137558"
@@ -28063,6 +32263,21 @@
         "coordinates": [
           -122.37176,
           37.8282799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Daly City BART West Station Rd.",
+        "tag": "37606",
+        "stopId": "137606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46865,
+          37.7070499
         ]
       }
     },
@@ -28093,6 +32308,21 @@
         "coordinates": [
           -122.46863,
           37.7065099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "California St & 6th Ave",
+        "tag": "37844",
+        "stopId": "137844"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46447,
+          37.7849499
         ]
       }
     },
@@ -28204,15 +32434,45 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Funston Ave & Irving St",
-        "tag": "38016",
-        "stopId": "138016"
+        "title": "11thst & Market St",
+        "tag": "38022",
+        "stopId": "138022"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.47053,
-          37.7640799
+          -122.41786,
+          37.7750299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ulloa St & Wawona Ave",
+        "tag": "38036",
+        "stopId": "138036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46662,
+          37.7412399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "San Jose Ave & Geneva Ave",
+        "tag": "38038",
+        "stopId": "138038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44652,
+          37.7210099
         ]
       }
     }

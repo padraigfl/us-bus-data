@@ -7,24 +7,35 @@
       "shortTitle": "104 CP Metro",
       "oppositeColor": "ffffff",
       "max": [
-        38.9899498,
-        -76.9266478
+        38.9899492,
+        -76.928889
       ],
       "min": [
-        38.9755375,
+        38.978616,
         -76.9407719
       ],
       "stops": {
+        "Regents Drive Parking Garage": [
+          "cpmcalv",
+          "rhodknox_ib",
+          "collrhod_ib",
+          "collhopk_ib",
+          "collprin_ib",
+          "mont_in",
+          "memo_in",
+          "mitc_in",
+          "campmath",
+          "painglen"
+        ],
         "College Park Metro": [
           "regdrgar_d",
-          "campmath",
-          "paingree",
-          "painrhod"
-        ],
-        "Regents Drive Parking Garage": [
-          "cpmetro_d",
-          "painrhod_in",
-          "painglen"
+          "mitc_out",
+          "memo_out",
+          "mont_out",
+          "collprin_ob",
+          "collhopk_ob",
+          "collrhod_ob",
+          "rhodknox_ob"
         ]
       },
       "scheduledStops": {
@@ -32,7 +43,7 @@
           "regdrgar_d"
         ],
         "outbound": [
-          "cpmetro_d",
+          "cpmcalv",
           "regdrgar_a"
         ]
       },
@@ -41,39 +52,29 @@
           "f": {},
           "mtw": {},
           "sat": {},
-          "special": {},
-          "special_fri": {},
           "sun": {},
           "th": {}
         },
         "regdrgar": {
           "f": {
-            "first": "05:50:00",
-            "last": "01:40:00"
+            "first": "05:45:00",
+            "last": "23:52:00"
           },
           "mtw": {
-            "first": "05:50:00",
-            "last": "00:20:00"
+            "first": "05:45:00",
+            "last": "23:52:00"
           },
           "sat": {
-            "first": "07:00:00",
-            "last": "01:40:00"
-          },
-          "special": {
-            "first": "06:02:00",
-            "last": "00:20:00"
-          },
-          "special_fri": {
-            "first": "06:02:00",
-            "last": "01:40:00"
+            "first": "07:02:00",
+            "last": "01:38:00"
           },
           "sun": {
-            "first": "07:40:00",
-            "last": "23:40:00"
+            "first": "07:02:00",
+            "last": "01:38:00"
           },
           "th": {
-            "first": "05:50:00",
-            "last": "00:20:00"
+            "first": "05:45:00",
+            "last": "23:52:00"
           }
         }
       }
@@ -92,21 +93,6 @@
         -76.94677
       ],
       "stops": {
-        "Guilford Drive and Rowalt Drive": [
-          "stamsu_d",
-          "artsoci",
-          "wico",
-          "lotu4",
-          "cour500",
-          "greemead_in",
-          "greemetz",
-          "lot4_in",
-          "shutbase_in",
-          "regepain",
-          "regecomc_in",
-          "regefarm_in",
-          "regegara_d"
-        ],
         "Courtyards 500": [
           "guilrowa",
           "hartshop",
@@ -121,6 +107,21 @@
           "lot4_out",
           "metzgree",
           "gree_out"
+        ],
+        "Guilford Drive and Rowalt Drive": [
+          "stamsu_d",
+          "artsoci",
+          "wico",
+          "lotu4",
+          "cour500",
+          "greemead_in",
+          "greemetz",
+          "lot4_in",
+          "shutbase_in",
+          "regepain",
+          "regecomc_in",
+          "regefarm_in",
+          "regegara_d"
         ]
       },
       "scheduledStops": {
@@ -141,16 +142,16 @@
         },
         "guilrowa": {
           "f": {
-            "first": "07:13:00",
-            "last": "17:09:00"
+            "first": "07:00:00",
+            "last": "16:55:00"
           },
           "mtw": {
-            "first": "07:13:00",
-            "last": "17:09:00"
+            "first": "07:00:00",
+            "last": "16:55:00"
           },
           "th": {
-            "first": "07:13:00",
-            "last": "17:09:00"
+            "first": "07:00:00",
+            "last": "16:55:00"
           }
         }
       }
@@ -169,6 +170,23 @@
         -76.9804472
       ],
       "stops": {
+        "Regents Drive Garage": [
+          "chateau_r",
+          "nhamadel_in",
+          "metznham_in",
+          "metz1811",
+          "coolspri_in",
+          "metz24th",
+          "metzarch",
+          "metzobse",
+          "metzstan_in",
+          "metz36th_in",
+          "metzgree_in",
+          "lot4_in",
+          "shutbase_in",
+          "painrege_bus",
+          "painstad"
+        ],
         "Chateau Apartments": [
           "regegara_d",
           "stamsu_d",
@@ -187,23 +205,6 @@
           "nhamfox",
           "nhamadel_out",
           "nhamoak_out"
-        ],
-        "Regents Drive Garage": [
-          "chateau_r",
-          "nhamadel_in",
-          "metznham_in",
-          "metz1811",
-          "coolspri_in",
-          "metz24th",
-          "metzarch",
-          "metzobse",
-          "metzstan_in",
-          "metz36th_in",
-          "metzgree_in",
-          "lot4_in",
-          "shutbase_in",
-          "painrege_bus",
-          "painstad"
         ]
       },
       "scheduledStops": {
@@ -224,15 +225,15 @@
         "regegara": {
           "f": {
             "first": "07:23:00",
-            "last": "21:00:00"
+            "last": "21:25:00"
           },
           "mtw": {
             "first": "07:23:00",
-            "last": "22:38:00"
+            "last": "21:25:00"
           },
           "th": {
             "first": "07:23:00",
-            "last": "22:38:00"
+            "last": "21:25:00"
           }
         }
       }
@@ -298,61 +299,6 @@
         }
       }
     },
-    "110": {
-      "title": "Seven Springs Express",
-      "color": "cd8500",
-      "tag": "110",
-      "shortTitle": "110 Sevn Springs",
-      "oppositeColor": "000000",
-      "max": [
-        39.0178782,
-        -76.9376829
-      ],
-      "min": [
-        38.98952,
-        -76.94075
-      ],
-      "stops": {
-        "Regents Drive Garage": [
-          "ssvill",
-          "cher9308"
-        ],
-        "Seven Springs Village Apartments": [
-          "regegara_d",
-          "cher9348"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "regegara_a"
-        ],
-        "outbound": [
-          "regegara_d",
-          "cher9348"
-        ]
-      },
-      "scheduledTimeRange": {
-        "regegara": {
-          "f": {},
-          "mtw": {},
-          "th": {}
-        },
-        "ssvill": {
-          "f": {
-            "first": "07:00:00",
-            "last": "20:25:00"
-          },
-          "mtw": {
-            "first": "07:00:00",
-            "last": "22:15:00"
-          },
-          "th": {
-            "first": "07:00:00",
-            "last": "22:15:00"
-          }
-        }
-      }
-    },
     "111": {
       "title": "111 Silver Spring",
       "color": "5d92b1",
@@ -360,12 +306,12 @@
       "shortTitle": "111 Slver Spring",
       "oppositeColor": "000000",
       "max": [
-        39.0016406,
+        39.001641,
         -76.94075
       ],
       "min": [
         38.9834699,
-        -77.029742
+        -77.0297307
       ],
       "stops": {
         "Silver Spring Metro": [
@@ -415,6 +361,7 @@
           "cspa_main",
           "stadgara",
           "stadvtho",
+          "stadatl",
           "regegara_d"
         ]
       },
@@ -433,29 +380,29 @@
         "ssmetro": {
           "f": {
             "first": "06:15:00",
-            "last": "20:20:00"
+            "last": "21:30:00"
           },
           "mtw": {
             "first": "06:15:00",
-            "last": "22:05:00"
+            "last": "21:30:00"
           },
           "th": {
             "first": "06:15:00",
-            "last": "22:05:00"
+            "last": "21:30:00"
           }
         },
         "stamsuhh": {
           "f": {
-            "first": "07:02:00",
-            "last": "21:08:00"
+            "first": "06:58:00",
+            "last": "22:11:00"
           },
           "mtw": {
-            "first": "07:02:00",
-            "last": "22:42:00"
+            "first": "06:58:00",
+            "last": "22:11:00"
           },
           "th": {
-            "first": "07:02:00",
-            "last": "22:42:00"
+            "first": "06:58:00",
+            "last": "22:11:00"
           }
         }
       }
@@ -498,7 +445,8 @@
           "adeltula",
           "cspa_main",
           "stadgara",
-          "stadvtho"
+          "stadvtho",
+          "stadatl"
         ],
         "42nd Ave and Queensbury Road": [
           "regegara_d",
@@ -528,29 +476,29 @@
         "42ndquee": {
           "f": {
             "first": "06:55:00",
-            "last": "20:30:00"
+            "last": "21:10:00"
           },
           "mtw": {
             "first": "06:55:00",
-            "last": "22:10:00"
+            "last": "21:10:00"
           },
           "th": {
             "first": "06:55:00",
-            "last": "22:10:00"
+            "last": "21:10:00"
           }
         },
         "regegara": {
           "f": {
             "first": "07:30:00",
-            "last": "21:01:00"
+            "last": "21:45:00"
           },
           "mtw": {
             "first": "07:30:00",
-            "last": "22:38:00"
+            "last": "21:45:00"
           },
           "th": {
             "first": "07:30:00",
-            "last": "22:38:00"
+            "last": "21:45:00"
           }
         }
       }
@@ -597,16 +545,16 @@
       "scheduledTimeRange": {
         "loop": {
           "f": {
-            "first": "07:17:00",
-            "last": "17:06:00"
+            "first": "07:20:00",
+            "last": "17:15:00"
           },
           "mtw": {
-            "first": "07:17:00",
-            "last": "17:06:00"
+            "first": "07:20:00",
+            "last": "17:15:00"
           },
           "th": {
-            "first": "07:17:00",
-            "last": "17:06:00"
+            "first": "07:20:00",
+            "last": "17:15:00"
           }
         }
       }
@@ -657,24 +605,24 @@
       "scheduledTimeRange": {
         "loop": {
           "f": {
-            "first": "17:30:00",
-            "last": "02:44:00"
+            "first": "00:47:00",
+            "last": "00:20:00"
           },
           "mtw": {
             "first": "17:30:00",
-            "last": "02:36:00"
+            "last": "00:20:00"
           },
           "sat": {
-            "first": "17:30:00",
-            "last": "02:44:00"
+            "first": "00:47:00",
+            "last": "02:36:00"
           },
           "sun": {
             "first": "17:30:00",
-            "last": "02:36:00"
+            "last": "00:10:00"
           },
           "th": {
             "first": "17:30:00",
-            "last": "02:44:00"
+            "last": "00:20:00"
           }
         }
       }
@@ -739,24 +687,24 @@
       "scheduledTimeRange": {
         "loop": {
           "f": {
-            "first": "17:25:00",
-            "last": "02:32:00"
+            "first": "00:53:00",
+            "last": "00:23:00"
           },
           "mtw": {
             "first": "17:25:00",
-            "last": "02:32:00"
+            "last": "00:23:00"
           },
           "sat": {
-            "first": "10:05:00",
-            "last": "02:20:00"
+            "first": "00:53:00",
+            "last": "02:30:00"
           },
           "sun": {
             "first": "10:05:00",
-            "last": "00:41:00"
+            "last": "00:04:00"
           },
           "th": {
             "first": "17:25:00",
-            "last": "02:32:00"
+            "last": "00:23:00"
           }
         }
       }
@@ -805,24 +753,24 @@
       "scheduledTimeRange": {
         "loop": {
           "f": {
-            "first": "17:30:00",
-            "last": "02:41:00"
+            "first": "00:37:00",
+            "last": "00:10:00"
           },
           "mtw": {
-            "first": "17:30:00",
-            "last": "02:42:00"
+            "first": "17:25:00",
+            "last": "00:10:00"
           },
           "sat": {
-            "first": "09:59:00",
-            "last": "02:41:00"
+            "first": "00:37:00",
+            "last": "02:39:00"
           },
           "sun": {
-            "first": "09:59:00",
-            "last": "02:42:00"
+            "first": "10:00:00",
+            "last": "00:03:00"
           },
           "th": {
-            "first": "17:30:00",
-            "last": "02:42:00"
+            "first": "17:25:00",
+            "last": "00:10:00"
           }
         }
       }
@@ -892,24 +840,24 @@
       "scheduledTimeRange": {
         "loop": {
           "f": {
-            "first": "17:35:00",
-            "last": "02:25:00"
+            "first": "00:50:00",
+            "last": "00:10:00"
           },
           "mtw": {
-            "first": "17:35:00",
-            "last": "02:25:00"
+            "first": "17:30:00",
+            "last": "00:10:00"
           },
           "sat": {
-            "first": "10:08:00",
-            "last": "03:01:00"
+            "first": "00:50:00",
+            "last": "02:25:00"
           },
           "sun": {
             "first": "10:08:00",
-            "last": "03:01:00"
+            "last": "00:10:00"
           },
           "th": {
-            "first": "17:35:00",
-            "last": "02:25:00"
+            "first": "17:30:00",
+            "last": "00:10:00"
           }
         }
       }
@@ -945,7 +893,6 @@
           "leoncomm_out",
           "11frat",
           "yalecoll",
-          "yaleknox_ib",
           "collpksh_ib",
           "scam34",
           "sccomm5_6",
@@ -978,128 +925,24 @@
       "scheduledTimeRange": {
         "loop": {
           "f": {
-            "first": "17:25:00",
-            "last": "02:30:00"
+            "first": "00:52:00",
+            "last": "00:20:00"
           },
           "mtw": {
-            "first": "17:25:00",
-            "last": "02:32:00"
+            "first": "17:30:00",
+            "last": "00:20:00"
           },
           "sat": {
-            "first": "10:05:00",
-            "last": "02:30:00"
-          },
-          "special": {
-            "first": "09:53:00",
-            "last": "17:07:00"
+            "first": "00:52:00",
+            "last": "02:55:00"
           },
           "sun": {
-            "first": "09:53:00",
-            "last": "02:32:00"
+            "first": "09:40:00",
+            "last": "00:19:00"
           },
           "th": {
-            "first": "17:25:00",
-            "last": "02:32:00"
-          }
-        }
-      }
-    },
-    "123": {
-      "title": "123 Discovery District",
-      "color": "ffe600",
-      "tag": "123",
-      "shortTitle": "123 Discovery",
-      "oppositeColor": "000000",
-      "max": [
-        38.989794,
-        -76.923247
-      ],
-      "min": [
-        38.9691629,
-        -76.94075
-      ],
-      "stops": {
-        "Loop": [
-          "regegara_d",
-          "diviofit"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "regegara_d",
-          "diviofit",
-          "regegara_a"
-        ],
-        "outbound": [
-          "regegara_d",
-          "diviofit",
-          "regegara_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "loop": {
-          "f": {
-            "first": "07:30:00",
-            "last": "17:16:00"
-          },
-          "mtw": {
-            "first": "07:30:00",
-            "last": "17:16:00"
-          },
-          "th": {
-            "first": "07:30:00",
-            "last": "17:16:00"
-          }
-        }
-      }
-    },
-    "124": {
-      "title": "Shady Grove",
-      "color": "7f00ff",
-      "tag": "124",
-      "shortTitle": "USG",
-      "oppositeColor": "ffffff",
-      "max": [
-        39.0934528,
-        -76.9432066
-      ],
-      "min": [
-        38.98756,
-        -77.2018299
-      ],
-      "stops": {
-        "Shady Grove": [
-          "stamsu_d",
-          "univshad"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "stamsu_a"
-        ],
-        "outbound": [
-          "stamsu_d",
-          "univshad"
-        ]
-      },
-      "scheduledTimeRange": {
-        "stamsu": {
-          "mtw": {},
-          "special": {},
-          "th": {}
-        },
-        "univshad": {
-          "mtw": {
-            "first": "06:50:00",
-            "last": "20:25:00"
-          },
-          "special": {
-            "first": "06:50:00",
-            "last": "09:25:00"
-          },
-          "th": {
-            "first": "06:50:00",
-            "last": "20:25:00"
+            "first": "17:30:00",
+            "last": "00:20:00"
           }
         }
       }
@@ -1115,7 +958,7 @@
         -76.8682799
       ],
       "min": [
-        38.950275,
+        38.9505221,
         -76.94677
       ],
       "stops": {
@@ -1199,144 +1042,16 @@
         "stamsu": {
           "f": {
             "first": "07:08:00",
-            "last": "20:31:00"
+            "last": "22:16:00"
           },
           "mtw": {
             "first": "07:08:00",
-            "last": "22:46:00"
+            "last": "22:16:00"
           },
           "th": {
             "first": "07:08:00",
-            "last": "22:46:00"
+            "last": "22:16:00"
           }
-        }
-      }
-    },
-    "127": {
-      "title": "127 Mazza GrandMarc",
-      "color": "c73f17",
-      "tag": "127",
-      "shortTitle": "127 MGM",
-      "oppositeColor": "ffffff",
-      "max": [
-        39.0161019,
-        -76.9213841
-      ],
-      "min": [
-        38.9878607,
-        -76.94075
-      ],
-      "stops": {
-        "Regents Drive Garage": [
-          "baltberw_s",
-          "baltqueb_in",
-          "varsfron",
-          "painstad_r"
-        ],
-        "Mazza GrandMarc": [
-          "regegara_d",
-          "campmath_m",
-          "baltmacd",
-          "baltqueb_out",
-          "balttecu",
-          "rhoduniv",
-          "rhodcher",
-          "rhodfox",
-          "rhodholl",
-          "rhodshop",
-          "edgerhod",
-          "edge49th",
-          "mazz"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "regegara_d",
-          "mazz"
-        ],
-        "outbound": [
-          "regegara_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "mazz": {
-          "f": {
-            "first": "06:45:00",
-            "last": "20:59:00"
-          },
-          "mtw": {
-            "first": "06:45:00",
-            "last": "22:05:00"
-          },
-          "th": {
-            "first": "06:45:00",
-            "last": "22:05:00"
-          }
-        },
-        "regegara": {
-          "f": {},
-          "mtw": {},
-          "th": {}
-        }
-      }
-    },
-    "128": {
-      "title": "128 The Enclave",
-      "color": "00ff00",
-      "tag": "128",
-      "shortTitle": "128 Enclave",
-      "oppositeColor": "000000",
-      "max": [
-        38.99782,
-        -76.93182
-      ],
-      "min": [
-        38.9872099,
-        -76.9500943
-      ],
-      "stops": {
-        "Stamp Student Union": [
-          "baltberw_s",
-          "baltqueb_in",
-          "baltvars",
-          "mcirc_s"
-        ],
-        "Enclave": [
-          "stamsuhh_d",
-          "lot1",
-          "cspac",
-          "dent_e",
-          "enclave_s"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "stamsuhh_d",
-          "enclave_s"
-        ],
-        "outbound": [
-          "stamsuhh_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "enclave": {
-          "f": {
-            "first": "07:20:00",
-            "last": "20:50:00"
-          },
-          "mtw": {
-            "first": "07:20:00",
-            "last": "22:30:00"
-          },
-          "th": {
-            "first": "07:20:00",
-            "last": "22:30:00"
-          }
-        },
-        "stamsu": {
-          "f": {},
-          "mtw": {},
-          "th": {}
         }
       }
     },
@@ -1351,29 +1066,23 @@
         -76.9213841
       ],
       "min": [
-        38.9824312,
-        -76.94539
+        38.9878608,
+        -76.9407719
       ],
       "stops": {
-        "Stamp Student Union": [
+        "Regents Drive Parking Garage": [
           "enclave_s",
           "baltberw_s",
           "baltqueb_in",
           "vars",
-          "mcirc"
+          "painglen"
         ],
         "Mazza GrandMarc": [
-          "stamsuhh_d",
-          "hoff",
-          "uniofiel",
-          "biofield",
-          "mitc_out",
-          "memo_out",
-          "mont_out",
-          "baltritc",
+          "regdrgar_d",
+          "campmath",
           "baltmacd",
           "baltqueb_out",
-          "balttecu",
+          "baltberw_out",
           "rhoduniv",
           "rhodcher",
           "rhodfox",
@@ -1386,49 +1095,41 @@
       },
       "scheduledStops": {
         "inbound": [
-          "stamsuhh_d",
+          "regdrgar_d",
           "mazz"
         ],
         "outbound": [
           "enclave_s",
-          "stamsuhh_a"
+          "regdrgar_a"
         ]
       },
       "scheduledTimeRange": {
         "mazz": {
           "f": {
-            "first": "21:25:00",
-            "last": "00:25:00"
+            "first": "06:45:00",
+            "last": "22:11:00"
           },
           "mtw": {
-            "first": "22:55:00",
-            "last": "00:25:00"
-          },
-          "sat": {
-            "first": "17:32:00",
-            "last": "02:31:00"
+            "first": "06:45:00",
+            "last": "22:11:00"
           },
           "th": {
-            "first": "22:55:00",
-            "last": "00:25:00"
+            "first": "06:45:00",
+            "last": "22:11:00"
           }
         },
-        "stamsu": {
+        "regdrgar": {
           "f": {
-            "first": "22:00:00",
-            "last": "01:00:00"
+            "first": "07:12:00",
+            "last": "22:36:00"
           },
           "mtw": {
-            "first": "23:30:00",
-            "last": "01:00:00"
-          },
-          "sat": {
-            "first": "18:06:00",
-            "last": "02:55:00"
+            "first": "07:12:00",
+            "last": "22:36:00"
           },
           "th": {
-            "first": "23:30:00",
-            "last": "01:00:00"
+            "first": "07:12:00",
+            "last": "22:36:00"
           }
         }
       }
@@ -1475,16 +1176,16 @@
       "scheduledTimeRange": {
         "loop": {
           "f": {
-            "first": "07:12:00",
-            "last": "17:02:00"
+            "first": "07:25:00",
+            "last": "17:10:00"
           },
           "mtw": {
-            "first": "07:12:00",
-            "last": "17:02:00"
+            "first": "07:25:00",
+            "last": "17:10:00"
           },
           "th": {
-            "first": "07:12:00",
-            "last": "17:02:00"
+            "first": "07:25:00",
+            "last": "17:10:00"
           }
         }
       }
@@ -1493,7 +1194,6 @@
       "title": "133 Grocery Shopping Shuttle",
       "color": "bf3eff",
       "tag": "133",
-      "shortTitle": "133 Grocery",
       "oppositeColor": "000000",
       "max": [
         38.9930112,
@@ -1525,7 +1225,6 @@
         ],
         "The Mall at Prince George's": [
           "regegara_d",
-          "regestad",
           "laplat_out",
           "hage_out",
           "elkton_out",
@@ -1560,57 +1259,8 @@
         "targ": {
           "sat": {
             "first": "10:00:00",
-            "last": "22:00:00"
+            "last": "21:45:00"
           }
-        }
-      }
-    },
-    "140": {
-      "title": "140 UMB Law",
-      "color": "24c9b9",
-      "tag": "140",
-      "oppositeColor": "000000",
-      "max": [
-        39.2897837,
-        -76.6223289
-      ],
-      "min": [
-        38.9874519,
-        -76.9440396
-      ],
-      "stops": {
-        "Baltimore St & Paca St": [
-          "stamsuhh_d",
-          "painglen_ob",
-          "baltpaca"
-        ],
-        "Stamp Student Union": [
-          "painglen_ib"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "stamsuhh_d",
-          "baltpaca"
-        ],
-        "outbound": [
-          "stamsuhh_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "balt": {
-          "mtw": {
-            "first": "15:00:00",
-            "last": "21:10:00"
-          },
-          "th": {
-            "first": "15:00:00",
-            "last": "21:10:00"
-          }
-        },
-        "stamsu": {
-          "mtw": {},
-          "th": {}
         }
       }
     },
@@ -1649,15 +1299,15 @@
         "stamsu": {
           "f": {
             "first": "06:45:00",
-            "last": "21:25:00"
+            "last": "20:45:00"
           },
           "mtw": {
             "first": "06:45:00",
-            "last": "22:55:00"
+            "last": "20:45:00"
           },
           "th": {
             "first": "06:45:00",
-            "last": "22:55:00"
+            "last": "20:45:00"
           }
         },
         "wdiapknr": {
@@ -1681,11 +1331,11 @@
         -76.94075
       ],
       "stops": {
-        "Regents Drive Garage": [
-          "brokride"
-        ],
         "Broken Land Park & Ride East Lot": [
           "regegara_d"
+        ],
+        "Regents Drive Garage": [
+          "brokride"
         ]
       },
       "scheduledStops": {
@@ -1706,15 +1356,15 @@
         "regegara": {
           "f": {
             "first": "07:00:00",
-            "last": "19:15:00"
+            "last": "20:20:00"
           },
           "mtw": {
             "first": "07:00:00",
-            "last": "19:15:00"
+            "last": "20:20:00"
           },
           "th": {
             "first": "07:00:00",
-            "last": "19:15:00"
+            "last": "20:20:00"
           }
         }
       }
@@ -1756,7 +1406,8 @@
           "greerhod_ib",
           "cspa_main",
           "stadgara",
-          "stadvtho"
+          "stadvtho",
+          "stadatl"
         ],
         "Greenbelt Rd at Greenway Center": [
           "regegara_d",
@@ -1809,91 +1460,29 @@
         "greegree_ob": {
           "f": {
             "first": "06:05:00",
-            "last": "20:30:00"
+            "last": "21:15:00"
           },
           "mtw": {
             "first": "06:05:00",
-            "last": "22:05:00"
+            "last": "21:15:00"
           },
           "th": {
             "first": "06:05:00",
-            "last": "22:05:00"
+            "last": "21:15:00"
           }
         },
         "regegara": {
           "f": {
             "first": "07:18:00",
-            "last": "21:41:00"
+            "last": "22:32:00"
           },
           "mtw": {
             "first": "07:18:00",
-            "last": "23:11:00"
+            "last": "22:32:00"
           },
           "th": {
             "first": "07:18:00",
-            "last": "23:11:00"
-          }
-        }
-      }
-    },
-    "bse": {
-      "title": "Bowie State - Enclave Express",
-      "color": "b200a5",
-      "tag": "bse",
-      "oppositeColor": "ffffff",
-      "max": [
-        39.0176137,
-        -76.7613399
-      ],
-      "min": [
-        38.99782,
-        -76.93197
-      ],
-      "stops": {
-        "Bowie State University": [
-          "enclave"
-        ],
-        "Enclave": [
-          "bowiuniv"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "enclave"
-        ],
-        "outbound": [
-          "bowiuniv",
-          "enclave_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "bowiuniv": {
-          "f": {},
-          "mtw": {},
-          "sat": {},
-          "sun": {},
-          "th": {}
-        },
-        "enclave": {
-          "f": {
-            "first": "07:45:00",
-            "last": "22:15:00"
-          },
-          "mtw": {
-            "first": "07:45:00",
-            "last": "22:15:00"
-          },
-          "sat": {
-            "first": "08:45:00",
-            "last": "18:05:00"
-          },
-          "sun": {
-            "first": "08:45:00",
-            "last": "18:05:00"
-          },
-          "th": {
-            "first": "07:45:00",
-            "last": "22:15:00"
+            "last": "22:32:00"
           }
         }
       }

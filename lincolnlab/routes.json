@@ -70,22 +70,7 @@
           "5forb"
         ]
       },
-      "scheduledStops": {
-        "inbound": [
-          "linclab"
-        ],
-        "outbound": [
-          "5forb"
-        ]
-      },
-      "scheduledTimeRange": {
-        "5forb": {
-          "wkd": {}
-        },
-        "linclab": {
-          "wkd": {}
-        }
-      }
+      "scheduledStops": {}
     }
   },
   "copyright": "All data copyright MIT Lincoln Lab Shuttle 2020."

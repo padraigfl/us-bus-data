@@ -259,6 +259,320 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Downtown Berkeley BART: Shattuck at Allston",
+        "tag": "shattall",
+        "stopId": "40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.268032,
+          37.8692746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Shattuck Ave at Kittredge St",
+        "tag": "shattkit",
+        "stopId": "41"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2679538,
+          37.8683816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Manville Residence Hall: Shattuck Ave at Channing Wy",
+        "tag": "shatchan",
+        "stopId": "60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2669661,
+          37.8658309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ellsworth Parking Structure: Channing Wy at Ellsworth St",
+        "tag": "channell",
+        "stopId": "44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.263176,
+          37.866313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Unit 3 Residence Hall: Channing Wy at Telegraph Ave",
+        "tag": "channtel",
+        "stopId": "45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.259844,
+          37.866758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Channing Wy at Bowditch St",
+        "tag": "channbow",
+        "stopId": "42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2569123,
+          37.8671329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Unit 1 Residence Hall: Channing Wy at College Ave",
+        "tag": "channcol",
+        "stopId": "46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.254673,
+          37.867413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Unit 2 Residence Hall: College at Haste",
+        "tag": "colhaste",
+        "stopId": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.254042,
+          37.8662024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clark Kerr Campus: Dwight Wy at Prospect St",
+        "tag": "dwigpros",
+        "stopId": "61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.249913,
+          37.865952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Channing Circle",
+        "tag": "chancirc",
+        "stopId": "62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2517508,
+          37.8678967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "International House: Piedmont at Bancroft",
+        "tag": "piedbanc",
+        "stopId": "09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.252173,
+          37.869619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Haas School of Business: Piedmont Avenue (Northbound)",
+        "tag": "haaspied",
+        "stopId": "19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2525979,
+          37.8710457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Evans Hall: Hearst Mining Circle",
+        "tag": "evanhear",
+        "stopId": "06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.257378,
+          37.873397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Greek Theatre: Gayley Rd",
+        "tag": "greegayl",
+        "stopId": "54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2555158,
+          37.8740867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cory Hall: Hearst at LeRoy",
+        "tag": "coryhear",
+        "stopId": "05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2581221,
+          37.875425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "North Gate: Hearst at Euclid",
+        "tag": "heareucl",
+        "stopId": "04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2603869,
+          37.875085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tolman Hall: Hearst at Arch",
+        "tag": "heararch",
+        "stopId": "03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2637717,
+          37.874643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Innovative Genomics Bldg: Hearst Ave at Oxford St",
+        "tag": "hearstox",
+        "stopId": "63"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2663789,
+          37.8739994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Walnut St at University Ave",
+        "tag": "walnuniv",
+        "stopId": "64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2670118,
+          37.872402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Addison St at Shattuck Ave",
+        "tag": "addishat",
+        "stopId": "01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2683039,
+          37.8710485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Downtown Berkeley BART: Shattuck at Allston (Arrival)",
+        "tag": "shatalls_a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.268032,
+          37.869622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Strawberry Canyon",
         "tag": "strawcany",
         "stopId": "20"

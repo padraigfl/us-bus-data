@@ -49,21 +49,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "UPP North",
-        "tag": "upp",
-        "stopId": "12"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.2496609,
-          26.0791469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Terry Administration Building (Health Professions)",
         "tag": "terradmn",
         "stopId": "03"
@@ -332,21 +317,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "The Commons Residence Hall",
-        "tag": "goodwin_m",
-        "stopId": "08"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.24236,
-          26.07538
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Galleria Mall",
         "tag": "gallmall",
         "stopId": "43"
@@ -354,7 +324,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.1123411,
+          -80.1123403,
           26.1376649
         ]
       }

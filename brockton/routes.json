@@ -90,71 +90,11 @@
       },
       "scheduledTimeRange": {
         "batctr": {
-          "1": {},
-          "4": {},
-          "5": {},
-          "6": {},
-          "7": {},
-          "8": {},
-          "10": {},
-          "80": {},
-          "100": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "676": {},
-          "677": {},
-          "678": {},
-          "801": {},
-          "803": {},
-          "804": {},
-          "805": {},
-          "806": {},
-          "807": {},
-          "808": {},
-          "810": {},
-          "881": {},
-          "888": {},
-          "67123": {},
-          "67312": {},
-          "78673": {},
-          "78813": {},
           "wkd": {},
           "sat": {},
           "sun": {}
         },
         "walmart": {
-          "1": {},
-          "4": {},
-          "5": {},
-          "6": {},
-          "7": {},
-          "8": {},
-          "10": {},
-          "80": {},
-          "100": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "676": {},
-          "677": {},
-          "678": {},
-          "801": {},
-          "803": {},
-          "804": {},
-          "805": {},
-          "806": {},
-          "807": {},
-          "808": {},
-          "810": {},
-          "881": {},
-          "888": {},
-          "67123": {},
-          "67312": {},
-          "78673": {},
-          "78813": {},
           "wkd": {},
           "sat": {},
           "sun": {}
@@ -176,31 +116,6 @@
         -71.0201684
       ],
       "stops": {
-        "Bat Centre": [
-          "shawss",
-          "mainauto",
-          "mainwend",
-          "maindang",
-          "mainsarg",
-          "mainmead",
-          "maingarf",
-          "mainperk",
-          "maineche",
-          "mainpink",
-          "maingran",
-          "maintemp",
-          "maingrov",
-          "mainhanc",
-          "mainmain",
-          "packard",
-          "mainunio",
-          "mainexch",
-          "mainlawr",
-          "mainalle",
-          "mainwhit",
-          "mainwest",
-          "centmont"
-        ],
         "Kmart": [
           "batctr",
           "montscho",
@@ -229,6 +144,31 @@
           "mainsylv",
           "maincvs",
           "kmart"
+        ],
+        "Bat Centre": [
+          "shawss",
+          "mainauto",
+          "mainwend",
+          "maindang",
+          "mainsarg",
+          "mainmead",
+          "maingarf",
+          "mainperk",
+          "maineche",
+          "mainpink",
+          "maingran",
+          "maintemp",
+          "maingrov",
+          "mainhanc",
+          "mainmain",
+          "packard",
+          "mainunio",
+          "mainexch",
+          "mainlawr",
+          "mainalle",
+          "mainwhit",
+          "mainwest",
+          "centmont"
         ]
       },
       "scheduledStops": {
@@ -241,55 +181,11 @@
       },
       "scheduledTimeRange": {
         "kmart": {
-          "1": {},
-          "2": {},
-          "4": {},
-          "5": {},
-          "7": {},
-          "8": {},
-          "9": {},
-          "60": {},
-          "70": {},
-          "80": {},
-          "100": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "676": {},
-          "677": {},
-          "678": {},
-          "786": {},
-          "67123": {},
-          "67312": {},
-          "78673": {},
           "wkd": {},
           "sat": {},
           "sun": {}
         },
         "montscho": {
-          "1": {},
-          "2": {},
-          "4": {},
-          "5": {},
-          "7": {},
-          "8": {},
-          "9": {},
-          "60": {},
-          "70": {},
-          "80": {},
-          "100": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "676": {},
-          "677": {},
-          "678": {},
-          "786": {},
-          "67123": {},
-          "67312": {},
-          "78673": {},
           "wkd": {},
           "sat": {},
           "sun": {}
@@ -372,57 +268,11 @@
       },
       "scheduledTimeRange": {
         "batctr": {
-          "1": {},
-          "2": {},
-          "3": {},
-          "5": {},
-          "7": {},
-          "8": {},
-          "9": {},
-          "10": {},
-          "30": {},
-          "80": {},
-          "100": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "676": {},
-          "677": {},
-          "678": {},
-          "786": {},
-          "17026": {},
-          "67123": {},
-          "67312": {},
-          "78673": {},
           "wkd": {},
           "sat": {},
           "sun": {}
         },
         "vethosp": {
-          "1": {},
-          "2": {},
-          "3": {},
-          "5": {},
-          "7": {},
-          "8": {},
-          "9": {},
-          "10": {},
-          "30": {},
-          "80": {},
-          "100": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "676": {},
-          "677": {},
-          "678": {},
-          "786": {},
-          "17026": {},
-          "67123": {},
-          "67312": {},
-          "78673": {},
           "wkd": {},
           "sat": {},
           "sun": {}
@@ -440,11 +290,39 @@
         -71.0155151
       ],
       "min": [
-        42.0838135,
-        -71.0660308
+        42.083814,
+        -71.0660309
       ],
       "stops": {
+        "Walmart - Oak St": [
+          "batctr",
+          "pleamain",
+          "pleahere",
+          "pleaspri",
+          "pleaoakl",
+          "pleacolo",
+          "pleawesto",
+          "pleaelli",
+          "pleaaugu",
+          "pleanash",
+          "pleabela",
+          "pleafiel",
+          "pleaelmw",
+          "pennsylv",
+          "pleawest_o",
+          "westlane",
+          "mallentr",
+          "acmoore",
+          "macys",
+          "westmall",
+          "campself",
+          "camptoys",
+          "oakchatw"
+        ],
         "Bat Centre": [
+          "oakwalms",
+          "oakpine",
+          "oakrese",
           "goodsamh",
           "oakxrese",
           "oakxpear",
@@ -476,38 +354,11 @@
           "legipadd",
           "legimain",
           "centmont"
-        ],
-        "Good Samaritan Hospital": [
-          "batctr",
-          "pleamain",
-          "pleahere",
-          "pleaspri",
-          "pleaoakl",
-          "pleacolo",
-          "pleawesto",
-          "pleaelli",
-          "pleaaugu",
-          "pleanash",
-          "pleabela",
-          "pleafiel",
-          "pleaelmw",
-          "pennsylv",
-          "pleawest_o",
-          "westlane",
-          "mallentr",
-          "acmoore",
-          "macys",
-          "westmall",
-          "campself",
-          "camptoys",
-          "oakchatw",
-          "oakpine",
-          "oakrese"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "goodsamh"
+          "oakwalms"
         ],
         "outbound": [
           "batctr"
@@ -515,57 +366,11 @@
       },
       "scheduledTimeRange": {
         "batctr": {
-          "1": {},
-          "2": {},
-          "3": {},
-          "4": {},
-          "6": {},
-          "7": {},
-          "9": {},
-          "10": {},
-          "30": {},
-          "40": {},
-          "60": {},
-          "70": {},
-          "100": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "676": {},
-          "677": {},
-          "678": {},
-          "67123": {},
-          "67312": {},
-          "78673": {},
           "wkd": {},
           "sat": {},
           "sun": {}
         },
-        "goodsamh": {
-          "1": {},
-          "2": {},
-          "3": {},
-          "4": {},
-          "6": {},
-          "7": {},
-          "9": {},
-          "10": {},
-          "30": {},
-          "40": {},
-          "60": {},
-          "70": {},
-          "100": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "676": {},
-          "677": {},
-          "678": {},
-          "67123": {},
-          "67312": {},
-          "78673": {},
+        "walms": {
           "wkd": {},
           "sat": {},
           "sun": {}
@@ -637,51 +442,11 @@
       },
       "scheduledTimeRange": {
         "cresotis": {
-          "1": {},
-          "2": {},
-          "3": {},
-          "4": {},
-          "5": {},
-          "6": {},
-          "9": {},
-          "10": {},
-          "30": {},
-          "40": {},
-          "50": {},
-          "60": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "676": {},
-          "677": {},
-          "678": {},
-          "67312": {},
           "wkd": {},
           "sat": {},
           "sun": {}
         },
         "walmart": {
-          "1": {},
-          "2": {},
-          "3": {},
-          "4": {},
-          "5": {},
-          "6": {},
-          "9": {},
-          "10": {},
-          "30": {},
-          "40": {},
-          "50": {},
-          "60": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "676": {},
-          "677": {},
-          "678": {},
-          "67312": {},
           "wkd": {},
           "sat": {},
           "sun": {}
@@ -703,24 +468,6 @@
         -71.015576
       ],
       "stops": {
-        "Bat Centre": [
-          "masscsu",
-          "creschri",
-          "creseast",
-          "cresdunh",
-          "cresglad",
-          "creshill",
-          "cresdrap",
-          "creshenr",
-          "creswend",
-          "creslyma",
-          "grovsumm",
-          "grovlawr",
-          "lawrotis",
-          "lawrperk",
-          "perkmidd",
-          "perkcres"
-        ],
         "Massasoit College Student Union": [
           "batctr",
           "perkcres_o",
@@ -741,6 +488,24 @@
           "suprdonu",
           "massplaz",
           "massthat"
+        ],
+        "Bat Centre": [
+          "masscsu",
+          "creschri",
+          "creseast",
+          "cresdunh",
+          "cresglad",
+          "creshill",
+          "cresdrap",
+          "creshenr",
+          "creswend",
+          "creslyma",
+          "grovsumm",
+          "grovlawr",
+          "lawrotis",
+          "lawrperk",
+          "perkmidd",
+          "perkcres"
         ]
       },
       "scheduledStops": {
@@ -753,56 +518,10 @@
       },
       "scheduledTimeRange": {
         "batctr": {
-          "1": {},
-          "2": {},
-          "3": {},
-          "5": {},
-          "6": {},
-          "7": {},
-          "9": {},
-          "10": {},
-          "30": {},
-          "60": {},
-          "70": {},
-          "80": {},
-          "100": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "676": {},
-          "677": {},
-          "678": {},
-          "786": {},
-          "67123": {},
-          "67312": {},
           "wkd": {},
           "sat": {}
         },
         "masscsu": {
-          "1": {},
-          "2": {},
-          "3": {},
-          "5": {},
-          "6": {},
-          "7": {},
-          "9": {},
-          "10": {},
-          "30": {},
-          "60": {},
-          "70": {},
-          "80": {},
-          "100": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "676": {},
-          "677": {},
-          "678": {},
-          "786": {},
-          "67123": {},
-          "67312": {},
           "wkd": {},
           "sat": {}
         }
@@ -897,55 +616,11 @@
       },
       "scheduledTimeRange": {
         "batctr": {
-          "1": {},
-          "2": {},
-          "3": {},
-          "4": {},
-          "5": {},
-          "6": {},
-          "7": {},
-          "8": {},
-          "30": {},
-          "40": {},
-          "50": {},
-          "70": {},
-          "80": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "676": {},
-          "677": {},
-          "678": {},
-          "67312": {},
           "wkd": {},
-          "sat": {},
           "sun": {}
         },
         "eastbuck": {
-          "1": {},
-          "2": {},
-          "3": {},
-          "4": {},
-          "5": {},
-          "6": {},
-          "7": {},
-          "8": {},
-          "30": {},
-          "40": {},
-          "50": {},
-          "70": {},
-          "80": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "676": {},
-          "677": {},
-          "678": {},
-          "67312": {},
           "wkd": {},
-          "sat": {},
           "sun": {}
         }
       }
@@ -1034,29 +709,9 @@
       },
       "scheduledTimeRange": {
         "110libers": {
-          "3": {},
-          "4": {},
-          "6": {},
-          "8": {},
-          "9": {},
-          "10": {},
-          "80": {},
-          "100": {},
-          "786": {},
-          "67123": {},
           "wkd": {}
         },
         "batctr": {
-          "3": {},
-          "4": {},
-          "6": {},
-          "8": {},
-          "9": {},
-          "10": {},
-          "80": {},
-          "100": {},
-          "786": {},
-          "67123": {},
           "wkd": {}
         }
       }
@@ -1156,22 +811,7 @@
           "449howa"
         ]
       },
-      "scheduledStops": {
-        "inbound": [
-          "howaeise"
-        ],
-        "outbound": [
-          "batctr"
-        ]
-      },
-      "scheduledTimeRange": {
-        "batctr": {
-          "wkd": {}
-        },
-        "howaeise": {
-          "wkd": {}
-        }
-      }
+      "scheduledStops": {}
     },
     "11": {
       "title": "11 Cary Hill & The Village",
@@ -1257,41 +897,9 @@
       },
       "scheduledTimeRange": {
         "batctr": {
-          "2": {},
-          "3": {},
-          "4": {},
-          "5": {},
-          "6": {},
-          "7": {},
-          "8": {},
-          "9": {},
-          "10": {},
-          "11": {},
-          "70": {},
-          "80": {},
-          "100": {},
-          "786": {},
-          "7812": {},
-          "78129": {},
           "wkd": {}
         },
         "ncaramar": {
-          "2": {},
-          "3": {},
-          "4": {},
-          "5": {},
-          "6": {},
-          "7": {},
-          "8": {},
-          "9": {},
-          "10": {},
-          "11": {},
-          "70": {},
-          "80": {},
-          "100": {},
-          "786": {},
-          "7812": {},
-          "78129": {},
           "wkd": {}
         }
       }
@@ -1484,7 +1092,7 @@
         "ashmont": {
           "wkd": {
             "first": "05:00:00",
-            "last": "11:00:00"
+            "last": "22:45:00"
           },
           "sat": {
             "first": "05:20:00",
@@ -1498,7 +1106,7 @@
         "batctr": {
           "wkd": {
             "first": "05:45:00",
-            "last": "12:00:00"
+            "last": "23:40:00"
           },
           "sat": {
             "first": "06:20:00",
@@ -1585,7 +1193,7 @@
         "loop": {
           "wkd": {
             "first": "09:45:00",
-            "last": "16:30:00"
+            "last": "12:45:00"
           }
         }
       }
@@ -1605,80 +1213,7 @@
         -71.148856
       ],
       "stops": {
-        "WGM": [
-          "batctr_d",
-          "pleamain",
-          "pleaglen",
-          "pleacter",
-          "pleaelli",
-          "pleaaugu",
-          "pleanash",
-          "bela711",
-          "belabell",
-          "belarise",
-          "belaearl",
-          "belacove",
-          "belaanne",
-          "belatuck",
-          "oakgolf",
-          "oakart",
-          "oakorth",
-          "oakchat",
-          "camppole",
-          "campjob",
-          "westdial",
-          "cobbcorn_d",
-          "washosco",
-          "sharfrie",
-          "centwesto",
-          "centchar",
-          "2137cent",
-          "centknol",
-          "centlake",
-          "centmill",
-          "centhhsc",
-          "centwawo",
-          "centtosc",
-          "cent1595",
-          "centbroo",
-          "centevan",
-          "centstat",
-          "centsimp",
-          "centpear",
-          "tempahtc",
-          "mccoteco",
-          "washwalg",
-          "washphil",
-          "washcumb",
-          "washfrie",
-          "stougctr",
-          "parkwaln",
-          "parksumn",
-          "parkleac",
-          "parkbobs",
-          "parkbelm",
-          "parkwike",
-          "parktwin",
-          "parkash",
-          "parktent",
-          "parkpmbg",
-          "parknocr",
-          "parkpark",
-          "parkpapl",
-          "parkcant_i",
-          "oakpearl_i",
-          "oak7elev",
-          "goodsamh_i",
-          "goodoak_i",
-          "oakpine_i",
-          "oakwalm_i",
-          "oakwend",
-          "camppole_i",
-          "campjob_i",
-          "westdial_i"
-        ],
         "Bat Centre": [
-          "cobbcorn",
           "markbask_i",
           "campjob_2",
           "campwork_i",
@@ -1702,15 +1237,13 @@
           "pleahere"
         ],
         "Cobbs Corner": [
-          "batctr",
           "markbask_d",
           "camptoys_cobb",
           "campwork",
           "oakmadr",
           "oakwalm",
+          "oakwalms",
           "oakpine",
-          "gsh2pole",
-          "goodsamh",
           "oakreser",
           "oakpearl_o",
           "npeacant",
@@ -1751,48 +1284,117 @@
           "2137cent_o",
           "sharwsto",
           "shar128"
+        ],
+        "WGM": [
+          "batctr_d",
+          "pleamain",
+          "pleaglen",
+          "pleacter",
+          "pleaelli",
+          "pleaaugu",
+          "pleanash",
+          "bela711",
+          "belabell",
+          "belarise",
+          "belaearl",
+          "belacove",
+          "belaanne",
+          "belatuck",
+          "oakgolf",
+          "oakart",
+          "oakorth",
+          "oakchat",
+          "camppole",
+          "campjob",
+          "westdial",
+          "cobbcorn",
+          "washosco",
+          "sharfrie",
+          "centwesto",
+          "centchar",
+          "2137cent",
+          "centknol",
+          "centlake",
+          "centmill",
+          "centhhsc",
+          "centwawo",
+          "centtosc",
+          "cent1595",
+          "centbroo",
+          "centevan",
+          "centstat",
+          "centsimp",
+          "centpear",
+          "tempahtc",
+          "mccoteco",
+          "washwalg",
+          "washphil",
+          "washcumb",
+          "washfrie",
+          "stougctr",
+          "parkwaln",
+          "parksumn",
+          "parkleac",
+          "parkbobs",
+          "parkbelm",
+          "parkwike",
+          "parktwin",
+          "parkash",
+          "parktent",
+          "parkpmbg",
+          "parknocr",
+          "parkpark",
+          "parkpapl",
+          "parkcant_i",
+          "oakpearl_i",
+          "oak7elev",
+          "oakpine_i",
+          "oakwalms_i",
+          "oakwend",
+          "camppole_i",
+          "campjob_i",
+          "westdial_i"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "cobbcorn"
+          "markbask_i",
+          "batctr_a"
         ],
         "outbound": [
-          "markbask_d"
+          "markbask_d",
+          "cobbcorn_a"
         ]
       },
       "scheduledTimeRange": {
         "batctr": {
-          "141": {},
-          "67140": {},
-          "671413": {},
-          "wkd": {},
-          "sat": {}
+          "wkd": {
+            "first": "07:30:00",
+            "last": "18:30:00"
+          },
+          "sat": {
+            "first": "07:30:00",
+            "last": "18:30:00"
+          }
         },
         "cobbcorn": {
-          "141": {},
-          "67140": {},
-          "671413": {},
           "wkd": {
-            "first": "06:50:00",
-            "last": "17:15:00"
+            "first": "06:30:00",
+            "last": "17:30:00"
+          },
+          "sat": {
+            "first": "06:30:00",
+            "last": "17:30:00"
+          }
+        },
+        "westgate": {
+          "wkd": {
+            "first": "06:00:00",
+            "last": "17:00:00"
           },
           "sat": {
             "first": "06:00:00",
             "last": "17:00:00"
-          }
-        },
-        "westgate": {
-          "141": {},
-          "67140": {},
-          "671413": {},
-          "wkd": {
-            "first": "06:40:00",
-            "last": "16:50:00"
-          },
-          "sat": {
-            "first": "06:40:00",
-            "last": "16:45:00"
           }
         }
       }
@@ -1865,51 +1467,11 @@
       },
       "scheduledTimeRange": {
         "batctr": {
-          "1": {},
-          "2": {},
-          "3": {},
-          "4": {},
-          "5": {},
-          "6": {},
-          "7": {},
-          "9": {},
-          "30": {},
-          "40": {},
-          "50": {},
-          "60": {},
-          "70": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "677": {},
-          "678": {},
-          "67312": {},
           "wkd": {},
           "sat": {},
           "sun": {}
         },
         "westdent": {
-          "1": {},
-          "2": {},
-          "3": {},
-          "4": {},
-          "5": {},
-          "6": {},
-          "7": {},
-          "9": {},
-          "30": {},
-          "40": {},
-          "50": {},
-          "60": {},
-          "70": {},
-          "671": {},
-          "672": {},
-          "674": {},
-          "675": {},
-          "677": {},
-          "678": {},
-          "67312": {},
           "wkd": {},
           "sat": {},
           "sun": {}
@@ -1955,7 +1517,7 @@
         "batctr": {
           "wkd": {
             "first": "06:00:00",
-            "last": "10:50:00"
+            "last": "17:50:00"
           },
           "sat": {
             "first": "08:50:00",
@@ -2049,10 +1611,42 @@
       ],
       "min": [
         42.0850099,
-        -71.0224801
+        -71.025675
       ],
       "stops": {
-        "North Cary St on Amark Rd": [
+        "Bat Centre": [
+          "stopshop",
+          "howawint",
+          "wintmonu",
+          "wintdyer",
+          "wintando",
+          "wintsawt",
+          "wintfiel",
+          "wintnort",
+          "wintbalt",
+          "wintncar",
+          "ncaramar",
+          "amarcynt",
+          "coeupto",
+          "coenorw",
+          "coealph",
+          "alphanne",
+          "alphwale",
+          "colgnich",
+          "colgeash",
+          "eashbish",
+          "easheast",
+          "eashthay",
+          "eashncar",
+          "eashrive",
+          "eashemme",
+          "eashmulb",
+          "nmoneash",
+          "nmonleba",
+          "nmonelli",
+          "nmonchar"
+        ],
+        "Stop and Shop Montello": [
           "batctr",
           "courhunt",
           "courmanc",
@@ -2089,46 +1683,20 @@
           "hovebonn",
           "hovespra",
           "hoveange",
+          "inteblen",
+          "crosgard",
+          "nortsawt",
+          "sawtfiel",
+          "fielmorg",
           "fielspar",
           "mbtamont",
           "sparsylv",
-          "sparcamc",
-          "howawint",
-          "wintmonu",
-          "wintdyer",
-          "wintando",
-          "wintsawt",
-          "wintfiel",
-          "wintnort",
-          "wintbalt",
-          "wintncar"
-        ],
-        "Bat Centre": [
-          "ncaramar",
-          "amarcynt",
-          "coeupto",
-          "coenorw",
-          "coealph",
-          "alphanne",
-          "alphwale",
-          "colgnich",
-          "colgeash",
-          "eashbish",
-          "easheast",
-          "eashthay",
-          "eashncar",
-          "eashrive",
-          "eashemme",
-          "eashmulb",
-          "nmoneash",
-          "nmonleba",
-          "nmonelli",
-          "nmonchar"
+          "sparcamc"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "ncaramar"
+          "stopshop"
         ],
         "outbound": [
           "batctr"
@@ -2136,36 +1704,12 @@
       },
       "scheduledTimeRange": {
         "batctr": {
-          "2": {},
-          "3": {},
-          "4": {},
-          "5": {},
-          "6": {},
-          "7": {},
-          "8": {},
-          "10": {},
-          "50": {},
-          "70": {},
-          "80": {},
-          "100": {},
-          "786": {},
+          "wkd": {},
           "sat": {},
           "sun": {}
         },
-        "ncaramar": {
-          "2": {},
-          "3": {},
-          "4": {},
-          "5": {},
-          "6": {},
-          "7": {},
-          "8": {},
-          "10": {},
-          "50": {},
-          "70": {},
-          "80": {},
-          "100": {},
-          "786": {},
+        "stopshop": {
+          "wkd": {},
           "sat": {},
           "sun": {}
         }

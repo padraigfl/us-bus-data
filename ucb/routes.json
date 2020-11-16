@@ -51,6 +51,87 @@
         }
       }
     },
+    "revperi": {
+      "title": "Reverse Perimeter",
+      "color": "000000",
+      "tag": "revperi",
+      "oppositeColor": "ffffff",
+      "max": [
+        37.875425,
+        -122.249913
+      ],
+      "min": [
+        37.8658309,
+        -122.2683039
+      ],
+      "stops": {
+        "Haas School of Business": [
+          "shattall",
+          "shattkit",
+          "shatchan",
+          "channell",
+          "channtel",
+          "channbow",
+          "channcol",
+          "colhaste",
+          "dwigpros",
+          "chancirc",
+          "piedbanc"
+        ],
+        "Downtown Berkeley BART": [
+          "haaspied",
+          "evanhear",
+          "greegayl",
+          "coryhear",
+          "heareucl",
+          "heararch",
+          "hearstox",
+          "walnuniv",
+          "addishat",
+          "shatalls_a"
+        ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "haaspied",
+          "evanhear",
+          "greegayl",
+          "coryhear",
+          "heareucl",
+          "heararch",
+          "hearstox",
+          "walnuniv",
+          "shatalls_a"
+        ],
+        "outbound": [
+          "shattall",
+          "shattkit",
+          "shatchan",
+          "channell",
+          "channtel",
+          "channbow",
+          "channcol",
+          "colhaste",
+          "dwigpros",
+          "chancirc",
+          "piedbanc"
+        ]
+      },
+      "scheduledTimeRange": {
+        "bart": {
+          "wkd": {
+            "first": "07:29:00",
+            "last": "18:29:00"
+          }
+        },
+        "haas": {
+          "wkd": {
+            "first": "07:15:00",
+            "last": "18:15:00"
+          }
+        }
+      }
+    },
     "hill": {
       "title": "Hill",
       "color": "cd8500",
@@ -65,13 +146,6 @@
         -122.26764
       ],
       "stops": {
-        "Downhill": [
-          "spacelab_d",
-          "lawrhall_ib",
-          "botagard_ib",
-          "strawcany_ib",
-          "evanhall_a"
-        ],
         "Uphill": [
           "berkbart_d",
           "evanhall",
@@ -79,6 +153,13 @@
           "botagard",
           "lawrhall",
           "spacelab_a"
+        ],
+        "Downhill": [
+          "spacelab_d",
+          "lawrhall_ib",
+          "botagard_ib",
+          "strawcany_ib",
+          "evanhall_a"
         ]
       },
       "scheduledStops": {
@@ -162,7 +243,7 @@
         -122.257378
       ],
       "min": [
-        37.8712069,
+        37.8713138,
         -122.338584
       ],
       "stops": {
@@ -186,8 +267,8 @@
           "ecerbart_d",
           "regafacl_d",
           "hopkmlk",
-          "berkbart_d",
           "evanhall",
+          "berkbart_d",
           "hopkmlk_ib",
           "regafacl_a"
         ]

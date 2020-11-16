@@ -34,6 +34,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Westlake Ave & Olive Way",
+        "tag": "1630",
+        "stopId": "1630"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33755,
+          47.6132799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "S Jackson St & 5th Ave S",
         "tag": "1651",
         "stopId": "1651"
@@ -177,7 +192,7 @@
         "type": "Point",
         "coordinates": [
           -122.33855,
-          47.6243499
+          47.6241499
         ]
       }
     },
@@ -334,6 +349,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Fairview Ave N & Aloha St",
+        "tag": "26705",
+        "stopId": "26705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33221,
+          47.6275899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "E Yesler Way & Broadway",
         "tag": "27420",
         "stopId": "27420"
@@ -448,76 +478,6 @@
         "coordinates": [
           -122.32085,
           47.6046399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Broadway & E Howell St",
-        "tag": "11175_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.32075,
-          47.6181599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "S Jackson St & Occidental Ave Walk",
-        "tag": "1551_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33328,
-          47.5992699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Fairview Ave N & Aloha St",
-        "tag": "26705_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33221,
-          47.6275899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Terry Ave N & Thomas St",
-        "tag": "26693_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33705,
-          47.6214999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Westlake Ave & Olive Way",
-        "tag": "1630_ar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33755,
-          47.6132799
         ]
       }
     }

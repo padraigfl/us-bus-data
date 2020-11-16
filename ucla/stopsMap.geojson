@@ -4,6 +4,230 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Wilshire Center",
+        "tag": "wilscent",
+        "stopId": "55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4450899,
+          34.0575479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lindbrook/Westwood North",
+        "tag": "westlind_o",
+        "stopId": "53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.444676,
+          34.0597993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stein Plaza",
+        "tag": "steiplaz",
+        "stopId": "03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.445231,
+          34.06516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Botany",
+        "tag": "botany",
+        "stopId": "43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4416148,
+          34.0670008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Parking Structure 2",
+        "tag": "parkstru2",
+        "stopId": "04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.440219,
+          34.0688628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Murphy Hall North",
+        "tag": "murhall_n",
+        "stopId": "05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.439558,
+          34.070589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wyton North",
+        "tag": "wytnnort",
+        "stopId": "51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4382105,
+          34.0737226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hilgard & Westholme",
+        "tag": "hilgwest",
+        "stopId": "47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4390799,
+          34.0692783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Le Conte & Tiverton",
+        "tag": "conttive",
+        "stopId": "48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.442925,
+          34.06377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Westwood at Lindbrook SB",
+        "tag": "westlind",
+        "stopId": "53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4448354,
+          34.0597695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Weyburn Terrace",
+        "tag": "weybterr",
+        "stopId": "25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.44995,
+          34.06185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lot 36",
+        "tag": "lot36",
+        "stopId": "02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4476584,
+          34.0594587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gateway",
+        "tag": "gateway_d",
+        "stopId": "45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.445149,
+          34.069072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Medical Plaza",
+        "tag": "medplaz_s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4454499,
+          34.0654962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Clarington",
+        "tag": "clarington",
+        "stopId": "17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4021499,
+          34.02154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Keystone/Mentone",
         "tag": "keystn",
         "stopId": "18"
@@ -34,23 +258,8 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lindbrook/Westwood North",
-        "tag": "westlind_o",
-        "stopId": "53"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4446747,
-          34.0597976
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Stein Plaza",
-        "tag": "npi_n",
+        "tag": "steinplaz",
         "stopId": "03"
       },
       "geometry": {
@@ -58,21 +267,6 @@
         "coordinates": [
           -118.445217,
           34.065677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Botany",
-        "tag": "botany",
-        "stopId": "43"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.440951,
-          34.067025
         ]
       }
     },
@@ -94,120 +288,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Murphy Hall North",
-        "tag": "murhall_n",
-        "stopId": "05"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.43958,
-          34.0707147
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Wyton North",
-        "tag": "wytnnort",
-        "stopId": "51"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.438161,
-          34.073714
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Wilshire Center",
-        "tag": "wilscent",
-        "stopId": "01"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4450667,
-          34.0576105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Westwood at Lindbrook NB",
         "tag": "lindhamm",
-        "stopId": "53"
+        "stopId": "49"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.4446748,
-          34.0597978
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stein Plaza",
-        "tag": "steinplaz",
-        "stopId": "03"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4452169,
-          34.065677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Botany",
-        "tag": "botan",
-        "stopId": "43"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4409506,
-          34.067025
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Parking Structure 2",
-        "tag": "park2",
-        "stopId": "04"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.440258,
-          34.068911
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Murphy Hall North",
-        "tag": "murphhal",
-        "stopId": "05"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.43958,
-          34.0707148
+          -118.444152,
+          34.059675
         ]
       }
     },
@@ -221,8 +310,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.438304,
-          34.073671
+          -118.438205,
+          34.07363
         ]
       }
     },
@@ -236,8 +325,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.439704,
-          34.071761
+          -118.4396599,
+          34.071614
         ]
       }
     },
@@ -251,8 +340,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.4404448,
-          34.0679807
+          -118.4404599,
+          34.0679101
         ]
       }
     },
@@ -289,30 +378,75 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Medical Plaza",
-        "tag": "medplaz_s",
-        "stopId": "10"
+        "title": "Weyburn Terrace",
+        "tag": "weybterr_d",
+        "stopId": "25"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.4454809,
-          34.065584
+          -118.4499497,
+          34.06185
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Weyburn Terrace",
-        "tag": "weybterr_d",
+        "title": "MacGowen Hall",
+        "tag": "macgowen",
         "stopId": "06"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.4498739,
-          34.0618839
+          -118.439191,
+          34.075802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sproul Hall",
+        "tag": "sproul",
+        "stopId": "61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.450837,
+          34.0711639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rieber",
+        "tag": "rieber",
+        "stopId": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4523279,
+          34.0715399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hedrick Hall",
+        "tag": "hedrick",
+        "stopId": "62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.45304,
+          34.073482
         ]
       }
     }

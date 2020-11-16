@@ -19,24 +19,17 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.14475",
-      "title": "Tahoe City Transit Center - Depart",
       "stopId": "0100",
+      "lon": "-120.14475",
       "tag": "100",
+      "title": "Tahoe City Transit Center - Depart",
       "lat": "39.1645699",
       "scheduleRoutes": {
-        "WSN": {
-          "Tahoe City to Tahoma": {
-            "allwk": [
-              "18:30:00",
-              "19:30:00",
-              "20:30:00"
-            ]
-          }
-        },
         "Hwy89": {
           "Tahoe City to Squaw Valley": {
             "allwk": [
+              "07:00:00",
+              "17:10:00",
               "17:30:00",
               "18:30:00"
             ]
@@ -72,20 +65,7 @@
               "17:32:00"
             ]
           },
-          "Tahoe City to Crystal Bay": {
-            "allwk": [
-              "08:01:00",
-              "09:01:00",
-              "10:01:00",
-              "11:01:00",
-              "12:01:00",
-              "13:01:00",
-              "14:01:00",
-              "15:01:00",
-              "16:01:00",
-              "17:01:00"
-            ]
-          },
+          "Tahoe City to Crystal Bay": {},
           "Tahoe City to Incline": {
             "allwk": [
               "06:00:00",
@@ -114,6 +94,15 @@
               "17:31:00"
             ]
           }
+        },
+        "WSN": {
+          "Tahoe City to Tahoma": {
+            "allwk": [
+              "18:30:00",
+              "19:30:00",
+              "20:30:00"
+            ]
+          }
         }
       }
     },
@@ -127,10 +116,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.1448499",
-      "title": "Hwy 89 at Chase",
       "stopId": "0101",
+      "lon": "-120.1448499",
       "tag": "101",
+      "title": "Hwy 89 at Chase",
       "lat": "39.1619099"
     },
     "102": {
@@ -143,10 +132,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.1457099",
-      "title": "Hwy 89 at Granlibakken",
       "stopId": "0102",
+      "lon": "-120.1457099",
       "tag": "102",
+      "title": "Hwy 89 at Granlibakken",
       "lat": "39.1592399"
     },
     "103": {
@@ -159,10 +148,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.1461299",
-      "title": "Hwy 89 at Cathedral Dr",
       "stopId": "0103",
+      "lon": "-120.1461299",
       "tag": "103",
+      "title": "Hwy 89 at Cathedral Dr",
       "lat": "39.15569"
     },
     "104": {
@@ -175,10 +164,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.1460399",
-      "title": "Hwy 89 at Sequoia Ave",
       "stopId": "0104",
+      "lon": "-120.1460399",
       "tag": "104",
+      "title": "Hwy 89 at Sequoia Ave",
       "lat": "39.15161"
     },
     "105": {
@@ -191,10 +180,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.15335",
-      "title": "Hwy 89 at Pine Ave",
       "stopId": "0105",
+      "lon": "-120.15335",
       "tag": "105",
+      "title": "Hwy 89 at Pine Ave",
       "lat": "39.1450899",
       "scheduleRoutes": {
         "ML": {
@@ -231,10 +220,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.1545399",
-      "title": "Hwy 89 at Fountain Ave  (Firesign Cafe)",
       "stopId": "0106",
+      "lon": "-120.1545399",
       "tag": "106",
+      "title": "Hwy 89 at Fountain Ave  (Firesign Cafe)",
       "lat": "39.14017"
     },
     "107": {
@@ -247,10 +236,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.1545199",
-      "title": "Hwy 89 at Pineland Dr",
       "stopId": "0107",
+      "lon": "-120.1545199",
       "tag": "107",
+      "title": "Hwy 89 at Pineland Dr",
       "lat": "39.13759",
       "scheduleRoutes": {
         "WSN": {
@@ -274,10 +263,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.15642",
-      "title": "Hwy 89 at Ward Ave",
       "stopId": "0108",
+      "lon": "-120.15642",
       "tag": "108",
+      "title": "Hwy 89 at Ward Ave",
       "lat": "39.1341399"
     },
     "109": {
@@ -290,10 +279,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.16195",
-      "title": "Hwy 89 at Timberland Dr (Rideout)",
       "stopId": "0109",
+      "lon": "-120.16195",
       "tag": "109",
+      "title": "Hwy 89 at Timberland Dr (Rideout)",
       "lat": "39.1278799"
     },
     "110": {
@@ -306,10 +295,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.1655499",
-      "title": "Timberland Ln (Rideout Communty Center)",
       "stopId": "0110",
+      "lon": "-120.1655499",
       "tag": "110",
+      "title": "Timberland Ln (Rideout Communty Center)",
       "lat": "39.1290599"
     },
     "111": {
@@ -322,10 +311,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.15861",
-      "title": "Hwy 89 at Elizabeth Dr (Skyland)",
       "stopId": "0111",
+      "lon": "-120.15861",
       "tag": "111",
+      "title": "Hwy 89 at Elizabeth Dr (Skyland)",
       "lat": "39.1153999"
     },
     "112": {
@@ -338,10 +327,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.1627",
-      "title": "Hwy 89 at Grand Ave",
       "stopId": "0112",
+      "lon": "-120.1627",
       "tag": "112",
+      "title": "Hwy 89 at Grand Ave",
       "lat": "39.1048799",
       "scheduleRoutes": {
         "ML": {
@@ -378,10 +367,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.1635699",
-      "title": "Hwy 89 at Grimsell Pass (Homewood Sign)",
       "stopId": "0113",
+      "lon": "-120.1635699",
       "tag": "113",
+      "title": "Hwy 89 at Grimsell Pass (Homewood Sign)",
       "lat": "39.10064",
       "scheduleRoutes": {
         "WSN": {
@@ -405,10 +394,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.16396",
-      "title": "Hwy 89 at Homewood Ski Area",
       "stopId": "0114",
+      "lon": "-120.16396",
       "tag": "114",
+      "title": "Hwy 89 at Homewood Ski Area",
       "lat": "39.0936499",
       "scheduleRoutes": {
         "ML": {
@@ -445,10 +434,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.1580099",
-      "title": "Hwy 89 at West Shore Sports",
       "stopId": "0115",
+      "lon": "-120.1580099",
       "tag": "115",
+      "title": "Hwy 89 at West Shore Sports",
       "lat": "39.0810799"
     },
     "116": {
@@ -461,10 +450,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.1569499",
-      "title": "Hwy 89 Tahoe Ski Bowl Way",
       "stopId": "0116",
+      "lon": "-120.1569499",
       "tag": "116",
+      "title": "Hwy 89 Tahoe Ski Bowl Way",
       "lat": "39.0793"
     },
     "117": {
@@ -477,10 +466,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.1508799",
-      "title": "Hwy 89 at Ellis St",
       "stopId": "0117",
+      "lon": "-120.1508799",
       "tag": "117",
+      "title": "Hwy 89 at Ellis St",
       "lat": "39.0751199"
     },
     "118": {
@@ -493,10 +482,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.1444799",
-      "title": "Hwy 89 at Lodge Dr",
       "stopId": "0118",
+      "lon": "-120.1444799",
       "tag": "118",
+      "title": "Hwy 89 at Lodge Dr",
       "lat": "39.07308"
     },
     "119": {
@@ -509,10 +498,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.14015",
-      "title": "Hwy 89 at McKinney Rubicon Springs Rd",
       "stopId": "0119",
+      "lon": "-120.14015",
       "tag": "119",
+      "title": "Hwy 89 at McKinney Rubicon Springs Rd",
       "lat": "39.07032"
     },
     "120": {
@@ -525,10 +514,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.13652",
-      "title": "Hwy 89 at Elm St",
       "stopId": "0120",
+      "lon": "-120.13652",
       "tag": "120",
+      "title": "Hwy 89 at Elm St",
       "lat": "39.06874"
     },
     "121": {
@@ -541,10 +530,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.13108",
-      "title": "Hwy 89 Across from PDQ Market",
       "stopId": "0121",
+      "lon": "-120.13108",
       "tag": "121",
+      "title": "Hwy 89 Across from PDQ Market",
       "lat": "39.06834"
     },
     "122": {
@@ -554,10 +543,10 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.1283199",
-      "title": "Hwy 89 at Tahoma Post Office (Lodge)",
       "stopId": "0122",
+      "lon": "-120.1283199",
       "tag": "122",
+      "title": "Hwy 89 at Tahoma Post Office (Lodge)",
       "lat": "39.0672399"
     },
     "123": {
@@ -567,10 +556,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.12267",
-      "title": "Sugar Pine Point State Park",
       "stopId": "0123",
+      "lon": "-120.12267",
       "tag": "123",
+      "title": "Sugar Pine Point State Park",
       "lat": "39.0575299",
       "scheduleRoutes": {
         "ML": {
@@ -589,7 +578,12 @@
               "17:10:00"
             ]
           },
-          "Tahoma to Tahoe City": {}
+          "Tahoma to Tahoe City": {
+            "allwk": [
+              "06:10:00",
+              "18:10:00"
+            ]
+          }
         }
       }
     },
@@ -600,10 +594,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.12911",
-      "title": "Hwy 89 at Pine St (Northbound)",
       "stopId": "0124",
+      "lon": "-120.12911",
       "tag": "124",
+      "title": "Hwy 89 at Pine St (Northbound)",
       "lat": "39.06803"
     },
     "125": {
@@ -616,21 +610,12 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.13164",
-      "title": "Hwy 89 at PDQ Market",
       "stopId": "0125",
+      "lon": "-120.13164",
       "tag": "125",
+      "title": "Hwy 89 at PDQ Market",
       "lat": "39.0685299",
       "scheduleRoutes": {
-        "WSN": {
-          "Tahoma to Tahoe City": {
-            "allwk": [
-              "19:00:00",
-              "20:00:00",
-              "21:00:00"
-            ]
-          }
-        },
         "ML": {
           "Tahoma to Incline": {
             "allwk": [
@@ -647,7 +632,21 @@
               "17:12:00"
             ]
           },
-          "Tahoma to Tahoe City": {}
+          "Tahoma to Tahoe City": {
+            "allwk": [
+              "06:12:00",
+              "18:12:00"
+            ]
+          }
+        },
+        "WSN": {
+          "Tahoma to Tahoe City": {
+            "allwk": [
+              "19:00:00",
+              "20:00:00",
+              "21:00:00"
+            ]
+          }
         }
       }
     },
@@ -661,10 +660,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.1372",
-      "title": "Hwy 89 Across from Elm St",
       "stopId": "0126",
+      "lon": "-120.1372",
       "tag": "126",
+      "title": "Hwy 89 Across from Elm St",
       "lat": "39.0692099"
     },
     "127": {
@@ -677,10 +676,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.14",
-      "title": "Hwy 89 at Moana Cir",
       "stopId": "0127",
+      "lon": "-120.14",
       "tag": "127",
+      "title": "Hwy 89 at Moana Cir",
       "lat": "39.0704699"
     },
     "128": {
@@ -693,10 +692,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.14438",
-      "title": "Hwy 89 at Chambers Landing",
       "stopId": "0128",
+      "lon": "-120.14438",
       "tag": "128",
+      "title": "Hwy 89 at Chambers Landing",
       "lat": "39.0732899"
     },
     "129": {
@@ -709,21 +708,12 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.15672",
-      "title": "Hwy 89 Across from Tahoe Ski Bowl Way",
       "stopId": "0129",
+      "lon": "-120.15672",
       "tag": "129",
+      "title": "Hwy 89 Across from Tahoe Ski Bowl Way",
       "lat": "39.0793399",
       "scheduleRoutes": {
-        "WSN": {
-          "Tahoma to Tahoe City": {
-            "allwk": [
-              "19:10:00",
-              "20:10:00",
-              "21:10:00"
-            ]
-          }
-        },
         "ML": {
           "Tahoma to Incline": {
             "allwk": [
@@ -740,7 +730,21 @@
               "17:14:00"
             ]
           },
-          "Tahoma to Tahoe City": {}
+          "Tahoma to Tahoe City": {
+            "allwk": [
+              "06:14:00",
+              "18:14:00"
+            ]
+          }
+        },
+        "WSN": {
+          "Tahoma to Tahoe City": {
+            "allwk": [
+              "19:10:00",
+              "20:10:00",
+              "21:10:00"
+            ]
+          }
         }
       }
     },
@@ -754,10 +758,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.15826",
-      "title": "Hwy 89 at Homewood Obexer's Market",
       "stopId": "0130",
+      "lon": "-120.15826",
       "tag": "130",
+      "title": "Hwy 89 at Homewood Obexer's Market",
       "lat": "39.082"
     },
     "131": {
@@ -770,10 +774,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.15992",
-      "title": "Hwy 89 at West Shore Cafe",
       "stopId": "0131",
+      "lon": "-120.15992",
       "tag": "131",
+      "title": "Hwy 89 at West Shore Cafe",
       "lat": "39.0852599"
     },
     "132": {
@@ -786,10 +790,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.1607799",
-      "title": "Hwy 89 at Homewood Sign",
       "stopId": "0132",
+      "lon": "-120.1607799",
       "tag": "132",
+      "title": "Hwy 89 at Homewood Sign",
       "lat": "39.0871099"
     },
     "133": {
@@ -802,10 +806,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.16334",
-      "title": "Hwy 89 Across from Grimsell Pass",
       "stopId": "0133",
+      "lon": "-120.16334",
       "tag": "133",
+      "title": "Hwy 89 Across from Grimsell Pass",
       "lat": "39.1006799"
     },
     "134": {
@@ -818,10 +822,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.16254",
-      "title": "Hwy 89 at Grand Ave",
       "stopId": "0134",
+      "lon": "-120.16254",
       "tag": "134",
+      "title": "Hwy 89 at Grand Ave",
       "lat": "39.1046899",
       "scheduleRoutes": {
         "ML": {
@@ -840,7 +844,12 @@
               "17:16:00"
             ]
           },
-          "Tahoma to Tahoe City": {}
+          "Tahoma to Tahoe City": {
+            "allwk": [
+              "06:16:00",
+              "18:16:00"
+            ]
+          }
         }
       }
     },
@@ -854,10 +863,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.15818",
-      "title": "Hwy 89 at Skyland Beach",
       "stopId": "0135",
+      "lon": "-120.15818",
       "tag": "135",
+      "title": "Hwy 89 at Skyland Beach",
       "lat": "39.1148399"
     },
     "136": {
@@ -870,10 +879,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.16115",
-      "title": "Hwy 89 at Hurricane Bay (Hill St)",
       "stopId": "0136",
+      "lon": "-120.16115",
       "tag": "136",
+      "title": "Hwy 89 at Hurricane Bay (Hill St)",
       "lat": "39.1205499"
     },
     "137": {
@@ -886,11 +895,11 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.1617499",
-      "title": "Hwy 89 Across from Timberland Dr (Rideout)",
       "stopId": "0137",
+      "lon": "-120.16175",
       "tag": "137",
-      "lat": "39.12779"
+      "title": "Hwy 89 Across from Timberland Dr (Rideout)",
+      "lat": "39.1277899"
     },
     "138": {
       "routes": {
@@ -902,21 +911,12 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.15612",
-      "title": "Hwy 89 at Sunnyside Ln",
       "stopId": "0138",
+      "lon": "-120.15612",
       "tag": "138",
+      "title": "Hwy 89 at Sunnyside Ln",
       "lat": "39.1341999",
       "scheduleRoutes": {
-        "WSN": {
-          "Tahoma to Tahoe City": {
-            "allwk": [
-              "19:15:00",
-              "20:15:00",
-              "21:15:00"
-            ]
-          }
-        },
         "ML": {
           "Tahoma to Incline": {
             "allwk": [
@@ -933,7 +933,21 @@
               "17:21:00"
             ]
           },
-          "Tahoma to Tahoe City": {}
+          "Tahoma to Tahoe City": {
+            "allwk": [
+              "06:21:00",
+              "18:21:00"
+            ]
+          }
+        },
+        "WSN": {
+          "Tahoma to Tahoe City": {
+            "allwk": [
+              "19:15:00",
+              "20:15:00",
+              "21:15:00"
+            ]
+          }
         }
       }
     },
@@ -947,10 +961,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.15443",
-      "title": "Hwy 89 at Sunnyside Market",
       "stopId": "0139",
+      "lon": "-120.15443",
       "tag": "139",
+      "title": "Hwy 89 at Sunnyside Market",
       "lat": "39.14055"
     },
     "140": {
@@ -963,10 +977,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.1537299",
-      "title": "Tahoe Park Ln (Lakeside)",
       "stopId": "0140",
+      "lon": "-120.15373",
       "tag": "140",
+      "title": "Tahoe Park Ln (Lakeside)",
       "lat": "39.14446"
     },
     "141": {
@@ -979,11 +993,11 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.14565",
-      "title": "Sequoia Ave (North on Lakeside)",
       "stopId": "0141",
+      "lon": "-120.14565",
       "tag": "141",
-      "lat": "39.1512099"
+      "title": "Sequoia Ave (North on Lakeside)",
+      "lat": "39.15121"
     },
     "142": {
       "routes": {
@@ -992,10 +1006,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.14587",
-      "title": "Hwy 89 at Olympic Dr",
       "stopId": "0142",
+      "lon": "-120.14587",
       "tag": "142",
+      "title": "Hwy 89 at Olympic Dr",
       "lat": "39.15651"
     },
     "143": {
@@ -1008,11 +1022,11 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.14561",
-      "title": "Hwy 89 at Tahoe Tavern Entrance",
       "stopId": "0143",
+      "lon": "-120.14561",
       "tag": "143",
-      "lat": "39.15857"
+      "title": "Hwy 89 at Tahoe Tavern Entrance",
+      "lat": "39.1585699"
     },
     "144": {
       "routes": {
@@ -1024,10 +1038,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.14463",
-      "title": "Hwy 89 at Chase",
       "stopId": "0144",
+      "lon": "-120.14463",
       "tag": "144",
+      "title": "Hwy 89 at Chase",
       "lat": "39.16186"
     },
     "145": {
@@ -1037,10 +1051,10 @@
           "Tahoma to Tahoe City": true
         }
       },
-      "lon": "-120.15378",
-      "title": "Granlibakken Resort",
       "stopId": "0145",
+      "lon": "-120.15378",
       "tag": "145",
+      "title": "Granlibakken Resort",
       "lat": "39.1562299",
       "scheduleRoutes": {
         "WSN": {
@@ -1071,10 +1085,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.14377",
-      "title": "Hwy 89 at Bank of the West",
       "stopId": "0200",
+      "lon": "-120.14377",
       "tag": "200",
+      "title": "Hwy 89 at Bank of the West",
       "lat": "39.16528"
     },
     "201": {
@@ -1087,35 +1101,24 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.1441",
-      "title": "Hwy 28 at Swigard's Hardware (Bus Shelter)",
       "stopId": "0201",
+      "lon": "-120.1441",
       "tag": "201",
+      "title": "Hwy 28 at Swigard's Hardware (Bus Shelter)",
       "lat": "39.1684599",
       "scheduleRoutes": {
         "CB": {
           "Squaw Valley to Crystal Bay": {
             "allwk": [
+              "01:33:00",
               "19:33:00",
-              "20:33:00"
+              "20:33:00",
+              "21:33:00"
             ]
           }
         },
         "ML": {
-          "Tahoe City to Crystal Bay": {
-            "allwk": [
-              "08:03:00",
-              "09:03:00",
-              "10:03:00",
-              "11:03:00",
-              "12:03:00",
-              "13:03:00",
-              "14:03:00",
-              "15:03:00",
-              "16:03:00",
-              "17:03:00"
-            ]
-          },
+          "Tahoe City to Crystal Bay": {},
           "Tahoe City to Incline": {
             "allwk": [
               "06:03:00",
@@ -1151,17 +1154,19 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.1387",
-      "title": "Hwy 28 at Olympic Bike",
       "stopId": "0202",
+      "lon": "-120.1387",
       "tag": "202",
+      "title": "Hwy 28 at Olympic Bike",
       "lat": "39.1727599",
       "scheduleRoutes": {
         "CB": {
           "Squaw Valley to Crystal Bay": {
             "allwk": [
+              "01:35:00",
               "19:35:00",
-              "20:35:00"
+              "20:35:00",
+              "21:35:00"
             ]
           }
         }
@@ -1177,17 +1182,19 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.13704",
-      "title": "Hwy 28  at Lighthouse Center (McDonald's Tahoe City)",
       "stopId": "0203",
+      "lon": "-120.13704",
       "tag": "203",
+      "title": "Hwy 28  at Lighthouse Center (McDonald's Tahoe City)",
       "lat": "39.1745599",
       "scheduleRoutes": {
         "CB": {
           "Squaw Valley to Crystal Bay": {
             "allwk": [
+              "01:37:00",
               "19:37:00",
-              "20:37:00"
+              "20:37:00",
+              "21:37:00"
             ]
           }
         }
@@ -1203,10 +1210,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.12864",
-      "title": "Hwy 28 Across from Rocky Ridge Rd",
       "stopId": "0204",
+      "lon": "-120.12864",
       "tag": "204",
+      "title": "Hwy 28 Across from Rocky Ridge Rd",
       "lat": "39.18157"
     },
     "205": {
@@ -1219,10 +1226,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.1238199",
-      "title": "Hwy 28 at Star Harbor Ct",
       "stopId": "0205",
+      "lon": "-120.1238199",
       "tag": "205",
+      "title": "Hwy 28 at Star Harbor Ct",
       "lat": "39.18371"
     },
     "206": {
@@ -1235,35 +1242,25 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.12147",
-      "title": "Hwy 28 at Lake Forest Rd (West End)",
       "stopId": "0206",
+      "lon": "-120.12147",
       "tag": "206",
+      "title": "Hwy 28 at Lake Forest Rd (West End)",
       "lat": "39.1851499",
       "scheduleRoutes": {
         "CB": {
           "Squaw Valley to Crystal Bay": {
             "allwk": [
+              "01:40:00",
               "19:40:00",
-              "20:40:00"
+              "20:40:00",
+              "21:40:00"
             ]
           }
         },
         "ML": {
-          "Tahoe City to Crystal Bay": {
-            "allwk": [
-              "08:09:00",
-              "09:09:00",
-              "10:09:00",
-              "11:09:00",
-              "12:09:00",
-              "13:09:00",
-              "14:09:00",
-              "15:09:00",
-              "16:09:00",
-              "17:09:00"
-            ]
-          },
+          "Lake Forest to Crystal Bay": {},
+          "Tahoe City to Crystal Bay": {},
           "Tahoe City to Incline": {
             "allwk": [
               "06:09:00",
@@ -1299,10 +1296,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.11766",
-      "title": "Hwy 28 Across from Burton Creek",
       "stopId": "0207",
+      "lon": "-120.11766",
       "tag": "207",
+      "title": "Hwy 28 Across from Burton Creek",
       "lat": "39.1880799"
     },
     "208": {
@@ -1315,27 +1312,15 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.11363",
-      "title": "Hwy 28 at Lake Forest Rd (East End)",
       "stopId": "0208",
+      "lon": "-120.11363",
       "tag": "208",
+      "title": "Hwy 28 at Lake Forest Rd (East End)",
       "lat": "39.18968",
       "scheduleRoutes": {
         "ML": {
-          "Tahoe City to Crystal Bay": {
-            "allwk": [
-              "08:11:00",
-              "09:11:00",
-              "10:11:00",
-              "11:11:00",
-              "12:11:00",
-              "13:11:00",
-              "14:11:00",
-              "15:11:00",
-              "16:11:00",
-              "17:11:00"
-            ]
-          },
+          "Lake Forest to Crystal Bay": {},
+          "Tahoe City to Crystal Bay": {},
           "Tahoe City to Incline": {
             "allwk": [
               "06:11:00",
@@ -1371,10 +1356,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.1095799",
-      "title": "Hwy 28 Across from Dollar Hill II",
       "stopId": "0209",
+      "lon": "-120.1095799",
       "tag": "209",
+      "title": "Hwy 28 Across from Dollar Hill II",
       "lat": "39.19001"
     },
     "210": {
@@ -1387,10 +1372,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.1049099",
-      "title": "Hwy 28 at Dollar Hill 7-11 Store (Shelter)",
       "stopId": "0210",
+      "lon": "-120.1049099",
       "tag": "210",
+      "title": "Hwy 28 at Dollar Hill 7-11 Store (Shelter)",
       "lat": "39.1921"
     },
     "211": {
@@ -1403,10 +1388,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.09916",
-      "title": "Hwy 28 at Chinquapin Condos",
       "stopId": "0211",
+      "lon": "-120.09916",
       "tag": "211",
+      "title": "Hwy 28 at Chinquapin Condos",
       "lat": "39.19741"
     },
     "212": {
@@ -1419,35 +1404,25 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.09379",
-      "title": "Hwy 28 Across from Lardin Way",
       "stopId": "0212",
+      "lon": "-120.09379",
       "tag": "212",
+      "title": "Hwy 28 Across from Lardin Way",
       "lat": "39.2072299",
       "scheduleRoutes": {
         "CB": {
           "Squaw Valley to Crystal Bay": {
             "allwk": [
+              "01:42:00",
               "19:42:00",
-              "20:42:00"
+              "20:42:00",
+              "21:42:00"
             ]
           }
         },
         "ML": {
-          "Tahoe City to Crystal Bay": {
-            "allwk": [
-              "08:12:00",
-              "09:12:00",
-              "10:12:00",
-              "11:12:00",
-              "12:12:00",
-              "13:12:00",
-              "14:12:00",
-              "15:12:00",
-              "16:12:00",
-              "17:12:00"
-            ]
-          },
+          "Lake Forest to Crystal Bay": {},
+          "Tahoe City to Crystal Bay": {},
           "Tahoe City to Incline": {
             "allwk": [
               "06:12:00",
@@ -1483,10 +1458,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.08822",
-      "title": "Hwy 28 Across from Ridgewood Rd",
       "stopId": "0213",
+      "lon": "-120.08822",
       "tag": "213",
+      "title": "Hwy 28 Across from Ridgewood Rd",
       "lat": "39.21421"
     },
     "214": {
@@ -1499,35 +1474,25 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.08298",
-      "title": "Hwy 28 at Gar Woods East Parking Lot",
       "stopId": "0214",
+      "lon": "-120.08298",
       "tag": "214",
+      "title": "Hwy 28 at Gar Woods East Parking Lot",
       "lat": "39.2260199",
       "scheduleRoutes": {
         "CB": {
           "Squaw Valley to Crystal Bay": {
             "allwk": [
+              "01:48:00",
               "19:48:00",
-              "20:48:00"
+              "20:48:00",
+              "21:48:00"
             ]
           }
         },
         "ML": {
-          "Tahoe City to Crystal Bay": {
-            "allwk": [
-              "08:14:00",
-              "09:14:00",
-              "10:14:00",
-              "11:14:00",
-              "12:14:00",
-              "13:14:00",
-              "14:14:00",
-              "15:14:00",
-              "16:14:00",
-              "17:14:00"
-            ]
-          },
+          "Lake Forest to Crystal Bay": {},
+          "Tahoe City to Crystal Bay": {},
           "Tahoe City to Incline": {
             "allwk": [
               "06:14:00",
@@ -1563,10 +1528,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.0804899",
-      "title": "Hwy 28 at Sierra Boat Co",
       "stopId": "0215",
+      "lon": "-120.0804899",
       "tag": "215",
+      "title": "Hwy 28 at Sierra Boat Co",
       "lat": "39.22674"
     },
     "216": {
@@ -1579,10 +1544,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.07827",
-      "title": "Hwy 28 Across from Placer Welfare",
       "stopId": "0216",
+      "lon": "-120.07827",
       "tag": "216",
+      "title": "Hwy 28 Across from Placer Welfare",
       "lat": "39.22674"
     },
     "217": {
@@ -1595,10 +1560,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.07018",
-      "title": "Hwy 28 at Agate Sun Club Pier",
       "stopId": "0217",
+      "lon": "-120.07018",
       "tag": "217",
+      "title": "Hwy 28 at Agate Sun Club Pier",
       "lat": "39.23268"
     },
     "218": {
@@ -1611,35 +1576,25 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.06254",
-      "title": "Hwy 28 at Stag Dr - Lakeside",
       "stopId": "0218",
+      "lon": "-120.06254",
       "tag": "218",
+      "title": "Hwy 28 at Stag Dr - Lakeside",
       "lat": "39.2372599",
       "scheduleRoutes": {
         "CB": {
           "Squaw Valley to Crystal Bay": {
             "allwk": [
+              "01:53:00",
               "19:53:00",
-              "20:53:00"
+              "20:53:00",
+              "21:53:00"
             ]
           }
         },
         "ML": {
-          "Tahoe City to Crystal Bay": {
-            "allwk": [
-              "08:16:00",
-              "09:16:00",
-              "10:16:00",
-              "11:16:00",
-              "12:16:00",
-              "13:16:00",
-              "14:16:00",
-              "15:16:00",
-              "16:16:00",
-              "17:16:00"
-            ]
-          },
+          "Lake Forest to Crystal Bay": {},
+          "Tahoe City to Crystal Bay": {},
           "Tahoe City to Incline": {
             "allwk": [
               "06:16:00",
@@ -1675,10 +1630,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.0565199",
-      "title": "Hwy 28 at The Sands",
       "stopId": "0219",
+      "lon": "-120.0565199",
       "tag": "219",
+      "title": "Hwy 28 at The Sands",
       "lat": "39.2406799"
     },
     "220": {
@@ -1691,10 +1646,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.0522099",
-      "title": "Hwy 28 at Sandy Beach",
       "stopId": "0220",
+      "lon": "-120.0522099",
       "tag": "220",
+      "title": "Hwy 28 at Sandy Beach",
       "lat": "39.24004"
     },
     "221": {
@@ -1707,10 +1662,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.0481599",
-      "title": "Hwy 28 at National Ave (Lakeside)",
       "stopId": "0221",
+      "lon": "-120.0481599",
       "tag": "221",
+      "title": "Hwy 28 at National Ave (Lakeside)",
       "lat": "39.23944"
     },
     "222": {
@@ -1723,10 +1678,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.04325",
-      "title": "Hwy 28 at Pino Grande Ave (Lakeside)",
       "stopId": "0222",
+      "lon": "-120.04325",
       "tag": "222",
+      "title": "Hwy 28 at Pino Grande Ave (Lakeside)",
       "lat": "39.2382"
     },
     "223": {
@@ -1739,10 +1694,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.0333499",
-      "title": "Hwy 28 Across from KB Safeway Store",
       "stopId": "0223",
+      "lon": "-120.0333499",
       "tag": "223",
+      "title": "Hwy 28 Across from KB Safeway Store",
       "lat": "39.23804"
     },
     "224": {
@@ -1761,17 +1716,19 @@
           "Northstar to Crystal Bay": true
         }
       },
-      "lon": "-120.02959",
-      "title": "Hwy 28 at Secline St",
       "stopId": "0224",
+      "lon": "-120.02959",
       "tag": "224",
+      "title": "Hwy 28 at Secline St",
       "lat": "39.2375899",
       "scheduleRoutes": {
         "CB": {
           "Squaw Valley to Crystal Bay": {
             "allwk": [
+              "01:57:00",
               "19:57:00",
-              "20:57:00"
+              "20:57:00",
+              "21:57:00"
             ]
           }
         },
@@ -1793,20 +1750,8 @@
           }
         },
         "ML": {
-          "Tahoe City to Crystal Bay": {
-            "allwk": [
-              "08:22:00",
-              "09:22:00",
-              "10:22:00",
-              "11:22:00",
-              "12:22:00",
-              "13:22:00",
-              "14:22:00",
-              "15:22:00",
-              "16:22:00",
-              "17:22:00"
-            ]
-          },
+          "Lake Forest to Crystal Bay": {},
+          "Tahoe City to Crystal Bay": {},
           "Tahoe City to Incline": {
             "allwk": [
               "06:22:00",
@@ -1848,10 +1793,10 @@
           "Northstar to Crystal Bay": true
         }
       },
-      "lon": "-120.02658",
-      "title": "Hwy 28 at KB State Beach",
       "stopId": "0225",
+      "lon": "-120.02658",
       "tag": "225",
+      "title": "Hwy 28 at KB State Beach",
       "lat": "39.23738"
     },
     "226": {
@@ -1870,21 +1815,12 @@
           "Northstar to Crystal Bay": true
         }
       },
-      "lon": "-120.0236399",
-      "title": "Hwy 28 at Coon St (Lakeside)",
       "stopId": "0226",
+      "lon": "-120.0236399",
       "tag": "226",
+      "title": "Hwy 28 at Coon St (Lakeside)",
       "lat": "39.23627",
       "scheduleRoutes": {
-        "NSPM": {
-          "Northstar to Crystal Bay": {
-            "allwk": [
-              "18:55:00",
-              "19:55:00",
-              "20:55:00"
-            ]
-          }
-        },
         "Hwy267": {
           "Truckee Depot to Crystal Bay": {
             "allwk": [
@@ -1899,6 +1835,15 @@
               "15:46:00",
               "16:46:00",
               "17:46:00"
+            ]
+          }
+        },
+        "NSPM": {
+          "Northstar to Crystal Bay": {
+            "allwk": [
+              "18:55:00",
+              "19:55:00",
+              "20:55:00"
             ]
           }
         }
@@ -1920,10 +1865,10 @@
           "Northstar to Crystal Bay": true
         }
       },
-      "lon": "-120.0206499",
-      "title": "Hwy 28 at Fox St (Lakeside)",
       "stopId": "0227",
+      "lon": "-120.0206499",
       "tag": "227",
+      "title": "Hwy 28 at Fox St (Lakeside)",
       "lat": "39.23537"
     },
     "228": {
@@ -1942,10 +1887,10 @@
           "Northstar to Crystal Bay": true
         }
       },
-      "lon": "-120.0166699",
-      "title": "Hwy 28 Across from Chipmunk St",
       "stopId": "0228",
+      "lon": "-120.0166699",
       "tag": "228",
+      "title": "Hwy 28 Across from Chipmunk St",
       "lat": "39.2338699"
     },
     "229": {
@@ -1957,6 +1902,7 @@
           "Crystal Bay to Truckee Depot": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         },
@@ -1964,10 +1910,10 @@
           "Crystal Bay to Northstar": true
         }
       },
-      "lon": "-120.0165",
-      "title": "Hwy 28 at Chipmunk St",
       "stopId": "0229",
+      "lon": "-120.0165",
       "tag": "229",
+      "title": "Hwy 28 at Chipmunk St",
       "lat": "39.2340299"
     },
     "230": {
@@ -1979,6 +1925,7 @@
           "Crystal Bay to Truckee Depot": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         },
@@ -1986,26 +1933,19 @@
           "Crystal Bay to Northstar": true
         }
       },
-      "lon": "-120.02038",
-      "title": "Hwy 28 at Fox St",
       "stopId": "0230",
+      "lon": "-120.02038",
       "tag": "230",
+      "title": "Hwy 28 at Fox St",
       "lat": "39.2354799",
       "scheduleRoutes": {
-        "NSPM": {
-          "Crystal Bay to Northstar": {
-            "allwk": [
-              "19:05:00",
-              "20:05:00",
-              "21:05:00"
-            ]
-          }
-        },
         "CB": {
           "Crystal Bay to Squaw Valley": {
             "allwk": [
+              "00:03:00",
               "19:03:00",
-              "20:03:00"
+              "20:03:00",
+              "21:03:00"
             ]
           }
         },
@@ -2013,16 +1953,8 @@
           "Crystal Bay to Tahoe City": {
             "allwk": [
               "06:03:00",
-              "08:33:00",
-              "09:33:00",
-              "10:33:00",
-              "11:33:00",
-              "12:33:00",
-              "13:33:00",
-              "14:33:00",
-              "15:33:00",
-              "16:33:00",
-              "17:33:00"
+              "07:03:00",
+              "07:33:00"
             ]
           },
           "Incline to Tahoe City": {
@@ -2046,6 +1978,15 @@
               "17:03:00"
             ]
           }
+        },
+        "NSPM": {
+          "Crystal Bay to Northstar": {
+            "allwk": [
+              "19:05:00",
+              "20:05:00",
+              "21:05:00"
+            ]
+          }
         }
       }
     },
@@ -2058,6 +1999,7 @@
           "Crystal Bay to Truckee Depot": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         },
@@ -2065,10 +2007,10 @@
           "Crystal Bay to Northstar": true
         }
       },
-      "lon": "-120.02288",
-      "title": "Hwy 28 at Coon St (7-11)",
       "stopId": "0231",
+      "lon": "-120.02288",
       "tag": "231",
+      "title": "Hwy 28 at Raccoon St (7-11)",
       "lat": "39.2361999",
       "scheduleRoutes": {
         "Hwy267": {
@@ -2099,6 +2041,7 @@
           "Crystal Bay to Truckee Depot": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         },
@@ -2106,10 +2049,10 @@
           "Crystal Bay to Northstar": true
         }
       },
-      "lon": "-120.02565",
-      "title": "Hwy 28 Before Deer St (Chevron Station)",
       "stopId": "0232",
+      "lon": "-120.02565",
       "tag": "232",
+      "title": "Hwy 28 Before Deer St (Chevron Station)",
       "lat": "39.2373099"
     },
     "233": {
@@ -2121,6 +2064,7 @@
           "Crystal Bay to Truckee Depot": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         },
@@ -2128,10 +2072,10 @@
           "Crystal Bay to Northstar": true
         }
       },
-      "lon": "-120.02772",
-      "title": "Hwy 28 at Deer St WB",
       "stopId": "0233",
+      "lon": "-120.02772",
       "tag": "233",
+      "title": "Hwy 28 at Deer St WB",
       "lat": "39.2376199"
     },
     "234": {
@@ -2143,6 +2087,7 @@
           "Crystal Bay to Truckee Depot": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         },
@@ -2150,10 +2095,10 @@
           "Crystal Bay to Northstar": true
         }
       },
-      "lon": "-120.02973",
-      "title": "Hwy 28 at Secline St",
       "stopId": "0234",
+      "lon": "-120.02973",
       "tag": "234",
+      "title": "Hwy 28 at Secline St",
       "lat": "39.2377999",
       "scheduleRoutes": {
         "Hwy267": {
@@ -2181,14 +2126,15 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.03417",
-      "title": "Hwy 28 at KB Safeway Store",
       "stopId": "0235",
+      "lon": "-120.03417",
       "tag": "235",
+      "title": "Hwy 28 at KB Safeway Store",
       "lat": "39.2383099"
     },
     "236": {
@@ -2197,21 +2143,24 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.04227",
-      "title": "Hwy 28 at Pino Grande Ave",
       "stopId": "0236",
+      "lon": "-120.04227",
       "tag": "236",
+      "title": "Hwy 28 at Pino Grande Ave",
       "lat": "39.2386399",
       "scheduleRoutes": {
         "CB": {
           "Crystal Bay to Squaw Valley": {
             "allwk": [
+              "00:07:00",
               "19:07:00",
-              "20:07:00"
+              "20:07:00",
+              "21:07:00"
             ]
           }
         },
@@ -2219,16 +2168,8 @@
           "Crystal Bay to Tahoe City": {
             "allwk": [
               "06:09:00",
-              "08:39:00",
-              "09:39:00",
-              "10:39:00",
-              "11:39:00",
-              "12:39:00",
-              "13:39:00",
-              "14:39:00",
-              "15:39:00",
-              "16:39:00",
-              "17:39:00"
+              "07:09:00",
+              "07:39:00"
             ]
           },
           "Incline to Tahoe City": {
@@ -2251,10 +2192,10 @@
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.0489999",
-      "title": "Hwy 28 at National Ave",
       "stopId": "0237",
+      "lon": "-120.0489999",
       "tag": "237",
+      "title": "Hwy 28 at National Ave",
       "lat": "39.2397599"
     },
     "238": {
@@ -2263,14 +2204,15 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.05316",
-      "title": "Hwy 28 at Anderson St",
       "stopId": "0238",
+      "lon": "-120.05316",
       "tag": "238",
+      "title": "Hwy 28 at Anderson St",
       "lat": "39.24039"
     },
     "239": {
@@ -2279,14 +2221,15 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.0582499",
-      "title": "Hwy 28 at End of 4 Lanes (Sands Motel)",
       "stopId": "0239",
+      "lon": "-120.0582499",
       "tag": "239",
+      "title": "Hwy 28 at End of 4 Lanes (Sands Motel)",
       "lat": "39.2404699"
     },
     "240": {
@@ -2295,14 +2238,15 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.06264",
-      "title": "Hwy 28 at Stag Dr",
       "stopId": "0240",
+      "lon": "-120.06264",
       "tag": "240",
+      "title": "Hwy 28 at Stag Dr",
       "lat": "39.2374299"
     },
     "241": {
@@ -2311,14 +2255,15 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.0704499",
-      "title": "Hwy 28 at Agate Rd",
       "stopId": "0241",
+      "lon": "-120.0704499",
       "tag": "241",
+      "title": "Hwy 28 at Agate Rd",
       "lat": "39.23549"
     },
     "242": {
@@ -2327,21 +2272,24 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.07074",
-      "title": "Hwy 28 at Sahara Dr",
       "stopId": "0242",
+      "lon": "-120.07074",
       "tag": "242",
+      "title": "Hwy 28 at Sahara Dr",
       "lat": "39.2289499",
       "scheduleRoutes": {
         "CB": {
           "Crystal Bay to Squaw Valley": {
             "allwk": [
+              "00:12:00",
               "19:12:00",
-              "20:12:00"
+              "20:12:00",
+              "21:12:00"
             ]
           }
         },
@@ -2349,16 +2297,8 @@
           "Crystal Bay to Tahoe City": {
             "allwk": [
               "06:13:00",
-              "08:43:00",
-              "09:43:00",
-              "10:43:00",
-              "11:43:00",
-              "12:43:00",
-              "13:43:00",
-              "14:43:00",
-              "15:43:00",
-              "16:43:00",
-              "17:43:00"
+              "07:13:00",
+              "07:43:00"
             ]
           },
           "Incline to Tahoe City": {
@@ -2391,14 +2331,15 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.07812",
-      "title": "Hwy 28 at Old P.O. Coffee Shop",
       "stopId": "0243",
+      "lon": "-120.07812",
       "tag": "243",
+      "title": "Hwy 28 at Old P.O. Coffee Shop",
       "lat": "39.2269099"
     },
     "244": {
@@ -2407,14 +2348,15 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.0814",
-      "title": "Hwy 28 at 7-11 Carnelian Bay (Shelter)",
       "stopId": "0244",
+      "lon": "-120.0814",
       "tag": "244",
+      "title": "Hwy 28 at 7-11 Carnelian Bay (Shelter)",
       "lat": "39.2268599"
     },
     "245": {
@@ -2423,14 +2365,15 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.0839599",
-      "title": "Hwy 28 at Center St",
       "stopId": "0245",
+      "lon": "-120.0839599",
       "tag": "245",
+      "title": "Hwy 28 at Center St",
       "lat": "39.22569"
     },
     "246": {
@@ -2439,30 +2382,23 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.0883299",
-      "title": "Hwy 28 at Ridgewood Rd",
       "stopId": "0246",
+      "lon": "-120.0883299",
       "tag": "246",
+      "title": "Hwy 28 at Ridgewood Rd",
       "lat": "39.2150799",
       "scheduleRoutes": {
         "ML": {
           "Crystal Bay to Tahoe City": {
             "allwk": [
               "06:15:00",
-              "08:45:00",
-              "09:45:00",
-              "10:45:00",
-              "11:45:00",
-              "12:45:00",
-              "13:45:00",
-              "14:45:00",
-              "15:45:00",
-              "16:45:00",
-              "17:45:00"
+              "07:15:00",
+              "07:45:00"
             ]
           },
           "Incline to Tahoe City": {
@@ -2495,14 +2431,15 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.0936899",
-      "title": "Hwy 28 at Lardin Way",
       "stopId": "0247",
+      "lon": "-120.0936899",
       "tag": "247",
+      "title": "Hwy 28 at Lardin Way",
       "lat": "39.2075499"
     },
     "248": {
@@ -2511,14 +2448,15 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.09832",
-      "title": "Hwy 28 at Old County Rd",
       "stopId": "0248",
+      "lon": "-120.09832",
       "tag": "248",
+      "title": "Hwy 28 at Old County Rd",
       "lat": "39.1983399"
     },
     "249": {
@@ -2527,15 +2465,16 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.1055599",
-      "title": "Hwy 28 at Dollar Dr",
       "stopId": "0249",
+      "lon": "-120.1050399",
       "tag": "249",
-      "lat": "39.19171"
+      "title": "Hwy 28 at Dollar Dr",
+      "lat": "39.1923299"
     },
     "250": {
       "routes": {
@@ -2543,21 +2482,24 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.10989",
-      "title": "Hwy 28 at Dollar Hill II",
       "stopId": "0250",
+      "lon": "-120.10989",
       "tag": "250",
+      "title": "Hwy 28 at Dollar Hill II",
       "lat": "39.1901799",
       "scheduleRoutes": {
         "CB": {
           "Crystal Bay to Squaw Valley": {
             "allwk": [
+              "00:18:00",
               "19:18:00",
-              "20:18:00"
+              "20:18:00",
+              "21:18:00"
             ]
           }
         },
@@ -2565,16 +2507,8 @@
           "Crystal Bay to Tahoe City": {
             "allwk": [
               "06:20:00",
-              "08:50:00",
-              "09:50:00",
-              "10:50:00",
-              "11:50:00",
-              "12:50:00",
-              "13:50:00",
-              "14:50:00",
-              "15:50:00",
-              "16:50:00",
-              "17:50:00"
+              "07:20:00",
+              "07:50:00"
             ]
           },
           "Incline to Tahoe City": {
@@ -2607,14 +2541,15 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.1130799",
-      "title": "Hwy 28 at Old Mill Rd",
       "stopId": "0251",
+      "lon": "-120.1130799",
       "tag": "251",
+      "title": "Hwy 28 at Old Mill Rd",
       "lat": "39.1899799"
     },
     "252": {
@@ -2623,21 +2558,24 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.11839",
-      "title": "Hwy 28 at Burton Creek",
       "stopId": "0252",
+      "lon": "-120.11839",
       "tag": "252",
+      "title": "Hwy 28 at Burton Creek",
       "lat": "39.1879599",
       "scheduleRoutes": {
         "CB": {
           "Crystal Bay to Squaw Valley": {
             "allwk": [
+              "00:20:00",
               "19:20:00",
-              "20:20:00"
+              "20:20:00",
+              "21:20:00"
             ]
           }
         },
@@ -2645,16 +2583,8 @@
           "Crystal Bay to Tahoe City": {
             "allwk": [
               "06:23:00",
-              "08:53:00",
-              "09:53:00",
-              "10:53:00",
-              "11:53:00",
-              "12:53:00",
-              "13:53:00",
-              "14:53:00",
-              "15:53:00",
-              "16:53:00",
-              "17:53:00"
+              "07:23:00",
+              "07:53:00"
             ]
           },
           "Incline to Tahoe City": {
@@ -2687,14 +2617,15 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.1239599",
-      "title": "Hwy 28 at Tamarack Lodge",
       "stopId": "0253",
+      "lon": "-120.1239599",
       "tag": "253",
+      "title": "Hwy 28 at Tamarack Lodge",
       "lat": "39.18386"
     },
     "254": {
@@ -2703,14 +2634,15 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.12849",
-      "title": "Hwy 28 at Rocky Ridge Rd",
       "stopId": "0254",
+      "lon": "-120.12849",
       "tag": "254",
+      "title": "Hwy 28 at Rocky Ridge Rd",
       "lat": "39.1819299"
     },
     "255": {
@@ -2719,14 +2651,15 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.1333499",
-      "title": "Hwy 28 at Attorneys Office",
       "stopId": "0255",
+      "lon": "-120.1333499",
       "tag": "255",
+      "title": "Hwy 28 at Attorneys Office",
       "lat": "39.1772499"
     },
     "256": {
@@ -2735,21 +2668,24 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.13722",
-      "title": "Hwy 28 at Basecamp",
       "stopId": "0256",
+      "lon": "-120.13722",
       "tag": "256",
+      "title": "Hwy 28 at Basecamp",
       "lat": "39.1746699",
       "scheduleRoutes": {
         "CB": {
           "Crystal Bay to Squaw Valley": {
             "allwk": [
+              "00:23:00",
               "19:23:00",
-              "20:23:00"
+              "20:23:00",
+              "21:23:00"
             ]
           }
         }
@@ -2761,14 +2697,15 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.1399099",
-      "title": "Hwy 28 at Grove St (Pharmacy)",
       "stopId": "0257",
+      "lon": "-120.1399099",
       "tag": "257",
+      "title": "Hwy 28 at Grove St (Pharmacy)",
       "lat": "39.1719399"
     },
     "258": {
@@ -2777,30 +2714,23 @@
           "Crystal Bay to Squaw Valley": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         }
       },
-      "lon": "-120.1442599",
-      "title": "Hwy 28 at Tahoe City WYE",
       "stopId": "0258",
+      "lon": "-120.1442599",
       "tag": "258",
+      "title": "Hwy 28 at Tahoe City WYE",
       "lat": "39.1685899",
       "scheduleRoutes": {
         "ML": {
           "Crystal Bay to Tahoe City": {
             "allwk": [
               "06:28:00",
-              "08:58:00",
-              "09:58:00",
-              "10:58:00",
-              "11:58:00",
-              "12:58:00",
-              "13:58:00",
-              "14:58:00",
-              "15:58:00",
-              "16:58:00",
-              "17:58:00"
+              "07:28:00",
+              "07:58:00"
             ]
           },
           "Incline to Tahoe City": {
@@ -2834,10 +2764,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.00503",
-      "title": "HWY 28 Crystal Bay Club (Shelter) - Depart",
       "stopId": "0300",
+      "lon": "-120.00503",
       "tag": "300",
+      "title": "HWY 28 Crystal Bay Club (Shelter) - Depart",
       "lat": "39.2275499",
       "scheduleRoutes": {
         "ML": {
@@ -2873,10 +2803,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.00061",
-      "title": "Hwy 28 at Gonowabie Rd",
       "stopId": "0301",
+      "lon": "-120.00061",
       "tag": "301",
+      "title": "Hwy 28 at Gonowabie Rd",
       "lat": "39.24006"
     },
     "302": {
@@ -2886,10 +2816,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-119.99268",
-      "title": "Hwy 28 at Crystal Bay Cove Condos",
       "stopId": "0302",
+      "lon": "-119.99268",
       "tag": "302",
+      "title": "Hwy 28 at Crystal Bay Cove Condos",
       "lat": "39.24944"
     },
     "303": {
@@ -2899,10 +2829,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-119.9823899",
-      "title": "Hwy 28 at Lakeshore Dr (Westside)",
       "stopId": "0303",
+      "lon": "-119.9823899",
       "tag": "303",
+      "title": "Hwy 28 at Lakeshore Dr (Westside)",
       "lat": "39.24983"
     },
     "304": {
@@ -2912,10 +2842,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-119.9785299",
-      "title": "Hwy 28 at Hwy 431 By Guardrail",
       "stopId": "0304",
+      "lon": "-119.9785299",
       "tag": "304",
+      "title": "Hwy 28 at Hwy 431 By Guardrail",
       "lat": "39.25045"
     },
     "305": {
@@ -2925,10 +2855,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-119.9680399",
-      "title": "Hwy 28 Across from Winding Way",
       "stopId": "0305",
+      "lon": "-119.9680399",
       "tag": "305",
+      "title": "Hwy 28 Across from Winding Way",
       "lat": "39.2508099"
     },
     "306": {
@@ -2938,10 +2868,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-119.96324",
-      "title": "Hwy 28 at Toepa",
       "stopId": "0306",
+      "lon": "-119.96324",
       "tag": "306",
+      "title": "Hwy 28 at Toepa",
       "lat": "39.2503899",
       "scheduleRoutes": {
         "ML": {
@@ -2977,10 +2907,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-119.95371",
-      "title": "Hwy 28 at Incline Cleaners",
       "stopId": "0307",
+      "lon": "-119.95371",
       "tag": "307",
+      "title": "Hwy 28 at Incline Cleaners",
       "lat": "39.2496099",
       "scheduleRoutes": {
         "ML": {
@@ -3016,10 +2946,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-119.9499699",
-      "title": "Hwy 28 at US Bank",
       "stopId": "0308",
+      "lon": "-119.9499699",
       "tag": "308",
+      "title": "Hwy 28 at US Bank",
       "lat": "39.24949"
     },
     "309": {
@@ -3027,13 +2957,14 @@
         "ML": {
           "Tahoma to Incline": true,
           "Incline to Tahoma": true,
-          "Tahoe City to Incline": true
+          "Tahoe City to Incline": true,
+          "Incline to Tahoe City": true
         }
       },
-      "lon": "-119.94674",
-      "title": "Incline Skate Park at Hwy 28",
       "stopId": "0309",
+      "lon": "-119.9467399",
       "tag": "309",
+      "title": "Incline Skate Park at Hwy 28",
       "lat": "39.2488999",
       "scheduleRoutes": {
         "ML": {
@@ -3067,13 +2998,14 @@
         "ML": {
           "Tahoma to Incline": true,
           "Incline to Tahoma": true,
-          "Tahoe City to Incline": true
+          "Tahoe City to Incline": true,
+          "Incline to Tahoe City": true
         }
       },
-      "lon": "-119.9487",
-      "title": "Southwood at Bowl Incline",
       "stopId": "0310",
+      "lon": "-119.9487",
       "tag": "310",
+      "title": "Southwood at Bowl Incline",
       "lat": "39.2468699",
       "scheduleRoutes": {
         "ML": {
@@ -3104,14 +3036,15 @@
         "ML": {
           "Tahoma to Incline": true,
           "Incline to Tahoma": true,
-          "Tahoe City to Incline": true
+          "Tahoe City to Incline": true,
+          "Incline to Tahoe City": true
         }
       },
-      "lon": "-119.9497199",
-      "title": "Village Blvd at Juanita Rd",
       "stopId": "0311",
+      "lon": "-119.9497199",
       "tag": "311",
-      "lat": "39.2442999"
+      "title": "Village Blvd at Juanita Rd",
+      "lat": "39.24431"
     },
     "312": {
       "routes": {
@@ -3120,27 +3053,34 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-119.9472399",
-      "title": "Lakeshore Dr at Incline Beach",
       "stopId": "0312",
+      "lon": "-119.9472399",
       "tag": "312",
+      "title": "Lakeshore Dr at Incline Beach",
       "lat": "39.24031"
     },
     "313": {
       "routes": {
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Incline to Crystal Bay": true
         }
       },
-      "lon": "-119.94373",
-      "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Depart",
       "stopId": "0313",
+      "lon": "-119.94373",
       "tag": "313",
+      "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Depart",
       "lat": "39.2393299",
       "scheduleRoutes": {
         "ML": {
-          "Incline to Crystal Bay": {},
+          "Incline to Crystal Bay": {
+            "allwk": [
+              "05:42:00",
+              "07:12:00",
+              "19:12:00"
+            ]
+          },
           "Incline to Tahoe City": {
             "allwk": [
               "06:42:00",
@@ -3168,13 +3108,14 @@
     "314": {
       "routes": {
         "ML": {
-          "Incline to Tahoma": true
+          "Incline to Tahoma": true,
+          "Incline to Tahoe City": true
         }
       },
-      "lon": "-119.92888",
-      "title": "Tunnel Creek Bonanza (Depart)",
       "stopId": "0314",
+      "lon": "-119.92888",
       "tag": "314",
+      "title": "Tunnel Creek Bonanza (Depart)",
       "lat": "39.2367799",
       "scheduleRoutes": {
         "ML": {
@@ -3203,44 +3144,53 @@
     "315": {
       "routes": {
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Incline to Crystal Bay": true
         }
       },
-      "lon": "-119.9403199",
-      "title": "Country Club Dr at Incline Way",
       "stopId": "0315",
+      "lon": "-119.9403199",
       "tag": "315",
+      "title": "Country Club Dr at Incline Way",
       "lat": "39.24093"
     },
     "316": {
       "routes": {
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Incline to Crystal Bay": true
         }
       },
-      "lon": "-119.9381199",
-      "title": "Country Club Dr at Mill Creek",
       "stopId": "0316",
+      "lon": "-119.9381199",
       "tag": "316",
+      "title": "Country Club Dr at Mill Creek",
       "lat": "39.24248"
     },
     "317": {
       "routes": {
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Incline to Crystal Bay": true
         }
       },
-      "lon": "-119.93918",
-      "title": "Hwy 28 at Country Club By Fairway",
       "stopId": "0317",
+      "lon": "-119.93918",
       "tag": "317",
+      "title": "Hwy 28 at Country Club By Fairway",
       "lat": "39.2463199",
       "scheduleRoutes": {
         "ML": {
-          "Incline to Crystal Bay": {},
+          "Incline to Crystal Bay": {
+            "allwk": [
+              "05:46:00",
+              "07:16:00",
+              "19:16:00"
+            ]
+          },
           "Incline to Tahoe City": {
             "allwk": [
               "06:46:00",
@@ -3268,31 +3218,39 @@
     "318": {
       "routes": {
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Incline to Crystal Bay": true
         }
       },
-      "lon": "-119.9464499",
-      "title": "Hwy 28 at Northwood Blvd",
       "stopId": "0318",
+      "lon": "-119.9464499",
       "tag": "318",
+      "title": "Hwy 28 at Northwood Blvd",
       "lat": "39.2493099"
     },
     "319": {
       "routes": {
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Incline to Crystal Bay": true
         }
       },
-      "lon": "-119.95046",
-      "title": "Hwy 28 at Raley's Shopping Center",
       "stopId": "0319",
+      "lon": "-119.95046",
       "tag": "319",
+      "title": "Hwy 28 at Raley's Shopping Center",
       "lat": "39.2496799",
       "scheduleRoutes": {
         "ML": {
-          "Incline to Crystal Bay": {},
+          "Incline to Crystal Bay": {
+            "allwk": [
+              "05:47:00",
+              "07:17:00",
+              "19:17:00"
+            ]
+          },
           "Incline to Tahoe City": {
             "allwk": [
               "06:47:00",
@@ -3320,92 +3278,99 @@
     "320": {
       "routes": {
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Incline to Crystal Bay": true
         }
       },
-      "lon": "-119.95521",
-      "title": "Hwy 28 at Christmas Tree Village",
       "stopId": "0320",
+      "lon": "-119.95521",
       "tag": "320",
+      "title": "Hwy 28 at Christmas Tree Village",
       "lat": "39.2498899"
     },
     "321": {
       "routes": {
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Incline to Crystal Bay": true
         }
       },
-      "lon": "-119.96238",
-      "title": "Hwy 28 at 76 Gas Station",
       "stopId": "0321",
+      "lon": "-119.96238",
       "tag": "321",
+      "title": "Hwy 28 at 76 Gas Station",
       "lat": "39.2505299"
     },
     "322": {
       "routes": {
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Incline to Crystal Bay": true
         }
       },
-      "lon": "-119.9674199",
-      "title": "Hwy 28 at WInding Way",
       "stopId": "0322",
+      "lon": "-119.9674199",
       "tag": "322",
+      "title": "Hwy 28 at WInding Way",
       "lat": "39.2509499"
     },
     "323": {
       "routes": {
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Incline to Crystal Bay": true
         }
       },
-      "lon": "-119.97646",
-      "title": "Hwy 28 at Ponderosa Ave",
       "stopId": "0323",
+      "lon": "-119.97646",
       "tag": "323",
+      "title": "Hwy 28 at Ponderosa Ave",
       "lat": "39.2510699"
     },
     "324": {
       "routes": {
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Incline to Crystal Bay": true
         }
       },
-      "lon": "-119.98286",
-      "title": "Hwy 28 at Pinion Dr",
       "stopId": "0324",
+      "lon": "-119.98286",
       "tag": "324",
+      "title": "Hwy 28 at Pinion Dr",
       "lat": "39.2498299"
     },
     "325": {
       "routes": {
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Incline to Crystal Bay": true
         }
       },
-      "lon": "-119.9899299",
-      "title": "Hwy 28 at Red Cedar Ln",
       "stopId": "0325",
+      "lon": "-119.9899299",
       "tag": "325",
+      "title": "Hwy 28 at Red Cedar Ln",
       "lat": "39.2495999"
     },
     "326": {
       "routes": {
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Incline to Crystal Bay": true
         }
       },
-      "lon": "-120.0008299",
-      "title": "Hwy 28 at Amagosa Rd",
       "stopId": "0326",
+      "lon": "-120.0008299",
       "tag": "326",
+      "title": "Hwy 28 at Amagosa Rd",
       "lat": "39.2401399"
     },
     "327": {
@@ -3417,6 +3382,7 @@
           "Crystal Bay to Truckee Depot": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true,
           "Crystal Bay to Tahoe City": true
         },
@@ -3424,26 +3390,19 @@
           "Crystal Bay to Northstar": true
         }
       },
-      "lon": "-120.00586",
-      "title": "Hwy 28 at Tahoe Biltmore (Shelter) - Depart",
       "stopId": "0327",
+      "lon": "-120.00586",
       "tag": "327",
+      "title": "Hwy 28 at Tahoe Biltmore (Shelter) - Depart",
       "lat": "39.2273699",
       "scheduleRoutes": {
-        "NSPM": {
-          "Crystal Bay to Northstar": {
-            "allwk": [
-              "19:00:00",
-              "20:00:00",
-              "21:00:00"
-            ]
-          }
-        },
         "CB": {
           "Crystal Bay to Squaw Valley": {
             "allwk": [
+              "00:00:00",
               "19:00:00",
-              "20:00:00"
+              "20:00:00",
+              "21:00:00"
             ]
           }
         },
@@ -3468,16 +3427,8 @@
           "Crystal Bay to Tahoe City": {
             "allwk": [
               "06:00:00",
-              "08:30:00",
-              "09:30:00",
-              "10:30:00",
-              "11:30:00",
-              "12:30:00",
-              "13:30:00",
-              "14:30:00",
-              "15:30:00",
-              "16:30:00",
-              "17:30:00"
+              "07:00:00",
+              "07:30:00"
             ]
           },
           "Incline to Tahoe City": {
@@ -3499,6 +3450,76 @@
               "17:00:00"
             ]
           }
+        },
+        "NSPM": {
+          "Crystal Bay to Northstar": {
+            "allwk": [
+              "19:00:00",
+              "20:00:00",
+              "21:00:00"
+            ]
+          }
+        }
+      }
+    },
+    "400": {
+      "routes": {
+        "Hwy89": {
+          "Tahoe City to Truckee Depot": true,
+          "Truckee Depot to Tahoe City": true
+        }
+      },
+      "stopId": "0400",
+      "lon": "-120.1991",
+      "tag": "400",
+      "title": "Alpine Transport Center",
+      "lat": "39.1876699",
+      "scheduleRoutes": {
+        "Hwy89": {
+          "Squaw Valley to Tahoe City": {
+            "allwk": [
+              "16:46:00",
+              "17:46:00"
+            ]
+          },
+          "Tahoe City to Squaw Valley": {
+            "allwk": [
+              "07:06:00",
+              "17:16:00",
+              "17:36:00",
+              "18:36:00"
+            ]
+          },
+          "Tahoe City to Truckee Depot": {
+            "allwk": [
+              "06:36:00",
+              "07:36:00",
+              "08:36:00",
+              "09:36:00",
+              "10:36:00",
+              "11:36:00",
+              "12:36:00",
+              "13:36:00",
+              "14:36:00",
+              "15:56:00",
+              "16:56:00"
+            ]
+          },
+          "Truckee Depot to Tahoe City": {
+            "allwk": [
+              "08:03:00",
+              "09:03:00",
+              "10:03:00",
+              "11:03:00",
+              "12:03:00",
+              "13:03:00",
+              "14:03:00",
+              "15:03:00",
+              "16:16:00",
+              "17:16:00",
+              "18:16:00"
+            ]
+          }
         }
       }
     },
@@ -3511,17 +3532,19 @@
           "Tahoe City to Truckee Depot": true
         }
       },
-      "lon": "-120.19492",
-      "title": "Hwy 89 at Alpine Meadows Rd (River Ranch)",
       "stopId": "0401",
+      "lon": "-120.19492",
       "tag": "401",
+      "title": "Hwy 89 at Alpine Meadows Rd (River Ranch)",
       "lat": "39.1872699",
       "scheduleRoutes": {
         "CB": {
           "Crystal Bay to Squaw Valley": {
             "allwk": [
+              "00:37:00",
               "19:37:00",
-              "20:37:00"
+              "20:37:00",
+              "21:37:00"
             ]
           }
         }
@@ -3533,40 +3556,34 @@
           "Crystal Bay to Squaw Valley": true
         },
         "Hwy89": {
-          "Truckee Depot to Tahoe City": true,
-          "Tahoe City to Truckee Depot": true
+          "Tahoe City to Truckee Depot": true,
+          "Truckee Depot to Tahoe City": true
         },
         "TSQPM": {
           "Truckee to Squaw Valley": true
         }
       },
-      "lon": "-120.20056",
-      "title": "Squaw Valley Rd at 7-11 Driveway (Shelter)",
       "stopId": "0402",
+      "lon": "-120.20056",
       "tag": "402",
+      "title": "Squaw Valley Rd at 7-11 Driveway (Shelter)",
       "lat": "39.2049699",
       "scheduleRoutes": {
-        "TSQPM": {
-          "Truckee to Squaw Valley": {
-            "allwk": [
-              "18:52:00",
-              "19:52:00",
-              "20:52:00",
-              "21:52:00"
-            ]
-          }
-        },
         "CB": {
           "Crystal Bay to Squaw Valley": {
             "allwk": [
+              "00:40:00",
               "19:40:00",
-              "20:40:00"
+              "20:40:00",
+              "21:40:00"
             ]
           }
         },
         "Hwy89": {
           "Tahoe City to Squaw Valley": {
             "allwk": [
+              "07:09:00",
+              "17:20:00",
               "17:39:00",
               "18:39:00"
             ]
@@ -3601,6 +3618,16 @@
               "17:47:00"
             ]
           }
+        },
+        "TSQPM": {
+          "Truckee to Squaw Valley": {
+            "allwk": [
+              "18:52:00",
+              "19:52:00",
+              "20:52:00",
+              "21:52:00"
+            ]
+          }
         }
       }
     },
@@ -3610,14 +3637,14 @@
           "Crystal Bay to Squaw Valley": true
         },
         "Hwy89": {
-          "Truckee Depot to Tahoe City": true,
-          "Tahoe City to Truckee Depot": true
+          "Tahoe City to Truckee Depot": true,
+          "Truckee Depot to Tahoe City": true
         }
       },
-      "lon": "-120.20466",
-      "title": "Squaw Valley Rd and Squaw Creek Rd",
       "stopId": "0403",
+      "lon": "-120.20466",
       "tag": "403",
+      "title": "Squaw Valley Rd and Squaw Creek Rd",
       "lat": "39.2059999"
     },
     "404": {
@@ -3626,14 +3653,14 @@
           "Crystal Bay to Squaw Valley": true
         },
         "Hwy89": {
-          "Truckee Depot to Tahoe City": true,
-          "Tahoe City to Truckee Depot": true
+          "Tahoe City to Truckee Depot": true,
+          "Truckee Depot to Tahoe City": true
         }
       },
-      "lon": "-120.22865",
-      "title": "Squaw Valley Rd at Post Office",
       "stopId": "0404",
+      "lon": "-120.22865",
       "tag": "404",
+      "title": "Squaw Valley Rd at Post Office",
       "lat": "39.1992999"
     },
     "405": {
@@ -3642,38 +3669,41 @@
           "Squaw Valley to Crystal Bay": true
         },
         "Hwy89": {
-          "Truckee Depot to Tahoe City": true,
-          "Tahoe City to Truckee Depot": true
+          "Tahoe City to Truckee Depot": true,
+          "Truckee Depot to Tahoe City": true
         },
         "TSQPM": {
           "Truckee to Squaw Valley": true
         }
       },
-      "lon": "-120.23571",
-      "title": "Squaw Valley Rd at Clock Tower",
       "stopId": "0405",
+      "lon": "-120.23571",
       "tag": "405",
+      "title": "Squaw Valley Rd at Clock Tower",
       "lat": "39.1985299",
       "scheduleRoutes": {
-        "TSQPM": {
-          "Truckee to Squaw Valley": {
-            "allwk": [
-              "18:57:00",
-              "19:57:00",
-              "20:57:00",
-              "21:57:00"
-            ]
-          }
-        },
         "CB": {
           "Squaw Valley to Crystal Bay": {
             "allwk": [
+              "01:00:00",
               "19:00:00",
-              "20:00:00"
+              "20:00:00",
+              "21:00:00"
             ]
           }
         },
         "Hwy89": {
+          "Squaw Valley to Tahoe City": {
+            "allwk": [
+              "16:35:00",
+              "17:35:00"
+            ]
+          },
+          "Tahoe City to Squaw Valley": {
+            "allwk": [
+              "07:22:00"
+            ]
+          },
           "Tahoe City to Truckee Depot": {
             "allwk": [
               "06:44:00",
@@ -3699,9 +3729,19 @@
               "12:52:00",
               "13:52:00",
               "14:52:00",
-              "15:52:00",
-              "16:52:00",
-              "17:52:00"
+              "16:05:00",
+              "17:05:00",
+              "18:05:00"
+            ]
+          }
+        },
+        "TSQPM": {
+          "Truckee to Squaw Valley": {
+            "allwk": [
+              "18:57:00",
+              "19:57:00",
+              "20:57:00",
+              "21:57:00"
             ]
           }
         }
@@ -3714,44 +3754,49 @@
           "Crystal Bay to Squaw Valley": true
         },
         "Hwy89": {
-          "Truckee Depot to Tahoe City": true,
-          "Tahoe City to Truckee Depot": true
+          "Tahoe City to Truckee Depot": true,
+          "Truckee Depot to Tahoe City": true
         },
         "TSQPM": {
           "Squaw Valley to Truckee": true
         }
       },
-      "lon": "-120.2328",
-      "title": "Squaw Parking Lot at Village (Shelter in Building)",
       "stopId": "0406",
+      "lon": "-120.2328",
       "tag": "406",
+      "title": "Squaw Parking Lot at Village (Shelter in Building)",
       "lat": "39.1970399",
       "scheduleRoutes": {
-        "TSQPM": {
-          "Squaw Valley to Truckee": {
-            "allwk": [
-              "19:05:00",
-              "20:05:00",
-              "21:05:00",
-              "22:05:00"
-            ]
-          }
-        },
         "CB": {
           "Crystal Bay to Squaw Valley": {
             "allwk": [
+              "00:55:00",
               "19:55:00",
-              "20:55:00"
+              "20:55:00",
+              "21:55:00"
             ]
           },
           "Squaw Valley to Crystal Bay": {
             "allwk": [
+              "01:05:00",
               "19:05:00",
-              "20:05:00"
+              "20:05:00",
+              "21:05:00"
             ]
           }
         },
         "Hwy89": {
+          "Squaw Valley to Tahoe City": {
+            "allwk": [
+              "16:37:00",
+              "17:37:00"
+            ]
+          },
+          "Tahoe City to Squaw Valley": {
+            "allwk": [
+              "07:24:00"
+            ]
+          },
           "Tahoe City to Truckee Depot": {
             "allwk": [
               "06:46:00",
@@ -3777,9 +3822,19 @@
               "12:54:00",
               "13:54:00",
               "14:54:00",
-              "15:54:00",
-              "16:54:00",
-              "17:54:00"
+              "16:07:00",
+              "17:07:00",
+              "18:07:00"
+            ]
+          }
+        },
+        "TSQPM": {
+          "Squaw Valley to Truckee": {
+            "allwk": [
+              "19:05:00",
+              "20:05:00",
+              "21:05:00",
+              "22:05:00"
             ]
           }
         }
@@ -3788,17 +3843,17 @@
     "407": {
       "routes": {
         "Hwy89": {
-          "Truckee Depot to Tahoe City": true,
-          "Tahoe City to Truckee Depot": true
+          "Tahoe City to Truckee Depot": true,
+          "Truckee Depot to Tahoe City": true
         },
         "TSQPM": {
           "Squaw Valley to Truckee": true
         }
       },
-      "lon": "-120.2073399",
-      "title": "Squaw Valley Rd at Squaw Creek Rd (Shelter) EB",
       "stopId": "0407",
+      "lon": "-120.2073399",
       "tag": "407",
+      "title": "Squaw Valley Rd at Squaw Creek Rd (Shelter) EB",
       "lat": "39.20523",
       "scheduleRoutes": {
         "TSQPM": {
@@ -3819,38 +3874,37 @@
           "Squaw Valley to Crystal Bay": true
         },
         "Hwy89": {
-          "Truckee Depot to Tahoe City": true,
-          "Tahoe City to Truckee Depot": true
+          "Tahoe City to Truckee Depot": true,
+          "Truckee Depot to Tahoe City": true
         },
         "TSQPM": {
           "Squaw Valley to Truckee": true
         }
       },
-      "lon": "-120.20087",
-      "title": "Squaw Valley Rd at New Park (Near Entrance)",
       "stopId": "0408",
+      "lon": "-120.20087",
       "tag": "408",
+      "title": "Squaw Valley Rd at New Park (Near Entrance)",
       "lat": "39.2048099",
       "scheduleRoutes": {
-        "TSQPM": {
-          "Squaw Valley to Truckee": {
-            "allwk": [
-              "19:10:00",
-              "20:10:00",
-              "21:10:00",
-              "22:10:00"
-            ]
-          }
-        },
         "CB": {
           "Squaw Valley to Crystal Bay": {
             "allwk": [
+              "01:20:00",
               "19:20:00",
-              "20:20:00"
+              "20:20:00",
+              "21:20:00"
             ]
           }
         },
         "Hwy89": {
+          "Squaw Valley to Tahoe City": {
+            "allwk": [
+              "07:29:00",
+              "16:42:00",
+              "17:42:00"
+            ]
+          },
           "Tahoe City to Truckee Depot": {
             "allwk": [
               "06:52:00",
@@ -3876,9 +3930,19 @@
               "12:59:00",
               "13:59:00",
               "14:59:00",
-              "15:59:00",
-              "16:59:00",
-              "17:59:00"
+              "16:12:00",
+              "17:12:00",
+              "18:12:00"
+            ]
+          }
+        },
+        "TSQPM": {
+          "Squaw Valley to Truckee": {
+            "allwk": [
+              "19:10:00",
+              "20:10:00",
+              "21:10:00",
+              "22:10:00"
             ]
           }
         }
@@ -3893,22 +3957,12 @@
           "Squaw Valley to Truckee": true
         }
       },
-      "lon": "-120.20525",
-      "title": "Highway 89 Northbound Near Mousehole",
       "stopId": "0409",
+      "lon": "-120.20525",
       "tag": "409",
+      "title": "Highway 89 Northbound Near Mousehole",
       "lat": "39.3175099",
       "scheduleRoutes": {
-        "TSQPM": {
-          "Squaw Valley to Truckee": {
-            "allwk": [
-              "19:18:00",
-              "20:18:00",
-              "21:18:00",
-              "22:18:00"
-            ]
-          }
-        },
         "Hwy89": {
           "Tahoe City to Truckee Depot": {
             "allwk": [
@@ -3925,6 +3979,16 @@
               "17:20:00"
             ]
           }
+        },
+        "TSQPM": {
+          "Squaw Valley to Truckee": {
+            "allwk": [
+              "19:18:00",
+              "20:18:00",
+              "21:18:00",
+              "22:18:00"
+            ]
+          }
         }
       }
     },
@@ -3937,10 +4001,10 @@
           "Donner Pass Rd to Henness Rd": true
         }
       },
-      "lon": "-120.20751",
-      "title": "Hwy 89 at College Trail",
       "stopId": "0410",
+      "lon": "-120.20751",
       "tag": "410",
+      "title": "Hwy 89 at College Trail",
       "lat": "39.32076",
       "scheduleRoutes": {
         "TLR": {
@@ -3969,10 +4033,10 @@
           "Tahoe City to Truckee Depot": true
         }
       },
-      "lon": "-120.20746",
-      "title": "Hwy 89 at CHP Office",
       "stopId": "0411",
+      "lon": "-120.20746",
       "tag": "411",
+      "title": "Hwy 89 at CHP Office",
       "lat": "39.32522"
     },
     "412": {
@@ -3984,10 +4048,10 @@
           "Donner Pass Rd to Henness Rd": true
         }
       },
-      "lon": "-120.2078399",
-      "title": "Highway 89 South Between DMV and Freeway",
       "stopId": "0412",
+      "lon": "-120.2078399",
       "tag": "412",
+      "title": "Highway 89 South Between DMV and Freeway",
       "lat": "39.32494",
       "scheduleRoutes": {
         "TLR": {
@@ -4019,22 +4083,12 @@
           "Truckee to Squaw Valley": true
         }
       },
-      "lon": "-120.20777",
-      "title": "Hwy 89 at Deerfield Dr (Crossroad Driveway)",
       "stopId": "0413",
+      "lon": "-120.20777",
       "tag": "413",
+      "title": "Hwy 89 at Deerfield Dr (Crossroad Driveway)",
       "lat": "39.3199599",
       "scheduleRoutes": {
-        "TSQPM": {
-          "Truckee to Squaw Valley": {
-            "allwk": [
-              "18:39:00",
-              "19:39:00",
-              "20:39:00",
-              "21:39:00"
-            ]
-          }
-        },
         "Hwy89": {
           "Truckee Depot to Tahoe City": {
             "allwk": [
@@ -4051,6 +4105,16 @@
               "17:34:00"
             ]
           }
+        },
+        "TSQPM": {
+          "Truckee to Squaw Valley": {
+            "allwk": [
+              "18:39:00",
+              "19:39:00",
+              "20:39:00",
+              "21:39:00"
+            ]
+          }
         }
       }
     },
@@ -4063,22 +4127,12 @@
           "Truckee to Squaw Valley": true
         }
       },
-      "lon": "-120.20429",
-      "title": "Hwy 89 Across from West River St (Trailer Park)",
       "stopId": "0414",
+      "lon": "-120.20429",
       "tag": "414",
+      "title": "Hwy 89 Across from West River St (Trailer Park)",
       "lat": "39.3159699",
       "scheduleRoutes": {
-        "TSQPM": {
-          "Truckee to Squaw Valley": {
-            "allwk": [
-              "18:40:00",
-              "19:40:00",
-              "20:40:00",
-              "21:40:00"
-            ]
-          }
-        },
         "Hwy89": {
           "Truckee Depot to Tahoe City": {
             "allwk": [
@@ -4095,6 +4149,16 @@
               "17:35:00"
             ]
           }
+        },
+        "TSQPM": {
+          "Truckee to Squaw Valley": {
+            "allwk": [
+              "18:40:00",
+              "19:40:00",
+              "20:40:00",
+              "21:40:00"
+            ]
+          }
         }
       }
     },
@@ -4107,21 +4171,30 @@
           "Truckee Depot to Tahoe City": true
         }
       },
-      "lon": "-120.19493",
-      "title": "Hwy 89 at Alpine Meadows Rd (River Ranch)",
       "stopId": "0415",
+      "lon": "-120.19493",
       "tag": "415",
+      "title": "Hwy 89 at Alpine Meadows Rd (River Ranch)",
       "lat": "39.1865299",
       "scheduleRoutes": {
         "CB": {
           "Squaw Valley to Crystal Bay": {
             "allwk": [
+              "01:23:00",
               "19:23:00",
-              "20:23:00"
+              "20:23:00",
+              "21:23:00"
             ]
           }
         },
         "Hwy89": {
+          "Squaw Valley to Tahoe City": {
+            "allwk": [
+              "07:35:00",
+              "16:48:00",
+              "17:48:00"
+            ]
+          },
           "Truckee Depot to Tahoe City": {
             "allwk": [
               "08:05:00",
@@ -4132,9 +4205,9 @@
               "13:05:00",
               "14:05:00",
               "15:05:00",
-              "16:05:00",
-              "17:05:00",
-              "18:05:00"
+              "16:18:00",
+              "17:18:00",
+              "18:18:00"
             ]
           }
         }
@@ -4149,10 +4222,10 @@
           "Crystal Bay to Northstar": true
         }
       },
-      "lon": "-120.03034",
-      "title": "Hwy 267 and Speckled St",
       "stopId": "0500",
+      "lon": "-120.03034",
       "tag": "500",
+      "title": "Hwy 267 and Speckled St",
       "lat": "39.24345"
     },
     "501": {
@@ -4164,10 +4237,10 @@
           "Crystal Bay to Northstar": true
         }
       },
-      "lon": "-120.0334",
-      "title": "Hwy 267 and Cambridge Dr",
       "stopId": "0501",
+      "lon": "-120.0334",
       "tag": "501",
+      "title": "Hwy 267 and Cambridge Dr",
       "lat": "39.24938"
     },
     "502": {
@@ -4179,21 +4252,12 @@
           "Crystal Bay to Northstar": true
         }
       },
-      "lon": "-120.03784",
-      "title": "Hwy 267 and Stewart Way",
       "stopId": "0502",
+      "lon": "-120.03784",
       "tag": "502",
+      "title": "Hwy 267 and Stewart Way",
       "lat": "39.2528099",
       "scheduleRoutes": {
-        "NSPM": {
-          "Crystal Bay to Northstar": {
-            "allwk": [
-              "19:10:00",
-              "20:10:00",
-              "21:10:00"
-            ]
-          }
-        },
         "Hwy267": {
           "Crystal Bay to Truckee Depot": {
             "allwk": [
@@ -4210,6 +4274,15 @@
               "17:12:00"
             ]
           }
+        },
+        "NSPM": {
+          "Crystal Bay to Northstar": {
+            "allwk": [
+              "19:10:00",
+              "20:10:00",
+              "21:10:00"
+            ]
+          }
         }
       }
     },
@@ -4220,20 +4293,52 @@
           "Crystal Bay to Truckee Depot": true
         },
         "NSPM": {
-          "Crystal Bay to Northstar": true,
-          "Northstar to Crystal Bay": true
+          "Northstar to Crystal Bay": true,
+          "Crystal Bay to Northstar": true
         },
         "TNSPM": {
           "Truckee to Northstar": true,
           "Northstar to Truckee": true
         }
       },
-      "lon": "-120.10701",
-      "title": "Sawmill Heights (Employee Housing)",
       "stopId": "0503",
+      "lon": "-120.10701",
       "tag": "503",
+      "title": "Sawmill Heights (Employee Housing)",
       "lat": "39.2834499",
       "scheduleRoutes": {
+        "Hwy267": {
+          "Crystal Bay to Truckee Depot": {
+            "allwk": [
+              "07:19:00",
+              "08:19:00",
+              "09:19:00",
+              "10:19:00",
+              "11:19:00",
+              "12:19:00",
+              "13:19:00",
+              "14:19:00",
+              "15:19:00",
+              "16:19:00",
+              "17:19:00"
+            ]
+          },
+          "Truckee Depot to Crystal Bay": {
+            "allwk": [
+              "07:27:00",
+              "08:27:00",
+              "09:27:00",
+              "10:27:00",
+              "11:27:00",
+              "12:27:00",
+              "13:27:00",
+              "14:27:00",
+              "15:27:00",
+              "16:27:00",
+              "17:27:00"
+            ]
+          }
+        },
         "NSPM": {
           "Crystal Bay to Northstar": {
             "allwk": [
@@ -4267,38 +4372,6 @@
               "21:14:00"
             ]
           }
-        },
-        "Hwy267": {
-          "Crystal Bay to Truckee Depot": {
-            "allwk": [
-              "07:19:00",
-              "08:19:00",
-              "09:19:00",
-              "10:19:00",
-              "11:19:00",
-              "12:19:00",
-              "13:19:00",
-              "14:19:00",
-              "15:19:00",
-              "16:19:00",
-              "17:19:00"
-            ]
-          },
-          "Truckee Depot to Crystal Bay": {
-            "allwk": [
-              "07:27:00",
-              "08:27:00",
-              "09:27:00",
-              "10:27:00",
-              "11:27:00",
-              "12:27:00",
-              "13:27:00",
-              "14:27:00",
-              "15:27:00",
-              "16:27:00",
-              "17:27:00"
-            ]
-          }
         }
       }
     },
@@ -4315,31 +4388,12 @@
           "Northstar to Truckee": true
         }
       },
-      "lon": "-120.12155",
-      "title": "Northstar Village Gate # 7",
       "stopId": "0504",
+      "lon": "-120.12155",
       "tag": "504",
+      "title": "Northstar Village Gate # 7",
       "lat": "39.2761599",
       "scheduleRoutes": {
-        "NSPM": {
-          "Northstar to Crystal Bay": {
-            "allwk": [
-              "18:30:00",
-              "19:30:00",
-              "20:30:00"
-            ]
-          }
-        },
-        "TNSPM": {
-          "Northstar to Truckee": {
-            "allwk": [
-              "18:30:00",
-              "19:30:00",
-              "20:30:00",
-              "21:30:00"
-            ]
-          }
-        },
         "Hwy267": {
           "Crystal Bay to Truckee Depot": {
             "allwk": [
@@ -4371,6 +4425,25 @@
               "17:21:00"
             ]
           }
+        },
+        "NSPM": {
+          "Northstar to Crystal Bay": {
+            "allwk": [
+              "18:30:00",
+              "19:30:00",
+              "20:30:00"
+            ]
+          }
+        },
+        "TNSPM": {
+          "Northstar to Truckee": {
+            "allwk": [
+              "18:30:00",
+              "19:30:00",
+              "20:30:00",
+              "21:30:00"
+            ]
+          }
         }
       }
     },
@@ -4381,10 +4454,10 @@
           "Crystal Bay to Truckee Depot": true
         }
       },
-      "lon": "-120.1464599",
-      "title": "Airport Rd and Truckee Town Hall",
       "stopId": "0505",
+      "lon": "-120.1464599",
       "tag": "505",
+      "title": "Airport Rd and Truckee Town Hall",
       "lat": "39.31725"
     },
     "506": {
@@ -4394,10 +4467,10 @@
           "Crystal Bay to Truckee Depot": true
         }
       },
-      "lon": "-120.14473",
-      "title": "Airport",
       "stopId": "0506",
+      "lon": "-120.14473",
       "tag": "506",
+      "title": "Airport",
       "lat": "39.3187499",
       "scheduleRoutes": {
         "Hwy267": {
@@ -4445,30 +4518,12 @@
           "Northstar to Truckee": true
         }
       },
-      "lon": "-120.1525",
-      "title": "Hampton Inn and Suites",
       "stopId": "0507",
+      "lon": "-120.1525",
       "tag": "507",
+      "title": "Hampton Inn and Suites",
       "lat": "39.3171399",
       "scheduleRoutes": {
-        "TNSPM": {
-          "Northstar to Truckee": {
-            "allwk": [
-              "18:44:00",
-              "19:44:00",
-              "20:44:00",
-              "21:44:00"
-            ]
-          },
-          "Truckee to Northstar": {
-            "allwk": [
-              "18:07:00",
-              "19:07:00",
-              "20:07:00",
-              "21:07:00"
-            ]
-          }
-        },
         "Hwy267": {
           "Crystal Bay to Truckee Depot": {
             "allwk": [
@@ -4500,6 +4555,24 @@
               "17:07:00"
             ]
           }
+        },
+        "TNSPM": {
+          "Northstar to Truckee": {
+            "allwk": [
+              "18:44:00",
+              "19:44:00",
+              "20:44:00",
+              "21:44:00"
+            ]
+          },
+          "Truckee to Northstar": {
+            "allwk": [
+              "18:07:00",
+              "19:07:00",
+              "20:07:00",
+              "21:07:00"
+            ]
+          }
         }
       }
     },
@@ -4512,21 +4585,12 @@
           "Northstar to Crystal Bay": true
         }
       },
-      "lon": "-120.0379",
-      "title": "Hwy 267 and Stewart Way",
       "stopId": "0508",
+      "lon": "-120.0379",
       "tag": "508",
+      "title": "Hwy 267 and Stewart Way",
       "lat": "39.2526299",
       "scheduleRoutes": {
-        "NSPM": {
-          "Northstar to Crystal Bay": {
-            "allwk": [
-              "18:50:00",
-              "19:50:00",
-              "20:50:00"
-            ]
-          }
-        },
         "Hwy267": {
           "Truckee Depot to Crystal Bay": {
             "allwk": [
@@ -4543,6 +4607,15 @@
               "17:35:00"
             ]
           }
+        },
+        "NSPM": {
+          "Northstar to Crystal Bay": {
+            "allwk": [
+              "18:50:00",
+              "19:50:00",
+              "20:50:00"
+            ]
+          }
         }
       }
     },
@@ -4555,10 +4628,10 @@
           "Northstar to Crystal Bay": true
         }
       },
-      "lon": "-120.03324",
-      "title": "Hwy 267 and Lincoln Green",
       "stopId": "0509",
+      "lon": "-120.03324",
       "tag": "509",
+      "title": "Hwy 267 and Lincoln Green",
       "lat": "39.24891"
     },
     "510": {
@@ -4570,10 +4643,10 @@
           "Northstar to Crystal Bay": true
         }
       },
-      "lon": "-120.0305799",
-      "title": "Hwy 267 and Speckled St",
       "stopId": "0510",
+      "lon": "-120.0305799",
       "tag": "510",
+      "title": "Hwy 267 and Speckled St",
       "lat": "39.2434399"
     },
     "600": {
@@ -4594,29 +4667,26 @@
           "Truckee to Squaw Valley": true
         }
       },
-      "lon": "-120.18549",
-      "title": "Truckee Depot - Depart",
       "stopId": "0600",
+      "lon": "-120.18549",
       "tag": "600",
+      "title": "Truckee Depot - Depart",
       "lat": "39.3275299",
       "scheduleRoutes": {
-        "TSQPM": {
-          "Truckee to Squaw Valley": {
+        "Hwy89": {
+          "Truckee Depot to Tahoe City": {
             "allwk": [
-              "18:35:00",
-              "19:35:00",
-              "20:35:00",
-              "21:35:00"
-            ]
-          }
-        },
-        "TNSPM": {
-          "Truckee to Northstar": {
-            "allwk": [
-              "18:00:00",
-              "19:00:00",
-              "20:00:00",
-              "21:00:00"
+              "07:30:00",
+              "08:30:00",
+              "09:30:00",
+              "10:30:00",
+              "11:30:00",
+              "12:30:00",
+              "13:30:00",
+              "14:30:00",
+              "15:30:00",
+              "16:30:00",
+              "17:30:00"
             ]
           }
         },
@@ -4637,23 +4707,6 @@
             ]
           }
         },
-        "Hwy89": {
-          "Truckee Depot to Tahoe City": {
-            "allwk": [
-              "07:30:00",
-              "08:30:00",
-              "09:30:00",
-              "10:30:00",
-              "11:30:00",
-              "12:30:00",
-              "13:30:00",
-              "14:30:00",
-              "15:30:00",
-              "16:30:00",
-              "17:30:00"
-            ]
-          }
-        },
         "TLR": {
           "Henness Rd to Donner Pass": {
             "allwk": [
@@ -4671,6 +4724,26 @@
               "18:23:00"
             ]
           }
+        },
+        "TNSPM": {
+          "Truckee to Northstar": {
+            "allwk": [
+              "18:00:00",
+              "19:00:00",
+              "20:00:00",
+              "21:00:00"
+            ]
+          }
+        },
+        "TSQPM": {
+          "Truckee to Squaw Valley": {
+            "allwk": [
+              "18:35:00",
+              "19:35:00",
+              "20:35:00",
+              "21:35:00"
+            ]
+          }
         }
       }
     },
@@ -4680,10 +4753,10 @@
           "Donner Pass Rd to Henness Rd": true
         }
       },
-      "lon": "-120.28662",
-      "title": "Donner Pass Rd at Donner Lake Village Resort",
       "stopId": "0601",
+      "lon": "-120.28662",
       "tag": "601",
+      "title": "Donner Pass Rd at Donner Lake Village Resort",
       "lat": "39.3247999",
       "scheduleRoutes": {
         "TLR": {
@@ -4712,10 +4785,10 @@
           "Donner Pass Rd to Henness Rd": true
         }
       },
-      "lon": "-120.28239",
-      "title": "Donner Pass Rd at West End Boat Launch",
       "stopId": "0602",
+      "lon": "-120.28239",
       "tag": "602",
+      "title": "Donner Pass Rd at West End Boat Launch",
       "lat": "39.3248599",
       "scheduleRoutes": {
         "TLR": {
@@ -4744,10 +4817,10 @@
           "Donner Pass Rd to Henness Rd": true
         }
       },
-      "lon": "-120.2544",
-      "title": "Donner Pass Rd at Moraine Rd (Sticks Market)",
       "stopId": "0603",
+      "lon": "-120.2544",
       "tag": "603",
+      "title": "Donner Pass Rd at Moraine Rd (Sticks Market)",
       "lat": "39.3289399",
       "scheduleRoutes": {
         "TLR": {
@@ -4776,10 +4849,10 @@
           "Donner Pass Rd to Henness Rd": true
         }
       },
-      "lon": "-120.24384",
-      "title": "Donner Pass Rd at Summit Dr",
       "stopId": "0604",
+      "lon": "-120.24384",
       "tag": "604",
+      "title": "Donner Pass Rd at Summit Dr",
       "lat": "39.3275499",
       "scheduleRoutes": {
         "TLR": {
@@ -4808,10 +4881,10 @@
           "Donner Pass Rd to Henness Rd": true
         }
       },
-      "lon": "-120.23306",
-      "title": "Donner Pass Rd at Donner Memorial State Park",
       "stopId": "0605",
+      "lon": "-120.23306",
       "tag": "605",
+      "title": "Donner Pass Rd at Donner Memorial State Park",
       "lat": "39.3246799",
       "scheduleRoutes": {
         "TLR": {
@@ -4837,14 +4910,14 @@
     "606": {
       "routes": {
         "TLR": {
-          "Donner Pass Rd to Henness Rd": true,
-          "Henness Rd to Donner Pass": true
+          "Henness Rd to Donner Pass": true,
+          "Donner Pass Rd to Henness Rd": true
         }
       },
-      "lon": "-120.22759",
-      "title": "Donner Pass Rd Cold Stream Rd",
       "stopId": "0606",
+      "lon": "-120.22759",
       "tag": "606",
+      "title": "Donner Pass Rd Cold Stream Rd",
       "lat": "39.3229099",
       "scheduleRoutes": {
         "TLR": {
@@ -4889,10 +4962,10 @@
           "Donner Pass Rd to Henness Rd": true
         }
       },
-      "lon": "-120.2219",
-      "title": "Donner Pass Rd at Tri-Counties Bank Plaza",
       "stopId": "0607",
+      "lon": "-120.2219",
       "tag": "607",
+      "title": "Donner Pass Rd at Tri-Counties Bank Plaza",
       "lat": "39.3254199",
       "scheduleRoutes": {
         "TLR": {
@@ -4921,10 +4994,10 @@
           "Donner Pass Rd to Henness Rd": true
         }
       },
-      "lon": "-120.21788",
-      "title": "Donner Pass Rd at Northwoods Blvd",
       "stopId": "0608",
+      "lon": "-120.21788",
       "tag": "608",
+      "title": "Donner Pass Rd at Northwoods Blvd",
       "lat": "39.3257199",
       "scheduleRoutes": {
         "TLR": {
@@ -4953,10 +5026,10 @@
           "Donner Pass Rd to Henness Rd": true
         }
       },
-      "lon": "-120.21289",
-      "title": "Donner Pass Rd at Donner Trail Rd",
       "stopId": "0609",
+      "lon": "-120.21289",
       "tag": "609",
+      "title": "Donner Pass Rd at Donner Trail Rd",
       "lat": "39.3260199",
       "scheduleRoutes": {
         "TLR": {
@@ -4985,10 +5058,10 @@
           "Donner Pass Rd to Henness Rd": true
         }
       },
-      "lon": "-120.2103799",
-      "title": "Donner Pass Rd at Westgate Center (Wild Cherries)",
       "stopId": "0610",
+      "lon": "-120.2103799",
       "tag": "610",
+      "title": "Donner Pass Rd at Westgate Center (Wild Cherries)",
       "lat": "39.326"
     },
     "611": {
@@ -5003,22 +5076,12 @@
           "Squaw Valley to Truckee": true
         }
       },
-      "lon": "-120.2057",
-      "title": "Donner Pass Rd at Bank of America (Bus Shelter)",
       "stopId": "0611",
+      "lon": "-120.2057",
       "tag": "611",
+      "title": "Donner Pass Rd at Bank of America (Bus Shelter)",
       "lat": "39.3259599",
       "scheduleRoutes": {
-        "TSQPM": {
-          "Squaw Valley to Truckee": {
-            "allwk": [
-              "19:20:00",
-              "20:20:00",
-              "21:20:00",
-              "22:20:00"
-            ]
-          }
-        },
         "Hwy89": {
           "Tahoe City to Truckee Depot": {
             "allwk": [
@@ -5053,6 +5116,16 @@
               "18:54:00"
             ]
           }
+        },
+        "TSQPM": {
+          "Squaw Valley to Truckee": {
+            "allwk": [
+              "19:20:00",
+              "20:20:00",
+              "21:20:00",
+              "22:20:00"
+            ]
+          }
         }
       }
     },
@@ -5068,22 +5141,12 @@
           "Squaw Valley to Truckee": true
         }
       },
-      "lon": "-120.20119",
-      "title": "Donner Pass Rd at Tahoe Forest Cancer Center",
       "stopId": "0612",
+      "lon": "-120.20119",
       "tag": "612",
+      "title": "Donner Pass Rd at Tahoe Forest Cancer Center",
       "lat": "39.3261299",
       "scheduleRoutes": {
-        "TSQPM": {
-          "Squaw Valley to Truckee": {
-            "allwk": [
-              "19:21:00",
-              "20:21:00",
-              "21:21:00",
-              "22:21:00"
-            ]
-          }
-        },
         "Hwy89": {
           "Tahoe City to Truckee Depot": {
             "allwk": [
@@ -5118,6 +5181,16 @@
               "18:55:00"
             ]
           }
+        },
+        "TSQPM": {
+          "Squaw Valley to Truckee": {
+            "allwk": [
+              "19:21:00",
+              "20:21:00",
+              "21:21:00",
+              "22:21:00"
+            ]
+          }
         }
       }
     },
@@ -5127,10 +5200,10 @@
           "Donner Pass Rd to Henness Rd": true
         }
       },
-      "lon": "-120.17372",
-      "title": "Donner Pass Rd at Recreation Center",
       "stopId": "0613",
+      "lon": "-120.17372",
       "tag": "613",
+      "title": "Donner Pass Rd at Recreation Center",
       "lat": "39.3385499",
       "scheduleRoutes": {
         "TLR": {
@@ -5159,10 +5232,10 @@
           "Henness Rd to Donner Pass": true
         }
       },
-      "lon": "-120.17111",
-      "title": "Edwin Rd at Henness Rd (Bus Shelter)",
       "stopId": "0614",
+      "lon": "-120.17111",
       "tag": "614",
+      "title": "Edwin Rd at Henness Rd (Bus Shelter)",
       "lat": "39.3415099",
       "scheduleRoutes": {
         "TLR": {
@@ -5198,22 +5271,12 @@
           "Northstar to Truckee": true
         }
       },
-      "lon": "-120.16352",
-      "title": "Brockway Rd at The Rock (Fifty-Fifty)",
       "stopId": "0615",
+      "lon": "-120.16352",
       "tag": "615",
+      "title": "Brockway Rd at The Rock (Fifty-Fifty)",
       "lat": "39.3217799",
       "scheduleRoutes": {
-        "TNSPM": {
-          "Northstar to Truckee": {
-            "allwk": [
-              "18:47:00",
-              "19:47:00",
-              "20:47:00",
-              "21:47:00"
-            ]
-          }
-        },
         "Hwy267": {
           "Crystal Bay to Truckee Depot": {
             "allwk": [
@@ -5249,6 +5312,16 @@
             ]
           },
           "Henness Rd to Truckee Depot": {}
+        },
+        "TNSPM": {
+          "Northstar to Truckee": {
+            "allwk": [
+              "18:47:00",
+              "19:47:00",
+              "20:47:00",
+              "21:47:00"
+            ]
+          }
         }
       }
     },
@@ -5261,11 +5334,11 @@
           "Henness Rd to Donner Pass": true
         }
       },
-      "lon": "-120.1676499",
-      "title": "Brockway Rd at Reynold Way",
       "stopId": "0616",
+      "lon": "-120.16765",
       "tag": "616",
-      "lat": "39.3237299",
+      "title": "Brockway Rd at Reynold Way",
+      "lat": "39.32373",
       "scheduleRoutes": {
         "TLR": {
           "Henness Rd to Donner Pass": {
@@ -5294,10 +5367,10 @@
           "Henness Rd to Donner Pass": true
         }
       },
-      "lon": "-120.1686",
-      "title": "Estates Dr at Senior Apartments",
       "stopId": "0617",
+      "lon": "-120.1686",
       "tag": "617",
+      "title": "Estates Dr at Senior Apartments",
       "lat": "39.3268699",
       "scheduleRoutes": {
         "TLR": {
@@ -5316,8 +5389,7 @@
               "17:11:00",
               "18:11:00"
             ]
-          },
-          "Henness Rd to Truckee Depot": {}
+          }
         }
       }
     },
@@ -5333,22 +5405,12 @@
           "Northstar to Truckee": true
         }
       },
-      "lon": "-120.17687",
-      "title": "Brockway Rd at Regional Park (Bus Shelter)",
       "stopId": "0618",
+      "lon": "-120.1768699",
       "tag": "618",
+      "title": "Brockway Rd at Regional Park (Bus Shelter)",
       "lat": "39.3263899",
       "scheduleRoutes": {
-        "TNSPM": {
-          "Northstar to Truckee": {
-            "allwk": [
-              "18:49:00",
-              "19:49:00",
-              "20:49:00",
-              "21:49:00"
-            ]
-          }
-        },
         "TLR": {
           "Henness Rd to Donner Pass": {
             "allwk": [
@@ -5365,8 +5427,17 @@
               "17:13:00",
               "18:13:00"
             ]
-          },
-          "Henness Rd to Truckee Depot": {}
+          }
+        },
+        "TNSPM": {
+          "Northstar to Truckee": {
+            "allwk": [
+              "18:49:00",
+              "19:49:00",
+              "20:49:00",
+              "21:49:00"
+            ]
+          }
         }
       }
     },
@@ -5382,22 +5453,12 @@
           "Truckee to Squaw Valley": true
         }
       },
-      "lon": "-120.20135",
-      "title": "Donner Pass Rd at Tahoe Forest Medical Offices",
       "stopId": "0619",
+      "lon": "-120.20135",
       "tag": "619",
+      "title": "Donner Pass Rd at Tahoe Forest Medical Offices",
       "lat": "39.3262899",
       "scheduleRoutes": {
-        "TSQPM": {
-          "Truckee to Squaw Valley": {
-            "allwk": [
-              "18:37:00",
-              "19:37:00",
-              "20:37:00",
-              "21:37:00"
-            ]
-          }
-        },
         "Hwy89": {
           "Truckee Depot to Tahoe City": {
             "allwk": [
@@ -5432,6 +5493,16 @@
               "18:25:00"
             ]
           }
+        },
+        "TSQPM": {
+          "Truckee to Squaw Valley": {
+            "allwk": [
+              "18:37:00",
+              "19:37:00",
+              "20:37:00",
+              "21:37:00"
+            ]
+          }
         }
       }
     },
@@ -5447,22 +5518,12 @@
           "Truckee to Squaw Valley": true
         }
       },
-      "lon": "-120.205",
-      "title": "Donner Pass Rd at Gateway Center (Safeway Bus Shelter)",
       "stopId": "0620",
+      "lon": "-120.205",
       "tag": "620",
+      "title": "Donner Pass Rd at Gateway Center (Safeway Bus Shelter)",
       "lat": "39.3261299",
       "scheduleRoutes": {
-        "TSQPM": {
-          "Truckee to Squaw Valley": {
-            "allwk": [
-              "18:38:00",
-              "19:38:00",
-              "20:38:00",
-              "21:38:00"
-            ]
-          }
-        },
         "Hwy89": {
           "Truckee Depot to Tahoe City": {
             "allwk": [
@@ -5497,6 +5558,16 @@
               "18:26:00"
             ]
           }
+        },
+        "TSQPM": {
+          "Truckee to Squaw Valley": {
+            "allwk": [
+              "18:38:00",
+              "19:38:00",
+              "20:38:00",
+              "21:38:00"
+            ]
+          }
         }
       }
     },
@@ -5506,10 +5577,10 @@
           "Henness Rd to Donner Pass": true
         }
       },
-      "lon": "-120.20804",
-      "title": "Donner Pass Rd at ACE Mountain Hardware",
       "stopId": "0621",
+      "lon": "-120.20804",
       "tag": "621",
+      "title": "Donner Pass Rd at ACE Mountain Hardware",
       "lat": "39.3261599",
       "scheduleRoutes": {
         "TLR": {
@@ -5538,10 +5609,10 @@
           "Henness Rd to Donner Pass": true
         }
       },
-      "lon": "-120.21019",
-      "title": "Donner Pass Rd at Meadow Way (7-11)",
       "stopId": "0622",
+      "lon": "-120.21019",
       "tag": "622",
+      "title": "Donner Pass Rd at Meadow Way (7-11)",
       "lat": "39.3261799",
       "scheduleRoutes": {
         "TLR": {
@@ -5570,10 +5641,10 @@
           "Henness Rd to Donner Pass": true
         }
       },
-      "lon": "-120.21356",
-      "title": "Donner Pass Rd at Donner Trail Rd",
       "stopId": "0623",
+      "lon": "-120.21356",
       "tag": "623",
+      "title": "Donner Pass Rd at Donner Trail Rd",
       "lat": "39.3261899"
     },
     "624": {
@@ -5582,10 +5653,10 @@
           "Henness Rd to Donner Pass": true
         }
       },
-      "lon": "-120.21874",
-      "title": "Donner Pass Rd at Northwoods Blvd",
       "stopId": "0624",
+      "lon": "-120.21874",
       "tag": "624",
+      "title": "Donner Pass Rd at Northwoods Blvd",
       "lat": "39.3258399",
       "scheduleRoutes": {
         "TLR": {
@@ -5614,10 +5685,10 @@
           "Henness Rd to Donner Pass": true
         }
       },
-      "lon": "-120.22222",
-      "title": "Donner Pass Rd at Highway Rd",
       "stopId": "0625",
+      "lon": "-120.22222",
       "tag": "625",
+      "title": "Donner Pass Rd at Highway Rd",
       "lat": "39.3255799",
       "scheduleRoutes": {
         "TLR": {
@@ -5646,10 +5717,10 @@
           "Henness Rd to Donner Pass": true
         }
       },
-      "lon": "-120.23273",
-      "title": "Donner Pass Rd at Donner Memorial State Park",
       "stopId": "0626",
+      "lon": "-120.23273",
       "tag": "626",
+      "title": "Donner Pass Rd at Donner Memorial State Park",
       "lat": "39.3248199",
       "scheduleRoutes": {
         "TLR": {
@@ -5678,10 +5749,10 @@
           "Henness Rd to Donner Pass": true
         }
       },
-      "lon": "-120.23831",
-      "title": "Donner Pass Rd at East End Donner Lake",
       "stopId": "0627",
+      "lon": "-120.23831",
       "tag": "627",
+      "title": "Donner Pass Rd at East End Donner Lake",
       "lat": "39.3259999",
       "scheduleRoutes": {
         "TLR": {
@@ -5710,10 +5781,10 @@
           "Henness Rd to Donner Pass": true
         }
       },
-      "lon": "-120.24328",
-      "title": "Donner Pass Rd at Summit Dr",
       "stopId": "0628",
+      "lon": "-120.24328",
       "tag": "628",
+      "title": "Donner Pass Rd at Summit Dr",
       "lat": "39.3276099",
       "scheduleRoutes": {
         "TLR": {
@@ -5742,10 +5813,10 @@
           "Henness Rd to Donner Pass": true
         }
       },
-      "lon": "-120.2512499",
-      "title": "Donner Pass Rd at Moraine Rd (Sticks Market)",
       "stopId": "0629",
+      "lon": "-120.2512499",
       "tag": "629",
+      "title": "Donner Pass Rd at Moraine Rd (Sticks Market)",
       "lat": "39.3289499"
     },
     "630": {
@@ -5754,10 +5825,10 @@
           "Henness Rd to Donner Pass": true
         }
       },
-      "lon": "-120.28359",
-      "title": "Donner Pass Rd at West End Boat Launch",
       "stopId": "0630",
+      "lon": "-120.28359",
       "tag": "630",
+      "title": "Donner Pass Rd at West End Boat Launch",
       "lat": "39.3251999",
       "scheduleRoutes": {
         "TLR": {
@@ -5786,10 +5857,10 @@
           "Henness Rd to Donner Pass": true
         }
       },
-      "lon": "-120.2866",
-      "title": "Donner Pass Rd at Donner Lake Village Resort",
       "stopId": "0631",
+      "lon": "-120.2866",
       "tag": "631",
+      "title": "Donner Pass Rd at Donner Lake Village Resort",
       "lat": "39.3249999",
       "scheduleRoutes": {
         "TLR": {
@@ -5821,10 +5892,10 @@
           "Truckee to Northstar": true
         }
       },
-      "lon": "-120.1771",
-      "title": "Brockway Rd and Palisades Dr",
       "stopId": "0633",
+      "lon": "-120.1771",
       "tag": "633",
+      "title": "Brockway Rd and Palisades Dr",
       "lat": "39.3262",
       "scheduleRoutes": {
         "TNSPM": {
@@ -5845,11 +5916,11 @@
           "Truckee Depot to Crystal Bay": true
         }
       },
-      "lon": "-120.1693399",
-      "title": "Village Green (2nd Driveway)",
       "stopId": "0634",
+      "lon": "-120.1693399",
       "tag": "634",
-      "lat": "39.3243099"
+      "title": "Village Green (2nd Driveway)",
+      "lat": "39.32431"
     },
     "635": {
       "routes": {
@@ -5860,22 +5931,12 @@
           "Truckee to Northstar": true
         }
       },
-      "lon": "-120.16222",
-      "title": "Across from Best Western",
       "stopId": "0635",
+      "lon": "-120.16222",
       "tag": "635",
+      "title": "Across from Best Western",
       "lat": "39.3209499",
       "scheduleRoutes": {
-        "TNSPM": {
-          "Truckee to Northstar": {
-            "allwk": [
-              "18:04:00",
-              "19:04:00",
-              "20:04:00",
-              "21:04:00"
-            ]
-          }
-        },
         "Hwy267": {
           "Truckee Depot to Crystal Bay": {
             "allwk": [
@@ -5890,6 +5951,16 @@
               "15:04:00",
               "16:04:00",
               "17:04:00"
+            ]
+          }
+        },
+        "TNSPM": {
+          "Truckee to Northstar": {
+            "allwk": [
+              "18:04:00",
+              "19:04:00",
+              "20:04:00",
+              "21:04:00"
             ]
           }
         }
@@ -5907,23 +5978,27 @@
           "Tahoe City to Tahoma": true
         }
       },
-      "lon": "-120.14498",
-      "title": "Tahoe City Transit Center - Arrive",
       "stopId": "1692",
+      "lon": "-120.14498",
       "tag": "1692",
+      "title": "Tahoe City Transit Center - Arrive",
       "lat": "39.1647299",
       "scheduleRoutes": {
         "CB": {
           "Crystal Bay to Squaw Valley": {
             "allwk": [
+              "00:30:00",
               "19:30:00",
-              "20:30:00"
+              "20:30:00",
+              "21:30:00"
             ]
           },
           "Squaw Valley to Crystal Bay": {
             "allwk": [
+              "01:30:00",
               "19:30:00",
-              "20:30:00"
+              "20:30:00",
+              "21:30:00"
             ]
           }
         },
@@ -5972,10 +6047,10 @@
           "Tahoe City to Incline": true
         }
       },
-      "lon": "-120.00508",
-      "title": "Hwy 28 at Crystal Bay Club (Shelter) - Arrive",
       "stopId": "1733",
+      "lon": "-120.00508",
       "tag": "1733",
+      "title": "Hwy 28 at Crystal Bay Club (Shelter) - Arrive",
       "lat": "39.2275299",
       "scheduleRoutes": {
         "ML": {
@@ -6010,18 +6085,13 @@
           "Tahoma to Incline": true
         }
       },
-      "lon": "-119.94377",
-      "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Arrive",
       "stopId": "1747",
+      "lon": "-119.94377",
       "tag": "1747",
+      "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Arrive",
       "lat": "39.2393499",
       "scheduleRoutes": {
         "ML": {
-          "Tahoe City to Incline": {
-            "allwk": [
-              "07:12:00"
-            ]
-          },
           "Tahoma to Incline": {
             "allwk": [
               "08:12:00",
@@ -6042,13 +6112,14 @@
     "1760": {
       "routes": {
         "ML": {
+          "Incline to Tahoe City": true,
           "Incline to Tahoma": true
         }
       },
-      "lon": "-120.00576",
-      "title": "Hwy 28 at Tahoe Biltmore (Shelter) - Arrive",
       "stopId": "1760",
+      "lon": "-120.00576",
       "tag": "1760",
+      "title": "Hwy 28 at Tahoe Biltmore (Shelter) - Arrive",
       "lat": "39.2274199",
       "scheduleRoutes": {
         "ML": {
@@ -6079,14 +6150,14 @@
     "2227": {
       "routes": {
         "TLR": {
-          "Donner Pass Rd to Henness Rd": true,
-          "Henness Rd to Donner Pass": true
+          "Henness Rd to Donner Pass": true,
+          "Donner Pass Rd to Henness Rd": true
         }
       },
-      "lon": "-120.18549",
-      "title": "Truckee Depot - Arrive",
       "stopId": "2227",
+      "lon": "-120.18549",
       "tag": "2227",
+      "title": "Truckee Depot - Arrive",
       "lat": "39.3275099",
       "scheduleRoutes": {
         "TLR": {
@@ -6132,21 +6203,24 @@
         }
       },
       "lon": "-120.23571",
-      "title": "Squaw Valley Rd at Clock Tower",
       "tag": "405_ar",
+      "title": "Squaw Valley Rd at Clock Tower",
       "lat": "39.1985299",
       "scheduleRoutes": {
         "CB": {
           "Crystal Bay to Squaw Valley": {
             "allwk": [
+              "01:00:00",
               "20:00:00",
-              "21:00:00"
+              "21:00:00",
+              "22:00:00"
             ]
           }
         },
         "Hwy89": {
           "Tahoe City to Squaw Valley": {
             "allwk": [
+              "17:35:00",
               "17:44:00",
               "18:44:00"
             ]
@@ -6167,24 +6241,17 @@
         }
       },
       "lon": "-120.00508",
-      "title": "Hwy 28 at Crystal Bay Club (Shelter) - Arrive",
       "tag": "1733_ar",
+      "title": "Hwy 28 at Crystal Bay Club (Shelter) - Arrive",
       "lat": "39.2275299",
       "scheduleRoutes": {
-        "NSPM": {
-          "Northstar to Crystal Bay": {
-            "allwk": [
-              "19:00:00",
-              "20:00:00",
-              "21:00:00"
-            ]
-          }
-        },
         "CB": {
           "Squaw Valley to Crystal Bay": {
             "allwk": [
+              "02:00:00",
               "20:00:00",
-              "21:00:00"
+              "21:00:00",
+              "22:00:00"
             ]
           }
         },
@@ -6206,18 +6273,31 @@
           }
         },
         "ML": {
-          "Tahoe City to Crystal Bay": {
+          "Lake Forest to Crystal Bay": {},
+          "Tahoe City to Crystal Bay": {}
+        },
+        "NSPM": {
+          "Northstar to Crystal Bay": {
             "allwk": [
-              "08:26:00",
-              "09:26:00",
-              "10:26:00",
-              "11:26:00",
-              "12:26:00",
-              "13:26:00",
-              "14:26:00",
-              "15:26:00",
-              "16:26:00",
-              "17:26:00"
+              "19:00:00",
+              "20:00:00",
+              "21:00:00"
+            ]
+          }
+        }
+      }
+    },
+    "408_ar": {
+      "routes": {},
+      "lon": "-120.20087",
+      "tag": "408_ar",
+      "title": "Squaw Valley Rd at New Park (Near Entrance)",
+      "lat": "39.2048099",
+      "scheduleRoutes": {
+        "Hwy89": {
+          "Tahoe City to Squaw Valley": {
+            "allwk": [
+              "07:29:00"
             ]
           }
         }
@@ -6239,27 +6319,24 @@
         }
       },
       "lon": "-120.18549",
-      "title": "Truckee Depot - Arrive",
       "tag": "2227_ar",
+      "title": "Truckee Depot - Arrive",
       "lat": "39.3275099",
       "scheduleRoutes": {
-        "TSQPM": {
-          "Squaw Valley to Truckee": {
+        "Hwy89": {
+          "Tahoe City to Truckee Depot": {
             "allwk": [
-              "19:35:00",
-              "20:35:00",
-              "21:35:00",
-              "22:35:00"
-            ]
-          }
-        },
-        "TNSPM": {
-          "Northstar to Truckee": {
-            "allwk": [
-              "19:00:00",
-              "20:00:00",
-              "21:00:00",
-              "22:00:00"
+              "07:10:00",
+              "08:10:00",
+              "09:10:00",
+              "10:10:00",
+              "11:10:00",
+              "12:10:00",
+              "13:10:00",
+              "14:10:00",
+              "15:10:00",
+              "16:30:00",
+              "17:30:00"
             ]
           }
         },
@@ -6280,25 +6357,25 @@
             ]
           }
         },
-        "Hwy89": {
-          "Tahoe City to Truckee Depot": {
+        "TNSPM": {
+          "Northstar to Truckee": {
             "allwk": [
-              "07:10:00",
-              "08:10:00",
-              "09:10:00",
-              "10:10:00",
-              "11:10:00",
-              "12:10:00",
-              "13:10:00",
-              "14:10:00",
-              "15:10:00",
-              "16:30:00",
-              "17:30:00"
+              "19:00:00",
+              "20:00:00",
+              "21:00:00",
+              "22:00:00"
             ]
           }
         },
-        "TLR": {
-          "Henness Rd to Truckee Depot": {}
+        "TSQPM": {
+          "Squaw Valley to Truckee": {
+            "allwk": [
+              "19:35:00",
+              "20:35:00",
+              "21:35:00",
+              "22:35:00"
+            ]
+          }
         }
       }
     },
@@ -6308,6 +6385,7 @@
           "Truckee Depot to Tahoe City": true
         },
         "ML": {
+          "Incline to Tahoe City": true,
           "Crystal Bay to Tahoe City": true,
           "Tahoma to Tahoe City": true
         },
@@ -6316,20 +6394,18 @@
         }
       },
       "lon": "-120.14498",
-      "title": "Tahoe City Transit Center - Arrive",
       "tag": "1692_ar",
+      "title": "Tahoe City Transit Center - Arrive",
       "lat": "39.1647299",
       "scheduleRoutes": {
-        "WSN": {
-          "Tahoma to Tahoe City": {
-            "allwk": [
-              "19:30:00",
-              "20:30:00",
-              "21:30:00"
-            ]
-          }
-        },
         "Hwy89": {
+          "Squaw Valley to Tahoe City": {
+            "allwk": [
+              "07:45:00",
+              "16:58:00",
+              "17:58:00"
+            ]
+          },
           "Truckee Depot to Tahoe City": {
             "allwk": [
               "08:15:00",
@@ -6340,9 +6416,9 @@
               "13:15:00",
               "14:15:00",
               "15:15:00",
-              "16:15:00",
-              "17:15:00",
-              "18:15:00"
+              "16:28:00",
+              "17:28:00",
+              "18:28:00"
             ]
           }
         },
@@ -6350,16 +6426,8 @@
           "Crystal Bay to Tahoe City": {
             "allwk": [
               "06:30:00",
-              "09:00:00",
-              "10:00:00",
-              "11:00:00",
-              "12:00:00",
-              "13:00:00",
-              "14:00:00",
-              "15:00:00",
-              "16:00:00",
-              "17:00:00",
-              "18:00:00"
+              "07:30:00",
+              "08:00:00"
             ]
           },
           "Incline to Tahoe City": {
@@ -6369,57 +6437,21 @@
               "19:00:00"
             ]
           },
-          "Tahoma to Tahoe City": {}
-        }
-      }
-    },
-    "3049_ar": {
-      "routes": {
-        "ML": {
-          "Tahoma to Incline": true
-        }
-      },
-      "lon": "-119.92895",
-      "title": "Tunnel Creek Bonanza (Arrive)",
-      "tag": "3049_ar",
-      "lat": "39.2366799",
-      "scheduleRoutes": {
-        "ML": {
-          "Tahoe City to Incline": {
+          "Tahoma to Tahoe City": {
             "allwk": [
-              "07:20:00"
-            ]
-          },
-          "Tahoma to Incline": {
-            "allwk": [
-              "08:33:00",
-              "09:33:00",
-              "10:33:00",
-              "11:33:00",
-              "12:33:00",
-              "13:33:00",
-              "14:33:00",
-              "15:33:00",
-              "16:33:00",
-              "17:33:00"
+              "06:27:00",
+              "18:27:00"
             ]
           }
-        }
-      }
-    },
-    "1760_ar": {
-      "routes": {
-        "ML": {
-          "Incline to Crystal Bay": true
-        }
-      },
-      "lon": "-120.00576",
-      "title": "Hwy 28 at Tahoe Biltmore (Shelter) - Arrive",
-      "tag": "1760_ar",
-      "lat": "39.2274199",
-      "scheduleRoutes": {
-        "ML": {
-          "Incline to Crystal Bay": {}
+        },
+        "WSN": {
+          "Tahoma to Tahoe City": {
+            "allwk": [
+              "19:30:00",
+              "20:30:00",
+              "21:30:00"
+            ]
+          }
         }
       }
     },
@@ -6431,8 +6463,8 @@
         }
       },
       "lon": "-120.12273",
-      "title": "Sugar Pine Point State Park",
       "tag": "2091_ar",
+      "title": "Sugar Pine Point State Park",
       "lat": "39.0576999",
       "scheduleRoutes": {
         "ML": {
@@ -6459,6 +6491,35 @@
         }
       }
     },
+    "3049_ar": {
+      "routes": {
+        "ML": {
+          "Tahoma to Incline": true
+        }
+      },
+      "lon": "-119.92895",
+      "tag": "3049_ar",
+      "title": "Tunnel Creek Bonanza (Arrive)",
+      "lat": "39.2366799",
+      "scheduleRoutes": {
+        "ML": {
+          "Tahoma to Incline": {
+            "allwk": [
+              "08:33:00",
+              "09:33:00",
+              "10:33:00",
+              "11:33:00",
+              "12:33:00",
+              "13:33:00",
+              "14:33:00",
+              "15:33:00",
+              "16:33:00",
+              "17:33:00"
+            ]
+          }
+        }
+      }
+    },
     "1747_ar": {
       "routes": {
         "ML": {
@@ -6467,20 +6528,43 @@
         }
       },
       "lon": "-119.94377",
-      "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Arrive",
       "tag": "1747_ar",
+      "title": "Lakeshore Dr at Country Club Dr (Hyatt) - Arrive",
       "lat": "39.2393499",
       "scheduleRoutes": {
         "ML": {
           "Tahoe City to Incline": {
             "allwk": [
               "06:42:00",
+              "07:12:00",
               "19:12:00"
             ]
           },
           "Tahoma to Incline": {
             "allwk": [
               "18:12:00"
+            ]
+          }
+        }
+      }
+    },
+    "1760_ar": {
+      "routes": {
+        "ML": {
+          "Incline to Crystal Bay": true
+        }
+      },
+      "lon": "-120.00576",
+      "tag": "1760_ar",
+      "title": "Hwy 28 at Tahoe Biltmore (Shelter) - Arrive",
+      "lat": "39.2274199",
+      "scheduleRoutes": {
+        "ML": {
+          "Incline to Crystal Bay": {
+            "allwk": [
+              "05:55:00",
+              "07:25:00",
+              "19:25:00"
             ]
           }
         }
@@ -6496,8 +6580,8 @@
         }
       },
       "lon": "-120.12155",
-      "title": "Northstar Village Gate # 7",
       "tag": "504_ar",
+      "title": "Northstar Village Gate # 7",
       "lat": "39.2761599",
       "scheduleRoutes": {
         "NSPM": {
@@ -6528,8 +6612,8 @@
         }
       },
       "lon": "-120.29031",
-      "title": "Donner Pass Rd at South Shore Dr (Bus Shelter)",
       "tag": "632_ar",
+      "title": "Donner Pass Rd at South Shore Dr (Bus Shelter)",
       "lat": "39.3231299",
       "scheduleRoutes": {
         "TLR": {
@@ -6552,16 +6636,28 @@
         }
       }
     },
-    "614_ar": {
+    "617_ar": {
+      "routes": {},
+      "lon": "-120.1686",
+      "tag": "617_ar",
+      "title": "Estates Dr at Senior Apartments",
+      "lat": "39.3268699",
+      "scheduleRoutes": {
+        "TLR": {
+          "Henness Rd to Truckee Depot": {}
+        }
+      }
+    },
+    "3047_ar": {
       "routes": {
         "TLR": {
           "Donner Pass Rd to Henness Rd": true
         }
       },
-      "lon": "-120.17111",
+      "lon": "-120.17101",
+      "tag": "3047_ar",
       "title": "Edwin Rd at Henness Rd (Bus Shelter)",
-      "tag": "614_ar",
-      "lat": "39.3415099",
+      "lat": "39.3415499",
       "scheduleRoutes": {
         "TLR": {
           "Donner Pass Rd to Henness Rd": {
@@ -6590,8 +6686,8 @@
         }
       },
       "lon": "-120.2328",
-      "title": "Squaw Parking Lot at Village (Shelter in Building)",
       "tag": "406_ar",
+      "title": "Squaw Parking Lot at Village (Shelter in Building)",
       "lat": "39.1970399",
       "scheduleRoutes": {
         "TSQPM": {
@@ -6613,8 +6709,8 @@
         }
       },
       "lon": "-120.12832",
-      "title": "Hwy 89 at Tahoma Post Office (Lodge)",
       "tag": "122_ar",
+      "title": "Hwy 89 at Tahoma Post Office (Lodge)",
       "lat": "39.0672399",
       "scheduleRoutes": {
         "WSN": {

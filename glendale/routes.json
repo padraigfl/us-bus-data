@@ -7,66 +7,60 @@
       "shortTitle": "11 EX Dwntwn-GTC",
       "oppositeColor": "ffffff",
       "max": [
-        34.15751,
-        -118.2471958
+        34.1587247,
+        -118.2545401
       ],
       "min": [
         34.12459,
-        -118.2600614
+        -118.2600604
       ],
       "stops": {
-        "Southbound to Glendale Trans Center": [
-          "gtc_s",
-          "centbroa_s",
-          "montbran_s",
-          "dorabran_s",
-          "branlexi_s",
-          "wilsmary_s",
-          "wilsglen_s",
-          "colojack_s",
-          "colobran_s"
-        ],
-        "Northbound": [
+        "Northbound to Monterey/Brand": [
           "gtc_n",
+          "cenlau_n",
+          "brache_n",
           "brancolo_n",
           "branbroa_n",
+          "bracal_n",
           "branlexi_n",
-          "branmilf_n",
+          "branmilf_n"
+        ],
+        "Southbound to Glendale Trans Center": [
           "montbran_n",
-          "wilsglen_n",
-          "colojack_n",
-          "colobran_n"
+          "branglen_s",
+          "branmont_s",
+          "dorabran_s",
+          "branmilf_s",
+          "branlexi_s",
+          "brancali_s",
+          "branbroa_s",
+          "colobran_s",
+          "branchev_s"
         ]
       },
       "scheduledStops": {
         "inbound": [
           "gtc_n",
-          "brancolo_n",
-          "montbran_n",
-          "wilsglen_n",
-          "colojack_n",
-          "gtc_n_a"
+          "branbroa_n",
+          "montbran_a"
         ],
         "outbound": [
-          "montbran_s",
-          "wilsmary_s",
-          "wilsglen_s",
-          "colojack_s",
-          "gtc_s_a",
-          "gtc_s"
+          "montbran_n",
+          "branbroa_s",
+          "gtc_a"
         ]
       },
       "scheduledTimeRange": {
-        "NBgtc": {
+        "NBmonbra": {
           "wkd": {
-            "first": "06:05:00",
+            "first": "02:28:00",
             "last": "09:10:00"
           }
         },
         "SBgtc": {
           "wkd": {
-            "first": "14:51:00",
-            "last": "18:22:00"
+            "first": "02:48:00",
+            "last": "09:27:00"
           }
         }
       }
@@ -149,13 +143,13 @@
         "2britc_d": {
           "wkd": {
             "first": "06:05:00",
-            "last": "18:23:00"
+            "last": "18:25:00"
           }
         },
         "2gtc_d": {
           "wkd": {
             "first": "05:58:00",
-            "last": "18:00:00"
+            "last": "18:02:00"
           }
         }
       }
@@ -175,35 +169,6 @@
         -118.2549294
       ],
       "stops": {
-        "Southbound to Glendale Galleria": [
-          "lacmont",
-          "lacpie",
-          "honlac",
-          "honros",
-          "honlas",
-          "honoce",
-          "verhon",
-          "versun",
-          "veroce",
-          "vergle",
-          "veroak",
-          "verglo",
-          "verfer",
-          "verope",
-          "vercre",
-          "verkir",
-          "gcc_s",
-          "vermou",
-          "glever",
-          "glegle",
-          "glemon",
-          "gledor",
-          "glelex",
-          "glecal",
-          "glewil",
-          "glebro",
-          "brojac"
-        ],
         "Northbound": [
           "harlou_d",
           "BraBro_d",
@@ -237,6 +202,35 @@
           "honlac_n",
           "montpenn_n",
           "montram_n"
+        ],
+        "Southbound to Glendale Galleria": [
+          "lacmont",
+          "lacpie",
+          "honlac",
+          "honros",
+          "honlas",
+          "honoce",
+          "verhon",
+          "versun",
+          "veroce",
+          "vergle",
+          "veroak",
+          "verglo",
+          "verfer",
+          "verope",
+          "vercre",
+          "verkir",
+          "gcc_s",
+          "vermou",
+          "glever",
+          "glegle",
+          "glemon",
+          "gledor",
+          "glelex",
+          "glecal",
+          "glewil",
+          "glebro",
+          "brojac"
         ]
       },
       "scheduledStops": {
@@ -256,22 +250,14 @@
       "scheduledTimeRange": {
         "NB": {
           "sat": {
-            "first": "09:12:00",
-            "last": "16:52:00"
-          },
-          "sun": {
-            "first": "09:12:00",
-            "last": "16:52:00"
+            "first": "09:10:00",
+            "last": "16:55:00"
           }
         },
         "SBgall": {
           "sat": {
-            "first": "09:48:00",
-            "last": "17:28:00"
-          },
-          "sun": {
-            "first": "09:48:00",
-            "last": "17:28:00"
+            "first": "09:44:00",
+            "last": "17:30:00"
           }
         }
       }
@@ -337,14 +323,14 @@
       "scheduledTimeRange": {
         "NBgcc": {
           "wkd": {
-            "first": "08:56:00",
-            "last": "18:09:00"
+            "first": "08:51:00",
+            "last": "15:00:00"
           }
         },
         "SBgall": {
           "wkd": {
-            "first": "09:13:00",
-            "last": "18:27:00"
+            "first": "09:07:00",
+            "last": "15:16:00"
           }
         }
       }
@@ -364,24 +350,6 @@
         -118.2280601
       ],
       "stops": {
-        "Eastbound to JPL": [
-          "montwalt_e",
-          "montocn_e",
-          "foooce",
-          "foocas_e",
-          "foopal_e",
-          "foohila_e",
-          "fooalt_e",
-          "foolas",
-          "foocor_e",
-          "fooche",
-          "foobeu",
-          "foocom_e",
-          "foooak_e",
-          "foogou_e",
-          "foocro_e",
-          "oakfoo_e"
-        ],
         "Westbound to Montrose": [
           "jpl_d",
           "oakfoo",
@@ -402,11 +370,29 @@
           "ocanmont_w",
           "ocnhono_w",
           "verdhono_w"
+        ],
+        "Eastbound to JPL": [
+          "montwalt_e",
+          "montocn_e",
+          "foooce",
+          "foocas_e",
+          "foopal_e",
+          "foohila_e",
+          "fooalt_e",
+          "foolas",
+          "foocor_e",
+          "fooche",
+          "foobeu",
+          "foocom_e",
+          "foooak_e",
+          "foogou_e",
+          "foocro_e",
+          "oakfoo_e"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "montocn_e",
+          "montwalt_e",
           "foocor_e",
           "jpl_a"
         ],
@@ -419,14 +405,14 @@
       "scheduledTimeRange": {
         "EBjpl": {
           "wkd": {
-            "first": "06:30:00",
+            "first": "06:27:00",
             "last": "17:48:00"
           }
         },
         "WBmont": {
           "wkd": {
             "first": "06:44:00",
-            "last": "18:05:00"
+            "last": "18:06:00"
           }
         }
       }
@@ -447,6 +433,7 @@
       ],
       "stops": {
         "Eastbound La Canada High": [
+          "montwalt_e",
           "montocn_e",
           "foooce",
           "foocas",
@@ -460,8 +447,7 @@
           "foocom_e",
           "foooak_e",
           "foogou_e",
-          "foocro",
-          "montwalt_e"
+          "foocro"
         ],
         "Westbound to Montrose": [
           "lchs_w",
@@ -486,7 +472,7 @@
       },
       "scheduledStops": {
         "inbound": [
-          "montocn_e",
+          "montwalt_e",
           "foocor_e",
           "lchs_a"
         ],
@@ -499,14 +485,14 @@
       "scheduledTimeRange": {
         "EBlchs": {
           "wkd": {
-            "first": "14:04:00",
-            "last": "16:16:00"
+            "first": "14:03:00",
+            "last": "16:17:00"
           }
         },
         "WBmont": {
           "wkd": {
             "first": "14:28:00",
-            "last": "16:33:00"
+            "last": "16:35:00"
           }
         }
       }
@@ -518,8 +504,8 @@
       "shortTitle": "1 Downtown-GTC",
       "oppositeColor": "000000",
       "max": [
-        34.163641,
-        -118.2550191
+        34.16373,
+        -118.254934
       ],
       "min": [
         34.1241371,
@@ -527,179 +513,82 @@
       ],
       "stops": {
         "Southbound to Glendale Trans Center": [
-          "StoBra",
-          "BraDry",
-          "BraGle",
-          "BraMon",
-          "BraDor",
-          "BraMil",
-          "BraLex",
-          "BraCal",
-          "BraWil",
-          "BraBro",
-          "BraCol",
-          "BraLom",
-          "BraMap",
-          "BraGarf",
-          "BraChe",
-          "BraMag",
-          "BraLos",
-          "CenLau"
-        ],
-        "Northbound to Central/Stocker": [
-          "GTC_d",
-          "CenLau_n",
-          "CenLos",
-          "CenMag",
-          "CenChe",
-          "CenWin",
-          "CenLom",
-          "CenCol",
-          "CenHar",
-          "CenBro",
-          "CenCal",
-          "CenMil",
-          "CenDor",
-          "CenArd",
-          "CenGle",
-          "CenDry",
-          "CenSto"
-        ]
-      },
-      "scheduledStops": {
-        "inbound": [
-          "GTC_d",
-          "CenBro"
-        ],
-        "outbound": [
-          "StoBra",
-          "BraBro",
-          "GTC_a"
-        ]
-      },
-      "scheduledTimeRange": {
-        "NBcentsto": {
-          "wkd": {
-            "first": "05:57:00",
-            "last": "19:05:00"
-          },
-          "sat": {
-            "first": "09:10:00",
-            "last": "17:40:00"
-          },
-          "sun": {
-            "first": "09:10:00",
-            "last": "17:40:00"
-          }
-        },
-        "SBgtc": {
-          "wkd": {
-            "first": "06:14:00",
-            "last": "19:26:00"
-          },
-          "sat": {
-            "first": "09:27:00",
-            "last": "18:01:00"
-          },
-          "sun": {
-            "first": "09:27:00",
-            "last": "18:01:00"
-          }
-        }
-      }
-    },
-    "02": {
-      "title": "2 - Glendale Transportation Center (GTC) to Downtown Glendale (Brand Bl)",
-      "color": "ff3333",
-      "tag": "02",
-      "shortTitle": "2 Downtown-GTC",
-      "oppositeColor": "ffffff",
-      "max": [
-        34.1637299,
-        -118.254801
-      ],
-      "min": [
-        34.1241371,
-        -118.2602989
-      ],
-      "stops": {
-        "Southbound to Glendale Trans Center": [
-          "StoBra",
-          "CenSto",
-          "CenDry",
-          "CenArd",
-          "CenDor",
-          "CenMil",
-          "CenLex",
-          "CenCal",
-          "CenBro",
-          "CenHar",
-          "CenCol",
-          "CenLom",
-          "CenWin",
-          "CenChe",
-          "CenMag",
-          "CenLos",
-          "CenLau"
+          "stobra",
+          "censto_i",
+          "cendry_i",
+          "cengle_i",
+          "cenard_i",
+          "cendor_i",
+          "cenmil_i",
+          "cenlex_i",
+          "cencal_i",
+          "cenbro_i",
+          "cename_i",
+          "cencol_i",
+          "cenlom_i",
+          "cenwin_i",
+          "cenche_i",
+          "cenmag_i",
+          "cenlos_i",
+          "cenlau_i"
         ],
         "Northbound to Stocker/Brand": [
-          "GTC_d",
-          "CenLau_n",
-          "BraLos",
-          "BraMag",
-          "BraChe",
-          "BraGarf",
-          "BraMap",
-          "BraLom",
-          "BraCol",
-          "BraHar",
-          "BraBro",
-          "BraWil",
-          "BraCal",
-          "BraLex",
-          "BraMil",
-          "BraMon",
-          "BraFai"
+          "gtc_d",
+          "cenlau",
+          "cenlos",
+          "cenmag",
+          "cenche",
+          "cenwin",
+          "cenlom",
+          "cencol",
+          "cename",
+          "cenbro",
+          "cencal",
+          "cenlex",
+          "cenmil",
+          "cendor",
+          "cenard",
+          "brafai"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "GTC_d",
-          "BraBro"
+          "gtc_d",
+          "cenbro"
         ],
         "outbound": [
-          "StoBra",
-          "CenHar",
-          "GTC_a"
+          "stobra",
+          "cenbro_i",
+          "gtc_a"
         ]
       },
       "scheduledTimeRange": {
         "NBstobra": {
           "wkd": {
             "first": "05:50:00",
-            "last": "18:53:00"
+            "last": "19:08:00"
           },
           "sat": {
             "first": "09:00:00",
-            "last": "17:30:00"
+            "last": "17:40:00"
           },
           "sun": {
             "first": "09:00:00",
-            "last": "17:30:00"
+            "last": "17:40:00"
           }
         },
         "SBgtc": {
           "wkd": {
-            "first": "06:07:00",
-            "last": "19:14:00"
+            "first": "06:08:00",
+            "last": "19:27:00"
           },
           "sat": {
-            "first": "09:17:00",
-            "last": "17:51:00"
+            "first": "09:23:00",
+            "last": "18:03:00"
           },
           "sun": {
-            "first": "09:17:00",
-            "last": "17:51:00"
+            "first": "09:23:00",
+            "last": "18:03:00"
           }
         }
       }
@@ -719,60 +608,6 @@
         -118.2549294
       ],
       "stops": {
-        "Northbound to JPL": [
-          "harlou_d",
-          "BraBro_d",
-          "brobra",
-          "brolou",
-          "brojac_n",
-          "glebro_n",
-          "glewil_n",
-          "glecal_n",
-          "glelex_n",
-          "gledor_n",
-          "glemon_n",
-          "glegle_n",
-          "glever_n",
-          "vercal",
-          "gcc",
-          "verver",
-          "verkir_n",
-          "vercre_n",
-          "verbar",
-          "verfer_n",
-          "verglo_n",
-          "veralp",
-          "verbag",
-          "vergle_n",
-          "verelc",
-          "versun_n",
-          "honoview",
-          "honora",
-          "honros_n",
-          "honlac_n",
-          "lacpie_n",
-          "lacmon_n",
-          "lacalt_n",
-          "lacpro_n",
-          "lacmar_n",
-          "fooray_n",
-          "fooros_n",
-          "foobri_n",
-          "foooce_n",
-          "foocas_n",
-          "foopal_n",
-          "foohila_n",
-          "fooalt_n",
-          "foolas",
-          "foocor_n",
-          "fooche_n",
-          "foobeu",
-          "foocom_n",
-          "foooak_n",
-          "foogou_n",
-          "foocro_n",
-          "oakfoo_n"
-        ],
         "Southbound to Glendale Galleria": [
           "jpl_d",
           "oakfoo",
@@ -826,6 +661,60 @@
           "glebro",
           "brojac",
           "harlou_a"
+        ],
+        "Northbound to JPL": [
+          "harlou_d",
+          "BraBro_d",
+          "brobra",
+          "brolou",
+          "brojac_n",
+          "glebro_n",
+          "glewil_n",
+          "glecal_n",
+          "glelex_n",
+          "gledor_n",
+          "glemon_n",
+          "glegle_n",
+          "glever_n",
+          "vercal",
+          "gcc",
+          "verver",
+          "verkir_n",
+          "vercre_n",
+          "verbar",
+          "verfer_n",
+          "verglo_n",
+          "veralp",
+          "verbag",
+          "vergle_n",
+          "verelc",
+          "versun_n",
+          "honoview",
+          "honora",
+          "honros_n",
+          "honlac_n",
+          "lacpie_n",
+          "lacmon_n",
+          "lacalt_n",
+          "lacpro_n",
+          "lacmar_n",
+          "fooray_n",
+          "fooros_n",
+          "foobri_n",
+          "foooce_n",
+          "foocas_n",
+          "foopal_n",
+          "foohila_n",
+          "fooalt_n",
+          "foolas",
+          "foocor_n",
+          "fooche_n",
+          "foobeu",
+          "foocom_n",
+          "foooak_n",
+          "foogou_n",
+          "foocro_n",
+          "oakfoo_n"
         ]
       },
       "scheduledStops": {
@@ -853,7 +742,7 @@
         },
         "SBgall": {
           "wkd": {
-            "first": "05:19:00",
+            "first": "05:11:00",
             "last": "20:20:00"
           }
         }
@@ -870,29 +759,16 @@
         -118.23954
       ],
       "min": [
-        34.1323106,
-        -118.25797
+        34.1241371,
+        -118.260299
       ],
       "stops": {
-        "Southbound To Chevy Chase/Brand": [
-          "colcent_d",
-          "BraCol",
-          "louiharv",
-          "isabharv",
-          "broaglen",
-          "cedabroa",
-          "adambroa",
-          "broachev",
-          "colochev",
-          "maplchev",
-          "garfchev",
-          "adamchev",
-          "midbchev",
-          "boynchev",
-          "palmglen",
-          "branpalm"
-        ],
         "Northbound to Glendale Galleria": [
+          "gtc_d",
+          "cenlau",
+          "cenlos",
+          "cenmag",
+          "chevcent",
           "chevbran_d",
           "chevglen",
           "chevboyn",
@@ -911,25 +787,63 @@
           "branbroa",
           "centbroa",
           "centharv"
+        ],
+        "Southbound to Glendale Trans Center": [
+          "colcent_d",
+          "BraCol",
+          "louiharv",
+          "isabharv",
+          "broaglen",
+          "cedabroa",
+          "adambroa",
+          "broachev",
+          "colochev",
+          "maplchev",
+          "garfchev",
+          "adamchev",
+          "midbchev",
+          "boynchev",
+          "chevglen_i",
+          "chevbran_i",
+          "chevcent_i",
+          "cenmag_i",
+          "cenlos_i",
+          "cenlau_i"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "chevbran_d",
-          "chevgarf",
-          "glenbroa"
-        ],
-        "outbound": [
           "colcent_d",
           "broaglen",
           "garfchev",
-          "chevbran_a"
+          "chevbran_i",
+          "gtc_a"
+        ],
+        "outbound": [
+          "gtc_d",
+          "chevbran_d",
+          "chevgarf",
+          "glenbroa"
         ]
       },
       "scheduledTimeRange": {
+        "SBgtc": {
+          "wkd": {
+            "first": "06:27:00",
+            "last": "18:25:00"
+          },
+          "sat": {
+            "first": "09:29:00",
+            "last": "16:55:00"
+          },
+          "sun": {
+            "first": "09:29:00",
+            "last": "16:55:00"
+          }
+        },
         "gga": {
           "wkd": {
-            "first": "06:00:00",
+            "first": "05:56:00",
             "last": "17:52:00"
           },
           "sat": {
@@ -939,20 +853,6 @@
           "sun": {
             "first": "09:00:00",
             "last": "16:25:00"
-          }
-        },
-        "rms": {
-          "wkd": {
-            "first": "06:26:00",
-            "last": "18:18:00"
-          },
-          "sat": {
-            "first": "09:23:00",
-            "last": "16:48:00"
-          },
-          "sun": {
-            "first": "09:23:00",
-            "last": "16:48:00"
           }
         }
       }
@@ -968,7 +868,7 @@
         -118.2579398
       ],
       "min": [
-        34.13876,
+        34.133669,
         -118.2697246
       ],
       "stops": {
@@ -987,10 +887,12 @@
           "colcol",
           "CenCol",
           "CenLom",
-          "rivcol"
+          "cenwin",
+          "cenche",
+          "pacsan"
         ],
         "Northbound to Hoover High": [
-          "rivpac_d",
+          "pacriv_d",
           "pacvin",
           "paccol",
           "pacharv_n",
@@ -1004,21 +906,22 @@
       },
       "scheduledStops": {
         "inbound": [
-          "rivpac_d",
+          "pacriv_d",
           "pacdor_n",
           "glecon_a"
         ],
         "outbound": [
           "glecon_d",
           "pacdor",
-          "rivpac_a"
+          "cenche",
+          "pacriv_a"
         ]
       },
       "scheduledTimeRange": {
         "NBhoo": {
           "wkd": {
             "first": "06:27:00",
-            "last": "17:58:00"
+            "last": "18:07:00"
           },
           "sat": {
             "first": "09:00:00",
@@ -1028,11 +931,11 @@
         "SBrivpac": {
           "wkd": {
             "first": "06:38:00",
-            "last": "18:09:00"
+            "last": "18:18:00"
           },
           "sat": {
-            "first": "09:10:00",
-            "last": "16:46:00"
+            "first": "09:09:00",
+            "last": "16:47:00"
           }
         }
       }
@@ -1052,6 +955,22 @@
         -118.2689758
       ],
       "stops": {
+        "Westbound to Riverdale/Pacific": [
+          "brosin_d",
+          "brocar",
+          "coleag",
+          "colcam",
+          "colver",
+          "colfis",
+          "colche",
+          "colada",
+          "coleve",
+          "colgle",
+          "collou",
+          "colbra",
+          "colcol",
+          "paccol"
+        ],
         "Eastbound to Glendale High": [
           "rivepaci_d",
           "sanriv",
@@ -1068,22 +987,6 @@
           "colfis_e",
           "vercol",
           "verbro"
-        ],
-        "Westbound to Riverdale/Pacific": [
-          "brosin_d",
-          "brocar",
-          "coleag",
-          "colcam",
-          "colver",
-          "colfis",
-          "colche",
-          "colada",
-          "coleve",
-          "colgle",
-          "collou",
-          "colbra",
-          "colcol",
-          "paccol"
         ]
       },
       "scheduledStops": {
@@ -1102,21 +1005,21 @@
         "EBbroasin": {
           "wkd": {
             "first": "06:14:00",
-            "last": "17:49:00"
+            "last": "17:50:00"
           },
           "sat": {
             "first": "09:00:00",
-            "last": "16:30:00"
+            "last": "16:39:00"
           }
         },
         "WBpacriv": {
           "wkd": {
             "first": "06:29:00",
-            "last": "18:09:00"
+            "last": "18:11:00"
           },
           "sat": {
             "first": "09:17:00",
-            "last": "16:47:00"
+            "last": "16:57:00"
           }
         }
       }
@@ -1228,21 +1131,124 @@
         "2gcc": {
           "wkd": {
             "first": "06:18:00",
-            "last": "17:48:00"
+            "last": "17:50:00"
           },
           "sat": {
             "first": "09:00:00",
-            "last": "15:55:00"
+            "last": "16:00:00"
           }
         },
         "2vicwest": {
           "wkd": {
-            "first": "07:01:00",
-            "last": "18:03:00"
+            "first": "07:05:00",
+            "last": "18:10:00"
           },
           "sat": {
-            "first": "09:38:00",
-            "last": "16:33:00"
+            "first": "09:45:00",
+            "last": "16:55:00"
+          }
+        }
+      }
+    },
+    "08": {
+      "title": "8 - Glendale Transportation Center to Glendale Community College",
+      "color": "009add",
+      "tag": "08",
+      "shortTitle": "8 GTC-GCC",
+      "oppositeColor": "000000",
+      "max": [
+        34.1685799,
+        -118.2290099
+      ],
+      "min": [
+        34.123164,
+        -118.260299
+      ],
+      "stops": {
+        "Southbound to Glendale Trans Center": [
+          "gcc",
+          "vermou",
+          "glever_i",
+          "glegle_i",
+          "glemon_i",
+          "gledor_i",
+          "glelex_i",
+          "glecal_i",
+          "glewil_i",
+          "glebro_i",
+          "glehar_i",
+          "glecol_i",
+          "glelom_i",
+          "glemap_i",
+          "glewin_i",
+          "gleche_i",
+          "glepal_i",
+          "glelos_i",
+          "glecer_i",
+          "sanbra_i",
+          "sancer_i",
+          "gtc_a"
+        ],
+        "Northbound to Glendale College": [
+          "gtc_d",
+          "sancer",
+          "sanbra",
+          "glesan",
+          "glecer",
+          "glelos",
+          "glepal",
+          "gleche",
+          "glewin",
+          "glemap",
+          "glelom",
+          "glecol",
+          "glehar",
+          "glebro",
+          "glewil",
+          "glecal",
+          "glelex",
+          "gledor",
+          "glemon",
+          "glegle",
+          "glever",
+          "vercal",
+          "verciv",
+          "cantow"
+        ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "gtc_d",
+          "gleche",
+          "glebro",
+          "cantow"
+        ],
+        "outbound": [
+          "gcc",
+          "glebro_i",
+          "gleche_i",
+          "gtc_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "NBgcc": {
+          "wkd": {
+            "first": "06:15:00",
+            "last": "18:00:00"
+          },
+          "sat": {
+            "first": "09:15:00",
+            "last": "16:52:00"
+          }
+        },
+        "SBgtc": {
+          "wkd": {
+            "first": "06:05:00",
+            "last": "18:25:00"
+          },
+          "sat": {
+            "first": "09:40:00",
+            "last": "17:22:00"
           }
         }
       }

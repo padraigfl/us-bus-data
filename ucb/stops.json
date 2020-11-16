@@ -21,11 +21,11 @@
           "": true
         }
       },
-      "lon": "-122.26764",
-      "title": "Downtown Berkeley: Shattuck at Addison",
-      "shortTitle": "Downtown Berkeley: Shattuck @ Addison",
       "stopId": "01",
+      "lon": "-122.26764",
       "tag": "berkbart_d",
+      "shortTitle": "Downtown Berkeley: Shattuck @ Addison",
+      "title": "Downtown Berkeley: Shattuck at Addison",
       "lat": "37.8712069",
       "scheduleRoutes": {
         "peri": {
@@ -56,6 +56,14 @@
               "18:00:00",
               "18:30:00",
               "19:00:00"
+            ]
+          }
+        },
+        "hill": {
+          "up": {
+            "wkd": [
+              "07:35:00",
+              "18:55:00"
             ]
           }
         },
@@ -90,16 +98,17 @@
         "rfs": {
           "loop": {
             "wkd": [
-              "17:25:00",
-              "18:25:00"
-            ]
-          }
-        },
-        "hill": {
-          "up": {
-            "wkd": [
-              "07:35:00",
-              "18:55:00"
+              "07:42:00",
+              "09:17:00",
+              "10:17:00",
+              "11:17:00",
+              "12:17:00",
+              "13:17:00",
+              "14:17:00",
+              "15:17:00",
+              "16:17:00",
+              "17:42:00",
+              "18:42:00"
             ]
           }
         },
@@ -260,11 +269,11 @@
           "": true
         }
       },
-      "lon": "-122.2659626",
-      "title": "Oxford at University",
-      "shortTitle": "Oxford @ University",
       "stopId": "02",
+      "lon": "-122.2659626",
       "tag": "oxfouniv",
+      "shortTitle": "Oxford @ University",
+      "title": "Oxford at University",
       "lat": "37.8727184"
     },
     "tolmhall": {
@@ -279,11 +288,11 @@
           "": true
         }
       },
-      "lon": "-122.2641524",
-      "title": "Tolman Hall: Hearst at Arch",
-      "shortTitle": "Tolman Hall: Hearst @ Arch",
       "stopId": "03",
+      "lon": "-122.2641524",
       "tag": "tolmhall",
+      "shortTitle": "Tolman Hall: Hearst @ Arch",
+      "title": "Tolman Hall: Hearst at Arch",
       "lat": "37.8744291"
     },
     "nortgate": {
@@ -298,11 +307,11 @@
           "": true
         }
       },
-      "lon": "-122.2605359",
-      "title": "North Gate: Hearst at Euclid",
-      "shortTitle": "North Gate: Hearst @ Euclid",
       "stopId": "04",
+      "lon": "-122.2605359",
       "tag": "nortgate",
+      "shortTitle": "North Gate: Hearst @ Euclid",
+      "title": "North Gate: Hearst at Euclid",
       "lat": "37.8749713",
       "scheduleRoutes": {
         "cent": {
@@ -347,11 +356,11 @@
           "": true
         }
       },
-      "lon": "-122.25798",
-      "title": "Cory Hall: Hearst at LeRoy",
-      "shortTitle": "Cory Hall: Hearst @ LeRoy",
       "stopId": "05",
+      "lon": "-122.25798",
       "tag": "coryhall",
+      "shortTitle": "Cory Hall: Hearst @ LeRoy",
+      "title": "Cory Hall: Hearst at LeRoy",
       "lat": "37.8753299",
       "scheduleRoutes": {
         "peri": {
@@ -408,10 +417,10 @@
           "": true
         }
       },
-      "lon": "-122.257378",
-      "title": "Evans Hall: Hearst Mining Circle",
       "stopId": "06",
+      "lon": "-122.257378",
       "tag": "evanhall",
+      "title": "Evans Hall: Hearst Mining Circle",
       "lat": "37.873397",
       "scheduleRoutes": {
         "peri": {
@@ -442,6 +451,35 @@
               "18:08:00",
               "18:38:00",
               "19:08:00"
+            ]
+          }
+        },
+        "hill": {
+          "up": {
+            "wkd": [
+              "07:40:00",
+              "08:10:00",
+              "08:40:00",
+              "09:10:00",
+              "09:40:00",
+              "10:10:00",
+              "10:40:00",
+              "11:10:00",
+              "11:40:00",
+              "12:10:00",
+              "12:40:00",
+              "13:10:00",
+              "13:40:00",
+              "14:10:00",
+              "14:40:00",
+              "15:10:00",
+              "15:40:00",
+              "16:10:00",
+              "16:40:00",
+              "17:10:00",
+              "17:40:00",
+              "18:10:00",
+              "19:00:00"
             ]
           }
         },
@@ -485,36 +523,8 @@
               "14:10:00",
               "15:10:00",
               "16:10:00",
-              "17:30:00"
-            ]
-          }
-        },
-        "hill": {
-          "up": {
-            "wkd": [
-              "07:40:00",
-              "08:10:00",
-              "08:40:00",
-              "09:10:00",
-              "09:40:00",
-              "10:10:00",
-              "10:40:00",
-              "11:10:00",
-              "11:40:00",
-              "12:10:00",
-              "12:40:00",
-              "13:10:00",
-              "13:40:00",
-              "14:10:00",
-              "14:40:00",
-              "15:10:00",
-              "15:40:00",
-              "16:10:00",
-              "16:40:00",
-              "17:10:00",
-              "17:40:00",
-              "18:10:00",
-              "19:00:00"
+              "17:30:00",
+              "18:30:00"
             ]
           }
         },
@@ -672,11 +682,11 @@
           "": true
         }
       },
-      "lon": "-122.2539348",
-      "title": "Gayley at Stadium Rimway",
-      "shortTitle": "Gayley @ Stadium Rimway",
       "stopId": "07",
+      "lon": "-122.2539348",
       "tag": "gaylstad",
+      "shortTitle": "Gayley @ Stadium Rimway",
+      "title": "Gayley at Stadium Rimway",
       "lat": "37.8726373"
     },
     "haasbusi": {
@@ -688,11 +698,11 @@
           "": true
         }
       },
-      "lon": "-122.2528359",
-      "title": "Haas School of Business: Piedmont Avenue (south)",
-      "shortTitle": "Haas School of Business: Piedmont (south)",
       "stopId": "08",
+      "lon": "-122.2528359",
       "tag": "haasbusi",
+      "shortTitle": "Haas School of Business: Piedmont (south)",
+      "title": "Haas School of Business: Piedmont Avenue (south)",
       "lat": "37.8710459"
     },
     "intehous": {
@@ -707,11 +717,11 @@
           "": true
         }
       },
-      "lon": "-122.2523754",
-      "title": "International House: Piedmont at Bancroft",
-      "shortTitle": "International House: Piedmont @ Bancroft",
       "stopId": "09",
+      "lon": "-122.2523754",
       "tag": "intehous",
+      "shortTitle": "International House: Piedmont @ Bancroft",
+      "title": "International House: Piedmont at Bancroft",
       "lat": "37.8697323",
       "scheduleRoutes": {
         "ntsafens": {
@@ -776,11 +786,11 @@
           "": true
         }
       },
-      "lon": "-122.2519109",
-      "title": "Piedmont at Channing",
-      "shortTitle": "Piedmont @ Channing",
       "stopId": "10",
+      "lon": "-122.2519109",
       "tag": "piedchan",
+      "shortTitle": "Piedmont @ Channing",
+      "title": "Piedmont at Channing",
       "lat": "37.8674549"
     },
     "collast": {
@@ -789,11 +799,11 @@
           "": true
         }
       },
-      "lon": "-122.2540707",
-      "title": "College at Haste",
-      "shortTitle": "College @ Haste",
       "stopId": "11",
+      "lon": "-122.2540707",
       "tag": "collast",
+      "shortTitle": "College @ Haste",
+      "title": "College at Haste",
       "lat": "37.8667424"
     },
     "krobhall": {
@@ -805,11 +815,11 @@
           "": true
         }
       },
-      "lon": "-122.2551466",
-      "title": "Kroeber Hall: Bancroft at College",
-      "shortTitle": "Kroeber Hall: Bancroft @ College",
       "stopId": "12",
+      "lon": "-122.2551466",
       "tag": "krobhall",
+      "shortTitle": "Kroeber Hall: Bancroft @ College",
+      "title": "Kroeber Hall: Bancroft at College",
       "lat": "37.869285",
       "scheduleRoutes": {
         "peri": {
@@ -854,11 +864,11 @@
           "": true
         }
       },
-      "lon": "-122.2571773",
-      "title": "Hearst Memorial Gym: Bancroft at Bowditch",
-      "shortTitle": "Hearst Memorial Gym: Bancroft @ Bowditch",
       "stopId": "13",
+      "lon": "-122.2571773",
       "tag": "hrstmemo",
+      "shortTitle": "Hearst Memorial Gym: Bancroft @ Bowditch",
+      "title": "Hearst Memorial Gym: Bancroft at Bowditch",
       "lat": "37.869015"
     },
     "sprouhall": {
@@ -870,11 +880,11 @@
           "": true
         }
       },
-      "lon": "-122.2597038",
-      "title": "Sproul Hall: Bancroft at Telegraph",
-      "shortTitle": "Sproul Hall: Bancroft @ Telegraph",
       "stopId": "14",
+      "lon": "-122.2597038",
       "tag": "sprouhall",
+      "shortTitle": "Sproul Hall: Bancroft @ Telegraph",
+      "title": "Sproul Hall: Bancroft at Telegraph",
       "lat": "37.8686968"
     },
     "bancells": {
@@ -886,11 +896,11 @@
           "": true
         }
       },
-      "lon": "-122.2639993",
-      "title": "Recreational Sport Facility: Bancroft at Ellsworth",
-      "shortTitle": "Recreational Sport Facility: Bancroft @ Ellsworth",
       "stopId": "15",
+      "lon": "-122.2639993",
       "tag": "bancells",
+      "shortTitle": "Recreational Sport Facility: Bancroft @ Ellsworth",
+      "title": "Recreational Sport Facility: Bancroft at Ellsworth",
       "lat": "37.8681548",
       "scheduleRoutes": {
         "ntsafens": {
@@ -958,11 +968,11 @@
           "": true
         }
       },
-      "lon": "-122.26749",
-      "title": "Banway Building: Bancroft at Shattuck",
-      "shortTitle": "Banway Building: Bancroft @ Shattuck",
       "stopId": "16",
+      "lon": "-122.26749",
       "tag": "bancshat",
+      "shortTitle": "Banway Building: Bancroft @ Shattuck",
+      "title": "Banway Building: Bancroft at Shattuck",
       "lat": "37.8676846"
     },
     "shatkitt": {
@@ -974,12 +984,902 @@
           "": true
         }
       },
-      "lon": "-122.2677474",
-      "title": "Shattuck at Kittredge",
-      "shortTitle": "Shattuck @ Kittredge",
       "stopId": "17",
+      "lon": "-122.2677474",
       "tag": "shatkitt",
+      "shortTitle": "Shattuck @ Kittredge",
+      "title": "Shattuck at Kittredge",
       "lat": "37.8683866"
+    },
+    "shattall": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "40",
+      "lon": "-122.268032",
+      "tag": "shattall",
+      "shortTitle": "Downtown Berkeley BART: Shattuck @ Allston",
+      "title": "Downtown Berkeley BART: Shattuck at Allston",
+      "lat": "37.8692746",
+      "scheduleRoutes": {
+        "revperi": {
+          "haas": {
+            "wkd": [
+              "07:15:00",
+              "07:45:00",
+              "08:15:00",
+              "08:45:00",
+              "09:15:00",
+              "09:45:00",
+              "10:15:00",
+              "10:45:00",
+              "11:15:00",
+              "11:45:00",
+              "12:15:00",
+              "12:45:00",
+              "13:15:00",
+              "13:45:00",
+              "14:15:00",
+              "14:45:00",
+              "15:15:00",
+              "15:45:00",
+              "16:15:00",
+              "16:45:00",
+              "17:15:00",
+              "17:45:00",
+              "18:15:00"
+            ]
+          }
+        }
+      }
+    },
+    "shattkit": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "41",
+      "lon": "-122.2679538",
+      "tag": "shattkit",
+      "shortTitle": "Shattuck @ Kittredge",
+      "title": "Shattuck Ave at Kittredge St",
+      "lat": "37.8683816",
+      "scheduleRoutes": {
+        "revperi": {
+          "haas": {
+            "wkd": [
+              "07:16:00",
+              "07:46:00",
+              "08:16:00",
+              "08:46:00",
+              "09:16:00",
+              "09:46:00",
+              "10:16:00",
+              "10:46:00",
+              "11:16:00",
+              "11:46:00",
+              "12:16:00",
+              "12:46:00",
+              "13:16:00",
+              "13:46:00",
+              "14:16:00",
+              "14:46:00",
+              "15:16:00",
+              "15:46:00",
+              "16:16:00",
+              "16:46:00",
+              "17:16:00",
+              "17:46:00",
+              "18:16:00"
+            ]
+          }
+        }
+      }
+    },
+    "shatchan": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "60",
+      "lon": "-122.2669661",
+      "tag": "shatchan",
+      "shortTitle": "Manville Residence Hall: Shattuck @ Channing Wy",
+      "title": "Manville Residence Hall: Shattuck Ave at Channing Wy",
+      "lat": "37.8658309",
+      "scheduleRoutes": {
+        "revperi": {
+          "haas": {
+            "wkd": [
+              "07:18:00",
+              "07:48:00",
+              "08:18:00",
+              "08:48:00",
+              "09:18:00",
+              "09:48:00",
+              "10:18:00",
+              "10:48:00",
+              "11:18:00",
+              "11:48:00",
+              "12:18:00",
+              "12:48:00",
+              "13:18:00",
+              "13:48:00",
+              "14:18:00",
+              "14:48:00",
+              "15:18:00",
+              "15:48:00",
+              "16:18:00",
+              "16:48:00",
+              "17:18:00",
+              "17:48:00",
+              "18:18:00"
+            ]
+          }
+        }
+      }
+    },
+    "channell": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "44",
+      "lon": "-122.263176",
+      "tag": "channell",
+      "shortTitle": "Ellsworth Parking Structure: Channing Wy @ Ellsworth",
+      "title": "Ellsworth Parking Structure: Channing Wy at Ellsworth St",
+      "lat": "37.866313",
+      "scheduleRoutes": {
+        "revperi": {
+          "haas": {
+            "wkd": [
+              "07:19:00",
+              "07:49:00",
+              "08:19:00",
+              "08:49:00",
+              "09:19:00",
+              "09:49:00",
+              "10:19:00",
+              "10:49:00",
+              "11:19:00",
+              "11:49:00",
+              "12:19:00",
+              "12:49:00",
+              "13:19:00",
+              "13:49:00",
+              "14:19:00",
+              "14:49:00",
+              "15:19:00",
+              "15:49:00",
+              "16:19:00",
+              "16:49:00",
+              "17:19:00",
+              "17:49:00",
+              "18:19:00"
+            ]
+          }
+        }
+      }
+    },
+    "channtel": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "45",
+      "lon": "-122.259844",
+      "tag": "channtel",
+      "shortTitle": "Unit 3 Residence Hall: Channing Wy @ Telegraph",
+      "title": "Unit 3 Residence Hall: Channing Wy at Telegraph Ave",
+      "lat": "37.866758",
+      "scheduleRoutes": {
+        "revperi": {
+          "haas": {
+            "wkd": [
+              "07:20:00",
+              "07:50:00",
+              "08:20:00",
+              "08:50:00",
+              "09:20:00",
+              "09:50:00",
+              "10:20:00",
+              "10:50:00",
+              "11:20:00",
+              "11:50:00",
+              "12:20:00",
+              "12:50:00",
+              "13:20:00",
+              "13:50:00",
+              "14:20:00",
+              "14:50:00",
+              "15:20:00",
+              "15:50:00",
+              "16:20:00",
+              "16:50:00",
+              "17:20:00",
+              "17:50:00",
+              "18:20:00"
+            ]
+          }
+        }
+      }
+    },
+    "channbow": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "42",
+      "lon": "-122.2569123",
+      "tag": "channbow",
+      "shortTitle": "Channing Wy @ Bowditch",
+      "title": "Channing Wy at Bowditch St",
+      "lat": "37.8671329",
+      "scheduleRoutes": {
+        "revperi": {
+          "haas": {
+            "wkd": [
+              "07:21:00",
+              "07:51:00",
+              "08:21:00",
+              "08:51:00",
+              "09:21:00",
+              "09:51:00",
+              "10:21:00",
+              "10:51:00",
+              "11:21:00",
+              "11:51:00",
+              "12:21:00",
+              "12:51:00",
+              "13:21:00",
+              "13:51:00",
+              "14:21:00",
+              "14:51:00",
+              "15:21:00",
+              "15:51:00",
+              "16:21:00",
+              "16:51:00",
+              "17:21:00",
+              "17:51:00",
+              "18:21:00"
+            ]
+          }
+        }
+      }
+    },
+    "channcol": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "46",
+      "lon": "-122.254673",
+      "tag": "channcol",
+      "shortTitle": "Unit 1 Residence Hall: Channing Wy @ College",
+      "title": "Unit 1 Residence Hall: Channing Wy at College Ave",
+      "lat": "37.867413",
+      "scheduleRoutes": {
+        "revperi": {
+          "haas": {
+            "wkd": [
+              "07:22:00",
+              "07:52:00",
+              "08:22:00",
+              "08:52:00",
+              "09:22:00",
+              "09:52:00",
+              "10:22:00",
+              "10:52:00",
+              "11:22:00",
+              "11:52:00",
+              "12:22:00",
+              "12:52:00",
+              "13:22:00",
+              "13:52:00",
+              "14:22:00",
+              "14:52:00",
+              "15:22:00",
+              "15:52:00",
+              "16:22:00",
+              "16:52:00",
+              "17:22:00",
+              "17:52:00",
+              "18:22:00"
+            ]
+          }
+        }
+      }
+    },
+    "colhaste": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "11",
+      "lon": "-122.254042",
+      "tag": "colhaste",
+      "shortTitle": "Unit 2 Residence Hall: College @ Haste",
+      "title": "Unit 2 Residence Hall: College at Haste",
+      "lat": "37.8662024",
+      "scheduleRoutes": {
+        "revperi": {
+          "haas": {
+            "wkd": [
+              "07:24:00",
+              "07:54:00",
+              "08:24:00",
+              "08:54:00",
+              "09:24:00",
+              "09:54:00",
+              "10:24:00",
+              "10:54:00",
+              "11:24:00",
+              "11:54:00",
+              "12:24:00",
+              "12:54:00",
+              "13:24:00",
+              "13:54:00",
+              "14:24:00",
+              "14:54:00",
+              "15:24:00",
+              "15:54:00",
+              "16:24:00",
+              "16:54:00",
+              "17:24:00",
+              "17:54:00",
+              "18:24:00"
+            ]
+          }
+        }
+      }
+    },
+    "dwigpros": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "61",
+      "lon": "-122.249913",
+      "tag": "dwigpros",
+      "shortTitle": "Clark Kerr Campus: Dwight Wy @ Prospect",
+      "title": "Clark Kerr Campus: Dwight Wy at Prospect St",
+      "lat": "37.865952",
+      "scheduleRoutes": {
+        "revperi": {
+          "haas": {
+            "wkd": [
+              "07:25:00",
+              "07:55:00",
+              "08:25:00",
+              "08:55:00",
+              "09:25:00",
+              "09:55:00",
+              "10:25:00",
+              "10:55:00",
+              "11:25:00",
+              "11:55:00",
+              "12:25:00",
+              "12:55:00",
+              "13:25:00",
+              "13:55:00",
+              "14:25:00",
+              "14:55:00",
+              "15:25:00",
+              "15:55:00",
+              "16:25:00",
+              "16:55:00",
+              "17:25:00",
+              "17:55:00",
+              "18:25:00"
+            ]
+          }
+        }
+      }
+    },
+    "chancirc": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "62",
+      "lon": "-122.2517508",
+      "tag": "chancirc",
+      "title": "Channing Circle",
+      "lat": "37.8678967",
+      "scheduleRoutes": {
+        "revperi": {
+          "haas": {
+            "wkd": [
+              "07:27:00",
+              "07:57:00",
+              "08:27:00",
+              "08:57:00",
+              "09:27:00",
+              "09:57:00",
+              "10:27:00",
+              "10:57:00",
+              "11:27:00",
+              "11:57:00",
+              "12:27:00",
+              "12:57:00",
+              "13:27:00",
+              "13:57:00",
+              "14:27:00",
+              "14:57:00",
+              "15:27:00",
+              "15:57:00",
+              "16:27:00",
+              "16:57:00",
+              "17:27:00",
+              "17:57:00",
+              "18:27:00"
+            ]
+          }
+        }
+      }
+    },
+    "piedbanc": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "09",
+      "lon": "-122.252173",
+      "tag": "piedbanc",
+      "shortTitle": "International House: Piedmont @ Bancroft",
+      "title": "International House: Piedmont at Bancroft",
+      "lat": "37.869619",
+      "scheduleRoutes": {
+        "revperi": {
+          "haas": {
+            "wkd": [
+              "07:28:00",
+              "07:58:00",
+              "08:28:00",
+              "08:58:00",
+              "09:28:00",
+              "09:58:00",
+              "10:28:00",
+              "10:58:00",
+              "11:28:00",
+              "11:58:00",
+              "12:28:00",
+              "12:58:00",
+              "13:28:00",
+              "13:58:00",
+              "14:28:00",
+              "14:58:00",
+              "15:28:00",
+              "15:58:00",
+              "16:28:00",
+              "16:58:00",
+              "17:28:00",
+              "17:58:00",
+              "18:28:00"
+            ]
+          }
+        }
+      }
+    },
+    "haaspied": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "19",
+      "lon": "-122.2525979",
+      "tag": "haaspied",
+      "shortTitle": "Haas School of Business: Piedmont (Northbound)",
+      "title": "Haas School of Business: Piedmont Avenue (Northbound)",
+      "lat": "37.8710457",
+      "scheduleRoutes": {
+        "revperi": {
+          "bart": {
+            "wkd": [
+              "07:29:00",
+              "07:59:00",
+              "08:29:00",
+              "08:59:00",
+              "09:29:00",
+              "09:59:00",
+              "10:29:00",
+              "10:59:00",
+              "11:29:00",
+              "11:59:00",
+              "12:29:00",
+              "12:59:00",
+              "13:29:00",
+              "13:59:00",
+              "14:29:00",
+              "14:59:00",
+              "15:29:00",
+              "15:59:00",
+              "16:29:00",
+              "16:59:00",
+              "17:29:00",
+              "17:59:00",
+              "18:29:00"
+            ]
+          }
+        }
+      }
+    },
+    "evanhear": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "06",
+      "lon": "-122.257378",
+      "tag": "evanhear",
+      "title": "Evans Hall: Hearst Mining Circle",
+      "lat": "37.873397",
+      "scheduleRoutes": {
+        "revperi": {
+          "bart": {
+            "wkd": [
+              "07:32:00",
+              "08:02:00",
+              "08:32:00",
+              "09:02:00",
+              "09:32:00",
+              "10:02:00",
+              "10:32:00",
+              "11:02:00",
+              "11:32:00",
+              "12:02:00",
+              "12:32:00",
+              "13:02:00",
+              "13:32:00",
+              "14:02:00",
+              "14:32:00",
+              "15:02:00",
+              "15:32:00",
+              "16:02:00",
+              "16:32:00",
+              "17:02:00",
+              "17:32:00",
+              "18:02:00",
+              "18:32:00"
+            ]
+          }
+        }
+      }
+    },
+    "greegayl": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "54",
+      "lon": "-122.2555158",
+      "tag": "greegayl",
+      "shortTitle": "Greek Theatre: Gayley",
+      "title": "Greek Theatre: Gayley Rd",
+      "lat": "37.8740867",
+      "scheduleRoutes": {
+        "revperi": {
+          "bart": {
+            "wkd": [
+              "07:34:00",
+              "08:04:00",
+              "08:34:00",
+              "09:04:00",
+              "09:34:00",
+              "10:04:00",
+              "10:34:00",
+              "11:04:00",
+              "11:34:00",
+              "12:04:00",
+              "12:34:00",
+              "13:04:00",
+              "13:34:00",
+              "14:04:00",
+              "14:34:00",
+              "15:04:00",
+              "15:34:00",
+              "16:04:00",
+              "16:34:00",
+              "17:04:00",
+              "17:34:00",
+              "18:04:00",
+              "18:34:00"
+            ]
+          }
+        }
+      }
+    },
+    "coryhear": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "05",
+      "lon": "-122.2581221",
+      "tag": "coryhear",
+      "shortTitle": "Cory Hall: Hearst @ LeRoy",
+      "title": "Cory Hall: Hearst at LeRoy",
+      "lat": "37.875425",
+      "scheduleRoutes": {
+        "revperi": {
+          "bart": {
+            "wkd": [
+              "07:35:00",
+              "08:05:00",
+              "08:35:00",
+              "09:05:00",
+              "09:35:00",
+              "10:05:00",
+              "10:35:00",
+              "11:05:00",
+              "11:35:00",
+              "12:05:00",
+              "12:35:00",
+              "13:05:00",
+              "13:35:00",
+              "14:05:00",
+              "14:35:00",
+              "15:05:00",
+              "15:35:00",
+              "16:05:00",
+              "16:35:00",
+              "17:05:00",
+              "17:35:00",
+              "18:05:00",
+              "18:35:00"
+            ]
+          }
+        }
+      }
+    },
+    "heareucl": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "04",
+      "lon": "-122.2603869",
+      "tag": "heareucl",
+      "shortTitle": "North Gate: Hearst @ Euclid",
+      "title": "North Gate: Hearst at Euclid",
+      "lat": "37.875085",
+      "scheduleRoutes": {
+        "revperi": {
+          "bart": {
+            "wkd": [
+              "07:36:00",
+              "08:06:00",
+              "08:36:00",
+              "09:06:00",
+              "09:36:00",
+              "10:06:00",
+              "10:36:00",
+              "11:06:00",
+              "11:36:00",
+              "12:06:00",
+              "12:36:00",
+              "13:06:00",
+              "13:36:00",
+              "14:06:00",
+              "14:36:00",
+              "15:06:00",
+              "15:36:00",
+              "16:06:00",
+              "16:36:00",
+              "17:06:00",
+              "17:36:00",
+              "18:06:00",
+              "18:36:00"
+            ]
+          }
+        }
+      }
+    },
+    "heararch": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "03",
+      "lon": "-122.2637717",
+      "tag": "heararch",
+      "shortTitle": "Tolman Hall: Hearst @ Arch",
+      "title": "Tolman Hall: Hearst at Arch",
+      "lat": "37.874643",
+      "scheduleRoutes": {
+        "revperi": {
+          "bart": {
+            "wkd": [
+              "07:37:00",
+              "08:07:00",
+              "08:37:00",
+              "09:07:00",
+              "09:37:00",
+              "10:07:00",
+              "10:37:00",
+              "11:07:00",
+              "11:37:00",
+              "12:07:00",
+              "12:37:00",
+              "13:07:00",
+              "13:37:00",
+              "14:07:00",
+              "14:37:00",
+              "15:07:00",
+              "15:37:00",
+              "16:07:00",
+              "16:37:00",
+              "17:07:00",
+              "17:37:00",
+              "18:07:00",
+              "18:37:00"
+            ]
+          }
+        }
+      }
+    },
+    "hearstox": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "63",
+      "lon": "-122.2663789",
+      "tag": "hearstox",
+      "shortTitle": "Innovative Genomics Bldg: Hearst @ Oxford",
+      "title": "Innovative Genomics Bldg: Hearst Ave at Oxford St",
+      "lat": "37.8739994",
+      "scheduleRoutes": {
+        "revperi": {
+          "bart": {
+            "wkd": [
+              "07:39:00",
+              "08:09:00",
+              "08:39:00",
+              "09:09:00",
+              "09:39:00",
+              "10:09:00",
+              "10:39:00",
+              "11:09:00",
+              "11:39:00",
+              "12:09:00",
+              "12:39:00",
+              "13:09:00",
+              "13:39:00",
+              "14:09:00",
+              "14:39:00",
+              "15:09:00",
+              "15:39:00",
+              "16:09:00",
+              "16:39:00",
+              "17:09:00",
+              "17:39:00",
+              "18:09:00",
+              "18:39:00"
+            ]
+          }
+        }
+      }
+    },
+    "walnuniv": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "64",
+      "lon": "-122.2670118",
+      "tag": "walnuniv",
+      "shortTitle": "Walnut @ University",
+      "title": "Walnut St at University Ave",
+      "lat": "37.872402",
+      "scheduleRoutes": {
+        "revperi": {
+          "bart": {
+            "wkd": [
+              "07:41:00",
+              "08:11:00",
+              "08:41:00",
+              "09:11:00",
+              "09:41:00",
+              "10:11:00",
+              "10:41:00",
+              "11:11:00",
+              "11:41:00",
+              "12:11:00",
+              "12:41:00",
+              "13:11:00",
+              "13:41:00",
+              "14:11:00",
+              "14:41:00",
+              "15:11:00",
+              "15:41:00",
+              "16:11:00",
+              "16:41:00",
+              "17:11:00",
+              "17:41:00",
+              "18:11:00",
+              "18:41:00"
+            ]
+          }
+        }
+      }
+    },
+    "addishat": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "stopId": "01",
+      "lon": "-122.2683039",
+      "tag": "addishat",
+      "shortTitle": "Addison @ Shattuck",
+      "title": "Addison St at Shattuck Ave",
+      "lat": "37.8710485"
+    },
+    "shatalls_a": {
+      "routes": {
+        "revperi": {
+          "": true
+        }
+      },
+      "lon": "-122.268032",
+      "tag": "shatalls_a",
+      "shortTitle": "Downtown Berkeley BART: Shattuck @ Allston (Arrival)",
+      "title": "Downtown Berkeley BART: Shattuck at Allston (Arrival)",
+      "lat": "37.869622",
+      "scheduleRoutes": {
+        "revperi": {
+          "bart": {
+            "wkd": [
+              "07:43:00",
+              "08:13:00",
+              "08:43:00",
+              "09:13:00",
+              "09:43:00",
+              "10:13:00",
+              "10:43:00",
+              "11:13:00",
+              "11:43:00",
+              "12:13:00",
+              "12:43:00",
+              "13:13:00",
+              "13:43:00",
+              "14:13:00",
+              "14:43:00",
+              "15:13:00",
+              "15:43:00",
+              "16:13:00",
+              "16:43:00",
+              "17:13:00",
+              "17:43:00",
+              "18:13:00",
+              "18:43:00"
+            ]
+          }
+        }
+      }
     },
     "strawcany": {
       "routes": {
@@ -987,10 +1887,10 @@
           "": true
         }
       },
-      "lon": "-122.246373",
-      "title": "Strawberry Canyon",
       "stopId": "20",
+      "lon": "-122.246373",
       "tag": "strawcany",
+      "title": "Strawberry Canyon",
       "lat": "37.8725667"
     },
     "botagard": {
@@ -999,10 +1899,10 @@
           "": true
         }
       },
-      "lon": "-122.2386326",
-      "title": "UC Botanical Garden",
       "stopId": "22",
+      "lon": "-122.2386326",
       "tag": "botagard",
+      "title": "UC Botanical Garden",
       "lat": "37.8754"
     },
     "lawrhall": {
@@ -1011,10 +1911,10 @@
           "": true
         }
       },
-      "lon": "-122.2460716",
-      "title": "Lawrence Hall of Science",
       "stopId": "24",
+      "lon": "-122.2460716",
       "tag": "lawrhall",
+      "title": "Lawrence Hall of Science",
       "lat": "37.8799563",
       "scheduleRoutes": {
         "hill": {
@@ -1055,8 +1955,8 @@
         }
       },
       "lon": "-122.244451",
-      "title": "Space Sciences Lab / MSRI (Arrival)",
       "tag": "spacelab_a",
+      "title": "Space Sciences Lab / MSRI (Arrival)",
       "lat": "37.880937",
       "scheduleRoutes": {
         "hill": {
@@ -1096,10 +1996,10 @@
           "": true
         }
       },
-      "lon": "-122.244182",
-      "title": "Space Sciences Lab / MSRI",
       "stopId": "26",
+      "lon": "-122.244182",
       "tag": "spacelab_d",
+      "title": "Space Sciences Lab / MSRI",
       "lat": "37.8806749",
       "scheduleRoutes": {
         "hill": {
@@ -1139,10 +2039,10 @@
           "": true
         }
       },
-      "lon": "-122.2460961",
-      "title": "Lawrence Hall of Science",
       "stopId": "25",
+      "lon": "-122.2460961",
       "tag": "lawrhall_ib",
+      "title": "Lawrence Hall of Science",
       "lat": "37.8798432",
       "scheduleRoutes": {
         "hill": {
@@ -1182,10 +2082,10 @@
           "": true
         }
       },
-      "lon": "-122.2387108",
-      "title": "UC Botanical Garden",
       "stopId": "23",
+      "lon": "-122.2387108",
       "tag": "botagard_ib",
+      "title": "UC Botanical Garden",
       "lat": "37.8754044"
     },
     "strawcany_ib": {
@@ -1194,10 +2094,10 @@
           "": true
         }
       },
-      "lon": "-122.2464034",
-      "title": "Strawberry Canyon",
       "stopId": "21",
+      "lon": "-122.2464034",
       "tag": "strawcany_ib",
+      "title": "Strawberry Canyon",
       "lat": "37.8726368"
     },
     "evanhall_a": {
@@ -1207,8 +2107,8 @@
         }
       },
       "lon": "-122.257486",
-      "title": "Evans Hall: Hearst Mining Circle (Arrival)",
       "tag": "evanhall_a",
+      "title": "Evans Hall: Hearst Mining Circle (Arrival)",
       "lat": "37.873708",
       "scheduleRoutes": {
         "hill": {
@@ -1248,10 +2148,10 @@
           "": true
         }
       },
-      "lon": "-122.2598455",
-      "title": "Moffitt Library: University Drive",
       "stopId": "27",
+      "lon": "-122.2598455",
       "tag": "mofflibr",
+      "title": "Moffitt Library: University Drive",
       "lat": "37.8733606"
     },
     "westcirc": {
@@ -1260,10 +2160,10 @@
           "": true
         }
       },
-      "lon": "-122.263548",
-      "title": "West Circle: University Drive side",
       "stopId": "28",
+      "lon": "-122.263548",
       "tag": "westcirc",
+      "title": "West Circle: University Drive side",
       "lat": "37.8723217"
     },
     "likashin": {
@@ -1278,10 +2178,10 @@
           "": true
         }
       },
-      "lon": "-122.2651",
-      "title": "Li Ka Shing: West Crescent",
       "stopId": "30",
+      "lon": "-122.2651",
       "tag": "likashin",
+      "title": "Li Ka Shing: West Crescent",
       "lat": "37.871626",
       "scheduleRoutes": {
         "cent": {
@@ -1320,10 +2220,10 @@
           "": true
         }
       },
-      "lon": "-122.2993849",
-      "title": "El Cerrito Plaza BART",
       "stopId": "31",
+      "lon": "-122.2993849",
       "tag": "ecerbart_d",
+      "title": "El Cerrito Plaza BART",
       "lat": "37.903079",
       "scheduleRoutes": {
         "rfs": {
@@ -1341,10 +2241,10 @@
           "": true
         }
       },
-      "lon": "-122.3299119",
-      "title": "Richmond Field Station",
       "stopId": "32",
+      "lon": "-122.3299119",
       "tag": "richfsta",
+      "title": "Richmond Field Station",
       "lat": "37.9169939"
     },
     "regafacl_d": {
@@ -1353,10 +2253,10 @@
           "": true
         }
       },
-      "lon": "-122.338381",
-      "title": "Regatta Facility",
       "stopId": "33",
+      "lon": "-122.338381",
       "tag": "regafacl_d",
+      "title": "Regatta Facility",
       "lat": "37.9162929",
       "scheduleRoutes": {
         "rfs": {
@@ -1384,11 +2284,11 @@
           "": true
         }
       },
-      "lon": "-122.3010351",
-      "title": "Buchanan at Jackson",
-      "shortTitle": "Buchanan @ Jackson",
       "stopId": "39",
+      "lon": "-122.3010351",
       "tag": "buchjack",
+      "shortTitle": "Buchanan @ Jackson",
+      "title": "Buchanan at Jackson",
       "lat": "37.8875449"
     },
     "hopkmlk": {
@@ -1397,11 +2297,11 @@
           "": true
         }
       },
-      "lon": "-122.275047",
-      "title": "Hopkins at MLK Jr.",
-      "shortTitle": "Hopkins @ MLK Jr.",
       "stopId": "35",
+      "lon": "-122.275047",
       "tag": "hopkmlk",
+      "shortTitle": "Hopkins @ MLK Jr.",
+      "title": "Hopkins at MLK Jr.",
       "lat": "37.88543",
       "scheduleRoutes": {
         "rfs": {
@@ -1429,11 +2329,11 @@
           "": true
         }
       },
-      "lon": "-122.274836",
-      "title": "Hopkins at MLK Jr.",
-      "shortTitle": "Hopkins @ MLK Jr.",
       "stopId": "34",
+      "lon": "-122.274836",
       "tag": "hopkmlk_ib",
+      "shortTitle": "Hopkins @ MLK Jr.",
+      "title": "Hopkins at MLK Jr.",
       "lat": "37.88542",
       "scheduleRoutes": {
         "rfs": {
@@ -1460,11 +2360,11 @@
           "": true
         }
       },
-      "lon": "-122.3007819",
-      "title": "Buchanan at Jackson",
-      "shortTitle": "Buchanan @ Jackson",
       "stopId": "38",
+      "lon": "-122.3007819",
       "tag": "buchjack_ib",
+      "shortTitle": "Buchanan @ Jackson",
+      "title": "Buchanan at Jackson",
       "lat": "37.8877239"
     },
     "richfsta_ib": {
@@ -1473,10 +2373,10 @@
           "": true
         }
       },
-      "lon": "-122.3299115",
-      "title": "Richmond Field Station",
       "stopId": "32",
+      "lon": "-122.3299115",
       "tag": "richfsta_ib",
+      "title": "Richmond Field Station",
       "lat": "37.9169937"
     },
     "regafacl_a": {
@@ -1485,10 +2385,10 @@
           "": true
         }
       },
-      "lon": "-122.338584",
-      "title": "Regatta Facility (Arrival)",
       "stopId": "33",
+      "lon": "-122.338584",
       "tag": "regafacl_a",
+      "title": "Regatta Facility (Arrival)",
       "lat": "37.9163086",
       "scheduleRoutes": {
         "rfs": {
@@ -1518,10 +2418,10 @@
           "": true
         }
       },
-      "lon": "-122.2598536",
-      "title": "Moffit Library: Memorial Glade",
       "stopId": "27",
+      "lon": "-122.2598536",
       "tag": "mofflibr_d",
+      "title": "Moffit Library: Memorial Glade",
       "lat": "37.8733556",
       "scheduleRoutes": {
         "ntsafens": {
@@ -1678,10 +2578,10 @@
           "": true
         }
       },
-      "lon": "-122.2634181",
-      "title": "Life Science Addition: West Circle",
       "stopId": "29",
+      "lon": "-122.2634181",
       "tag": "lifescie",
+      "title": "Life Science Addition: West Circle",
       "lat": "37.8723741"
     },
     "univshack": {
@@ -1690,11 +2590,11 @@
           "": true
         }
       },
-      "lon": "-122.2683609",
-      "title": "University at Shattuck",
-      "shortTitle": "University @ Shattuck",
       "stopId": "56",
+      "lon": "-122.2683609",
       "tag": "univshack",
+      "shortTitle": "University @ Shattuck",
+      "title": "University at Shattuck",
       "lat": "37.8725519"
     },
     "shakhear": {
@@ -1704,9 +2604,9 @@
         }
       },
       "lon": "-122.2680325",
-      "title": "Shattuck at Hearst",
-      "shortTitle": "Shattuck @ Hearst",
       "tag": "shakhear",
+      "shortTitle": "Shattuck @ Hearst",
+      "title": "Shattuck at Hearst",
       "lat": "37.8739189"
     },
     "footstud": {
@@ -1718,10 +2618,10 @@
           "": true
         }
       },
-      "lon": "-122.256164",
-      "title": "Foothill Student Housing: Hearst side",
       "stopId": "55",
+      "lon": "-122.256164",
       "tag": "footstud",
+      "title": "Foothill Student Housing: Hearst side",
       "lat": "37.875592",
       "scheduleRoutes": {
         "ntsafens": {
@@ -1789,11 +2689,11 @@
           "": true
         }
       },
-      "lon": "-122.256083",
-      "title": "Highland Place at Ridge Road",
-      "shortTitle": "Highland Place @ Ridge",
       "stopId": "58",
+      "lon": "-122.256083",
       "tag": "highridg",
+      "shortTitle": "Highland Place @ Ridge",
+      "title": "Highland Place at Ridge Road",
       "lat": "37.8766429"
     },
     "eastgate": {
@@ -1802,11 +2702,11 @@
           "": true
         }
       },
-      "lon": "-122.2551876",
-      "title": "East Gate: Gayley at University Drive",
-      "shortTitle": "East Gate: Gayley @ University Drive",
       "stopId": "57",
+      "lon": "-122.2551876",
       "tag": "eastgate",
+      "shortTitle": "East Gate: Gayley @ University Drive",
+      "title": "East Gate: Gayley at University Drive",
       "lat": "37.8734932"
     },
     "bowlhall": {
@@ -1815,10 +2715,10 @@
           "": true
         }
       },
-      "lon": "-122.2539348",
-      "title": "Bowles Hall: Gayley",
       "stopId": "07",
+      "lon": "-122.2539348",
       "tag": "bowlhall",
+      "title": "Bowles Hall: Gayley",
       "lat": "37.8726373"
     },
     "banckitt": {
@@ -1827,11 +2727,11 @@
           "": true
         }
       },
-      "lon": "-122.2677479",
-      "title": "Bancroft at Kittredge",
-      "shortTitle": "Bancroft @ Kittredge",
       "stopId": "17",
+      "lon": "-122.2677479",
       "tag": "banckitt",
+      "shortTitle": "Bancroft @ Kittredge",
+      "title": "Bancroft at Kittredge",
       "lat": "37.8683927"
     },
     "berkbart_ib": {
@@ -1840,11 +2740,11 @@
           "": true
         }
       },
-      "lon": "-122.26765",
-      "title": "Downtown Berkeley BART: Shattuck at Addison",
-      "shortTitle": "Downtown Berkeley BART: Shattuck @ Addison",
       "stopId": "01",
+      "lon": "-122.26765",
       "tag": "berkbart_ib",
+      "shortTitle": "Downtown Berkeley BART: Shattuck @ Addison",
+      "title": "Downtown Berkeley BART: Shattuck at Addison",
       "lat": "37.8710398",
       "scheduleRoutes": {
         "ntsafens": {
@@ -1909,10 +2809,10 @@
           "": true
         }
       },
-      "lon": "-122.2649295",
-      "title": "Li Ka Shing: West Crescent side",
       "stopId": "30",
+      "lon": "-122.2649295",
       "tag": "lkshincr",
+      "title": "Li Ka Shing: West Crescent side",
       "lat": "37.8716156"
     },
     "lifescie_ib": {
@@ -1921,10 +2821,10 @@
           "": true
         }
       },
-      "lon": "-122.2634018",
-      "title": "Life Science Addition: West Circle",
       "stopId": "28",
+      "lon": "-122.2634018",
       "tag": "lifescie_ib",
+      "title": "Life Science Addition: West Circle",
       "lat": "37.8720893"
     },
     "shatalls": {
@@ -1933,11 +2833,11 @@
           "": true
         }
       },
-      "lon": "-122.268087",
-      "title": "Shattuck at Allston",
-      "shortTitle": "Shattuck @ Allston",
       "stopId": "40",
+      "lon": "-122.268087",
       "tag": "shatalls",
+      "shortTitle": "Shattuck @ Allston",
+      "title": "Shattuck at Allston",
       "lat": "37.8695128"
     },
     "shatdura": {
@@ -1946,11 +2846,11 @@
           "": true
         }
       },
-      "lon": "-122.2678079",
-      "title": "Shattuck at Durant",
-      "shortTitle": "Shattuck @ Durant",
       "stopId": "59",
+      "lon": "-122.2678079",
       "tag": "shatdura",
+      "shortTitle": "Shattuck @ Durant",
+      "title": "Shattuck at Durant",
       "lat": "37.8664669"
     },
     "dwigfult": {
@@ -1959,11 +2859,11 @@
           "": true
         }
       },
-      "lon": "-122.2650127",
-      "title": "Dwight at Fulton",
-      "shortTitle": "Dwight @ Fulton",
       "stopId": "43",
+      "lon": "-122.2650127",
       "tag": "dwigfult",
+      "shortTitle": "Dwight @ Fulton",
+      "title": "Dwight at Fulton",
       "lat": "37.864257"
     },
     "ellsstru": {
@@ -1972,10 +2872,10 @@
           "": true
         }
       },
-      "lon": "-122.2631961",
-      "title": "Ellsworth Structure: Channing side",
       "stopId": "44",
+      "lon": "-122.2631961",
       "tag": "ellsstru",
+      "title": "Ellsworth Structure: Channing side",
       "lat": "37.8663247"
     },
     "chantele": {
@@ -1984,11 +2884,11 @@
           "": true
         }
       },
-      "lon": "-122.2593681",
-      "title": "Residence Hall Unit 3 Channing at Telegraph",
-      "shortTitle": "Residence Hall Unit 3 Channing @ Telegraph",
       "stopId": "45",
+      "lon": "-122.2593681",
       "tag": "chantele",
+      "shortTitle": "Residence Hall Unit 3 Channing @ Telegraph",
+      "title": "Residence Hall Unit 3 Channing at Telegraph",
       "lat": "37.8668229",
       "scheduleRoutes": {
         "ntsafess": {
@@ -2088,11 +2988,11 @@
           "": true
         }
       },
-      "lon": "-122.2568019",
-      "title": "Channing at Bowditch",
-      "shortTitle": "Channing @ Bowditch",
       "stopId": "42",
+      "lon": "-122.2568019",
       "tag": "chanbowd",
+      "shortTitle": "Channing @ Bowditch",
+      "title": "Channing at Bowditch",
       "lat": "37.867139"
     },
     "chancoll": {
@@ -2101,11 +3001,11 @@
           "": true
         }
       },
-      "lon": "-122.2544629",
-      "title": "Residence Hall Unit 1 Channing at College",
-      "shortTitle": "Residence Hall Unit 1 Channing @ College",
       "stopId": "46",
+      "lon": "-122.2544629",
       "tag": "chancoll",
+      "shortTitle": "Residence Hall Unit 1 Channing @ College",
+      "title": "Residence Hall Unit 1 Channing at College",
       "lat": "37.8674359"
     },
     "collhast": {
@@ -2114,11 +3014,11 @@
           "": true
         }
       },
-      "lon": "-122.2541418",
-      "title": "College at Haste",
-      "shortTitle": "College @ Haste",
       "stopId": "11",
+      "lon": "-122.2541418",
       "tag": "collhast",
+      "shortTitle": "College @ Haste",
+      "title": "College at Haste",
       "lat": "37.8667183"
     },
     "warrpied": {
@@ -2127,11 +3027,11 @@
           "": true
         }
       },
-      "lon": "-122.2517514",
-      "title": "Warring at Piedmont",
-      "shortTitle": "Warring @ Piedmont",
       "stopId": "48",
+      "lon": "-122.2517514",
       "tag": "warrpied",
+      "shortTitle": "Warring @ Piedmont",
+      "title": "Warring at Piedmont",
       "lat": "37.865838"
     },
     "clarkerr": {
@@ -2140,11 +3040,11 @@
           "": true
         }
       },
-      "lon": "-122.2494337",
-      "title": "Clark Kerr Campus: Warring at Horseshoe",
-      "shortTitle": "Clark Kerr Campus: Warring @ Horseshoe",
       "stopId": "49",
+      "lon": "-122.2494337",
       "tag": "clarkerr",
+      "shortTitle": "Clark Kerr Campus: Warring @ Horseshoe",
+      "title": "Clark Kerr Campus: Warring at Horseshoe",
       "lat": "37.8640961",
       "scheduleRoutes": {
         "ntsafess": {
@@ -2244,11 +3144,11 @@
           "": true
         }
       },
-      "lon": "-122.2507528",
-      "title": "Warring at Channing",
-      "shortTitle": "Warring @ Channing",
       "stopId": "50",
+      "lon": "-122.2507528",
       "tag": "warrchan",
+      "shortTitle": "Warring @ Channing",
+      "title": "Warring at Channing",
       "lat": "37.8679182"
     },
     "warrbanc": {
@@ -2257,11 +3157,11 @@
           "": true
         }
       },
-      "lon": "-122.2508792",
-      "title": "Warring at Bancroft",
-      "shortTitle": "Warring @ Bancroft",
       "stopId": "51",
+      "lon": "-122.2508792",
       "tag": "warrbanc",
+      "shortTitle": "Warring @ Bancroft",
+      "title": "Warring at Bancroft",
       "lat": "37.8693241"
     },
     "haasbusn": {
@@ -2270,10 +3170,10 @@
           "": true
         }
       },
-      "lon": "-122.252696",
-      "title": "Haas School of Business: Piedmont side (north)",
       "stopId": "53",
+      "lon": "-122.252696",
       "tag": "haasbusn",
+      "title": "Haas School of Business: Piedmont side (north)",
       "lat": "37.871463",
       "scheduleRoutes": {
         "ntsafess": {
@@ -2373,11 +3273,11 @@
           "": true
         }
       },
-      "lon": "-122.2556711",
-      "title": "Greek Theater: Gayley at University Drive",
-      "shortTitle": "Greek Theater: Gayley @ University Drive",
       "stopId": "54",
+      "lon": "-122.2556711",
       "tag": "greethea",
+      "shortTitle": "Greek Theater: Gayley @ University Drive",
+      "title": "Greek Theater: Gayley at University Drive",
       "lat": "37.8742981"
     },
     "nberbart_d": {
@@ -2386,10 +3286,10 @@
           "": true
         }
       },
-      "lon": "-122.283011",
-      "title": "North Berkeley BART",
       "stopId": "19",
+      "lon": "-122.283011",
       "tag": "nberbart_d",
+      "title": "North Berkeley BART",
       "lat": "37.874063",
       "scheduleRoutes": {
         "shrdserv": {
@@ -2421,10 +3321,10 @@
           "": true
         }
       },
-      "lon": "-122.3017959",
-      "title": "CSS",
       "stopId": "18",
+      "lon": "-122.3017959",
       "tag": "css_d",
+      "title": "CSS",
       "lat": "37.8734372",
       "scheduleRoutes": {
         "shrdserv": {

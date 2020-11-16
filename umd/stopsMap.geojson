@@ -19,6 +19,231 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Mitchell Building (Outbound)",
+        "tag": "mitc_out",
+        "stopId": "30487"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9401999,
+          38.9866486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Memorial Chapel (Outbound)",
+        "tag": "memo_out",
+        "stopId": "30043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94015,
+          38.9848194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Montgomery Hall (Outbound)",
+        "tag": "mont_out",
+        "stopId": "30456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9391532,
+          38.982431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "College Ave & Princeton Ave (Outbound)",
+        "tag": "collprin_ob",
+        "stopId": "55022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9348583,
+          38.981409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "College Ave & Hopkins Ave (Outbound)",
+        "tag": "collhopk_ob",
+        "stopId": "55023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9333999,
+          38.9810859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "College Ave & Rhode Island Ave (Outbound)",
+        "tag": "collrhod_ob",
+        "stopId": "55024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9320052,
+          38.980787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rhode Island Ave & Knox Rd (Outbound)",
+        "tag": "rhodknox_ob",
+        "stopId": "55025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9323208,
+          38.9796872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "College Park Metro - UMD at Calvert Rd",
+        "tag": "cpmcalv",
+        "stopId": "55020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.928889,
+          38.978616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rhode Island Ave & Knox Rd (Inbound)",
+        "tag": "rhodknox_ib",
+        "stopId": "55028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9321993,
+          38.9796419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "College Ave & Rhode Island Ave (Inbound)",
+        "tag": "collrhod_ib",
+        "stopId": "34873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.931803,
+          38.9807097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "College Ave & Hopkins Ave (Inbound)",
+        "tag": "collhopk_ib",
+        "stopId": "55029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9332012,
+          38.9811078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "College Ave & Princeton Ave (Inbound)",
+        "tag": "collprin_ib",
+        "stopId": "55030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93469,
+          38.9814577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Montgomery Hall (Inbound)",
+        "tag": "mont_in",
+        "stopId": "30473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9391266,
+          38.9824952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Memorial Chapel (Inbound)",
+        "tag": "memo_in",
+        "stopId": "30027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9400699,
+          38.9845395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mitchell Building (Inbound)",
+        "tag": "mitc_in",
+        "stopId": "30494"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9401199,
+          38.9863651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Campus Dr at Math Slip",
         "tag": "campmath",
         "stopId": "36112"
@@ -26,68 +251,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9386053,
-          38.9878609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Campus Drive and Diamondback Drive",
-        "tag": "paingree",
-        "stopId": "30561"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.934037,
-          38.9879877
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Campus Drive and Rhode Island Avenue (Outbound)",
-        "tag": "painrhod",
-        "stopId": "34991"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9313264,
-          38.9836051
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "College Park - UMD Metro Station",
-        "tag": "cpmetro_d",
-        "stopId": "36469"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9279988,
-          38.9755375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Campus Drive and Rhode Island Avenue (Inbound)",
-        "tag": "painrhod_in",
-        "stopId": "30585"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.930958,
-          38.9835717
+          -76.9386061,
+          38.9878607
         ]
       }
     },
@@ -101,8 +266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9372499,
-          38.9899498
+          -76.9372497,
+          38.9899492
         ]
       }
     },
@@ -199,60 +364,15 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Montgomery Hall (Inbound)",
-        "tag": "mont_in",
-        "stopId": "30473"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9391275,
-          38.9824955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Memorial Chapel (Inbound)",
-        "tag": "memo_in",
-        "stopId": "30027"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.94007,
-          38.9845403
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Mitchell Building (Inbound)",
-        "tag": "mitc_in",
-        "stopId": "30494"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9401199,
-          38.9863659
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Regents Dr and Stadium Dr",
         "tag": "regestad",
-        "stopId": "30397"
+        "stopId": "55021"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9406498,
-          38.990012
+          -76.9406512,
+          38.9903808
         ]
       }
     },
@@ -904,6 +1024,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "College Park - UMD Metro Station",
+        "tag": "cpmetro_d",
+        "stopId": "36469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9279988,
+          38.9755375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "River Road and Rivertech Court",
         "tag": "acphys",
         "stopId": "31564"
@@ -1024,51 +1159,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Seven Springs Apts at 9348 Cherry Hill Rd",
-        "tag": "cher9348",
-        "stopId": "27800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9393952,
-          39.016946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Seven Springs Apts at 9310 Cherry Hill Rd",
-        "tag": "ssvill",
-        "stopId": "27420"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9394283,
-          39.0159991
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Seven Springs Apts at 9308 Cherry Hill Rd",
-        "tag": "cher9308",
-        "stopId": "27816"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9376829,
-          39.0178782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Stamp Student Union - Slip",
         "tag": "stamsuhh_d",
         "stopId": "10002"
@@ -1151,8 +1241,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.98621,
-          38.9880237
+          -76.9846503,
+          38.9871351
         ]
       }
     },
@@ -1376,8 +1466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.029742,
-          38.993673
+          -77.0297307,
+          38.9935916
         ]
       }
     },
@@ -1391,8 +1481,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0245902,
-          38.9952298
+          -77.0245897,
+          38.9952301
         ]
       }
     },
@@ -1406,23 +1496,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0177496,
-          38.9992414
+          -77.0177489,
+          38.9992415
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Wayne Ave and Manchester Place (Inbound)",
+        "title": "Wayne Ave and Manchester Place",
         "tag": "waynslig_in",
         "stopId": "55011"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0077193,
-          39.0016406
+          -77.0077189,
+          39.001641
         ]
       }
     },
@@ -1436,8 +1526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0046644,
-          39.001575
+          -77.0046641,
+          39.0015745
         ]
       }
     },
@@ -1693,6 +1783,21 @@
         "coordinates": [
           -76.9454061,
           38.9906015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Stadium Drive at Atlantic Building",
+        "tag": "stadatl",
+        "stopId": "55005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9421163,
+          38.9905599
         ]
       }
     },
@@ -2278,66 +2383,6 @@
         "coordinates": [
           -76.9454355,
           38.9906039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Stadium Drive at Atlantic Building",
-        "tag": "stadatl",
-        "stopId": "55005"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9421162,
-          38.9905589
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Mitchell Building (Outbound)",
-        "tag": "mitc_out",
-        "stopId": "30487"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9401999,
-          38.9866498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Memorial Chapel (Outbound)",
-        "tag": "memo_out",
-        "stopId": "30043"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.94015,
-          38.9848206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Montgomery Hall (Outbound)",
-        "tag": "mont_out",
-        "stopId": "30456"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9391529,
-          38.9824312
         ]
       }
     },
@@ -2974,21 +3019,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Yale Avenue and Knox Road",
-        "tag": "yaleknox_ib",
-        "stopId": "50012"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9368328,
-          38.9806721
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "College Park Shopping Center (Inbound)",
         "tag": "collpksh_ib",
         "stopId": "50014"
@@ -3088,21 +3118,6 @@
         "coordinates": [
           -76.9465401,
           38.9869691
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "The Universities at Shady Grove",
-        "tag": "univshad",
-        "stopId": "34777"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.2018299,
-          39.0934528
         ]
       }
     },
@@ -3371,8 +3386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.872531,
-          38.950275
+          -76.8727761,
+          38.9505221
         ]
       }
     },
@@ -3387,7 +3402,7 @@
         "type": "Point",
         "coordinates": [
           -76.86878,
-          38.9538912
+          38.9538914
         ]
       }
     },
@@ -3402,7 +3417,7 @@
         "type": "Point",
         "coordinates": [
           -76.8682799,
-          38.9560194
+          38.9560197
         ]
       }
     },
@@ -3417,7 +3432,7 @@
         "type": "Point",
         "coordinates": [
           -76.8697998,
-          38.9595984
+          38.9595987
         ]
       }
     },
@@ -3432,7 +3447,7 @@
         "type": "Point",
         "coordinates": [
           -76.86988,
-          38.9607897
+          38.9607899
         ]
       }
     },
@@ -3446,8 +3461,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8702329,
-          38.9623382
+          -76.870233,
+          38.9623384
         ]
       }
     },
@@ -3461,8 +3476,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8715631,
-          38.9642507
+          -76.8715633,
+          38.9642509
         ]
       }
     },
@@ -3476,8 +3491,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8730066,
-          38.9655375
+          -76.8730069,
+          38.9655377
         ]
       }
     },
@@ -3491,7 +3506,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8802797,
+          -76.88028,
           38.9658
         ]
       }
@@ -3506,8 +3521,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8798726,
-          38.9678768
+          -76.8798725,
+          38.9678771
         ]
       }
     },
@@ -3521,8 +3536,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8801133,
-          38.9693724
+          -76.8801134,
+          38.9693726
         ]
       }
     },
@@ -3536,8 +3551,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8807906,
-          38.9718528
+          -76.8807907,
+          38.9718531
         ]
       }
     },
@@ -3551,8 +3566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8821712,
-          38.9746629
+          -76.8821713,
+          38.9746631
         ]
       }
     },
@@ -3566,8 +3581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8838799,
-          38.97497
+          -76.8838803,
+          38.9749699
         ]
       }
     },
@@ -3581,8 +3596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8864035,
-          38.9746889
+          -76.8864038,
+          38.9746888
         ]
       }
     },
@@ -3596,8 +3611,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8912732,
-          38.9725315
+          -76.8912735,
+          38.9725314
         ]
       }
     },
@@ -3611,8 +3626,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.893795,
-          38.9714872
+          -76.8937951,
+          38.971487
         ]
       }
     },
@@ -3626,8 +3641,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8948129,
-          38.9691259
+          -76.894813,
+          38.9691257
         ]
       }
     },
@@ -3641,8 +3656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8960399,
-          38.96631
+          -76.8960401,
+          38.9663097
         ]
       }
     },
@@ -3656,8 +3671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8966299,
-          38.9650301
+          -76.89663,
+          38.96503
         ]
       }
     },
@@ -3814,21 +3829,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Campus Dr at Math Slip",
-        "tag": "campmath_m",
-        "stopId": "36112"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9386064,
-          38.9878607
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Baltimore Avenue and Berwyn House Road",
         "tag": "baltmacd",
         "stopId": "27301"
@@ -3836,8 +3836,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9331919,
-          38.9923857
+          -76.9331916,
+          38.9923862
         ]
       }
     },
@@ -3851,23 +3851,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9322248,
-          38.9946079
+          -76.9322249,
+          38.9946078
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Baltimore Avenue and Tecumseh Street",
-        "tag": "balttecu",
-        "stopId": "55001"
+        "title": "Baltimore Ave and Berwyn Rd (Outbound)",
+        "tag": "baltberw_out",
+        "stopId": "30351"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9315668,
-          38.9974284
+          -76.9316599,
+          38.9967
         ]
       }
     },
@@ -3897,7 +3897,7 @@
         "type": "Point",
         "coordinates": [
           -76.9244429,
-          39.0023911
+          39.0023912
         ]
       }
     },
@@ -3956,7 +3956,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9214156,
+          -76.9214157,
           39.0161019
         ]
       }
@@ -3971,7 +3971,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.924355,
+          -76.9243551,
           39.0160649
         ]
       }
@@ -3986,68 +3986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9300394,
-          39.0111215
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore Ave and Berwyn Rd (Inbound)",
-        "tag": "baltberw_s",
-        "stopId": "30352"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.931829,
-          38.996407
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore Ave and Quebec St (Inbound)",
-        "tag": "baltqueb_in",
-        "stopId": "27006"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.932356,
-          38.9946243
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore Ave at The Varsity",
-        "tag": "varsfron",
-        "stopId": "29789"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9340076,
-          38.9908311
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Denton Hall",
-        "tag": "dent_e",
-        "stopId": "36424"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.9500943,
-          38.9919412
+          -76.93004,
+          39.01112
         ]
       }
     },
@@ -4063,6 +4003,36 @@
         "coordinates": [
           -76.93182,
           38.99782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Baltimore Ave and Berwyn Rd (Inbound)",
+        "tag": "baltberw_s",
+        "stopId": "30352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.931829,
+          38.9964072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Baltimore Ave and Quebec St (Inbound)",
+        "tag": "baltqueb_in",
+        "stopId": "27006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.932356,
+          38.9946244
         ]
       }
     },
@@ -4234,51 +4204,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Glenn L. Martin Wind Tunnel",
-        "tag": "painglen_ob",
-        "stopId": "30500"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.93725,
-          38.98995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Baltimore St & Paca St",
-        "tag": "baltpaca",
-        "stopId": "47038"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.6223289,
-          39.2897837
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Glenn L. Martin Wind Tunnel",
-        "tag": "painglen_ib",
-        "stopId": "30500"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.93725,
-          38.98995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "West Diamond Ave Park & Ride Lot",
         "tag": "wdiapknr_d",
         "stopId": "34778"
@@ -4303,6 +4228,21 @@
         "coordinates": [
           -76.8494732,
           39.174232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Denton Hall",
+        "tag": "dent_e",
+        "stopId": "36424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9500943,
+          38.9919412
         ]
       }
     },
@@ -5023,36 +4963,6 @@
         "coordinates": [
           -76.9254433,
           38.9982133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "The Enclave",
-        "tag": "enclave",
-        "stopId": "37121"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.93182,
-          38.99782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Bowie State University",
-        "tag": "bowiuniv",
-        "stopId": "50062"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.7613399,
-          39.0176137
         ]
       }
     }

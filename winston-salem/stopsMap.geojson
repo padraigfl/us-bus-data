@@ -116,7 +116,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2420999,
+          -80.2421,
           36.1303499
         ]
       }
@@ -551,8 +551,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.22785,
-          36.0908299
+          -80.2278499,
+          36.09083
         ]
       }
     },
@@ -1017,7 +1017,7 @@
         "type": "Point",
         "coordinates": [
           -80.2432,
-          36.13904
+          36.1390399
         ]
       }
     },
@@ -1062,7 +1062,7 @@
         "type": "Point",
         "coordinates": [
           -80.24205,
-          36.13437
+          36.1343699
         ]
       }
     },
@@ -1077,7 +1077,7 @@
         "type": "Point",
         "coordinates": [
           -80.24321,
-          36.13906
+          36.1390599
         ]
       }
     },
@@ -1121,7 +1121,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2737099,
+          -80.27371,
           36.0903499
         ]
       }
@@ -1242,7 +1242,7 @@
         "type": "Point",
         "coordinates": [
           -80.24176,
-          36.11108
+          36.1110799
         ]
       }
     },
@@ -1257,7 +1257,7 @@
         "type": "Point",
         "coordinates": [
           -80.2418,
-          36.11338
+          36.1133799
         ]
       }
     },
@@ -1301,7 +1301,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2420299,
+          -80.24203,
           36.1221899
         ]
       }
@@ -1317,7 +1317,7 @@
         "type": "Point",
         "coordinates": [
           -80.24188,
-          36.12474
+          36.1247399
         ]
       }
     },
@@ -1676,7 +1676,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2420899,
+          -80.24209,
           36.1285399
         ]
       }
@@ -1692,7 +1692,7 @@
         "type": "Point",
         "coordinates": [
           -80.24187,
-          36.12198
+          36.1219799
         ]
       }
     },
@@ -1706,8 +1706,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2419999,
-          36.11821
+          -80.242,
+          36.1182099
         ]
       }
     },
@@ -1722,7 +1722,7 @@
         "type": "Point",
         "coordinates": [
           -80.24175,
-          36.10624
+          36.1062399
         ]
       }
     },
@@ -1931,7 +1931,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2333899,
+          -80.23339,
           36.1020099
         ]
       }
@@ -1961,8 +1961,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2827699,
-          36.09114
+          -80.28277,
+          36.0911399
         ]
       }
     },
@@ -1976,8 +1976,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2846599,
-          36.09027
+          -80.28466,
+          36.0902699
         ]
       }
     },
@@ -2036,8 +2036,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.27531,
-          36.0667799
+          -80.2753099,
+          36.06678
         ]
       }
     },
@@ -2218,6 +2218,21 @@
         "coordinates": [
           -80.21729,
           36.0836699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main Street & Acadia",
+        "tag": "11797",
+        "stopId": "11797"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2394399,
+          36.0719499
         ]
       }
     },
@@ -2441,8 +2456,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2031199,
-          36.06918
+          -80.20312,
+          36.0691799
         ]
       }
     },
@@ -2471,8 +2486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2139799,
-          36.0688
+          -80.21398,
+          36.0687999
         ]
       }
     },
@@ -2696,8 +2711,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2982699,
-          36.08078
+          -80.29827,
+          36.0807799
         ]
       }
     },
@@ -2862,7 +2877,7 @@
         "type": "Point",
         "coordinates": [
           -80.24769,
-          36.15433
+          36.1543299
         ]
       }
     },
@@ -2966,7 +2981,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2420499,
+          -80.24205,
           36.1249799
         ]
       }
@@ -4039,6 +4054,51 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Old Salem Avenue & Academy Street",
+        "tag": "13034",
+        "stopId": "13034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24375,
+          36.08703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main Street & Gloria Avenue",
+        "tag": "13040",
+        "stopId": "13040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23997,
+          36.07495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main Street & Cascade Avenue",
+        "tag": "13049",
+        "stopId": "13049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23979,
+          36.07397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Main Street & Anderson Drive",
         "tag": "13050",
         "stopId": "13050"
@@ -4099,6 +4159,66 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Main Street & Cascade Street",
+        "tag": "13121",
+        "stopId": "13121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23961,
+          36.07374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Salem Avenue & Walnut Street",
+        "tag": "13128",
+        "stopId": "13128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24248,
+          36.0840599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Old Salem Avenue & Academy Street",
+        "tag": "13129",
+        "stopId": "13129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24359,
+          36.0877699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main Street & Cemetery Street",
+        "tag": "13130",
+        "stopId": "13130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24283,
+          36.0921299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Robinhood Road & Reynolda Road",
         "tag": "13155",
         "stopId": "13155"
@@ -4153,6 +4273,21 @@
         "coordinates": [
           -80.27688,
           36.0652699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ebert Street & Oakgrove Drive",
+        "tag": "13193",
+        "stopId": "13193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27667,
+          36.06648
         ]
       }
     },
@@ -4721,7 +4856,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2517899,
+          -80.25179,
           36.1574599
         ]
       }
@@ -4736,7 +4871,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2609399,
+          -80.26094,
           36.1678099
         ]
       }
@@ -4872,7 +5007,7 @@
         "type": "Point",
         "coordinates": [
           -80.24194,
-          36.1108
+          36.1107999
         ]
       }
     },
@@ -5104,6 +5239,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Miller Street At Forsyth Tech",
+        "tag": "14134",
+        "stopId": "14134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27352,
+          36.0701899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Cloverdale Avenue & Ardmore Terrace",
         "tag": "16590",
         "stopId": "16590"
@@ -5141,8 +5291,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2711299,
-          36.08854
+          -80.27113,
+          36.0885399
         ]
       }
     },
@@ -5426,8 +5576,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2419499,
-          36.11339
+          -80.24195,
+          36.1133899
         ]
       }
     },
@@ -6281,7 +6431,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.26775,
+          -80.2677499,
           36.0699399
         ]
       }
@@ -6371,8 +6521,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2392599,
-          36.10508
+          -80.23926,
+          36.1050799
         ]
       }
     },
@@ -6402,7 +6552,7 @@
         "type": "Point",
         "coordinates": [
           -80.24437,
-          36.15026
+          36.1502599
         ]
       }
     },
@@ -6416,7 +6566,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2476499,
+          -80.24765,
           36.1539999
         ]
       }
@@ -6477,7 +6627,7 @@
         "type": "Point",
         "coordinates": [
           -80.27496,
-          36.18525
+          36.1852499
         ]
       }
     },
@@ -6506,8 +6656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2519499,
-          36.0661
+          -80.25195,
+          36.0660999
         ]
       }
     },
@@ -6522,7 +6672,7 @@
         "type": "Point",
         "coordinates": [
           -80.27331,
-          36.18209
+          36.1820899
         ]
       }
     },
@@ -6596,7 +6746,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2608499,
+          -80.26085,
           36.1674199
         ]
       }
@@ -7961,8 +8111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.27548,
-          36.18561
+          -80.2754799,
+          36.1856099
         ]
       }
     },
@@ -8157,7 +8307,7 @@
         "type": "Point",
         "coordinates": [
           -80.27624,
-          36.18742
+          36.1874199
         ]
       }
     },
@@ -8442,7 +8592,7 @@
         "type": "Point",
         "coordinates": [
           -80.24263,
-          36.13612
+          36.1361199
         ]
       }
     },
@@ -8719,6 +8869,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Rams Drive & East Salem Stadium Drive",
+        "tag": "47410",
+        "stopId": "47410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23719,
+          36.0896499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Main Street",
         "tag": "47412",
         "stopId": "47412"
@@ -8743,6 +8908,66 @@
         "coordinates": [
           -80.25478,
           36.0661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Silas Creek Parkway & Buchanan Street",
+        "tag": "47414",
+        "stopId": "47414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.25193,
+          36.0657699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main Street & Arcadia Drive",
+        "tag": "47415",
+        "stopId": "47415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23922,
+          36.07166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main Street & Gloria Avenue",
+        "tag": "47417",
+        "stopId": "47417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23979,
+          36.0747399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rams Drive & Salem Stadium Drive",
+        "tag": "47419",
+        "stopId": "47419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23719,
+          36.0894299
         ]
       }
     },
@@ -8861,7 +9086,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2389,
+          -80.2388999,
           36.0686799
         ]
       }
@@ -9702,7 +9927,7 @@
         "type": "Point",
         "coordinates": [
           -80.24082,
-          36.08176
+          36.0817599
         ]
       }
     },
@@ -11779,6 +12004,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Main Street & Sprague Street",
+        "tag": "47681",
+        "stopId": "47681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23905,
+          36.06969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Salisbury Ridge & Dinmont Street",
         "tag": "47682",
         "stopId": "47682"
@@ -12267,7 +12507,7 @@
         "type": "Point",
         "coordinates": [
           -80.24411,
-          36.15021
+          36.1502099
         ]
       }
     },
@@ -12281,7 +12521,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2390299,
+          -80.23903,
           36.1054199
         ]
       }
@@ -12296,7 +12536,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2416399,
+          -80.24164,
           36.1063699
         ]
       }
@@ -12341,8 +12581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2333099,
-          36.10428
+          -80.23331,
+          36.1042799
         ]
       }
     },
@@ -12401,8 +12641,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.29373,
-          36.0843699
+          -80.2937299,
+          36.08437
         ]
       }
     },
@@ -12477,7 +12717,7 @@
         "type": "Point",
         "coordinates": [
           -80.24192,
-          36.12836
+          36.1283599
         ]
       }
     },
@@ -12829,6 +13069,66 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Rams Drive & Design Drive",
+        "tag": "47784",
+        "stopId": "47784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2347199,
+          36.08992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main Street & Giannini Drive",
+        "tag": "47785",
+        "stopId": "47785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2408799,
+          36.07981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Main Street & Waughtown Street",
+        "tag": "47786",
+        "stopId": "47786"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2406,
+          36.0797899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rams Drive & Design Drive",
+        "tag": "47787",
+        "stopId": "47787"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23467,
+          36.0897599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Clemmonsville Road & Konnoak Drive",
         "tag": "47788",
         "stopId": "47788"
@@ -13099,6 +13399,21 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Main Street & Waughtown Street",
+        "tag": "47823",
+        "stopId": "47823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24109,
+          36.0816299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Hanes Mill Road At Hanes Mill Court",
         "tag": "47825",
         "stopId": "47825"
@@ -13212,7 +13527,7 @@
         "type": "Point",
         "coordinates": [
           -80.24214,
-          36.13521
+          36.1352099
         ]
       }
     },
@@ -13391,8 +13706,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.2743299,
-          36.18284
+          -80.27433,
+          36.1828399
         ]
       }
     },
@@ -13676,8 +13991,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.28943,
-          36.0871699
+          -80.2894299,
+          36.08717
         ]
       }
     },
@@ -13736,7 +14051,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.29984,
+          -80.2998399,
           36.0760499
         ]
       }
@@ -13939,6 +14254,126 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Cemetery Street & Church Street",
+        "tag": "47907",
+        "stopId": "47907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24202,
+          36.0924799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Miller Street &  Silas Creek Parkway",
+        "tag": "47910",
+        "stopId": "47910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27348,
+          36.07287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Miller Street & Elgin Street",
+        "tag": "47912",
+        "stopId": "47912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27345,
+          36.0776799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Miller Street & Hawthorne Road",
+        "tag": "47913",
+        "stopId": "47913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27328,
+          36.0806199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Miller Street & Rosewood Avenue",
+        "tag": "47914",
+        "stopId": "47914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27346,
+          36.08478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Miller Street At Whole Foods Grocery Store",
+        "tag": "47915",
+        "stopId": "47915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2743399,
+          36.0940999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cemetery Street & Church Street",
+        "tag": "47916",
+        "stopId": "47916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24223,
+          36.0922899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hanes Mall & Silas Crossing",
+        "tag": "47917",
+        "stopId": "47917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29689,
+          36.0709199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Hanes Mall At Silas Creek Parkway Crossing",
         "tag": "47918",
         "stopId": "47918"
@@ -14008,6 +14443,36 @@
         "coordinates": [
           -80.27811,
           36.1175099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union Station",
+        "tag": "47685_ar",
+        "stopId": "47685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22798,
+          36.0940599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hanes Mall",
+        "tag": "10231_ar",
+        "stopId": "10231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29975,
+          36.0692599
         ]
       }
     },
@@ -14113,21 +14578,6 @@
         "coordinates": [
           -80.25846,
           36.1251599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Hanes Mall",
-        "tag": "10231_ar",
-        "stopId": "10231"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.29975,
-          36.0692599
         ]
       }
     },

@@ -1,5 +1,95 @@
 {
   "data": {
+    "wilshire": {
+      "title": "U2 Wilshire",
+      "color": "cd8500",
+      "tag": "wilshire",
+      "shortTitle": "U2",
+      "oppositeColor": "000000",
+      "max": [
+        34.0737226,
+        -118.4380649
+      ],
+      "min": [
+        34.05744,
+        -118.445231
+      ],
+      "stops": {
+        "Loop": [
+          "wilscent",
+          "westlind_o",
+          "steiplaz",
+          "botany",
+          "parkstru2",
+          "murhall_n",
+          "wytnnort",
+          "hilgwest",
+          "conttive",
+          "westlind"
+        ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "wilscent",
+          "wytnnort",
+          "wilscent_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "07:00:00",
+            "last": "18:30:00"
+          }
+        }
+      }
+    },
+    "u3": {
+      "title": "U3 Gateway",
+      "color": "9932cd",
+      "tag": "u3",
+      "shortTitle": "U3",
+      "oppositeColor": "ffffff",
+      "max": [
+        34.069323,
+        -118.4451489
+      ],
+      "min": [
+        34.0594587,
+        -118.44995
+      ],
+      "stops": {
+        "South": [
+          "gateway_d",
+          "medplaz_s"
+        ],
+        "North": [
+          "weybterr",
+          "lot36",
+          "steiplaz"
+        ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "weybterr",
+          "gateway_a"
+        ],
+        "outbound": [
+          "gateway_d"
+        ]
+      },
+      "scheduledTimeRange": {
+        "north": {
+          "wkd": {
+            "first": "08:30:00",
+            "last": "18:09:00"
+          }
+        },
+        "south": {
+          "wkd": {}
+        }
+      }
+    },
     "ua": {
       "title": "U4 Univ Apts",
       "color": "009900",
@@ -8,69 +98,76 @@
       "oppositeColor": "ffffff",
       "max": [
         34.073714,
-        -118.405382
+        -118.4021499
       ],
       "min": [
         34.0079731,
-        -118.445217
+        -118.4452459
       ],
       "stops": {
         "Campus": [
+          "wytnnort",
+          "clarington",
           "keystn",
           "venbarry",
           "westlind_o"
         ],
         "Apartments": [
-          "npi_n",
+          "steinplaz",
           "botany",
           "structure2_n",
-          "murhall_n",
-          "wytnnort"
+          "murhall_n"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "npi_n",
+          "steinplaz",
           "botany",
           "structure2_n",
-          "murhall_n",
-          "wytnnort"
+          "murhall_n"
         ],
         "outbound": [
+          "clarington",
           "keystn",
           "venbarry",
-          "westlind_o"
+          "westlind_o",
+          "wytnnort"
         ]
       },
       "scheduledTimeRange": {
         "apt": {
           "wkd": {
-            "first": "08:30:00",
-            "last": "17:10:00"
+            "first": "07:29:00",
+            "last": "22:00:00"
           }
         },
         "cam": {
           "wkd": {
-            "first": "08:00:00",
-            "last": "17:45:00"
+            "first": "07:00:00",
+            "last": "22:25:00"
           }
         }
       }
     },
-    "u901": {
-      "title": "U901",
-      "color": "ff9933",
-      "tag": "u901",
+    "u5": {
+      "title": "U5 Evening Loop",
+      "color": "668b8b",
+      "tag": "u5",
+      "shortTitle": "U5",
       "oppositeColor": "000000",
       "max": [
-        34.0737138,
-        -118.4381609
+        34.0737521,
+        -118.438205
       ],
       "min": [
-        34.057448,
-        -118.4498739
+        34.0574397,
+        -118.4499497
       ],
       "stops": {
+        "Northbound": [
+          "wilscent",
+          "lindhamm"
+        ],
         "Southbound": [
           "wytnsout",
           "murhall_s",
@@ -79,21 +176,11 @@
           "gateway",
           "medplaz_s",
           "weybterr_d"
-        ],
-        "Northbound": [
-          "wilscent",
-          "lindhamm",
-          "steinplaz",
-          "botan",
-          "park2",
-          "murphhal",
-          "wytnnort"
         ]
       },
       "scheduledStops": {
         "inbound": [
-          "wilscent",
-          "wytnnort"
+          "wilscent"
         ],
         "outbound": [
           "wytnsout",
@@ -103,15 +190,55 @@
       },
       "scheduledTimeRange": {
         "N": {
-          "wkd": {
-            "first": "07:00:00",
-            "last": "19:00:00"
-          }
+          "wkd": {}
         },
         "S": {
           "wkd": {
-            "first": "07:00:00",
-            "last": "19:12:00"
+            "first": "19:09:00",
+            "last": "20:11:00"
+          }
+        }
+      }
+    },
+    "saferide": {
+      "title": "SafeRide",
+      "color": "00ddb1",
+      "tag": "saferide",
+      "oppositeColor": "000000",
+      "max": [
+        34.076252,
+        -118.4383041
+      ],
+      "min": [
+        34.0670819,
+        -118.45304
+      ],
+      "stops": {
+        "Loop": [
+          "macgowen",
+          "wytnsout",
+          "murhall_s",
+          "molsci_s",
+          "gonda_s",
+          "gateway",
+          "sproul",
+          "rieber",
+          "hedrick"
+        ]
+      },
+      "scheduledStops": {
+        "inbound": [
+          "macgowen",
+          "gateway",
+          "hedrick",
+          "macgowen_a"
+        ]
+      },
+      "scheduledTimeRange": {
+        "loop": {
+          "wkd": {
+            "first": "19:00:00",
+            "last": "22:30:00"
           }
         }
       }
